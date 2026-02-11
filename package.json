@@ -1,0 +1,17 @@
+{
+  "name": "russell-briefing",
+  "version": "1.0.0",
+  "description": "Daily international news briefing for Russell — all bullets, ready by 6am ET",
+  "main": "generate-briefing.js",
+  "scripts": {
+    "generate": "node generate-briefing.js",
+    "write": "node write-briefing.js",
+    "briefing": "node generate-briefing.js && node write-briefing.js"
+  },
+  "dependencies": {
+    "playwright": "^1.40.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

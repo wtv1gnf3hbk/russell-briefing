@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Russell's World Briefing</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: Georgia, 'Times New Roman', serif;
+      line-height: 1.7;
+      max-width: 680px;
+      margin: 0 auto;
+      padding: 32px 16px;
+      background: #fafafa;
+      color: #1a1a1a;
+    }
+    .header {
+      margin-bottom: 24px;
+      padding-bottom: 16px;
+      border-bottom: 1px solid #e0e0e0;
+    }
+    .title {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      font-size: 1.5rem;
+      font-weight: 700;
+      margin-bottom: 8px;
+    }
+    .timestamp {
+      font-size: 0.85rem;
+      color: #666;
+    }
+    .refresh-link {
+      color: #666;
+      text-decoration: underline;
+      cursor: pointer;
+    }
+    h1, h2, strong {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    }
+    p { margin-bottom: 16px; }
+    ul { margin: 12px 0 20px 0; padding-left: 0; list-style: none; }
+    li { margin-bottom: 10px; padding-left: 16px; position: relative; }
+    li::before { content: "\2022"; position: absolute; left: 0; color: #999; }
+    a {
+      color: #1a1a1a;
+      text-decoration: underline;
+      text-decoration-color: #999;
+      text-underline-offset: 2px;
+    }
+    a:hover { text-decoration-color: #333; }
+    strong { font-weight: 600; }
+    .section-header { margin-top: 24px; margin-bottom: 12px; }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <div class="title">Russell's World Briefing</div>
+    <div class="timestamp">
+      Generated Tuesday, February 10, 2026 at 7:00 PM EST
+      &middot; <a class="refresh-link" onclick="refreshBriefing()">Refresh</a>
+    </div>
+  </div>
+
+  <script>
+    const WORKER_URL = 'https://russell-briefing-refresh.adampasick.workers.dev';
+
+    async function refreshBriefing() {
+      const link = event.target;
+      const originalText = link.textContent;
+
+      try {
+        link.textContent = 'Triggering...';
+        const triggerRes = await fetch(WORKER_URL + "/trigger", { method: "POST" });
+        if (!triggerRes.ok) throw new Error('Failed to trigger');
+
+        link.textContent = 'Starting...';
+        await new Promise(r => setTimeout(r, 3000));
+
+        link.textContent = 'Finding run...';
+        const runsRes = await fetch(WORKER_URL + "/runs");
+        const runsData = await runsRes.json();
+        if (!runsData.workflow_runs || !runsData.workflow_runs.length) throw new Error('No runs found');
+
+        const runId = runsData.workflow_runs[0].id;
+        const runUrl = runsData.workflow_runs[0].html_url;
+
+        let attempts = 0;
+        while (attempts < 60) {
+          const statusRes = await fetch(WORKER_URL + "/status/" + runId);
+          const statusData = await statusRes.json();
+
+          if (statusData.status === 'completed') {
+            if (statusData.conclusion === 'success') {
+              link.textContent = 'Done! Reloading...';
+              await new Promise(r => setTimeout(r, 5000));
+              location.reload(true);
+              return;
+            } else {
+              link.innerHTML = 'Failed (<a href="' + runUrl + '" target="_blank">logs</a>)';
+              return;
+            }
+          }
+
+          link.textContent = 'Running... ' + (attempts * 5) + 's';
+          await new Promise(r => setTimeout(r, 5000));
+          attempts++;
+        }
+
+        link.innerHTML = 'Timeout (<a href="' + runUrl + '" target="_blank">check</a>)';
+      } catch (error) {
+        console.error('Refresh error:', error);
+        link.textContent = 'Error';
+        setTimeout(function() { link.textContent = originalText; }, 3000);
+      }
+    }
+  </script>
+
+  <div id="content">
+<p class="section-header"><strong>Top Stories</strong></p>
+
+<ul><li>Russian forces are <a href="https://www.nytimes.com/2026/02/10/world/europe/russia-ukraine-battlefield-huliaipole-pokrovsk.html" target="_blank">nearing capture</a> of key Ukrainian towns in the south and east after a year of grinding assaults, according to the New York Times, potentially giving Moscow leverage in upcoming U.S.-mediated peace talks.</li>
+</ul>
+<ul><li>Trump's threats to impose sanctions on Cuba's oil suppliers have put Mexico in a <a href="https://www.nytimes.com/2026/02/10/world/americas/mexico-cuba-oil.html" target="_blank">precarious position</a>, forcing President Claudia Sheinbaum into a delicate balancing act between its longstanding alliance with Havana and pressure from Washington.</li>
+</ul>
+<ul><li>The New York Times reveals how British politician Peter Mandelson <a href="https://www.nytimes.com/2026/02/10/world/europe/ties-peter-mandelson-jeffrey-epstein.html" target="_blank">concealed the</a> depth of his friendship with convicted sex offender Jeffrey Epstein for years until new files were released.</li>
+</ul>
+<ul><li>Israeli President Isaac Herzog's visit to Australia <a href="https://www.nytimes.com/2026/02/10/world/australia/australia-herzog-protest-violence.html" target="_blank">created widespread</a> rallies and tested the country's restrictions on protests that were installed after a deadly attack on a Jewish celebration.</li>
+</ul>
+<ul><li>Trump has <a href="https://www.nytimes.com/2026/02/10/world/canada/trump-carney-gordie-howe-bridge-detroit.html" target="_blank">threatened to</a> block the opening of a new U.S.-Canada bridge, marking the latest challenge for the long-delayed Gordie Howe International Bridge project connecting Detroit and Windsor.</li>
+</ul>
+<ul><li>Olympic officials <a href="https://www.nytimes.com/2026/02/10/world/europe/ukraine-winter-olympics-skeleton-helmet-war.html" target="_blank">banned a</a> Ukrainian skeleton athlete's helmet honoring war dead, prompting the athlete to say he would risk disqualification to wear it despite IOC rules against political speech.</li>
+</ul>
+<p class="section-header"><strong>Conflicts & Diplomacy</strong></p>
+
+<ul><li>Hamas would <a href="https://www.nytimes.com/2026/02/10/world/middleeast/hamas-weapons-draft-plan.html" target="_blank">keep some</a> weapons initially under a draft Gaza plan, Reuters reports, with Israel unlikely to withdraw troops before militant groups lay down their arms.</li>
+</ul>
+<ul><li>Mexico's defense secretary says about 137,000 rounds of ammunition <a href="https://www.nytimes.com/2026/02/10/world/americas/mexico-cartel-ammunition-us-army.html" target="_blank">seized from</a> cartels since 2012 have been traced to U.S. sources, with 47 percent coming from an Army plant in Kansas City, Missouri.</li>
+</ul>
+<ul><li>Russian attacks have <a href="https://www.nytimes.com/2026/02/10/world/europe/ukraine-war-russia-power-cold.html" target="_blank">knocked out</a> heating across Ukraine, forcing Kyiv residents to find creative ways to stay warm during a harsh winter, including sleeping in tents on their beds.</li>
+</ul>
+<p class="section-header"><strong>Business & Markets</strong></p>
+
+<ul><li>Chinese AI startup DeepSeek's new model <a href="https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main" target="_blank">triggered a</a> broad selloff in U.S. AI stocks, with Nvidia falling 16 percent as investors questioned American companies' dominance in artificial intelligence.</li>
+</ul>
+<ul><li>Arabica coffee prices <a href="https://www.wsj.com/articles/arabica-coffee-prices-hit-new-high-on-u-s-colombia-tariff-spat-582446fe?mod=rss_markets_main" target="_blank">hit record</a> levels following the U.S.-Colombia tariff dispute, according to the Wall Street Journal, before Trump withdrew his threats against the South American nation.</li>
+</ul>
+<ul><li>Safe-haven currencies including the Swiss franc and Japanese yen <a href="https://www.wsj.com/articles/safe-haven-currencies-strengthen-amid-fears-over-global-tariffs-9964e17a?mod=rss_markets_main" target="_blank">gained strength</a> as the DeepSeek news spooked investors and drove them away from riskier assets.</li>
+</ul>
+<p class="section-header"><strong>Also Notable</strong></p>
+
+<ul><li>A shift in Chinese consumer preferences has <a href="https://www.nytimes.com/2026/02/10/world/asia/durian-malaysia-china-demand.html" target="_blank">thrown Malaysian</a> durian farmers into turmoil after a decade of immense profits as Beijing's demand for the pungent fruit changes.</li>
+</ul>
+<ul><li>Italy's top sports journalists are <a href="https://www.nytimes.com/2026/02/10/world/europe/olympics-italy-rai-broadcaster-gaffe-strike.html" target="_blank">planning to</a> strike over anchor Paolo Petrecca's numerous gaffes while commentating on the Olympics opening ceremonies for the country's public broadcaster.</li></ul>
+  </div>
+</body>
+</html>

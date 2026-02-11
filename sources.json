@@ -1,0 +1,135 @@
+{
+  "metadata": {
+    "name": "Russell's World Briefing",
+    "owner": "Russell Goldman",
+    "timezone": "America/New_York",
+    "description": "Daily international news briefing — all bullets, ready by 6am ET"
+  },
+  "sources": [
+    { "_comment": "=== PRIMARY RSS FEEDS (Russell's priority sources) ===" },
+    {
+      "id": "nyt_world",
+      "name": "New York Times",
+      "type": "rss",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "priority": "primary",
+      "category": "general"
+    },
+    {
+      "id": "ap_world",
+      "name": "AP",
+      "type": "rss",
+      "url": "https://news.google.com/rss/search?q=when:24h+allinurl:apnews.com&ceid=US:en&hl=en-US&gl=US",
+      "priority": "primary",
+      "category": "wire"
+    },
+    {
+      "id": "reuters_world",
+      "name": "Reuters",
+      "type": "rss",
+      "url": "https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com&ceid=US:en&hl=en-US&gl=US",
+      "priority": "primary",
+      "category": "wire"
+    },
+    {
+      "id": "bbc_world",
+      "name": "BBC",
+      "type": "rss",
+      "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "priority": "primary",
+      "category": "general"
+    },
+    {
+      "id": "wsj_world",
+      "name": "Wall Street Journal",
+      "type": "rss",
+      "url": "https://feeds.a.dj.com/rss/RSSWorldNews.xml",
+      "priority": "primary",
+      "category": "general"
+    },
+    {
+      "id": "ft_home",
+      "name": "Financial Times",
+      "type": "rss",
+      "url": "https://www.ft.com/rss/home/international",
+      "priority": "primary",
+      "category": "business"
+    },
+    {
+      "id": "guardian_world",
+      "name": "Guardian",
+      "type": "rss",
+      "url": "https://www.theguardian.com/world/rss",
+      "priority": "primary",
+      "category": "general"
+    },
+
+    { "_comment": "=== SECONDARY RSS (wider net) ===" },
+    {
+      "id": "wsj_markets",
+      "name": "WSJ Markets",
+      "type": "rss",
+      "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+      "priority": "secondary",
+      "category": "business"
+    },
+    {
+      "id": "aljazeera",
+      "name": "Al Jazeera",
+      "type": "rss",
+      "url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "priority": "secondary",
+      "category": "general"
+    },
+    {
+      "id": "france24",
+      "name": "France24",
+      "type": "rss",
+      "url": "https://www.france24.com/en/rss",
+      "priority": "secondary",
+      "category": "wire"
+    },
+
+    { "_comment": "=== SCREENSHOTS (editorial priority detection only — not displayed in output) ===" },
+    {
+      "id": "nyt_homepage",
+      "name": "NYT Homepage",
+      "type": "screenshot",
+      "url": "https://www.nytimes.com",
+      "priority": "primary",
+      "category": "priority_signal"
+    },
+    {
+      "id": "bbc_homepage",
+      "name": "BBC Homepage",
+      "type": "screenshot",
+      "url": "https://www.bbc.com/news",
+      "priority": "primary",
+      "category": "priority_signal"
+    },
+    {
+      "id": "wsj_homepage",
+      "name": "WSJ Homepage",
+      "type": "screenshot",
+      "url": "https://www.wsj.com",
+      "priority": "secondary",
+      "category": "priority_signal"
+    },
+    {
+      "id": "guardian_homepage",
+      "name": "Guardian Homepage",
+      "type": "screenshot",
+      "url": "https://www.theguardian.com/international",
+      "priority": "secondary",
+      "category": "priority_signal"
+    },
+    {
+      "id": "ft_homepage",
+      "name": "FT Homepage",
+      "type": "screenshot",
+      "url": "https://www.ft.com",
+      "priority": "secondary",
+      "category": "priority_signal"
+    }
+  ]
+}
