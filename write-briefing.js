@@ -298,9 +298,9 @@ function buildPrompt(briefing) {
     }
   }
 
-  const systemPrompt = `You are writing a morning news briefing for ${ownerName}, a New York Times journalist who covers international news.
+  const systemPrompt = `You are writing a morning news briefing for ${ownerName}, a journalist who covers international news.
 
-Your job is to synthesize scraped headlines from major outlets into a concise, all-bullets briefing of the day's top international stories.
+Your job is to synthesize scraped headlines from major outlets into a concise, all-bullets briefing of the day's top international stories. Prioritize global (non-U.S.) coverage from AP, Reuters, BBC, WSJ, FT, and the Guardian.
 
 CRITICAL RULES:
 1. NEVER use the word "amid" — find a better way to connect ideas.
@@ -317,9 +317,22 @@ CRITICAL RULES:
 8. International stories lead. US domestic politics is secondary unless it has global implications.
 9. Vary attribution: "Reuters reports", "according to the BBC", "the Guardian notes", "per the FT" (use each pattern at most twice).
 10. Keep it tight — Russell reads this on his phone at 6am.
-11. Use standard markdown: "- " for bullets (not "•"), "**text**" for bold, "[text](url)" for links.`;
+11. Use standard markdown: "- " for bullets (not "•"), "**text**" for bold, "[text](url)" for links.
+12. The briefing MUST begin with the line: "Good morning, Russell! Here's what happened while you were sleeping." (on its own line, before the first section header). This is NOT a bullet point — just a plain text greeting.`;
 
-  const userPrompt = `Good morning. Here are the scraped headlines and homepage data for today's briefing.
+  // Check if sleep filter data exists (from --cutoff run)
+  const sleepFilter = briefing.sleepFilter || null;
+  let sleepInstructions = '';
+  if (sleepFilter) {
+    sleepInstructions = `\n\nSLEEP FILTER ACTIVE (cutoff: ${sleepFilter.cutoffLocal}):
+Stories have a "sleepStatus" field:
+- "new" = published after Russell went to sleep, genuinely new (PRIORITIZE these)
+- "flagged" = published after sleep but may rehash earlier coverage (use editorial judgment)
+- "pre-sleep" = published before sleep (context only, lower priority)
+Focus on "new" stories. Include "flagged" stories only if they represent genuine developments.`;
+  }
+
+  const userPrompt = `Good morning. Here are the scraped headlines and homepage data for today's briefing.${sleepInstructions}
 
 Write an ALL-BULLETS briefing using ONLY these sections:
 
@@ -338,10 +351,10 @@ Do NOT write any prose paragraphs. Only section headers and bullet points.
 HOMEPAGE HEADLINES (editorial priority signals — use these to judge what outlets are leading with):
 ${headlineSignals || '(No homepage headlines extracted this run)'}
 
-PRIMARY STORIES (from Russell's priority sources: NYT, AP, Reuters, BBC, WSJ, FT, Guardian):
+PRIMARY STORIES (from Russell's priority sources: AP, Reuters, BBC, WSJ, FT, Guardian):
 ${JSON.stringify(primaryStories, null, 2)}
 
-SECONDARY STORIES (wider net: Al Jazeera, France24, WSJ Markets):
+SECONDARY STORIES (wider net: NYT, Al Jazeera, France24, WSJ Markets):
 ${JSON.stringify(secondaryStories, null, 2)}
 
 Write the briefing now.`;

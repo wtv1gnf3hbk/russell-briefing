@@ -8,14 +8,6 @@
   "sources": [
     { "_comment": "=== PRIMARY RSS FEEDS (Russell's priority sources) ===" },
     {
-      "id": "nyt_world",
-      "name": "New York Times",
-      "type": "rss",
-      "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "priority": "primary",
-      "category": "general"
-    },
-    {
       "id": "ap_world",
       "name": "AP",
       "type": "rss",
@@ -66,6 +58,14 @@
 
     { "_comment": "=== SECONDARY RSS (wider net) ===" },
     {
+      "id": "nyt_world",
+      "name": "New York Times",
+      "type": "rss",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "priority": "secondary",
+      "category": "general"
+    },
+    {
       "id": "wsj_markets",
       "name": "WSJ Markets",
       "type": "rss",
@@ -92,10 +92,18 @@
 
     { "_comment": "=== SCREENSHOTS (editorial priority detection only — not displayed in output) ===" },
     {
-      "id": "nyt_homepage",
-      "name": "NYT Homepage",
+      "id": "ap_homepage",
+      "name": "AP Homepage",
       "type": "screenshot",
-      "url": "https://www.nytimes.com",
+      "url": "https://apnews.com",
+      "priority": "primary",
+      "category": "priority_signal"
+    },
+    {
+      "id": "reuters_homepage",
+      "name": "Reuters Homepage",
+      "type": "screenshot",
+      "url": "https://www.reuters.com",
       "priority": "primary",
       "category": "priority_signal"
     },
@@ -112,7 +120,7 @@
       "name": "WSJ Homepage",
       "type": "screenshot",
       "url": "https://www.wsj.com",
-      "priority": "secondary",
+      "priority": "primary",
       "category": "priority_signal"
     },
     {
@@ -120,7 +128,7 @@
       "name": "Guardian Homepage",
       "type": "screenshot",
       "url": "https://www.theguardian.com/international",
-      "priority": "secondary",
+      "priority": "primary",
       "category": "priority_signal"
     },
     {
@@ -128,7 +136,7 @@
       "name": "FT Homepage",
       "type": "screenshot",
       "url": "https://www.ft.com",
-      "priority": "secondary",
+      "priority": "primary",
       "category": "priority_signal"
     }
   ]

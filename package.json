@@ -6,10 +6,12 @@
   "scripts": {
     "generate": "node generate-briefing.js",
     "write": "node write-briefing.js",
-    "briefing": "node generate-briefing.js && node write-briefing.js"
+    "briefing": "node generate-briefing.js && node write-briefing.js",
+    "filter": "node sleeping-filter.js"
   },
   "dependencies": {
-    "playwright": "^1.40.0"
+    "playwright": "^1.40.0",
+    "xml2js": "^0.6.2"
   },
   "engines": {
     "node": ">=18"

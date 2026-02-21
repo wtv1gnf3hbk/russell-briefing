@@ -18,6 +18,7 @@ const https = require('https');
 const http = require('http');
 const fs = require('fs');
 const path = require('path');
+const { extractEntities, scoreOverlap, FLAG_THRESHOLD } = require('./entity-matcher');
 
 // ============================================
 // CONFIGURATION
@@ -411,11 +412,150 @@ async function scrapeAll(config) {
 }
 
 // ============================================
+// SLEEPING FILTER (--cutoff integration)
+// ============================================
+
+/**
+ * Parses --cutoff argument from command line.
+ * Returns null if not provided, or a Date object if valid.
+ */
+function parseCutoffArg() {
+  const idx = process.argv.indexOf('--cutoff');
+  if (idx === -1 || !process.argv[idx + 1]) return null;
+
+  const cutoffStr = process.argv[idx + 1];
+
+  // Try ISO datetime first
+  if (cutoffStr.includes('T') || cutoffStr.includes('-')) {
+    const d = new Date(cutoffStr);
+    if (!isNaN(d.getTime())) return d;
+  }
+
+  // Parse "10 PM", "10:30 PM", "22:00" etc.
+  let hours, minutes;
+
+  const ampmMatch = cutoffStr.match(/^(\d{1,2})(?::(\d{2}))?\s*(AM|PM)$/i);
+  if (ampmMatch) {
+    hours = parseInt(ampmMatch[1], 10);
+    minutes = parseInt(ampmMatch[2] || '0', 10);
+    const isPM = ampmMatch[3].toUpperCase() === 'PM';
+    if (isPM && hours !== 12) hours += 12;
+    if (!isPM && hours === 12) hours = 0;
+  } else {
+    const militaryMatch = cutoffStr.match(/^(\d{1,2}):(\d{2})$/);
+    if (militaryMatch) {
+      hours = parseInt(militaryMatch[1], 10);
+      minutes = parseInt(militaryMatch[2], 10);
+    } else {
+      console.error(`Cannot parse cutoff time: "${cutoffStr}". Use "22:00" or "10 PM".`);
+      return null;
+    }
+  }
+
+  const now = new Date();
+  const cutoffDate = new Date(
+    now.getFullYear(), now.getMonth(), now.getDate(),
+    hours, minutes, 0
+  );
+
+  // If the cutoff is in the future, user means yesterday evening
+  if (cutoffDate > now) {
+    cutoffDate.setDate(cutoffDate.getDate() - 1);
+  }
+
+  return cutoffDate;
+}
+
+/**
+ * Runs the sleeping filter on already-scraped stories.
+ * Tags each story with sleepStatus and returns summary stats.
+ *
+ * Uses the same entity-matching logic as sleeping-filter.js
+ * but operates on the generate-briefing.js story format
+ * (headline/date string fields instead of title/pubDate Date objects).
+ */
+function applySleepFilter(allStories, cutoff) {
+  const beforeSleep = [];
+  const afterSleep = [];
+
+  for (const story of allStories) {
+    const storyDate = story.date ? new Date(story.date) : null;
+    if (!storyDate || isNaN(storyDate.getTime())) {
+      // No valid date — treat as after-sleep (include it)
+      story.sleepStatus = 'new';
+      afterSleep.push(story);
+      continue;
+    }
+
+    if (storyDate <= cutoff) {
+      story.sleepStatus = 'pre-sleep';
+      beforeSleep.push(story);
+    } else {
+      afterSleep.push(story);
+    }
+  }
+
+  // Extract entities for all stories
+  for (const story of [...beforeSleep, ...afterSleep]) {
+    story._entities = extractEntities(story.headline);
+  }
+
+  // Compare each after-sleep story against before-sleep stories
+  const flaggedPairs = [];
+
+  for (const afterStory of afterSleep) {
+    let bestMatch = null;
+    let bestScore = 0;
+    let bestDetails = [];
+
+    for (const beforeStory of beforeSleep) {
+      const { score, matchDetails } = scoreOverlap(
+        afterStory._entities,
+        beforeStory._entities
+      );
+      if (score > bestScore) {
+        bestScore = score;
+        bestMatch = beforeStory;
+        bestDetails = matchDetails;
+      }
+    }
+
+    if (bestScore >= FLAG_THRESHOLD && bestMatch) {
+      afterStory.sleepStatus = 'flagged';
+      afterStory.sleepOverlap = {
+        score: bestScore,
+        matchDetails: bestDetails,
+        matchedHeadline: bestMatch.headline,
+        matchedSource: bestMatch.source
+      };
+      flaggedPairs.push(afterStory);
+    } else {
+      afterStory.sleepStatus = 'new';
+    }
+  }
+
+  // Clean up temp entities
+  for (const story of allStories) {
+    delete story._entities;
+  }
+
+  return {
+    cutoff: cutoff.toISOString(),
+    cutoffLocal: cutoff.toLocaleString(),
+    beforeSleepCount: beforeSleep.length,
+    afterSleepCount: afterSleep.length,
+    flaggedCount: flaggedPairs.length,
+    newCount: afterSleep.length - flaggedPairs.length
+  };
+}
+
+// ============================================
 // MAIN
 // ============================================
 
 async function main() {
   const config = loadConfig();
+  const cutoff = parseCutoffArg();
 
   console.log('='.repeat(50));
   console.log(`${config.metadata?.name || 'News Briefing'}`);
@@ -427,6 +567,16 @@ async function main() {
   const startTime = Date.now();
   const results = await scrapeAll(config);
   const elapsed = ((Date.now() - startTime) / 1000).toFixed(1);
+
+  // Run sleeping filter if --cutoff was provided
+  let sleepFilter = null;
+  if (cutoff) {
+    console.log(`\nApplying sleep filter (cutoff: ${cutoff.toLocaleString()})...`);
+    sleepFilter = applySleepFilter(results.allStories, cutoff);
+    console.log(`  Before sleep: ${sleepFilter.beforeSleepCount}`);
+    console.log(`  After sleep (new): ${sleepFilter.newCount}`);
+    console.log(`  After sleep (flagged): ${sleepFilter.flaggedCount}`);
+  }
 
   // Build output JSON
   const briefing = {
@@ -448,6 +598,7 @@ async function main() {
       byPriority: results.byPriority
     },
     screenshots: results.screenshots,
+    sleepFilter: sleepFilter,
     feedHealth: { failed: results.failed }
   };
 
