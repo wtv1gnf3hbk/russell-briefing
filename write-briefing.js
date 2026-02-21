@@ -441,7 +441,7 @@ async function main() {
   // ---- Step 2: Editor pass (Haiku) ----
   // Catches grammar bugs the Writer misses: missing articles,
   // 's contractions, "amid", tacked-on analysis, etc.
-  console.log('Running editor pass (Haiku)...');
+  console.log('Running editor pass...');
   const editorStart = Date.now();
 
   let editedText;
