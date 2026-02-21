@@ -33,12 +33,12 @@ if (!ANTHROPIC_API_KEY) {
 // CLAUDE API CALL
 // ============================================
 
-function callClaude(prompt, systemPrompt = '') {
+function callClaude(prompt, systemPrompt = '', model = 'claude-sonnet-4-20250514') {
   return new Promise((resolve, reject) => {
     const messages = [{ role: 'user', content: prompt }];
 
     const body = JSON.stringify({
-      model: 'claude-sonnet-4-20250514',
+      model: model,
       max_tokens: 2500,
       system: systemPrompt,
       messages
@@ -377,9 +377,8 @@ Write the briefing now.`;
 // Uses Haiku — cheap and fast, grammar doesn't need Sonnet.
 // ============================================
 
-function callClaudeEditor(draft) {
-  return new Promise((resolve, reject) => {
-    const systemPrompt = `You are a copy editor. Your ONLY job is to fix grammar and style errors in the news briefing below. You must return the COMPLETE corrected briefing — every bullet, every link, every section header.
+// Editor system prompt — focused copy-edit, not a full rewrite
+const EDITOR_SYSTEM_PROMPT = `You are a copy editor. Your ONLY job is to fix grammar and style errors in the news briefing below. You must return the COMPLETE corrected briefing — every bullet, every link, every section header.
 
 FIX these issues:
 1. Missing articles ("a", "an", "the") — e.g. "creating murky outlook" → "creating a murky outlook"
@@ -397,50 +396,10 @@ DO NOT:
 - Rewrite sentences that are already correct
 - Add commentary or notes — return ONLY the corrected briefing markdown`;
 
-    const userPrompt = `Copy-edit this briefing. Return the full corrected markdown — nothing else.\n\n${draft}`;
-
-    const body = JSON.stringify({
-      model: 'claude-3-5-haiku-20241022',
-      max_tokens: 2500,
-      system: systemPrompt,
-      messages: [{ role: 'user', content: userPrompt }]
-    });
-
-    const req = https.request({
-      hostname: 'api.anthropic.com',
-      path: '/v1/messages',
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-        'x-api-key': ANTHROPIC_API_KEY,
-        'anthropic-version': '2023-06-01'
-      }
-    }, (res) => {
-      let data = '';
-      res.on('data', chunk => data += chunk);
-      res.on('end', () => {
-        try {
-          const json = JSON.parse(data);
-          if (json.error) {
-            reject(new Error(json.error.message));
-          } else {
-            resolve(json.content[0].text);
-          }
-        } catch (e) {
-          reject(new Error('Editor API parse error: ' + data.slice(0, 200)));
-        }
-      });
-    });
-
-    req.on('error', reject);
-    req.setTimeout(60000, () => {
-      req.destroy();
-      reject(new Error('Editor API timeout'));
-    });
-
-    req.write(body);
-    req.end();
-  });
+function callClaudeEditor(draft) {
+  const userPrompt = `Copy-edit this briefing. Return the full corrected markdown — nothing else.\n\n${draft}`;
+  // Reuses the same callClaude function (proven to work) with Haiku for cost/speed
+  return callClaude(userPrompt, EDITOR_SYSTEM_PROMPT, 'claude-3-5-haiku-20241022');
 }
 
 // ============================================
