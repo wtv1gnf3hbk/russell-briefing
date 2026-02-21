@@ -400,7 +400,7 @@ DO NOT:
     const userPrompt = `Copy-edit this briefing. Return the full corrected markdown — nothing else.\n\n${draft}`;
 
     const body = JSON.stringify({
-      model: 'claude-haiku-4-20250514',
+      model: 'claude-3-5-haiku-20241022',
       max_tokens: 2500,
       system: systemPrompt,
       messages: [{ role: 'user', content: userPrompt }]
