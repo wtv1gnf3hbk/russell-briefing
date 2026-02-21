@@ -1,6 +1,13 @@
 #!/usr/bin/env node
 /**
- * Calls Claude API to write an all-bullets briefing from briefing.json
+ * Two-step briefing pipeline:
+ *   1. Writer (Sonnet) — generates all-bullets briefing from briefing.json
+ *   2. Editor (Haiku) — copy-edits for grammar/style bugs the Writer misses
+ *
+ * The Editor pass is non-critical: if it fails or returns garbage,
+ * the Writer's draft is used as-is. Catches: missing articles ("a", "the"),
+ * 's contractions, "amid", tacked-on analysis, em-dash run-ons.
+ *
  * Outputs briefing.md (markdown) and index.html (styled page)
  *
  * Forked from japan-briefing. Key differences:
@@ -363,6 +370,80 @@ Write the briefing now.`;
 }
 
 // ============================================
+// EDITOR PASS
+// Lightweight second API call that catches grammar and style bugs
+// the Writer misses: missing articles, 's contractions, "amid",
+// awkward phrasing, tacked-on analysis clauses.
+// Uses Haiku — cheap and fast, grammar doesn't need Sonnet.
+// ============================================
+
+function callClaudeEditor(draft) {
+  return new Promise((resolve, reject) => {
+    const systemPrompt = `You are a copy editor. Your ONLY job is to fix grammar and style errors in the news briefing below. You must return the COMPLETE corrected briefing — every bullet, every link, every section header.
+
+FIX these issues:
+1. Missing articles ("a", "an", "the") — e.g. "creating murky outlook" → "creating a murky outlook"
+2. 's used as contraction for "is" or "has" — expand them. "China's planning" → "China is planning". Keep possessives: "China's economy" is fine.
+3. The word "amid" — replace with "as", "during", "while", or "following"
+4. Em-dash run-on sentences joining two independent clauses — split into separate sentences
+5. Subject-verb agreement errors
+6. Tacked-on analysis clauses: ", highlighting...", ", showing how...", ", underscoring...", ", suggesting that..." — delete the clause, end with the fact
+7. Editorializing language: "saber-rattling", "reaching a crescendo", "makes diplomats nervous" — rewrite with facts
+
+DO NOT:
+- Change story selection or order
+- Add or remove bullets
+- Change link URLs or link text
+- Rewrite sentences that are already correct
+- Add commentary or notes — return ONLY the corrected briefing markdown`;
+
+    const userPrompt = `Copy-edit this briefing. Return the full corrected markdown — nothing else.\n\n${draft}`;
+
+    const body = JSON.stringify({
+      model: 'claude-haiku-4-20250514',
+      max_tokens: 2500,
+      system: systemPrompt,
+      messages: [{ role: 'user', content: userPrompt }]
+    });
+
+    const req = https.request({
+      hostname: 'api.anthropic.com',
+      path: '/v1/messages',
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'x-api-key': ANTHROPIC_API_KEY,
+        'anthropic-version': '2023-06-01'
+      }
+    }, (res) => {
+      let data = '';
+      res.on('data', chunk => data += chunk);
+      res.on('end', () => {
+        try {
+          const json = JSON.parse(data);
+          if (json.error) {
+            reject(new Error(json.error.message));
+          } else {
+            resolve(json.content[0].text);
+          }
+        } catch (e) {
+          reject(new Error('Editor API parse error: ' + data.slice(0, 200)));
+        }
+      });
+    });
+
+    req.on('error', reject);
+    req.setTimeout(60000, () => {
+      req.destroy();
+      reject(new Error('Editor API timeout'));
+    });
+
+    req.write(body);
+    req.end();
+  });
+}
+
+// ============================================
 // MAIN
 // ============================================
 
@@ -382,30 +463,57 @@ async function main() {
   // Build prompt
   const { systemPrompt, userPrompt } = buildPrompt(briefing);
 
-  console.log('Calling Claude API...');
-  const startTime = Date.now();
+  // ---- Step 1: Writer (Sonnet) ----
+  console.log('Calling Claude API (Writer)...');
+  const writerStart = Date.now();
 
+  let briefingText;
   try {
-    const briefingText = await callClaude(userPrompt, systemPrompt);
-    const elapsed = ((Date.now() - startTime) / 1000).toFixed(1);
-    console.log(`Claude responded in ${elapsed}s`);
-
-    // Save markdown
-    fs.writeFileSync('briefing.md', briefingText);
-    console.log('Saved briefing.md');
-
-    // Save HTML
-    const htmlContent = generateHTML(briefingText, briefing);
-    fs.writeFileSync('index.html', htmlContent);
-    console.log('Saved index.html');
-
-    console.log('');
-    console.log('Done');
-
+    briefingText = await callClaude(userPrompt, systemPrompt);
+    const elapsed = ((Date.now() - writerStart) / 1000).toFixed(1);
+    console.log(`Writer responded in ${elapsed}s`);
   } catch (e) {
-    console.error('Failed to write briefing:', e.message);
+    console.error('Writer failed:', e.message);
     process.exit(1);
   }
+
+  // ---- Step 2: Editor pass (Haiku) ----
+  // Catches grammar bugs the Writer misses: missing articles,
+  // 's contractions, "amid", tacked-on analysis, etc.
+  console.log('Running editor pass (Haiku)...');
+  const editorStart = Date.now();
+
+  let editedText;
+  try {
+    editedText = await callClaudeEditor(briefingText);
+    const elapsed = ((Date.now() - editorStart) / 1000).toFixed(1);
+    console.log(`Editor responded in ${elapsed}s`);
+
+    // Sanity check: editor should return something roughly the same length.
+    // If it's wildly different (< 50% or > 200% of original), something went
+    // wrong — fall back to the Writer's draft.
+    const ratio = editedText.length / briefingText.length;
+    if (ratio < 0.5 || ratio > 2.0) {
+      console.warn(`Editor output length ratio ${ratio.toFixed(2)} is suspicious — using Writer draft`);
+      editedText = briefingText;
+    }
+  } catch (e) {
+    // Editor is non-critical — if it fails, use the Writer's draft as-is
+    console.warn('Editor pass failed (using Writer draft):', e.message);
+    editedText = briefingText;
+  }
+
+  // Save markdown
+  fs.writeFileSync('briefing.md', editedText);
+  console.log('Saved briefing.md');
+
+  // Save HTML
+  const htmlContent = generateHTML(editedText, briefing);
+  fs.writeFileSync('index.html', htmlContent);
+  console.log('Saved index.html');
+
+  console.log('');
+  console.log('Done');
 }
 
 main();
