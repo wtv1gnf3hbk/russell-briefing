@@ -2,40 +2,38 @@ Good morning, Russell! Here's what happened while you were sleeping.
 
 **Top Stories**
 
-- Trump [announced plans](https://news.google.com/rss/articles/CBMioAFBVV95cUxOVjl3Y29hTHRRTkExeEZnZlBFdWtIWW80Z19hbDdhLV9qQnUxdHVoTkVaalRSMDBzeXJMWWFiTW9RM1ZmeG1KUFJNbEtDM2ZKeXBvU1VaSUo5WVVvV2xIQzhaNEQ5VVhxN0NMazlGYzRYcUVFbnlpbzF0RTJlaHZBMEZpNTNPbHRhb1FZTWNvZDNMZ2libkZKTktzeWxLUWJL?oc=5) to raise tariffs to 15 percent on all countries after the Supreme Court struck down his previous tariff structure, prompting global leaders and businesses to scramble over potential economic fallout.
+- Trump [raised tariffs](https://news.google.com/rss/articles/CBMioAFBVV95cUxOVjl3Y29hTHRRTkExeEZnZlBFdWtIWW80Z19hbDdhLV9qQnUxdHVoTkVaalRSMDBzeXJMWWFiTW9RM1ZmeG1KUFJNbEtDM2ZKeXBvU1VaSUo5WVVvV2xIQzhaNEQ5VVhxN0NMazlGYzRYcUVFbnlpbzF0RTJlaHZBMEZpNTNPbHRhb1FZTWNvZDNMZ2libkZKTktzeWxLUWJL?oc=5) to 15 percent on all imports after the Supreme Court struck down his previous tariff plan, leaving global leaders and businesses scrambling to assess the fallout.
 
-- Israeli [airstrikes in](https://news.google.com/rss/articles/CBMiqgFBVV85cUxQdHZOZGFyRnZfNDRteGZBNFZfdzlXYV95SVlSNU9JOVhiZFI5UjVORzVwY1JCR1BuZHM1VDV6Q0pvUWpyV1pSRDdNZFhJbzE1d1dZdERXWFQ3X2pPcGswMzJwazdEdUN3ZWo3T3NEckRSYjV0VnNmYko2Vy1YV0M4Vll4c1ZaR1cyVVMyNlJsN1Y1TUNHTFlmWUdtZkpsMlp1Nk1YVnNIWXdOdw?oc=5) eastern Lebanon killed eight Hezbollah members and at least 10 people total, threatening the fragile ceasefire between Israel and the Lebanese militant group, according to officials.
+- Iranian students staged their [first anti-government](https://www.nytimes.com/2026/02/21/world/middleeast/iran-student-protests.html) protests since deadly government crackdowns as universities reopened for the new semester, according to the New York Times.
 
-- Iranian students staged [their first](https://www.nytimes.com/2026/02/21/world/middleeast/iran-student-protests.html) anti-government protests since a deadly crackdown as universities reopened for the new semester, according to the BBC.
+- Israeli airstrikes in eastern Lebanon [killed eight](https://news.google.com/rss/articles/CBMiqgFBVV85cUxQdHZOZGFyRnZfNDRteGZBNFZfdzlXYV95SVlSNU9JOVhiZFI5UjVORzVwY1JCR1BuZHM1VDV6Q0pvUWpyV1pSRDdNZFhJbzE1d1dZdERXWFQ3X2pPcGswMzJwazdEdUN3ZWo3T3NEckRSYjV0VnNmYko2Vy1YV0M4Vll4c1ZaR1cyVVMyNlJsN1Y1TUNHTFlmWUdtZkpsMlp1Nk1YVnNIWXdOdw?oc=5) Hezbollah members, threatening the already fragile ceasefire between Israel and the militant group.
 
-- A US [ambassador caused](https://news.google.com/rss/articles/CBMirwFBVV85cUxQRkZIYVlvbTl5aGpPTjBKRmRwdkM3Z0RxcEY2ZUlRa041My1TcnhON0lyMGhJSjYtOVpuNWJEVEVMOEdrQmtnQjQ3TF9raDJOZnZfVnhPajB4bmY0Rms1SFpfUi1PWXIzQldYT2kzN3k3a3ZZWjRLb0RxZ254VnJBcGhZVnZBMmNNSGh2LVJ6ak9qRVJDS2twaDdBWGhnQjVmX1lROTgxMDREc3ozbHdJ?oc=5) uproar by claiming Israel has a right to much of the Middle East, drawing widespread international criticism.
+- The US military is [airlifting small](https://news.google.com/rss/articles/CBMipAFBVV85cUxNVDduTW9kd09RXy1YN3FMeXI0bzRyTTVfeDZKNURrMGNqMC03dFJQVFBNVENVSHJxa2hLeWtUVW5ISEpIc1JpZEpxTjZNcUFhRXF3bkJfeEptZlJnRkxhLUZsS0RGaGM1Ym51UkRnMkRpM2hBSkNLekF3VlRQZFJZRUVMQV92dFdVM3J2alBhNWNTUlRzUHFDV0hXbEpaMHZhcnpMeA?oc=5) nuclear reactors as Trump pushes to rapidly deploy nuclear power across multiple locations, the AP reports.
 
-- NASA [delayed its](https://news.google.com/rss/articles/CBMikgFBVV85cUxQanhPM3BxTjR0ckNwbUxPVXRqV0FJaEQyTnFwZVhRMG9taWV0VlpONVl1cjFCTDhzOUZZTThjQWZocC13cExQSjFVcTV0Tnl3Yk5ybGNQdXNFenVaMXZVVGRtUERQcFdiRUF1azBxZmIxc3VyRmFWcTM0TWxUMVhfZW5zdWQwSG0wVXZSWnNBQTE5Zw?oc=5) astronaut moon mission again after discovering a new rocket problem, further pushing back the planned lunar landing.
+- NASA [delayed its](https://news.google.com/rss/articles/CBMikgFBVV85cUxQanhPM3BxTjR0ckNwbUxPVXRqV0FJaEQyTnFwZVhRMG9taWV0VlpONVl1cjFCTDhzOUZZTThjQWZocC13cExQSjFVcTV0Tnl3Yk5ybGNQdXNFenVaMXZVVGRtUERQcFdiRUF1azBxZmIxc3VyRmFWcTM0TWxUMVhfZW5zdWQwSG0wVXZSWnNBQTE5Zw?oc=5) astronaut moon mission again after discovering new rocket problems, marking another setback for the lunar program.
 
-- Hungary [is posing](https://www.nytimes.com/2026/02/20/world/europe/euro-loan-ukraine-hungary-obstacle.html) an unexpected obstacle to Europe's 90-billion euro loan to Ukraine, signaling potential problems for EU financial support, per the New York Times.
+- King Charles is [distancing himself](https://www.nytimes.com/2026/02/21/world/europe/andrew-epstein-queen-elizabeth-charles.html) from Prince Andrew as the Jeffrey Epstein scandal intensifies, breaking from his mother Queen Elizabeth's steadfast support, per the New York Times.
 
 **Conflicts & Diplomacy**
 
-- Ukrainian activists [report that](https://news.google.com/rss/articles/CBMimwFBVV85cUxNYXJROVp4eDJrdW5CQ0luUUxDenFacW5paVQxOU1xUERjTjlwVVlUdFJ5VkNsb0NpcnMyZUtKT1VxMy13MlI3bTVqQmlmUHB2cktnZkJ5di1uMnFILW1aem9vNW1KT3BUYVBFdG43Ni1Cc21zZUU2RXJadm9jcEdGUWtLN09MYlY5NzhJNUl3amdWT0JreVktR0d2UQ?oc=5) life in Russian-occupied parts of Ukraine is harsh and dangerous, with former residents describing systematic oppression and violence.
+- Life in Russian-controlled parts of Ukraine has become increasingly [harsh and](https://news.google.com/rss/articles/CBMimwFBVV85cUxNYXJROVp4eDJrdW5CQ0luUUxDenFacW5paVQxOU1xUERjTjlwVVlUdFJ5VkNsb0NpcnMyZUtKT1VxMy13MlI3bTVqQmlmUHB2cktnZkJ5di1uMnFILW1aem9vNW1KT3BUYVBFdG43Ni1Cc21zZUU2RXJadm9jcEdGUWtLN09MYlY5NzhJNUl3amdWT0JreVktR0d2UQ?oc=5) dangerous, with residents facing severe restrictions and punishment for dissent, according to activists and former residents who spoke to the AP.
 
-- Hundreds of Ukrainian women have [reported sexual](https://www.nytimes.com/2026/02/20/world/europe/russian-soldiers-sexual-violence-ukraine.html) violence by Russian soldiers during the four-year war, according to testimony compiled by investigators.
+- Hungary is creating unexpected [hurdles for](https://www.nytimes.com/2026/02/20/world/europe/euro-loan-ukraine-hungary-obstacle.html) the European Union's 90 billion euro loan package to Ukraine, signaling potential procedural delays, the Guardian notes.
 
-- Russia [removed references](https://www.nytimes.com/2026/02/20/world/europe/russia-gulag-history-museum-stalin.html) to Soviet-era gulags from Moscow's State History Museum, redirecting focus to Nazi war crimes instead of Stalin's brutal prison camps, Reuters reports.
-
-- A Trump administration [special envoy](https://www.nytimes.com/2026/02/21/world/europe/trump-administration-russia-global-sports-return.html) endorsed Russia's return to global sports competitions, backing their participation in next month's Paralympics.
+- A Trump administration official endorsed Russia's [return to](https://www.nytimes.com/2026/02/21/world/europe/trump-administration-russia-global-sports-return.html) global sports competitions, backing their participation in next month's Paralympics despite European opposition.
 
 **Business & Markets**
 
-- JPMorgan [conceded it](https://news.google.com/rss/articles/CBMilAFBVV85cUxNQ0t0bjBlamNtQmx0ZXN2QnR1TVVucGRteUZIaTR2QmlDSUpQdEx5TWVMRW8wTThqS1QydE51QkV1cDFQWWJqWmNvVDFVeWxpckIzdHN0V25PNnp2SGM5NWxWMVZONXE0SVg1QktkdUJ5TF9mQkhsVXhYVTB1aDJrRTF6R3YxX3hPZlRTSllOekwxX1pm?oc=5) closed Trump's accounts after the January 6 attack, as businesses face uncertainty following the Supreme Court tariff ruling.
+- European businesses and governments are [scrambling to](https://www.nytimes.com/2026/02/21/world/europe/political-uncertainty-trump-tariff-loss.html) assess the implications of Trump's tariff escalation, with officials warning the uncertainty could distract from other continental challenges including China relations.
 
-- European leaders [are grappling](https://www.nytimes.com/2026/02/21/world/europe/political-uncertainty-trump-tariff-loss.html) with uncertainty after Trump's Supreme Court tariff loss, which could distract from challenges with China and Ukraine funding.
+- JPMorgan [admitted it](https://news.google.com/rss/articles/CBMilAFBVV85cUxNQ0t0bjBlamNtQmx0ZXN2QnR1TVVucGRteUZIaTR2QmlDSUpQdEx5TWVMRW8wTThqS1QydE51QkV1cDFQWWJqWmNvVDFVeWxpckIzdHN0V25PNnp2SGM5NWxWMVZONXE0SVg1QktkdUJ5TF9mQkhsVXhYVTB1aDJrRTF6R3YxX3hPZlRTSllOekwxX1pm?oc=5) closed Trump's bank accounts after the January 6 Capitol attack, according to court documents reviewed by Reuters.
 
-- India [is positioning](https://www.nytimes.com/2026/02/21/world/asia/ai-summit-india-foreign-policy.html) itself as a middle path between the US and China on AI governance, using technology as a foreign policy tool at a major AI summit.
+- US companies are [clamoring for](https://news.google.com/rss/articles/CBMimwFBVV85cUxNXzJVdXF5TnRnVWE3TnJKQkktbl9FNVZOVXZ4TDRnRklOR09PbkZBT0dBczZBMlJVWWdvdmp4QnRzUFhXYnhDMm94OWl6QkdLUnNNR0N0WGpnek4tZXpzUkVkbGdoQUQ3eDRLNU55WC1ocVE4Rm5fMDQtbHVTaVh0VWNpbzBzZWRXU21yLS1tdUNkMEU3NExsQnFhYw?oc=5) refunds after the Supreme Court tariff ruling, creating a murky business outlook as companies prepare countermoves to Trump's escalation.
 
 **Also Notable**
 
-- Seven Chinese [tourists died](https://news.google.com/rss/articles/CBMinwFBVV85cUxPeWxZWHBhcUhRb0lQVGdZRmtVMFdmMHljcG1BS0d6c1M4bU4wVmZiUWVETTUxTTg0N0txbDBqeUNJSmZ1Y2Z1RVkySGpkdW5NdV94T3pQc3VyQkJlSTIxSEVtZElQS1NvNDRnVGJkb1IwaUN5Ry0tRzhFLS0xSG5kUkoxeExxLWVzVWhBWEJYTE9tdjd4T0pvakVDV1VheGs?oc=5) when divers recovered their bodies from the bottom of Lake Baikal following a diving accident.
+- Colombia's military is [struggling against](https://www.nytimes.com/2026/02/21/world/americas/colombia-combat-drones-military.html) guerrilla groups using commercial drones modified into deadly weapons for just $600 each, putting the billion-dollar army at a disadvantage, per the FT.
 
-- King Charles [is pulling](https://www.nytimes.com/2026/02/21/world/europe/andrew-epstein-queen-elizabeth-charles.html) away from Prince Andrew as the crisis over his Jeffrey Epstein ties intensifies, contrasting with Queen Elizabeth's previous support.
+- Russia has [removed references](https://www.nytimes.com/2026/02/20/world/europe/russia-gulag-history-museum-stalin.html) to Soviet-era brutality from Moscow's Gulag History Museum, with the institution now focusing on Nazi war crimes instead of Stalin's repression.
 
-- Giant tortoises [returned to](https://news.google.com/rss/articles/CBMinwFBVV85cUxPeWxZWHBhcUhRb0lQVGdZRmtVMFdmMHljcG1BS0d6c1M4bU4wVmZiUWVETTUxTTg0N0txbDBqeUNJSmZ1Y2Z1RVkySGpkdW5NdV94T3pQc3VyQkJlSTIxSEVtZElQS1NvNDRnVGJkb1IwaUN5Ry0tRzhFLS0xSG5kUkoxe
+- India is [positioning itself](https://www.nytimes.com/2026/02/21/world/asia/ai-summit-india-foreign-policy.html) as a moral voice for developing nations at an AI summit, trying to navigate between US and Chinese tech interests while advancing its own foreign policy goals.
