@@ -398,8 +398,10 @@ DO NOT:
 
 function callClaudeEditor(draft) {
   const userPrompt = `Copy-edit this briefing. Return the full corrected markdown — nothing else.\n\n${draft}`;
-  // Reuses the same callClaude function (proven to work) with Haiku for cost/speed
-  return callClaude(userPrompt, EDITOR_SYSTEM_PROMPT, 'claude-3-5-haiku-20241022');
+  // Reuses the same callClaude function and model (Sonnet).
+  // Tried Haiku but the model ID isn't available on this API key.
+  // Cost delta for one short edit pass per day is negligible.
+  return callClaude(userPrompt, EDITOR_SYSTEM_PROMPT);
 }
 
 // ============================================
