@@ -2,36 +2,34 @@ Good morning, Russell! Here's what happened while you were sleeping.
 
 **Top Stories**
 
-- The Supreme Court [struck down](https://news.google.com/rss/articles/CBMimgFBVV95cUxPOU11M25SMmpMUldOYXBYdFlOWk90S1k3X2x1QVhEcEF4OEdVZlFTOFlVM242b09ZYkJjbWhyVDI2SktfY3Q0TTNqVnlOZWJSXzYwZFd4WHpmT19iSFZZY2xFYnZlWmRlNU1xNndQaVlCT1FZN3BoTkFteEdNOVNrMVVkNGk3VHVDaGpNa1JBcXVJNzhvMHpCdTl3?oc=5) Trump's tariffs, but businesses now face the complex task of processing refunds while Trump [raised tariffs](https://news.google.com/rss/articles/CBMioAFBVV95cUxOVjl3Y29hTHRRTkExeEZnZlBFdWtIWW80Z19hbDdhLV9qQnUxdHVoTkVaalRSMDBzeXJMWWFiTW9RM1ZmeG1KUFJNbEtDM2ZKeXBvU1VaSUo5WVVvV2xIQzhaNEQ5VVhxN0NMazlGYzRYcUVFbnlpbzF0RTJlaHZBMEZpNTNPbHRhb1FZTWNvZDNMZ2libkZKTktzeWxLUWJL?oc=5) to 15 percent.
+- Trump [raised tariffs](https://news.google.com/rss/articles/CBMioAFBVV95cUxOVjl3Y29hTHRRTkExeEZnZlBFdWtIWW80Z19hbDdhLV9qQnUxdHVoTkVaalRSMDBzeXJMWWFiTW9RM1ZmeG1KUFJNbEtDM2ZKeXBvU1VaSUo5WVVvV2xIQzhaNEQ5VVhxN0NMazlGYzRYcUVFbnlpbzF0RTJlaHZBMEZpNTNPbHRhb1FZTWNvZDNMZ2libkZKTktzeWxLUWJL) to 15 percent on all countries after the Supreme Court struck down his previous trade policies, creating [murky outlook](https://news.google.com/rss/articles/CBMimwFBVV95cUxNXzJVdXF5TnRnVWE3TnJKQkktbl9FNVZOVXZ4TDRnRklOR09PbkZBT0dBczZBMlJVWWdvdmp4QnRzUFhXYnhDMm94OWl6QkdLUnNNR0N0WGpnek4tZXpzUkVkbGdoQUQ3eDRLNU55WC1ocVE4Rm5fMDQtbHVTaVh0VWNpbzBzZWRXU21yLS1tdUNkMEU3NExsQnFhYw) for businesses worldwide.
 
-- NASA's moon rocket [hit another](https://news.google.com/rss/articles/CBMikgFBVV95cUxQanhPM3BxTjR0ckNwbUxPVXRqV0FJaEQyTnFwZVhRMG9taWV0VlpONVl1cjFCTDhzOUZZTThjQWZocC13cExQSjFVcTV0Tnl3Yk5ybGNQdXNFenVaMXZVVGRtUERQcFdiRUF1azBxZmIxc3VyRmFWcTM0TWxUMVhfZW5zdWQwSG0wVXZSWnNBQTE5Zw?oc=5) technical problem, likely pushing the astronaut lunar mission into April, according to AP.
+- [Global leaders](https://news.google.com/rss/articles/CBMioAFBVV95cUxOVjl3Y29hTHRRTkExeEZnZlBFdWtIWW80Z19hbDdhLV9qQnUxdHVoTkVaalRSMDBzeXJMWWFiTW9RM1ZmeG1KUFJNbEtDM2ZKeXBvU1VaSUo5WVVvV2xIQzhaNEQ5VVhxN0NMazlGYzRYcUVFbnlpbzF0RTJlaHZBMEZpNTNPbHRhb1FZTWNvZDNMZ2libkZKTktzeWxLUWJL) and businesses scramble to assess the impact of new U.S. trade policies, with European officials expressing uncertainty about future economic relations, according to AP.
 
-- Hundreds [marched in](https://news.google.com/rss/articles/CBMinwFBVV95cUxOdWFqTXFpbHlNMmJOUXQ4bFhvWjFkemJnVGs1X2thTjcxSmF2TmZFc1FWYXVBZWNFS3ZkNGVfdUFCVmFhSngzT2pnS2V4OVFXTDdlTDZOdEhMWUlvcnZyck8tNVBfY3JqMTc5a2g2SlZBc1Atbk05V1NSYkVMWkxicVZKRjB3YXRyZGlIWDhzREZVajg1b0ZIeTZBUWpoaW8?oc=5) Lyon to protest a far-right activist's killing as Macron urged calm, per AP reporting.
+- NASA [moon mission](https://news.google.com/rss/articles/CBMikgFBVV95cUxQanhPM3BxTjR0ckNwbUxPVXRqV0FJaEQyTnFwZVhRMG9taWV0VlpONVl1cjFCTDhzOUZZTThjQWZocC13cExQSjFVcTV0Tnl3Yk5ybGNQdXNFenVaMXZVVGRtUERQcFdiRUF1azBxZmIxc3VyRmFWcTM0TWxUMVhfZW5zdWQwSG0wVXZSWnNBQTE5Zw) likely faces delays until April due to rocket problems, Reuters reports, jeopardizing the timeline for returning astronauts to the lunar surface.
 
-- Seven Chinese tourists [were recovered](https://www.bbc.com/news) dead from the bottom of Lake Baikal after their diving expedition went wrong, the BBC reports.
+- Iran students staged their [first protests](https://www.bbc.com/news) against the government since deadly crackdowns earlier this year, the BBC notes, marking a significant resumption of dissent despite harsh state responses.
 
-- Former Prince Andrew's [arrest upends](https://www.nytimes.com/2026/02/20/world/europe/prince-andrew-arrest-epstein-royal-family-uk.html) the royal family's efforts to move past his Epstein scandal, per the New York Times.
+- [Life remains](https://news.google.com/rss/articles/CBMimwFBVV95cUxNYXJROVp4eDJrdW5CQ0luUUxDenFacW5paVQxOU1xUERjTjlwVVlUdFJ5VkNsb0NpcnMyZUtKT1VxMy13MlI3bTVqQmlmUHB2cktnZkJ5di1uMnFILW1aem9vNW1KT3BUYVBFdG43Ni1Cc21zZUU2RXJadm9jcEdGUWtLN09MYlY5NzhJNUl3amdWT0JreVktR0d2UQ) harsh and dangerous in Russian-occupied areas of Ukraine, with activists and former residents reporting severe repression and limited access to basic services, per AP.
+
+- A [winter storm](https://news.google.com/rss/articles/CBMikAFBVV95cUxOcmJuUHQ5M05nWkdWT2dpUHpDQjFjWmRKOFBuWFN6cGVXQmdMdTM3aG1RbmNNRjVIbFhsYV9RZEtnc1F0X3JYclVROFpoUTF2WHFac3RsMm1Kb2xJenJ3VW1uN1h1QzNPUlhXdmt1bUxKbkhzZW83M2ROTXZqVnVBbVR0VVlJZnJrTExlbldaR0M) threatens the U.S. East Coast with blizzard warnings issued for New York City, New Jersey and Connecticut.
 
 **Conflicts & Diplomacy**
 
-- Life is [harsh and](https://news.google.com/rss/articles/CBMimwFBVV95cUxNYXJROVp4eDJrdW5CQ0luUUxDenFacW5paVQxOU1xUERjTjlwVVlUdFJ5VkNsb0NpcnMyZUtKT1VxMy13MlI3bTVqQmlmUHB2cktnZkJ5di1uMnFILW1aem9vNW1KT3BUYVBFdG43Ni1Cc21zZUU2RXJadm9jcEdGUWtLN09MYlY5NzhJNUl3amdWT0JreVktR0d2UQ?oc=5) dangerous in Russian-run parts of Ukraine, activists and former residents tell AP.
+- Israeli airstrikes in eastern Lebanon [killed eight](https://news.google.com/rss/articles/CBMiqgFBVV85cUxQdHZOZGFyRnZfNDRteGZBNFZfdzlXYV95SVlSNU9JOVhiZFI5UjVORzVwY1JCR1BuZHM1VDV6Q0pvUWpyV1pSRDdNZFhJbzE1d1dZdERXWFQ3X2pPcGswMzJwazdEdUN3ZWo3T3NEckRSYjV0VnNmYko2Vy1YV0M4Vll4c1ZaR1cyVVMyNlJsN1Y1TUNHTFlmWUdtZkpsMlp1Nk1YVnNIWXdOdw) Hezbollah members, threatening to further destabilize the fragile ceasefire between Israel and the Lebanese militant group.
 
-- A US ambassador [caused uproar](https://news.google.com/rss/articles/CBMirwFBVV95cUxQRkZIYVlvbTl5aGpPTjBKRmRwdkM3Z0RxcEY2ZUlRa041My1TcnhON0lyMGhJSjYtOVpuNWJEVEVMOEdrQmtnQjQ3TF9raDJOZnZfVnhPajB4bmY0Rms1SFpfUi1PWXIzQldYT2kzN3k3a3ZZWjRLb0RxZ254VnJBcGhZVnZBMmNNSGh2LVJ6ak9qRVJDS2twaDdBWGhnQjVmX1lROTgxMDREc3ozbHdJ?oc=5) by claiming Israel has a right to much of the Middle East, according to AP.
+- Hungary poses [unexpected hurdle](https://www.nytimes.com/2026/02/20/world/europe/euro-loan-ukraine-hungary-obstacle.html) to a 90-billion euro European Union loan for Ukraine, signaling potential procedural problems as the bloc works to send financial aid, the Guardian reports.
 
-- A Palestinian-American teenager [was laid](https://www.nytimes.com/2026/02/20/world/middleeast/palestinian-american-teenager-killed-west-bank.html) to rest after being shot dead by an Israeli settler in the West Bank, the Guardian notes.
-
-- A Trump official [backed Russia's](https://www.nytimes.com/2026/02/21/world/europe/trump-administration-russia-global-sports-return.html) return to global sports, endorsing participation at next month's Paralympics despite European dismay.
+- Trump administration official Paolo Zampolli [endorsed Russia's](https://www.nytimes.com/2026/02/21/world/europe/trump-administration-russia-global-sports-return.html) return to global sports including next month's Paralympics, drawing criticism from European capitals concerned about rewarding Moscow.
 
 **Business & Markets**
 
-- European leaders [face uncertainty](https://www.nytimes.com/2026/02/21/world/europe/political-uncertainty-trump-tariff-loss.html) after Trump's Supreme Court tariff loss, which could distract from China challenges and Ukraine war issues.
+- U.S. businesses [clamor for](https://www.theguardian.com/international) refunds after the Supreme Court struck down Trump tariffs, creating administrative challenges for companies that paid billions in duties over recent years.
 
-- ICE [begins purchasing](https://news.google.com/rss/articles/CBMiogFBVV95cUxOLTZSb2g5c1NNM1VFbG9pSzdBb09HbEk4WXFYcWxSVnFwYloyVlBIcE54MW52QUw5Y1BScWptdWRZN0xfbkM3SG50ckF2eUNxMjZiVDVhY2pSU2N2VENXR3BhWDcxWW5XZVlHeHFmT05rSDhwc0pQRmtLMm05VFdtclBvcENxUTREaDN4bENfNGlBbmk5TXM0Um55ZnVVclF1ekE?oc=5) warehouses for detention centers, though some owners are backing out of deals.
+- Brazil and India agreed to [boost cooperation](https://news.google.com/rss/articles/CBMirAFBVV95cUxOVnhzcC1XeU9uZ2x5NHQ0b2NRLWc1c1c5Y2RrVWhJTDBTTGpzV1ZGMjVNeGI4X09sTFZnaGoxejRKdm5FdmZ3MnlOMjdsSnZXMGdzaXlpQXpHdVdVNVhKSWFCUW4tRlpESEtiZUd1QmVLb0VwOG5EMDhOV1BZZnJqZDc5RC1ENmNfejM1Znk0Z0x0aWZ4VWdiTTNvaExSemxPcFJVVnI5M0ZfZFph) on rare earth minerals, strengthening ties between two major emerging economies in the critical minerals sector.
 
-- The US military [airlifted a](https://news.google.com/rss/articles/CBMipAFBVV85cUxNVDduTW9kd09RXy1YN3FMeXI0bzRyTTVfeDZKNURrMGNqMC03dFJQVFBNVENVSHJxa2hLeWtUVW5ISEpIc1JpZEpxTjZNcUFhRXF3bkJfeEptZlJnRkxhLUZsS0RGaGM1Ym51UkRnMkRpM2hBSkNLekF3VlRQZFJZRUVMQV92dFdVM3J2alBhNWNTUlRzUHFDV0hXbEpaMHZhcnpMeA?oc=5) small reactor as Trump pushes rapid nuclear power deployment, AP reports.
+- The U.S. military [airlifted a](https://news.google.com/rss/articles/CBMipAFBVV95cUxNVDduTW9kd09RXy1YN3FMeXI0bzRyTTVfeDZKNURrMGNqMC03dFJQVFBNVENVSHJxa2hLeWtUVW5ISEpIc1JpZEpxTjZNcUFhRXF3bkJfeEptZlJnRkxhLUZsS0RGaGM1Ym51UkRnMkRpM2hBSkNLekF3VlRQZFJZRUVMQV92dFdVM3J2alBhNWNTUlRzUHFDV0hXbEpaMHZhcnpMeA) small nuclear reactor as Trump pushes for rapid deployment of nuclear power, marking a shift in U.S. energy infrastructure priorities.
 
 **Also Notable**
 
-- India [tries to](https://www.nytimes.com/2026/02/21/world/asia/ai-summit-india-foreign-policy.html) find a way between the US and China at an AI summit, casting itself as a moral voice for developing countries.
-
-- Gisèle Pelicot [breaks her](https://www.nytimes.com/2026/02/21/gisele-pelicot-interview-hymn-to-life.html) silence after surviving mass rape, now publicizing her ordeal to explain how she survived it.
+- [Giant tortoises](https://www.bbc.com/news) returned to a Galápagos island after nearly 200 years of absence, representing a major conservation success story for
