@@ -4,15 +4,15 @@
     "owner": "Russell Goldman",
     "timezone": "America/New_York",
     "description": "Daily international news briefing — all bullets, ready by 6am ET",
-    "generated": "2026-02-21T21:58:55.841Z",
-    "generatedTimestamp": 1771711135841
+    "generated": "2026-02-21T22:02:29.153Z",
+    "generatedTimestamp": 1771711349153
   },
   "stats": {
     "sourceCount": 16,
     "successCount": 16,
     "totalStories": 144,
     "totalScreenshots": 6,
-    "elapsed": "29.2s"
+    "elapsed": "29.6s"
   },
   "stories": {
     "all": [
@@ -867,6 +867,16 @@
         "description": "Andrew Mountbatten-Windsor, the former prince, is getting no help from the throne as the crisis over his ties to Jeffrey Epstein intensifies."
       },
       {
+        "headline": "Iran’s Students Hold Anti-Regime Protests as Universities Reopen",
+        "url": "https://www.nytimes.com/2026/02/21/world/middleeast/iran-student-protests.html",
+        "source": "New York Times",
+        "sourceId": "nyt_world",
+        "category": "general",
+        "priority": "secondary",
+        "date": "Sat, 21 Feb 2026 21:14:24 +0000",
+        "description": "Students helped grow initial protests into a national movement crushed by the government. As the new semester began, they chanted and marched again."
+      },
+      {
         "headline": "Gisèle Pelicot Survived Mass Rape. Now She’s Looking to the Future.",
         "url": "https://www.nytimes.com/2026/02/21/gisele-pelicot-interview-hymn-to-life.html",
         "source": "New York Times",
@@ -987,24 +997,14 @@
         "description": "While the delay may prove to be procedural, Hungary signaled that it could cause problems as the European Union works to send money to Ukraine."
       },
       {
-        "headline": "A New U.S. Blockade Is Strangling Cuba",
-        "url": "https://www.nytimes.com/2026/02/20/world/americas/cuba-oil-blockade-trump.html",
+        "headline": "For Dutch speedskater, age doesn’t matter.",
+        "url": "https://www.nytimes.com/2026/02/21/world/speedskating-jordan-stolz.html",
         "source": "New York Times",
         "sourceId": "nyt_world",
         "category": "general",
         "priority": "secondary",
-        "date": "Fri, 20 Feb 2026 14:03:37 +0000",
-        "description": "An analysis of ship movements shows that the Trump administration is isolating the island at one of its most vulnerable moments."
-      },
-      {
-        "headline": "Iran’s Students Hold Anti-Regime Protests as Universities Reopen",
-        "url": "https://www.nytimes.com/2026/02/21/world/middleeast/iran-student-protests.html",
-        "source": "New York Times",
-        "sourceId": "nyt_world",
-        "category": "general",
-        "priority": "secondary",
-        "date": "Sat, 21 Feb 2026 21:14:24 +0000",
-        "description": "Students helped grow initial protests into a national movement crushed by the government. As the new semester began, they chanted and marched again."
+        "date": "Sat, 21 Feb 2026 19:27:11 +0000",
+        "description": "Jorrit Bergsma, a gold medalist back in 2014, is now 40. But he rolled back the years to win gold."
       },
       {
         "headline": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
@@ -2372,6 +2372,16 @@
           "description": "Andrew Mountbatten-Windsor, the former prince, is getting no help from the throne as the crisis over his ties to Jeffrey Epstein intensifies."
         },
         {
+          "headline": "Iran’s Students Hold Anti-Regime Protests as Universities Reopen",
+          "url": "https://www.nytimes.com/2026/02/21/world/middleeast/iran-student-protests.html",
+          "source": "New York Times",
+          "sourceId": "nyt_world",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Sat, 21 Feb 2026 21:14:24 +0000",
+          "description": "Students helped grow initial protests into a national movement crushed by the government. As the new semester began, they chanted and marched again."
+        },
+        {
           "headline": "Gisèle Pelicot Survived Mass Rape. Now She’s Looking to the Future.",
           "url": "https://www.nytimes.com/2026/02/21/gisele-pelicot-interview-hymn-to-life.html",
           "source": "New York Times",
@@ -2492,24 +2502,14 @@
           "description": "While the delay may prove to be procedural, Hungary signaled that it could cause problems as the European Union works to send money to Ukraine."
         },
         {
-          "headline": "A New U.S. Blockade Is Strangling Cuba",
-          "url": "https://www.nytimes.com/2026/02/20/world/americas/cuba-oil-blockade-trump.html",
+          "headline": "For Dutch speedskater, age doesn’t matter.",
+          "url": "https://www.nytimes.com/2026/02/21/world/speedskating-jordan-stolz.html",
           "source": "New York Times",
           "sourceId": "nyt_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Fri, 20 Feb 2026 14:03:37 +0000",
-          "description": "An analysis of ship movements shows that the Trump administration is isolating the island at one of its most vulnerable moments."
-        },
-        {
-          "headline": "Iran’s Students Hold Anti-Regime Protests as Universities Reopen",
-          "url": "https://www.nytimes.com/2026/02/21/world/middleeast/iran-student-protests.html",
-          "source": "New York Times",
-          "sourceId": "nyt_world",
-          "category": "general",
-          "priority": "secondary",
-          "date": "Sat, 21 Feb 2026 21:14:24 +0000",
-          "description": "Students helped grow initial protests into a national movement crushed by the government. As the new semester began, they chanted and marched again."
+          "date": "Sat, 21 Feb 2026 19:27:11 +0000",
+          "description": "Jorrit Bergsma, a gold medalist back in 2014, is now 40. But he rolled back the years to win gold."
         },
         {
           "headline": "‘Absurd and provocative’: Huckabee faces firestorm for Israel border stance",
@@ -3760,6 +3760,16 @@
           "description": "Andrew Mountbatten-Windsor, the former prince, is getting no help from the throne as the crisis over his ties to Jeffrey Epstein intensifies."
         },
         {
+          "headline": "Iran’s Students Hold Anti-Regime Protests as Universities Reopen",
+          "url": "https://www.nytimes.com/2026/02/21/world/middleeast/iran-student-protests.html",
+          "source": "New York Times",
+          "sourceId": "nyt_world",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Sat, 21 Feb 2026 21:14:24 +0000",
+          "description": "Students helped grow initial protests into a national movement crushed by the government. As the new semester began, they chanted and marched again."
+        },
+        {
           "headline": "Gisèle Pelicot Survived Mass Rape. Now She’s Looking to the Future.",
           "url": "https://www.nytimes.com/2026/02/21/gisele-pelicot-interview-hymn-to-life.html",
           "source": "New York Times",
@@ -3880,24 +3890,14 @@
           "description": "While the delay may prove to be procedural, Hungary signaled that it could cause problems as the European Union works to send money to Ukraine."
         },
         {
-          "headline": "A New U.S. Blockade Is Strangling Cuba",
-          "url": "https://www.nytimes.com/2026/02/20/world/americas/cuba-oil-blockade-trump.html",
+          "headline": "For Dutch speedskater, age doesn’t matter.",
+          "url": "https://www.nytimes.com/2026/02/21/world/speedskating-jordan-stolz.html",
           "source": "New York Times",
           "sourceId": "nyt_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Fri, 20 Feb 2026 14:03:37 +0000",
-          "description": "An analysis of ship movements shows that the Trump administration is isolating the island at one of its most vulnerable moments."
-        },
-        {
-          "headline": "Iran’s Students Hold Anti-Regime Protests as Universities Reopen",
-          "url": "https://www.nytimes.com/2026/02/21/world/middleeast/iran-student-protests.html",
-          "source": "New York Times",
-          "sourceId": "nyt_world",
-          "category": "general",
-          "priority": "secondary",
-          "date": "Sat, 21 Feb 2026 21:14:24 +0000",
-          "description": "Students helped grow initial protests into a national movement crushed by the government. As the new semester began, they chanted and marched again."
+          "date": "Sat, 21 Feb 2026 19:27:11 +0000",
+          "description": "Jorrit Bergsma, a gold medalist back in 2014, is now 40. But he rolled back the years to win gold."
         },
         {
           "headline": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
@@ -4421,7 +4421,7 @@
       "category": "priority_signal",
       "priority": "primary",
       "topHeadlines": [
-        "Support the Guardian",
+        "The free press is under threat",
         "Avalanches How a ski trip turned deadly in the California mountains",
         "Margaret Sullivan CBS News is convulsing as Larry Ellison tries to please Trump",
         "Jesse Jackson How his ‘radically inclusive’ vision shaped the Democrats",
