@@ -1,35 +1,37 @@
+Good morning, Russell! Here's what happened while you were sleeping.
+
 **Top Stories**
 
-- Russian forces are [nearing capture](https://www.nytimes.com/2026/02/10/world/europe/russia-ukraine-battlefield-huliaipole-pokrovsk.html) of key Ukrainian towns in the south and east after a year of grinding assaults, according to the New York Times, potentially giving Moscow leverage in upcoming U.S.-mediated peace talks.
+- The Supreme Court [struck down](https://news.google.com/rss/articles/CBMimgFBVV95cUxPOU11M25SMmpMUldOYXBYdFlOWk90S1k3X2x1QVhEcEF4OEdVZlFTOFlVM242b09ZYkJjbWhyVDI2SktfY3Q0TTNqVnlOZWJSXzYwZFd4WHpmT19iSFZZY2xFYnZlWmRlNU1xNndQaVlCT1FZN3BoTkFteEdNOVNrMVVkNGk3VHVDaGpNa1JBcXVJNzhvMHpCdTl3?oc=5) Trump's tariffs, but businesses now face the complex task of processing refunds while Trump [raised tariffs](https://news.google.com/rss/articles/CBMioAFBVV95cUxOVjl3Y29hTHRRTkExeEZnZlBFdWtIWW80Z19hbDdhLV9qQnUxdHVoTkVaalRSMDBzeXJMWWFiTW9RM1ZmeG1KUFJNbEtDM2ZKeXBvU1VaSUo5WVVvV2xIQzhaNEQ5VVhxN0NMazlGYzRYcUVFbnlpbzF0RTJlaHZBMEZpNTNPbHRhb1FZTWNvZDNMZ2libkZKTktzeWxLUWJL?oc=5) to 15 percent.
 
-- Trump's threats to impose sanctions on Cuba's oil suppliers have put Mexico in a [precarious position](https://www.nytimes.com/2026/02/10/world/americas/mexico-cuba-oil.html), forcing President Claudia Sheinbaum into a delicate balancing act between its longstanding alliance with Havana and pressure from Washington.
+- NASA's moon rocket [hit another](https://news.google.com/rss/articles/CBMikgFBVV95cUxQanhPM3BxTjR0ckNwbUxPVXRqV0FJaEQyTnFwZVhRMG9taWV0VlpONVl1cjFCTDhzOUZZTThjQWZocC13cExQSjFVcTV0Tnl3Yk5ybGNQdXNFenVaMXZVVGRtUERQcFdiRUF1azBxZmIxc3VyRmFWcTM0TWxUMVhfZW5zdWQwSG0wVXZSWnNBQTE5Zw?oc=5) technical problem, likely pushing the astronaut lunar mission into April, according to AP.
 
-- The New York Times reveals how British politician Peter Mandelson [concealed the](https://www.nytimes.com/2026/02/10/world/europe/ties-peter-mandelson-jeffrey-epstein.html) depth of his friendship with convicted sex offender Jeffrey Epstein for years until new files were released.
+- Hundreds [marched in](https://news.google.com/rss/articles/CBMinwFBVV95cUxOdWFqTXFpbHlNMmJOUXQ4bFhvWjFkemJnVGs1X2thTjcxSmF2TmZFc1FWYXVBZWNFS3ZkNGVfdUFCVmFhSngzT2pnS2V4OVFXTDdlTDZOdEhMWUlvcnZyck8tNVBfY3JqMTc5a2g2SlZBc1Atbk05V1NSYkVMWkxicVZKRjB3YXRyZGlIWDhzREZVajg1b0ZIeTZBUWpoaW8?oc=5) Lyon to protest a far-right activist's killing as Macron urged calm, per AP reporting.
 
-- Israeli President Isaac Herzog's visit to Australia [created widespread](https://www.nytimes.com/2026/02/10/world/australia/australia-herzog-protest-violence.html) rallies and tested the country's restrictions on protests that were installed after a deadly attack on a Jewish celebration.
+- Seven Chinese tourists [were recovered](https://www.bbc.com/news) dead from the bottom of Lake Baikal after their diving expedition went wrong, the BBC reports.
 
-- Trump has [threatened to](https://www.nytimes.com/2026/02/10/world/canada/trump-carney-gordie-howe-bridge-detroit.html) block the opening of a new U.S.-Canada bridge, marking the latest challenge for the long-delayed Gordie Howe International Bridge project connecting Detroit and Windsor.
-
-- Olympic officials [banned a](https://www.nytimes.com/2026/02/10/world/europe/ukraine-winter-olympics-skeleton-helmet-war.html) Ukrainian skeleton athlete's helmet honoring war dead, prompting the athlete to say he would risk disqualification to wear it despite IOC rules against political speech.
+- Former Prince Andrew's [arrest upends](https://www.nytimes.com/2026/02/20/world/europe/prince-andrew-arrest-epstein-royal-family-uk.html) the royal family's efforts to move past his Epstein scandal, per the New York Times.
 
 **Conflicts & Diplomacy**
 
-- Hamas would [keep some](https://www.nytimes.com/2026/02/10/world/middleeast/hamas-weapons-draft-plan.html) weapons initially under a draft Gaza plan, Reuters reports, with Israel unlikely to withdraw troops before militant groups lay down their arms.
+- Life is [harsh and](https://news.google.com/rss/articles/CBMimwFBVV95cUxNYXJROVp4eDJrdW5CQ0luUUxDenFacW5paVQxOU1xUERjTjlwVVlUdFJ5VkNsb0NpcnMyZUtKT1VxMy13MlI3bTVqQmlmUHB2cktnZkJ5di1uMnFILW1aem9vNW1KT3BUYVBFdG43Ni1Cc21zZUU2RXJadm9jcEdGUWtLN09MYlY5NzhJNUl3amdWT0JreVktR0d2UQ?oc=5) dangerous in Russian-run parts of Ukraine, activists and former residents tell AP.
 
-- Mexico's defense secretary says about 137,000 rounds of ammunition [seized from](https://www.nytimes.com/2026/02/10/world/americas/mexico-cartel-ammunition-us-army.html) cartels since 2012 have been traced to U.S. sources, with 47 percent coming from an Army plant in Kansas City, Missouri.
+- A US ambassador [caused uproar](https://news.google.com/rss/articles/CBMirwFBVV95cUxQRkZIYVlvbTl5aGpPTjBKRmRwdkM3Z0RxcEY2ZUlRa041My1TcnhON0lyMGhJSjYtOVpuNWJEVEVMOEdrQmtnQjQ3TF9raDJOZnZfVnhPajB4bmY0Rms1SFpfUi1PWXIzQldYT2kzN3k3a3ZZWjRLb0RxZ254VnJBcGhZVnZBMmNNSGh2LVJ6ak9qRVJDS2twaDdBWGhnQjVmX1lROTgxMDREc3ozbHdJ?oc=5) by claiming Israel has a right to much of the Middle East, according to AP.
 
-- Russian attacks have [knocked out](https://www.nytimes.com/2026/02/10/world/europe/ukraine-war-russia-power-cold.html) heating across Ukraine, forcing Kyiv residents to find creative ways to stay warm during a harsh winter, including sleeping in tents on their beds.
+- A Palestinian-American teenager [was laid](https://www.nytimes.com/2026/02/20/world/middleeast/palestinian-american-teenager-killed-west-bank.html) to rest after being shot dead by an Israeli settler in the West Bank, the Guardian notes.
+
+- A Trump official [backed Russia's](https://www.nytimes.com/2026/02/21/world/europe/trump-administration-russia-global-sports-return.html) return to global sports, endorsing participation at next month's Paralympics despite European dismay.
 
 **Business & Markets**
 
-- Chinese AI startup DeepSeek's new model [triggered a](https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main) broad selloff in U.S. AI stocks, with Nvidia falling 16 percent as investors questioned American companies' dominance in artificial intelligence.
+- European leaders [face uncertainty](https://www.nytimes.com/2026/02/21/world/europe/political-uncertainty-trump-tariff-loss.html) after Trump's Supreme Court tariff loss, which could distract from China challenges and Ukraine war issues.
 
-- Arabica coffee prices [hit record](https://www.wsj.com/articles/arabica-coffee-prices-hit-new-high-on-u-s-colombia-tariff-spat-582446fe?mod=rss_markets_main) levels following the U.S.-Colombia tariff dispute, according to the Wall Street Journal, before Trump withdrew his threats against the South American nation.
+- ICE [begins purchasing](https://news.google.com/rss/articles/CBMiogFBVV95cUxOLTZSb2g5c1NNM1VFbG9pSzdBb09HbEk4WXFYcWxSVnFwYloyVlBIcE54MW52QUw5Y1BScWptdWRZN0xfbkM3SG50ckF2eUNxMjZiVDVhY2pSU2N2VENXR3BhWDcxWW5XZVlHeHFmT05rSDhwc0pQRmtLMm05VFdtclBvcENxUTREaDN4bENfNGlBbmk5TXM0Um55ZnVVclF1ekE?oc=5) warehouses for detention centers, though some owners are backing out of deals.
 
-- Safe-haven currencies including the Swiss franc and Japanese yen [gained strength](https://www.wsj.com/articles/safe-haven-currencies-strengthen-amid-fears-over-global-tariffs-9964e17a?mod=rss_markets_main) as the DeepSeek news spooked investors and drove them away from riskier assets.
+- The US military [airlifted a](https://news.google.com/rss/articles/CBMipAFBVV85cUxNVDduTW9kd09RXy1YN3FMeXI0bzRyTTVfeDZKNURrMGNqMC03dFJQVFBNVENVSHJxa2hLeWtUVW5ISEpIc1JpZEpxTjZNcUFhRXF3bkJfeEptZlJnRkxhLUZsS0RGaGM1Ym51UkRnMkRpM2hBSkNLekF3VlRQZFJZRUVMQV92dFdVM3J2alBhNWNTUlRzUHFDV0hXbEpaMHZhcnpMeA?oc=5) small reactor as Trump pushes rapid nuclear power deployment, AP reports.
 
 **Also Notable**
 
-- A shift in Chinese consumer preferences has [thrown Malaysian](https://www.nytimes.com/2026/02/10/world/asia/durian-malaysia-china-demand.html) durian farmers into turmoil after a decade of immense profits as Beijing's demand for the pungent fruit changes.
+- India [tries to](https://www.nytimes.com/2026/02/21/world/asia/ai-summit-india-foreign-policy.html) find a way between the US and China at an AI summit, casting itself as a moral voice for developing countries.
 
-- Italy's top sports journalists are [planning to](https://www.nytimes.com/2026/02/10/world/europe/olympics-italy-rai-broadcaster-gaffe-strike.html) strike over anchor Paolo Petrecca's numerous gaffes while commentating on the Olympics opening ceremonies for the country's public broadcaster.
+- Gisèle Pelicot [breaks her](https://www.nytimes.com/2026/02/21/gisele-pelicot-interview-hymn-to-life.html) silence after surviving mass rape, now publicizing her ordeal to explain how she survived it.
