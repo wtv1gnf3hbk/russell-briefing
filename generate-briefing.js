@@ -400,10 +400,16 @@ async function scrapeAll(config) {
     return true;
   });
 
+  // Extract daybook stories separately for What to Watch section.
+  // These are tagged category:"daybook" in sources.json and come from
+  // Google News RSS queries targeting forward-looking event language.
+  const daybook = deduped.filter(s => s.category === 'daybook');
+
   return {
     allStories: deduped,
     byCategory,
     byPriority,
+    daybook,
     screenshots,
     failed,
     sourceCount: sources.length,
@@ -590,6 +596,7 @@ async function main() {
       successCount: results.successCount,
       totalStories: results.allStories.length,
       totalScreenshots: results.screenshots.length,
+      daybookStories: results.daybook.length,
       elapsed: `${elapsed}s`
     },
     stories: {
@@ -597,6 +604,9 @@ async function main() {
       byCategory: results.byCategory,
       byPriority: results.byPriority
     },
+    // Daybook: forward-looking event stories for What to Watch section.
+    // Separated from main stories so Claude gets them as dedicated input.
+    daybook: results.daybook,
     screenshots: results.screenshots,
     sleepFilter: sleepFilter,
     feedHealth: { failed: results.failed }
@@ -610,6 +620,7 @@ async function main() {
   console.log('='.repeat(50));
   console.log(`Sources: ${results.successCount}/${results.sourceCount}`);
   console.log(`Stories: ${results.allStories.length}`);
+  console.log(`Daybook: ${results.daybook.length}`);
   console.log(`Screenshots: ${results.screenshots.length}`);
 
   if (results.failed.length > 0) {

@@ -291,6 +291,10 @@ function buildPrompt(briefing) {
   const primaryStories = (byPriority.primary || []).slice(0, 15);
   const secondaryStories = (byPriority.secondary || []).slice(0, 15);
 
+  // Daybook stories: forward-looking event data from dedicated Google News
+  // RSS queries. Passed separately so Claude uses them for "What to Watch".
+  const daybookStories = (briefing.daybook || []).slice(0, 15);
+
   // Get screenshot headline data for editorial priority detection
   const screenshots = briefing.screenshots || [];
 
@@ -352,7 +356,7 @@ Write an ALL-BULLETS briefing using ONLY these sections:
 
 4. **Also Notable** (2-3 bullets): Important stories that do not fit above — climate, health, elections, cultural events with global significance. Skip if nothing notable.
 
-5. **What to Watch** (2-3 bullets): Scheduled events and developments expected TODAY or in the coming days — state visits, summits, court rulings, parliamentary votes, central bank decisions, treaty deadlines, rocket launches, elections. Only include events with a known date or timeframe mentioned in the source material. Skip entirely if nothing is on the calendar.
+5. **What to Watch** (2-3 bullets): Scheduled events and developments expected TODAY or in the coming days. Use the UPCOMING EVENTS (daybook) data below as your primary source for this section. Only include events with a specific date or timeframe mentioned in the source material. Skip entirely if the daybook data has nothing compelling.
 
 Every bullet must have at least one link. Do NOT include a Sources section — the links within bullets are sufficient.
 
@@ -366,6 +370,9 @@ ${JSON.stringify(primaryStories, null, 2)}
 
 SECONDARY STORIES (wider net: NYT, Al Jazeera, France24, WSJ Markets):
 ${JSON.stringify(secondaryStories, null, 2)}
+
+UPCOMING EVENTS (daybook — use these for the "What to Watch" section):
+${JSON.stringify(daybookStories, null, 2)}
 
 Write the briefing now.`;
 

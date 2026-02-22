@@ -6,7 +6,7 @@ Daily international news briefing for Russell Goldman. All bullets, no prose. Re
 
 Two-stage pipeline (same architecture as japan-briefing):
 
-1. **`generate-briefing.js`** — Scrapes 10 RSS feeds + takes 5 homepage screenshots. Extracts top headlines from screenshot pages via DOM scraping for editorial priority detection. Outputs `briefing.json`.
+1. **`generate-briefing.js`** — Scrapes 13 RSS feeds (10 news + 3 daybook) + takes 6 homepage screenshots. Extracts top headlines from screenshot pages via DOM scraping for editorial priority detection. Daybook feeds are Google News RSS queries targeting forward-looking event language (summits, rate decisions, scheduled events). Outputs `briefing.json`.
 
 2. **`write-briefing.js`** — Two-step pipeline: Writer (Sonnet) drafts briefing, Editor (Sonnet) copy-edits for grammar/style bugs. Outputs `briefing.md` + `index.html`.
 
@@ -24,7 +24,8 @@ ANTHROPIC_API_KEY=sk-ant-... npm run write       # Claude -> index.html
 
 **Primary RSS (7):** NYT World, AP, Reuters, BBC World, WSJ World, FT, Guardian World
 **Secondary RSS (3):** Al Jazeera, WSJ Markets, France24
-**Screenshots (5):** NYT, BBC, WSJ, Guardian, FT homepages (priority signals only, not displayed)
+**Daybook RSS (3):** Google News queries for international events, economic calendar, scheduled events (forward-looking data for "What to Watch")
+**Screenshots (6):** AP, Reuters, BBC, WSJ, Guardian, FT homepages (priority signals only, not displayed)
 
 Source config: `sources.json`
 
@@ -54,6 +55,7 @@ Set token: `cd cloudflare-worker && npx wrangler secret put GITHUB_TOKEN`
 - **All bullets.** No prose sections. Five sections: Top Stories, Conflicts & Diplomacy, Business & Markets, Also Notable, What to Watch.
 - **No email.** Russell bookmarks the GitHub Pages URL.
 - **15 items per RSS feed** (vs japan-briefing's 10) to cast a wider net for international stories.
+- **Daybook feeds power "What to Watch."** Three Google News RSS queries with forward-looking search terms (summits, rate decisions, "scheduled for", etc.) are scraped into a separate `daybook` array in `briefing.json` and passed to Claude as dedicated event data. This replaced the original approach of having Claude guess events from regular RSS stories.
 
 ## File Structure
 

@@ -90,6 +90,32 @@
       "category": "wire"
     },
 
+    { "_comment": "=== DAYBOOK (forward-looking event feeds for What to Watch) ===" },
+    {
+      "id": "daybook_intl",
+      "name": "Daybook: International Events",
+      "type": "rss",
+      "url": "https://news.google.com/rss/search?q=when:7d+(\"summit\"+OR+\"state+visit\"+OR+\"G7\"+OR+\"G20\"+OR+\"NATO+summit\"+OR+\"UN+vote\"+OR+\"EU+summit\"+OR+\"peace+talks\")&ceid=US:en&hl=en-US&gl=US",
+      "priority": "reference",
+      "category": "daybook"
+    },
+    {
+      "id": "daybook_econ",
+      "name": "Daybook: Economic Calendar",
+      "type": "rss",
+      "url": "https://news.google.com/rss/search?q=when:7d+(\"rate+decision\"+OR+\"central+bank+meeting\"+OR+\"Fed+meeting\"+OR+\"ECB+meeting\"+OR+\"earnings+report\"+OR+\"trade+deadline\")&ceid=US:en&hl=en-US&gl=US",
+      "priority": "reference",
+      "category": "daybook"
+    },
+    {
+      "id": "daybook_scheduled",
+      "name": "Daybook: Scheduled Events",
+      "type": "rss",
+      "url": "https://news.google.com/rss/search?q=when:3d+(\"scheduled+for\"+OR+\"set+to+begin\"+OR+\"begins+today\"+OR+\"opens+today\"+OR+\"ruling+expected\"+OR+\"vote+scheduled\"+OR+\"deadline\")&ceid=US:en&hl=en-US&gl=US",
+      "priority": "reference",
+      "category": "daybook"
+    },
+
     { "_comment": "=== SCREENSHOTS (editorial priority detection only — not displayed in output) ===" },
     {
       "id": "ap_homepage",
