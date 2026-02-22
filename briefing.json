@@ -4,18 +4,168 @@
     "owner": "Russell Goldman",
     "timezone": "America/New_York",
     "description": "Daily international news briefing — all bullets, ready by 6am ET",
-    "generated": "2026-02-22T01:49:08.502Z",
-    "generatedTimestamp": 1771724948502
+    "generated": "2026-02-22T01:55:16.183Z",
+    "generatedTimestamp": 1771725316183
   },
   "stats": {
     "sourceCount": 16,
     "successCount": 16,
-    "totalStories": 130,
+    "totalStories": 145,
     "totalScreenshots": 6,
-    "elapsed": "31.2s"
+    "elapsed": "30.2s"
   },
   "stories": {
     "all": [
+      {
+        "headline": "Teachers describe immigration enforcement's impact on classrooms in challenge of Trump policy - AP News",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM25sUHRKa09fYjYtcVozeGlOQ29ibnpqWVV1Ni04QWxHRnJFa25VRnBYOU80YkoxeXNucFNnajhNZmV0WWFRRmNyZlhWZWtnUE9hdDZXdGYzUF9RR19xRDVnZ2tkU2tLTUZxSzlKNHFqWnM4RHJSc1VHTHNVQlNmUnVOUm56T1dnR2RxVUdJZWkxVFJ5Z2hvT0lHYXlkQ25tMEJsRWg0cEh3UQ?oc=5",
+        "source": "AP",
+        "sourceId": "ap_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Sat, 21 Feb 2026 22:55:10 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM25sUHRKa09fYjYtcVozeGlOQ29ibnpqWVV1Ni04QWxHRnJFa25VRnBYOU80YkoxeXNucFNnajhNZmV0WWFRRmNyZlhWZWtnUE9hdDZXdGYzUF9RR19xRDVnZ2tkU2tLTUZxSzl"
+      },
+      {
+        "headline": "United States wins 3rd Olympic gold in women's hockey, beating Canada 2-1 on Megan Keller's OT goal - AP News",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS1IzbWNEU1FuTVNIQjY5RVNTTHpxZjVBMXB5UFE0Uk45c19VQ0pydzNFZ1ZVYmVRUm1neVZWLWdITV9SMndUQTVhdXZyUlhrdkRWSmE0OGZERzFyQUVQTHQzNXdfTFdDWFh3cjBYakxaNm56R2VHdlZKY1VKSXdhOXFUdkU0LVdXUzdVVE9ZNlljVDVBYkdBZ0dzbld5Zw?oc=5",
+        "source": "AP",
+        "sourceId": "ap_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Sat, 21 Feb 2026 23:48:52 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQS1IzbWNEU1FuTVNIQjY5RVNTTHpxZjVBMXB5UFE0Uk45c19VQ0pydzNFZ1ZVYmVRUm1neVZWLWdITV9SMndUQTVhdXZyUlhrdkRWSmE0OGZERzFyQUVQTHQzNXdfTFdDWFh3cjB"
+      },
+      {
+        "headline": "NCAA College Basketball Rankings: AP Top 25 Basketball Poll - AP News",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiclRXTGdGRmhNSVBZOEhVMjdaWTFWdXIwOFA4UTd6T0plQTJ0UmZlSUE2WEMwQmYzQ0NJam1KcWhVLVZXY1cwYWNKTU9GRjY4MXJacTlKX3BUdnlCYW1TdnVVX3pHcTQ?oc=5",
+        "source": "AP",
+        "sourceId": "ap_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Sun, 22 Feb 2026 00:04:34 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiclRXTGdGRmhNSVBZOEhVMjdaWTFWdXIwOFA4UTd6T0plQTJ0UmZlSUE2WEMwQmYzQ0NJam1KcWhVLVZXY1cwYWNKTU9GRjY4MXJacTlKX3BUdnlCYW1TdnVVX3pHcTQ?oc=5\" t"
+      },
+      {
+        "headline": "Crews recover bodies of 9 backcountry skiers days after California avalanche - AP News",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLVpWcVZrOURpM3FaTXlSVnBvZVZxZ0ZyMTdObFpQcklGaHk3d0VEZFYwY0hCVkM2TWVLVkhrTlA4dlptcUJ3QURKZi15YlVVVE1ncDJrY0V0cklEX1hiaTRSVjRlbkNPN2Y3RU02RmVyXzlWR3F2TVVkbHgteEZWcE51MTVZQ0swdWNQQXFjUUhxRTFmSXEwMHZqakFKNkdROFAwVUNncnNaWG9zWnNLSTQ1bnZ2Mmc?oc=5",
+        "source": "AP",
+        "sourceId": "ap_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Sun, 22 Feb 2026 01:12:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPLVpWcVZrOURpM3FaTXlSVnBvZVZxZ0ZyMTdObFpQcklGaHk3d0VEZFYwY0hCVkM2TWVLVkhrTlA4dlptcUJ3QURKZi15YlVVVE1ncDJrY0V0cklEX1hiaTRSVjRlbkNPN2Y3RU0"
+      },
+      {
+        "headline": "US military airlifts small reactor as Trump pushes to quickly deploy nuclear power - AP News",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVDduTW9kd09RXy1YN3FMeXI0bzRyTTVfeDZKNURrMGNqMC03dFJQVFBNVENVSHJxa2hLeWtUVW5ISEpIc1JpZEpxTjZNcUFhRXF3bkJfeEptZlJnRkxhLUZsS0RGaGM1Ym51UkRnMkRpM2hBSkNLekF3VlRQZFJZRUVMQV92dFdVM3J2alBhNWNTUlRzUHFDV0hXbEpaMHZhcnpMeA?oc=5",
+        "source": "AP",
+        "sourceId": "ap_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Sat, 21 Feb 2026 17:09:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNVDduTW9kd09RXy1YN3FMeXI0bzRyTTVfeDZKNURrMGNqMC03dFJQVFBNVENVSHJxa2hLeWtUVW5ISEpIc1JpZEpxTjZNcUFhRXF3bkJfeEptZlJnRkxhLUZsS0RGaGM1Ym51UkR"
+      },
+      {
+        "headline": "JPMorgan concedes it closed Trump’s accounts after Jan. 6 attack - AP News",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQ0t0bjBlamNtQmx0ZXN2QnR1TVVucGRteUZIaTR2QmlDSUpQdEx5TWVMRW8wTThqS1QydE51QkV1cDFQWWJqWmNvVDFVeWxpckIzdHN0V25PNnp2SGM5NWxWMVZONXE0SVg1QktkdUJ5TF9mQkhsVXhYVTB1aDJrRTF6R3YxX3hPZlRTSllOekwxX1pm?oc=5",
+        "source": "AP",
+        "sourceId": "ap_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Sat, 21 Feb 2026 21:45:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNQ0t0bjBlamNtQmx0ZXN2QnR1TVVucGRteUZIaTR2QmlDSUpQdEx5TWVMRW8wTThqS1QydE51QkV1cDFQWWJqWmNvVDFVeWxpckIzdHN0V25PNnp2SGM5NWxWMVZONXE0SVg1Qkt"
+      },
+      {
+        "headline": "A record-setting Winter Olympics: 6 golds and 17 medals for the US in women's events set marks - AP News",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNzM0YUd3SEpvSUVIT3Q4cThiQThYUWp6RS1JSWRNUjVtUzEwN1NqYTBHaVIxVTRXakpHMTNhY0t1elVuR3cwWkROb0tPOTRnVGExVWFBNElMTHU1SFN1MWJwUDBnWU55ektvY0lXcGNwS2NKeWx5MG9QRDZqc0JkNTdNa1NSd0xIN3hDXw?oc=5",
+        "source": "AP",
+        "sourceId": "ap_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Sat, 21 Feb 2026 21:02:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPNzM0YUd3SEpvSUVIT3Q4cThiQThYUWp6RS1JSWRNUjVtUzEwN1NqYTBHaVIxVTRXakpHMTNhY0t1elVuR3cwWkROb0tPOTRnVGExVWFBNElMTHU1SFN1MWJwUDBnWU55ektvY0l"
+      },
+      {
+        "headline": "Attorney General Ken Paxton backs ivermectin champion’s fight against Texas Medical Board - AP News",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQ3pibkhOTVNuYUhldjRUVmpoRlY3N0dUMERZWUVKVmN1dGlUUXdodHBZQnlqNHB0OEJWSWZnaVlCM0hrbWhmUEw2OXhQNWlQY0VDaE5WeW9TY25oZTR1cC14dWVtNHFvUFNFOEUzZHF4SHV0emhCN1FxalQ2MHVRLWEzZE5TV2dsSjUwTDZoSHhveFEwdE5OOXVGWU9HR3AweGsxX0ZGeFc5M29mQXcxZEpVcnJyUXdiMV9ZZWNDclJ0ZHF5STMw?oc=5",
+        "source": "AP",
+        "sourceId": "ap_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Sat, 21 Feb 2026 23:25:38 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNQ3pibkhOTVNuYUhldjRUVmpoRlY3N0dUMERZWUVKVmN1dGlUUXdodHBZQnlqNHB0OEJWSWZnaVlCM0hrbWhmUEw2OXhQNWlQY0VDaE5WeW9TY25oZTR1cC14dWVtNHFvUFNFOEU"
+      },
+      {
+        "headline": "Ski guides in spotlight as investigators probe deadly California avalanche - AP News",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTHI2WmFJTHo2eWg3S1c0WVZod0RJZXhiVER2Wkctb2JodnoxSHY1b1ZvdFlrR1dvXzhiWHhwemhhYVE5UExyeDFuX2c1YVpKQ2JERWhxRmpVb1A2cXRockVValJSYlcyaTN0TGo3ZWlrbV9UNTNuN2luSWVNS0dXUUhsRnB4eEJvRmhjdkctRGFuRFRqNG5DMkZYVFZfOWxpTWxHZzV1VEdNVzQ?oc=5",
+        "source": "AP",
+        "sourceId": "ap_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Sat, 21 Feb 2026 19:53:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTHI2WmFJTHo2eWg3S1c0WVZod0RJZXhiVER2Wkctb2JodnoxSHY1b1ZvdFlrR1dvXzhiWHhwemhhYVE5UExyeDFuX2c1YVpKQ2JERWhxRmpVb1A2cXRockVValJSYlcyaTN0TGo"
+      },
+      {
+        "headline": "US ambassador causes uproar by claiming Israel has a right to much of the Middle East - AP News",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRkZIYVlvbTl5aGpPTjBKRmRwdkM3Z0RxcEY2ZUlRa041My1TcnhON0lyMGhJSjYtOVpuNWJEVEVMOEdrQmtnQjQ3TF9raDJOZnZfVnhPajB4bmY0Rms1SFpfUi1PWXIzQldYT2kzN3k3a3ZZWjRLb0RxZ254VnJBcGhZVnZBMmNNSGh2LVJ6ak9qRVJDS2twaDdBWGhnQjVmX1lROTgxMDREc3ozbHdJ?oc=5",
+        "source": "AP",
+        "sourceId": "ap_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Sat, 21 Feb 2026 21:25:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQRkZIYVlvbTl5aGpPTjBKRmRwdkM3Z0RxcEY2ZUlRa041My1TcnhON0lyMGhJSjYtOVpuNWJEVEVMOEdrQmtnQjQ3TF9raDJOZnZfVnhPajB4bmY0Rms1SFpfUi1PWXIzQldYT2k"
+      },
+      {
+        "headline": "NYC nursing walkout ends as last striking nurses approve new contract - AP News",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaUxUZ2pLcUJoTW1kUENLZ3lQQUUxWTNHeGw3Y3dNeW1FOXlyQnBkTkttUFg2bkpiTF92ZVBuR3UzUGFwT2hnRTBNNFA5N2ZwUXpobWJ1emlVMFZBd2pUQW1WTDh2YVRKMnkwRG5fdDlrM2JyamtqZzZrVFN4eDBfSk43Z3JDa1NhOHBidFI3NFdIUW9uaHpHU3pVLUYyZXRR?oc=5",
+        "source": "AP",
+        "sourceId": "ap_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Sun, 22 Feb 2026 00:17:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNaUxUZ2pLcUJoTW1kUENLZ3lQQUUxWTNHeGw3Y3dNeW1FOXlyQnBkTkttUFg2bkpiTF92ZVBuR3UzUGFwT2hnRTBNNFA5N2ZwUXpobWJ1emlVMFZBd2pUQW1WTDh2YVRKMnkwRG5"
+      },
+      {
+        "headline": "Trump approves disaster assistance to DC to help with sewage spill into Potomac River - AP News",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMGRqRkZGUVpNUkQ0Q2xqalJJNmZkd2xWZ3lxMUtVOHBRYzBPLTI1eUJxOGJXVk9LTFN5dFVIN2tmbWlyRmpMT1BnTFhoUUV4UDNGdF96XzM4cFZUcXV5WnN0NFJmS0FFRHZ3OXBEc21seHFQQkVucGtYcE1BMVRUUWhEMllJWl9mVnQ3WENSUXl3RDJwVkhtdXQ2aU11Sl9GcENrN0ZHczFBai05V3kxNA?oc=5",
+        "source": "AP",
+        "sourceId": "ap_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Sat, 21 Feb 2026 23:00:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQMGRqRkZGUVpNUkQ0Q2xqalJJNmZkd2xWZ3lxMUtVOHBRYzBPLTI1eUJxOGJXVk9LTFN5dFVIN2tmbWlyRmpMT1BnTFhoUUV4UDNGdF96XzM4cFZUcXV5WnN0NFJmS0FFRHZ3OXB"
+      },
+      {
+        "headline": "Mamdani reboots homeless encampment sweeps in New York City - AP News",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS2RrdmFYZkdaSGlWeDNEYVZpWVdSYTdyX0tMUFBITVNBaTRaNDZ5elJWY1ZKU0JnRHM4TnhjMUJMeWpQMXp5RjVVczJNRWRjN0FnWHB3TW12Tk44WnQweHBEVGJXLVlMbzNCYWE3U0dNa1d0ZFVaeExnM05fd1Z3N20zdEFmaW44cjUxN3BFdTlWQXRLRWdaNmpzSDB0VjRINlBYSg?oc=5",
+        "source": "AP",
+        "sourceId": "ap_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Sat, 21 Feb 2026 22:46:22 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOS2RrdmFYZkdaSGlWeDNEYVZpWVdSYTdyX0tMUFBITVNBaTRaNDZ5elJWY1ZKU0JnRHM4TnhjMUJMeWpQMXp5RjVVczJNRWRjN0FnWHB3TW12Tk44WnQweHBEVGJXLVlMbzNCYWE"
+      },
+      {
+        "headline": "White House dinner closes a turbulent week for governors in Washington - AP News",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaGtPdmdNR2NKNTI3d001WUV6REp0OGd6VTFKUkdVOGhDazdzRWdwTG1kR0ZtYTM5blIzVzRuVVpNczdXaDhtMDd1NUdnVlhjejJwTmRjNGxyUnZjbTkzV3J0VFYxdXU1UWRRcS1tUHVZZlVlOGZDZ2xmSEFMZmwxSTM3Z0tXbW9kLWtrT3dfSHFEamFxLURGRjh2MHFBX3ZuRnhtbURlUQ?oc=5",
+        "source": "AP",
+        "sourceId": "ap_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Sun, 22 Feb 2026 01:29:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOaGtPdmdNR2NKNTI3d001WUV6REp0OGd6VTFKUkdVOGhDazdzRWdwTG1kR0ZtYTM5blIzVzRuVVpNczdXaDhtMDd1NUdnVlhjejJwTmRjNGxyUnZjbTkzV3J0VFYxdXU1UWRRcS1"
+      },
+      {
+        "headline": "Winter Olympics recap: Meyers Taylor finally gets gold for US and Eileen Gu wins second silver - AP News",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaHFCbnlQSHd1V1J6bE9oZ2lYSVliOHc2a1hHek42Q0FKdkhEVzRJb0ZtUl92UVRnUDRzSXl3MXl6TWRzaTFuT01tVnljTXdSOWVhSzZrT2l5ekJESVcyXzY3cGRxckM2dTY3aHBwNl93R1pvNk5iaDBJYkMzMU9wZHg5ZzRTYnFDTDIzc3ZBOGIwQ2c?oc=5",
+        "source": "AP",
+        "sourceId": "ap_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Sat, 21 Feb 2026 23:12:22 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQaHFCbnlQSHd1V1J6bE9oZ2lYSVliOHc2a1hHek42Q0FKdkhEVzRJb0ZtUl92UVRnUDRzSXl3MXl6TWRzaTFuT01tVnljTXdSOWVhSzZrT2l5ekJESVcyXzY3cGRxckM2dTY3aHB"
+      },
       {
         "headline": "UAE foils cyber attacks, state news agency says - Reuters",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdFhrVGlwVnoxWVBId1lPcXZQc3hjSDZrbzk5RldJV25HX0wtSUp1Tk9Ecjlvc19JVXdGSjNXTjU0bklRb296aWh3bG1YLTBhNVZXU0VwckJVU05USkh0X2V6dUFSTnFtUTJERHVFeE9IRF9KUmRKbDdUbU8xU3o2Sl9POVRWNmhXbVMwZmw2dk01TkNCdkJZLWVLVThZZHhuUlE?oc=5",
@@ -27,14 +177,14 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQdFhrVGlwVnoxWVBId1lPcXZQc3hjSDZrbzk5RldJV25HX0wtSUp1Tk9Ecjlvc19JVXdGSjNXTjU0bklRb296aWh3bG1YLTBhNVZXU0VwckJVU05USkh0X2V6dUFSTnFtUTJERHV"
       },
       {
-        "headline": "Germany's Merz hopes for relief after Trump tariff verdict but uncertainty lingers - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNTVxT0xGVFhLTm1QX1NLTThSQUVjOGZNeWdGT0hIdWMyM2hPbHZQRF9GN0RhT3g5eGFrYzhCZEZ4QnVJNHhQQzMxaEVGQWE0d0cxWU9QMFNMSFJOZFhweHFBWmNKV2NLLWR1MzZlb0tlb09Hek1lRXMxa0piZGYtTk9oUllEVmxQaVFhRlR6QzFXeHhsYnZwTEM5OWU1VVVtMUpiS25XOW9Ta3NPa0ZyLWxkcnM2eFlEaUsyZnVkemRFRkNMNlE?oc=5",
+        "headline": "After court ruling, Trump says US global tariff rate will rise from 10% to 15% - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPb0JETzNzZUstNjZNaW9XN1FEMjNVaThScS1rWFdlT2VNTVYxck8xY0V3SXlacHJPdVdoaUpVNTZnTkd5T1U2cmFPd25pdVpIUHJFUS1kQXZjQU1peFJQWGJ6aVVtSTRjc2JVS2hKcWpMZXJha3RBVkFzcEVQbWtSX3dxZmdvU3FYYXdYenl4TEwzQmRvVV9DVUR3?oc=5",
         "source": "Reuters",
         "sourceId": "reuters_world",
         "category": "wire",
         "priority": "primary",
-        "date": "Sat, 21 Feb 2026 15:11:36 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQNTVxT0xGVFhLTm1QX1NLTThSQUVjOGZNeWdGT0hIdWMyM2hPbHZQRF9GN0RhT3g5eGFrYzhCZEZ4QnVJNHhQQzMxaEVGQWE0d0cxWU9QMFNMSFJOZFhweHFBWmNKV2NLLWR1MzZ"
+        "date": "Sat, 21 Feb 2026 16:10:44 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPb0JETzNzZUstNjZNaW9XN1FEMjNVaThScS1rWFdlT2VNTVYxck8xY0V3SXlacHJPdVdoaUpVNTZnTkd5T1U2cmFPd25pdVpIUHJFUS1kQXZjQU1peFJQWGJ6aVVtSTRjc2JVS2h"
       },
       {
         "headline": "BNSF Says Mainlines Are Back Open And Operational After A Train Derailment Near Angora, NE, On Feb 20 - TradingView",
@@ -47,14 +197,14 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxOQ3NQcjM1dFR3bDNSSHVlaDhkX0U5MHh4VGxYNWZNdW1TVGx6TXAxR2RFbDFiOHJNa1NRQzVIcG9RbVl4Qm85OHc4UDFCU2hQMXdIRUhZLXlaWkhVRVJfYXNTVUNrYWJVT3dWRFF"
       },
       {
-        "headline": "After court ruling, Trump says US global tariff rate will rise from 10% to 15% - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPb0JETzNzZUstNjZNaW9XN1FEMjNVaThScS1rWFdlT2VNTVYxck8xY0V3SXlacHJPdVdoaUpVNTZnTkd5T1U2cmFPd25pdVpIUHJFUS1kQXZjQU1peFJQWGJ6aVVtSTRjc2JVS2hKcWpMZXJha3RBVkFzcEVQbWtSX3dxZmdvU3FYYXdYenl4TEwzQmRvVV9DVUR3?oc=5",
+        "headline": "Germany's Merz hopes for relief after Trump tariff verdict but uncertainty lingers - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNTVxT0xGVFhLTm1QX1NLTThSQUVjOGZNeWdGT0hIdWMyM2hPbHZQRF9GN0RhT3g5eGFrYzhCZEZ4QnVJNHhQQzMxaEVGQWE0d0cxWU9QMFNMSFJOZFhweHFBWmNKV2NLLWR1MzZlb0tlb09Hek1lRXMxa0piZGYtTk9oUllEVmxQaVFhRlR6QzFXeHhsYnZwTEM5OWU1VVVtMUpiS25XOW9Ta3NPa0ZyLWxkcnM2eFlEaUsyZnVkemRFRkNMNlE?oc=5",
         "source": "Reuters",
         "sourceId": "reuters_world",
         "category": "wire",
         "priority": "primary",
-        "date": "Sat, 21 Feb 2026 16:10:44 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPb0JETzNzZUstNjZNaW9XN1FEMjNVaThScS1rWFdlT2VNTVYxck8xY0V3SXlacHJPdVdoaUpVNTZnTkd5T1U2cmFPd25pdVpIUHJFUS1kQXZjQU1peFJQWGJ6aVVtSTRjc2JVS2h"
+        "date": "Sat, 21 Feb 2026 15:11:36 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQNTVxT0xGVFhLTm1QX1NLTThSQUVjOGZNeWdGT0hIdWMyM2hPbHZQRF9GN0RhT3g5eGFrYzhCZEZ4QnVJNHhQQzMxaEVGQWE0d0cxWU9QMFNMSFJOZFhweHFBWmNKV2NLLWR1MzZ"
       },
       {
         "headline": "Asma Khan on cooking with conscience - TradingView",
@@ -1320,6 +1470,156 @@
     "byCategory": {
       "wire": [
         {
+          "headline": "Teachers describe immigration enforcement's impact on classrooms in challenge of Trump policy - AP News",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM25sUHRKa09fYjYtcVozeGlOQ29ibnpqWVV1Ni04QWxHRnJFa25VRnBYOU80YkoxeXNucFNnajhNZmV0WWFRRmNyZlhWZWtnUE9hdDZXdGYzUF9RR19xRDVnZ2tkU2tLTUZxSzlKNHFqWnM4RHJSc1VHTHNVQlNmUnVOUm56T1dnR2RxVUdJZWkxVFJ5Z2hvT0lHYXlkQ25tMEJsRWg0cEh3UQ?oc=5",
+          "source": "AP",
+          "sourceId": "ap_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sat, 21 Feb 2026 22:55:10 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM25sUHRKa09fYjYtcVozeGlOQ29ibnpqWVV1Ni04QWxHRnJFa25VRnBYOU80YkoxeXNucFNnajhNZmV0WWFRRmNyZlhWZWtnUE9hdDZXdGYzUF9RR19xRDVnZ2tkU2tLTUZxSzl"
+        },
+        {
+          "headline": "United States wins 3rd Olympic gold in women's hockey, beating Canada 2-1 on Megan Keller's OT goal - AP News",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS1IzbWNEU1FuTVNIQjY5RVNTTHpxZjVBMXB5UFE0Uk45c19VQ0pydzNFZ1ZVYmVRUm1neVZWLWdITV9SMndUQTVhdXZyUlhrdkRWSmE0OGZERzFyQUVQTHQzNXdfTFdDWFh3cjBYakxaNm56R2VHdlZKY1VKSXdhOXFUdkU0LVdXUzdVVE9ZNlljVDVBYkdBZ0dzbld5Zw?oc=5",
+          "source": "AP",
+          "sourceId": "ap_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sat, 21 Feb 2026 23:48:52 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQS1IzbWNEU1FuTVNIQjY5RVNTTHpxZjVBMXB5UFE0Uk45c19VQ0pydzNFZ1ZVYmVRUm1neVZWLWdITV9SMndUQTVhdXZyUlhrdkRWSmE0OGZERzFyQUVQTHQzNXdfTFdDWFh3cjB"
+        },
+        {
+          "headline": "NCAA College Basketball Rankings: AP Top 25 Basketball Poll - AP News",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiclRXTGdGRmhNSVBZOEhVMjdaWTFWdXIwOFA4UTd6T0plQTJ0UmZlSUE2WEMwQmYzQ0NJam1KcWhVLVZXY1cwYWNKTU9GRjY4MXJacTlKX3BUdnlCYW1TdnVVX3pHcTQ?oc=5",
+          "source": "AP",
+          "sourceId": "ap_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sun, 22 Feb 2026 00:04:34 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiclRXTGdGRmhNSVBZOEhVMjdaWTFWdXIwOFA4UTd6T0plQTJ0UmZlSUE2WEMwQmYzQ0NJam1KcWhVLVZXY1cwYWNKTU9GRjY4MXJacTlKX3BUdnlCYW1TdnVVX3pHcTQ?oc=5\" t"
+        },
+        {
+          "headline": "Crews recover bodies of 9 backcountry skiers days after California avalanche - AP News",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLVpWcVZrOURpM3FaTXlSVnBvZVZxZ0ZyMTdObFpQcklGaHk3d0VEZFYwY0hCVkM2TWVLVkhrTlA4dlptcUJ3QURKZi15YlVVVE1ncDJrY0V0cklEX1hiaTRSVjRlbkNPN2Y3RU02RmVyXzlWR3F2TVVkbHgteEZWcE51MTVZQ0swdWNQQXFjUUhxRTFmSXEwMHZqakFKNkdROFAwVUNncnNaWG9zWnNLSTQ1bnZ2Mmc?oc=5",
+          "source": "AP",
+          "sourceId": "ap_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sun, 22 Feb 2026 01:12:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPLVpWcVZrOURpM3FaTXlSVnBvZVZxZ0ZyMTdObFpQcklGaHk3d0VEZFYwY0hCVkM2TWVLVkhrTlA4dlptcUJ3QURKZi15YlVVVE1ncDJrY0V0cklEX1hiaTRSVjRlbkNPN2Y3RU0"
+        },
+        {
+          "headline": "US military airlifts small reactor as Trump pushes to quickly deploy nuclear power - AP News",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVDduTW9kd09RXy1YN3FMeXI0bzRyTTVfeDZKNURrMGNqMC03dFJQVFBNVENVSHJxa2hLeWtUVW5ISEpIc1JpZEpxTjZNcUFhRXF3bkJfeEptZlJnRkxhLUZsS0RGaGM1Ym51UkRnMkRpM2hBSkNLekF3VlRQZFJZRUVMQV92dFdVM3J2alBhNWNTUlRzUHFDV0hXbEpaMHZhcnpMeA?oc=5",
+          "source": "AP",
+          "sourceId": "ap_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sat, 21 Feb 2026 17:09:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNVDduTW9kd09RXy1YN3FMeXI0bzRyTTVfeDZKNURrMGNqMC03dFJQVFBNVENVSHJxa2hLeWtUVW5ISEpIc1JpZEpxTjZNcUFhRXF3bkJfeEptZlJnRkxhLUZsS0RGaGM1Ym51UkR"
+        },
+        {
+          "headline": "JPMorgan concedes it closed Trump’s accounts after Jan. 6 attack - AP News",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQ0t0bjBlamNtQmx0ZXN2QnR1TVVucGRteUZIaTR2QmlDSUpQdEx5TWVMRW8wTThqS1QydE51QkV1cDFQWWJqWmNvVDFVeWxpckIzdHN0V25PNnp2SGM5NWxWMVZONXE0SVg1QktkdUJ5TF9mQkhsVXhYVTB1aDJrRTF6R3YxX3hPZlRTSllOekwxX1pm?oc=5",
+          "source": "AP",
+          "sourceId": "ap_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sat, 21 Feb 2026 21:45:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNQ0t0bjBlamNtQmx0ZXN2QnR1TVVucGRteUZIaTR2QmlDSUpQdEx5TWVMRW8wTThqS1QydE51QkV1cDFQWWJqWmNvVDFVeWxpckIzdHN0V25PNnp2SGM5NWxWMVZONXE0SVg1Qkt"
+        },
+        {
+          "headline": "A record-setting Winter Olympics: 6 golds and 17 medals for the US in women's events set marks - AP News",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNzM0YUd3SEpvSUVIT3Q4cThiQThYUWp6RS1JSWRNUjVtUzEwN1NqYTBHaVIxVTRXakpHMTNhY0t1elVuR3cwWkROb0tPOTRnVGExVWFBNElMTHU1SFN1MWJwUDBnWU55ektvY0lXcGNwS2NKeWx5MG9QRDZqc0JkNTdNa1NSd0xIN3hDXw?oc=5",
+          "source": "AP",
+          "sourceId": "ap_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sat, 21 Feb 2026 21:02:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPNzM0YUd3SEpvSUVIT3Q4cThiQThYUWp6RS1JSWRNUjVtUzEwN1NqYTBHaVIxVTRXakpHMTNhY0t1elVuR3cwWkROb0tPOTRnVGExVWFBNElMTHU1SFN1MWJwUDBnWU55ektvY0l"
+        },
+        {
+          "headline": "Attorney General Ken Paxton backs ivermectin champion’s fight against Texas Medical Board - AP News",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQ3pibkhOTVNuYUhldjRUVmpoRlY3N0dUMERZWUVKVmN1dGlUUXdodHBZQnlqNHB0OEJWSWZnaVlCM0hrbWhmUEw2OXhQNWlQY0VDaE5WeW9TY25oZTR1cC14dWVtNHFvUFNFOEUzZHF4SHV0emhCN1FxalQ2MHVRLWEzZE5TV2dsSjUwTDZoSHhveFEwdE5OOXVGWU9HR3AweGsxX0ZGeFc5M29mQXcxZEpVcnJyUXdiMV9ZZWNDclJ0ZHF5STMw?oc=5",
+          "source": "AP",
+          "sourceId": "ap_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sat, 21 Feb 2026 23:25:38 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNQ3pibkhOTVNuYUhldjRUVmpoRlY3N0dUMERZWUVKVmN1dGlUUXdodHBZQnlqNHB0OEJWSWZnaVlCM0hrbWhmUEw2OXhQNWlQY0VDaE5WeW9TY25oZTR1cC14dWVtNHFvUFNFOEU"
+        },
+        {
+          "headline": "Ski guides in spotlight as investigators probe deadly California avalanche - AP News",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTHI2WmFJTHo2eWg3S1c0WVZod0RJZXhiVER2Wkctb2JodnoxSHY1b1ZvdFlrR1dvXzhiWHhwemhhYVE5UExyeDFuX2c1YVpKQ2JERWhxRmpVb1A2cXRockVValJSYlcyaTN0TGo3ZWlrbV9UNTNuN2luSWVNS0dXUUhsRnB4eEJvRmhjdkctRGFuRFRqNG5DMkZYVFZfOWxpTWxHZzV1VEdNVzQ?oc=5",
+          "source": "AP",
+          "sourceId": "ap_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sat, 21 Feb 2026 19:53:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTHI2WmFJTHo2eWg3S1c0WVZod0RJZXhiVER2Wkctb2JodnoxSHY1b1ZvdFlrR1dvXzhiWHhwemhhYVE5UExyeDFuX2c1YVpKQ2JERWhxRmpVb1A2cXRockVValJSYlcyaTN0TGo"
+        },
+        {
+          "headline": "US ambassador causes uproar by claiming Israel has a right to much of the Middle East - AP News",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRkZIYVlvbTl5aGpPTjBKRmRwdkM3Z0RxcEY2ZUlRa041My1TcnhON0lyMGhJSjYtOVpuNWJEVEVMOEdrQmtnQjQ3TF9raDJOZnZfVnhPajB4bmY0Rms1SFpfUi1PWXIzQldYT2kzN3k3a3ZZWjRLb0RxZ254VnJBcGhZVnZBMmNNSGh2LVJ6ak9qRVJDS2twaDdBWGhnQjVmX1lROTgxMDREc3ozbHdJ?oc=5",
+          "source": "AP",
+          "sourceId": "ap_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sat, 21 Feb 2026 21:25:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQRkZIYVlvbTl5aGpPTjBKRmRwdkM3Z0RxcEY2ZUlRa041My1TcnhON0lyMGhJSjYtOVpuNWJEVEVMOEdrQmtnQjQ3TF9raDJOZnZfVnhPajB4bmY0Rms1SFpfUi1PWXIzQldYT2k"
+        },
+        {
+          "headline": "NYC nursing walkout ends as last striking nurses approve new contract - AP News",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaUxUZ2pLcUJoTW1kUENLZ3lQQUUxWTNHeGw3Y3dNeW1FOXlyQnBkTkttUFg2bkpiTF92ZVBuR3UzUGFwT2hnRTBNNFA5N2ZwUXpobWJ1emlVMFZBd2pUQW1WTDh2YVRKMnkwRG5fdDlrM2JyamtqZzZrVFN4eDBfSk43Z3JDa1NhOHBidFI3NFdIUW9uaHpHU3pVLUYyZXRR?oc=5",
+          "source": "AP",
+          "sourceId": "ap_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sun, 22 Feb 2026 00:17:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNaUxUZ2pLcUJoTW1kUENLZ3lQQUUxWTNHeGw3Y3dNeW1FOXlyQnBkTkttUFg2bkpiTF92ZVBuR3UzUGFwT2hnRTBNNFA5N2ZwUXpobWJ1emlVMFZBd2pUQW1WTDh2YVRKMnkwRG5"
+        },
+        {
+          "headline": "Trump approves disaster assistance to DC to help with sewage spill into Potomac River - AP News",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMGRqRkZGUVpNUkQ0Q2xqalJJNmZkd2xWZ3lxMUtVOHBRYzBPLTI1eUJxOGJXVk9LTFN5dFVIN2tmbWlyRmpMT1BnTFhoUUV4UDNGdF96XzM4cFZUcXV5WnN0NFJmS0FFRHZ3OXBEc21seHFQQkVucGtYcE1BMVRUUWhEMllJWl9mVnQ3WENSUXl3RDJwVkhtdXQ2aU11Sl9GcENrN0ZHczFBai05V3kxNA?oc=5",
+          "source": "AP",
+          "sourceId": "ap_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sat, 21 Feb 2026 23:00:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQMGRqRkZGUVpNUkQ0Q2xqalJJNmZkd2xWZ3lxMUtVOHBRYzBPLTI1eUJxOGJXVk9LTFN5dFVIN2tmbWlyRmpMT1BnTFhoUUV4UDNGdF96XzM4cFZUcXV5WnN0NFJmS0FFRHZ3OXB"
+        },
+        {
+          "headline": "Mamdani reboots homeless encampment sweeps in New York City - AP News",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS2RrdmFYZkdaSGlWeDNEYVZpWVdSYTdyX0tMUFBITVNBaTRaNDZ5elJWY1ZKU0JnRHM4TnhjMUJMeWpQMXp5RjVVczJNRWRjN0FnWHB3TW12Tk44WnQweHBEVGJXLVlMbzNCYWE3U0dNa1d0ZFVaeExnM05fd1Z3N20zdEFmaW44cjUxN3BFdTlWQXRLRWdaNmpzSDB0VjRINlBYSg?oc=5",
+          "source": "AP",
+          "sourceId": "ap_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sat, 21 Feb 2026 22:46:22 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOS2RrdmFYZkdaSGlWeDNEYVZpWVdSYTdyX0tMUFBITVNBaTRaNDZ5elJWY1ZKU0JnRHM4TnhjMUJMeWpQMXp5RjVVczJNRWRjN0FnWHB3TW12Tk44WnQweHBEVGJXLVlMbzNCYWE"
+        },
+        {
+          "headline": "White House dinner closes a turbulent week for governors in Washington - AP News",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaGtPdmdNR2NKNTI3d001WUV6REp0OGd6VTFKUkdVOGhDazdzRWdwTG1kR0ZtYTM5blIzVzRuVVpNczdXaDhtMDd1NUdnVlhjejJwTmRjNGxyUnZjbTkzV3J0VFYxdXU1UWRRcS1tUHVZZlVlOGZDZ2xmSEFMZmwxSTM3Z0tXbW9kLWtrT3dfSHFEamFxLURGRjh2MHFBX3ZuRnhtbURlUQ?oc=5",
+          "source": "AP",
+          "sourceId": "ap_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sun, 22 Feb 2026 01:29:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOaGtPdmdNR2NKNTI3d001WUV6REp0OGd6VTFKUkdVOGhDazdzRWdwTG1kR0ZtYTM5blIzVzRuVVpNczdXaDhtMDd1NUdnVlhjejJwTmRjNGxyUnZjbTkzV3J0VFYxdXU1UWRRcS1"
+        },
+        {
+          "headline": "Winter Olympics recap: Meyers Taylor finally gets gold for US and Eileen Gu wins second silver - AP News",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaHFCbnlQSHd1V1J6bE9oZ2lYSVliOHc2a1hHek42Q0FKdkhEVzRJb0ZtUl92UVRnUDRzSXl3MXl6TWRzaTFuT01tVnljTXdSOWVhSzZrT2l5ekJESVcyXzY3cGRxckM2dTY3aHBwNl93R1pvNk5iaDBJYkMzMU9wZHg5ZzRTYnFDTDIzc3ZBOGIwQ2c?oc=5",
+          "source": "AP",
+          "sourceId": "ap_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sat, 21 Feb 2026 23:12:22 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQaHFCbnlQSHd1V1J6bE9oZ2lYSVliOHc2a1hHek42Q0FKdkhEVzRJb0ZtUl92UVRnUDRzSXl3MXl6TWRzaTFuT01tVnljTXdSOWVhSzZrT2l5ekJESVcyXzY3cGRxckM2dTY3aHB"
+        },
+        {
           "headline": "UAE foils cyber attacks, state news agency says - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdFhrVGlwVnoxWVBId1lPcXZQc3hjSDZrbzk5RldJV25HX0wtSUp1Tk9Ecjlvc19JVXdGSjNXTjU0bklRb296aWh3bG1YLTBhNVZXU0VwckJVU05USkh0X2V6dUFSTnFtUTJERHVFeE9IRF9KUmRKbDdUbU8xU3o2Sl9POVRWNmhXbVMwZmw2dk01TkNCdkJZLWVLVThZZHhuUlE?oc=5",
           "source": "Reuters",
@@ -1330,14 +1630,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQdFhrVGlwVnoxWVBId1lPcXZQc3hjSDZrbzk5RldJV25HX0wtSUp1Tk9Ecjlvc19JVXdGSjNXTjU0bklRb296aWh3bG1YLTBhNVZXU0VwckJVU05USkh0X2V6dUFSTnFtUTJERHV"
         },
         {
-          "headline": "Germany's Merz hopes for relief after Trump tariff verdict but uncertainty lingers - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNTVxT0xGVFhLTm1QX1NLTThSQUVjOGZNeWdGT0hIdWMyM2hPbHZQRF9GN0RhT3g5eGFrYzhCZEZ4QnVJNHhQQzMxaEVGQWE0d0cxWU9QMFNMSFJOZFhweHFBWmNKV2NLLWR1MzZlb0tlb09Hek1lRXMxa0piZGYtTk9oUllEVmxQaVFhRlR6QzFXeHhsYnZwTEM5OWU1VVVtMUpiS25XOW9Ta3NPa0ZyLWxkcnM2eFlEaUsyZnVkemRFRkNMNlE?oc=5",
+          "headline": "After court ruling, Trump says US global tariff rate will rise from 10% to 15% - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPb0JETzNzZUstNjZNaW9XN1FEMjNVaThScS1rWFdlT2VNTVYxck8xY0V3SXlacHJPdVdoaUpVNTZnTkd5T1U2cmFPd25pdVpIUHJFUS1kQXZjQU1peFJQWGJ6aVVtSTRjc2JVS2hKcWpMZXJha3RBVkFzcEVQbWtSX3dxZmdvU3FYYXdYenl4TEwzQmRvVV9DVUR3?oc=5",
           "source": "Reuters",
           "sourceId": "reuters_world",
           "category": "wire",
           "priority": "primary",
-          "date": "Sat, 21 Feb 2026 15:11:36 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQNTVxT0xGVFhLTm1QX1NLTThSQUVjOGZNeWdGT0hIdWMyM2hPbHZQRF9GN0RhT3g5eGFrYzhCZEZ4QnVJNHhQQzMxaEVGQWE0d0cxWU9QMFNMSFJOZFhweHFBWmNKV2NLLWR1MzZ"
+          "date": "Sat, 21 Feb 2026 16:10:44 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPb0JETzNzZUstNjZNaW9XN1FEMjNVaThScS1rWFdlT2VNTVYxck8xY0V3SXlacHJPdVdoaUpVNTZnTkd5T1U2cmFPd25pdVpIUHJFUS1kQXZjQU1peFJQWGJ6aVVtSTRjc2JVS2h"
         },
         {
           "headline": "BNSF Says Mainlines Are Back Open And Operational After A Train Derailment Near Angora, NE, On Feb 20 - TradingView",
@@ -1350,14 +1650,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxOQ3NQcjM1dFR3bDNSSHVlaDhkX0U5MHh4VGxYNWZNdW1TVGx6TXAxR2RFbDFiOHJNa1NRQzVIcG9RbVl4Qm85OHc4UDFCU2hQMXdIRUhZLXlaWkhVRVJfYXNTVUNrYWJVT3dWRFF"
         },
         {
-          "headline": "After court ruling, Trump says US global tariff rate will rise from 10% to 15% - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPb0JETzNzZUstNjZNaW9XN1FEMjNVaThScS1rWFdlT2VNTVYxck8xY0V3SXlacHJPdVdoaUpVNTZnTkd5T1U2cmFPd25pdVpIUHJFUS1kQXZjQU1peFJQWGJ6aVVtSTRjc2JVS2hKcWpMZXJha3RBVkFzcEVQbWtSX3dxZmdvU3FYYXdYenl4TEwzQmRvVV9DVUR3?oc=5",
+          "headline": "Germany's Merz hopes for relief after Trump tariff verdict but uncertainty lingers - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNTVxT0xGVFhLTm1QX1NLTThSQUVjOGZNeWdGT0hIdWMyM2hPbHZQRF9GN0RhT3g5eGFrYzhCZEZ4QnVJNHhQQzMxaEVGQWE0d0cxWU9QMFNMSFJOZFhweHFBWmNKV2NLLWR1MzZlb0tlb09Hek1lRXMxa0piZGYtTk9oUllEVmxQaVFhRlR6QzFXeHhsYnZwTEM5OWU1VVVtMUpiS25XOW9Ta3NPa0ZyLWxkcnM2eFlEaUsyZnVkemRFRkNMNlE?oc=5",
           "source": "Reuters",
           "sourceId": "reuters_world",
           "category": "wire",
           "priority": "primary",
-          "date": "Sat, 21 Feb 2026 16:10:44 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPb0JETzNzZUstNjZNaW9XN1FEMjNVaThScS1rWFdlT2VNTVYxck8xY0V3SXlacHJPdVdoaUpVNTZnTkd5T1U2cmFPd25pdVpIUHJFUS1kQXZjQU1peFJQWGJ6aVVtSTRjc2JVS2h"
+          "date": "Sat, 21 Feb 2026 15:11:36 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQNTVxT0xGVFhLTm1QX1NLTThSQUVjOGZNeWdGT0hIdWMyM2hPbHZQRF9GN0RhT3g5eGFrYzhCZEZ4QnVJNHhQQzMxaEVGQWE0d0cxWU9QMFNMSFJOZFhweHFBWmNKV2NLLWR1MzZ"
         },
         {
           "headline": "Asma Khan on cooking with conscience - TradingView",
@@ -2628,6 +2928,156 @@
     "byPriority": {
       "primary": [
         {
+          "headline": "Teachers describe immigration enforcement's impact on classrooms in challenge of Trump policy - AP News",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM25sUHRKa09fYjYtcVozeGlOQ29ibnpqWVV1Ni04QWxHRnJFa25VRnBYOU80YkoxeXNucFNnajhNZmV0WWFRRmNyZlhWZWtnUE9hdDZXdGYzUF9RR19xRDVnZ2tkU2tLTUZxSzlKNHFqWnM4RHJSc1VHTHNVQlNmUnVOUm56T1dnR2RxVUdJZWkxVFJ5Z2hvT0lHYXlkQ25tMEJsRWg0cEh3UQ?oc=5",
+          "source": "AP",
+          "sourceId": "ap_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sat, 21 Feb 2026 22:55:10 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM25sUHRKa09fYjYtcVozeGlOQ29ibnpqWVV1Ni04QWxHRnJFa25VRnBYOU80YkoxeXNucFNnajhNZmV0WWFRRmNyZlhWZWtnUE9hdDZXdGYzUF9RR19xRDVnZ2tkU2tLTUZxSzl"
+        },
+        {
+          "headline": "United States wins 3rd Olympic gold in women's hockey, beating Canada 2-1 on Megan Keller's OT goal - AP News",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS1IzbWNEU1FuTVNIQjY5RVNTTHpxZjVBMXB5UFE0Uk45c19VQ0pydzNFZ1ZVYmVRUm1neVZWLWdITV9SMndUQTVhdXZyUlhrdkRWSmE0OGZERzFyQUVQTHQzNXdfTFdDWFh3cjBYakxaNm56R2VHdlZKY1VKSXdhOXFUdkU0LVdXUzdVVE9ZNlljVDVBYkdBZ0dzbld5Zw?oc=5",
+          "source": "AP",
+          "sourceId": "ap_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sat, 21 Feb 2026 23:48:52 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQS1IzbWNEU1FuTVNIQjY5RVNTTHpxZjVBMXB5UFE0Uk45c19VQ0pydzNFZ1ZVYmVRUm1neVZWLWdITV9SMndUQTVhdXZyUlhrdkRWSmE0OGZERzFyQUVQTHQzNXdfTFdDWFh3cjB"
+        },
+        {
+          "headline": "NCAA College Basketball Rankings: AP Top 25 Basketball Poll - AP News",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiclRXTGdGRmhNSVBZOEhVMjdaWTFWdXIwOFA4UTd6T0plQTJ0UmZlSUE2WEMwQmYzQ0NJam1KcWhVLVZXY1cwYWNKTU9GRjY4MXJacTlKX3BUdnlCYW1TdnVVX3pHcTQ?oc=5",
+          "source": "AP",
+          "sourceId": "ap_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sun, 22 Feb 2026 00:04:34 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiclRXTGdGRmhNSVBZOEhVMjdaWTFWdXIwOFA4UTd6T0plQTJ0UmZlSUE2WEMwQmYzQ0NJam1KcWhVLVZXY1cwYWNKTU9GRjY4MXJacTlKX3BUdnlCYW1TdnVVX3pHcTQ?oc=5\" t"
+        },
+        {
+          "headline": "Crews recover bodies of 9 backcountry skiers days after California avalanche - AP News",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLVpWcVZrOURpM3FaTXlSVnBvZVZxZ0ZyMTdObFpQcklGaHk3d0VEZFYwY0hCVkM2TWVLVkhrTlA4dlptcUJ3QURKZi15YlVVVE1ncDJrY0V0cklEX1hiaTRSVjRlbkNPN2Y3RU02RmVyXzlWR3F2TVVkbHgteEZWcE51MTVZQ0swdWNQQXFjUUhxRTFmSXEwMHZqakFKNkdROFAwVUNncnNaWG9zWnNLSTQ1bnZ2Mmc?oc=5",
+          "source": "AP",
+          "sourceId": "ap_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sun, 22 Feb 2026 01:12:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPLVpWcVZrOURpM3FaTXlSVnBvZVZxZ0ZyMTdObFpQcklGaHk3d0VEZFYwY0hCVkM2TWVLVkhrTlA4dlptcUJ3QURKZi15YlVVVE1ncDJrY0V0cklEX1hiaTRSVjRlbkNPN2Y3RU0"
+        },
+        {
+          "headline": "US military airlifts small reactor as Trump pushes to quickly deploy nuclear power - AP News",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVDduTW9kd09RXy1YN3FMeXI0bzRyTTVfeDZKNURrMGNqMC03dFJQVFBNVENVSHJxa2hLeWtUVW5ISEpIc1JpZEpxTjZNcUFhRXF3bkJfeEptZlJnRkxhLUZsS0RGaGM1Ym51UkRnMkRpM2hBSkNLekF3VlRQZFJZRUVMQV92dFdVM3J2alBhNWNTUlRzUHFDV0hXbEpaMHZhcnpMeA?oc=5",
+          "source": "AP",
+          "sourceId": "ap_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sat, 21 Feb 2026 17:09:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNVDduTW9kd09RXy1YN3FMeXI0bzRyTTVfeDZKNURrMGNqMC03dFJQVFBNVENVSHJxa2hLeWtUVW5ISEpIc1JpZEpxTjZNcUFhRXF3bkJfeEptZlJnRkxhLUZsS0RGaGM1Ym51UkR"
+        },
+        {
+          "headline": "JPMorgan concedes it closed Trump’s accounts after Jan. 6 attack - AP News",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQ0t0bjBlamNtQmx0ZXN2QnR1TVVucGRteUZIaTR2QmlDSUpQdEx5TWVMRW8wTThqS1QydE51QkV1cDFQWWJqWmNvVDFVeWxpckIzdHN0V25PNnp2SGM5NWxWMVZONXE0SVg1QktkdUJ5TF9mQkhsVXhYVTB1aDJrRTF6R3YxX3hPZlRTSllOekwxX1pm?oc=5",
+          "source": "AP",
+          "sourceId": "ap_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sat, 21 Feb 2026 21:45:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNQ0t0bjBlamNtQmx0ZXN2QnR1TVVucGRteUZIaTR2QmlDSUpQdEx5TWVMRW8wTThqS1QydE51QkV1cDFQWWJqWmNvVDFVeWxpckIzdHN0V25PNnp2SGM5NWxWMVZONXE0SVg1Qkt"
+        },
+        {
+          "headline": "A record-setting Winter Olympics: 6 golds and 17 medals for the US in women's events set marks - AP News",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNzM0YUd3SEpvSUVIT3Q4cThiQThYUWp6RS1JSWRNUjVtUzEwN1NqYTBHaVIxVTRXakpHMTNhY0t1elVuR3cwWkROb0tPOTRnVGExVWFBNElMTHU1SFN1MWJwUDBnWU55ektvY0lXcGNwS2NKeWx5MG9QRDZqc0JkNTdNa1NSd0xIN3hDXw?oc=5",
+          "source": "AP",
+          "sourceId": "ap_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sat, 21 Feb 2026 21:02:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPNzM0YUd3SEpvSUVIT3Q4cThiQThYUWp6RS1JSWRNUjVtUzEwN1NqYTBHaVIxVTRXakpHMTNhY0t1elVuR3cwWkROb0tPOTRnVGExVWFBNElMTHU1SFN1MWJwUDBnWU55ektvY0l"
+        },
+        {
+          "headline": "Attorney General Ken Paxton backs ivermectin champion’s fight against Texas Medical Board - AP News",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQ3pibkhOTVNuYUhldjRUVmpoRlY3N0dUMERZWUVKVmN1dGlUUXdodHBZQnlqNHB0OEJWSWZnaVlCM0hrbWhmUEw2OXhQNWlQY0VDaE5WeW9TY25oZTR1cC14dWVtNHFvUFNFOEUzZHF4SHV0emhCN1FxalQ2MHVRLWEzZE5TV2dsSjUwTDZoSHhveFEwdE5OOXVGWU9HR3AweGsxX0ZGeFc5M29mQXcxZEpVcnJyUXdiMV9ZZWNDclJ0ZHF5STMw?oc=5",
+          "source": "AP",
+          "sourceId": "ap_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sat, 21 Feb 2026 23:25:38 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNQ3pibkhOTVNuYUhldjRUVmpoRlY3N0dUMERZWUVKVmN1dGlUUXdodHBZQnlqNHB0OEJWSWZnaVlCM0hrbWhmUEw2OXhQNWlQY0VDaE5WeW9TY25oZTR1cC14dWVtNHFvUFNFOEU"
+        },
+        {
+          "headline": "Ski guides in spotlight as investigators probe deadly California avalanche - AP News",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTHI2WmFJTHo2eWg3S1c0WVZod0RJZXhiVER2Wkctb2JodnoxSHY1b1ZvdFlrR1dvXzhiWHhwemhhYVE5UExyeDFuX2c1YVpKQ2JERWhxRmpVb1A2cXRockVValJSYlcyaTN0TGo3ZWlrbV9UNTNuN2luSWVNS0dXUUhsRnB4eEJvRmhjdkctRGFuRFRqNG5DMkZYVFZfOWxpTWxHZzV1VEdNVzQ?oc=5",
+          "source": "AP",
+          "sourceId": "ap_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sat, 21 Feb 2026 19:53:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTHI2WmFJTHo2eWg3S1c0WVZod0RJZXhiVER2Wkctb2JodnoxSHY1b1ZvdFlrR1dvXzhiWHhwemhhYVE5UExyeDFuX2c1YVpKQ2JERWhxRmpVb1A2cXRockVValJSYlcyaTN0TGo"
+        },
+        {
+          "headline": "US ambassador causes uproar by claiming Israel has a right to much of the Middle East - AP News",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRkZIYVlvbTl5aGpPTjBKRmRwdkM3Z0RxcEY2ZUlRa041My1TcnhON0lyMGhJSjYtOVpuNWJEVEVMOEdrQmtnQjQ3TF9raDJOZnZfVnhPajB4bmY0Rms1SFpfUi1PWXIzQldYT2kzN3k3a3ZZWjRLb0RxZ254VnJBcGhZVnZBMmNNSGh2LVJ6ak9qRVJDS2twaDdBWGhnQjVmX1lROTgxMDREc3ozbHdJ?oc=5",
+          "source": "AP",
+          "sourceId": "ap_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sat, 21 Feb 2026 21:25:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQRkZIYVlvbTl5aGpPTjBKRmRwdkM3Z0RxcEY2ZUlRa041My1TcnhON0lyMGhJSjYtOVpuNWJEVEVMOEdrQmtnQjQ3TF9raDJOZnZfVnhPajB4bmY0Rms1SFpfUi1PWXIzQldYT2k"
+        },
+        {
+          "headline": "NYC nursing walkout ends as last striking nurses approve new contract - AP News",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaUxUZ2pLcUJoTW1kUENLZ3lQQUUxWTNHeGw3Y3dNeW1FOXlyQnBkTkttUFg2bkpiTF92ZVBuR3UzUGFwT2hnRTBNNFA5N2ZwUXpobWJ1emlVMFZBd2pUQW1WTDh2YVRKMnkwRG5fdDlrM2JyamtqZzZrVFN4eDBfSk43Z3JDa1NhOHBidFI3NFdIUW9uaHpHU3pVLUYyZXRR?oc=5",
+          "source": "AP",
+          "sourceId": "ap_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sun, 22 Feb 2026 00:17:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNaUxUZ2pLcUJoTW1kUENLZ3lQQUUxWTNHeGw3Y3dNeW1FOXlyQnBkTkttUFg2bkpiTF92ZVBuR3UzUGFwT2hnRTBNNFA5N2ZwUXpobWJ1emlVMFZBd2pUQW1WTDh2YVRKMnkwRG5"
+        },
+        {
+          "headline": "Trump approves disaster assistance to DC to help with sewage spill into Potomac River - AP News",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMGRqRkZGUVpNUkQ0Q2xqalJJNmZkd2xWZ3lxMUtVOHBRYzBPLTI1eUJxOGJXVk9LTFN5dFVIN2tmbWlyRmpMT1BnTFhoUUV4UDNGdF96XzM4cFZUcXV5WnN0NFJmS0FFRHZ3OXBEc21seHFQQkVucGtYcE1BMVRUUWhEMllJWl9mVnQ3WENSUXl3RDJwVkhtdXQ2aU11Sl9GcENrN0ZHczFBai05V3kxNA?oc=5",
+          "source": "AP",
+          "sourceId": "ap_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sat, 21 Feb 2026 23:00:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQMGRqRkZGUVpNUkQ0Q2xqalJJNmZkd2xWZ3lxMUtVOHBRYzBPLTI1eUJxOGJXVk9LTFN5dFVIN2tmbWlyRmpMT1BnTFhoUUV4UDNGdF96XzM4cFZUcXV5WnN0NFJmS0FFRHZ3OXB"
+        },
+        {
+          "headline": "Mamdani reboots homeless encampment sweeps in New York City - AP News",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS2RrdmFYZkdaSGlWeDNEYVZpWVdSYTdyX0tMUFBITVNBaTRaNDZ5elJWY1ZKU0JnRHM4TnhjMUJMeWpQMXp5RjVVczJNRWRjN0FnWHB3TW12Tk44WnQweHBEVGJXLVlMbzNCYWE3U0dNa1d0ZFVaeExnM05fd1Z3N20zdEFmaW44cjUxN3BFdTlWQXRLRWdaNmpzSDB0VjRINlBYSg?oc=5",
+          "source": "AP",
+          "sourceId": "ap_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sat, 21 Feb 2026 22:46:22 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOS2RrdmFYZkdaSGlWeDNEYVZpWVdSYTdyX0tMUFBITVNBaTRaNDZ5elJWY1ZKU0JnRHM4TnhjMUJMeWpQMXp5RjVVczJNRWRjN0FnWHB3TW12Tk44WnQweHBEVGJXLVlMbzNCYWE"
+        },
+        {
+          "headline": "White House dinner closes a turbulent week for governors in Washington - AP News",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaGtPdmdNR2NKNTI3d001WUV6REp0OGd6VTFKUkdVOGhDazdzRWdwTG1kR0ZtYTM5blIzVzRuVVpNczdXaDhtMDd1NUdnVlhjejJwTmRjNGxyUnZjbTkzV3J0VFYxdXU1UWRRcS1tUHVZZlVlOGZDZ2xmSEFMZmwxSTM3Z0tXbW9kLWtrT3dfSHFEamFxLURGRjh2MHFBX3ZuRnhtbURlUQ?oc=5",
+          "source": "AP",
+          "sourceId": "ap_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sun, 22 Feb 2026 01:29:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOaGtPdmdNR2NKNTI3d001WUV6REp0OGd6VTFKUkdVOGhDazdzRWdwTG1kR0ZtYTM5blIzVzRuVVpNczdXaDhtMDd1NUdnVlhjejJwTmRjNGxyUnZjbTkzV3J0VFYxdXU1UWRRcS1"
+        },
+        {
+          "headline": "Winter Olympics recap: Meyers Taylor finally gets gold for US and Eileen Gu wins second silver - AP News",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaHFCbnlQSHd1V1J6bE9oZ2lYSVliOHc2a1hHek42Q0FKdkhEVzRJb0ZtUl92UVRnUDRzSXl3MXl6TWRzaTFuT01tVnljTXdSOWVhSzZrT2l5ekJESVcyXzY3cGRxckM2dTY3aHBwNl93R1pvNk5iaDBJYkMzMU9wZHg5ZzRTYnFDTDIzc3ZBOGIwQ2c?oc=5",
+          "source": "AP",
+          "sourceId": "ap_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sat, 21 Feb 2026 23:12:22 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQaHFCbnlQSHd1V1J6bE9oZ2lYSVliOHc2a1hHek42Q0FKdkhEVzRJb0ZtUl92UVRnUDRzSXl3MXl6TWRzaTFuT01tVnljTXdSOWVhSzZrT2l5ekJESVcyXzY3cGRxckM2dTY3aHB"
+        },
+        {
           "headline": "UAE foils cyber attacks, state news agency says - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdFhrVGlwVnoxWVBId1lPcXZQc3hjSDZrbzk5RldJV25HX0wtSUp1Tk9Ecjlvc19JVXdGSjNXTjU0bklRb296aWh3bG1YLTBhNVZXU0VwckJVU05USkh0X2V6dUFSTnFtUTJERHVFeE9IRF9KUmRKbDdUbU8xU3o2Sl9POVRWNmhXbVMwZmw2dk01TkNCdkJZLWVLVThZZHhuUlE?oc=5",
           "source": "Reuters",
@@ -2638,14 +3088,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQdFhrVGlwVnoxWVBId1lPcXZQc3hjSDZrbzk5RldJV25HX0wtSUp1Tk9Ecjlvc19JVXdGSjNXTjU0bklRb296aWh3bG1YLTBhNVZXU0VwckJVU05USkh0X2V6dUFSTnFtUTJERHV"
         },
         {
-          "headline": "Germany's Merz hopes for relief after Trump tariff verdict but uncertainty lingers - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNTVxT0xGVFhLTm1QX1NLTThSQUVjOGZNeWdGT0hIdWMyM2hPbHZQRF9GN0RhT3g5eGFrYzhCZEZ4QnVJNHhQQzMxaEVGQWE0d0cxWU9QMFNMSFJOZFhweHFBWmNKV2NLLWR1MzZlb0tlb09Hek1lRXMxa0piZGYtTk9oUllEVmxQaVFhRlR6QzFXeHhsYnZwTEM5OWU1VVVtMUpiS25XOW9Ta3NPa0ZyLWxkcnM2eFlEaUsyZnVkemRFRkNMNlE?oc=5",
+          "headline": "After court ruling, Trump says US global tariff rate will rise from 10% to 15% - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPb0JETzNzZUstNjZNaW9XN1FEMjNVaThScS1rWFdlT2VNTVYxck8xY0V3SXlacHJPdVdoaUpVNTZnTkd5T1U2cmFPd25pdVpIUHJFUS1kQXZjQU1peFJQWGJ6aVVtSTRjc2JVS2hKcWpMZXJha3RBVkFzcEVQbWtSX3dxZmdvU3FYYXdYenl4TEwzQmRvVV9DVUR3?oc=5",
           "source": "Reuters",
           "sourceId": "reuters_world",
           "category": "wire",
           "priority": "primary",
-          "date": "Sat, 21 Feb 2026 15:11:36 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQNTVxT0xGVFhLTm1QX1NLTThSQUVjOGZNeWdGT0hIdWMyM2hPbHZQRF9GN0RhT3g5eGFrYzhCZEZ4QnVJNHhQQzMxaEVGQWE0d0cxWU9QMFNMSFJOZFhweHFBWmNKV2NLLWR1MzZ"
+          "date": "Sat, 21 Feb 2026 16:10:44 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPb0JETzNzZUstNjZNaW9XN1FEMjNVaThScS1rWFdlT2VNTVYxck8xY0V3SXlacHJPdVdoaUpVNTZnTkd5T1U2cmFPd25pdVpIUHJFUS1kQXZjQU1peFJQWGJ6aVVtSTRjc2JVS2h"
         },
         {
           "headline": "BNSF Says Mainlines Are Back Open And Operational After A Train Derailment Near Angora, NE, On Feb 20 - TradingView",
@@ -2658,14 +3108,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxOQ3NQcjM1dFR3bDNSSHVlaDhkX0U5MHh4VGxYNWZNdW1TVGx6TXAxR2RFbDFiOHJNa1NRQzVIcG9RbVl4Qm85OHc4UDFCU2hQMXdIRUhZLXlaWkhVRVJfYXNTVUNrYWJVT3dWRFF"
         },
         {
-          "headline": "After court ruling, Trump says US global tariff rate will rise from 10% to 15% - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPb0JETzNzZUstNjZNaW9XN1FEMjNVaThScS1rWFdlT2VNTVYxck8xY0V3SXlacHJPdVdoaUpVNTZnTkd5T1U2cmFPd25pdVpIUHJFUS1kQXZjQU1peFJQWGJ6aVVtSTRjc2JVS2hKcWpMZXJha3RBVkFzcEVQbWtSX3dxZmdvU3FYYXdYenl4TEwzQmRvVV9DVUR3?oc=5",
+          "headline": "Germany's Merz hopes for relief after Trump tariff verdict but uncertainty lingers - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNTVxT0xGVFhLTm1QX1NLTThSQUVjOGZNeWdGT0hIdWMyM2hPbHZQRF9GN0RhT3g5eGFrYzhCZEZ4QnVJNHhQQzMxaEVGQWE0d0cxWU9QMFNMSFJOZFhweHFBWmNKV2NLLWR1MzZlb0tlb09Hek1lRXMxa0piZGYtTk9oUllEVmxQaVFhRlR6QzFXeHhsYnZwTEM5OWU1VVVtMUpiS25XOW9Ta3NPa0ZyLWxkcnM2eFlEaUsyZnVkemRFRkNMNlE?oc=5",
           "source": "Reuters",
           "sourceId": "reuters_world",
           "category": "wire",
           "priority": "primary",
-          "date": "Sat, 21 Feb 2026 16:10:44 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPb0JETzNzZUstNjZNaW9XN1FEMjNVaThScS1rWFdlT2VNTVYxck8xY0V3SXlacHJPdVdoaUpVNTZnTkd5T1U2cmFPd25pdVpIUHJFUS1kQXZjQU1peFJQWGJ6aVVtSTRjc2JVS2h"
+          "date": "Sat, 21 Feb 2026 15:11:36 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQNTVxT0xGVFhLTm1QX1NLTThSQUVjOGZNeWdGT0hIdWMyM2hPbHZQRF9GN0RhT3g5eGFrYzhCZEZ4QnVJNHhQQzMxaEVGQWE0d0cxWU9QMFNMSFJOZFhweHFBWmNKV2NLLWR1MzZ"
         },
         {
           "headline": "Asma Khan on cooking with conscience - TradingView",
@@ -3949,9 +4399,9 @@
         "Trump approves disaster assistance to DC to help with sewage spill into Potomac River",
         "ICE’s purchases for big detention centers are marked by secrecy, frustrating towns",
         "ICE begins to purchase warehouses, but some owners are backing out of deals",
+        "Canada’s curling skip tells cheating accusers to get Olympic celebration ‘burned into your brain’",
         "Ghislaine Maxwell fights release of more Epstein documents, calling disclosure law unconstitutional",
         "Crews recover bodies of 9 backcountry skiers days after California avalanche",
-        "Canada’s curling skip tells cheating accusers to get Olympic celebration ‘burned into your brain’",
         "New Mexico launches investigation of forced sterilization of Native American women"
       ]
     },
