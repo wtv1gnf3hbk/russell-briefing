@@ -295,6 +295,11 @@ function buildPrompt(briefing) {
   // RSS queries. Passed separately so Claude uses them for "What to Watch".
   const daybookStories = (briefing.daybook || []).slice(0, 15);
 
+  // Watch candidates: stories from primary/secondary feeds auto-tagged
+  // with forward-looking signals (escalation, deadlines, consequences).
+  // Supplements daybook with developing situations that have momentum.
+  const watchCandidates = (briefing.watchCandidates || []).slice(0, 10);
+
   // Get screenshot headline data for editorial priority detection
   const screenshots = briefing.screenshots || [];
 
@@ -356,7 +361,7 @@ Write an ALL-BULLETS briefing using ONLY these sections:
 
 4. **Also Notable** (2-3 bullets): Important stories that do not fit above — climate, health, elections, cultural events with global significance. Skip if nothing notable.
 
-5. **What to Watch** (2-3 bullets): Scheduled events and developments expected TODAY or in the coming days. Use the UPCOMING EVENTS (daybook) data below as your primary source for this section. Only include events with a specific date or timeframe mentioned in the source material. Skip entirely if the daybook data has nothing compelling.
+5. **What to Watch** (2-4 bullets): Scheduled events AND developing situations with forward momentum expected to unfold in the coming days. Use BOTH the UPCOMING EVENTS (daybook) AND the WATCH CANDIDATES (auto-tagged developing stories) sections below. Prioritize stories with specific deadlines, escalation potential, or pending decisions. Skip entirely if neither data source has anything compelling.
 
 Every bullet must have at least one link. Do NOT include a Sources section — the links within bullets are sufficient.
 
@@ -371,7 +376,10 @@ ${JSON.stringify(primaryStories, null, 2)}
 SECONDARY STORIES (wider net: NYT, Al Jazeera, France24, WSJ Markets):
 ${JSON.stringify(secondaryStories, null, 2)}
 
-UPCOMING EVENTS (daybook — use these for the "What to Watch" section):
+WATCH CANDIDATES (auto-tagged developing stories from main feeds — use alongside daybook for "What to Watch"):
+${JSON.stringify(watchCandidates, null, 2)}
+
+UPCOMING EVENTS (daybook — scheduled events for "What to Watch"):
 ${JSON.stringify(daybookStories, null, 2)}
 
 Write the briefing now.`;

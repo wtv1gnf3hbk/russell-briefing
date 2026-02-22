@@ -313,6 +313,54 @@ async function scrapeSource(source) {
 }
 
 // ============================================
+// WATCH CANDIDATE TAGGER
+// Scans primary/secondary stories for forward-looking signals
+// that indicate developing situations worth watching.
+// These get passed to Claude alongside daybook data to improve
+// the "What to Watch" section with stories that have momentum,
+// not just scheduled events.
+// ============================================
+
+const WATCH_PATTERNS = {
+  // Stories mentioning upcoming timeframes
+  temporal: /\b(this week|next week|coming days|expected to|set to begin|set to start|will meet|due to|ahead of|days to|in the coming)\b/i,
+  // Explicitly scheduled events, decisions, votes
+  scheduled: /\b(ruling expected|vote on|vote scheduled|summit begins?|deadline|hearing|data release|talks resume|election|opens today|begins today|scheduled for|rate decision)\b/i,
+  // Situations that could escalate or have forward momentum
+  escalation: /\b(threatens? to|brink of|could lead to|raises? prospect|warns? of|ultimatum|countdown|preparing for war|military option|considering strikes?|pressure to)\b/i,
+  // Aftermath/fallout stories that signal ongoing consequences
+  consequence: /\b(fallout from|implications of|markets? brace|uncertainty|what comes next|aftermath|murky waters|uncharted|faces pressure|could test)\b/i
+};
+
+/**
+ * Scans all non-daybook stories for forward-looking language patterns.
+ * Tags matching stories with watchCandidate:true and watchSignals array.
+ * Returns the array of candidates (stories are also mutated in place).
+ */
+function tagWatchCandidates(stories) {
+  const candidates = [];
+  for (const story of stories) {
+    // Skip daybook stories — they already have their own pipeline
+    if (story.category === 'daybook') continue;
+
+    const text = (story.headline || '') + ' ' + (story.description || '');
+    const signals = [];
+
+    for (const [category, pattern] of Object.entries(WATCH_PATTERNS)) {
+      const match = text.match(pattern);
+      if (match) signals.push({ category, matched: match[0] });
+    }
+
+    if (signals.length > 0) {
+      story.watchCandidate = true;
+      story.watchSignals = signals;
+      candidates.push(story);
+    }
+  }
+  return candidates;
+}
+
+// ============================================
 // MAIN SCRAPING LOGIC
 // ============================================
 
@@ -405,11 +453,17 @@ async function scrapeAll(config) {
   // Google News RSS queries targeting forward-looking event language.
   const daybook = deduped.filter(s => s.category === 'daybook');
 
+  // Tag stories from primary/secondary feeds that have forward-looking
+  // signals (escalation, deadlines, consequences). These supplement
+  // the daybook data and give Claude better input for "What to Watch".
+  const watchCandidates = tagWatchCandidates(deduped);
+
   return {
     allStories: deduped,
     byCategory,
     byPriority,
     daybook,
+    watchCandidates,
     screenshots,
     failed,
     sourceCount: sources.length,
@@ -597,6 +651,7 @@ async function main() {
       totalStories: results.allStories.length,
       totalScreenshots: results.screenshots.length,
       daybookStories: results.daybook.length,
+      watchCandidateCount: results.watchCandidates.length,
       elapsed: `${elapsed}s`
     },
     stories: {
@@ -607,6 +662,9 @@ async function main() {
     // Daybook: forward-looking event stories for What to Watch section.
     // Separated from main stories so Claude gets them as dedicated input.
     daybook: results.daybook,
+    // Watch candidates: stories from primary/secondary feeds auto-tagged
+    // with forward-looking signals (escalation, deadlines, consequences).
+    watchCandidates: results.watchCandidates,
     screenshots: results.screenshots,
     sleepFilter: sleepFilter,
     feedHealth: { failed: results.failed }
@@ -621,6 +679,7 @@ async function main() {
   console.log(`Sources: ${results.successCount}/${results.sourceCount}`);
   console.log(`Stories: ${results.allStories.length}`);
   console.log(`Daybook: ${results.daybook.length}`);
+  console.log(`Watch candidates: ${results.watchCandidates.length}`);
   console.log(`Screenshots: ${results.screenshots.length}`);
 
   if (results.failed.length > 0) {
