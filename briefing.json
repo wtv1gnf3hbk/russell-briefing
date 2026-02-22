@@ -4,16 +4,16 @@
     "owner": "Russell Goldman",
     "timezone": "America/New_York",
     "description": "Daily international news briefing — all bullets, ready by 6am ET",
-    "generated": "2026-02-22T02:07:34.479Z",
-    "generatedTimestamp": 1771726054479
+    "generated": "2026-02-22T02:09:13.682Z",
+    "generatedTimestamp": 1771726153682
   },
   "stats": {
     "sourceCount": 19,
     "successCount": 19,
-    "totalStories": 189,
+    "totalStories": 190,
     "totalScreenshots": 6,
-    "daybookStories": 44,
-    "elapsed": "30.1s"
+    "daybookStories": 45,
+    "elapsed": "31.0s"
   },
   "stories": {
     "all": [
@@ -26,6 +26,16 @@
         "priority": "primary",
         "date": "Sat, 21 Feb 2026 22:55:10 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM25sUHRKa09fYjYtcVozeGlOQ29ibnpqWVV1Ni04QWxHRnJFa25VRnBYOU80YkoxeXNucFNnajhNZmV0WWFRRmNyZlhWZWtnUE9hdDZXdGYzUF9RR19xRDVnZ2tkU2tLTUZxSzl"
+      },
+      {
+        "headline": "United States wins 3rd Olympic gold in women's hockey, beating Canada 2-1 on Megan Keller's OT goal - AP News",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS1IzbWNEU1FuTVNIQjY5RVNTTHpxZjVBMXB5UFE0Uk45c19VQ0pydzNFZ1ZVYmVRUm1neVZWLWdITV9SMndUQTVhdXZyUlhrdkRWSmE0OGZERzFyQUVQTHQzNXdfTFdDWFh3cjBYakxaNm56R2VHdlZKY1VKSXdhOXFUdkU0LVdXUzdVVE9ZNlljVDVBYkdBZ0dzbld5Zw?oc=5",
+        "source": "AP",
+        "sourceId": "ap_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Sat, 21 Feb 2026 23:48:52 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQS1IzbWNEU1FuTVNIQjY5RVNTTHpxZjVBMXB5UFE0Uk45c19VQ0pydzNFZ1ZVYmVRUm1neVZWLWdITV9SMndUQTVhdXZyUlhrdkRWSmE0OGZERzFyQUVQTHQzNXdfTFdDWFh3cjB"
       },
       {
         "headline": "NCAA College Basketball Rankings: AP Top 25 Basketball Poll - AP News",
@@ -128,16 +138,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNaUxUZ2pLcUJoTW1kUENLZ3lQQUUxWTNHeGw3Y3dNeW1FOXlyQnBkTkttUFg2bkpiTF92ZVBuR3UzUGFwT2hnRTBNNFA5N2ZwUXpobWJ1emlVMFZBd2pUQW1WTDh2YVRKMnkwRG5"
       },
       {
-        "headline": "Trump approves disaster assistance to DC to help with sewage spill into Potomac River - AP News",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMGRqRkZGUVpNUkQ0Q2xqalJJNmZkd2xWZ3lxMUtVOHBRYzBPLTI1eUJxOGJXVk9LTFN5dFVIN2tmbWlyRmpMT1BnTFhoUUV4UDNGdF96XzM4cFZUcXV5WnN0NFJmS0FFRHZ3OXBEc21seHFQQkVucGtYcE1BMVRUUWhEMllJWl9mVnQ3WENSUXl3RDJwVkhtdXQ2aU11Sl9GcENrN0ZHczFBai05V3kxNA?oc=5",
-        "source": "AP",
-        "sourceId": "ap_world",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Sat, 21 Feb 2026 23:00:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQMGRqRkZGUVpNUkQ0Q2xqalJJNmZkd2xWZ3lxMUtVOHBRYzBPLTI1eUJxOGJXVk9LTFN5dFVIN2tmbWlyRmpMT1BnTFhoUUV4UDNGdF96XzM4cFZUcXV5WnN0NFJmS0FFRHZ3OXB"
-      },
-      {
         "headline": "White House dinner closes a turbulent week for governors in Washington - AP News",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaGtPdmdNR2NKNTI3d001WUV6REp0OGd6VTFKUkdVOGhDazdzRWdwTG1kR0ZtYTM5blIzVzRuVVpNczdXaDhtMDd1NUdnVlhjejJwTmRjNGxyUnZjbTkzV3J0VFYxdXU1UWRRcS1tUHVZZlVlOGZDZ2xmSEFMZmwxSTM3Z0tXbW9kLWtrT3dfSHFEamFxLURGRjh2MHFBX3ZuRnhtbURlUQ?oc=5",
         "source": "AP",
@@ -148,6 +148,16 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOaGtPdmdNR2NKNTI3d001WUV6REp0OGd6VTFKUkdVOGhDazdzRWdwTG1kR0ZtYTM5blIzVzRuVVpNczdXaDhtMDd1NUdnVlhjejJwTmRjNGxyUnZjbTkzV3J0VFYxdXU1UWRRcS1"
       },
       {
+        "headline": "Trump approves disaster assistance to DC to help with sewage spill into Potomac River - AP News",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMGRqRkZGUVpNUkQ0Q2xqalJJNmZkd2xWZ3lxMUtVOHBRYzBPLTI1eUJxOGJXVk9LTFN5dFVIN2tmbWlyRmpMT1BnTFhoUUV4UDNGdF96XzM4cFZUcXV5WnN0NFJmS0FFRHZ3OXBEc21seHFQQkVucGtYcE1BMVRUUWhEMllJWl9mVnQ3WENSUXl3RDJwVkhtdXQ2aU11Sl9GcENrN0ZHczFBai05V3kxNA?oc=5",
+        "source": "AP",
+        "sourceId": "ap_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Sat, 21 Feb 2026 23:00:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQMGRqRkZGUVpNUkQ0Q2xqalJJNmZkd2xWZ3lxMUtVOHBRYzBPLTI1eUJxOGJXVk9LTFN5dFVIN2tmbWlyRmpMT1BnTFhoUUV4UDNGdF96XzM4cFZUcXV5WnN0NFJmS0FFRHZ3OXB"
+      },
+      {
         "headline": "‘I lost a lot of hope’: Nevada pays $100K to woman convicted for miscarriage under 1911 law - AP News",
         "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUkFFVlVMbVVaeExpd3FmZnp1N081eEVUem1rZC1hU1B3bUZhb21jQmcxNXhMUllXTHpoNVJFME16YXc0SDkxdFlWcHFuY2xQRHppbnUyRHhPekw1ZE01OGFsRExoQVRxOE5SN2VxYTNaOGtBS2drY3dhN05uV0M3Z2hwV3Z2Q1Z6YjZ3YnpNbzNWOVZOelF6THJPbUJreVBvNGJFVW9mYUJHeTVRZmxQdXRpVmY0OU9abHJrU1kxcmRhWXZDXzlzeHZ1bWw4VE1UdDJ3?oc=5",
         "source": "AP",
@@ -156,16 +166,6 @@
         "priority": "primary",
         "date": "Sat, 21 Feb 2026 23:12:24 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUkFFVlVMbVVaeExpd3FmZnp1N081eEVUem1rZC1hU1B3bUZhb21jQmcxNXhMUllXTHpoNVJFME16YXc0SDkxdFlWcHFuY2xQRHppbnUyRHhPekw1ZE01OGFsRExoQVRxOE5SN2V"
-      },
-      {
-        "headline": "Mamdani reboots homeless encampment sweeps in New York City - AP News",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS2RrdmFYZkdaSGlWeDNEYVZpWVdSYTdyX0tMUFBITVNBaTRaNDZ5elJWY1ZKU0JnRHM4TnhjMUJMeWpQMXp5RjVVczJNRWRjN0FnWHB3TW12Tk44WnQweHBEVGJXLVlMbzNCYWE3U0dNa1d0ZFVaeExnM05fd1Z3N20zdEFmaW44cjUxN3BFdTlWQXRLRWdaNmpzSDB0VjRINlBYSg?oc=5",
-        "source": "AP",
-        "sourceId": "ap_world",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Sat, 21 Feb 2026 22:46:22 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOS2RrdmFYZkdaSGlWeDNEYVZpWVdSYTdyX0tMUFBITVNBaTRaNDZ5elJWY1ZKU0JnRHM4TnhjMUJMeWpQMXp5RjVVczJNRWRjN0FnWHB3TW12Tk44WnQweHBEVGJXLVlMbzNCYWE"
       },
       {
         "headline": "UAE foils cyber attacks, state news agency says - Reuters",
@@ -188,14 +188,14 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPb0JETzNzZUstNjZNaW9XN1FEMjNVaThScS1rWFdlT2VNTVYxck8xY0V3SXlacHJPdVdoaUpVNTZnTkd5T1U2cmFPd25pdVpIUHJFUS1kQXZjQU1peFJQWGJ6aVVtSTRjc2JVS2h"
       },
       {
-        "headline": "DOJ Probes Netflix's Power Over Filmmakers In Warner Deal Review - Bloomberg News - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYVBhR1lVZVVRYTZtWEFPOTlZdU9GcFRpdERDczhIMy1heG14MDdtdWFuWUExSW02QzJqTFY5SW9kX09IRmljVVctZzNQc0E3VEhJSktGbXU0OUJCNzVEOVRnOWljVHc1Z1NUXzhfaEdJUG1rUGhMUTVIM3JxejY5ZEdJTG4wNWRYaEhlM2hYTloyQXAxWmkyZHl4NldOdTBoV0RESEdBZFhBTUlPRlFFdXFKSjNtaE41M1hHbVNROGNDaHBrYmtzNHNCbmJ3UkZTcjgxZVR4cG9IWHhnYjRiTEVNOA?oc=5",
+        "headline": "BNSF Says Mainlines Are Back Open And Operational After A Train Derailment Near Angora, NE, On Feb 20 - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOQ3NQcjM1dFR3bDNSSHVlaDhkX0U5MHh4VGxYNWZNdW1TVGx6TXAxR2RFbDFiOHJNa1NRQzVIcG9RbVl4Qm85OHc4UDFCU2hQMXdIRUhZLXlaWkhVRVJfYXNTVUNrYWJVT3dWRFFuLTlyTmlwbzV5SzJCT00xdkpXVFZ4a05tVmhubzJ2Q0hzWUhwNzFTZGFTcF9UeFRFbVAyMUYyWVB0R0J2ZkRHX2NhRGtmQWNuZVM1eUJGUGV1c2FMcjJBRmJVWmZicVRUeHk2X0FzSmM1ZWVDcjhudUkxTUtYcnhLQXAtMHVlV2tobGtkRWRpRFViWXQzNGdGQQ?oc=5",
         "source": "Reuters",
         "sourceId": "reuters_world",
         "category": "wire",
         "priority": "primary",
-        "date": "Sat, 21 Feb 2026 23:36:41 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYVBhR1lVZVVRYTZtWEFPOTlZdU9GcFRpdERDczhIMy1heG14MDdtdWFuWUExSW02QzJqTFY5SW9kX09IRmljVVctZzNQc0E3VEhJSktGbXU0OUJCNzVEOVRnOWljVHc1Z1NUXzh"
+        "date": "Sun, 22 Feb 2026 00:11:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxOQ3NQcjM1dFR3bDNSSHVlaDhkX0U5MHh4VGxYNWZNdW1TVGx6TXAxR2RFbDFiOHJNa1NRQzVIcG9RbVl4Qm85OHc4UDFCU2hQMXdIRUhZLXlaWkhVRVJfYXNTVUNrYWJVT3dWRFF"
       },
       {
         "headline": "Germany's Merz hopes for relief after Trump tariff verdict but uncertainty lingers - Reuters",
@@ -1798,16 +1798,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNeEV6R1d3RUp5QlZJU2xUMmVJWVdGY0RzTF9wRFR6OVI1eGZ6WkY0LUNVd0txcDR1T20tWFB4VXhUQWNudVFFYURuX0NoSVlEZ2ZvdkFLNGpVR0ZWQnVoM0U2SUhPRDRCRkFic2d"
       },
       {
-        "headline": "Austin Film Festival’s Digital Series Competitions - Office of the Texas Governor (.gov)",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdV9qRDhBLW5OMVB4U2FrU1cyYVk3Y3VmaHlkcWVrQkhZV2g4ZDlucEU2MmFXU3pFY0p5d1V4QmY2SmttWjAtX1BaVjBjaEpUYm1KUGdFQ1gtTnRtZkF4RU1PeEQtelRxMUNBSjNKX2RSRnhpbDZGa1NLQlc2Rk5XT1hYRkJLVTZ1X1FYQ0RIdXR2Ym9pd1VzSTB1TXFSQQ?oc=5",
-        "source": "Daybook: Scheduled Events",
-        "sourceId": "daybook_scheduled",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Sat, 21 Feb 2026 08:50:15 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPdV9qRDhBLW5OMVB4U2FrU1cyYVk3Y3VmaHlkcWVrQkhZV2g4ZDlucEU2MmFXU3pFY0p5d1V4QmY2SmttWjAtX1BaVjBjaEpUYm1KUGdFQ1gtTnRtZkF4RU1PeEQtelRxMUNBSjN"
-      },
-      {
         "headline": "Season 2 of 'Paradise' starring Sterling K. Brown, Julianne Nicholson and Shailene Woodley comes back a little over a year after Season 1 arrived. Read more below. - facebook.com",
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaEN5T2Y2T1ZEZFZJU2tVektOSUJYSmk4VU5Wd2VETWVBNXFlRGpDVUdEUHcxU0JyY3lhTEp6Y3Y0N0NlNEVSMVFKWm1telZpN210c3BuR3VCMi1PMmQ5dzhRZTdLNnpwdDNtZ2Y0ZlpzRGlOLUpxVEo1ZnR4dURaQ09IWlRMdjR6dThXMDVyTkNMQVJ2bmRYZVRqdzZNLTJvaDcwOERfZ0ZXQXRmR1BNbFdBc2NFVm81U0ktMkJLd1lPUWpnemdBTEVjdzZrZU1kbkV0RThn?oc=5",
         "source": "Daybook: Scheduled Events",
@@ -1828,16 +1818,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPaGtvdGdhN09UYnl0RnJHY1BoWDBQU253bTJkT3pTR0tPbllUNFF2U0J3cjRZQmcxY0tOVFBJRllQNFA0b3o0bnBOTk0zM0J3aEkySEZOcVVSREpQOGx4X3Bna2d4cTV1VmVqZHd"
       },
       {
-        "headline": "Iowa Legislature hits first ‘funnel’ deadline of 2026. Here’s which bills survived, died - Iowa Capital Dispatch",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQN1p2dXJ3YTgzRHhWRHcxMG13QWNLc0wtaFVrMFN5UW5GeHRvZ0gzYUJtTnNkVFNxOWlQcGpHaG5McDBLdlRoN0E3ZThjT3V0Z0lQbUVTRFRTakIwUUVJN0R1bDlBU0prZmdXOGxMeTBoS2RfQ0ZQWG45UllTZktkTDJ6ajMzQ3NXTDk1M0lmQ3Fyb3pPdW1nOXViQVBlTDJlSVk4RHduMVI5WWJyZm96MWE0TTZxUFRkcXBtX1BYWl9JWXBIOWc?oc=5",
-        "source": "Daybook: Scheduled Events",
-        "sourceId": "daybook_scheduled",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Fri, 20 Feb 2026 20:59:30 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQN1p2dXJ3YTgzRHhWRHcxMG13QWNLc0wtaFVrMFN5UW5GeHRvZ0gzYUJtTnNkVFNxOWlQcGpHaG5McDBLdlRoN0E3ZThjT3V0Z0lQbUVTRFRTakIwUUVJN0R1bDlBU0prZmdXOGx"
-      },
-      {
         "headline": "Ice Shanty Removal Deadline Approaching - Madison's Country Q106",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5fUkVFc0xObE1nZ2hRVXVfRzF5eDM5LWVDTGV5aW9Xa0JRLS1LaUJxVllTNTZvc2tkNFdXdEllRDRUSUFkajd5N0JlVGRqNDlqM2dXUkJOb1E4SW91c3YzTThObjJmR0tNSXdieWxEbUFNdS02enNWTElwM1Q?oc=5",
         "source": "Daybook: Scheduled Events",
@@ -1848,6 +1828,16 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5fUkVFc0xObE1nZ2hRVXVfRzF5eDM5LWVDTGV5aW9Xa0JRLS1LaUJxVllTNTZvc2tkNFdXdEllRDRUSUFkajd5N0JlVGRqNDlqM2dXUkJOb1E4SW91c3YzTThObjJmR0tNSXdieWx"
       },
       {
+        "headline": "Iowa Legislature hits first ‘funnel’ deadline of 2026. Here’s which bills survived, died - Iowa Capital Dispatch",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQN1p2dXJ3YTgzRHhWRHcxMG13QWNLc0wtaFVrMFN5UW5GeHRvZ0gzYUJtTnNkVFNxOWlQcGpHaG5McDBLdlRoN0E3ZThjT3V0Z0lQbUVTRFRTakIwUUVJN0R1bDlBU0prZmdXOGxMeTBoS2RfQ0ZQWG45UllTZktkTDJ6ajMzQ3NXTDk1M0lmQ3Fyb3pPdW1nOXViQVBlTDJlSVk4RHduMVI5WWJyZm96MWE0TTZxUFRkcXBtX1BYWl9JWXBIOWc?oc=5",
+        "source": "Daybook: Scheduled Events",
+        "sourceId": "daybook_scheduled",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Fri, 20 Feb 2026 20:59:30 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQN1p2dXJ3YTgzRHhWRHcxMG13QWNLc0wtaFVrMFN5UW5GeHRvZ0gzYUJtTnNkVFNxOWlQcGpHaG5McDBLdlRoN0E3ZThjT3V0Z0lQbUVTRFRTakIwUUVJN0R1bDlBU0prZmdXOGx"
+      },
+      {
         "headline": "Disaster aid deadline extended for Western Alaska storms - Alaska Beacon",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQ0VnM0h5ZUZYMlNnVUNaNlZ1WmRERG5NQmNLQldwSVRIczU3UVU3eWRmN3c4YnVUUDRaV3cwZkNtb2ZHa3JQR0ZyRmNjR0R6aktvU3dORnAtSmd2cWp6SkQ3VXBiMkdhZXlRRlhPSWJLdmpZMkhzUWtuY2h1bWtZNWZwc3gyQ3lTTTFVNjdfY18wWXc?oc=5",
         "source": "Daybook: Scheduled Events",
@@ -1856,6 +1846,26 @@
         "priority": "reference",
         "date": "Sat, 21 Feb 2026 00:04:57 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQQ0VnM0h5ZUZYMlNnVUNaNlZ1WmRERG5NQmNLQldwSVRIczU3UVU3eWRmN3c4YnVUUDRaV3cwZkNtb2ZHa3JQR0ZyRmNjR0R6aktvU3dORnAtSmd2cWp6SkQ3VXBiMkdhZXlRRlh"
+      },
+      {
+        "headline": "RSU 73 weighs increases, cuts as budget deadline nears - The Maine Monitor",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJVC1TbUl1Mi1udU5TX3VqdXRRQTR1a1k2LXVhVDFiaTgydmYyZmpGczV4Q1IwbGd3dVVuVU5QZVdDTFBPMERqOUFDTHVjTVd6TENEdW9pVGlYM1J4bkZuWnBLMFVUMVBWbnV0OUpJb2M?oc=5",
+        "source": "Daybook: Scheduled Events",
+        "sourceId": "daybook_scheduled",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Sat, 21 Feb 2026 11:01:35 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBJVC1TbUl1Mi1udU5TX3VqdXRRQTR1a1k2LXVhVDFiaTgydmYyZmpGczV4Q1IwbGd3dVVuVU5QZVdDTFBPMERqOUFDTHVjTVd6TENEdW9pVGlYM1J4bkZuWnBLMFVUMVBWbnV0OUp"
+      },
+      {
+        "headline": "Michigan physicians face license loss as medical compact deadline nears - 910news.com",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWXR3MHpXSnhpMWpuLXV0cWdVaEtId0ItQThFbHluZ2NleEZKbnZwNEtnRWxFN0tGcFZNSkRjOG5Kc3Q2TXhvX3NGOG1vTS1GVWQ2QXFtU1FLU2lSdjNwcDdsc3MwSlJ5cUg5UU1mRWdydkdVREVWYXFST0RPaV9mOGsxRk1vZmlaN3JxQ3NaVlNNRV9KUzJRSTM1azFWUGZ6NldjbWladXhiRWI0UWhZ?oc=5",
+        "source": "Daybook: Scheduled Events",
+        "sourceId": "daybook_scheduled",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Sat, 21 Feb 2026 16:59:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQWXR3MHpXSnhpMWpuLXV0cWdVaEtId0ItQThFbHluZ2NleEZKbnZwNEtnRWxFN0tGcFZNSkRjOG5Kc3Q2TXhvX3NGOG1vTS1GVWQ2QXFtU1FLU2lSdjNwcDdsc3MwSlJ5cUg5UU1"
       },
       {
         "headline": "‘GOAT’ To Knock ‘Wuthering Heights’ Out Of No. 1 In U.S., But Jacob Elordi &amp; Margot Robbie Pic Hugging $126M WW Cume – Box Office Update - Deadline",
@@ -1919,6 +1929,16 @@
           "priority": "primary",
           "date": "Sat, 21 Feb 2026 22:55:10 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM25sUHRKa09fYjYtcVozeGlOQ29ibnpqWVV1Ni04QWxHRnJFa25VRnBYOU80YkoxeXNucFNnajhNZmV0WWFRRmNyZlhWZWtnUE9hdDZXdGYzUF9RR19xRDVnZ2tkU2tLTUZxSzl"
+        },
+        {
+          "headline": "United States wins 3rd Olympic gold in women's hockey, beating Canada 2-1 on Megan Keller's OT goal - AP News",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS1IzbWNEU1FuTVNIQjY5RVNTTHpxZjVBMXB5UFE0Uk45c19VQ0pydzNFZ1ZVYmVRUm1neVZWLWdITV9SMndUQTVhdXZyUlhrdkRWSmE0OGZERzFyQUVQTHQzNXdfTFdDWFh3cjBYakxaNm56R2VHdlZKY1VKSXdhOXFUdkU0LVdXUzdVVE9ZNlljVDVBYkdBZ0dzbld5Zw?oc=5",
+          "source": "AP",
+          "sourceId": "ap_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sat, 21 Feb 2026 23:48:52 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQS1IzbWNEU1FuTVNIQjY5RVNTTHpxZjVBMXB5UFE0Uk45c19VQ0pydzNFZ1ZVYmVRUm1neVZWLWdITV9SMndUQTVhdXZyUlhrdkRWSmE0OGZERzFyQUVQTHQzNXdfTFdDWFh3cjB"
         },
         {
           "headline": "NCAA College Basketball Rankings: AP Top 25 Basketball Poll - AP News",
@@ -2021,16 +2041,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNaUxUZ2pLcUJoTW1kUENLZ3lQQUUxWTNHeGw3Y3dNeW1FOXlyQnBkTkttUFg2bkpiTF92ZVBuR3UzUGFwT2hnRTBNNFA5N2ZwUXpobWJ1emlVMFZBd2pUQW1WTDh2YVRKMnkwRG5"
         },
         {
-          "headline": "Trump approves disaster assistance to DC to help with sewage spill into Potomac River - AP News",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMGRqRkZGUVpNUkQ0Q2xqalJJNmZkd2xWZ3lxMUtVOHBRYzBPLTI1eUJxOGJXVk9LTFN5dFVIN2tmbWlyRmpMT1BnTFhoUUV4UDNGdF96XzM4cFZUcXV5WnN0NFJmS0FFRHZ3OXBEc21seHFQQkVucGtYcE1BMVRUUWhEMllJWl9mVnQ3WENSUXl3RDJwVkhtdXQ2aU11Sl9GcENrN0ZHczFBai05V3kxNA?oc=5",
-          "source": "AP",
-          "sourceId": "ap_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sat, 21 Feb 2026 23:00:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQMGRqRkZGUVpNUkQ0Q2xqalJJNmZkd2xWZ3lxMUtVOHBRYzBPLTI1eUJxOGJXVk9LTFN5dFVIN2tmbWlyRmpMT1BnTFhoUUV4UDNGdF96XzM4cFZUcXV5WnN0NFJmS0FFRHZ3OXB"
-        },
-        {
           "headline": "White House dinner closes a turbulent week for governors in Washington - AP News",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaGtPdmdNR2NKNTI3d001WUV6REp0OGd6VTFKUkdVOGhDazdzRWdwTG1kR0ZtYTM5blIzVzRuVVpNczdXaDhtMDd1NUdnVlhjejJwTmRjNGxyUnZjbTkzV3J0VFYxdXU1UWRRcS1tUHVZZlVlOGZDZ2xmSEFMZmwxSTM3Z0tXbW9kLWtrT3dfSHFEamFxLURGRjh2MHFBX3ZuRnhtbURlUQ?oc=5",
           "source": "AP",
@@ -2041,6 +2051,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOaGtPdmdNR2NKNTI3d001WUV6REp0OGd6VTFKUkdVOGhDazdzRWdwTG1kR0ZtYTM5blIzVzRuVVpNczdXaDhtMDd1NUdnVlhjejJwTmRjNGxyUnZjbTkzV3J0VFYxdXU1UWRRcS1"
         },
         {
+          "headline": "Trump approves disaster assistance to DC to help with sewage spill into Potomac River - AP News",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMGRqRkZGUVpNUkQ0Q2xqalJJNmZkd2xWZ3lxMUtVOHBRYzBPLTI1eUJxOGJXVk9LTFN5dFVIN2tmbWlyRmpMT1BnTFhoUUV4UDNGdF96XzM4cFZUcXV5WnN0NFJmS0FFRHZ3OXBEc21seHFQQkVucGtYcE1BMVRUUWhEMllJWl9mVnQ3WENSUXl3RDJwVkhtdXQ2aU11Sl9GcENrN0ZHczFBai05V3kxNA?oc=5",
+          "source": "AP",
+          "sourceId": "ap_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sat, 21 Feb 2026 23:00:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQMGRqRkZGUVpNUkQ0Q2xqalJJNmZkd2xWZ3lxMUtVOHBRYzBPLTI1eUJxOGJXVk9LTFN5dFVIN2tmbWlyRmpMT1BnTFhoUUV4UDNGdF96XzM4cFZUcXV5WnN0NFJmS0FFRHZ3OXB"
+        },
+        {
           "headline": "‘I lost a lot of hope’: Nevada pays $100K to woman convicted for miscarriage under 1911 law - AP News",
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUkFFVlVMbVVaeExpd3FmZnp1N081eEVUem1rZC1hU1B3bUZhb21jQmcxNXhMUllXTHpoNVJFME16YXc0SDkxdFlWcHFuY2xQRHppbnUyRHhPekw1ZE01OGFsRExoQVRxOE5SN2VxYTNaOGtBS2drY3dhN05uV0M3Z2hwV3Z2Q1Z6YjZ3YnpNbzNWOVZOelF6THJPbUJreVBvNGJFVW9mYUJHeTVRZmxQdXRpVmY0OU9abHJrU1kxcmRhWXZDXzlzeHZ1bWw4VE1UdDJ3?oc=5",
           "source": "AP",
@@ -2049,16 +2069,6 @@
           "priority": "primary",
           "date": "Sat, 21 Feb 2026 23:12:24 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUkFFVlVMbVVaeExpd3FmZnp1N081eEVUem1rZC1hU1B3bUZhb21jQmcxNXhMUllXTHpoNVJFME16YXc0SDkxdFlWcHFuY2xQRHppbnUyRHhPekw1ZE01OGFsRExoQVRxOE5SN2V"
-        },
-        {
-          "headline": "Mamdani reboots homeless encampment sweeps in New York City - AP News",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS2RrdmFYZkdaSGlWeDNEYVZpWVdSYTdyX0tMUFBITVNBaTRaNDZ5elJWY1ZKU0JnRHM4TnhjMUJMeWpQMXp5RjVVczJNRWRjN0FnWHB3TW12Tk44WnQweHBEVGJXLVlMbzNCYWE3U0dNa1d0ZFVaeExnM05fd1Z3N20zdEFmaW44cjUxN3BFdTlWQXRLRWdaNmpzSDB0VjRINlBYSg?oc=5",
-          "source": "AP",
-          "sourceId": "ap_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sat, 21 Feb 2026 22:46:22 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOS2RrdmFYZkdaSGlWeDNEYVZpWVdSYTdyX0tMUFBITVNBaTRaNDZ5elJWY1ZKU0JnRHM4TnhjMUJMeWpQMXp5RjVVczJNRWRjN0FnWHB3TW12Tk44WnQweHBEVGJXLVlMbzNCYWE"
         },
         {
           "headline": "UAE foils cyber attacks, state news agency says - Reuters",
@@ -2081,14 +2091,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPb0JETzNzZUstNjZNaW9XN1FEMjNVaThScS1rWFdlT2VNTVYxck8xY0V3SXlacHJPdVdoaUpVNTZnTkd5T1U2cmFPd25pdVpIUHJFUS1kQXZjQU1peFJQWGJ6aVVtSTRjc2JVS2h"
         },
         {
-          "headline": "DOJ Probes Netflix's Power Over Filmmakers In Warner Deal Review - Bloomberg News - TradingView",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYVBhR1lVZVVRYTZtWEFPOTlZdU9GcFRpdERDczhIMy1heG14MDdtdWFuWUExSW02QzJqTFY5SW9kX09IRmljVVctZzNQc0E3VEhJSktGbXU0OUJCNzVEOVRnOWljVHc1Z1NUXzhfaEdJUG1rUGhMUTVIM3JxejY5ZEdJTG4wNWRYaEhlM2hYTloyQXAxWmkyZHl4NldOdTBoV0RESEdBZFhBTUlPRlFFdXFKSjNtaE41M1hHbVNROGNDaHBrYmtzNHNCbmJ3UkZTcjgxZVR4cG9IWHhnYjRiTEVNOA?oc=5",
+          "headline": "BNSF Says Mainlines Are Back Open And Operational After A Train Derailment Near Angora, NE, On Feb 20 - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOQ3NQcjM1dFR3bDNSSHVlaDhkX0U5MHh4VGxYNWZNdW1TVGx6TXAxR2RFbDFiOHJNa1NRQzVIcG9RbVl4Qm85OHc4UDFCU2hQMXdIRUhZLXlaWkhVRVJfYXNTVUNrYWJVT3dWRFFuLTlyTmlwbzV5SzJCT00xdkpXVFZ4a05tVmhubzJ2Q0hzWUhwNzFTZGFTcF9UeFRFbVAyMUYyWVB0R0J2ZkRHX2NhRGtmQWNuZVM1eUJGUGV1c2FMcjJBRmJVWmZicVRUeHk2X0FzSmM1ZWVDcjhudUkxTUtYcnhLQXAtMHVlV2tobGtkRWRpRFViWXQzNGdGQQ?oc=5",
           "source": "Reuters",
           "sourceId": "reuters_world",
           "category": "wire",
           "priority": "primary",
-          "date": "Sat, 21 Feb 2026 23:36:41 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYVBhR1lVZVVRYTZtWEFPOTlZdU9GcFRpdERDczhIMy1heG14MDdtdWFuWUExSW02QzJqTFY5SW9kX09IRmljVVctZzNQc0E3VEhJSktGbXU0OUJCNzVEOVRnOWljVHc1Z1NUXzh"
+          "date": "Sun, 22 Feb 2026 00:11:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxOQ3NQcjM1dFR3bDNSSHVlaDhkX0U5MHh4VGxYNWZNdW1TVGx6TXAxR2RFbDFiOHJNa1NRQzVIcG9RbVl4Qm85OHc4UDFCU2hQMXdIRUhZLXlaWkhVRVJfYXNTVUNrYWJVT3dWRFF"
         },
         {
           "headline": "Germany's Merz hopes for relief after Trump tariff verdict but uncertainty lingers - Reuters",
@@ -3667,16 +3677,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPVVhiUGhuam9Ic2ZweHByU0R6X1Bsdl8zTDRzMFdLNUtaUkhtNk5rXzVfM25tZ2lXN1VqOXhwaUFCNzZtYlY2bUVUT25jU2ZUdkE0Ny00WFd4WFBKendrdUNHWEQ4TzZCT2NSSUN"
         },
         {
-          "headline": "NBA trade deadline brought big surprises - The Rider News",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xVHJidjdtWnR1Y0VFMXVZNW85ZldWUVRCQ09kU25adks2VUJxYU0yUW1RYzVic0lhYjdRSVdmY1NlbS10R3d3cGRIRHNWYWJIZ2RJemc3aDVIdThGS0hvV3lxNlgzNlp0bjBPUWRMOTdNR0Zw?oc=5",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Sat, 21 Feb 2026 22:23:06 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9xVHJidjdtWnR1Y0VFMXVZNW85ZldWUVRCQ09kU25adks2VUJxYU0yUW1RYzVic0lhYjdRSVdmY1NlbS10R3d3cGRIRHNWYWJIZ2RJemc3aDVIdThGS0hvV3lxNlgzNlp0bjBPUWR"
-        },
-        {
           "headline": "Game Four Against Stanford Scheduled for Sunday at 1:05 p.m. - fullertontitans.com",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTGUtVmVSbUZGRHc4V0R0U0NnYl9GU2VnT3ppSjVjQUN6ZG1IdVFvVkd1TDYxdC1oVmt1eFFRT1JVb2JyOVVBaHF4amVpZnh0TTFPTDFtZGQ0akVpT3l2WkItZUtLUmU1RXY5NWZLazFpdWkwak1sdWF0UHhuR05KMnV6ZkxDSENtcm94THpUNGxsbm9ETHlsX2J5dmxJZkNkV200d3hqNVVDbFVCb3F6SjhGTEVUZw?oc=5",
           "source": "Daybook: Scheduled Events",
@@ -3707,16 +3707,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNeEV6R1d3RUp5QlZJU2xUMmVJWVdGY0RzTF9wRFR6OVI1eGZ6WkY0LUNVd0txcDR1T20tWFB4VXhUQWNudVFFYURuX0NoSVlEZ2ZvdkFLNGpVR0ZWQnVoM0U2SUhPRDRCRkFic2d"
         },
         {
-          "headline": "Austin Film Festival’s Digital Series Competitions - Office of the Texas Governor (.gov)",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdV9qRDhBLW5OMVB4U2FrU1cyYVk3Y3VmaHlkcWVrQkhZV2g4ZDlucEU2MmFXU3pFY0p5d1V4QmY2SmttWjAtX1BaVjBjaEpUYm1KUGdFQ1gtTnRtZkF4RU1PeEQtelRxMUNBSjNKX2RSRnhpbDZGa1NLQlc2Rk5XT1hYRkJLVTZ1X1FYQ0RIdXR2Ym9pd1VzSTB1TXFSQQ?oc=5",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Sat, 21 Feb 2026 08:50:15 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPdV9qRDhBLW5OMVB4U2FrU1cyYVk3Y3VmaHlkcWVrQkhZV2g4ZDlucEU2MmFXU3pFY0p5d1V4QmY2SmttWjAtX1BaVjBjaEpUYm1KUGdFQ1gtTnRtZkF4RU1PeEQtelRxMUNBSjN"
-        },
-        {
           "headline": "Season 2 of 'Paradise' starring Sterling K. Brown, Julianne Nicholson and Shailene Woodley comes back a little over a year after Season 1 arrived. Read more below. - facebook.com",
           "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaEN5T2Y2T1ZEZFZJU2tVektOSUJYSmk4VU5Wd2VETWVBNXFlRGpDVUdEUHcxU0JyY3lhTEp6Y3Y0N0NlNEVSMVFKWm1telZpN210c3BuR3VCMi1PMmQ5dzhRZTdLNnpwdDNtZ2Y0ZlpzRGlOLUpxVEo1ZnR4dURaQ09IWlRMdjR6dThXMDVyTkNMQVJ2bmRYZVRqdzZNLTJvaDcwOERfZ0ZXQXRmR1BNbFdBc2NFVm81U0ktMkJLd1lPUWpnemdBTEVjdzZrZU1kbkV0RThn?oc=5",
           "source": "Daybook: Scheduled Events",
@@ -3737,16 +3727,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPaGtvdGdhN09UYnl0RnJHY1BoWDBQU253bTJkT3pTR0tPbllUNFF2U0J3cjRZQmcxY0tOVFBJRllQNFA0b3o0bnBOTk0zM0J3aEkySEZOcVVSREpQOGx4X3Bna2d4cTV1VmVqZHd"
         },
         {
-          "headline": "Iowa Legislature hits first ‘funnel’ deadline of 2026. Here’s which bills survived, died - Iowa Capital Dispatch",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQN1p2dXJ3YTgzRHhWRHcxMG13QWNLc0wtaFVrMFN5UW5GeHRvZ0gzYUJtTnNkVFNxOWlQcGpHaG5McDBLdlRoN0E3ZThjT3V0Z0lQbUVTRFRTakIwUUVJN0R1bDlBU0prZmdXOGxMeTBoS2RfQ0ZQWG45UllTZktkTDJ6ajMzQ3NXTDk1M0lmQ3Fyb3pPdW1nOXViQVBlTDJlSVk4RHduMVI5WWJyZm96MWE0TTZxUFRkcXBtX1BYWl9JWXBIOWc?oc=5",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Fri, 20 Feb 2026 20:59:30 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQN1p2dXJ3YTgzRHhWRHcxMG13QWNLc0wtaFVrMFN5UW5GeHRvZ0gzYUJtTnNkVFNxOWlQcGpHaG5McDBLdlRoN0E3ZThjT3V0Z0lQbUVTRFRTakIwUUVJN0R1bDlBU0prZmdXOGx"
-        },
-        {
           "headline": "Ice Shanty Removal Deadline Approaching - Madison's Country Q106",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5fUkVFc0xObE1nZ2hRVXVfRzF5eDM5LWVDTGV5aW9Xa0JRLS1LaUJxVllTNTZvc2tkNFdXdEllRDRUSUFkajd5N0JlVGRqNDlqM2dXUkJOb1E4SW91c3YzTThObjJmR0tNSXdieWxEbUFNdS02enNWTElwM1Q?oc=5",
           "source": "Daybook: Scheduled Events",
@@ -3757,6 +3737,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5fUkVFc0xObE1nZ2hRVXVfRzF5eDM5LWVDTGV5aW9Xa0JRLS1LaUJxVllTNTZvc2tkNFdXdEllRDRUSUFkajd5N0JlVGRqNDlqM2dXUkJOb1E4SW91c3YzTThObjJmR0tNSXdieWx"
         },
         {
+          "headline": "Iowa Legislature hits first ‘funnel’ deadline of 2026. Here’s which bills survived, died - Iowa Capital Dispatch",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQN1p2dXJ3YTgzRHhWRHcxMG13QWNLc0wtaFVrMFN5UW5GeHRvZ0gzYUJtTnNkVFNxOWlQcGpHaG5McDBLdlRoN0E3ZThjT3V0Z0lQbUVTRFRTakIwUUVJN0R1bDlBU0prZmdXOGxMeTBoS2RfQ0ZQWG45UllTZktkTDJ6ajMzQ3NXTDk1M0lmQ3Fyb3pPdW1nOXViQVBlTDJlSVk4RHduMVI5WWJyZm96MWE0TTZxUFRkcXBtX1BYWl9JWXBIOWc?oc=5",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Fri, 20 Feb 2026 20:59:30 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQN1p2dXJ3YTgzRHhWRHcxMG13QWNLc0wtaFVrMFN5UW5GeHRvZ0gzYUJtTnNkVFNxOWlQcGpHaG5McDBLdlRoN0E3ZThjT3V0Z0lQbUVTRFRTakIwUUVJN0R1bDlBU0prZmdXOGx"
+        },
+        {
           "headline": "Disaster aid deadline extended for Western Alaska storms - Alaska Beacon",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQ0VnM0h5ZUZYMlNnVUNaNlZ1WmRERG5NQmNLQldwSVRIczU3UVU3eWRmN3c4YnVUUDRaV3cwZkNtb2ZHa3JQR0ZyRmNjR0R6aktvU3dORnAtSmd2cWp6SkQ3VXBiMkdhZXlRRlhPSWJLdmpZMkhzUWtuY2h1bWtZNWZwc3gyQ3lTTTFVNjdfY18wWXc?oc=5",
           "source": "Daybook: Scheduled Events",
@@ -3765,6 +3755,26 @@
           "priority": "reference",
           "date": "Sat, 21 Feb 2026 00:04:57 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQQ0VnM0h5ZUZYMlNnVUNaNlZ1WmRERG5NQmNLQldwSVRIczU3UVU3eWRmN3c4YnVUUDRaV3cwZkNtb2ZHa3JQR0ZyRmNjR0R6aktvU3dORnAtSmd2cWp6SkQ3VXBiMkdhZXlRRlh"
+        },
+        {
+          "headline": "RSU 73 weighs increases, cuts as budget deadline nears - The Maine Monitor",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJVC1TbUl1Mi1udU5TX3VqdXRRQTR1a1k2LXVhVDFiaTgydmYyZmpGczV4Q1IwbGd3dVVuVU5QZVdDTFBPMERqOUFDTHVjTVd6TENEdW9pVGlYM1J4bkZuWnBLMFVUMVBWbnV0OUpJb2M?oc=5",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Sat, 21 Feb 2026 11:01:35 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBJVC1TbUl1Mi1udU5TX3VqdXRRQTR1a1k2LXVhVDFiaTgydmYyZmpGczV4Q1IwbGd3dVVuVU5QZVdDTFBPMERqOUFDTHVjTVd6TENEdW9pVGlYM1J4bkZuWnBLMFVUMVBWbnV0OUp"
+        },
+        {
+          "headline": "Michigan physicians face license loss as medical compact deadline nears - 910news.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWXR3MHpXSnhpMWpuLXV0cWdVaEtId0ItQThFbHluZ2NleEZKbnZwNEtnRWxFN0tGcFZNSkRjOG5Kc3Q2TXhvX3NGOG1vTS1GVWQ2QXFtU1FLU2lSdjNwcDdsc3MwSlJ5cUg5UU1mRWdydkdVREVWYXFST0RPaV9mOGsxRk1vZmlaN3JxQ3NaVlNNRV9KUzJRSTM1azFWUGZ6NldjbWladXhiRWI0UWhZ?oc=5",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Sat, 21 Feb 2026 16:59:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQWXR3MHpXSnhpMWpuLXV0cWdVaEtId0ItQThFbHluZ2NleEZKbnZwNEtnRWxFN0tGcFZNSkRjOG5Kc3Q2TXhvX3NGOG1vTS1GVWQ2QXFtU1FLU2lSdjNwcDdsc3MwSlJ5cUg5UU1"
         },
         {
           "headline": "‘GOAT’ To Knock ‘Wuthering Heights’ Out Of No. 1 In U.S., But Jacob Elordi &amp; Margot Robbie Pic Hugging $126M WW Cume – Box Office Update - Deadline",
@@ -3829,6 +3839,16 @@
           "priority": "primary",
           "date": "Sat, 21 Feb 2026 22:55:10 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM25sUHRKa09fYjYtcVozeGlOQ29ibnpqWVV1Ni04QWxHRnJFa25VRnBYOU80YkoxeXNucFNnajhNZmV0WWFRRmNyZlhWZWtnUE9hdDZXdGYzUF9RR19xRDVnZ2tkU2tLTUZxSzl"
+        },
+        {
+          "headline": "United States wins 3rd Olympic gold in women's hockey, beating Canada 2-1 on Megan Keller's OT goal - AP News",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS1IzbWNEU1FuTVNIQjY5RVNTTHpxZjVBMXB5UFE0Uk45c19VQ0pydzNFZ1ZVYmVRUm1neVZWLWdITV9SMndUQTVhdXZyUlhrdkRWSmE0OGZERzFyQUVQTHQzNXdfTFdDWFh3cjBYakxaNm56R2VHdlZKY1VKSXdhOXFUdkU0LVdXUzdVVE9ZNlljVDVBYkdBZ0dzbld5Zw?oc=5",
+          "source": "AP",
+          "sourceId": "ap_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sat, 21 Feb 2026 23:48:52 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQS1IzbWNEU1FuTVNIQjY5RVNTTHpxZjVBMXB5UFE0Uk45c19VQ0pydzNFZ1ZVYmVRUm1neVZWLWdITV9SMndUQTVhdXZyUlhrdkRWSmE0OGZERzFyQUVQTHQzNXdfTFdDWFh3cjB"
         },
         {
           "headline": "NCAA College Basketball Rankings: AP Top 25 Basketball Poll - AP News",
@@ -3931,16 +3951,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNaUxUZ2pLcUJoTW1kUENLZ3lQQUUxWTNHeGw3Y3dNeW1FOXlyQnBkTkttUFg2bkpiTF92ZVBuR3UzUGFwT2hnRTBNNFA5N2ZwUXpobWJ1emlVMFZBd2pUQW1WTDh2YVRKMnkwRG5"
         },
         {
-          "headline": "Trump approves disaster assistance to DC to help with sewage spill into Potomac River - AP News",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMGRqRkZGUVpNUkQ0Q2xqalJJNmZkd2xWZ3lxMUtVOHBRYzBPLTI1eUJxOGJXVk9LTFN5dFVIN2tmbWlyRmpMT1BnTFhoUUV4UDNGdF96XzM4cFZUcXV5WnN0NFJmS0FFRHZ3OXBEc21seHFQQkVucGtYcE1BMVRUUWhEMllJWl9mVnQ3WENSUXl3RDJwVkhtdXQ2aU11Sl9GcENrN0ZHczFBai05V3kxNA?oc=5",
-          "source": "AP",
-          "sourceId": "ap_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sat, 21 Feb 2026 23:00:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQMGRqRkZGUVpNUkQ0Q2xqalJJNmZkd2xWZ3lxMUtVOHBRYzBPLTI1eUJxOGJXVk9LTFN5dFVIN2tmbWlyRmpMT1BnTFhoUUV4UDNGdF96XzM4cFZUcXV5WnN0NFJmS0FFRHZ3OXB"
-        },
-        {
           "headline": "White House dinner closes a turbulent week for governors in Washington - AP News",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaGtPdmdNR2NKNTI3d001WUV6REp0OGd6VTFKUkdVOGhDazdzRWdwTG1kR0ZtYTM5blIzVzRuVVpNczdXaDhtMDd1NUdnVlhjejJwTmRjNGxyUnZjbTkzV3J0VFYxdXU1UWRRcS1tUHVZZlVlOGZDZ2xmSEFMZmwxSTM3Z0tXbW9kLWtrT3dfSHFEamFxLURGRjh2MHFBX3ZuRnhtbURlUQ?oc=5",
           "source": "AP",
@@ -3951,6 +3961,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOaGtPdmdNR2NKNTI3d001WUV6REp0OGd6VTFKUkdVOGhDazdzRWdwTG1kR0ZtYTM5blIzVzRuVVpNczdXaDhtMDd1NUdnVlhjejJwTmRjNGxyUnZjbTkzV3J0VFYxdXU1UWRRcS1"
         },
         {
+          "headline": "Trump approves disaster assistance to DC to help with sewage spill into Potomac River - AP News",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMGRqRkZGUVpNUkQ0Q2xqalJJNmZkd2xWZ3lxMUtVOHBRYzBPLTI1eUJxOGJXVk9LTFN5dFVIN2tmbWlyRmpMT1BnTFhoUUV4UDNGdF96XzM4cFZUcXV5WnN0NFJmS0FFRHZ3OXBEc21seHFQQkVucGtYcE1BMVRUUWhEMllJWl9mVnQ3WENSUXl3RDJwVkhtdXQ2aU11Sl9GcENrN0ZHczFBai05V3kxNA?oc=5",
+          "source": "AP",
+          "sourceId": "ap_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sat, 21 Feb 2026 23:00:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQMGRqRkZGUVpNUkQ0Q2xqalJJNmZkd2xWZ3lxMUtVOHBRYzBPLTI1eUJxOGJXVk9LTFN5dFVIN2tmbWlyRmpMT1BnTFhoUUV4UDNGdF96XzM4cFZUcXV5WnN0NFJmS0FFRHZ3OXB"
+        },
+        {
           "headline": "‘I lost a lot of hope’: Nevada pays $100K to woman convicted for miscarriage under 1911 law - AP News",
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUkFFVlVMbVVaeExpd3FmZnp1N081eEVUem1rZC1hU1B3bUZhb21jQmcxNXhMUllXTHpoNVJFME16YXc0SDkxdFlWcHFuY2xQRHppbnUyRHhPekw1ZE01OGFsRExoQVRxOE5SN2VxYTNaOGtBS2drY3dhN05uV0M3Z2hwV3Z2Q1Z6YjZ3YnpNbzNWOVZOelF6THJPbUJreVBvNGJFVW9mYUJHeTVRZmxQdXRpVmY0OU9abHJrU1kxcmRhWXZDXzlzeHZ1bWw4VE1UdDJ3?oc=5",
           "source": "AP",
@@ -3959,16 +3979,6 @@
           "priority": "primary",
           "date": "Sat, 21 Feb 2026 23:12:24 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUkFFVlVMbVVaeExpd3FmZnp1N081eEVUem1rZC1hU1B3bUZhb21jQmcxNXhMUllXTHpoNVJFME16YXc0SDkxdFlWcHFuY2xQRHppbnUyRHhPekw1ZE01OGFsRExoQVRxOE5SN2V"
-        },
-        {
-          "headline": "Mamdani reboots homeless encampment sweeps in New York City - AP News",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS2RrdmFYZkdaSGlWeDNEYVZpWVdSYTdyX0tMUFBITVNBaTRaNDZ5elJWY1ZKU0JnRHM4TnhjMUJMeWpQMXp5RjVVczJNRWRjN0FnWHB3TW12Tk44WnQweHBEVGJXLVlMbzNCYWE3U0dNa1d0ZFVaeExnM05fd1Z3N20zdEFmaW44cjUxN3BFdTlWQXRLRWdaNmpzSDB0VjRINlBYSg?oc=5",
-          "source": "AP",
-          "sourceId": "ap_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sat, 21 Feb 2026 22:46:22 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOS2RrdmFYZkdaSGlWeDNEYVZpWVdSYTdyX0tMUFBITVNBaTRaNDZ5elJWY1ZKU0JnRHM4TnhjMUJMeWpQMXp5RjVVczJNRWRjN0FnWHB3TW12Tk44WnQweHBEVGJXLVlMbzNCYWE"
         },
         {
           "headline": "UAE foils cyber attacks, state news agency says - Reuters",
@@ -3991,14 +4001,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPb0JETzNzZUstNjZNaW9XN1FEMjNVaThScS1rWFdlT2VNTVYxck8xY0V3SXlacHJPdVdoaUpVNTZnTkd5T1U2cmFPd25pdVpIUHJFUS1kQXZjQU1peFJQWGJ6aVVtSTRjc2JVS2h"
         },
         {
-          "headline": "DOJ Probes Netflix's Power Over Filmmakers In Warner Deal Review - Bloomberg News - TradingView",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYVBhR1lVZVVRYTZtWEFPOTlZdU9GcFRpdERDczhIMy1heG14MDdtdWFuWUExSW02QzJqTFY5SW9kX09IRmljVVctZzNQc0E3VEhJSktGbXU0OUJCNzVEOVRnOWljVHc1Z1NUXzhfaEdJUG1rUGhMUTVIM3JxejY5ZEdJTG4wNWRYaEhlM2hYTloyQXAxWmkyZHl4NldOdTBoV0RESEdBZFhBTUlPRlFFdXFKSjNtaE41M1hHbVNROGNDaHBrYmtzNHNCbmJ3UkZTcjgxZVR4cG9IWHhnYjRiTEVNOA?oc=5",
+          "headline": "BNSF Says Mainlines Are Back Open And Operational After A Train Derailment Near Angora, NE, On Feb 20 - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOQ3NQcjM1dFR3bDNSSHVlaDhkX0U5MHh4VGxYNWZNdW1TVGx6TXAxR2RFbDFiOHJNa1NRQzVIcG9RbVl4Qm85OHc4UDFCU2hQMXdIRUhZLXlaWkhVRVJfYXNTVUNrYWJVT3dWRFFuLTlyTmlwbzV5SzJCT00xdkpXVFZ4a05tVmhubzJ2Q0hzWUhwNzFTZGFTcF9UeFRFbVAyMUYyWVB0R0J2ZkRHX2NhRGtmQWNuZVM1eUJGUGV1c2FMcjJBRmJVWmZicVRUeHk2X0FzSmM1ZWVDcjhudUkxTUtYcnhLQXAtMHVlV2tobGtkRWRpRFViWXQzNGdGQQ?oc=5",
           "source": "Reuters",
           "sourceId": "reuters_world",
           "category": "wire",
           "priority": "primary",
-          "date": "Sat, 21 Feb 2026 23:36:41 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYVBhR1lVZVVRYTZtWEFPOTlZdU9GcFRpdERDczhIMy1heG14MDdtdWFuWUExSW02QzJqTFY5SW9kX09IRmljVVctZzNQc0E3VEhJSktGbXU0OUJCNzVEOVRnOWljVHc1Z1NUXzh"
+          "date": "Sun, 22 Feb 2026 00:11:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxOQ3NQcjM1dFR3bDNSSHVlaDhkX0U5MHh4VGxYNWZNdW1TVGx6TXAxR2RFbDFiOHJNa1NRQzVIcG9RbVl4Qm85OHc4UDFCU2hQMXdIRUhZLXlaWkhVRVJfYXNTVUNrYWJVT3dWRFF"
         },
         {
           "headline": "Germany's Merz hopes for relief after Trump tariff verdict but uncertainty lingers - Reuters",
@@ -5576,16 +5586,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPVVhiUGhuam9Ic2ZweHByU0R6X1Bsdl8zTDRzMFdLNUtaUkhtNk5rXzVfM25tZ2lXN1VqOXhwaUFCNzZtYlY2bUVUT25jU2ZUdkE0Ny00WFd4WFBKendrdUNHWEQ4TzZCT2NSSUN"
         },
         {
-          "headline": "NBA trade deadline brought big surprises - The Rider News",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xVHJidjdtWnR1Y0VFMXVZNW85ZldWUVRCQ09kU25adks2VUJxYU0yUW1RYzVic0lhYjdRSVdmY1NlbS10R3d3cGRIRHNWYWJIZ2RJemc3aDVIdThGS0hvV3lxNlgzNlp0bjBPUWRMOTdNR0Zw?oc=5",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Sat, 21 Feb 2026 22:23:06 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9xVHJidjdtWnR1Y0VFMXVZNW85ZldWUVRCQ09kU25adks2VUJxYU0yUW1RYzVic0lhYjdRSVdmY1NlbS10R3d3cGRIRHNWYWJIZ2RJemc3aDVIdThGS0hvV3lxNlgzNlp0bjBPUWR"
-        },
-        {
           "headline": "Game Four Against Stanford Scheduled for Sunday at 1:05 p.m. - fullertontitans.com",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTGUtVmVSbUZGRHc4V0R0U0NnYl9GU2VnT3ppSjVjQUN6ZG1IdVFvVkd1TDYxdC1oVmt1eFFRT1JVb2JyOVVBaHF4amVpZnh0TTFPTDFtZGQ0akVpT3l2WkItZUtLUmU1RXY5NWZLazFpdWkwak1sdWF0UHhuR05KMnV6ZkxDSENtcm94THpUNGxsbm9ETHlsX2J5dmxJZkNkV200d3hqNVVDbFVCb3F6SjhGTEVUZw?oc=5",
           "source": "Daybook: Scheduled Events",
@@ -5616,16 +5616,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNeEV6R1d3RUp5QlZJU2xUMmVJWVdGY0RzTF9wRFR6OVI1eGZ6WkY0LUNVd0txcDR1T20tWFB4VXhUQWNudVFFYURuX0NoSVlEZ2ZvdkFLNGpVR0ZWQnVoM0U2SUhPRDRCRkFic2d"
         },
         {
-          "headline": "Austin Film Festival’s Digital Series Competitions - Office of the Texas Governor (.gov)",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdV9qRDhBLW5OMVB4U2FrU1cyYVk3Y3VmaHlkcWVrQkhZV2g4ZDlucEU2MmFXU3pFY0p5d1V4QmY2SmttWjAtX1BaVjBjaEpUYm1KUGdFQ1gtTnRtZkF4RU1PeEQtelRxMUNBSjNKX2RSRnhpbDZGa1NLQlc2Rk5XT1hYRkJLVTZ1X1FYQ0RIdXR2Ym9pd1VzSTB1TXFSQQ?oc=5",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Sat, 21 Feb 2026 08:50:15 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPdV9qRDhBLW5OMVB4U2FrU1cyYVk3Y3VmaHlkcWVrQkhZV2g4ZDlucEU2MmFXU3pFY0p5d1V4QmY2SmttWjAtX1BaVjBjaEpUYm1KUGdFQ1gtTnRtZkF4RU1PeEQtelRxMUNBSjN"
-        },
-        {
           "headline": "Season 2 of 'Paradise' starring Sterling K. Brown, Julianne Nicholson and Shailene Woodley comes back a little over a year after Season 1 arrived. Read more below. - facebook.com",
           "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaEN5T2Y2T1ZEZFZJU2tVektOSUJYSmk4VU5Wd2VETWVBNXFlRGpDVUdEUHcxU0JyY3lhTEp6Y3Y0N0NlNEVSMVFKWm1telZpN210c3BuR3VCMi1PMmQ5dzhRZTdLNnpwdDNtZ2Y0ZlpzRGlOLUpxVEo1ZnR4dURaQ09IWlRMdjR6dThXMDVyTkNMQVJ2bmRYZVRqdzZNLTJvaDcwOERfZ0ZXQXRmR1BNbFdBc2NFVm81U0ktMkJLd1lPUWpnemdBTEVjdzZrZU1kbkV0RThn?oc=5",
           "source": "Daybook: Scheduled Events",
@@ -5646,16 +5636,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPaGtvdGdhN09UYnl0RnJHY1BoWDBQU253bTJkT3pTR0tPbllUNFF2U0J3cjRZQmcxY0tOVFBJRllQNFA0b3o0bnBOTk0zM0J3aEkySEZOcVVSREpQOGx4X3Bna2d4cTV1VmVqZHd"
         },
         {
-          "headline": "Iowa Legislature hits first ‘funnel’ deadline of 2026. Here’s which bills survived, died - Iowa Capital Dispatch",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQN1p2dXJ3YTgzRHhWRHcxMG13QWNLc0wtaFVrMFN5UW5GeHRvZ0gzYUJtTnNkVFNxOWlQcGpHaG5McDBLdlRoN0E3ZThjT3V0Z0lQbUVTRFRTakIwUUVJN0R1bDlBU0prZmdXOGxMeTBoS2RfQ0ZQWG45UllTZktkTDJ6ajMzQ3NXTDk1M0lmQ3Fyb3pPdW1nOXViQVBlTDJlSVk4RHduMVI5WWJyZm96MWE0TTZxUFRkcXBtX1BYWl9JWXBIOWc?oc=5",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Fri, 20 Feb 2026 20:59:30 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQN1p2dXJ3YTgzRHhWRHcxMG13QWNLc0wtaFVrMFN5UW5GeHRvZ0gzYUJtTnNkVFNxOWlQcGpHaG5McDBLdlRoN0E3ZThjT3V0Z0lQbUVTRFRTakIwUUVJN0R1bDlBU0prZmdXOGx"
-        },
-        {
           "headline": "Ice Shanty Removal Deadline Approaching - Madison's Country Q106",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5fUkVFc0xObE1nZ2hRVXVfRzF5eDM5LWVDTGV5aW9Xa0JRLS1LaUJxVllTNTZvc2tkNFdXdEllRDRUSUFkajd5N0JlVGRqNDlqM2dXUkJOb1E4SW91c3YzTThObjJmR0tNSXdieWxEbUFNdS02enNWTElwM1Q?oc=5",
           "source": "Daybook: Scheduled Events",
@@ -5666,6 +5646,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5fUkVFc0xObE1nZ2hRVXVfRzF5eDM5LWVDTGV5aW9Xa0JRLS1LaUJxVllTNTZvc2tkNFdXdEllRDRUSUFkajd5N0JlVGRqNDlqM2dXUkJOb1E4SW91c3YzTThObjJmR0tNSXdieWx"
         },
         {
+          "headline": "Iowa Legislature hits first ‘funnel’ deadline of 2026. Here’s which bills survived, died - Iowa Capital Dispatch",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQN1p2dXJ3YTgzRHhWRHcxMG13QWNLc0wtaFVrMFN5UW5GeHRvZ0gzYUJtTnNkVFNxOWlQcGpHaG5McDBLdlRoN0E3ZThjT3V0Z0lQbUVTRFRTakIwUUVJN0R1bDlBU0prZmdXOGxMeTBoS2RfQ0ZQWG45UllTZktkTDJ6ajMzQ3NXTDk1M0lmQ3Fyb3pPdW1nOXViQVBlTDJlSVk4RHduMVI5WWJyZm96MWE0TTZxUFRkcXBtX1BYWl9JWXBIOWc?oc=5",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Fri, 20 Feb 2026 20:59:30 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQN1p2dXJ3YTgzRHhWRHcxMG13QWNLc0wtaFVrMFN5UW5GeHRvZ0gzYUJtTnNkVFNxOWlQcGpHaG5McDBLdlRoN0E3ZThjT3V0Z0lQbUVTRFRTakIwUUVJN0R1bDlBU0prZmdXOGx"
+        },
+        {
           "headline": "Disaster aid deadline extended for Western Alaska storms - Alaska Beacon",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQ0VnM0h5ZUZYMlNnVUNaNlZ1WmRERG5NQmNLQldwSVRIczU3UVU3eWRmN3c4YnVUUDRaV3cwZkNtb2ZHa3JQR0ZyRmNjR0R6aktvU3dORnAtSmd2cWp6SkQ3VXBiMkdhZXlRRlhPSWJLdmpZMkhzUWtuY2h1bWtZNWZwc3gyQ3lTTTFVNjdfY18wWXc?oc=5",
           "source": "Daybook: Scheduled Events",
@@ -5674,6 +5664,26 @@
           "priority": "reference",
           "date": "Sat, 21 Feb 2026 00:04:57 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQQ0VnM0h5ZUZYMlNnVUNaNlZ1WmRERG5NQmNLQldwSVRIczU3UVU3eWRmN3c4YnVUUDRaV3cwZkNtb2ZHa3JQR0ZyRmNjR0R6aktvU3dORnAtSmd2cWp6SkQ3VXBiMkdhZXlRRlh"
+        },
+        {
+          "headline": "RSU 73 weighs increases, cuts as budget deadline nears - The Maine Monitor",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJVC1TbUl1Mi1udU5TX3VqdXRRQTR1a1k2LXVhVDFiaTgydmYyZmpGczV4Q1IwbGd3dVVuVU5QZVdDTFBPMERqOUFDTHVjTVd6TENEdW9pVGlYM1J4bkZuWnBLMFVUMVBWbnV0OUpJb2M?oc=5",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Sat, 21 Feb 2026 11:01:35 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBJVC1TbUl1Mi1udU5TX3VqdXRRQTR1a1k2LXVhVDFiaTgydmYyZmpGczV4Q1IwbGd3dVVuVU5QZVdDTFBPMERqOUFDTHVjTVd6TENEdW9pVGlYM1J4bkZuWnBLMFVUMVBWbnV0OUp"
+        },
+        {
+          "headline": "Michigan physicians face license loss as medical compact deadline nears - 910news.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWXR3MHpXSnhpMWpuLXV0cWdVaEtId0ItQThFbHluZ2NleEZKbnZwNEtnRWxFN0tGcFZNSkRjOG5Kc3Q2TXhvX3NGOG1vTS1GVWQ2QXFtU1FLU2lSdjNwcDdsc3MwSlJ5cUg5UU1mRWdydkdVREVWYXFST0RPaV9mOGsxRk1vZmlaN3JxQ3NaVlNNRV9KUzJRSTM1azFWUGZ6NldjbWladXhiRWI0UWhZ?oc=5",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Sat, 21 Feb 2026 16:59:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQWXR3MHpXSnhpMWpuLXV0cWdVaEtId0ItQThFbHluZ2NleEZKbnZwNEtnRWxFN0tGcFZNSkRjOG5Kc3Q2TXhvX3NGOG1vTS1GVWQ2QXFtU1FLU2lSdjNwcDdsc3MwSlJ5cUg5UU1"
         },
         {
           "headline": "‘GOAT’ To Knock ‘Wuthering Heights’ Out Of No. 1 In U.S., But Jacob Elordi &amp; Margot Robbie Pic Hugging $126M WW Cume – Box Office Update - Deadline",
@@ -6060,16 +6070,6 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNeEV6R1d3RUp5QlZJU2xUMmVJWVdGY0RzTF9wRFR6OVI1eGZ6WkY0LUNVd0txcDR1T20tWFB4VXhUQWNudVFFYURuX0NoSVlEZ2ZvdkFLNGpVR0ZWQnVoM0U2SUhPRDRCRkFic2d"
     },
     {
-      "headline": "Austin Film Festival’s Digital Series Competitions - Office of the Texas Governor (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdV9qRDhBLW5OMVB4U2FrU1cyYVk3Y3VmaHlkcWVrQkhZV2g4ZDlucEU2MmFXU3pFY0p5d1V4QmY2SmttWjAtX1BaVjBjaEpUYm1KUGdFQ1gtTnRtZkF4RU1PeEQtelRxMUNBSjNKX2RSRnhpbDZGa1NLQlc2Rk5XT1hYRkJLVTZ1X1FYQ0RIdXR2Ym9pd1VzSTB1TXFSQQ?oc=5",
-      "source": "Daybook: Scheduled Events",
-      "sourceId": "daybook_scheduled",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Sat, 21 Feb 2026 08:50:15 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPdV9qRDhBLW5OMVB4U2FrU1cyYVk3Y3VmaHlkcWVrQkhZV2g4ZDlucEU2MmFXU3pFY0p5d1V4QmY2SmttWjAtX1BaVjBjaEpUYm1KUGdFQ1gtTnRtZkF4RU1PeEQtelRxMUNBSjN"
-    },
-    {
       "headline": "Season 2 of 'Paradise' starring Sterling K. Brown, Julianne Nicholson and Shailene Woodley comes back a little over a year after Season 1 arrived. Read more below. - facebook.com",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaEN5T2Y2T1ZEZFZJU2tVektOSUJYSmk4VU5Wd2VETWVBNXFlRGpDVUdEUHcxU0JyY3lhTEp6Y3Y0N0NlNEVSMVFKWm1telZpN210c3BuR3VCMi1PMmQ5dzhRZTdLNnpwdDNtZ2Y0ZlpzRGlOLUpxVEo1ZnR4dURaQ09IWlRMdjR6dThXMDVyTkNMQVJ2bmRYZVRqdzZNLTJvaDcwOERfZ0ZXQXRmR1BNbFdBc2NFVm81U0ktMkJLd1lPUWpnemdBTEVjdzZrZU1kbkV0RThn?oc=5",
       "source": "Daybook: Scheduled Events",
@@ -6090,16 +6090,6 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPaGtvdGdhN09UYnl0RnJHY1BoWDBQU253bTJkT3pTR0tPbllUNFF2U0J3cjRZQmcxY0tOVFBJRllQNFA0b3o0bnBOTk0zM0J3aEkySEZOcVVSREpQOGx4X3Bna2d4cTV1VmVqZHd"
     },
     {
-      "headline": "Iowa Legislature hits first ‘funnel’ deadline of 2026. Here’s which bills survived, died - Iowa Capital Dispatch",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQN1p2dXJ3YTgzRHhWRHcxMG13QWNLc0wtaFVrMFN5UW5GeHRvZ0gzYUJtTnNkVFNxOWlQcGpHaG5McDBLdlRoN0E3ZThjT3V0Z0lQbUVTRFRTakIwUUVJN0R1bDlBU0prZmdXOGxMeTBoS2RfQ0ZQWG45UllTZktkTDJ6ajMzQ3NXTDk1M0lmQ3Fyb3pPdW1nOXViQVBlTDJlSVk4RHduMVI5WWJyZm96MWE0TTZxUFRkcXBtX1BYWl9JWXBIOWc?oc=5",
-      "source": "Daybook: Scheduled Events",
-      "sourceId": "daybook_scheduled",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Fri, 20 Feb 2026 20:59:30 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQN1p2dXJ3YTgzRHhWRHcxMG13QWNLc0wtaFVrMFN5UW5GeHRvZ0gzYUJtTnNkVFNxOWlQcGpHaG5McDBLdlRoN0E3ZThjT3V0Z0lQbUVTRFRTakIwUUVJN0R1bDlBU0prZmdXOGx"
-    },
-    {
       "headline": "Ice Shanty Removal Deadline Approaching - Madison's Country Q106",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5fUkVFc0xObE1nZ2hRVXVfRzF5eDM5LWVDTGV5aW9Xa0JRLS1LaUJxVllTNTZvc2tkNFdXdEllRDRUSUFkajd5N0JlVGRqNDlqM2dXUkJOb1E4SW91c3YzTThObjJmR0tNSXdieWxEbUFNdS02enNWTElwM1Q?oc=5",
       "source": "Daybook: Scheduled Events",
@@ -6110,6 +6100,16 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5fUkVFc0xObE1nZ2hRVXVfRzF5eDM5LWVDTGV5aW9Xa0JRLS1LaUJxVllTNTZvc2tkNFdXdEllRDRUSUFkajd5N0JlVGRqNDlqM2dXUkJOb1E4SW91c3YzTThObjJmR0tNSXdieWx"
     },
     {
+      "headline": "Iowa Legislature hits first ‘funnel’ deadline of 2026. Here’s which bills survived, died - Iowa Capital Dispatch",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQN1p2dXJ3YTgzRHhWRHcxMG13QWNLc0wtaFVrMFN5UW5GeHRvZ0gzYUJtTnNkVFNxOWlQcGpHaG5McDBLdlRoN0E3ZThjT3V0Z0lQbUVTRFRTakIwUUVJN0R1bDlBU0prZmdXOGxMeTBoS2RfQ0ZQWG45UllTZktkTDJ6ajMzQ3NXTDk1M0lmQ3Fyb3pPdW1nOXViQVBlTDJlSVk4RHduMVI5WWJyZm96MWE0TTZxUFRkcXBtX1BYWl9JWXBIOWc?oc=5",
+      "source": "Daybook: Scheduled Events",
+      "sourceId": "daybook_scheduled",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Fri, 20 Feb 2026 20:59:30 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQN1p2dXJ3YTgzRHhWRHcxMG13QWNLc0wtaFVrMFN5UW5GeHRvZ0gzYUJtTnNkVFNxOWlQcGpHaG5McDBLdlRoN0E3ZThjT3V0Z0lQbUVTRFRTakIwUUVJN0R1bDlBU0prZmdXOGx"
+    },
+    {
       "headline": "Disaster aid deadline extended for Western Alaska storms - Alaska Beacon",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQ0VnM0h5ZUZYMlNnVUNaNlZ1WmRERG5NQmNLQldwSVRIczU3UVU3eWRmN3c4YnVUUDRaV3cwZkNtb2ZHa3JQR0ZyRmNjR0R6aktvU3dORnAtSmd2cWp6SkQ3VXBiMkdhZXlRRlhPSWJLdmpZMkhzUWtuY2h1bWtZNWZwc3gyQ3lTTTFVNjdfY18wWXc?oc=5",
       "source": "Daybook: Scheduled Events",
@@ -6118,6 +6118,26 @@
       "priority": "reference",
       "date": "Sat, 21 Feb 2026 00:04:57 GMT",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQQ0VnM0h5ZUZYMlNnVUNaNlZ1WmRERG5NQmNLQldwSVRIczU3UVU3eWRmN3c4YnVUUDRaV3cwZkNtb2ZHa3JQR0ZyRmNjR0R6aktvU3dORnAtSmd2cWp6SkQ3VXBiMkdhZXlRRlh"
+    },
+    {
+      "headline": "RSU 73 weighs increases, cuts as budget deadline nears - The Maine Monitor",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJVC1TbUl1Mi1udU5TX3VqdXRRQTR1a1k2LXVhVDFiaTgydmYyZmpGczV4Q1IwbGd3dVVuVU5QZVdDTFBPMERqOUFDTHVjTVd6TENEdW9pVGlYM1J4bkZuWnBLMFVUMVBWbnV0OUpJb2M?oc=5",
+      "source": "Daybook: Scheduled Events",
+      "sourceId": "daybook_scheduled",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Sat, 21 Feb 2026 11:01:35 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBJVC1TbUl1Mi1udU5TX3VqdXRRQTR1a1k2LXVhVDFiaTgydmYyZmpGczV4Q1IwbGd3dVVuVU5QZVdDTFBPMERqOUFDTHVjTVd6TENEdW9pVGlYM1J4bkZuWnBLMFVUMVBWbnV0OUp"
+    },
+    {
+      "headline": "Michigan physicians face license loss as medical compact deadline nears - 910news.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWXR3MHpXSnhpMWpuLXV0cWdVaEtId0ItQThFbHluZ2NleEZKbnZwNEtnRWxFN0tGcFZNSkRjOG5Kc3Q2TXhvX3NGOG1vTS1GVWQ2QXFtU1FLU2lSdjNwcDdsc3MwSlJ5cUg5UU1mRWdydkdVREVWYXFST0RPaV9mOGsxRk1vZmlaN3JxQ3NaVlNNRV9KUzJRSTM1azFWUGZ6NldjbWladXhiRWI0UWhZ?oc=5",
+      "source": "Daybook: Scheduled Events",
+      "sourceId": "daybook_scheduled",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Sat, 21 Feb 2026 16:59:00 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQWXR3MHpXSnhpMWpuLXV0cWdVaEtId0ItQThFbHluZ2NleEZKbnZwNEtnRWxFN0tGcFZNSkRjOG5Kc3Q2TXhvX3NGOG1vTS1GVWQ2QXFtU1FLU2lSdjNwcDdsc3MwSlJ5cUg5UU1"
     },
     {
       "headline": "‘GOAT’ To Knock ‘Wuthering Heights’ Out Of No. 1 In U.S., But Jacob Elordi &amp; Margot Robbie Pic Hugging $126M WW Cume – Box Office Update - Deadline",
