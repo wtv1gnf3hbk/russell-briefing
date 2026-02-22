@@ -1,39 +1,31 @@
-Good morning, Russell! Here is what happened while you were sleeping.
+Good morning, Russell! Here's what happened while you were sleeping.
 
-**Top Stories**
+## **Top Stories**
 
-- Trump [raised tariffs](https://news.google.com/rss/articles/CBMioAFBVV95cUxOVjl3Y29hTHRRTkExeEZnZlBFdWtIWW80Z19hbDdhLV9qQnUxdHVoTkVaalRSMDBzeXJMWWFiTW9RM1ZmeG1KUFJNbEtDM2ZKeXBvU1VaSUo5WVVvV2xIQzhaNEQ5VVhxN0NMazlGYzRYcUVFbnlpbzF0RTJlaHZBMEZpNTNPbHRhb1FZTWNvZDNMZ2libkZKTktzeWxLUWJL?oc=5) to 15 percent on all imports after the Supreme Court struck down his original tariff program, according to AP.
+- Trump [announced he](https://news.google.com/rss/articles/CBMimgFBVV95cUxPb0JETzNzZUstNjZNaW9XN1FEMjNVaThScS1rWFdlT2VNTVYxck8xY0V3SXlacHJPdVdoaUpVNTZnTkd5T1U2cmFPd25pdVpIUHJFUS1kQXZjQU1peFJQWGJ6aVVtSTRjc2JVS2hKcWpMZXJha3RBVkFzcEVQbWtSX3dxZmdvU3FYYXdYenl4TEwzQmRvVV9DVUR3?oc=5) will raise global tariffs from 10% to 15% after the Supreme Court ruling limiting his tariff powers.
 
-- Iranian students [staged protests](https://www.nytimes.com/2026/02/21/world/middleeast/iran-student-protests.html) across universities as the new semester began, the first significant anti-government demonstrations since authorities crushed nationwide unrest, per the New York Times.
+- Iranian students [launched the](https://news.google.com/rss/articles/CBMirwFBVV85cUxQb3V5cUtNcGZHeENfczBSV1JHeW92NjIyUmlac1ppMmV2MEtWU1F2X2pzYnBjQTZ6dXVFWHpEQkdEaEthV1VPYVJUM2ZERWkxUTNDVWNvRWtJRmZBOUtmUWJkbUZmNFBPX0ZXdnNCTjFLMHJkcDRuNkNHcnVrdVdoTU1Wa2NSZUV6QmZVUjZrZUhibzNNNHZMdXhQS0NiZG9zN05fRjY2QjZDMTFwM29J?oc=5) first large anti-government protests since the deadly crackdown, as universities reopened for the new semester.
 
-- Israeli airstrikes in eastern Lebanon [killed eight](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdHZOZGFyRnZfNDRteGZBNFZfdzlXYV95SVlSNU9JOVhiZFI5UjVORzVwY1JCR1BuZHM1VDV6Q0pvUWpyV1pSRDdNZFhJbzE1d1dZdERXWFQ3X2pPcGswMzJwazdEdUN3ZWo3T3NEckRSYjV0VnNmYko2Vy1YV0M4Vll4c1ZaR1cyVVMyNlJsN1Y1TUNHTFlmWUdtZkpsMlp1Nk1YVnNIWXdOdw?oc=5) Hezbollah members, threatening the fragile ceasefire between the militant group and Israel.
+- Asian economies are [weighing the](https://news.google.com/rss/articles/CBMisAFBVV85cUxON1FHRzZCU0dTdFlpWUpBRlU4MmxXYWQ0eDNYaUJ5cXJxbElXd0RDOTFiU19XeFB6YkJLWWFsOENMNk5uYWdvS2RXdFNlU01ZbFd1MnkxS2t1UVBoSDBTblF3bXNic2hwNllyYkpqem9hRGo5WHdsYVJoQWhSeE9ZQ2lnYXJZVFJCX29wVnhSOVYwZW9MTzRaZ3ZMUkh6NkRPODFpVjRTdHNIRGlwcHRSXw?oc=5) impact of fresh Trump tariff moves, per Reuters.
 
-- A U.S. ambassador [sparked outrage](https://news.google.com/rss/articles/CBMirwFBVV85cUxQRkZIYVlvbTl5aGpPTjBKRmRwdkM3Z0RxcEY2ZUlRa041My1TcnhON0lyMGhJSjYtOVpuNWJEVEVMOEdrQmtnQjQ3TF9raDJOZnZfVnhPajB4bmY0Rms1SFpfUi1PWXIzQldYT2kzN3k3a3ZZWjRLb0RxZ254VnJBcGhZVnZBMmNNSGh2LVJ6ak9qRVJDS2twaDdBWGhnQjVmX1lROTgxMDREc3ozbHdJ?oc=5) by claiming Israel has territorial rights to much of the Middle East, prompting diplomatic pushback across the region.
+- Germany's Merz [hopes for](https://news.google.com/rss/articles/CBMixgFBVV85cUxQNTVxT0xGVFhLTm1QX1NLTThSQUVjOGZNeWdGT0hIdWMyM2hPbHZQRF9GN0RhT3g5eGFrYzhCZEZ4QnVJNHhQQzMxaEVGQWE0d0cxWU9QMFNMSFJOZFhweHFBWmNKV2NLLWR1MzZlb0tlb09Hek1lRXMxa0piZGYtTk9oUllEVmxQaVFhRlR6QzFXeHhsYnZwTEM5OWU1VVVtMUpiS25XOW9Ta3NPa0ZyLWxkcnM2eFlEaUsyZnVkemRFRkNMNlE?oc=5) relief after the Trump tariff ruling but uncertainty lingers, Reuters reports.
 
-- NASA [delayed again](https://news.google.com/rss/articles/CBMikgFBVV85cUxQanhPM3BxTjR0ckNwbUxPVXRqV0FJaEQyTnFwZVhRMG9taWV0VlpONVl1cjFCTDhzOUZZTThjQWZocC13cExQSjFVcTV0Tnl3Yk5ybGNQdXNFenVaMXZVVGRtUERQcFdiRUF1azBxZmIxc3VyRmFWcTM0TWxUMVhfZW5zdWQwSG0wVXZSWnNBQTE5Zw?oc=5) its Artemis moon mission following new rocket problems, further pushing back the timeline for returning astronauts to lunar orbit.
+- At least 10 people [were killed](https://www.nytimes.com/2026/02/21/world/middleeast/israel-strikes-lebanon-hezbollah.html) in Lebanon after Israel struck Hezbollah positions, threatening the fragile ceasefire.
 
-- European leaders are [grappling with](https://www.nytimes.com/2026/02/21/world/europe/political-uncertainty-trump-tariff-loss.html) the fallout from Trump's tariff defeat. Uncertainty over what comes next is affecting broader diplomatic priorities including Ukraine and China relations, the Guardian reports.
+- Ukrainian forces [hit a](https://news.google.com/rss/articles/CBMitwFBVV85cUxQVkhxdS1VVjh6dV96TndHazVVdkJMQlZRa1RQQm1ZUXI4U0hHQUhhazBzS1JWZk9CTHZNdHNRcHFDVV9QenRQSC05MzEwQU9DMGUwM0Z6MFc0QzVEZVZFcXVQMnpmcXEzYzFDaVZ6THVUXzExSElvdnNlUXJzalFnNHBKbzVvNjEzdUVDS3FSNUttbm1acUlYeTVJMVZWY1NfQ1BJZUVySU5CYlBKUlVVTmNaZTljYms?oc=5) Russian ballistic missiles producer in Udmurtia, Kyiv says.
 
-**Conflicts & Diplomacy**
+## **Conflicts & Diplomacy**
 
-- Life in Russian-occupied parts of Ukraine is [increasingly harsh](https://news.google.com/rss/articles/CBMimwFBVV85cUxNYXJROVp4eDJrdW5CQ0luUUxDenFacW5paVQxOU1xUERjTjlwVVlUdFJ5VkNsb0NpcnMyZUtKT1VxMy13MlI3bTVqQmlmUHB2cktnZkJ5di1uMnFILW1aem9vNW1KT3BUYVBFdG43Ni1Cc21zZUU2RXJadm9jcEdGUWtLN09MYlY5NzhJNUl3amdWT0JreVktR0d2UQ?oc=5) and dangerous. Residents report widespread repression and surveillance, per AP.
+- Cuban security forces are [exiting Venezuela](https://news.google.com/rss/articles/CBMiqgFBVV85cUxQLUpOZlNMNUV4TzFHR1dTR1ZZYncyNlFoVkFYcUdKZkZHWUV5cmJXQzFnOXF3aXNIaHR1X1NOcEN1OHZnRnR4Qmk2XzVFY0tlbEtFMkRkaXVrdDFnXzFMXzFuaG80RnQwQkZFOW01ZVJGTXJCV1JvMWh6WVI4anZmYTFWVWhodEZJYXVydkg5VU93VFpfSnhraWZLOUVPZ09lakIwdHFNaFJoUQ?oc=5) as US pressure mounts, according to Reuters' exclusive reporting.
 
-- Hungary is [posing obstacles](https://www.nytimes.com/2026/02/20/world/europe/euro-loan-ukraine-hungary-obstacle.html) to a 90-billion euro European Union loan package for Ukraine, potentially delaying crucial financial support.
+- Hungary poses an [unexpected hurdle](https://www.nytimes.com/2026/02/20/world/europe/euro-loan-ukraine-hungary-obstacle.html) to Europe's 90-billion euro loan to Ukraine, the New York Times reports.
 
-- Iran's military [capabilities and](https://www.nytimes.com/2026/02/21/world/middleeast/iran-military-operation-venezuela.html) extensive network of regional proxies could make any U.S. military action riskier than operations in Venezuela, analysts warn.
+- A Trump official [backed Russia's](https://www.nytimes.com/2026/02/21/world/europe/trump-administration-russia-global-sports-return.html) return to global sports, endorsing participation in next month's Paralympics.
 
-**Business & Markets**
+## **Business & Markets**
 
-- Global businesses are [scrambling to](https://news.google.com/rss/articles/CBMimwFBVV85cUxNXzJVdXF5TnRnVWE3TnJKQkktbl9FNVZOVXZ4TDRnRklOR09PbkZBT0dBczZBMlJVWWdvdmp4QnRzUFhXYnhDMm94OWl6QkdLUnNNR0N0WGpnek4tZXpzUkVkbGdoQUQ3eDRLNU55WC1ocVE4Rm5fMDQtbHVTaVh0VWNpbzBzZWRXU21yLS1tdUNkMEU3NExsQnFhYw?oc=5) understand the implications of Trump's revised tariff strategy after the Supreme Court ruling created a murky business environment.
+- Europe Inc faces [tariff relief](https://news.google.com/rss/articles/CBMinwFBVV85cUxQMnU1VFN5M3NYbXNDaHpVUU1aZHg5T3RHeDlqVjNBQ25oRlR0X1p3c0hDZU82SVVya3M5MmpJOGhkVmV0bU00SUY5anVUbzRvOWdERTVCTk5MZF9NYk9rQTdJWTM3NTNFOHF0WW9HVmU3a2FrNURxX2Flb0J2OUx4R3BRcmJua3FTR3k2cTBfQl9EX0t3VFlFSi1uQ2g5cm8?oc=5) that comes with a sting in the tail, per Reuters analysis.
 
-- JPMorgan [acknowledged that](https://news.google.com/rss/articles/CBMilAFBVV85cUxNQ0t0bjBlamNtQmx0ZXN2QnR1TVVucGRteUZIaTR2QmlDSUpQdEx5TWVMRW8wTThqS1QydE51QkV1cDFQWWJqWmNvVDFVeWxpckIzdHN0V25PNnp2SGM5NWxWMVZONXE0SVg1QktkdUJ5TF9mQkhsVXhYVTB1aDJrRTF6R3YxX3hPZlRTSllOekwxX1pm?oc=5) it closed Trump's accounts following the January 6 attack, according to court filings reported by Reuters.
+- ECB's Panetta says [Chinese imports](https://news.google.com/rss/articles/CBMiwgFBVV85cUxNYXZOY3FZM0RhemxNSDBDN1BkM212cFkzVi0zeE81MnBObldlWmFqOEU1MHMtVWotaWE3am1wR3ZUSDNrelkwaU5nOXFGYWxHUnMwMl9oTG9IYkFsVU5BVFppTlFsQjFGYzJKc3BCMjdVcWNBTjZtWDhyXzVISHA1dUpxWUYxVkNsMUlZNE91RmF2RjRoU0hqZ29FanZaV2duRjRJdV9saVV2U05fcUVQS3JHX0dicDFfSzc2SENUZjlOZw?oc=5) helped drive a sharper-than-forecast inflation drop.
 
-- India is [positioning itself](https://www.nytimes.com/2026/02/21/world/asia/ai-summit-india-foreign-policy.html) as a mediator between the U.S. and China at an artificial intelligence summit, casting itself as a moral voice for developing nations.
-
-**Also Notable**
-
-- $600 commercial drones [modified by](https://www.nytimes.com/2026/02/21/world/americas/colombia-combat-drones-military.html) Colombian guerrilla groups into weapons are outmaneuvering the country's billion-dollar military, security officials report.
-
-- King Charles III is [distancing himself](https://www.nytimes.com/2026/02/21/world/europe/andrew-epstein-queen-elizabeth-charles.html) from Prince Andrew as the Epstein scandal intensifies, marking a shift from Queen Elizabeth's approach of protecting her son.
-
-- A Trump administration official [endorsed Russia's](https://www.nytimes.com/2026/02/21/world/europe/trump-administration-russia-global-sports-return.html) return to international sports competitions, drawing criticism from European capitals, the FT notes.
+- Citi [bolsters private](https://news.google.com/rss/articles/CBMirgFBVV85cUxNOVBUZkdISFBGOXRDS081UlBSMFA2Z1ZsVDU3Y3FIX2EtVDQ5aFRuVjRsNUxrbzhQTnF5RGZwVDA4OXJNOHNHNmEtS2p6cjdLRTh4MTNtbkdKMVJ3R2MtRW9sb3NERVprcE1qTWFIbWxOd1dBZURWUHdzRmRkdEMxWUZ1YWx

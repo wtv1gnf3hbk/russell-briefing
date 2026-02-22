@@ -4,167 +4,27 @@
     "owner": "Russell Goldman",
     "timezone": "America/New_York",
     "description": "Daily international news briefing — all bullets, ready by 6am ET",
-    "generated": "2026-02-21T22:02:29.153Z",
-    "generatedTimestamp": 1771711349153
+    "generated": "2026-02-22T01:49:08.502Z",
+    "generatedTimestamp": 1771724948502
   },
   "stats": {
     "sourceCount": 16,
     "successCount": 16,
-    "totalStories": 144,
+    "totalStories": 130,
     "totalScreenshots": 6,
-    "elapsed": "29.6s"
+    "elapsed": "31.2s"
   },
   "stories": {
     "all": [
       {
-        "headline": "US military airlifts small reactor as Trump pushes to quickly deploy nuclear power - AP News",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVDduTW9kd09RXy1YN3FMeXI0bzRyTTVfeDZKNURrMGNqMC03dFJQVFBNVENVSHJxa2hLeWtUVW5ISEpIc1JpZEpxTjZNcUFhRXF3bkJfeEptZlJnRkxhLUZsS0RGaGM1Ym51UkRnMkRpM2hBSkNLekF3VlRQZFJZRUVMQV92dFdVM3J2alBhNWNTUlRzUHFDV0hXbEpaMHZhcnpMeA?oc=5",
-        "source": "AP",
-        "sourceId": "ap_world",
+        "headline": "UAE foils cyber attacks, state news agency says - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdFhrVGlwVnoxWVBId1lPcXZQc3hjSDZrbzk5RldJV25HX0wtSUp1Tk9Ecjlvc19JVXdGSjNXTjU0bklRb296aWh3bG1YLTBhNVZXU0VwckJVU05USkh0X2V6dUFSTnFtUTJERHVFeE9IRF9KUmRKbDdUbU8xU3o2Sl9POVRWNmhXbVMwZmw2dk01TkNCdkJZLWVLVThZZHhuUlE?oc=5",
+        "source": "Reuters",
+        "sourceId": "reuters_world",
         "category": "wire",
         "priority": "primary",
-        "date": "Sat, 21 Feb 2026 17:09:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNVDduTW9kd09RXy1YN3FMeXI0bzRyTTVfeDZKNURrMGNqMC03dFJQVFBNVENVSHJxa2hLeWtUVW5ISEpIc1JpZEpxTjZNcUFhRXF3bkJfeEptZlJnRkxhLUZsS0RGaGM1Ym51UkR"
-      },
-      {
-        "headline": "JPMorgan concedes it closed Trump’s accounts after Jan. 6 attack - AP News",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQ0t0bjBlamNtQmx0ZXN2QnR1TVVucGRteUZIaTR2QmlDSUpQdEx5TWVMRW8wTThqS1QydE51QkV1cDFQWWJqWmNvVDFVeWxpckIzdHN0V25PNnp2SGM5NWxWMVZONXE0SVg1QktkdUJ5TF9mQkhsVXhYVTB1aDJrRTF6R3YxX3hPZlRTSllOekwxX1pm?oc=5",
-        "source": "AP",
-        "sourceId": "ap_world",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Sat, 21 Feb 2026 20:58:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNQ0t0bjBlamNtQmx0ZXN2QnR1TVVucGRteUZIaTR2QmlDSUpQdEx5TWVMRW8wTThqS1QydE51QkV1cDFQWWJqWmNvVDFVeWxpckIzdHN0V25PNnp2SGM5NWxWMVZONXE0SVg1Qkt"
-      },
-      {
-        "headline": "ICE’s purchases for big detention centers are marked by secrecy, frustrating towns - AP News",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeWxZWHBhcUhRb0lQVGdZRmtVMFdmMHljcG1BS0d6c1M4bU4wVmZiUWVETTUxTTg0N0txbDBqeUNJSmZ1Y2Z1RVkySGpkdW5NdV94T3pQc3VyQkJlSTIxSEVtZElQS1NvNDRnVGJkb1IwaUN5Ry0tRzhFLS0xSG5kUkoxeExxLWVzVWhBWEJYTE9tdjd4T0pvakVDV1VheGs?oc=5",
-        "source": "AP",
-        "sourceId": "ap_world",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Sat, 21 Feb 2026 16:54:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPeWxZWHBhcUhRb0lQVGdZRmtVMFdmMHljcG1BS0d6c1M4bU4wVmZiUWVETTUxTTg0N0txbDBqeUNJSmZ1Y2Z1RVkySGpkdW5NdV94T3pQc3VyQkJlSTIxSEVtZElQS1NvNDRnVGJ"
-      },
-      {
-        "headline": "Global leaders and businesses pore over fallout of more US tariff swoons - AP News",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVjl3Y29hTHRRTkExeEZnZlBFdWtIWW80Z19hbDdhLV9qQnUxdHVoTkVaalRSMDBzeXJMWWFiTW9RM1ZmeG1KUFJNbEtDM2ZKeXBvU1VaSUo5WVVvV2xIQzhaNEQ5VVhxN0NMazlGYzRYcUVFbnlpbzF0RTJlaHZBMEZpNTNPbHRhb1FZTWNvZDNMZ2libkZKTktzeWxLUWJL?oc=5",
-        "source": "AP",
-        "sourceId": "ap_world",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Sat, 21 Feb 2026 16:46:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOVjl3Y29hTHRRTkExeEZnZlBFdWtIWW80Z19hbDdhLV9qQnUxdHVoTkVaalRSMDBzeXJMWWFiTW9RM1ZmeG1KUFJNbEtDM2ZKeXBvU1VaSUo5WVVvV2xIQzhaNEQ5VVhxN0NMazl"
-      },
-      {
-        "headline": "She was an orphan adopted from Iran by a US veteran. The Trump administration wants to deport her - AP News",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZjBZNDJ3N196YnBJaXlCQWJZSnJ5UUp6MFRHeFFaYVBidUNoWDlrQjZxU3JoTXBqVkZOdTVrV1d1M25PWEIwb3RSb0tlQTJ3RVBUV3lQcUFISXhYQlpJM2E3SjZaSzh6WnZla3Q1aktGVWttejh1blVaeS1scWFFd0wxcU9ZMUFnZVdMZA?oc=5",
-        "source": "AP",
-        "sourceId": "ap_world",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Sat, 21 Feb 2026 17:08:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNZjBZNDJ3N196YnBJaXlCQWJZSnJ5UUp6MFRHeFFaYVBidUNoWDlrQjZxU3JoTXBqVkZOdTVrV1d1M25PWEIwb3RSb0tlQTJ3RVBUV3lQcUFISXhYQlpJM2E3SjZaSzh6WnZla3Q"
-      },
-      {
-        "headline": "Israeli airstrikes in eastern Lebanon kill 8 Hezbollah members, officials say - AP News",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdHZOZGFyRnZfNDRteGZBNFZfdzlXYV95SVlSNU9JOVhiZFI5UjVORzVwY1JCR1BuZHM1VDV6Q0pvUWpyV1pSRDdNZFhJbzE1d1dZdERXWFQ3X2pPcGswMzJwazdEdUN3ZWo3T3NEckRSYjV0VnNmYko2Vy1YV0M4Vll4c1ZaR1cyVVMyNlJsN1Y1TUNHTFlmWUdtZkpsMlp1Nk1YVnNIWXdOdw?oc=5",
-        "source": "AP",
-        "sourceId": "ap_world",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Sat, 21 Feb 2026 13:26:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdHZOZGFyRnZfNDRteGZBNFZfdzlXYV95SVlSNU9JOVhiZFI5UjVORzVwY1JCR1BuZHM1VDV6Q0pvUWpyV1pSRDdNZFhJbzE1d1dZdERXWFQ3X2pPcGswMzJwazdEdUN3ZWo3T3N"
-      },
-      {
-        "headline": "NASA delays astronaut moon mission again after new rocket problem - AP News",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQanhPM3BxTjR0ckNwbUxPVXRqV0FJaEQyTnFwZVhRMG9taWV0VlpONVl1cjFCTDhzOUZZTThjQWZocC13cExQSjFVcTV0Tnl3Yk5ybGNQdXNFenVaMXZVVGRtUERQcFdiRUF1azBxZmIxc3VyRmFWcTM0TWxUMVhfZW5zdWQwSG0wVXZSWnNBQTE5Zw?oc=5",
-        "source": "AP",
-        "sourceId": "ap_world",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Sat, 21 Feb 2026 20:51:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQanhPM3BxTjR0ckNwbUxPVXRqV0FJaEQyTnFwZVhRMG9taWV0VlpONVl1cjFCTDhzOUZZTThjQWZocC13cExQSjFVcTV0Tnl3Yk5ybGNQdXNFenVaMXZVVGRtUERQcFdiRUF1azB"
-      },
-      {
-        "headline": "Murky outlook for businesses after tariff ruling prompts countermoves by Trump - AP News",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNXzJVdXF5TnRnVWE3TnJKQkktbl9FNVZOVXZ4TDRnRklOR09PbkZBT0dBczZBMlJVWWdvdmp4QnRzUFhXYnhDMm94OWl6QkdLUnNNR0N0WGpnek4tZXpzUkVkbGdoQUQ3eDRLNU55WC1ocVE4Rm5fMDQtbHVTaVh0VWNpbzBzZWRXU21yLS1tdUNkMEU3NExsQnFhYw?oc=5",
-        "source": "AP",
-        "sourceId": "ap_world",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Sat, 21 Feb 2026 14:07:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNXzJVdXF5TnRnVWE3TnJKQkktbl9FNVZOVXZ4TDRnRklOR09PbkZBT0dBczZBMlJVWWdvdmp4QnRzUFhXYnhDMm94OWl6QkdLUnNNR0N0WGpnek4tZXpzUkVkbGdoQUQ3eDRLNU5"
-      },
-      {
-        "headline": "U.S. Department of Justice - AP News",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DVGVUcl95ZUJpNjQwRlQ1UGFiS1FvZURuRy1SRXVhdVlnREtMOW93d0NZY1c2dHJacGlfNUFJd3ZFZ3JtdXVnOFBhUVlWWHBXdnBzTHJuU09lbUE?oc=5",
-        "source": "AP",
-        "sourceId": "ap_world",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Sat, 21 Feb 2026 11:03:24 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DVGVUcl95ZUJpNjQwRlQ1UGFiS1FvZURuRy1SRXVhdVlnREtMOW93d0NZY1c2dHJacGlfNUFJd3ZFZ3JtdXVnOFBhUVlWWHBXdnBzTHJuU09lbUE?oc=5\" target=\"_blank\"&g"
-      },
-      {
-        "headline": "Blizzard warnings issued for New York City, New Jersey, Connecticut as storm threatens East Coast - AP News",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcmJuUHQ5M05nWkdWT2dpUHpDQjFjWmRKOFBuWFN6cGVXQmdMdTM3aG1RbmNNRjVIbFhsYV9RZEtnc1F0X3JYclVROFpoUTF2WHFac3RsMm1Kb2xJenJ3VW1uN1h1QzNPUlhXdmt1bUxKbkhzZW83M2ROTXZqVnVBbVR0VVlJZnJrTExlbldaR0M?oc=5",
-        "source": "AP",
-        "sourceId": "ap_world",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Sat, 21 Feb 2026 20:55:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOcmJuUHQ5M05nWkdWT2dpUHpDQjFjWmRKOFBuWFN6cGVXQmdMdTM3aG1RbmNNRjVIbFhsYV9RZEtnc1F0X3JYclVROFpoUTF2WHFac3RsMm1Kb2xJenJ3VW1uN1h1QzNPUlhXdmt"
-      },
-      {
-        "headline": "Ghislaine Maxwell fights release of more Epstein documents, calling disclosure law unconstitutional - AP News",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV1pfTzVkaWktRkM5bzZUdXZDeEQ0cnRRVVk0OHl1UVhYNk5WR0Y1cDBwRWdLMXBIUG5HZmxCRGRKUDNScFlyTHNNZ0tqUU1YVzRXbl9NTTNJUHd3aTZlR2lYTUpJRkpzZ05WdjdNc1FsYTBKbnVJUFkwNWp4WU1LRE1jbGpuZW44WldhQkdfWE1oVXhYYXdHMw?oc=5",
-        "source": "AP",
-        "sourceId": "ap_world",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Sat, 21 Feb 2026 19:39:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPV1pfTzVkaWktRkM5bzZUdXZDeEQ0cnRRVVk0OHl1UVhYNk5WR0Y1cDBwRWdLMXBIUG5HZmxCRGRKUDNScFlyTHNNZ0tqUU1YVzRXbl9NTTNJUHd3aTZlR2lYTUpJRkpzZ05Wdjd"
-      },
-      {
-        "headline": "White House dinner closes a turbulent week for governors in Washington - AP News",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaGtPdmdNR2NKNTI3d001WUV6REp0OGd6VTFKUkdVOGhDazdzRWdwTG1kR0ZtYTM5blIzVzRuVVpNczdXaDhtMDd1NUdnVlhjejJwTmRjNGxyUnZjbTkzV3J0VFYxdXU1UWRRcS1tUHVZZlVlOGZDZ2xmSEFMZmwxSTM3Z0tXbW9kLWtrT3dfSHFEamFxLURGRjh2MHFBX3ZuRnhtbURlUQ?oc=5",
-        "source": "AP",
-        "sourceId": "ap_world",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Sat, 21 Feb 2026 20:54:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOaGtPdmdNR2NKNTI3d001WUV6REp0OGd6VTFKUkdVOGhDazdzRWdwTG1kR0ZtYTM5blIzVzRuVVpNczdXaDhtMDd1NUdnVlhjejJwTmRjNGxyUnZjbTkzV3J0VFYxdXU1UWRRcS1"
-      },
-      {
-        "headline": "Life is harsh and dangerous in Russian-run parts of Ukraine, activists and former residents say - AP News",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYXJROVp4eDJrdW5CQ0luUUxDenFacW5paVQxOU1xUERjTjlwVVlUdFJ5VkNsb0NpcnMyZUtKT1VxMy13MlI3bTVqQmlmUHB2cktnZkJ5di1uMnFILW1aem9vNW1KT3BUYVBFdG43Ni1Cc21zZUU2RXJadm9jcEdGUWtLN09MYlY5NzhJNUl3amdWT0JreVktR0d2UQ?oc=5",
-        "source": "AP",
-        "sourceId": "ap_world",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Sat, 21 Feb 2026 17:03:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNYXJROVp4eDJrdW5CQ0luUUxDenFacW5paVQxOU1xUERjTjlwVVlUdFJ5VkNsb0NpcnMyZUtKT1VxMy13MlI3bTVqQmlmUHB2cktnZkJ5di1uMnFILW1aem9vNW1KT3BUYVBFdG4"
-      },
-      {
-        "headline": "US ambassador causes uproar by claiming Israel has a right to much of the Middle East - AP News",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRkZIYVlvbTl5aGpPTjBKRmRwdkM3Z0RxcEY2ZUlRa041My1TcnhON0lyMGhJSjYtOVpuNWJEVEVMOEdrQmtnQjQ3TF9raDJOZnZfVnhPajB4bmY0Rms1SFpfUi1PWXIzQldYT2kzN3k3a3ZZWjRLb0RxZ254VnJBcGhZVnZBMmNNSGh2LVJ6ak9qRVJDS2twaDdBWGhnQjVmX1lROTgxMDREc3ozbHdJ?oc=5",
-        "source": "AP",
-        "sourceId": "ap_world",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Sat, 21 Feb 2026 21:25:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQRkZIYVlvbTl5aGpPTjBKRmRwdkM3Z0RxcEY2ZUlRa041My1TcnhON0lyMGhJSjYtOVpuNWJEVEVMOEdrQmtnQjQ3TF9raDJOZnZfVnhPajB4bmY0Rms1SFpfUi1PWXIzQldYT2k"
-      },
-      {
-        "headline": "Thiam scores career-high 28 to lead Cincinnati to an 84-68 upset of No. 8 Kansas - AP News",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR2N4NGhpWEpMc0JyRUxLeFgyanVhZHJGd3ZfQThGZXZtZW1ld25OX3IzRVZUMEhvaE1VaGtQNGk3cERJdU51cndxQU90TnM1SzZFVXJ5My05Q3N0ZmY3SmN2RzlrcmVITU1YQjBoZGF2TkQ2RWJSclVTYk11U3FNZXViVk8tSWZrMFZB?oc=5",
-        "source": "AP",
-        "sourceId": "ap_world",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Sat, 21 Feb 2026 20:29:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR2N4NGhpWEpMc0JyRUxLeFgyanVhZHJGd3ZfQThGZXZtZW1ld25OX3IzRVZUMEhvaE1VaGtQNGk3cERJdU51cndxQU90TnM1SzZFVXJ5My05Q3N0ZmY3SmN2RzlrcmVITU1YQjB"
+        "date": "Sat, 21 Feb 2026 20:07:23 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQdFhrVGlwVnoxWVBId1lPcXZQc3hjSDZrbzk5RldJV25HX0wtSUp1Tk9Ecjlvc19JVXdGSjNXTjU0bklRb296aWh3bG1YLTBhNVZXU0VwckJVU05USkh0X2V6dUFSTnFtUTJERHV"
       },
       {
         "headline": "Germany's Merz hopes for relief after Trump tariff verdict but uncertainty lingers - Reuters",
@@ -177,34 +37,14 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQNTVxT0xGVFhLTm1QX1NLTThSQUVjOGZNeWdGT0hIdWMyM2hPbHZQRF9GN0RhT3g5eGFrYzhCZEZ4QnVJNHhQQzMxaEVGQWE0d0cxWU9QMFNMSFJOZFhweHFBWmNKV2NLLWR1MzZ"
       },
       {
-        "headline": "With tariffs ruling, Supreme Court reasserts its power to check Trump​ - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVHZ3clAzQ2FaUWFvS0hrMWw4aG9zMDZJdjFwcTJ0SDdDZTg4Uk8tRFM0ZlRVN0F1YTdMbThjb010OV9HVGZQVG1rbUgwUU1SMGRnRDBxNF9MWlVoLUFhdWJqUU5iMFBpWDlmUkxNZ1pBNnQybm94M3hYSldPV3ZNaHhObGU4c2VQV21LZVo0b014aXFWNE43azFqelQzTG1TUnZxYWdRMFBQUk50XzZn?oc=5",
+        "headline": "BNSF Says Mainlines Are Back Open And Operational After A Train Derailment Near Angora, NE, On Feb 20 - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOQ3NQcjM1dFR3bDNSSHVlaDhkX0U5MHh4VGxYNWZNdW1TVGx6TXAxR2RFbDFiOHJNa1NRQzVIcG9RbVl4Qm85OHc4UDFCU2hQMXdIRUhZLXlaWkhVRVJfYXNTVUNrYWJVT3dWRFFuLTlyTmlwbzV5SzJCT00xdkpXVFZ4a05tVmhubzJ2Q0hzWUhwNzFTZGFTcF9UeFRFbVAyMUYyWVB0R0J2ZkRHX2NhRGtmQWNuZVM1eUJGUGV1c2FMcjJBRmJVWmZicVRUeHk2X0FzSmM1ZWVDcjhudUkxTUtYcnhLQXAtMHVlV2tobGtkRWRpRFViWXQzNGdGQQ?oc=5",
         "source": "Reuters",
         "sourceId": "reuters_world",
         "category": "wire",
         "priority": "primary",
-        "date": "Sat, 21 Feb 2026 11:06:20 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPVHZ3clAzQ2FaUWFvS0hrMWw4aG9zMDZJdjFwcTJ0SDdDZTg4Uk8tRFM0ZlRVN0F1YTdMbThjb010OV9HVGZQVG1rbUgwUU1SMGRnRDBxNF9MWlVoLUFhdWJqUU5iMFBpWDlmUkx"
-      },
-      {
-        "headline": "ECB's Panetta says Chinese imports helped drive sharper‑than‑forecast inflation drop - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYXZOY3FZM0RhemxNSDBDN1BkM212cFkzVi0zeE81MnBObldlWmFqOEU1MHMtVWotaWE3am1wR3ZUSDNrelkwaU5nOXFGYWxHUnMwMl9oTG9IYkFsVU5BVFppTlFsQjFGYzJKc3BCMjdVcWNBTjZtWDhyXzVISHA1dUpxWUYxVkNsMUlZNE91RmF2RjRoU0hqZ29FanZaV2duRjRJdV9saVV2U05fcUVQS3JHX0dicDFfSzc2SENUZjlOZw?oc=5",
-        "source": "Reuters",
-        "sourceId": "reuters_world",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Sat, 21 Feb 2026 10:34:39 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYXZOY3FZM0RhemxNSDBDN1BkM212cFkzVi0zeE81MnBObldlWmFqOEU1MHMtVWotaWE3am1wR3ZUSDNrelkwaU5nOXFGYWxHUnMwMl9oTG9IYkFsVU5BVFppTlFsQjFGYzJKc3B"
-      },
-      {
-        "headline": "Iranian students begin new university term with protests - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQb3V5cUtNcGZHeENfczBSV1JHeW92NjIyUmlac1ppMmV2MEtWU1F2X2pzYnBjQTZ6dXVFWHpEQkdEaEthV1VPYVJUM2ZERWkxUTNDVWNvRWtJRmZBOUtmUWJkbUZmNFBPX0ZXdnNCTjFLMHJkcDRuNkNHcnVrdVdoTU1Wa2NSZUV6QmZVUjZrZUhibzNNNHZMdXhQS0NiZG9zN05fRjY2QjZDMTFwM29J?oc=5",
-        "source": "Reuters",
-        "sourceId": "reuters_world",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Sat, 21 Feb 2026 17:30:48 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQb3V5cUtNcGZHeENfczBSV1JHeW92NjIyUmlac1ppMmV2MEtWU1F2X2pzYnBjQTZ6dXVFWHpEQkdEaEthV1VPYVJUM2ZERWkxUTNDVWNvRWtJRmZBOUtmUWJkbUZmNFBPX0ZXdnN"
+        "date": "Sun, 22 Feb 2026 00:11:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxOQ3NQcjM1dFR3bDNSSHVlaDhkX0U5MHh4VGxYNWZNdW1TVGx6TXAxR2RFbDFiOHJNa1NRQzVIcG9RbVl4Qm85OHc4UDFCU2hQMXdIRUhZLXlaWkhVRVJfYXNTVUNrYWJVT3dWRFF"
       },
       {
         "headline": "After court ruling, Trump says US global tariff rate will rise from 10% to 15% - Reuters",
@@ -217,6 +57,46 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPb0JETzNzZUstNjZNaW9XN1FEMjNVaThScS1rWFdlT2VNTVYxck8xY0V3SXlacHJPdVdoaUpVNTZnTkd5T1U2cmFPd25pdVpIUHJFUS1kQXZjQU1peFJQWGJ6aVVtSTRjc2JVS2h"
       },
       {
+        "headline": "Asma Khan on cooking with conscience - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVUdnWW13YnhMRl9PQzU4YVlmTHNFbG1YeFo3djlHdEFMVUNhLXR2Q1kyanNhcmpqRHpmRU9RWHN0UW0zemRRX3EyMHUwWVFIZTNUci1QRi1vNlNPREhINklmS29RRkVhb3pMV3MtZ1RyR1B1aU1DY3pjcl9VcDBGdUtKRzYzeGpESlE2bHFfR1VfQXhZZ0MzeFQ5aG5Udm42OTlyZlNSclVrUQ?oc=5",
+        "source": "Reuters",
+        "sourceId": "reuters_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Sat, 21 Feb 2026 11:00:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVUdnWW13YnhMRl9PQzU4YVlmTHNFbG1YeFo3djlHdEFMVUNhLXR2Q1kyanNhcmpqRHpmRU9RWHN0UW0zemRRX3EyMHUwWVFIZTNUci1QRi1vNlNPREhINklmS29RRkVhb3pMV3M"
+      },
+      {
+        "headline": "ECB's Panetta says Chinese imports helped drive sharper‑than‑forecast inflation drop - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYXZOY3FZM0RhemxNSDBDN1BkM212cFkzVi0zeE81MnBObldlWmFqOEU1MHMtVWotaWE3am1wR3ZUSDNrelkwaU5nOXFGYWxHUnMwMl9oTG9IYkFsVU5BVFppTlFsQjFGYzJKc3BCMjdVcWNBTjZtWDhyXzVISHA1dUpxWUYxVkNsMUlZNE91RmF2RjRoU0hqZ29FanZaV2duRjRJdV9saVV2U05fcUVQS3JHX0dicDFfSzc2SENUZjlOZw?oc=5",
+        "source": "Reuters",
+        "sourceId": "reuters_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Sat, 21 Feb 2026 10:34:39 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYXZOY3FZM0RhemxNSDBDN1BkM212cFkzVi0zeE81MnBObldlWmFqOEU1MHMtVWotaWE3am1wR3ZUSDNrelkwaU5nOXFGYWxHUnMwMl9oTG9IYkFsVU5BVFppTlFsQjFGYzJKc3B"
+      },
+      {
+        "headline": "With tariffs ruling, Supreme Court reasserts its power to check Trump​ - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVHZ3clAzQ2FaUWFvS0hrMWw4aG9zMDZJdjFwcTJ0SDdDZTg4Uk8tRFM0ZlRVN0F1YTdMbThjb010OV9HVGZQVG1rbUgwUU1SMGRnRDBxNF9MWlVoLUFhdWJqUU5iMFBpWDlmUkxNZ1pBNnQybm94M3hYSldPV3ZNaHhObGU4c2VQV21LZVo0b014aXFWNE43azFqelQzTG1TUnZxYWdRMFBQUk50XzZn?oc=5",
+        "source": "Reuters",
+        "sourceId": "reuters_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Sat, 21 Feb 2026 11:06:20 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPVHZ3clAzQ2FaUWFvS0hrMWw4aG9zMDZJdjFwcTJ0SDdDZTg4Uk8tRFM0ZlRVN0F1YTdMbThjb010OV9HVGZQVG1rbUgwUU1SMGRnRDBxNF9MWlVoLUFhdWJqUU5iMFBpWDlmUkx"
+      },
+      {
+        "headline": "NASA may take moon mission Artemis II rocket back to assembly site, affecting March launch window - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQclpPVTFhQzZlQTZBb2hTYUY4dkZiazVwREVOTS1Ec1Jzbk5RQ0hLdkFTOEFMQ2s3ODRyVkk0Q2x6NkV3dklyR2VxNkVBNzJHUEcyNWFDZ2hfUXQ0aklUQkM5bXNaNWgwUUM3c0FvVW1nTEdoU0ZyVU1sRl9YbWJxTndNcG00N2drOThnRWZuemJVSmEwQXNQNVVGM0stblRIcVBxWDBtcTBfOWczN3c4?oc=5",
+        "source": "Reuters",
+        "sourceId": "reuters_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Sat, 21 Feb 2026 15:58:54 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQclpPVTFhQzZlQTZBb2hTYUY4dkZiazVwREVOTS1Ec1Jzbk5RQ0hLdkFTOEFMQ2s3ODRyVkk0Q2x6NkV3dklyR2VxNkVBNzJHUEcyNWFDZ2hfUXQ0aklUQkM5bXNaNWgwUUM3c0F"
+      },
+      {
         "headline": "Germany's ruling party backs social media curbs for children - Reuters",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdVZBN0dSbFdFQ3BTOEJlOGhiQ0VrN0RGcXFCb21OamZkM055U1V1aGcweFZZU2QyeENZNjdvMWczM0RiVEozSGtSQjNMcS1Id1hmTzhISlVuT3VkcVhQQXJmWkFXTEVMQkNuNEIyNTkwUWJsNkk1SXY4TnUxSTA3Y25EbnlMQUVJaWQ2TzdSc0UwbjRwRGppSUVsdW10eUo3bnF4NzJ2R1Z6THlpNzE0UjBockM?oc=5",
         "source": "Reuters",
@@ -225,6 +105,16 @@
         "priority": "primary",
         "date": "Sat, 21 Feb 2026 14:08:05 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNdVZBN0dSbFdFQ3BTOEJlOGhiQ0VrN0RGcXFCb21OamZkM055U1V1aGcweFZZU2QyeENZNjdvMWczM0RiVEozSGtSQjNMcS1Id1hmTzhISlVuT3VkcVhQQXJmWkFXTEVMQkNuNEI"
+      },
+      {
+        "headline": "Iranian students begin new university term with protests - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQb3V5cUtNcGZHeENfczBSV1JHeW92NjIyUmlac1ppMmV2MEtWU1F2X2pzYnBjQTZ6dXVFWHpEQkdEaEthV1VPYVJUM2ZERWkxUTNDVWNvRWtJRmZBOUtmUWJkbUZmNFBPX0ZXdnNCTjFLMHJkcDRuNkNHcnVrdVdoTU1Wa2NSZUV6QmZVUjZrZUhibzNNNHZMdXhQS0NiZG9zN05fRjY2QjZDMTFwM29J?oc=5",
+        "source": "Reuters",
+        "sourceId": "reuters_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Sat, 21 Feb 2026 17:30:48 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQb3V5cUtNcGZHeENfczBSV1JHeW92NjIyUmlac1ppMmV2MEtWU1F2X2pzYnBjQTZ6dXVFWHpEQkdEaEthV1VPYVJUM2ZERWkxUTNDVWNvRWtJRmZBOUtmUWJkbUZmNFBPX0ZXdnN"
       },
       {
         "headline": "Asian economies weigh impact of fresh Trump tariff moves, confusion - Reuters",
@@ -237,26 +127,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxON1FHRzZCU0dTdFlpWUpBRlU4MmxXYWQ0eDNYaUJ5cXJxbElXd0RDOTFiU19XeFB6YkJLWWFsOENMNk5uYWdvS2RXdFNlU01ZbFd1MnkxS2t1UVBoSDBTblF3bXNic2hwNllyYkp"
       },
       {
-        "headline": "Ukraine hits Russian ballistic missiles producer in Udmurtia, Kyiv says - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVkhxdS1VVjh6dV96TndHazVVdkJMQlZRa1RQQm1ZUXI4U0hHQUhhazBzS1JWZk9CTHZNdHNRcHFDVV9QenRQSC05MzEwQU9DMGUwM0Z6MFc0QzVEZVZFcXVQMnpmcXEzYzFDaVZ6THVUXzExSElvdnNlUXJzalFnNHBKbzVvNjEzdUVDS3FSNUttbm1acUlYeTVJMVZWY1NfQ1BJZUVySU5CYlBKUlVVTmNaZTljYms?oc=5",
-        "source": "Reuters",
-        "sourceId": "reuters_world",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Sat, 21 Feb 2026 14:02:52 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQVkhxdS1VVjh6dV96TndHazVVdkJMQlZRa1RQQm1ZUXI4U0hHQUhhazBzS1JWZk9CTHZNdHNRcHFDVV9QenRQSC05MzEwQU9DMGUwM0Z6MFc0QzVEZVZFcXVQMnpmcXEzYzFDaVZ"
-      },
-      {
-        "headline": "Trump meets Vietnam leader, vows to remove Hanoi from restricted lists - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdWoxSThyOG9Fcnh2S2lwNWlOcFcwbVlDNzhReGVqa29MWV9uMFlSY1EteXdnQzlUN29Fa00tR0tWVUMyLUNRRzdfOEFaX1l2U0c5ZzMwWTdaMG1FbWhBRDV1S2UwWVBSQmMzdGR0azczbGpFVFJMN0pxVEdNTUVwU1dVMk5ON0hIQkI5NDB4WDNqVTIzNDE1cUpCTkxXbXFrSkVOOFZtZERJZUFCY3FzSlVEdzJXTjBqekdoZjFJQm81QQ?oc=5",
-        "source": "Reuters",
-        "sourceId": "reuters_world",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Sat, 21 Feb 2026 01:40:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdWoxSThyOG9Fcnh2S2lwNWlOcFcwbVlDNzhReGVqa29MWV9uMFlSY1EteXdnQzlUN29Fa00tR0tWVUMyLUNRRzdfOEFaX1l2U0c5ZzMwWTdaMG1FbWhBRDV1S2UwWVBSQmMzdGR"
-      },
-      {
         "headline": "Exclusive: Cuban security forces exit Venezuela as US pressure mounts - Reuters",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLUpOZlNMNUV4TzFHR1dTR1ZZYncyNlFoVkFYcUdKZkZHWUV5cmJXQzFnOXF3aXNIaHR1X1NOcEN1OHZnRnR4Qmk2XzVFY0tlbEtFMkRkaXVrdDFnXzFMXzFuaG80RnQwQkZFOW01ZVJGTXJCV1JvMWh6WVI4anZmYTFWVWhodEZJYXVydkg5VU93VFpfSnhraWZLOUVPZ09lakIwdHFNaFJoUQ?oc=5",
         "source": "Reuters",
@@ -267,63 +137,43 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLUpOZlNMNUV4TzFHR1dTR1ZZYncyNlFoVkFYcUdKZkZHWUV5cmJXQzFnOXF3aXNIaHR1X1NOcEN1OHZnRnR4Qmk2XzVFY0tlbEtFMkRkaXVrdDFnXzFMXzFuaG80RnQwQkZFOW0"
       },
       {
-        "headline": "USTR expects new Section 301 probes to cover most major trading partners - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX191cFpsSVM4SDhMVUc0S01xOWlUckJTaUhLcXd0VFNiYllJWFpQU2lOYUs1dm0wWmJDQlRhUy0wOE85c1JOWDBXYmxuSGFJMlNuOTlPZWdfMENvbTdrdEJ5NVcydWhvaHdoWFNvRERDX2xtSFROMlM5ZWdQSzZzVTNUcmhERy1fOUxwSVV6R2M0NnhvSmZJNGh4WnJBc3c1RDJqc3I5X3RrZXZKVjM3Zkl2NmRRNXdy?oc=5",
+        "headline": "Citi bolsters private bank leadership in North America push - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOVBUZkdISFBGOXRDS081UlBSMFA2Z1ZsVDU3Y3FIX2EtVDQ5aFRuVjRsNUxrbzhQTnF5RGZwVDA4OXJNOHNHNmEtS2p6cjdLRTh4MTNtbkdKMVJ3R2MtRW9sb3NERVprcE1qTWFIbWxOd1dBZURWUHdzRmRkdEMxWUZ1YWxfbmFxMS1mWGVleUFYREs2bVM1N1NKS1NCbHdqdlczRndfT3JOQlYyV3c?oc=5",
         "source": "Reuters",
         "sourceId": "reuters_world",
         "category": "wire",
         "priority": "primary",
-        "date": "Sat, 21 Feb 2026 01:09:42 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX191cFpsSVM4SDhMVUc0S01xOWlUckJTaUhLcXd0VFNiYllJWFpQU2lOYUs1dm0wWmJDQlRhUy0wOE85c1JOWDBXYmxuSGFJMlNuOTlPZWdfMENvbTdrdEJ5NVcydWhvaHdoWFN"
+        "date": "Sat, 21 Feb 2026 04:09:24 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNOVBUZkdISFBGOXRDS081UlBSMFA2Z1ZsVDU3Y3FIX2EtVDQ5aFRuVjRsNUxrbzhQTnF5RGZwVDA4OXJNOHNHNmEtS2p6cjdLRTh4MTNtbkdKMVJ3R2MtRW9sb3NERVprcE1qTWF"
       },
       {
-        "headline": "Toymaker assesses next steps in US Supreme Court tariff refund battle - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeEdoWHZuMmNUS2lfa1NSM1ZKSks3WTJJeFRhaVpuOGNVQTFnUHVtUmxCX002WDZ4Mnp4MUFXbnBIdWlUaWQ3Sl9LdGZlYUFXVXJEVmxFTklXcmFmMUc2RU9STjZ6TFdUR2VZWW1VZmhKZkllbVFEWXBlMW44UDZZUUtldk5OUnowNmpxRndpZzhrUjk4LXA0YzFUNkdqaGtFanAzRExBaVlNc3UzeVc3X3VPNDlIbWZ3Vk9J?oc=5",
+        "headline": "Ukraine hits Russian ballistic missiles producer in Udmurtia, Kyiv says - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVkhxdS1VVjh6dV96TndHazVVdkJMQlZRa1RQQm1ZUXI4U0hHQUhhazBzS1JWZk9CTHZNdHNRcHFDVV9QenRQSC05MzEwQU9DMGUwM0Z6MFc0QzVEZVZFcXVQMnpmcXEzYzFDaVZ6THVUXzExSElvdnNlUXJzalFnNHBKbzVvNjEzdUVDS3FSNUttbm1acUlYeTVJMVZWY1NfQ1BJZUVySU5CYlBKUlVVTmNaZTljYms?oc=5",
         "source": "Reuters",
         "sourceId": "reuters_world",
         "category": "wire",
         "priority": "primary",
-        "date": "Sat, 21 Feb 2026 00:03:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeEdoWHZuMmNUS2lfa1NSM1ZKSks3WTJJeFRhaVpuOGNVQTFnUHVtUmxCX002WDZ4Mnp4MUFXbnBIdWlUaWQ3Sl9LdGZlYUFXVXJEVmxFTklXcmFmMUc2RU9STjZ6TFdUR2VZWW1"
+        "date": "Sat, 21 Feb 2026 14:02:52 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQVkhxdS1VVjh6dV96TndHazVVdkJMQlZRa1RQQm1ZUXI4U0hHQUhhazBzS1JWZk9CTHZNdHNRcHFDVV9QenRQSC05MzEwQU9DMGUwM0Z6MFc0QzVEZVZFcXVQMnpmcXEzYzFDaVZ"
       },
       {
-        "headline": "Trump furious after Supreme Court upends his global tariffs, imposes new 10% levy - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUThRaldmcVNRdnUycVRMZHJMSmVXS0xfS2Rvb0s2V1FHMFdNYnktUkJZNmVTMkVyTGhOX1JVWWVKS1AxMDJuT1FYc0dNU2ZSbGJoY2NUWGc5NFNtRmdtdURudHJCbGdPc1lZRm4yc18zLTZZMjdTcVpycHFwLVN3czBwZ1ZNRWlIRFROcU9xLWpabHcwMEdlZXJCZG5rcklvS0pFTXczRG1hTWV1UTRnRDBlVkg1X2stT0lUVEl1NWpRTUhKTTNtNA?oc=5",
+        "headline": "For Europe Inc, US tariff relief comes with a sting in the tail - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMnU1VFN5M3NYbXNDaHpVUU1aZHg5T3RHeDlqVjNBQ25oRlR0X1p3c0hDZU82SVVya3M5MmpJOGhkVmV0bU00SUY5anVUbzRvOWdERTVCTk5MZF9NYk9rQTdJWTM3NTNFOHF0WW9HVmU3a2FrNURxX2Flb0J2OUx4R3BRcmJua3FTR3k2cTBfQl9EX0t3VFlFSi1uQ2g5cm8?oc=5",
         "source": "Reuters",
         "sourceId": "reuters_world",
         "category": "wire",
         "priority": "primary",
-        "date": "Fri, 20 Feb 2026 23:31:24 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUThRaldmcVNRdnUycVRMZHJMSmVXS0xfS2Rvb0s2V1FHMFdNYnktUkJZNmVTMkVyTGhOX1JVWWVKS1AxMDJuT1FYc0dNU2ZSbGJoY2NUWGc5NFNtRmdtdURudHJCbGdPc1lZRm4"
+        "date": "Sat, 21 Feb 2026 06:22:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQMnU1VFN5M3NYbXNDaHpVUU1aZHg5T3RHeDlqVjNBQ25oRlR0X1p3c0hDZU82SVVya3M5MmpJOGhkVmV0bU00SUY5anVUbzRvOWdERTVCTk5MZF9NYk9rQTdJWTM3NTNFOHF0WW9"
       },
       {
-        "headline": "TXNM Energy gets FERC approval for $11.5 billion Blackstone deal - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQckJ5R29VWFppcnMySnlTbTB4a3ZEXzVMTjhVT0lsY0tlT1JTOVEwRnE4NGlBTmpVUmxIWnJDTmo5YjdHbWl2VjE0X2N5czdMVURhWXlVdVd0NUEyZjIzbnk1SWtqUFhIenpDRG10NkRrR3FhSXQtVUE4akxyUDk2RHNTY21ITUluSGpsbmlpY1d0cWNvbjNRSk1LQXMxLThsYVpGZXBva0FSQVFOS2JWeWVuOXg?oc=5",
-        "source": "Reuters",
-        "sourceId": "reuters_world",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Fri, 20 Feb 2026 23:51:36 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQckJ5R29VWFppcnMySnlTbTB4a3ZEXzVMTjhVT0lsY0tlT1JTOVEwRnE4NGlBTmpVUmxIWnJDTmo5YjdHbWl2VjE0X2N5czdMVURhWXlVdVd0NUEyZjIzbnk1SWtqUFhIenpDRG1"
-      },
-      {
-        "headline": "Supreme Court tariff ruling clouds Fed's rate path after a year of upheaval - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSEpzQWxRWm82RURTNkdXQzdQaXJfUE5vZlg3STJ5bXpNRDlqREw4OE5iZzVNRzI2ZFVqZm12aWlHelpCbGlCYjBaYXUzeXVteGM1bzJIUzRucWU1cGpXR3c0Q3BhWndfTkY1MHNqU3cwRGFhci1MVFg1R2MwdkV4YUZINkhGREwwdjVFbUw5R2VtZWpTcXVFdjUzSkR2cXZaeVRhYjk5WW5NNWZLNnBLQldTZDY?oc=5",
-        "source": "Reuters",
-        "sourceId": "reuters_world",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Fri, 20 Feb 2026 23:04:42 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQSEpzQWxRWm82RURTNkdXQzdQaXJfUE5vZlg3STJ5bXpNRDlqREw4OE5iZzVNRzI2ZFVqZm12aWlHelpCbGlCYjBaYXUzeXVteGM1bzJIUzRucWU1cGpXR3c0Q3BhWndfTkY1MHN"
-      },
-      {
-        "headline": "Iran students stage first anti-government protests since deadly crackdown",
+        "headline": "Iran students stage first large anti-government protests since deadly crackdown",
         "url": "https://www.bbc.com/news/articles/c5yj2kzkrj0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC",
         "sourceId": "bbc_world",
         "category": "general",
         "priority": "primary",
-        "date": "Sat, 21 Feb 2026 20:00:06 GMT",
+        "date": "Sat, 21 Feb 2026 22:09:19 GMT",
         "description": "The student protesters honoured thousands of those killed when nationwide mass protests were put down last month."
       },
       {
@@ -677,6 +527,26 @@
         "description": "Slogans chanted on campuses in Tehran as new academic semester begins"
       },
       {
+        "headline": "Centerview settles lawsuit over analyst’s need for 8 hours’ sleep",
+        "url": "https://www.ft.com/content/a5271651-825e-4007-a029-9e2c16b5d770",
+        "source": "Financial Times",
+        "sourceId": "ft_home",
+        "category": "business",
+        "priority": "primary",
+        "date": "Sun, 22 Feb 2026 01:31:59 GMT",
+        "description": "Case brought by Kathryn Shiber fuelled debate about junior bankers’ working hours"
+      },
+      {
+        "headline": "Trump demands Netflix remove former Obama official from board",
+        "url": "https://www.ft.com/content/165878b9-2984-4df9-ba8a-c19f133e9ad8",
+        "source": "Financial Times",
+        "sourceId": "ft_home",
+        "category": "business",
+        "priority": "primary",
+        "date": "Sun, 22 Feb 2026 00:31:17 GMT",
+        "description": "President steps back into fight between streamer and Paramount Skydance to acquire Warner Bros Discovery"
+      },
+      {
         "headline": "Yacht boom propels $700mn-plus Stonepeak marina deal",
         "url": "https://www.ft.com/content/2a588350-a7f7-460f-900e-812a779d7cde",
         "source": "Financial Times",
@@ -695,16 +565,6 @@
         "priority": "primary",
         "date": "Sat, 21 Feb 2026 19:36:28 GMT",
         "description": "Diplomat tells Tucker Carlson it ‘would be fine’ if Israel took over a swath of the region"
-      },
-      {
-        "headline": "Latham & Watkins poaches two more partners from rival Wachtell Lipton",
-        "url": "https://www.ft.com/content/5d5af0c0-d46b-4bdb-8455-0564d56104ee",
-        "source": "Financial Times",
-        "sourceId": "ft_home",
-        "category": "business",
-        "priority": "primary",
-        "date": "Sat, 21 Feb 2026 19:55:58 GMT",
-        "description": "The New York-based Wachtell has suffered rare defections in a hot market for top deals lawyers"
       },
       {
         "headline": "RSF siege of El Fasher in Sudan has ‘hallmarks of genocide’, UN mission finds",
@@ -873,7 +733,7 @@
         "sourceId": "nyt_world",
         "category": "general",
         "priority": "secondary",
-        "date": "Sat, 21 Feb 2026 21:14:24 +0000",
+        "date": "Sat, 21 Feb 2026 22:06:52 +0000",
         "description": "Students helped grow initial protests into a national movement crushed by the government. As the new semester began, they chanted and marched again."
       },
       {
@@ -1157,6 +1017,46 @@
         "description": "Check out the stocks Heard on the Street writers favor in their eighth annual stock-picking contest."
       },
       {
+        "headline": "Pakistan carries out strikes in Afghanistan after spate of suicide attacks",
+        "url": "https://www.aljazeera.com/news/2026/2/22/pakistan-carries-out-strikes-in-afghanistan-after-islamabad-suicide-attack?traffic_source=rss",
+        "source": "Al Jazeera",
+        "sourceId": "aljazeera",
+        "category": "general",
+        "priority": "secondary",
+        "date": "Sun, 22 Feb 2026 01:04:28 +0000",
+        "description": "Afghan sources say the Pakistani strikes hit the border provinces of Paktika and Nangarhar."
+      },
+      {
+        "headline": "Nico O’Reilly double seals key 2-1 win for Man City over Newcastle United",
+        "url": "https://www.aljazeera.com/sports/2026/2/21/nico-oreilly-double-seals-key-2-1-win-for-man-city-over-newcastle-united?traffic_source=rss",
+        "source": "Al Jazeera",
+        "sourceId": "aljazeera",
+        "category": "general",
+        "priority": "secondary",
+        "date": "Sat, 21 Feb 2026 22:36:04 +0000",
+        "description": "Manchester City&#039;s win cut Arsenal&#039;s lead at the top of the Premier League to two points."
+      },
+      {
+        "headline": "Trump’s tariff regime has been ruled unlawful. What are the implications?",
+        "url": "https://www.aljazeera.com/video/inside-story/2026/2/21/trumps-tariff-regime-ruled-unlawful-what-are-the-implications?traffic_source=rss",
+        "source": "Al Jazeera",
+        "sourceId": "aljazeera",
+        "category": "general",
+        "priority": "secondary",
+        "date": "Sat, 21 Feb 2026 22:31:17 +0000",
+        "description": "The US Supreme Court has struck down President Donald Trump&#039;s central policy."
+      },
+      {
+        "headline": "Venezuela receives more than 1,500 amnesty requests under new law",
+        "url": "https://www.aljazeera.com/news/2026/2/21/venezuela-receives-more-than-1500-amnesty-requests-under-new-law?traffic_source=rss",
+        "source": "Al Jazeera",
+        "sourceId": "aljazeera",
+        "category": "general",
+        "priority": "secondary",
+        "date": "Sat, 21 Feb 2026 22:12:20 +0000",
+        "description": "More than 370 political prisoners have already been granted amnesty under the US-backed legislation."
+      },
+      {
         "headline": "‘Absurd and provocative’: Huckabee faces firestorm for Israel border stance",
         "url": "https://www.aljazeera.com/news/2026/2/21/absurd-and-provocative-huckabee-faces-firestorm-for-israel-border-stance?traffic_source=rss",
         "source": "Al Jazeera",
@@ -1217,14 +1117,14 @@
         "description": "Persistent rain in Colombo forces abandonment of Pakistan&#039;s game with New Zealand, which was to open Super Eights stage."
       },
       {
-        "headline": "LIVE: Manchester City vs Newcastle United – Premier League",
+        "headline": "Manchester City vs Newcastle United 2-1: Premier League – as it happened",
         "url": "https://www.aljazeera.com/sports/liveblog/2026/2/21/live-manchester-city-vs-newcastle-united-premier-league?traffic_source=rss",
         "source": "Al Jazeera",
         "sourceId": "aljazeera",
         "category": "general",
         "priority": "secondary",
         "date": "Sat, 21 Feb 2026 17:00:00 +0000",
-        "description": "Follow the build-up, analysis and live text commentary of the game as City host Newcastle at the Etihad Stadium."
+        "description": "All the updates as a Nico O&#039;Reilly brace gives City a 2-1 win over Newcastle United at Etihad Stadium."
       },
       {
         "headline": "Russian attack on Kharkiv kills two, Ukraine hits missile plant",
@@ -1265,46 +1165,6 @@
         "priority": "secondary",
         "date": "Sat, 21 Feb 2026 12:27:23 +0000",
         "description": "More than 150 giant tortoises have been reintroduced to Ecuador’s Floreana Island in the Galapagos."
-      },
-      {
-        "headline": "Iran demands ‘evidence’ as Trump, UN experts highlight protest killings",
-        "url": "https://www.aljazeera.com/news/2026/2/21/iran-demands-evidence-as-trump-un-experts-highlight-protest-killings?traffic_source=rss",
-        "source": "Al Jazeera",
-        "sourceId": "aljazeera",
-        "category": "general",
-        "priority": "secondary",
-        "date": "Sat, 21 Feb 2026 11:54:58 +0000",
-        "description": "UN experts said discrepancy between official figures and grassroots estimates is compounding the anguish of families."
-      },
-      {
-        "headline": "Israel wants to execute Palestinians and the world will allow it",
-        "url": "https://www.aljazeera.com/opinions/2026/2/21/israel-wants-to-execute-palestinians-and-the-world-will-allow-it?traffic_source=rss",
-        "source": "Al Jazeera",
-        "sourceId": "aljazeera",
-        "category": "general",
-        "priority": "secondary",
-        "date": "Sat, 21 Feb 2026 11:45:22 +0000",
-        "description": "An execution bill is being pushed through the Knesset. International indifference paved its way for it."
-      },
-      {
-        "headline": "India signs critical minerals deal with Brazil to curb dependance on China",
-        "url": "https://www.aljazeera.com/news/2026/2/21/india-brazil-sign-critical-minerals-deal-as-partners-seek-trade-growth?traffic_source=rss",
-        "source": "Al Jazeera",
-        "sourceId": "aljazeera",
-        "category": "general",
-        "priority": "secondary",
-        "date": "Sat, 21 Feb 2026 11:24:19 +0000",
-        "description": "Brazilian President Lula called the critical minerals and rare earths deal the &#039;core of the pioneering agreement&#039;."
-      },
-      {
-        "headline": "Pakistan vs New Zealand abandoned: T20 World Cup Super Eights – updates",
-        "url": "https://www.aljazeera.com/sports/liveblog/2026/2/21/live-pakistan-vs-new-zealand-t20-world-cup-super-eights?traffic_source=rss",
-        "source": "Al Jazeera",
-        "sourceId": "aljazeera",
-        "category": "general",
-        "priority": "secondary",
-        "date": "Sat, 21 Feb 2026 10:30:32 +0000",
-        "description": "All our updates from our live text commentary stream of the abandoned Super Eights opener in Colombo."
       },
       {
         "headline": "More than 1,500 prisoners set for release under Venezuela's new amnesty law",
@@ -1460,154 +1320,14 @@
     "byCategory": {
       "wire": [
         {
-          "headline": "US military airlifts small reactor as Trump pushes to quickly deploy nuclear power - AP News",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVDduTW9kd09RXy1YN3FMeXI0bzRyTTVfeDZKNURrMGNqMC03dFJQVFBNVENVSHJxa2hLeWtUVW5ISEpIc1JpZEpxTjZNcUFhRXF3bkJfeEptZlJnRkxhLUZsS0RGaGM1Ym51UkRnMkRpM2hBSkNLekF3VlRQZFJZRUVMQV92dFdVM3J2alBhNWNTUlRzUHFDV0hXbEpaMHZhcnpMeA?oc=5",
-          "source": "AP",
-          "sourceId": "ap_world",
+          "headline": "UAE foils cyber attacks, state news agency says - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdFhrVGlwVnoxWVBId1lPcXZQc3hjSDZrbzk5RldJV25HX0wtSUp1Tk9Ecjlvc19JVXdGSjNXTjU0bklRb296aWh3bG1YLTBhNVZXU0VwckJVU05USkh0X2V6dUFSTnFtUTJERHVFeE9IRF9KUmRKbDdUbU8xU3o2Sl9POVRWNmhXbVMwZmw2dk01TkNCdkJZLWVLVThZZHhuUlE?oc=5",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
           "category": "wire",
           "priority": "primary",
-          "date": "Sat, 21 Feb 2026 17:09:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNVDduTW9kd09RXy1YN3FMeXI0bzRyTTVfeDZKNURrMGNqMC03dFJQVFBNVENVSHJxa2hLeWtUVW5ISEpIc1JpZEpxTjZNcUFhRXF3bkJfeEptZlJnRkxhLUZsS0RGaGM1Ym51UkR"
-        },
-        {
-          "headline": "JPMorgan concedes it closed Trump’s accounts after Jan. 6 attack - AP News",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQ0t0bjBlamNtQmx0ZXN2QnR1TVVucGRteUZIaTR2QmlDSUpQdEx5TWVMRW8wTThqS1QydE51QkV1cDFQWWJqWmNvVDFVeWxpckIzdHN0V25PNnp2SGM5NWxWMVZONXE0SVg1QktkdUJ5TF9mQkhsVXhYVTB1aDJrRTF6R3YxX3hPZlRTSllOekwxX1pm?oc=5",
-          "source": "AP",
-          "sourceId": "ap_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sat, 21 Feb 2026 20:58:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNQ0t0bjBlamNtQmx0ZXN2QnR1TVVucGRteUZIaTR2QmlDSUpQdEx5TWVMRW8wTThqS1QydE51QkV1cDFQWWJqWmNvVDFVeWxpckIzdHN0V25PNnp2SGM5NWxWMVZONXE0SVg1Qkt"
-        },
-        {
-          "headline": "ICE’s purchases for big detention centers are marked by secrecy, frustrating towns - AP News",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeWxZWHBhcUhRb0lQVGdZRmtVMFdmMHljcG1BS0d6c1M4bU4wVmZiUWVETTUxTTg0N0txbDBqeUNJSmZ1Y2Z1RVkySGpkdW5NdV94T3pQc3VyQkJlSTIxSEVtZElQS1NvNDRnVGJkb1IwaUN5Ry0tRzhFLS0xSG5kUkoxeExxLWVzVWhBWEJYTE9tdjd4T0pvakVDV1VheGs?oc=5",
-          "source": "AP",
-          "sourceId": "ap_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sat, 21 Feb 2026 16:54:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPeWxZWHBhcUhRb0lQVGdZRmtVMFdmMHljcG1BS0d6c1M4bU4wVmZiUWVETTUxTTg0N0txbDBqeUNJSmZ1Y2Z1RVkySGpkdW5NdV94T3pQc3VyQkJlSTIxSEVtZElQS1NvNDRnVGJ"
-        },
-        {
-          "headline": "Global leaders and businesses pore over fallout of more US tariff swoons - AP News",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVjl3Y29hTHRRTkExeEZnZlBFdWtIWW80Z19hbDdhLV9qQnUxdHVoTkVaalRSMDBzeXJMWWFiTW9RM1ZmeG1KUFJNbEtDM2ZKeXBvU1VaSUo5WVVvV2xIQzhaNEQ5VVhxN0NMazlGYzRYcUVFbnlpbzF0RTJlaHZBMEZpNTNPbHRhb1FZTWNvZDNMZ2libkZKTktzeWxLUWJL?oc=5",
-          "source": "AP",
-          "sourceId": "ap_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sat, 21 Feb 2026 16:46:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOVjl3Y29hTHRRTkExeEZnZlBFdWtIWW80Z19hbDdhLV9qQnUxdHVoTkVaalRSMDBzeXJMWWFiTW9RM1ZmeG1KUFJNbEtDM2ZKeXBvU1VaSUo5WVVvV2xIQzhaNEQ5VVhxN0NMazl"
-        },
-        {
-          "headline": "She was an orphan adopted from Iran by a US veteran. The Trump administration wants to deport her - AP News",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZjBZNDJ3N196YnBJaXlCQWJZSnJ5UUp6MFRHeFFaYVBidUNoWDlrQjZxU3JoTXBqVkZOdTVrV1d1M25PWEIwb3RSb0tlQTJ3RVBUV3lQcUFISXhYQlpJM2E3SjZaSzh6WnZla3Q1aktGVWttejh1blVaeS1scWFFd0wxcU9ZMUFnZVdMZA?oc=5",
-          "source": "AP",
-          "sourceId": "ap_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sat, 21 Feb 2026 17:08:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNZjBZNDJ3N196YnBJaXlCQWJZSnJ5UUp6MFRHeFFaYVBidUNoWDlrQjZxU3JoTXBqVkZOdTVrV1d1M25PWEIwb3RSb0tlQTJ3RVBUV3lQcUFISXhYQlpJM2E3SjZaSzh6WnZla3Q"
-        },
-        {
-          "headline": "Israeli airstrikes in eastern Lebanon kill 8 Hezbollah members, officials say - AP News",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdHZOZGFyRnZfNDRteGZBNFZfdzlXYV95SVlSNU9JOVhiZFI5UjVORzVwY1JCR1BuZHM1VDV6Q0pvUWpyV1pSRDdNZFhJbzE1d1dZdERXWFQ3X2pPcGswMzJwazdEdUN3ZWo3T3NEckRSYjV0VnNmYko2Vy1YV0M4Vll4c1ZaR1cyVVMyNlJsN1Y1TUNHTFlmWUdtZkpsMlp1Nk1YVnNIWXdOdw?oc=5",
-          "source": "AP",
-          "sourceId": "ap_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sat, 21 Feb 2026 13:26:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdHZOZGFyRnZfNDRteGZBNFZfdzlXYV95SVlSNU9JOVhiZFI5UjVORzVwY1JCR1BuZHM1VDV6Q0pvUWpyV1pSRDdNZFhJbzE1d1dZdERXWFQ3X2pPcGswMzJwazdEdUN3ZWo3T3N"
-        },
-        {
-          "headline": "NASA delays astronaut moon mission again after new rocket problem - AP News",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQanhPM3BxTjR0ckNwbUxPVXRqV0FJaEQyTnFwZVhRMG9taWV0VlpONVl1cjFCTDhzOUZZTThjQWZocC13cExQSjFVcTV0Tnl3Yk5ybGNQdXNFenVaMXZVVGRtUERQcFdiRUF1azBxZmIxc3VyRmFWcTM0TWxUMVhfZW5zdWQwSG0wVXZSWnNBQTE5Zw?oc=5",
-          "source": "AP",
-          "sourceId": "ap_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sat, 21 Feb 2026 20:51:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQanhPM3BxTjR0ckNwbUxPVXRqV0FJaEQyTnFwZVhRMG9taWV0VlpONVl1cjFCTDhzOUZZTThjQWZocC13cExQSjFVcTV0Tnl3Yk5ybGNQdXNFenVaMXZVVGRtUERQcFdiRUF1azB"
-        },
-        {
-          "headline": "Murky outlook for businesses after tariff ruling prompts countermoves by Trump - AP News",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNXzJVdXF5TnRnVWE3TnJKQkktbl9FNVZOVXZ4TDRnRklOR09PbkZBT0dBczZBMlJVWWdvdmp4QnRzUFhXYnhDMm94OWl6QkdLUnNNR0N0WGpnek4tZXpzUkVkbGdoQUQ3eDRLNU55WC1ocVE4Rm5fMDQtbHVTaVh0VWNpbzBzZWRXU21yLS1tdUNkMEU3NExsQnFhYw?oc=5",
-          "source": "AP",
-          "sourceId": "ap_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sat, 21 Feb 2026 14:07:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNXzJVdXF5TnRnVWE3TnJKQkktbl9FNVZOVXZ4TDRnRklOR09PbkZBT0dBczZBMlJVWWdvdmp4QnRzUFhXYnhDMm94OWl6QkdLUnNNR0N0WGpnek4tZXpzUkVkbGdoQUQ3eDRLNU5"
-        },
-        {
-          "headline": "U.S. Department of Justice - AP News",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DVGVUcl95ZUJpNjQwRlQ1UGFiS1FvZURuRy1SRXVhdVlnREtMOW93d0NZY1c2dHJacGlfNUFJd3ZFZ3JtdXVnOFBhUVlWWHBXdnBzTHJuU09lbUE?oc=5",
-          "source": "AP",
-          "sourceId": "ap_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sat, 21 Feb 2026 11:03:24 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DVGVUcl95ZUJpNjQwRlQ1UGFiS1FvZURuRy1SRXVhdVlnREtMOW93d0NZY1c2dHJacGlfNUFJd3ZFZ3JtdXVnOFBhUVlWWHBXdnBzTHJuU09lbUE?oc=5\" target=\"_blank\"&g"
-        },
-        {
-          "headline": "Blizzard warnings issued for New York City, New Jersey, Connecticut as storm threatens East Coast - AP News",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcmJuUHQ5M05nWkdWT2dpUHpDQjFjWmRKOFBuWFN6cGVXQmdMdTM3aG1RbmNNRjVIbFhsYV9RZEtnc1F0X3JYclVROFpoUTF2WHFac3RsMm1Kb2xJenJ3VW1uN1h1QzNPUlhXdmt1bUxKbkhzZW83M2ROTXZqVnVBbVR0VVlJZnJrTExlbldaR0M?oc=5",
-          "source": "AP",
-          "sourceId": "ap_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sat, 21 Feb 2026 20:55:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOcmJuUHQ5M05nWkdWT2dpUHpDQjFjWmRKOFBuWFN6cGVXQmdMdTM3aG1RbmNNRjVIbFhsYV9RZEtnc1F0X3JYclVROFpoUTF2WHFac3RsMm1Kb2xJenJ3VW1uN1h1QzNPUlhXdmt"
-        },
-        {
-          "headline": "Ghislaine Maxwell fights release of more Epstein documents, calling disclosure law unconstitutional - AP News",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV1pfTzVkaWktRkM5bzZUdXZDeEQ0cnRRVVk0OHl1UVhYNk5WR0Y1cDBwRWdLMXBIUG5HZmxCRGRKUDNScFlyTHNNZ0tqUU1YVzRXbl9NTTNJUHd3aTZlR2lYTUpJRkpzZ05WdjdNc1FsYTBKbnVJUFkwNWp4WU1LRE1jbGpuZW44WldhQkdfWE1oVXhYYXdHMw?oc=5",
-          "source": "AP",
-          "sourceId": "ap_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sat, 21 Feb 2026 19:39:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPV1pfTzVkaWktRkM5bzZUdXZDeEQ0cnRRVVk0OHl1UVhYNk5WR0Y1cDBwRWdLMXBIUG5HZmxCRGRKUDNScFlyTHNNZ0tqUU1YVzRXbl9NTTNJUHd3aTZlR2lYTUpJRkpzZ05Wdjd"
-        },
-        {
-          "headline": "White House dinner closes a turbulent week for governors in Washington - AP News",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaGtPdmdNR2NKNTI3d001WUV6REp0OGd6VTFKUkdVOGhDazdzRWdwTG1kR0ZtYTM5blIzVzRuVVpNczdXaDhtMDd1NUdnVlhjejJwTmRjNGxyUnZjbTkzV3J0VFYxdXU1UWRRcS1tUHVZZlVlOGZDZ2xmSEFMZmwxSTM3Z0tXbW9kLWtrT3dfSHFEamFxLURGRjh2MHFBX3ZuRnhtbURlUQ?oc=5",
-          "source": "AP",
-          "sourceId": "ap_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sat, 21 Feb 2026 20:54:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOaGtPdmdNR2NKNTI3d001WUV6REp0OGd6VTFKUkdVOGhDazdzRWdwTG1kR0ZtYTM5blIzVzRuVVpNczdXaDhtMDd1NUdnVlhjejJwTmRjNGxyUnZjbTkzV3J0VFYxdXU1UWRRcS1"
-        },
-        {
-          "headline": "Life is harsh and dangerous in Russian-run parts of Ukraine, activists and former residents say - AP News",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYXJROVp4eDJrdW5CQ0luUUxDenFacW5paVQxOU1xUERjTjlwVVlUdFJ5VkNsb0NpcnMyZUtKT1VxMy13MlI3bTVqQmlmUHB2cktnZkJ5di1uMnFILW1aem9vNW1KT3BUYVBFdG43Ni1Cc21zZUU2RXJadm9jcEdGUWtLN09MYlY5NzhJNUl3amdWT0JreVktR0d2UQ?oc=5",
-          "source": "AP",
-          "sourceId": "ap_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sat, 21 Feb 2026 17:03:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNYXJROVp4eDJrdW5CQ0luUUxDenFacW5paVQxOU1xUERjTjlwVVlUdFJ5VkNsb0NpcnMyZUtKT1VxMy13MlI3bTVqQmlmUHB2cktnZkJ5di1uMnFILW1aem9vNW1KT3BUYVBFdG4"
-        },
-        {
-          "headline": "US ambassador causes uproar by claiming Israel has a right to much of the Middle East - AP News",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRkZIYVlvbTl5aGpPTjBKRmRwdkM3Z0RxcEY2ZUlRa041My1TcnhON0lyMGhJSjYtOVpuNWJEVEVMOEdrQmtnQjQ3TF9raDJOZnZfVnhPajB4bmY0Rms1SFpfUi1PWXIzQldYT2kzN3k3a3ZZWjRLb0RxZ254VnJBcGhZVnZBMmNNSGh2LVJ6ak9qRVJDS2twaDdBWGhnQjVmX1lROTgxMDREc3ozbHdJ?oc=5",
-          "source": "AP",
-          "sourceId": "ap_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sat, 21 Feb 2026 21:25:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQRkZIYVlvbTl5aGpPTjBKRmRwdkM3Z0RxcEY2ZUlRa041My1TcnhON0lyMGhJSjYtOVpuNWJEVEVMOEdrQmtnQjQ3TF9raDJOZnZfVnhPajB4bmY0Rms1SFpfUi1PWXIzQldYT2k"
-        },
-        {
-          "headline": "Thiam scores career-high 28 to lead Cincinnati to an 84-68 upset of No. 8 Kansas - AP News",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR2N4NGhpWEpMc0JyRUxLeFgyanVhZHJGd3ZfQThGZXZtZW1ld25OX3IzRVZUMEhvaE1VaGtQNGk3cERJdU51cndxQU90TnM1SzZFVXJ5My05Q3N0ZmY3SmN2RzlrcmVITU1YQjBoZGF2TkQ2RWJSclVTYk11U3FNZXViVk8tSWZrMFZB?oc=5",
-          "source": "AP",
-          "sourceId": "ap_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sat, 21 Feb 2026 20:29:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR2N4NGhpWEpMc0JyRUxLeFgyanVhZHJGd3ZfQThGZXZtZW1ld25OX3IzRVZUMEhvaE1VaGtQNGk3cERJdU51cndxQU90TnM1SzZFVXJ5My05Q3N0ZmY3SmN2RzlrcmVITU1YQjB"
+          "date": "Sat, 21 Feb 2026 20:07:23 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQdFhrVGlwVnoxWVBId1lPcXZQc3hjSDZrbzk5RldJV25HX0wtSUp1Tk9Ecjlvc19JVXdGSjNXTjU0bklRb296aWh3bG1YLTBhNVZXU0VwckJVU05USkh0X2V6dUFSTnFtUTJERHV"
         },
         {
           "headline": "Germany's Merz hopes for relief after Trump tariff verdict but uncertainty lingers - Reuters",
@@ -1620,34 +1340,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQNTVxT0xGVFhLTm1QX1NLTThSQUVjOGZNeWdGT0hIdWMyM2hPbHZQRF9GN0RhT3g5eGFrYzhCZEZ4QnVJNHhQQzMxaEVGQWE0d0cxWU9QMFNMSFJOZFhweHFBWmNKV2NLLWR1MzZ"
         },
         {
-          "headline": "With tariffs ruling, Supreme Court reasserts its power to check Trump​ - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVHZ3clAzQ2FaUWFvS0hrMWw4aG9zMDZJdjFwcTJ0SDdDZTg4Uk8tRFM0ZlRVN0F1YTdMbThjb010OV9HVGZQVG1rbUgwUU1SMGRnRDBxNF9MWlVoLUFhdWJqUU5iMFBpWDlmUkxNZ1pBNnQybm94M3hYSldPV3ZNaHhObGU4c2VQV21LZVo0b014aXFWNE43azFqelQzTG1TUnZxYWdRMFBQUk50XzZn?oc=5",
+          "headline": "BNSF Says Mainlines Are Back Open And Operational After A Train Derailment Near Angora, NE, On Feb 20 - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOQ3NQcjM1dFR3bDNSSHVlaDhkX0U5MHh4VGxYNWZNdW1TVGx6TXAxR2RFbDFiOHJNa1NRQzVIcG9RbVl4Qm85OHc4UDFCU2hQMXdIRUhZLXlaWkhVRVJfYXNTVUNrYWJVT3dWRFFuLTlyTmlwbzV5SzJCT00xdkpXVFZ4a05tVmhubzJ2Q0hzWUhwNzFTZGFTcF9UeFRFbVAyMUYyWVB0R0J2ZkRHX2NhRGtmQWNuZVM1eUJGUGV1c2FMcjJBRmJVWmZicVRUeHk2X0FzSmM1ZWVDcjhudUkxTUtYcnhLQXAtMHVlV2tobGtkRWRpRFViWXQzNGdGQQ?oc=5",
           "source": "Reuters",
           "sourceId": "reuters_world",
           "category": "wire",
           "priority": "primary",
-          "date": "Sat, 21 Feb 2026 11:06:20 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPVHZ3clAzQ2FaUWFvS0hrMWw4aG9zMDZJdjFwcTJ0SDdDZTg4Uk8tRFM0ZlRVN0F1YTdMbThjb010OV9HVGZQVG1rbUgwUU1SMGRnRDBxNF9MWlVoLUFhdWJqUU5iMFBpWDlmUkx"
-        },
-        {
-          "headline": "ECB's Panetta says Chinese imports helped drive sharper‑than‑forecast inflation drop - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYXZOY3FZM0RhemxNSDBDN1BkM212cFkzVi0zeE81MnBObldlWmFqOEU1MHMtVWotaWE3am1wR3ZUSDNrelkwaU5nOXFGYWxHUnMwMl9oTG9IYkFsVU5BVFppTlFsQjFGYzJKc3BCMjdVcWNBTjZtWDhyXzVISHA1dUpxWUYxVkNsMUlZNE91RmF2RjRoU0hqZ29FanZaV2duRjRJdV9saVV2U05fcUVQS3JHX0dicDFfSzc2SENUZjlOZw?oc=5",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sat, 21 Feb 2026 10:34:39 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYXZOY3FZM0RhemxNSDBDN1BkM212cFkzVi0zeE81MnBObldlWmFqOEU1MHMtVWotaWE3am1wR3ZUSDNrelkwaU5nOXFGYWxHUnMwMl9oTG9IYkFsVU5BVFppTlFsQjFGYzJKc3B"
-        },
-        {
-          "headline": "Iranian students begin new university term with protests - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQb3V5cUtNcGZHeENfczBSV1JHeW92NjIyUmlac1ppMmV2MEtWU1F2X2pzYnBjQTZ6dXVFWHpEQkdEaEthV1VPYVJUM2ZERWkxUTNDVWNvRWtJRmZBOUtmUWJkbUZmNFBPX0ZXdnNCTjFLMHJkcDRuNkNHcnVrdVdoTU1Wa2NSZUV6QmZVUjZrZUhibzNNNHZMdXhQS0NiZG9zN05fRjY2QjZDMTFwM29J?oc=5",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sat, 21 Feb 2026 17:30:48 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQb3V5cUtNcGZHeENfczBSV1JHeW92NjIyUmlac1ppMmV2MEtWU1F2X2pzYnBjQTZ6dXVFWHpEQkdEaEthV1VPYVJUM2ZERWkxUTNDVWNvRWtJRmZBOUtmUWJkbUZmNFBPX0ZXdnN"
+          "date": "Sun, 22 Feb 2026 00:11:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxOQ3NQcjM1dFR3bDNSSHVlaDhkX0U5MHh4VGxYNWZNdW1TVGx6TXAxR2RFbDFiOHJNa1NRQzVIcG9RbVl4Qm85OHc4UDFCU2hQMXdIRUhZLXlaWkhVRVJfYXNTVUNrYWJVT3dWRFF"
         },
         {
           "headline": "After court ruling, Trump says US global tariff rate will rise from 10% to 15% - Reuters",
@@ -1660,6 +1360,46 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPb0JETzNzZUstNjZNaW9XN1FEMjNVaThScS1rWFdlT2VNTVYxck8xY0V3SXlacHJPdVdoaUpVNTZnTkd5T1U2cmFPd25pdVpIUHJFUS1kQXZjQU1peFJQWGJ6aVVtSTRjc2JVS2h"
         },
         {
+          "headline": "Asma Khan on cooking with conscience - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVUdnWW13YnhMRl9PQzU4YVlmTHNFbG1YeFo3djlHdEFMVUNhLXR2Q1kyanNhcmpqRHpmRU9RWHN0UW0zemRRX3EyMHUwWVFIZTNUci1QRi1vNlNPREhINklmS29RRkVhb3pMV3MtZ1RyR1B1aU1DY3pjcl9VcDBGdUtKRzYzeGpESlE2bHFfR1VfQXhZZ0MzeFQ5aG5Udm42OTlyZlNSclVrUQ?oc=5",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sat, 21 Feb 2026 11:00:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVUdnWW13YnhMRl9PQzU4YVlmTHNFbG1YeFo3djlHdEFMVUNhLXR2Q1kyanNhcmpqRHpmRU9RWHN0UW0zemRRX3EyMHUwWVFIZTNUci1QRi1vNlNPREhINklmS29RRkVhb3pMV3M"
+        },
+        {
+          "headline": "ECB's Panetta says Chinese imports helped drive sharper‑than‑forecast inflation drop - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYXZOY3FZM0RhemxNSDBDN1BkM212cFkzVi0zeE81MnBObldlWmFqOEU1MHMtVWotaWE3am1wR3ZUSDNrelkwaU5nOXFGYWxHUnMwMl9oTG9IYkFsVU5BVFppTlFsQjFGYzJKc3BCMjdVcWNBTjZtWDhyXzVISHA1dUpxWUYxVkNsMUlZNE91RmF2RjRoU0hqZ29FanZaV2duRjRJdV9saVV2U05fcUVQS3JHX0dicDFfSzc2SENUZjlOZw?oc=5",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sat, 21 Feb 2026 10:34:39 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYXZOY3FZM0RhemxNSDBDN1BkM212cFkzVi0zeE81MnBObldlWmFqOEU1MHMtVWotaWE3am1wR3ZUSDNrelkwaU5nOXFGYWxHUnMwMl9oTG9IYkFsVU5BVFppTlFsQjFGYzJKc3B"
+        },
+        {
+          "headline": "With tariffs ruling, Supreme Court reasserts its power to check Trump​ - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVHZ3clAzQ2FaUWFvS0hrMWw4aG9zMDZJdjFwcTJ0SDdDZTg4Uk8tRFM0ZlRVN0F1YTdMbThjb010OV9HVGZQVG1rbUgwUU1SMGRnRDBxNF9MWlVoLUFhdWJqUU5iMFBpWDlmUkxNZ1pBNnQybm94M3hYSldPV3ZNaHhObGU4c2VQV21LZVo0b014aXFWNE43azFqelQzTG1TUnZxYWdRMFBQUk50XzZn?oc=5",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sat, 21 Feb 2026 11:06:20 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPVHZ3clAzQ2FaUWFvS0hrMWw4aG9zMDZJdjFwcTJ0SDdDZTg4Uk8tRFM0ZlRVN0F1YTdMbThjb010OV9HVGZQVG1rbUgwUU1SMGRnRDBxNF9MWlVoLUFhdWJqUU5iMFBpWDlmUkx"
+        },
+        {
+          "headline": "NASA may take moon mission Artemis II rocket back to assembly site, affecting March launch window - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQclpPVTFhQzZlQTZBb2hTYUY4dkZiazVwREVOTS1Ec1Jzbk5RQ0hLdkFTOEFMQ2s3ODRyVkk0Q2x6NkV3dklyR2VxNkVBNzJHUEcyNWFDZ2hfUXQ0aklUQkM5bXNaNWgwUUM3c0FvVW1nTEdoU0ZyVU1sRl9YbWJxTndNcG00N2drOThnRWZuemJVSmEwQXNQNVVGM0stblRIcVBxWDBtcTBfOWczN3c4?oc=5",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sat, 21 Feb 2026 15:58:54 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQclpPVTFhQzZlQTZBb2hTYUY4dkZiazVwREVOTS1Ec1Jzbk5RQ0hLdkFTOEFMQ2s3ODRyVkk0Q2x6NkV3dklyR2VxNkVBNzJHUEcyNWFDZ2hfUXQ0aklUQkM5bXNaNWgwUUM3c0F"
+        },
+        {
           "headline": "Germany's ruling party backs social media curbs for children - Reuters",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdVZBN0dSbFdFQ3BTOEJlOGhiQ0VrN0RGcXFCb21OamZkM055U1V1aGcweFZZU2QyeENZNjdvMWczM0RiVEozSGtSQjNMcS1Id1hmTzhISlVuT3VkcVhQQXJmWkFXTEVMQkNuNEIyNTkwUWJsNkk1SXY4TnUxSTA3Y25EbnlMQUVJaWQ2TzdSc0UwbjRwRGppSUVsdW10eUo3bnF4NzJ2R1Z6THlpNzE0UjBockM?oc=5",
           "source": "Reuters",
@@ -1668,6 +1408,16 @@
           "priority": "primary",
           "date": "Sat, 21 Feb 2026 14:08:05 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNdVZBN0dSbFdFQ3BTOEJlOGhiQ0VrN0RGcXFCb21OamZkM055U1V1aGcweFZZU2QyeENZNjdvMWczM0RiVEozSGtSQjNMcS1Id1hmTzhISlVuT3VkcVhQQXJmWkFXTEVMQkNuNEI"
+        },
+        {
+          "headline": "Iranian students begin new university term with protests - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQb3V5cUtNcGZHeENfczBSV1JHeW92NjIyUmlac1ppMmV2MEtWU1F2X2pzYnBjQTZ6dXVFWHpEQkdEaEthV1VPYVJUM2ZERWkxUTNDVWNvRWtJRmZBOUtmUWJkbUZmNFBPX0ZXdnNCTjFLMHJkcDRuNkNHcnVrdVdoTU1Wa2NSZUV6QmZVUjZrZUhibzNNNHZMdXhQS0NiZG9zN05fRjY2QjZDMTFwM29J?oc=5",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sat, 21 Feb 2026 17:30:48 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQb3V5cUtNcGZHeENfczBSV1JHeW92NjIyUmlac1ppMmV2MEtWU1F2X2pzYnBjQTZ6dXVFWHpEQkdEaEthV1VPYVJUM2ZERWkxUTNDVWNvRWtJRmZBOUtmUWJkbUZmNFBPX0ZXdnN"
         },
         {
           "headline": "Asian economies weigh impact of fresh Trump tariff moves, confusion - Reuters",
@@ -1680,26 +1430,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxON1FHRzZCU0dTdFlpWUpBRlU4MmxXYWQ0eDNYaUJ5cXJxbElXd0RDOTFiU19XeFB6YkJLWWFsOENMNk5uYWdvS2RXdFNlU01ZbFd1MnkxS2t1UVBoSDBTblF3bXNic2hwNllyYkp"
         },
         {
-          "headline": "Ukraine hits Russian ballistic missiles producer in Udmurtia, Kyiv says - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVkhxdS1VVjh6dV96TndHazVVdkJMQlZRa1RQQm1ZUXI4U0hHQUhhazBzS1JWZk9CTHZNdHNRcHFDVV9QenRQSC05MzEwQU9DMGUwM0Z6MFc0QzVEZVZFcXVQMnpmcXEzYzFDaVZ6THVUXzExSElvdnNlUXJzalFnNHBKbzVvNjEzdUVDS3FSNUttbm1acUlYeTVJMVZWY1NfQ1BJZUVySU5CYlBKUlVVTmNaZTljYms?oc=5",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sat, 21 Feb 2026 14:02:52 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQVkhxdS1VVjh6dV96TndHazVVdkJMQlZRa1RQQm1ZUXI4U0hHQUhhazBzS1JWZk9CTHZNdHNRcHFDVV9QenRQSC05MzEwQU9DMGUwM0Z6MFc0QzVEZVZFcXVQMnpmcXEzYzFDaVZ"
-        },
-        {
-          "headline": "Trump meets Vietnam leader, vows to remove Hanoi from restricted lists - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdWoxSThyOG9Fcnh2S2lwNWlOcFcwbVlDNzhReGVqa29MWV9uMFlSY1EteXdnQzlUN29Fa00tR0tWVUMyLUNRRzdfOEFaX1l2U0c5ZzMwWTdaMG1FbWhBRDV1S2UwWVBSQmMzdGR0azczbGpFVFJMN0pxVEdNTUVwU1dVMk5ON0hIQkI5NDB4WDNqVTIzNDE1cUpCTkxXbXFrSkVOOFZtZERJZUFCY3FzSlVEdzJXTjBqekdoZjFJQm81QQ?oc=5",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sat, 21 Feb 2026 01:40:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdWoxSThyOG9Fcnh2S2lwNWlOcFcwbVlDNzhReGVqa29MWV9uMFlSY1EteXdnQzlUN29Fa00tR0tWVUMyLUNRRzdfOEFaX1l2U0c5ZzMwWTdaMG1FbWhBRDV1S2UwWVBSQmMzdGR"
-        },
-        {
           "headline": "Exclusive: Cuban security forces exit Venezuela as US pressure mounts - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLUpOZlNMNUV4TzFHR1dTR1ZZYncyNlFoVkFYcUdKZkZHWUV5cmJXQzFnOXF3aXNIaHR1X1NOcEN1OHZnRnR4Qmk2XzVFY0tlbEtFMkRkaXVrdDFnXzFMXzFuaG80RnQwQkZFOW01ZVJGTXJCV1JvMWh6WVI4anZmYTFWVWhodEZJYXVydkg5VU93VFpfSnhraWZLOUVPZ09lakIwdHFNaFJoUQ?oc=5",
           "source": "Reuters",
@@ -1710,54 +1440,34 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLUpOZlNMNUV4TzFHR1dTR1ZZYncyNlFoVkFYcUdKZkZHWUV5cmJXQzFnOXF3aXNIaHR1X1NOcEN1OHZnRnR4Qmk2XzVFY0tlbEtFMkRkaXVrdDFnXzFMXzFuaG80RnQwQkZFOW0"
         },
         {
-          "headline": "USTR expects new Section 301 probes to cover most major trading partners - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX191cFpsSVM4SDhMVUc0S01xOWlUckJTaUhLcXd0VFNiYllJWFpQU2lOYUs1dm0wWmJDQlRhUy0wOE85c1JOWDBXYmxuSGFJMlNuOTlPZWdfMENvbTdrdEJ5NVcydWhvaHdoWFNvRERDX2xtSFROMlM5ZWdQSzZzVTNUcmhERy1fOUxwSVV6R2M0NnhvSmZJNGh4WnJBc3c1RDJqc3I5X3RrZXZKVjM3Zkl2NmRRNXdy?oc=5",
+          "headline": "Citi bolsters private bank leadership in North America push - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOVBUZkdISFBGOXRDS081UlBSMFA2Z1ZsVDU3Y3FIX2EtVDQ5aFRuVjRsNUxrbzhQTnF5RGZwVDA4OXJNOHNHNmEtS2p6cjdLRTh4MTNtbkdKMVJ3R2MtRW9sb3NERVprcE1qTWFIbWxOd1dBZURWUHdzRmRkdEMxWUZ1YWxfbmFxMS1mWGVleUFYREs2bVM1N1NKS1NCbHdqdlczRndfT3JOQlYyV3c?oc=5",
           "source": "Reuters",
           "sourceId": "reuters_world",
           "category": "wire",
           "priority": "primary",
-          "date": "Sat, 21 Feb 2026 01:09:42 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX191cFpsSVM4SDhMVUc0S01xOWlUckJTaUhLcXd0VFNiYllJWFpQU2lOYUs1dm0wWmJDQlRhUy0wOE85c1JOWDBXYmxuSGFJMlNuOTlPZWdfMENvbTdrdEJ5NVcydWhvaHdoWFN"
+          "date": "Sat, 21 Feb 2026 04:09:24 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNOVBUZkdISFBGOXRDS081UlBSMFA2Z1ZsVDU3Y3FIX2EtVDQ5aFRuVjRsNUxrbzhQTnF5RGZwVDA4OXJNOHNHNmEtS2p6cjdLRTh4MTNtbkdKMVJ3R2MtRW9sb3NERVprcE1qTWF"
         },
         {
-          "headline": "Toymaker assesses next steps in US Supreme Court tariff refund battle - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeEdoWHZuMmNUS2lfa1NSM1ZKSks3WTJJeFRhaVpuOGNVQTFnUHVtUmxCX002WDZ4Mnp4MUFXbnBIdWlUaWQ3Sl9LdGZlYUFXVXJEVmxFTklXcmFmMUc2RU9STjZ6TFdUR2VZWW1VZmhKZkllbVFEWXBlMW44UDZZUUtldk5OUnowNmpxRndpZzhrUjk4LXA0YzFUNkdqaGtFanAzRExBaVlNc3UzeVc3X3VPNDlIbWZ3Vk9J?oc=5",
+          "headline": "Ukraine hits Russian ballistic missiles producer in Udmurtia, Kyiv says - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVkhxdS1VVjh6dV96TndHazVVdkJMQlZRa1RQQm1ZUXI4U0hHQUhhazBzS1JWZk9CTHZNdHNRcHFDVV9QenRQSC05MzEwQU9DMGUwM0Z6MFc0QzVEZVZFcXVQMnpmcXEzYzFDaVZ6THVUXzExSElvdnNlUXJzalFnNHBKbzVvNjEzdUVDS3FSNUttbm1acUlYeTVJMVZWY1NfQ1BJZUVySU5CYlBKUlVVTmNaZTljYms?oc=5",
           "source": "Reuters",
           "sourceId": "reuters_world",
           "category": "wire",
           "priority": "primary",
-          "date": "Sat, 21 Feb 2026 00:03:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeEdoWHZuMmNUS2lfa1NSM1ZKSks3WTJJeFRhaVpuOGNVQTFnUHVtUmxCX002WDZ4Mnp4MUFXbnBIdWlUaWQ3Sl9LdGZlYUFXVXJEVmxFTklXcmFmMUc2RU9STjZ6TFdUR2VZWW1"
+          "date": "Sat, 21 Feb 2026 14:02:52 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQVkhxdS1VVjh6dV96TndHazVVdkJMQlZRa1RQQm1ZUXI4U0hHQUhhazBzS1JWZk9CTHZNdHNRcHFDVV9QenRQSC05MzEwQU9DMGUwM0Z6MFc0QzVEZVZFcXVQMnpmcXEzYzFDaVZ"
         },
         {
-          "headline": "Trump furious after Supreme Court upends his global tariffs, imposes new 10% levy - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUThRaldmcVNRdnUycVRMZHJMSmVXS0xfS2Rvb0s2V1FHMFdNYnktUkJZNmVTMkVyTGhOX1JVWWVKS1AxMDJuT1FYc0dNU2ZSbGJoY2NUWGc5NFNtRmdtdURudHJCbGdPc1lZRm4yc18zLTZZMjdTcVpycHFwLVN3czBwZ1ZNRWlIRFROcU9xLWpabHcwMEdlZXJCZG5rcklvS0pFTXczRG1hTWV1UTRnRDBlVkg1X2stT0lUVEl1NWpRTUhKTTNtNA?oc=5",
+          "headline": "For Europe Inc, US tariff relief comes with a sting in the tail - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMnU1VFN5M3NYbXNDaHpVUU1aZHg5T3RHeDlqVjNBQ25oRlR0X1p3c0hDZU82SVVya3M5MmpJOGhkVmV0bU00SUY5anVUbzRvOWdERTVCTk5MZF9NYk9rQTdJWTM3NTNFOHF0WW9HVmU3a2FrNURxX2Flb0J2OUx4R3BRcmJua3FTR3k2cTBfQl9EX0t3VFlFSi1uQ2g5cm8?oc=5",
           "source": "Reuters",
           "sourceId": "reuters_world",
           "category": "wire",
           "priority": "primary",
-          "date": "Fri, 20 Feb 2026 23:31:24 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUThRaldmcVNRdnUycVRMZHJMSmVXS0xfS2Rvb0s2V1FHMFdNYnktUkJZNmVTMkVyTGhOX1JVWWVKS1AxMDJuT1FYc0dNU2ZSbGJoY2NUWGc5NFNtRmdtdURudHJCbGdPc1lZRm4"
-        },
-        {
-          "headline": "TXNM Energy gets FERC approval for $11.5 billion Blackstone deal - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQckJ5R29VWFppcnMySnlTbTB4a3ZEXzVMTjhVT0lsY0tlT1JTOVEwRnE4NGlBTmpVUmxIWnJDTmo5YjdHbWl2VjE0X2N5czdMVURhWXlVdVd0NUEyZjIzbnk1SWtqUFhIenpDRG10NkRrR3FhSXQtVUE4akxyUDk2RHNTY21ITUluSGpsbmlpY1d0cWNvbjNRSk1LQXMxLThsYVpGZXBva0FSQVFOS2JWeWVuOXg?oc=5",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Fri, 20 Feb 2026 23:51:36 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQckJ5R29VWFppcnMySnlTbTB4a3ZEXzVMTjhVT0lsY0tlT1JTOVEwRnE4NGlBTmpVUmxIWnJDTmo5YjdHbWl2VjE0X2N5czdMVURhWXlVdVd0NUEyZjIzbnk1SWtqUFhIenpDRG1"
-        },
-        {
-          "headline": "Supreme Court tariff ruling clouds Fed's rate path after a year of upheaval - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSEpzQWxRWm82RURTNkdXQzdQaXJfUE5vZlg3STJ5bXpNRDlqREw4OE5iZzVNRzI2ZFVqZm12aWlHelpCbGlCYjBaYXUzeXVteGM1bzJIUzRucWU1cGpXR3c0Q3BhWndfTkY1MHNqU3cwRGFhci1MVFg1R2MwdkV4YUZINkhGREwwdjVFbUw5R2VtZWpTcXVFdjUzSkR2cXZaeVRhYjk5WW5NNWZLNnBLQldTZDY?oc=5",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Fri, 20 Feb 2026 23:04:42 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQSEpzQWxRWm82RURTNkdXQzdQaXJfUE5vZlg3STJ5bXpNRDlqREw4OE5iZzVNRzI2ZFVqZm12aWlHelpCbGlCYjBaYXUzeXVteGM1bzJIUzRucWU1cGpXR3c0Q3BhWndfTkY1MHN"
+          "date": "Sat, 21 Feb 2026 06:22:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQMnU1VFN5M3NYbXNDaHpVUU1aZHg5T3RHeDlqVjNBQ25oRlR0X1p3c0hDZU82SVVya3M5MmpJOGhkVmV0bU00SUY5anVUbzRvOWdERTVCTk5MZF9NYk9rQTdJWTM3NTNFOHF0WW9"
         },
         {
           "headline": "More than 1,500 prisoners set for release under Venezuela's new amnesty law",
@@ -1912,13 +1622,13 @@
       ],
       "general": [
         {
-          "headline": "Iran students stage first anti-government protests since deadly crackdown",
+          "headline": "Iran students stage first large anti-government protests since deadly crackdown",
           "url": "https://www.bbc.com/news/articles/c5yj2kzkrj0o?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC",
           "sourceId": "bbc_world",
           "category": "general",
           "priority": "primary",
-          "date": "Sat, 21 Feb 2026 20:00:06 GMT",
+          "date": "Sat, 21 Feb 2026 22:09:19 GMT",
           "description": "The student protesters honoured thousands of those killed when nationwide mass protests were put down last month."
         },
         {
@@ -2378,7 +2088,7 @@
           "sourceId": "nyt_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Sat, 21 Feb 2026 21:14:24 +0000",
+          "date": "Sat, 21 Feb 2026 22:06:52 +0000",
           "description": "Students helped grow initial protests into a national movement crushed by the government. As the new semester began, they chanted and marched again."
         },
         {
@@ -2512,6 +2222,46 @@
           "description": "Jorrit Bergsma, a gold medalist back in 2014, is now 40. But he rolled back the years to win gold."
         },
         {
+          "headline": "Pakistan carries out strikes in Afghanistan after spate of suicide attacks",
+          "url": "https://www.aljazeera.com/news/2026/2/22/pakistan-carries-out-strikes-in-afghanistan-after-islamabad-suicide-attack?traffic_source=rss",
+          "source": "Al Jazeera",
+          "sourceId": "aljazeera",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 01:04:28 +0000",
+          "description": "Afghan sources say the Pakistani strikes hit the border provinces of Paktika and Nangarhar."
+        },
+        {
+          "headline": "Nico O’Reilly double seals key 2-1 win for Man City over Newcastle United",
+          "url": "https://www.aljazeera.com/sports/2026/2/21/nico-oreilly-double-seals-key-2-1-win-for-man-city-over-newcastle-united?traffic_source=rss",
+          "source": "Al Jazeera",
+          "sourceId": "aljazeera",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Sat, 21 Feb 2026 22:36:04 +0000",
+          "description": "Manchester City&#039;s win cut Arsenal&#039;s lead at the top of the Premier League to two points."
+        },
+        {
+          "headline": "Trump’s tariff regime has been ruled unlawful. What are the implications?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/2/21/trumps-tariff-regime-ruled-unlawful-what-are-the-implications?traffic_source=rss",
+          "source": "Al Jazeera",
+          "sourceId": "aljazeera",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Sat, 21 Feb 2026 22:31:17 +0000",
+          "description": "The US Supreme Court has struck down President Donald Trump&#039;s central policy."
+        },
+        {
+          "headline": "Venezuela receives more than 1,500 amnesty requests under new law",
+          "url": "https://www.aljazeera.com/news/2026/2/21/venezuela-receives-more-than-1500-amnesty-requests-under-new-law?traffic_source=rss",
+          "source": "Al Jazeera",
+          "sourceId": "aljazeera",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Sat, 21 Feb 2026 22:12:20 +0000",
+          "description": "More than 370 political prisoners have already been granted amnesty under the US-backed legislation."
+        },
+        {
           "headline": "‘Absurd and provocative’: Huckabee faces firestorm for Israel border stance",
           "url": "https://www.aljazeera.com/news/2026/2/21/absurd-and-provocative-huckabee-faces-firestorm-for-israel-border-stance?traffic_source=rss",
           "source": "Al Jazeera",
@@ -2572,14 +2322,14 @@
           "description": "Persistent rain in Colombo forces abandonment of Pakistan&#039;s game with New Zealand, which was to open Super Eights stage."
         },
         {
-          "headline": "LIVE: Manchester City vs Newcastle United – Premier League",
+          "headline": "Manchester City vs Newcastle United 2-1: Premier League – as it happened",
           "url": "https://www.aljazeera.com/sports/liveblog/2026/2/21/live-manchester-city-vs-newcastle-united-premier-league?traffic_source=rss",
           "source": "Al Jazeera",
           "sourceId": "aljazeera",
           "category": "general",
           "priority": "secondary",
           "date": "Sat, 21 Feb 2026 17:00:00 +0000",
-          "description": "Follow the build-up, analysis and live text commentary of the game as City host Newcastle at the Etihad Stadium."
+          "description": "All the updates as a Nico O&#039;Reilly brace gives City a 2-1 win over Newcastle United at Etihad Stadium."
         },
         {
           "headline": "Russian attack on Kharkiv kills two, Ukraine hits missile plant",
@@ -2620,46 +2370,6 @@
           "priority": "secondary",
           "date": "Sat, 21 Feb 2026 12:27:23 +0000",
           "description": "More than 150 giant tortoises have been reintroduced to Ecuador’s Floreana Island in the Galapagos."
-        },
-        {
-          "headline": "Iran demands ‘evidence’ as Trump, UN experts highlight protest killings",
-          "url": "https://www.aljazeera.com/news/2026/2/21/iran-demands-evidence-as-trump-un-experts-highlight-protest-killings?traffic_source=rss",
-          "source": "Al Jazeera",
-          "sourceId": "aljazeera",
-          "category": "general",
-          "priority": "secondary",
-          "date": "Sat, 21 Feb 2026 11:54:58 +0000",
-          "description": "UN experts said discrepancy between official figures and grassroots estimates is compounding the anguish of families."
-        },
-        {
-          "headline": "Israel wants to execute Palestinians and the world will allow it",
-          "url": "https://www.aljazeera.com/opinions/2026/2/21/israel-wants-to-execute-palestinians-and-the-world-will-allow-it?traffic_source=rss",
-          "source": "Al Jazeera",
-          "sourceId": "aljazeera",
-          "category": "general",
-          "priority": "secondary",
-          "date": "Sat, 21 Feb 2026 11:45:22 +0000",
-          "description": "An execution bill is being pushed through the Knesset. International indifference paved its way for it."
-        },
-        {
-          "headline": "India signs critical minerals deal with Brazil to curb dependance on China",
-          "url": "https://www.aljazeera.com/news/2026/2/21/india-brazil-sign-critical-minerals-deal-as-partners-seek-trade-growth?traffic_source=rss",
-          "source": "Al Jazeera",
-          "sourceId": "aljazeera",
-          "category": "general",
-          "priority": "secondary",
-          "date": "Sat, 21 Feb 2026 11:24:19 +0000",
-          "description": "Brazilian President Lula called the critical minerals and rare earths deal the &#039;core of the pioneering agreement&#039;."
-        },
-        {
-          "headline": "Pakistan vs New Zealand abandoned: T20 World Cup Super Eights – updates",
-          "url": "https://www.aljazeera.com/sports/liveblog/2026/2/21/live-pakistan-vs-new-zealand-t20-world-cup-super-eights?traffic_source=rss",
-          "source": "Al Jazeera",
-          "sourceId": "aljazeera",
-          "category": "general",
-          "priority": "secondary",
-          "date": "Sat, 21 Feb 2026 10:30:32 +0000",
-          "description": "All our updates from our live text commentary stream of the abandoned Super Eights opener in Colombo."
         }
       ],
       "business": [
@@ -2724,6 +2434,26 @@
           "description": "Slogans chanted on campuses in Tehran as new academic semester begins"
         },
         {
+          "headline": "Centerview settles lawsuit over analyst’s need for 8 hours’ sleep",
+          "url": "https://www.ft.com/content/a5271651-825e-4007-a029-9e2c16b5d770",
+          "source": "Financial Times",
+          "sourceId": "ft_home",
+          "category": "business",
+          "priority": "primary",
+          "date": "Sun, 22 Feb 2026 01:31:59 GMT",
+          "description": "Case brought by Kathryn Shiber fuelled debate about junior bankers’ working hours"
+        },
+        {
+          "headline": "Trump demands Netflix remove former Obama official from board",
+          "url": "https://www.ft.com/content/165878b9-2984-4df9-ba8a-c19f133e9ad8",
+          "source": "Financial Times",
+          "sourceId": "ft_home",
+          "category": "business",
+          "priority": "primary",
+          "date": "Sun, 22 Feb 2026 00:31:17 GMT",
+          "description": "President steps back into fight between streamer and Paramount Skydance to acquire Warner Bros Discovery"
+        },
+        {
           "headline": "Yacht boom propels $700mn-plus Stonepeak marina deal",
           "url": "https://www.ft.com/content/2a588350-a7f7-460f-900e-812a779d7cde",
           "source": "Financial Times",
@@ -2742,16 +2472,6 @@
           "priority": "primary",
           "date": "Sat, 21 Feb 2026 19:36:28 GMT",
           "description": "Diplomat tells Tucker Carlson it ‘would be fine’ if Israel took over a swath of the region"
-        },
-        {
-          "headline": "Latham & Watkins poaches two more partners from rival Wachtell Lipton",
-          "url": "https://www.ft.com/content/5d5af0c0-d46b-4bdb-8455-0564d56104ee",
-          "source": "Financial Times",
-          "sourceId": "ft_home",
-          "category": "business",
-          "priority": "primary",
-          "date": "Sat, 21 Feb 2026 19:55:58 GMT",
-          "description": "The New York-based Wachtell has suffered rare defections in a hot market for top deals lawyers"
         },
         {
           "headline": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
@@ -2908,154 +2628,14 @@
     "byPriority": {
       "primary": [
         {
-          "headline": "US military airlifts small reactor as Trump pushes to quickly deploy nuclear power - AP News",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVDduTW9kd09RXy1YN3FMeXI0bzRyTTVfeDZKNURrMGNqMC03dFJQVFBNVENVSHJxa2hLeWtUVW5ISEpIc1JpZEpxTjZNcUFhRXF3bkJfeEptZlJnRkxhLUZsS0RGaGM1Ym51UkRnMkRpM2hBSkNLekF3VlRQZFJZRUVMQV92dFdVM3J2alBhNWNTUlRzUHFDV0hXbEpaMHZhcnpMeA?oc=5",
-          "source": "AP",
-          "sourceId": "ap_world",
+          "headline": "UAE foils cyber attacks, state news agency says - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdFhrVGlwVnoxWVBId1lPcXZQc3hjSDZrbzk5RldJV25HX0wtSUp1Tk9Ecjlvc19JVXdGSjNXTjU0bklRb296aWh3bG1YLTBhNVZXU0VwckJVU05USkh0X2V6dUFSTnFtUTJERHVFeE9IRF9KUmRKbDdUbU8xU3o2Sl9POVRWNmhXbVMwZmw2dk01TkNCdkJZLWVLVThZZHhuUlE?oc=5",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
           "category": "wire",
           "priority": "primary",
-          "date": "Sat, 21 Feb 2026 17:09:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNVDduTW9kd09RXy1YN3FMeXI0bzRyTTVfeDZKNURrMGNqMC03dFJQVFBNVENVSHJxa2hLeWtUVW5ISEpIc1JpZEpxTjZNcUFhRXF3bkJfeEptZlJnRkxhLUZsS0RGaGM1Ym51UkR"
-        },
-        {
-          "headline": "JPMorgan concedes it closed Trump’s accounts after Jan. 6 attack - AP News",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQ0t0bjBlamNtQmx0ZXN2QnR1TVVucGRteUZIaTR2QmlDSUpQdEx5TWVMRW8wTThqS1QydE51QkV1cDFQWWJqWmNvVDFVeWxpckIzdHN0V25PNnp2SGM5NWxWMVZONXE0SVg1QktkdUJ5TF9mQkhsVXhYVTB1aDJrRTF6R3YxX3hPZlRTSllOekwxX1pm?oc=5",
-          "source": "AP",
-          "sourceId": "ap_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sat, 21 Feb 2026 20:58:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNQ0t0bjBlamNtQmx0ZXN2QnR1TVVucGRteUZIaTR2QmlDSUpQdEx5TWVMRW8wTThqS1QydE51QkV1cDFQWWJqWmNvVDFVeWxpckIzdHN0V25PNnp2SGM5NWxWMVZONXE0SVg1Qkt"
-        },
-        {
-          "headline": "ICE’s purchases for big detention centers are marked by secrecy, frustrating towns - AP News",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeWxZWHBhcUhRb0lQVGdZRmtVMFdmMHljcG1BS0d6c1M4bU4wVmZiUWVETTUxTTg0N0txbDBqeUNJSmZ1Y2Z1RVkySGpkdW5NdV94T3pQc3VyQkJlSTIxSEVtZElQS1NvNDRnVGJkb1IwaUN5Ry0tRzhFLS0xSG5kUkoxeExxLWVzVWhBWEJYTE9tdjd4T0pvakVDV1VheGs?oc=5",
-          "source": "AP",
-          "sourceId": "ap_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sat, 21 Feb 2026 16:54:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPeWxZWHBhcUhRb0lQVGdZRmtVMFdmMHljcG1BS0d6c1M4bU4wVmZiUWVETTUxTTg0N0txbDBqeUNJSmZ1Y2Z1RVkySGpkdW5NdV94T3pQc3VyQkJlSTIxSEVtZElQS1NvNDRnVGJ"
-        },
-        {
-          "headline": "Global leaders and businesses pore over fallout of more US tariff swoons - AP News",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVjl3Y29hTHRRTkExeEZnZlBFdWtIWW80Z19hbDdhLV9qQnUxdHVoTkVaalRSMDBzeXJMWWFiTW9RM1ZmeG1KUFJNbEtDM2ZKeXBvU1VaSUo5WVVvV2xIQzhaNEQ5VVhxN0NMazlGYzRYcUVFbnlpbzF0RTJlaHZBMEZpNTNPbHRhb1FZTWNvZDNMZ2libkZKTktzeWxLUWJL?oc=5",
-          "source": "AP",
-          "sourceId": "ap_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sat, 21 Feb 2026 16:46:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOVjl3Y29hTHRRTkExeEZnZlBFdWtIWW80Z19hbDdhLV9qQnUxdHVoTkVaalRSMDBzeXJMWWFiTW9RM1ZmeG1KUFJNbEtDM2ZKeXBvU1VaSUo5WVVvV2xIQzhaNEQ5VVhxN0NMazl"
-        },
-        {
-          "headline": "She was an orphan adopted from Iran by a US veteran. The Trump administration wants to deport her - AP News",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZjBZNDJ3N196YnBJaXlCQWJZSnJ5UUp6MFRHeFFaYVBidUNoWDlrQjZxU3JoTXBqVkZOdTVrV1d1M25PWEIwb3RSb0tlQTJ3RVBUV3lQcUFISXhYQlpJM2E3SjZaSzh6WnZla3Q1aktGVWttejh1blVaeS1scWFFd0wxcU9ZMUFnZVdMZA?oc=5",
-          "source": "AP",
-          "sourceId": "ap_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sat, 21 Feb 2026 17:08:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNZjBZNDJ3N196YnBJaXlCQWJZSnJ5UUp6MFRHeFFaYVBidUNoWDlrQjZxU3JoTXBqVkZOdTVrV1d1M25PWEIwb3RSb0tlQTJ3RVBUV3lQcUFISXhYQlpJM2E3SjZaSzh6WnZla3Q"
-        },
-        {
-          "headline": "Israeli airstrikes in eastern Lebanon kill 8 Hezbollah members, officials say - AP News",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdHZOZGFyRnZfNDRteGZBNFZfdzlXYV95SVlSNU9JOVhiZFI5UjVORzVwY1JCR1BuZHM1VDV6Q0pvUWpyV1pSRDdNZFhJbzE1d1dZdERXWFQ3X2pPcGswMzJwazdEdUN3ZWo3T3NEckRSYjV0VnNmYko2Vy1YV0M4Vll4c1ZaR1cyVVMyNlJsN1Y1TUNHTFlmWUdtZkpsMlp1Nk1YVnNIWXdOdw?oc=5",
-          "source": "AP",
-          "sourceId": "ap_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sat, 21 Feb 2026 13:26:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdHZOZGFyRnZfNDRteGZBNFZfdzlXYV95SVlSNU9JOVhiZFI5UjVORzVwY1JCR1BuZHM1VDV6Q0pvUWpyV1pSRDdNZFhJbzE1d1dZdERXWFQ3X2pPcGswMzJwazdEdUN3ZWo3T3N"
-        },
-        {
-          "headline": "NASA delays astronaut moon mission again after new rocket problem - AP News",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQanhPM3BxTjR0ckNwbUxPVXRqV0FJaEQyTnFwZVhRMG9taWV0VlpONVl1cjFCTDhzOUZZTThjQWZocC13cExQSjFVcTV0Tnl3Yk5ybGNQdXNFenVaMXZVVGRtUERQcFdiRUF1azBxZmIxc3VyRmFWcTM0TWxUMVhfZW5zdWQwSG0wVXZSWnNBQTE5Zw?oc=5",
-          "source": "AP",
-          "sourceId": "ap_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sat, 21 Feb 2026 20:51:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQanhPM3BxTjR0ckNwbUxPVXRqV0FJaEQyTnFwZVhRMG9taWV0VlpONVl1cjFCTDhzOUZZTThjQWZocC13cExQSjFVcTV0Tnl3Yk5ybGNQdXNFenVaMXZVVGRtUERQcFdiRUF1azB"
-        },
-        {
-          "headline": "Murky outlook for businesses after tariff ruling prompts countermoves by Trump - AP News",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNXzJVdXF5TnRnVWE3TnJKQkktbl9FNVZOVXZ4TDRnRklOR09PbkZBT0dBczZBMlJVWWdvdmp4QnRzUFhXYnhDMm94OWl6QkdLUnNNR0N0WGpnek4tZXpzUkVkbGdoQUQ3eDRLNU55WC1ocVE4Rm5fMDQtbHVTaVh0VWNpbzBzZWRXU21yLS1tdUNkMEU3NExsQnFhYw?oc=5",
-          "source": "AP",
-          "sourceId": "ap_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sat, 21 Feb 2026 14:07:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNXzJVdXF5TnRnVWE3TnJKQkktbl9FNVZOVXZ4TDRnRklOR09PbkZBT0dBczZBMlJVWWdvdmp4QnRzUFhXYnhDMm94OWl6QkdLUnNNR0N0WGpnek4tZXpzUkVkbGdoQUQ3eDRLNU5"
-        },
-        {
-          "headline": "U.S. Department of Justice - AP News",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DVGVUcl95ZUJpNjQwRlQ1UGFiS1FvZURuRy1SRXVhdVlnREtMOW93d0NZY1c2dHJacGlfNUFJd3ZFZ3JtdXVnOFBhUVlWWHBXdnBzTHJuU09lbUE?oc=5",
-          "source": "AP",
-          "sourceId": "ap_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sat, 21 Feb 2026 11:03:24 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DVGVUcl95ZUJpNjQwRlQ1UGFiS1FvZURuRy1SRXVhdVlnREtMOW93d0NZY1c2dHJacGlfNUFJd3ZFZ3JtdXVnOFBhUVlWWHBXdnBzTHJuU09lbUE?oc=5\" target=\"_blank\"&g"
-        },
-        {
-          "headline": "Blizzard warnings issued for New York City, New Jersey, Connecticut as storm threatens East Coast - AP News",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcmJuUHQ5M05nWkdWT2dpUHpDQjFjWmRKOFBuWFN6cGVXQmdMdTM3aG1RbmNNRjVIbFhsYV9RZEtnc1F0X3JYclVROFpoUTF2WHFac3RsMm1Kb2xJenJ3VW1uN1h1QzNPUlhXdmt1bUxKbkhzZW83M2ROTXZqVnVBbVR0VVlJZnJrTExlbldaR0M?oc=5",
-          "source": "AP",
-          "sourceId": "ap_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sat, 21 Feb 2026 20:55:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOcmJuUHQ5M05nWkdWT2dpUHpDQjFjWmRKOFBuWFN6cGVXQmdMdTM3aG1RbmNNRjVIbFhsYV9RZEtnc1F0X3JYclVROFpoUTF2WHFac3RsMm1Kb2xJenJ3VW1uN1h1QzNPUlhXdmt"
-        },
-        {
-          "headline": "Ghislaine Maxwell fights release of more Epstein documents, calling disclosure law unconstitutional - AP News",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV1pfTzVkaWktRkM5bzZUdXZDeEQ0cnRRVVk0OHl1UVhYNk5WR0Y1cDBwRWdLMXBIUG5HZmxCRGRKUDNScFlyTHNNZ0tqUU1YVzRXbl9NTTNJUHd3aTZlR2lYTUpJRkpzZ05WdjdNc1FsYTBKbnVJUFkwNWp4WU1LRE1jbGpuZW44WldhQkdfWE1oVXhYYXdHMw?oc=5",
-          "source": "AP",
-          "sourceId": "ap_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sat, 21 Feb 2026 19:39:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPV1pfTzVkaWktRkM5bzZUdXZDeEQ0cnRRVVk0OHl1UVhYNk5WR0Y1cDBwRWdLMXBIUG5HZmxCRGRKUDNScFlyTHNNZ0tqUU1YVzRXbl9NTTNJUHd3aTZlR2lYTUpJRkpzZ05Wdjd"
-        },
-        {
-          "headline": "White House dinner closes a turbulent week for governors in Washington - AP News",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaGtPdmdNR2NKNTI3d001WUV6REp0OGd6VTFKUkdVOGhDazdzRWdwTG1kR0ZtYTM5blIzVzRuVVpNczdXaDhtMDd1NUdnVlhjejJwTmRjNGxyUnZjbTkzV3J0VFYxdXU1UWRRcS1tUHVZZlVlOGZDZ2xmSEFMZmwxSTM3Z0tXbW9kLWtrT3dfSHFEamFxLURGRjh2MHFBX3ZuRnhtbURlUQ?oc=5",
-          "source": "AP",
-          "sourceId": "ap_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sat, 21 Feb 2026 20:54:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOaGtPdmdNR2NKNTI3d001WUV6REp0OGd6VTFKUkdVOGhDazdzRWdwTG1kR0ZtYTM5blIzVzRuVVpNczdXaDhtMDd1NUdnVlhjejJwTmRjNGxyUnZjbTkzV3J0VFYxdXU1UWRRcS1"
-        },
-        {
-          "headline": "Life is harsh and dangerous in Russian-run parts of Ukraine, activists and former residents say - AP News",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYXJROVp4eDJrdW5CQ0luUUxDenFacW5paVQxOU1xUERjTjlwVVlUdFJ5VkNsb0NpcnMyZUtKT1VxMy13MlI3bTVqQmlmUHB2cktnZkJ5di1uMnFILW1aem9vNW1KT3BUYVBFdG43Ni1Cc21zZUU2RXJadm9jcEdGUWtLN09MYlY5NzhJNUl3amdWT0JreVktR0d2UQ?oc=5",
-          "source": "AP",
-          "sourceId": "ap_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sat, 21 Feb 2026 17:03:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNYXJROVp4eDJrdW5CQ0luUUxDenFacW5paVQxOU1xUERjTjlwVVlUdFJ5VkNsb0NpcnMyZUtKT1VxMy13MlI3bTVqQmlmUHB2cktnZkJ5di1uMnFILW1aem9vNW1KT3BUYVBFdG4"
-        },
-        {
-          "headline": "US ambassador causes uproar by claiming Israel has a right to much of the Middle East - AP News",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRkZIYVlvbTl5aGpPTjBKRmRwdkM3Z0RxcEY2ZUlRa041My1TcnhON0lyMGhJSjYtOVpuNWJEVEVMOEdrQmtnQjQ3TF9raDJOZnZfVnhPajB4bmY0Rms1SFpfUi1PWXIzQldYT2kzN3k3a3ZZWjRLb0RxZ254VnJBcGhZVnZBMmNNSGh2LVJ6ak9qRVJDS2twaDdBWGhnQjVmX1lROTgxMDREc3ozbHdJ?oc=5",
-          "source": "AP",
-          "sourceId": "ap_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sat, 21 Feb 2026 21:25:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQRkZIYVlvbTl5aGpPTjBKRmRwdkM3Z0RxcEY2ZUlRa041My1TcnhON0lyMGhJSjYtOVpuNWJEVEVMOEdrQmtnQjQ3TF9raDJOZnZfVnhPajB4bmY0Rms1SFpfUi1PWXIzQldYT2k"
-        },
-        {
-          "headline": "Thiam scores career-high 28 to lead Cincinnati to an 84-68 upset of No. 8 Kansas - AP News",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR2N4NGhpWEpMc0JyRUxLeFgyanVhZHJGd3ZfQThGZXZtZW1ld25OX3IzRVZUMEhvaE1VaGtQNGk3cERJdU51cndxQU90TnM1SzZFVXJ5My05Q3N0ZmY3SmN2RzlrcmVITU1YQjBoZGF2TkQ2RWJSclVTYk11U3FNZXViVk8tSWZrMFZB?oc=5",
-          "source": "AP",
-          "sourceId": "ap_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sat, 21 Feb 2026 20:29:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR2N4NGhpWEpMc0JyRUxLeFgyanVhZHJGd3ZfQThGZXZtZW1ld25OX3IzRVZUMEhvaE1VaGtQNGk3cERJdU51cndxQU90TnM1SzZFVXJ5My05Q3N0ZmY3SmN2RzlrcmVITU1YQjB"
+          "date": "Sat, 21 Feb 2026 20:07:23 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQdFhrVGlwVnoxWVBId1lPcXZQc3hjSDZrbzk5RldJV25HX0wtSUp1Tk9Ecjlvc19JVXdGSjNXTjU0bklRb296aWh3bG1YLTBhNVZXU0VwckJVU05USkh0X2V6dUFSTnFtUTJERHV"
         },
         {
           "headline": "Germany's Merz hopes for relief after Trump tariff verdict but uncertainty lingers - Reuters",
@@ -3068,34 +2648,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQNTVxT0xGVFhLTm1QX1NLTThSQUVjOGZNeWdGT0hIdWMyM2hPbHZQRF9GN0RhT3g5eGFrYzhCZEZ4QnVJNHhQQzMxaEVGQWE0d0cxWU9QMFNMSFJOZFhweHFBWmNKV2NLLWR1MzZ"
         },
         {
-          "headline": "With tariffs ruling, Supreme Court reasserts its power to check Trump​ - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVHZ3clAzQ2FaUWFvS0hrMWw4aG9zMDZJdjFwcTJ0SDdDZTg4Uk8tRFM0ZlRVN0F1YTdMbThjb010OV9HVGZQVG1rbUgwUU1SMGRnRDBxNF9MWlVoLUFhdWJqUU5iMFBpWDlmUkxNZ1pBNnQybm94M3hYSldPV3ZNaHhObGU4c2VQV21LZVo0b014aXFWNE43azFqelQzTG1TUnZxYWdRMFBQUk50XzZn?oc=5",
+          "headline": "BNSF Says Mainlines Are Back Open And Operational After A Train Derailment Near Angora, NE, On Feb 20 - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOQ3NQcjM1dFR3bDNSSHVlaDhkX0U5MHh4VGxYNWZNdW1TVGx6TXAxR2RFbDFiOHJNa1NRQzVIcG9RbVl4Qm85OHc4UDFCU2hQMXdIRUhZLXlaWkhVRVJfYXNTVUNrYWJVT3dWRFFuLTlyTmlwbzV5SzJCT00xdkpXVFZ4a05tVmhubzJ2Q0hzWUhwNzFTZGFTcF9UeFRFbVAyMUYyWVB0R0J2ZkRHX2NhRGtmQWNuZVM1eUJGUGV1c2FMcjJBRmJVWmZicVRUeHk2X0FzSmM1ZWVDcjhudUkxTUtYcnhLQXAtMHVlV2tobGtkRWRpRFViWXQzNGdGQQ?oc=5",
           "source": "Reuters",
           "sourceId": "reuters_world",
           "category": "wire",
           "priority": "primary",
-          "date": "Sat, 21 Feb 2026 11:06:20 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPVHZ3clAzQ2FaUWFvS0hrMWw4aG9zMDZJdjFwcTJ0SDdDZTg4Uk8tRFM0ZlRVN0F1YTdMbThjb010OV9HVGZQVG1rbUgwUU1SMGRnRDBxNF9MWlVoLUFhdWJqUU5iMFBpWDlmUkx"
-        },
-        {
-          "headline": "ECB's Panetta says Chinese imports helped drive sharper‑than‑forecast inflation drop - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYXZOY3FZM0RhemxNSDBDN1BkM212cFkzVi0zeE81MnBObldlWmFqOEU1MHMtVWotaWE3am1wR3ZUSDNrelkwaU5nOXFGYWxHUnMwMl9oTG9IYkFsVU5BVFppTlFsQjFGYzJKc3BCMjdVcWNBTjZtWDhyXzVISHA1dUpxWUYxVkNsMUlZNE91RmF2RjRoU0hqZ29FanZaV2duRjRJdV9saVV2U05fcUVQS3JHX0dicDFfSzc2SENUZjlOZw?oc=5",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sat, 21 Feb 2026 10:34:39 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYXZOY3FZM0RhemxNSDBDN1BkM212cFkzVi0zeE81MnBObldlWmFqOEU1MHMtVWotaWE3am1wR3ZUSDNrelkwaU5nOXFGYWxHUnMwMl9oTG9IYkFsVU5BVFppTlFsQjFGYzJKc3B"
-        },
-        {
-          "headline": "Iranian students begin new university term with protests - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQb3V5cUtNcGZHeENfczBSV1JHeW92NjIyUmlac1ppMmV2MEtWU1F2X2pzYnBjQTZ6dXVFWHpEQkdEaEthV1VPYVJUM2ZERWkxUTNDVWNvRWtJRmZBOUtmUWJkbUZmNFBPX0ZXdnNCTjFLMHJkcDRuNkNHcnVrdVdoTU1Wa2NSZUV6QmZVUjZrZUhibzNNNHZMdXhQS0NiZG9zN05fRjY2QjZDMTFwM29J?oc=5",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sat, 21 Feb 2026 17:30:48 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQb3V5cUtNcGZHeENfczBSV1JHeW92NjIyUmlac1ppMmV2MEtWU1F2X2pzYnBjQTZ6dXVFWHpEQkdEaEthV1VPYVJUM2ZERWkxUTNDVWNvRWtJRmZBOUtmUWJkbUZmNFBPX0ZXdnN"
+          "date": "Sun, 22 Feb 2026 00:11:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxOQ3NQcjM1dFR3bDNSSHVlaDhkX0U5MHh4VGxYNWZNdW1TVGx6TXAxR2RFbDFiOHJNa1NRQzVIcG9RbVl4Qm85OHc4UDFCU2hQMXdIRUhZLXlaWkhVRVJfYXNTVUNrYWJVT3dWRFF"
         },
         {
           "headline": "After court ruling, Trump says US global tariff rate will rise from 10% to 15% - Reuters",
@@ -3108,6 +2668,46 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPb0JETzNzZUstNjZNaW9XN1FEMjNVaThScS1rWFdlT2VNTVYxck8xY0V3SXlacHJPdVdoaUpVNTZnTkd5T1U2cmFPd25pdVpIUHJFUS1kQXZjQU1peFJQWGJ6aVVtSTRjc2JVS2h"
         },
         {
+          "headline": "Asma Khan on cooking with conscience - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVUdnWW13YnhMRl9PQzU4YVlmTHNFbG1YeFo3djlHdEFMVUNhLXR2Q1kyanNhcmpqRHpmRU9RWHN0UW0zemRRX3EyMHUwWVFIZTNUci1QRi1vNlNPREhINklmS29RRkVhb3pMV3MtZ1RyR1B1aU1DY3pjcl9VcDBGdUtKRzYzeGpESlE2bHFfR1VfQXhZZ0MzeFQ5aG5Udm42OTlyZlNSclVrUQ?oc=5",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sat, 21 Feb 2026 11:00:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVUdnWW13YnhMRl9PQzU4YVlmTHNFbG1YeFo3djlHdEFMVUNhLXR2Q1kyanNhcmpqRHpmRU9RWHN0UW0zemRRX3EyMHUwWVFIZTNUci1QRi1vNlNPREhINklmS29RRkVhb3pMV3M"
+        },
+        {
+          "headline": "ECB's Panetta says Chinese imports helped drive sharper‑than‑forecast inflation drop - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYXZOY3FZM0RhemxNSDBDN1BkM212cFkzVi0zeE81MnBObldlWmFqOEU1MHMtVWotaWE3am1wR3ZUSDNrelkwaU5nOXFGYWxHUnMwMl9oTG9IYkFsVU5BVFppTlFsQjFGYzJKc3BCMjdVcWNBTjZtWDhyXzVISHA1dUpxWUYxVkNsMUlZNE91RmF2RjRoU0hqZ29FanZaV2duRjRJdV9saVV2U05fcUVQS3JHX0dicDFfSzc2SENUZjlOZw?oc=5",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sat, 21 Feb 2026 10:34:39 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYXZOY3FZM0RhemxNSDBDN1BkM212cFkzVi0zeE81MnBObldlWmFqOEU1MHMtVWotaWE3am1wR3ZUSDNrelkwaU5nOXFGYWxHUnMwMl9oTG9IYkFsVU5BVFppTlFsQjFGYzJKc3B"
+        },
+        {
+          "headline": "With tariffs ruling, Supreme Court reasserts its power to check Trump​ - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVHZ3clAzQ2FaUWFvS0hrMWw4aG9zMDZJdjFwcTJ0SDdDZTg4Uk8tRFM0ZlRVN0F1YTdMbThjb010OV9HVGZQVG1rbUgwUU1SMGRnRDBxNF9MWlVoLUFhdWJqUU5iMFBpWDlmUkxNZ1pBNnQybm94M3hYSldPV3ZNaHhObGU4c2VQV21LZVo0b014aXFWNE43azFqelQzTG1TUnZxYWdRMFBQUk50XzZn?oc=5",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sat, 21 Feb 2026 11:06:20 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPVHZ3clAzQ2FaUWFvS0hrMWw4aG9zMDZJdjFwcTJ0SDdDZTg4Uk8tRFM0ZlRVN0F1YTdMbThjb010OV9HVGZQVG1rbUgwUU1SMGRnRDBxNF9MWlVoLUFhdWJqUU5iMFBpWDlmUkx"
+        },
+        {
+          "headline": "NASA may take moon mission Artemis II rocket back to assembly site, affecting March launch window - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQclpPVTFhQzZlQTZBb2hTYUY4dkZiazVwREVOTS1Ec1Jzbk5RQ0hLdkFTOEFMQ2s3ODRyVkk0Q2x6NkV3dklyR2VxNkVBNzJHUEcyNWFDZ2hfUXQ0aklUQkM5bXNaNWgwUUM3c0FvVW1nTEdoU0ZyVU1sRl9YbWJxTndNcG00N2drOThnRWZuemJVSmEwQXNQNVVGM0stblRIcVBxWDBtcTBfOWczN3c4?oc=5",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sat, 21 Feb 2026 15:58:54 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQclpPVTFhQzZlQTZBb2hTYUY4dkZiazVwREVOTS1Ec1Jzbk5RQ0hLdkFTOEFMQ2s3ODRyVkk0Q2x6NkV3dklyR2VxNkVBNzJHUEcyNWFDZ2hfUXQ0aklUQkM5bXNaNWgwUUM3c0F"
+        },
+        {
           "headline": "Germany's ruling party backs social media curbs for children - Reuters",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdVZBN0dSbFdFQ3BTOEJlOGhiQ0VrN0RGcXFCb21OamZkM055U1V1aGcweFZZU2QyeENZNjdvMWczM0RiVEozSGtSQjNMcS1Id1hmTzhISlVuT3VkcVhQQXJmWkFXTEVMQkNuNEIyNTkwUWJsNkk1SXY4TnUxSTA3Y25EbnlMQUVJaWQ2TzdSc0UwbjRwRGppSUVsdW10eUo3bnF4NzJ2R1Z6THlpNzE0UjBockM?oc=5",
           "source": "Reuters",
@@ -3116,6 +2716,16 @@
           "priority": "primary",
           "date": "Sat, 21 Feb 2026 14:08:05 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNdVZBN0dSbFdFQ3BTOEJlOGhiQ0VrN0RGcXFCb21OamZkM055U1V1aGcweFZZU2QyeENZNjdvMWczM0RiVEozSGtSQjNMcS1Id1hmTzhISlVuT3VkcVhQQXJmWkFXTEVMQkNuNEI"
+        },
+        {
+          "headline": "Iranian students begin new university term with protests - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQb3V5cUtNcGZHeENfczBSV1JHeW92NjIyUmlac1ppMmV2MEtWU1F2X2pzYnBjQTZ6dXVFWHpEQkdEaEthV1VPYVJUM2ZERWkxUTNDVWNvRWtJRmZBOUtmUWJkbUZmNFBPX0ZXdnNCTjFLMHJkcDRuNkNHcnVrdVdoTU1Wa2NSZUV6QmZVUjZrZUhibzNNNHZMdXhQS0NiZG9zN05fRjY2QjZDMTFwM29J?oc=5",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sat, 21 Feb 2026 17:30:48 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQb3V5cUtNcGZHeENfczBSV1JHeW92NjIyUmlac1ppMmV2MEtWU1F2X2pzYnBjQTZ6dXVFWHpEQkdEaEthV1VPYVJUM2ZERWkxUTNDVWNvRWtJRmZBOUtmUWJkbUZmNFBPX0ZXdnN"
         },
         {
           "headline": "Asian economies weigh impact of fresh Trump tariff moves, confusion - Reuters",
@@ -3128,26 +2738,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxON1FHRzZCU0dTdFlpWUpBRlU4MmxXYWQ0eDNYaUJ5cXJxbElXd0RDOTFiU19XeFB6YkJLWWFsOENMNk5uYWdvS2RXdFNlU01ZbFd1MnkxS2t1UVBoSDBTblF3bXNic2hwNllyYkp"
         },
         {
-          "headline": "Ukraine hits Russian ballistic missiles producer in Udmurtia, Kyiv says - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVkhxdS1VVjh6dV96TndHazVVdkJMQlZRa1RQQm1ZUXI4U0hHQUhhazBzS1JWZk9CTHZNdHNRcHFDVV9QenRQSC05MzEwQU9DMGUwM0Z6MFc0QzVEZVZFcXVQMnpmcXEzYzFDaVZ6THVUXzExSElvdnNlUXJzalFnNHBKbzVvNjEzdUVDS3FSNUttbm1acUlYeTVJMVZWY1NfQ1BJZUVySU5CYlBKUlVVTmNaZTljYms?oc=5",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sat, 21 Feb 2026 14:02:52 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQVkhxdS1VVjh6dV96TndHazVVdkJMQlZRa1RQQm1ZUXI4U0hHQUhhazBzS1JWZk9CTHZNdHNRcHFDVV9QenRQSC05MzEwQU9DMGUwM0Z6MFc0QzVEZVZFcXVQMnpmcXEzYzFDaVZ"
-        },
-        {
-          "headline": "Trump meets Vietnam leader, vows to remove Hanoi from restricted lists - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdWoxSThyOG9Fcnh2S2lwNWlOcFcwbVlDNzhReGVqa29MWV9uMFlSY1EteXdnQzlUN29Fa00tR0tWVUMyLUNRRzdfOEFaX1l2U0c5ZzMwWTdaMG1FbWhBRDV1S2UwWVBSQmMzdGR0azczbGpFVFJMN0pxVEdNTUVwU1dVMk5ON0hIQkI5NDB4WDNqVTIzNDE1cUpCTkxXbXFrSkVOOFZtZERJZUFCY3FzSlVEdzJXTjBqekdoZjFJQm81QQ?oc=5",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sat, 21 Feb 2026 01:40:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdWoxSThyOG9Fcnh2S2lwNWlOcFcwbVlDNzhReGVqa29MWV9uMFlSY1EteXdnQzlUN29Fa00tR0tWVUMyLUNRRzdfOEFaX1l2U0c5ZzMwWTdaMG1FbWhBRDV1S2UwWVBSQmMzdGR"
-        },
-        {
           "headline": "Exclusive: Cuban security forces exit Venezuela as US pressure mounts - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLUpOZlNMNUV4TzFHR1dTR1ZZYncyNlFoVkFYcUdKZkZHWUV5cmJXQzFnOXF3aXNIaHR1X1NOcEN1OHZnRnR4Qmk2XzVFY0tlbEtFMkRkaXVrdDFnXzFMXzFuaG80RnQwQkZFOW01ZVJGTXJCV1JvMWh6WVI4anZmYTFWVWhodEZJYXVydkg5VU93VFpfSnhraWZLOUVPZ09lakIwdHFNaFJoUQ?oc=5",
           "source": "Reuters",
@@ -3158,63 +2748,43 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLUpOZlNMNUV4TzFHR1dTR1ZZYncyNlFoVkFYcUdKZkZHWUV5cmJXQzFnOXF3aXNIaHR1X1NOcEN1OHZnRnR4Qmk2XzVFY0tlbEtFMkRkaXVrdDFnXzFMXzFuaG80RnQwQkZFOW0"
         },
         {
-          "headline": "USTR expects new Section 301 probes to cover most major trading partners - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX191cFpsSVM4SDhMVUc0S01xOWlUckJTaUhLcXd0VFNiYllJWFpQU2lOYUs1dm0wWmJDQlRhUy0wOE85c1JOWDBXYmxuSGFJMlNuOTlPZWdfMENvbTdrdEJ5NVcydWhvaHdoWFNvRERDX2xtSFROMlM5ZWdQSzZzVTNUcmhERy1fOUxwSVV6R2M0NnhvSmZJNGh4WnJBc3c1RDJqc3I5X3RrZXZKVjM3Zkl2NmRRNXdy?oc=5",
+          "headline": "Citi bolsters private bank leadership in North America push - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOVBUZkdISFBGOXRDS081UlBSMFA2Z1ZsVDU3Y3FIX2EtVDQ5aFRuVjRsNUxrbzhQTnF5RGZwVDA4OXJNOHNHNmEtS2p6cjdLRTh4MTNtbkdKMVJ3R2MtRW9sb3NERVprcE1qTWFIbWxOd1dBZURWUHdzRmRkdEMxWUZ1YWxfbmFxMS1mWGVleUFYREs2bVM1N1NKS1NCbHdqdlczRndfT3JOQlYyV3c?oc=5",
           "source": "Reuters",
           "sourceId": "reuters_world",
           "category": "wire",
           "priority": "primary",
-          "date": "Sat, 21 Feb 2026 01:09:42 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX191cFpsSVM4SDhMVUc0S01xOWlUckJTaUhLcXd0VFNiYllJWFpQU2lOYUs1dm0wWmJDQlRhUy0wOE85c1JOWDBXYmxuSGFJMlNuOTlPZWdfMENvbTdrdEJ5NVcydWhvaHdoWFN"
+          "date": "Sat, 21 Feb 2026 04:09:24 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNOVBUZkdISFBGOXRDS081UlBSMFA2Z1ZsVDU3Y3FIX2EtVDQ5aFRuVjRsNUxrbzhQTnF5RGZwVDA4OXJNOHNHNmEtS2p6cjdLRTh4MTNtbkdKMVJ3R2MtRW9sb3NERVprcE1qTWF"
         },
         {
-          "headline": "Toymaker assesses next steps in US Supreme Court tariff refund battle - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeEdoWHZuMmNUS2lfa1NSM1ZKSks3WTJJeFRhaVpuOGNVQTFnUHVtUmxCX002WDZ4Mnp4MUFXbnBIdWlUaWQ3Sl9LdGZlYUFXVXJEVmxFTklXcmFmMUc2RU9STjZ6TFdUR2VZWW1VZmhKZkllbVFEWXBlMW44UDZZUUtldk5OUnowNmpxRndpZzhrUjk4LXA0YzFUNkdqaGtFanAzRExBaVlNc3UzeVc3X3VPNDlIbWZ3Vk9J?oc=5",
+          "headline": "Ukraine hits Russian ballistic missiles producer in Udmurtia, Kyiv says - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVkhxdS1VVjh6dV96TndHazVVdkJMQlZRa1RQQm1ZUXI4U0hHQUhhazBzS1JWZk9CTHZNdHNRcHFDVV9QenRQSC05MzEwQU9DMGUwM0Z6MFc0QzVEZVZFcXVQMnpmcXEzYzFDaVZ6THVUXzExSElvdnNlUXJzalFnNHBKbzVvNjEzdUVDS3FSNUttbm1acUlYeTVJMVZWY1NfQ1BJZUVySU5CYlBKUlVVTmNaZTljYms?oc=5",
           "source": "Reuters",
           "sourceId": "reuters_world",
           "category": "wire",
           "priority": "primary",
-          "date": "Sat, 21 Feb 2026 00:03:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeEdoWHZuMmNUS2lfa1NSM1ZKSks3WTJJeFRhaVpuOGNVQTFnUHVtUmxCX002WDZ4Mnp4MUFXbnBIdWlUaWQ3Sl9LdGZlYUFXVXJEVmxFTklXcmFmMUc2RU9STjZ6TFdUR2VZWW1"
+          "date": "Sat, 21 Feb 2026 14:02:52 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQVkhxdS1VVjh6dV96TndHazVVdkJMQlZRa1RQQm1ZUXI4U0hHQUhhazBzS1JWZk9CTHZNdHNRcHFDVV9QenRQSC05MzEwQU9DMGUwM0Z6MFc0QzVEZVZFcXVQMnpmcXEzYzFDaVZ"
         },
         {
-          "headline": "Trump furious after Supreme Court upends his global tariffs, imposes new 10% levy - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUThRaldmcVNRdnUycVRMZHJMSmVXS0xfS2Rvb0s2V1FHMFdNYnktUkJZNmVTMkVyTGhOX1JVWWVKS1AxMDJuT1FYc0dNU2ZSbGJoY2NUWGc5NFNtRmdtdURudHJCbGdPc1lZRm4yc18zLTZZMjdTcVpycHFwLVN3czBwZ1ZNRWlIRFROcU9xLWpabHcwMEdlZXJCZG5rcklvS0pFTXczRG1hTWV1UTRnRDBlVkg1X2stT0lUVEl1NWpRTUhKTTNtNA?oc=5",
+          "headline": "For Europe Inc, US tariff relief comes with a sting in the tail - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMnU1VFN5M3NYbXNDaHpVUU1aZHg5T3RHeDlqVjNBQ25oRlR0X1p3c0hDZU82SVVya3M5MmpJOGhkVmV0bU00SUY5anVUbzRvOWdERTVCTk5MZF9NYk9rQTdJWTM3NTNFOHF0WW9HVmU3a2FrNURxX2Flb0J2OUx4R3BRcmJua3FTR3k2cTBfQl9EX0t3VFlFSi1uQ2g5cm8?oc=5",
           "source": "Reuters",
           "sourceId": "reuters_world",
           "category": "wire",
           "priority": "primary",
-          "date": "Fri, 20 Feb 2026 23:31:24 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUThRaldmcVNRdnUycVRMZHJMSmVXS0xfS2Rvb0s2V1FHMFdNYnktUkJZNmVTMkVyTGhOX1JVWWVKS1AxMDJuT1FYc0dNU2ZSbGJoY2NUWGc5NFNtRmdtdURudHJCbGdPc1lZRm4"
+          "date": "Sat, 21 Feb 2026 06:22:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQMnU1VFN5M3NYbXNDaHpVUU1aZHg5T3RHeDlqVjNBQ25oRlR0X1p3c0hDZU82SVVya3M5MmpJOGhkVmV0bU00SUY5anVUbzRvOWdERTVCTk5MZF9NYk9rQTdJWTM3NTNFOHF0WW9"
         },
         {
-          "headline": "TXNM Energy gets FERC approval for $11.5 billion Blackstone deal - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQckJ5R29VWFppcnMySnlTbTB4a3ZEXzVMTjhVT0lsY0tlT1JTOVEwRnE4NGlBTmpVUmxIWnJDTmo5YjdHbWl2VjE0X2N5czdMVURhWXlVdVd0NUEyZjIzbnk1SWtqUFhIenpDRG10NkRrR3FhSXQtVUE4akxyUDk2RHNTY21ITUluSGpsbmlpY1d0cWNvbjNRSk1LQXMxLThsYVpGZXBva0FSQVFOS2JWeWVuOXg?oc=5",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Fri, 20 Feb 2026 23:51:36 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQckJ5R29VWFppcnMySnlTbTB4a3ZEXzVMTjhVT0lsY0tlT1JTOVEwRnE4NGlBTmpVUmxIWnJDTmo5YjdHbWl2VjE0X2N5czdMVURhWXlVdVd0NUEyZjIzbnk1SWtqUFhIenpDRG1"
-        },
-        {
-          "headline": "Supreme Court tariff ruling clouds Fed's rate path after a year of upheaval - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSEpzQWxRWm82RURTNkdXQzdQaXJfUE5vZlg3STJ5bXpNRDlqREw4OE5iZzVNRzI2ZFVqZm12aWlHelpCbGlCYjBaYXUzeXVteGM1bzJIUzRucWU1cGpXR3c0Q3BhWndfTkY1MHNqU3cwRGFhci1MVFg1R2MwdkV4YUZINkhGREwwdjVFbUw5R2VtZWpTcXVFdjUzSkR2cXZaeVRhYjk5WW5NNWZLNnBLQldTZDY?oc=5",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Fri, 20 Feb 2026 23:04:42 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQSEpzQWxRWm82RURTNkdXQzdQaXJfUE5vZlg3STJ5bXpNRDlqREw4OE5iZzVNRzI2ZFVqZm12aWlHelpCbGlCYjBaYXUzeXVteGM1bzJIUzRucWU1cGpXR3c0Q3BhWndfTkY1MHN"
-        },
-        {
-          "headline": "Iran students stage first anti-government protests since deadly crackdown",
+          "headline": "Iran students stage first large anti-government protests since deadly crackdown",
           "url": "https://www.bbc.com/news/articles/c5yj2kzkrj0o?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC",
           "sourceId": "bbc_world",
           "category": "general",
           "priority": "primary",
-          "date": "Sat, 21 Feb 2026 20:00:06 GMT",
+          "date": "Sat, 21 Feb 2026 22:09:19 GMT",
           "description": "The student protesters honoured thousands of those killed when nationwide mass protests were put down last month."
         },
         {
@@ -3568,6 +3138,26 @@
           "description": "Slogans chanted on campuses in Tehran as new academic semester begins"
         },
         {
+          "headline": "Centerview settles lawsuit over analyst’s need for 8 hours’ sleep",
+          "url": "https://www.ft.com/content/a5271651-825e-4007-a029-9e2c16b5d770",
+          "source": "Financial Times",
+          "sourceId": "ft_home",
+          "category": "business",
+          "priority": "primary",
+          "date": "Sun, 22 Feb 2026 01:31:59 GMT",
+          "description": "Case brought by Kathryn Shiber fuelled debate about junior bankers’ working hours"
+        },
+        {
+          "headline": "Trump demands Netflix remove former Obama official from board",
+          "url": "https://www.ft.com/content/165878b9-2984-4df9-ba8a-c19f133e9ad8",
+          "source": "Financial Times",
+          "sourceId": "ft_home",
+          "category": "business",
+          "priority": "primary",
+          "date": "Sun, 22 Feb 2026 00:31:17 GMT",
+          "description": "President steps back into fight between streamer and Paramount Skydance to acquire Warner Bros Discovery"
+        },
+        {
           "headline": "Yacht boom propels $700mn-plus Stonepeak marina deal",
           "url": "https://www.ft.com/content/2a588350-a7f7-460f-900e-812a779d7cde",
           "source": "Financial Times",
@@ -3586,16 +3176,6 @@
           "priority": "primary",
           "date": "Sat, 21 Feb 2026 19:36:28 GMT",
           "description": "Diplomat tells Tucker Carlson it ‘would be fine’ if Israel took over a swath of the region"
-        },
-        {
-          "headline": "Latham & Watkins poaches two more partners from rival Wachtell Lipton",
-          "url": "https://www.ft.com/content/5d5af0c0-d46b-4bdb-8455-0564d56104ee",
-          "source": "Financial Times",
-          "sourceId": "ft_home",
-          "category": "business",
-          "priority": "primary",
-          "date": "Sat, 21 Feb 2026 19:55:58 GMT",
-          "description": "The New York-based Wachtell has suffered rare defections in a hot market for top deals lawyers"
         },
         {
           "headline": "RSF siege of El Fasher in Sudan has ‘hallmarks of genocide’, UN mission finds",
@@ -3766,7 +3346,7 @@
           "sourceId": "nyt_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Sat, 21 Feb 2026 21:14:24 +0000",
+          "date": "Sat, 21 Feb 2026 22:06:52 +0000",
           "description": "Students helped grow initial protests into a national movement crushed by the government. As the new semester began, they chanted and marched again."
         },
         {
@@ -4050,6 +3630,46 @@
           "description": "Check out the stocks Heard on the Street writers favor in their eighth annual stock-picking contest."
         },
         {
+          "headline": "Pakistan carries out strikes in Afghanistan after spate of suicide attacks",
+          "url": "https://www.aljazeera.com/news/2026/2/22/pakistan-carries-out-strikes-in-afghanistan-after-islamabad-suicide-attack?traffic_source=rss",
+          "source": "Al Jazeera",
+          "sourceId": "aljazeera",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Sun, 22 Feb 2026 01:04:28 +0000",
+          "description": "Afghan sources say the Pakistani strikes hit the border provinces of Paktika and Nangarhar."
+        },
+        {
+          "headline": "Nico O’Reilly double seals key 2-1 win for Man City over Newcastle United",
+          "url": "https://www.aljazeera.com/sports/2026/2/21/nico-oreilly-double-seals-key-2-1-win-for-man-city-over-newcastle-united?traffic_source=rss",
+          "source": "Al Jazeera",
+          "sourceId": "aljazeera",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Sat, 21 Feb 2026 22:36:04 +0000",
+          "description": "Manchester City&#039;s win cut Arsenal&#039;s lead at the top of the Premier League to two points."
+        },
+        {
+          "headline": "Trump’s tariff regime has been ruled unlawful. What are the implications?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/2/21/trumps-tariff-regime-ruled-unlawful-what-are-the-implications?traffic_source=rss",
+          "source": "Al Jazeera",
+          "sourceId": "aljazeera",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Sat, 21 Feb 2026 22:31:17 +0000",
+          "description": "The US Supreme Court has struck down President Donald Trump&#039;s central policy."
+        },
+        {
+          "headline": "Venezuela receives more than 1,500 amnesty requests under new law",
+          "url": "https://www.aljazeera.com/news/2026/2/21/venezuela-receives-more-than-1500-amnesty-requests-under-new-law?traffic_source=rss",
+          "source": "Al Jazeera",
+          "sourceId": "aljazeera",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Sat, 21 Feb 2026 22:12:20 +0000",
+          "description": "More than 370 political prisoners have already been granted amnesty under the US-backed legislation."
+        },
+        {
           "headline": "‘Absurd and provocative’: Huckabee faces firestorm for Israel border stance",
           "url": "https://www.aljazeera.com/news/2026/2/21/absurd-and-provocative-huckabee-faces-firestorm-for-israel-border-stance?traffic_source=rss",
           "source": "Al Jazeera",
@@ -4110,14 +3730,14 @@
           "description": "Persistent rain in Colombo forces abandonment of Pakistan&#039;s game with New Zealand, which was to open Super Eights stage."
         },
         {
-          "headline": "LIVE: Manchester City vs Newcastle United – Premier League",
+          "headline": "Manchester City vs Newcastle United 2-1: Premier League – as it happened",
           "url": "https://www.aljazeera.com/sports/liveblog/2026/2/21/live-manchester-city-vs-newcastle-united-premier-league?traffic_source=rss",
           "source": "Al Jazeera",
           "sourceId": "aljazeera",
           "category": "general",
           "priority": "secondary",
           "date": "Sat, 21 Feb 2026 17:00:00 +0000",
-          "description": "Follow the build-up, analysis and live text commentary of the game as City host Newcastle at the Etihad Stadium."
+          "description": "All the updates as a Nico O&#039;Reilly brace gives City a 2-1 win over Newcastle United at Etihad Stadium."
         },
         {
           "headline": "Russian attack on Kharkiv kills two, Ukraine hits missile plant",
@@ -4158,46 +3778,6 @@
           "priority": "secondary",
           "date": "Sat, 21 Feb 2026 12:27:23 +0000",
           "description": "More than 150 giant tortoises have been reintroduced to Ecuador’s Floreana Island in the Galapagos."
-        },
-        {
-          "headline": "Iran demands ‘evidence’ as Trump, UN experts highlight protest killings",
-          "url": "https://www.aljazeera.com/news/2026/2/21/iran-demands-evidence-as-trump-un-experts-highlight-protest-killings?traffic_source=rss",
-          "source": "Al Jazeera",
-          "sourceId": "aljazeera",
-          "category": "general",
-          "priority": "secondary",
-          "date": "Sat, 21 Feb 2026 11:54:58 +0000",
-          "description": "UN experts said discrepancy between official figures and grassroots estimates is compounding the anguish of families."
-        },
-        {
-          "headline": "Israel wants to execute Palestinians and the world will allow it",
-          "url": "https://www.aljazeera.com/opinions/2026/2/21/israel-wants-to-execute-palestinians-and-the-world-will-allow-it?traffic_source=rss",
-          "source": "Al Jazeera",
-          "sourceId": "aljazeera",
-          "category": "general",
-          "priority": "secondary",
-          "date": "Sat, 21 Feb 2026 11:45:22 +0000",
-          "description": "An execution bill is being pushed through the Knesset. International indifference paved its way for it."
-        },
-        {
-          "headline": "India signs critical minerals deal with Brazil to curb dependance on China",
-          "url": "https://www.aljazeera.com/news/2026/2/21/india-brazil-sign-critical-minerals-deal-as-partners-seek-trade-growth?traffic_source=rss",
-          "source": "Al Jazeera",
-          "sourceId": "aljazeera",
-          "category": "general",
-          "priority": "secondary",
-          "date": "Sat, 21 Feb 2026 11:24:19 +0000",
-          "description": "Brazilian President Lula called the critical minerals and rare earths deal the &#039;core of the pioneering agreement&#039;."
-        },
-        {
-          "headline": "Pakistan vs New Zealand abandoned: T20 World Cup Super Eights – updates",
-          "url": "https://www.aljazeera.com/sports/liveblog/2026/2/21/live-pakistan-vs-new-zealand-t20-world-cup-super-eights?traffic_source=rss",
-          "source": "Al Jazeera",
-          "sourceId": "aljazeera",
-          "category": "general",
-          "priority": "secondary",
-          "date": "Sat, 21 Feb 2026 10:30:32 +0000",
-          "description": "All our updates from our live text commentary stream of the abandoned Super Eights opener in Colombo."
         },
         {
           "headline": "More than 1,500 prisoners set for release under Venezuela's new amnesty law",
@@ -4364,15 +3944,15 @@
       "priority": "primary",
       "topHeadlines": [
         "Trump says he’ll raise tariffs to 15 percent after Supreme Court ruling",
-        "Global leaders and businesses pore over fallout of more US tariff swoons",
-        "The Supreme Court struck down Trump’s tariffs. Now comes the hard work of issuing refunds",
         "Supreme Court ruling offers little relief for Republicans divided on Trump’s tariffs",
-        "Blizzard warnings issued for New York City, New Jersey, Connecticut as storm threatens East Coast",
-        "Growing number of Americans report experiencing extreme cold, AP-NORC poll finds",
+        "JPMorgan concedes it closed Trump’s accounts after Jan. 6 attack",
+        "Trump approves disaster assistance to DC to help with sewage spill into Potomac River",
+        "ICE’s purchases for big detention centers are marked by secrecy, frustrating towns",
+        "ICE begins to purchase warehouses, but some owners are backing out of deals",
+        "Ghislaine Maxwell fights release of more Epstein documents, calling disclosure law unconstitutional",
         "Crews recover bodies of 9 backcountry skiers days after California avalanche",
-        "US ambassador causes uproar by claiming Israel has a right to much of the Middle East",
-        "Canada overcomes cheating allegations to win Olympic gold in men’s curling at Milan Cortina Games",
-        "JPMorgan concedes it closed Trump’s accounts after Jan. 6 attack"
+        "Canada’s curling skip tells cheating accusers to get Olympic celebration ‘burned into your brain’",
+        "New Mexico launches investigation of forced sterilization of Native American women"
       ]
     },
     {
@@ -4393,15 +3973,15 @@
       "priority": "primary",
       "topHeadlines": [
         "Trump says he will increase his new global tariffs to 15%",
-        "Iran students stage first anti-government protests since deadly crackdown",
-        "Six races, six golds - Klaebo's historic Olympics",
-        "Giant tortoises return to Galápagos island after nearly 200 years",
+        "Iran students stage first large anti-government protests since deadly crackdown",
+        "Nasa astronauts' moon mission delayed due to rocket issue",
+        "Once mocked for being tacky, this Korean music genre is making a comeback",
+        "From Venezuela to immigration crackdown, Project 2025 provided Trump's roadmap",
         "Killing of nationalist student leaves French far left in deep trouble as elections loom",
         "Divers recover bodies of seven Chinese tourists from bottom of Lake Baikal",
+        "Canada wins gold in men's curling final",
         "Viral monkey Punch rejected by mother given stuffed orangutan",
-        "Nasa astronauts' moon mission delayed due to rocket issue",
-        "Italian toddler dies after transplant with heart 'burned by frostbite'",
-        "Trump administration fires Virginia prosecutor hours after judges appointed him"
+        "Six races, six golds - Klaebo's historic Olympics"
       ]
     },
     {
@@ -4429,8 +4009,8 @@
         "Dating What can singles in Oslo, Berlin, Paris and Rome teach me?",
         "Under water, in denial Is Europe drowning out the climate crisis?",
         "Trump tariffs Trump raises tariffs to 15% on imports from all countries",
-        "AnalysisThe supreme court’s tariffs ruling puts Trump on notice with a bloody nose",
-        "Tariff refundsUS businesses clamor for refunds after supreme court strikes down Trump’s tariffs"
+        "Trump administration briefingPresident condemns ‘anti-American decision’ and pursues new tariffs avenue",
+        "AnalysisThe supreme court’s tariffs ruling puts Trump on notice with a bloody nose"
       ]
     },
     {
