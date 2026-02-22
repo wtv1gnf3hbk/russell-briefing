@@ -8,7 +8,7 @@ Two-stage pipeline (same architecture as japan-briefing):
 
 1. **`generate-briefing.js`** — Scrapes 10 RSS feeds + takes 5 homepage screenshots. Extracts top headlines from screenshot pages via DOM scraping for editorial priority detection. Outputs `briefing.json`.
 
-2. **`write-briefing.js`** — Sends scraped data to Claude API. Claude writes an all-bullets briefing using homepage headlines to determine editorial consensus. Outputs `briefing.md` + `index.html`.
+2. **`write-briefing.js`** — Two-step pipeline: Writer (Sonnet) drafts briefing, Editor (Sonnet) copy-edits for grammar/style bugs. Outputs `briefing.md` + `index.html`.
 
 ## Running Locally
 
@@ -51,7 +51,7 @@ Set token: `cd cloudflare-worker && npx wrangler secret put GITHUB_TOKEN`
 ## Key Design Decisions
 
 - **Screenshots are input-only.** They are taken and committed to git, but the HTML output does NOT display them. They exist so Claude can see homepage headlines and determine editorial priority.
-- **All bullets.** No prose sections. Four sections: Top Stories, Conflicts & Diplomacy, Business & Markets, Also Notable.
+- **All bullets.** No prose sections. Five sections: Top Stories, Conflicts & Diplomacy, Business & Markets, Also Notable, What to Watch.
 - **No email.** Russell bookmarks the GitHub Pages URL.
 - **15 items per RSS feed** (vs japan-briefing's 10) to cast a wider net for international stories.
 

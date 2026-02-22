@@ -325,7 +325,8 @@ CRITICAL RULES:
 9. Vary attribution: "Reuters reports", "according to the BBC", "the Guardian notes", "per the FT" (use each pattern at most twice).
 10. Keep it tight — Russell reads this on his phone at 6am.
 11. Use standard markdown: "- " for bullets (not "•"), "**text**" for bold, "[text](url)" for links.
-12. The briefing MUST begin with the line: "Good morning, Russell! Here's what happened while you were sleeping." (on its own line, before the first section header). This is NOT a bullet point — just a plain text greeting.`;
+12. The briefing MUST begin with the line: "Good morning, Russell! Here's what happened while you were sleeping." (on its own line, before the first section header). This is NOT a bullet point — just a plain text greeting.
+13. ACTIVELY SCAN for forward-looking language in stories: "scheduled for", "set to", "expected to", "will meet", "vote on", "summit begins", "deadline", "hearing", "ruling expected". Pull these into the What to Watch section.`;
 
   // Check if sleep filter data exists (from --cutoff run)
   const sleepFilter = briefing.sleepFilter || null;
@@ -350,6 +351,8 @@ Write an ALL-BULLETS briefing using ONLY these sections:
 3. **Business & Markets** (3-4 bullets): Global economic news, market moves, trade, corporate stories with international significance. Skip if nothing notable.
 
 4. **Also Notable** (2-3 bullets): Important stories that do not fit above — climate, health, elections, cultural events with global significance. Skip if nothing notable.
+
+5. **What to Watch** (2-3 bullets): Scheduled events and developments expected TODAY or in the coming days — state visits, summits, court rulings, parliamentary votes, central bank decisions, treaty deadlines, rocket launches, elections. Only include events with a known date or timeframe mentioned in the source material. Skip entirely if nothing is on the calendar.
 
 Every bullet must have at least one link. Do NOT include a Sources section — the links within bullets are sufficient.
 
