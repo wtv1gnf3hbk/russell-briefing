@@ -2,34 +2,36 @@ Good morning, Russell! Here's what happened while you were sleeping.
 
 **Top Stories**
 
-- Iranian students [staged large](https://news.google.com/rss/articles/CBMiogFBVV85cUxPZk9WcjNvczBHSXV5Q2lwZTBQREN2VDVXcjZmTVk3eHFHazVKeHk1SEdnaldHcXZYdXp1M255YklUM2ZlMl9rSldrTS13RzhTU0NNZkpDNmhFX1NOTGFiN2RwS1hZNHc4Z0hrWnprWXN1cm90NkhXUDJ5TTJfVFd0U3JTX1hWN2tES2laZWJ5R3NXejZlenF1dFRpeDh4ZnF2WUE?oc=5) anti-government protests for the first time since a deadly crackdown, according to the BBC, as universities reopened for the new semester.
+- Mexican security forces [killed Nemesio](https://news.google.com/rss/articles/CBMipwFBVV95cUxNLVNiN0R0blN4dXkwOXFVbjB3c1pRMDhLZWlDZzJRbEpnYnh3Y1l2bTVRWkg0YUwxelNFVGRBaW1XWVUtd3RpZVByMm5qalRzeW9lRkhSYU5fcDJZUW83MHpVcFMwUDUyc3RYSW5Ib0JnYS1JNTV0TTQtT2JZYlo5NnplQnprdTV3eEFBNDR6MnZsQnJmNXJqRk85WEtUNEhBRXBMblgtSQ?oc=5) "El Mencho" Oseguera, the powerful leader of Mexico's Jalisco New Generation cartel. Armed groups set fire to cars and buildings across multiple cities in violent retaliation.
 
-- Pakistan [launched strikes](https://news.google.com/rss/articles/CBMiqAFBVV85cUxOcEhZQ3c3YkhZS0hkbUlIbFktSTdMNmlwTnlUX1VjZDEtVWRGbkhwNXF4Tm1Rb1pRZVp3VUVkT3Z3MnFZOHBJY3g5VUJTOEpHNnBDWHBJTWhkRERJcWFpTkxZb3J4dzF1MGdLYk1oQ0FmR2ZwWjNLcnlUTEpES0tUZFdpcUpfWGxmLTNQdHppYTVyd3pLS3lPN3FBdDhDRlBYTl9KU2d1TE0?oc=5) in Afghanistan, with Taliban sources reporting dozens killed and the Red Crescent confirming 18 deaths, reports AP.
+- Ukrainian President Zelensky [told the](https://www.bbc.com/news) BBC that Putin has started World War III and must be stopped. Russia launched fresh attacks on Kyiv that killed at least one person ahead of the war's fourth anniversary on Monday.
 
-- Trump [raised tariffs](https://news.google.com/rss/articles/CBMiogFBVV85cUxPZk9WcjNvczBHSXV5Q2lwZTBQREN2VDVXcjZmTVk3eHFHazVKeHk1SEdnaldHcXZYdXp1M255YklUM2ZlMl9rSldrTS13RzhTU0NNZkpDNmhFX1NOTGFiN2RwS1hZNHc4Z0hrWnprWXN1cm90NkhXUDJ5TTJfVFd0U3JTX1hWN2tES2laZWJ5R3NXejZlenF1dFRpeDh4ZnF2WUE?oc=5) to 15% on all imports, after a Supreme Court ruling created new uncertainty in US-China trade relations, per AP.
+- U.S. Ambassador to Israel Mike Huckabee [caused an](https://news.google.com/rss/articles/CBMirwFBVV85cUxQRkZIYVlvbTl5aGpPTjBKRmRwdkM3Z0RxcEY2ZUlRa041My1TcnhON0lyMGhJSjYtOVpuNWJEVEVMOEdrQmtnQjQ3TF9raDJOZnZfVnhPajB4bmY0Rms1SFpfUi1PWXIzQldYT2kzN3k3a3ZZWjRLb0RxZ254VnJBcGhZVnZBMmNNSGh2LVJ6ak9qRVJDS2twaDdBWGhnQjVmX1lROTgxMDREc3ozbHdJ?oc=5) uproar among Arab leaders after appearing to endorse Israeli control over territories stretching from Egypt to Iraq. He later claimed his remarks were taken out of context.
 
-- US Homeland Security [suspended TSA](https://news.google.com/rss/articles/CBMipgFBVV85cUxPb291dUtuMWoxamZNdUJtMENnal9hLU94Wm9tRXRTcGVaTnRkaEl2Z3RVWVhFU2JWcHE4YmRVN0NKdGU3Uk84eHhiaWxjWW1qWkVWNGd2MTBkb3RUM0Nha3ZBakVwYTZYa2VZMVFRVDJYZG5UdGRSb2prS3AyQTVjdmY0d0dEc1MxY0pSUVp2SmZ0Mk9uS0hfQ0Jwc3JpWWt3?oc=5) PreCheck and Global Entry airport security programs, reports AP.
+- A packed bus [plunged off](https://news.google.com/rss/articles/CBMikAFBVV85cUxQSEhGUnhrbXRNTi0tNEFJOFRzeVZwQmRFZ2dSMjRFaTBpTTNsVHAyazBrWEg3NkdxMDU4eUZsZkN2UmdnZk9oRGRHc0YxOF9ndzRVTjQ1Q1hfTUpnMGFjSi1Ec0k2bU13VW96Q3htUG1hUW05RnNjVmRhUS1rVmt5amNocG50SHljdjAzLXJfZzE?oc=5) a highway in Nepal, killing 19 people and injuring 25 others in the latest deadly traffic accident to hit the Himalayan nation.
 
-- The US Ambassador to Israel [caused an](https://news.google.com/rss/articles/CBMirwFBVV85cUxQRkZIYVlvbTl5aGpPTjBKRmRwdkM3Z0RxcEY2ZUlRa041My1TcnhON0lyMGhJSjYtOVpuNWJEVEVMOEdrQmtnQjQ3TF9raDJOZnZfVnhPajB4bmY0Rms1SFpfUi1PWXIzQldYT2kzN3k3a3ZZWjRLb0RxZ254VnJBcGhZVnZBMmNNSGh2LVJ6ak9qRVJDS2twaDdBWGhnQjVmX1lROTgxMDREc3ozbHdJ?oc=5) uproar by claiming Israel has a divine right to much of the Middle East, according to AP.
+- An armed man was [shot and](https://news.google.com/rss/articles/CBMilAFBVV85cUxPTkVNWUlBMUpkbnVWX1hYdDA4SFpSMzFEV2VTRndleWc2RVVMR3ZwVFBMbjJmLVhaUFJiRXV0T29yeU1PWlVhcEdnV0pjWkcyUTFiUGxnT0wxeUo3T3Y2UmJlLVRDdmdKZ3AxdW5XSDl1RjV2TmxGWVMzRzRIckhXMkpFYU9hMGMzdDdlQzFKaC0xRHZ3?oc=5) killed by Secret Service after entering the secure perimeter of Mar-a-Lago, according to the AP. Details about the incident remain limited.
+
+- Ethiopia's Tigray region [faces ongoing](https://news.google.com/rss/articles/CBMikAFBVV85cUxQc1k3TE5wd00taVg1YTZEVldpbHh0TTFvY2lfUEhqNWRJeVQwVU90allwSkluaWdyUnFKX2FEWmhBMHhDbURVbEVqeEJEdExCa3otd08xQk56YTlGeGF2THZSbFlrVkhnVC1DOTB2Z1F2clZjbkttTjdOZmNXdG5uRTM5SG1pRnBQMGVQeTFGYjI?oc=5) tensions and fears of renewed conflict, per the AP. The region struggles with the aftermath of its devastating civil war.
 
 **Conflicts & Diplomacy**
 
-- After four years of war in Ukraine, [peace remains](https://news.google.com/rss/articles/CBMiogFBVV85cUxPZk9WcjNvczBHSXV5Q2lwZTBQREN2VDVXcjZmTVk3eHFHazVKeHk1SEdnaldHcXZYdXp1M255YklUM2ZlMl9rSldrTS13RzhTU0NNZkpDNmhFX1NOTGFiN2RwS1hZNHc4Z0hrWnprWXN1cm90NkhXUDJ5TTJfVFd0U3JTX1hWN2tES2laZWJ5R3NXejZlenF1dFRpeDh4ZnF2WUE?oc=5) elusive despite a US push for a settlement, AP reports.
+- Iran is [making preparations](https://www.nytimes.com/2026/02/22/world/middleeast/iran-larijani-khamenei-pezeshkian.html) for potential war and developing survival plans, the New York Times reports. Supreme Leader Ali Khamenei has tasked security chief Ali Larijani with ensuring the regime endures any military attacks.
 
-- Iran has indicated it is [willing to](https://www.theguardian.com/international) dilute its uranium stockpile as fresh protests erupted across the country, the Guardian notes.
+- Student protesters in Iran [continued demonstrations](https://www.nytimes.com/2026/02/22/world/middleeast/iran-student-protests.html) for a second day despite government crackdowns. Groups reported protests at universities in Tehran and other major cities.
 
-- Israel [struck Hezbollah](https://www.nytimes.com/2026/02/21/world/middleeast/israel-strikes-lebanon-hezbollah.html) positions in Lebanon, killing at least 10 people including eight militants. The strikes threaten the fragile cease-fire, per the New York Times.
+- EU diplomats are [set to](https://news.google.com/rss/articles/CBMijgFBVV85cUxPTldmRV80QkJsODk1dkVlZWMyUFh2dk93OTloalhGcWQxaEFKVVE0YzBpTEY1M1JQaFkwY2hYS1dKM0h4UXFKbjVDTDlwWHlQY2ExeWZad0lUdEEzdXAxOVNfVE94R29WV2NEaF9sZW93cy1rcjNVWl83d19tTU5PbElEX2d2a2xqVWdwbkV3?oc=5) meet with the Board of Peace director to discuss Gaza's future, according to the AP.
+
+- Russia launched a [wave of](https://www.nytimes.com/2026/02/22/world/europe/ukraine-russia-attacks-lviv.html) drones and missiles against Ukraine just days before the invasion's fourth anniversary, according to the New York Times.
 
 **Business & Markets**
 
-- JPMorgan [conceded it](https://news.google.com/rss/articles/CBMilAFBVV85cUxNQ0t0bjBlamNtQmx0ZXN2QnR1TVVucGRteUZIaTR2QmlDSUpQdEx5TWVMRW8wTThqS1QydE51QkV1cDFQWWJqWmNvVDFVeWxpckIzdHN0V25PNnp2SGM5NWxWMVZONXE0SVg1QktkdUJ5TF9mQkhsVXhYVTB1aDJrRTF6R3YxX3hPZlRTSllOekwxX1pm?oc=5) closed Trump's accounts following the January 6 attack, reports AP.
+- Global markets [remained mixed](https://news.google.com/rss/articles/CBMikgFBVV85cUxPR0FYRjJvTFh3LWx1TC0zei1Tdk1jc2pwVTZfOHkxRVhPa0Zfb1I3S3FyQWFoeEZvYnA3RGRMd3lvcm1UUWQ1YXhwZGdMNUpNTVExdmVpaGRscGs4czFVM1BxclVPTmNqRUdjcFZNUjlmNm5adHczT0xMUGFFcl9tVVR4WmtoOFE5OXNnLWJXUHEtUQ?oc=5) after the Supreme Court blocked Trump's tariffs. U.S. futures slipped as uncertainty continues over trade policy.
 
-- European leaders face [new uncertainty](https://www.nytimes.com/2026/02/21/world/europe/political-uncertainty-trump-tariff-loss.html) after Trump's Supreme Court tariff defeat. The defeat could distract from China challenges and Ukraine war issues, according to the New York Times.
+- Gold climbed to a [three-week high](https://news.google.com/rss/articles/CBMiogFBVV85cUxQTHZQbzVPM25MLV9YZlM5YzRZTHVCbl80OFlKOXZBZ29tcHRWTERiS0w5TE5sdUg0UWtuektXWkQzV0ttQVpfbzJmUzdXRnNkRVlzaXJJaXBuOHB6TDJsMmNFNkViZzc3OXNEOVk1cFBzV1hGYXl1TXFKcEJ3eVJGclNSRGNvZ1o5czJnWkdKUXlFSXdwLXpwSXB1MnR4LW5INFE?oc=5) as investors sought safe havens following the U.S. tariff ruling, Reuters reports.
 
-- India [hosted an](https://www.nytimes.com/2026/02/21/world/asia/ai-summit-india-foreign-policy.html) AI summit drawing global leaders and $200 billion in pledges. The country is positioning itself as a moral voice for developing countries between US and China tech rivalry, Reuters reports.
+- European leaders expressed [uncertainty about](https://www.france24.com/en/tv-shows/business/20260223-us-calls-on-partners-to-stick-to-existing-trade-deals-amid-tariff-uncertainty) future trade relations, per France24. The U.S. calls on partners to stick to existing deals following the court decision.
 
 **Also Notable**
 
-- Search crews [recovered bodies](https://news.google.com/rss/articles/CBMitwFBVV85cUxPLVpWcVZrOURpM3FaTXlSVnBvZVZxZ0ZyMTdObFpQcklGaHk3d0VEZFYwY0hCVkM2TWVLVkhrTlA4dlptcUJ3QURKZi15YlVVVE1ncDJrY0V0cklEX1hiaTRSVjRlbkNPN2Y3RU02RmVyXzlWR3F2TVVkbHgteEZWcE51MTVZQ0swdWNQQXFjUUhxRTFmSXEwMHZqakFKNkdROFAwVUNncnNaWG9zWnNLSTQ1bnZ2Mmc?oc=5) of nine backcountry skiers killed in a California avalanche, AP reports.
-
-- A US federal judge [set Friday](https://news.google.com/rss/articles/CBMikgFBVV85cUxPSlg3N1h2c3lBZUtvbVJpSG9wcWdJVFV3T25OWmFNVFh1dXJ1X045OG9iMlFaZDdscklkTVkzcm9wUlgtUlVTclZ1TjZLcjJVSFhPUDRaUG96ZFhGbXI4YWx2aGVzOGNpaWRHenpJWXJyYnVIdVFWbmtxdkJxNklMeWNfVkJzYnBZV3k2d0FxS0k5VlB6Qn
+- India's AI Impact Summit [failed to](https://news.google.com/rss/articles/CBMi7wFBVV85cUxOdFJOa285ajZQaWZJcDdmUTB1Vl9MSno0RVZQbWdBN25hYi1xRkhOYVFXSFVPUjZHSENjd0o3dGs0NlFydEpiMk5
