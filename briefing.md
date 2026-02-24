@@ -2,36 +2,44 @@ Good morning, Russell! Here's what happened while you were sleeping.
 
 **Top Stories**
 
-- Mexican security forces [killed Nemesio](https://news.google.com/rss/articles/CBMipwFBVV95cUxNLVNiN0R0blN4dXkwOXFVbjB3c1pRMDhLZWlDZzJRbEpnYnh3Y1l2bTVRWkg0YUwxelNFVGRBaW1XWVUtd3RpZVByMm5qalRzeW9lRkhSYU5fcDJZUW83MHpVcFMwUDUyc3RYSW5Ib0JnYS1JNTV0TTQtT2JZYlo5NnplQnprdTV3eEFBNDR6MnZsQnJmNXJqRk85WEtUNEhBRXBMblgtSQ?oc=5) "El Mencho" Oseguera, the powerful leader of Mexico's Jalisco New Generation cartel. Armed groups set fire to cars and buildings across multiple cities in violent retaliation.
+- Ukraine [marks four](https://news.google.com/rss/articles/CBMinAFBVV85cUxNQUhqeEI5MGw3c1FQUmZOUEpzQWd5RXZpNF9MbWwxejFZd2ptLWpBalp1SUJKRTFBX0NFMEladzR0QnFvUlluMVNtNTVFM01TTG1mLXM1c2ZlYlc4a1lZcXVBOGNsZTkyUzRuN2d3dUlrM1Q4alczYnZVY0M0aWJBOXNNSFl5MjE3RmhEVC0yMEVacnhXdmhwdzdzdmY?oc=5) years since Russia's full-scale invasion as Zelenskyy declares Putin has "not broken" Ukrainians and [invites Trump](https://www.theguardian.com/international) to visit the country.
 
-- Ukrainian President Zelensky [told the](https://www.bbc.com/news) BBC that Putin has started World War III and must be stopped. Russia launched fresh attacks on Kyiv that killed at least one person ahead of the war's fourth anniversary on Monday.
+- Russian [soldiers tell](https://www.bbc.com/news) the BBC they witnessed fellow troops executed on commanders' orders for refusing to fight, revealing brutal internal discipline within Moscow's military ranks.
 
-- U.S. Ambassador to Israel Mike Huckabee [caused an](https://news.google.com/rss/articles/CBMirwFBVV85cUxQRkZIYVlvbTl5aGpPTjBKRmRwdkM3Z0RxcEY2ZUlRa041My1TcnhON0lyMGhJSjYtOVpuNWJEVEVMOEdrQmtnQjQ3TF9raDJOZnZfVnhPajB4bmY0Rms1SFpfUi1PWXIzQldYT2kzN3k3a3ZZWjRLb0RxZ254VnJBcGhZVnZBMmNNSGh2LVJ6ak9qRVJDS2twaDdBWGhnQjVmX1lROTgxMDREc3ozbHdJ?oc=5) uproar among Arab leaders after appearing to endorse Israeli control over territories stretching from Egypt to Iraq. He later claimed his remarks were taken out of context.
+- Mexican forces [killed](https://www.nytimes.com/2026/02/23/world/americas/el-mencho-killed-mexico-cartel.html) drug lord "El Mencho," the leader of the Jalisco New Generation Cartel, according to the New York Times. The death deals a major blow to one of Mexico's most powerful criminal organizations.
 
-- A packed bus [plunged off](https://news.google.com/rss/articles/CBMikAFBVV85cUxQSEhGUnhrbXRNTi0tNEFJOFRzeVZwQmRFZ2dSMjRFaTBpTTNsVHAyazBrWEg3NkdxMDU4eUZsZkN2UmdnZk9oRGRHc0YxOF9ndzRVTjQ1Q1hfTUpnMGFjSi1Ec0k2bU13VW96Q3htUG1hUW05RnNjVmRhUS1rVmt5amNocG50SHljdjAzLXJfZzE?oc=5) a highway in Nepal, killing 19 people and injuring 25 others in the latest deadly traffic accident to hit the Himalayan nation.
+- A US ambassador [sparked outrage](https://news.google.com/rss/articles/CBMirwFBVV85cUxQRkZIYVlvbTl5aGpPTjBKRmRwdkM3Z0RxcEY2ZUlRa041My1TcnhON0lyMGhJSjYtOVpuNWJEVEVMOEdrQmtnQjQ3TF9raDJOZnZfVnhPajB4bmY0Rms1SFpfUi1PWXIzQldYT2kzN3k3a3ZZWjRLb0RxZ254VnJBcGhZVnZBMmNNSGh2LVJ6ak9qRVJDS2twaDdBWGhnQjVmX1lROTgxMDREc3ozbHdJ?oc=5) by claiming Israel has a right to much of the Middle East, per AP reporting.
 
-- An armed man was [shot and](https://news.google.com/rss/articles/CBMilAFBVV85cUxPTkVNWUlBMUpkbnVWX1hYdDA4SFpSMzFEV2VTRndleWc2RVVMR3ZwVFBMbjJmLVhaUFJiRXV0T29yeU1PWlVhcEdnV0pjWkcyUTFiUGxnT0wxeUo3T3Y2UmJlLVRDdmdKZ3AxdW5XSDl1RjV2TmxGWVMzRzRIckhXMkpFYU9hMGMzdDdlQzFKaC0xRHZ3?oc=5) killed by Secret Service after entering the secure perimeter of Mar-a-Lago, according to the AP. Details about the incident remain limited.
+- Rob Jetten becomes the Netherlands' [youngest ever](https://www.bbc.com/news/articles/clygj3421pqo?at_medium=RSS&at_campaign=rss) prime minister at age 38 after being sworn in following his narrow October election victory.
 
-- Ethiopia's Tigray region [faces ongoing](https://news.google.com/rss/articles/CBMikAFBVV85cUxQc1k3TE5wd00taVg1YTZEVldpbHh0TTFvY2lfUEhqNWRJeVQwVU90allwSkluaWdyUnFKX2FEWmhBMHhDbURVbEVqeEJEdExCa3otd08xQk56YTlGeGF2THZSbFlrVkhnVC1DOTB2Z1F2clZjbkttTjdOZmNXdG5uRTM5SG1pRnBQMGVQeTFGYjI?oc=5) tensions and fears of renewed conflict, per the AP. The region struggles with the aftermath of its devastating civil war.
+- China [imposed restrictions](https://www.nytimes.com/2026/02/24/world/asia/china-japan-export-ban.html) on 20 Japanese defense-related entities, escalating its months-long trade dispute with Tokyo.
 
 **Conflicts & Diplomacy**
 
-- Iran is [making preparations](https://www.nytimes.com/2026/02/22/world/middleeast/iran-larijani-khamenei-pezeshkian.html) for potential war and developing survival plans, the New York Times reports. Supreme Leader Ali Khamenei has tasked security chief Ali Larijani with ensuring the regime endures any military attacks.
+- EU support for Ukraine [faces delays](https://www.nytimes.com/2026/02/23/world/europe/ukraine-war-russia-eu-hungary.html) as Hungary threatens to block both the latest Russia sanctions package and a $106 billion aid package to Kyiv.
 
-- Student protesters in Iran [continued demonstrations](https://www.nytimes.com/2026/02/22/world/middleeast/iran-student-protests.html) for a second day despite government crackdowns. Groups reported protests at universities in Tehran and other major cities.
+- An explosion in Moscow [killed](https://www.theguardian.com/international) a Russian police officer after an attacker detonated a device, according to officials cited by the Guardian.
 
-- EU diplomats are [set to](https://news.google.com/rss/articles/CBMijgFBVV85cUxPTldmRV80QkJsODk1dkVlZWMyUFh2dk93OTloalhGcWQxaEFKVVE0YzBpTEY1M1JQaFkwY2hYS1dKM0h4UXFKbjVDTDlwWHlQY2ExeWZad0lUdEEzdXAxOVNfVE94R29WV2NEaF9sZW93cy1rcjNVWl83d19tTU5PbElEX2d2a2xqVWdwbkV3?oc=5) meet with the Board of Peace director to discuss Gaza's future, according to the AP.
+- France [summoned](https://www.nytimes.com/2026/02/23/world/europe/france-us-ambassador-kushner-activist-killing.html) US Ambassador Charles Kushner after the State Department cited "violent radical leftism" in the beating death of activist Quentin Deranque, 23.
 
-- Russia launched a [wave of](https://www.nytimes.com/2026/02/22/world/europe/ukraine-russia-attacks-lviv.html) drones and missiles against Ukraine just days before the invasion's fourth anniversary, according to the New York Times.
+- Iranian officials view [capitulating](https://www.nytimes.com/2026/02/23/world/middleeast/iran-us-nuclear-talks-war.html) to US demands on uranium enrichment and missiles as riskier to regime survival than going to war, analysts tell the New York Times.
 
 **Business & Markets**
 
-- Global markets [remained mixed](https://news.google.com/rss/articles/CBMikgFBVV85cUxPR0FYRjJvTFh3LWx1TC0zei1Tdk1jc2pwVTZfOHkxRVhPa0Zfb1I3S3FyQWFoeEZvYnA3RGRMd3lvcm1UUWQ1YXhwZGdMNUpNTVExdmVpaGRscGs4czFVM1BxclVPTmNqRUdjcFZNUjlmNm5adHczT0xMUGFFcl9tVVR4WmtoOFE5OXNnLWJXUHEtUQ?oc=5) after the Supreme Court blocked Trump's tariffs. U.S. futures slipped as uncertainty continues over trade policy.
+- World shares [traded mixed](https://news.google.com/rss/articles/CBMikgFBVV85cUxPRnUxUDJfWm5UQ0puWHZsTHpjazliX1NpNkJNRTVBY2VqS3ZwX2UtRk16cndUUWR3ZUpVWExja3lWQWhXRTJ2Q3lfU2EwU2d4TzZsTS1VWDdqSFBlbkxDSlBnMF9EU3NobnRLVTdDaTZKUXM2anBUR2NCQmR6OFNFVGNUYWxpbnliZ0dqY1Q3STJ4QQ?oc=5) after heavy selling hit potential AI losers on Wall Street, AP reports.
 
-- Gold climbed to a [three-week high](https://news.google.com/rss/articles/CBMiogFBVV85cUxQTHZQbzVPM25MLV9YZlM5YzRZTHVCbl80OFlKOXZBZ29tcHRWTERiS0w5TE5sdUg0UWtuektXWkQzV0ttQVpfbzJmUzdXRnNkRVlzaXJJaXBuOHB6TDJsMmNFNkViZzc3OXNEOVk1cFBzV1hGYXl1TXFKcEJ3eVJGclNSRGNvZ1o5czJnWkdKUXlFSXdwLXpwSXB1MnR4LW5INFE?oc=5) as investors sought safe havens following the U.S. tariff ruling, Reuters reports.
+- Fed minutes show many officials [need](https://news.google.com/rss/articles/CBMijAFBVV85cUxQd0VxeWJleWpXTHB4Nlc1Nkt5OGNhVm8yUEhpWWFtMW1NRWdkT2hPTUJsSDRqeC03ejhBVTlCVW5EdmN6LUd2SXJ3S0JQdXJDb1lkd3p4U0QtX1RLS0o5YnljYzFJQ2VuWF9Ed1RHd0JyZnFBeG04Wl9QRjJPcWNKYU5JWFpmbkxpRGFydA?oc=5) lower inflation before supporting rate cuts, according to AP.
 
-- European leaders expressed [uncertainty about](https://www.france24.com/en/tv-shows/business/20260223-us-calls-on-partners-to-stick-to-existing-trade-deals-amid-tariff-uncertainty) future trade relations, per France24. The U.S. calls on partners to stick to existing deals following the court decision.
+- Hong Kong [protests](https://news.google.com/rss/articles/CBMioAFBVV85cUxPcWZiUFBiYVg4aVFHbkQxQlNqbmlvbjAtb245TmJVZHJvTzk0Z0pCUXJNUVU5dVV6d3JJdTBUTVo4dzJYZnZKeGpRWHJOMVpoWUVKQjFobzhnMlJnSGNxXzViSzVPRTBLZVJiUFotNGJvSDlRRlM3cVZYQmtHdlFicDk5ZFNwT3dUc29ZQlM1aksyeTFBUU5vaEhFNlh6MDIt?oc=5) after Panama takes control of two key Panama Canal ports.
 
 **Also Notable**
 
-- India's AI Impact Summit [failed to](https://news.google.com/rss/articles/CBMi7wFBVV85cUxOdFJOa285ajZQaWZJcDdmUTB1Vl9MSno0RVZQbWdBN25hYi1xRkhOYVFXSFVPUjZHSENjd0o3dGs0NlFydEpiMk5
+- A Cuban [activist's visit](https://news.google.com/rss/articles/CBMilwFBVV85cUxOWVJFbEJueUdRd2JXM3NaLXJERDFoQXFydjdKcHZrWjNqNXloZHdkQVBEY0JMTU9aNWRwUWUzYjlrVTlzcFdBd3B2SjR3TDk3enBHQ2gxQWliWjU5R3Bjd3NadDNYMVpScmFmYURUNzVZMUw1S1FLc3UwY3k3T19tdXVST19ud3NGQ0dWdm9GUERQNnpkbktN?oc=5) to Mexico sparked controversy and tests President Sheinbaum's support for Cuba, AP reports.
+
+- Two-time WNBA champion Kara Braxton [died](https://news.google.com/rss/articles/CBMilgFBVV85cUxNWjhrRXNGaUExTHdSeUVmRm1lTmNuaVlqczFKSzMtY3lRN0JpNU82UlU2QThMWEQxZWJVbFZtSXY3QTdoTTBLQ3NkY3F1alFCQXRqYmU0RjRselREVFV6a1ZuYVFSSHkwaXFfYzhCMUhTbVJsZDl1TTUzNlEwZ3hVQWs0U1UyOFFwbE5QakwySG8ta3JWSUE?oc=5) at 43 after being in a car crash.
+
+**What to Watch**
+
+- Trump [will deliver](https://news.google.com/rss/articles/CBMinAFBVV85cUxNQUhqeEI5MGw3c1FQUmZOUEpzQWd5RXZpNF9MbWwxejFZd2ptLWpBalp1SUJKRTFBX0NFMEladzR0QnFvUlluMVNtNTVFM01TTG1mLXM1c2ZlYlc4a1lZcXVBOGNsZTkyUzRuN2d3dUlrM1Q4alczYnZVY0M0aWJBOXNNSFl5MjE3RmhEVC0yMEVacnhXdmhwdzdzdmY?oc=5) his State of the Union address to a changed Congress he has largely sidelined.
+
+- Fighting [continues](https://news.google.com/rss/articles/CBMipwFBVV85cUxNLVNiN0R0bl
