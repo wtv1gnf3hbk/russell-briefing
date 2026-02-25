@@ -369,13 +369,39 @@ async function takeScreenshot(source) {
 // ============================================
 
 async function scrapeRSSSource(source) {
-  try {
-    const content = await fetch(source.url);
-    const stories = parseRSS(content, source);
-    return { ...source, stories, storyCount: stories.length, error: null };
-  } catch (e) {
-    return { ...source, stories: [], error: e.message };
+  // Try primary URL first, then fallbacks if it returns 0 stories or errors.
+  // Fallback chain ensures we still get data when feedx.net or Google News
+  // changes their format (which has happened multiple times).
+  const urls = [source.url, ...(source.fallbacks || [])];
+
+  for (let i = 0; i < urls.length; i++) {
+    const url = urls[i];
+    const isFallback = i > 0;
+    try {
+      const content = await fetch(url);
+      const stories = parseRSS(content, source);
+
+      if (stories.length === 0 && i < urls.length - 1) {
+        // Primary returned 0 stories — try next fallback
+        console.log(`  ⚠ ${source.name}: 0 stories from ${isFallback ? 'fallback' : 'primary'} — trying next`);
+        continue;
+      }
+
+      if (isFallback && stories.length > 0) {
+        console.log(`  ↪ ${source.name}: fallback ${i} returned ${stories.length} stories`);
+      }
+
+      return { ...source, stories, storyCount: stories.length, error: null, usedFallback: isFallback };
+    } catch (e) {
+      if (i < urls.length - 1) {
+        console.log(`  ⚠ ${source.name}: ${isFallback ? 'fallback' : 'primary'} failed (${e.message}) — trying next`);
+        continue;
+      }
+      return { ...source, stories: [], error: e.message };
+    }
   }
+
+  return { ...source, stories: [], error: 'All URLs exhausted' };
 }
 
 async function scrapeSource(source) {

@@ -12,6 +12,9 @@
       "name": "AP",
       "type": "rss",
       "url": "https://feedx.net/rss/ap.xml",
+      "fallbacks": [
+        "https://news.google.com/rss/search?q=site:apnews.com+when:24h&ceid=US:en&hl=en-US&gl=US"
+      ],
       "priority": "primary",
       "category": "wire"
     },
@@ -20,6 +23,9 @@
       "name": "Reuters",
       "type": "rss",
       "url": "https://news.google.com/rss/search?q=site:reuters.com+when:24h&ceid=US:en&hl=en-US&gl=US",
+      "fallbacks": [
+        "https://news.google.com/rss/search?q=source:reuters+when:24h&ceid=US:en&hl=en-US&gl=US"
+      ],
       "priority": "primary",
       "category": "wire"
     },
