@@ -157,6 +157,76 @@ function parseRSS(xml, source) {
 }
 
 // ============================================
+// GOOGLE NEWS URL RESOLVER
+// Google News RSS returns opaque redirect URLs like:
+//   news.google.com/rss/articles/<encrypted-base64>
+// These don't work as direct links — they use JS-based redirection.
+// We resolve them to real article URLs using Playwright.
+// ============================================
+
+function isGoogleNewsUrl(url) {
+  return url && url.includes('news.google.com/rss/articles/');
+}
+
+/**
+ * Resolves a batch of Google News redirect URLs to their real destinations.
+ * Uses Playwright to follow the JS redirect chain.
+ * Returns a Map of googleNewsUrl -> resolvedUrl.
+ *
+ * Opens up to BATCH_SIZE tabs in parallel for speed.
+ */
+async function resolveGoogleNewsUrls(urls) {
+  const BATCH_SIZE = 5;
+  const resolved = new Map();
+
+  if (urls.length === 0) return resolved;
+
+  const b = await initBrowser();
+  if (!b) {
+    console.log('  ⚠ Browser not available — Google News URLs will remain unresolved');
+    return resolved;
+  }
+
+  console.log(`\nResolving ${urls.length} Google News URLs...`);
+
+  // Process in batches to avoid overwhelming the browser
+  for (let i = 0; i < urls.length; i += BATCH_SIZE) {
+    const batch = urls.slice(i, i + BATCH_SIZE);
+    const results = await Promise.all(batch.map(async (gnUrl) => {
+      let page;
+      try {
+        page = await b.newPage();
+        await page.goto(gnUrl, { waitUntil: 'domcontentloaded', timeout: 15000 });
+        // Wait for JS redirect to complete
+        await page.waitForTimeout(3000);
+        const finalUrl = page.url();
+        // Only count as resolved if we actually left Google News
+        if (!finalUrl.includes('news.google.com')) {
+          return { gnUrl, finalUrl };
+        }
+        return { gnUrl, finalUrl: null };
+      } catch (e) {
+        return { gnUrl, finalUrl: null };
+      } finally {
+        if (page) await page.close().catch(() => {});
+      }
+    }));
+
+    for (const { gnUrl, finalUrl } of results) {
+      if (finalUrl) {
+        resolved.set(gnUrl, finalUrl);
+      }
+    }
+  }
+
+  const successCount = resolved.size;
+  const failCount = urls.length - successCount;
+  console.log(`  ✓ Resolved ${successCount}/${urls.length} URLs${failCount > 0 ? ` (${failCount} failed — kept as Google News links)` : ''}`);
+
+  return resolved;
+}
+
+// ============================================
 // SCREENSHOT HANDLER (Playwright)
 // With headline extraction for editorial priority detection
 // ============================================
@@ -448,18 +518,43 @@ async function scrapeAll(config) {
     return true;
   });
 
+  // ---- RESOLVE GOOGLE NEWS URLS ----
+  // Google News RSS feeds (AP, Reuters, daybook) return opaque redirect
+  // URLs that don't work as direct links. Resolve them to real article
+  // URLs using Playwright before passing to the writer.
+  const googleNewsUrls = [...new Set(
+    deduped.filter(s => isGoogleNewsUrl(s.url)).map(s => s.url)
+  )];
+  const resolvedUrls = await resolveGoogleNewsUrls(googleNewsUrls);
+
+  // Apply resolved URLs back to stories
+  for (const story of deduped) {
+    if (resolvedUrls.has(story.url)) {
+      story.url = resolvedUrls.get(story.url);
+    }
+  }
+
+  // Re-deduplicate after URL resolution — two Google News URLs
+  // might resolve to the same real article
+  const seenResolved = new Set();
+  const dedupedFinal = deduped.filter(story => {
+    if (seenResolved.has(story.url)) return false;
+    seenResolved.add(story.url);
+    return true;
+  });
+
   // Extract daybook stories separately for What to Watch section.
   // These are tagged category:"daybook" in sources.json and come from
   // Google News RSS queries targeting forward-looking event language.
-  const daybook = deduped.filter(s => s.category === 'daybook');
+  const daybook = dedupedFinal.filter(s => s.category === 'daybook');
 
   // Tag stories from primary/secondary feeds that have forward-looking
   // signals (escalation, deadlines, consequences). These supplement
   // the daybook data and give Claude better input for "What to Watch".
-  const watchCandidates = tagWatchCandidates(deduped);
+  const watchCandidates = tagWatchCandidates(dedupedFinal);
 
   return {
-    allStories: deduped,
+    allStories: dedupedFinal,
     byCategory,
     byPriority,
     daybook,
