@@ -1,43 +1,47 @@
 Good morning, Russell! Here's what happened while you were sleeping.
 
-**Top Stories**
+## **Top Stories**
 
-- France [escalated its](https://apnews.com/article/france-us-ambassador-charles-kushner-648b599a32730b0e28a80329a1f45ba6) diplomatic dispute with the US, announcing that French ministers will no longer meet with Ambassador Charles Kushner.
+- France [escalated its](https://apnews.com/article/france-us-ambassador-charles-kushner-648b599a32730b0e28a80329a1f45ba6) diplomatic row with Washington, announcing that ministers will no longer meet with US Ambassador Charles Kushner.
 
-- Cuban border troops [killed four](https://www.bbc.com/news/articles/c24drvj8yl2o?at_medium=RSS&at_campaign=rss) people aboard a Florida-registered speedboat after the vessel opened fire on soldiers near the island nation's northern coast, with six others wounded in the gunfight.
+- Cuban border troops [killed four](https://www.reuters.com/world/cuba-says-four-killed-after-speedboat-florida-entered-cuban-waters-opened-fire-2026-02-25/) people and wounded six others aboard a Florida-registered speedboat that opened fire on soldiers near the island's coast.
 
-- Mexican drug cartel [violence has](https://www.bbc.com/news/articles/cx2g3vmde0eo?at_medium=RSS&at_campaign=rss) turned Culiacán into a war zone as rival Sinaloa factions battle for control, creating widespread fear ahead of the FIFA World Cup.
+- European officials [visited Ukraine](https://apnews.com/article/russia-ukraine-war-anniversary-87940e37c2f010572402640c8c5ac78c) to show support as the country marks four years since Russia's full-scale invasion began.
 
-- European officials [visited Ukraine](https://apnews.com/article/russia-ukraine-war-anniversary-87940e37c2f010572402640c8c5ac78c) to show support as the country marks four years since Russia launched its full-scale invasion.
+- Germany's Chancellor Friedrich Merz [delivered blunt](https://www.nytimes.com/2026/02/25/world/asia/china-germany-merz-visit-xi.html) warnings about trade imbalances to Chinese leaders during his first Beijing trip.
 
-- An attacker [detonated an](https://apnews.com/article/russia-explosion-moscow-police-killed-d1509c5b35265004b0fd4d803e8850f5) explosive device in Moscow, killing a police officer and himself in the blast.
+- An attacker [detonated an](https://apnews.com/article/russia-explosion-moscow-police-killed-d1509c5b35265004b0fd4d803e8850f5) explosive device in Moscow, killing a police officer and himself.
 
-- German Chancellor Friedrich Merz [delivered blunt](https://www.nytimes.com/2026/02/25/world/asia/china-germany-merz-visit-xi.html) warnings to China about trade imbalances during his first trip to Beijing as leader.
+- Mexico's drug cartel [violence is](https://apnews.com/article/mexico-jalisco-cartel-mencho-killed-tapalpa-b12ed518d44951c7875bfddef1c2c7b4) fueling security concerns in the lead-up to the FIFA World Cup.
 
-**Conflicts & Diplomacy**
+## **Conflicts & Diplomacy**
 
-- The US [will offer](https://www.nytimes.com/2026/02/25/world/middleeast/us-consular-services-israeli-settlements.html) embassy services in a West Bank settlement for the first time, a move both Palestinians and Israelis say legitimizes settlements most of the world considers illegal.
+- The US [will allow](https://www.reuters.com/business/energy/us-allow-resale-venezuelan-oil-cuba-treasury-department-says-2026-02-25/) the resale of Venezuelan oil to Cuba, according to the Treasury Department.
 
-- Trump [keeps the](https://www.bbc.com/news/articles/cge821xwyz8o?at_medium=RSS&at_campaign=rss) world waiting on his Iran strategy after his State of the Union address, with decisive talks between the US and Iran scheduled for Thursday in Geneva.
+- America [will offer](https://www.nytimes.com/2026/02/25/world/middleeast/us-consular-services-israeli-settlements.html) embassy services in a West Bank settlement for the first time, drawing criticism from Palestinians and Israeli groups who say it legitimizes settlements.
 
-- Brazil's Supreme Court [convicted four](https://www.nytimes.com/2026/02/25/world/americas/brazil-supreme-court-verdict-marielle-franco-murder.html) men, including two politicians and two former police officers, in the assassination of Rio councilwoman Marielle Franco.
+- Brazil's Supreme Court [convicted four](https://www.nytimes.com/2026/02/25/world/americas/brazil-supreme-court-verdict-marielle-franco-murder.html) men in the murder of Rio de Janeiro councilwoman Marielle Franco, including two politicians and two former police officers.
 
-**Business & Markets**
+- Spain [declassified files](https://www.nytimes.com/2026/02/25/world/europe/spain-coup-1981-files-revealed.html) about its failed 1981 coup attempt, ending more than four decades of secrecy about why the plot collapsed.
 
-- The Supreme Court [ruling against](https://apnews.com/article/trump-tariffs-supreme-court-refunds-imports-a90ebe598b888832c68ca5ab03a88521) Trump's tariffs is unlikely to end trade policy chaos, according to AP analysis of the decision's limited scope.
+## **Business & Markets**
 
-- A new Louvre director [takes over](https://www.nytimes.com/2026/02/25/world/europe/louvre-museum-new-director-leribault-paris.html) the crisis-hit museum after the previous chief resigned following an audacious jewel heist.
+- Google [will test](https://www.reuters.com/world/google-test-changes-search-results-source-says-eu-fine-looms-2026-02-25/) changes to search results as an EU fine looms, Reuters reports exclusively.
 
-**Also Notable**
+- Companies are [cutting jobs](https://www.reuters.com/business/world-at-work/companies-cutting-jobs-investments-shift-toward-ai-2026-02-25/) as investments shift toward artificial intelligence, according to Reuters.
 
-- Bill Gates [took responsibility](https://www.bbc.com/news/articles/cnv6rjp468ro?at_medium=RSS&at_campaign=rss) for his Epstein ties in a Gates Foundation staff meeting, saying he "did nothing illicit" and "saw nothing illicit," per newspaper reports.
+- The Supreme Court ruling against Trump's tariffs [is unlikely](https://apnews.com/article/trump-tariffs-supreme-court-refunds-imports-a90ebe598b888832c68ca5ab03a88521) to end trade policy chaos, per AP analysis.
 
-- Spain [declassified files](https://www.nytimes.com/2026/02/25/world/europe/spain-coup-1981-files-revealed.html) about its failed 1981 coup attempt, ending four decades of conjecture about why the military takeover collapsed.
+## **Also Notable**
 
-**What to Watch**
+- The Louvre [appointed a](https://www.nytimes.com/2026/02/25/world/europe/louvre-museum-new-director-leribault-paris.html) new director to replace Laurence des Cars, who resigned months after an audacious jewel heist.
 
-- US-Iran nuclear talks in Geneva on Thursday could prove decisive for Trump's Iran strategy, with the BBC noting the discussions are at a "critical stage."
+- Pope Leo [will visit](https://www.nytimes.com/2026/02/25/world/europe/pope-africa-visit.html) Africa, signaling the continent's growing importance to Catholicism as the number of Catholics grows fastest there.
 
-- Pentagon Secretary Hegseth [will meet](https://apnews.com/article/anthropic-hegseth-ai-pentagon-military-3d86c9296fe953ec0591fcde6a613aba) with Anthropic's CEO as debate intensifies over military use of artificial intelligence.
+## **What to Watch**
 
-- Mexico [will make](https://www.france24.com/en/mexico-will-make-a-strong-show-of-security-ahead-of-world-cup-expert-says) "a strong show of security" ahead of the World Cup, according to experts, following the recent cartel violence in Culiacán.
+- Iceland [will hold](https://www.reuters.com/world/europe/iceland-hold-eu-referendum-over-coming-months-pm-says-2026-02-25/) an EU referendum in the coming months, the prime minister announced.
+
+- Pentagon Secretary Hegseth and Anthropic's CEO are [set to](https://apnews.com/article/anthropic-hegseth-ai-pentagon-military-3d86c9296fe953ec0591fcde6a613aba) meet as debate intensifies over the military's use of AI.
+
+- Asheville [will host](https://www.citizen-times.com/story/news/local/2026/02/19/asheville-host-world-financial-leaders-g20-meeting/88757365007/) G20 finance leaders in August and September for a major economic summit.

@@ -4,17 +4,17 @@
     "owner": "Russell Goldman",
     "timezone": "America/New_York",
     "description": "Daily international news briefing — all bullets, ready by 6am ET",
-    "generated": "2026-02-25T21:37:50.145Z",
-    "generatedTimestamp": 1772055470145
+    "generated": "2026-02-25T21:42:25.017Z",
+    "generatedTimestamp": 1772055745017
   },
   "stats": {
     "sourceCount": 19,
     "successCount": 19,
-    "totalStories": 169,
+    "totalStories": 184,
     "totalScreenshots": 6,
     "daybookStories": 44,
-    "watchCandidateCount": 4,
-    "elapsed": "54.8s"
+    "watchCandidateCount": 5,
+    "elapsed": "61.2s"
   },
   "stories": {
     "all": [
@@ -131,6 +131,163 @@
         "priority": "primary",
         "date": "Tue, 24 Feb 2026 00:53:02 +0000",
         "description": ""
+      },
+      {
+        "headline": "Cuba says it killed 4, wounded 6 from Florida-based speedboat that opened fire - Reuters",
+        "url": "https://www.reuters.com/world/cuba-says-four-killed-after-speedboat-florida-entered-cuban-waters-opened-fire-2026-02-25/",
+        "source": "Reuters",
+        "sourceId": "reuters_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Wed, 25 Feb 2026 19:34:11 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNbEROWkQtSlVVTEtuNFRhcUVkOUp4UjZ1czRORThfMFRIUzdHdmJNT3FSNGxMWHZKeDBBUmVIVnFBd1VjXzBhY0ZCclBzTkFxdE5YYlZmaGtPaWd6Z1dKUWJ5VmRnRDBJRS1kdnl"
+      },
+      {
+        "headline": "US says it will allow resale of Venezuelan oil to Cuba - Reuters",
+        "url": "https://www.reuters.com/business/energy/us-allow-resale-venezuelan-oil-cuba-treasury-department-says-2026-02-25/",
+        "source": "Reuters",
+        "sourceId": "reuters_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Wed, 25 Feb 2026 18:26:19 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPc2QydEFUTnhuNHZnWmVxcG1aN0MtbkJoend2WU9SWlNBLXA3ZHB6Qm1GbkU3TUl4S2pMaU5DdDYzSGlXWGFneFhzZUxEalBRU0VXR2hubUFucHYxNVFzcXNYOWMtSWxxNml6TXN"
+      },
+      {
+        "headline": "Iceland to hold EU referendum 'in the coming months', PM says - Reuters",
+        "url": "https://www.reuters.com/world/europe/iceland-hold-eu-referendum-over-coming-months-pm-says-2026-02-25/",
+        "source": "Reuters",
+        "sourceId": "reuters_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Wed, 25 Feb 2026 17:10:19 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPYkxyWXVmdWgyWHRBa0pNUDRjVUptcFNYTmt2R3IwVG9ucDZyMkRReGJQbGNRRkJBOEF4czRHUUVsUnJZNmpyTldEc2hLRWV0eHJzSmQ3NnlNc0NoN3YwRVNGcmRmNzVfbkNURW4",
+        "watchCandidate": true,
+        "watchSignals": [
+          {
+            "category": "temporal",
+            "matched": "in the coming"
+          }
+        ]
+      },
+      {
+        "headline": "Exclusive: Google to test changes to search results, source says as EU fine looms - Reuters",
+        "url": "https://www.reuters.com/world/google-test-changes-search-results-source-says-eu-fine-looms-2026-02-25/",
+        "source": "Reuters",
+        "sourceId": "reuters_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Wed, 25 Feb 2026 17:56:55 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxObFVQQnhRc3YzcWtueWZPSFRBR0szWHU5MUJZajd5bzFhUFg5cUw3OEdMaTQ0d05IX0JSam1Yay10VlZLWGRTZmdnR25paTJmQVZkZmQtWVpSTTFlcmVQb3lrZkRSSnpZdlhtRnh"
+      },
+      {
+        "headline": "Companies cutting jobs as investments shift toward AI - Reuters",
+        "url": "https://www.reuters.com/business/world-at-work/companies-cutting-jobs-investments-shift-toward-ai-2026-02-25/",
+        "source": "Reuters",
+        "sourceId": "reuters_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Wed, 25 Feb 2026 16:38:12 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOUWdfaHBhbE4tUnNaZHEzMjRSN0xtRzhVSU16b1NZY0FTMlF3YnNiNk82MjNfYVdfQ2tjZHotWmMyMXgtV2hIMFdSdktyZy14UExzaWY2bUhYR0ExUmZ4NzhCU2NNTjBVZi1XdHJ"
+      },
+      {
+        "headline": "Larry Summers to resign from Harvard over Epstein ties - Reuters",
+        "url": "https://www.reuters.com/world/us/larry-summers-resign-harvard-new-york-times-reports-2026-02-25/",
+        "source": "Reuters",
+        "sourceId": "reuters_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Wed, 25 Feb 2026 16:49:47 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPdUJfUkpGOEYtbzBkWjRlNmtlN1FHdG1hZWYzYUFQT05yS2JBSWI5Vk5oMWJxT1ItelVJZ1B2OVNpZmtDejBiQ3FHN2k3eUtNOGU0R2ktZmtlbjlWZE9hMUw3Zm84TTl5NThSSGN"
+      },
+      {
+        "headline": "Rubio urges Caribbean leaders to cooperate on gangs as Cuba worries grow - Reuters",
+        "url": "https://www.reuters.com/world/us/rubio-begins-talks-with-caribbean-leaders-amid-cuba-worries-2026-02-25/",
+        "source": "Reuters",
+        "sourceId": "reuters_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Wed, 25 Feb 2026 16:49:14 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQWk9aa0tONDhaWHI5cEpUZjdQUGZwNDJpcUhaV3ZfQ28wMV9oR3VsQmd1ZjdNMjNRQjdBR0tqVXJyQWVVRUJLN3VSX3NCMU9rSmkxQ3d6Um95RlI4b1VHcFNISHplMHRQSHdOR1F"
+      },
+      {
+        "headline": "Government spending lifts global debt to a record $348 trillion in 2025, says IIF - Reuters",
+        "url": "https://www.reuters.com/business/finance/government-spending-lifts-global-debt-record-348-trillion-2025-says-iif-2026-02-25/",
+        "source": "Reuters",
+        "sourceId": "reuters_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Wed, 25 Feb 2026 15:33:24 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTnFrVnkweldTUzViZ21MbnZMMktzWFBwM3BaNzZKSlVKOWw4R2c0bDRyZmJ0RmZETzcyWVNROUNBb3ptaF9yQlJLM2o0RXJVaC1WVDhMNGlzcXo3MXM1VDg5dHNMWUV4NEVwVkd"
+      },
+      {
+        "headline": "JP Morgan raises long-term gold price forecast to $4,500 - Reuters",
+        "url": "https://www.reuters.com/world/asia-pacific/jp-morgan-raises-long-term-gold-price-forecast-4500-2026-02-25/",
+        "source": "Reuters",
+        "sourceId": "reuters_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Wed, 25 Feb 2026 15:06:13 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYUhVUm5aUDdOWEJ1YUEzTEtBQzBWQ3VEZENYX1U0RFU1ajdnREFwTGRmejNHcF9wRFNKMVpmY1BNenhYYU5XaWZYa3JVZkV1SGpZX094U1NFRks2SV9ONWpmVzZ0cDR5NWdfcDZ"
+      },
+      {
+        "headline": "White House to host Big Tech in pledge to rein in power costs - Reuters",
+        "url": "https://www.reuters.com/business/energy/white-house-host-big-tech-pledge-rein-power-costs-2026-02-25/",
+        "source": "Reuters",
+        "sourceId": "reuters_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Wed, 25 Feb 2026 17:06:49 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPSkp6YmR2a3JBcS13QUZEeWNBaTF3UXdwNUJOWWxRazY1alM3T3RyblFuSDZfS0xHRTlkbzBQXzZlSVV5eDFlTjByZDAtR05tdnVPdmxKRTNOUUFHLThrck1SSUtMMmhMLTRJVHR"
+      },
+      {
+        "headline": "Vance says Trump still prefers diplomatic solution with Iran - Reuters",
+        "url": "https://www.reuters.com/world/middle-east/vance-tells-fox-news-trump-still-prefers-diplomatic-solution-with-iran-2026-02-25/",
+        "source": "Reuters",
+        "sourceId": "reuters_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Wed, 25 Feb 2026 16:02:16 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxObnp6b2JaMFFmd3phZ3hMTEsxM1hrbnNQVWhjR0YyRTlMR29NZU96dVctLU9STHducUZEczJrWU83N3laZHZ3NEUzOHhFZDBkeG1ydEVUTm4xRmNVZTRmOTJFa2VCT0pBZkNWR2V"
+      },
+      {
+        "headline": "Ukraine to cover 4,000 km of roads with anti-drone nets by year-end, minister says - Reuters",
+        "url": "https://www.reuters.com/business/aerospace-defense/ukraine-cover-4000-km-roads-with-anti-drone-nets-by-year-end-minister-says-2026-02-25/",
+        "source": "Reuters",
+        "sourceId": "reuters_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Wed, 25 Feb 2026 15:05:09 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTHRZX3pQTTZ3UFpoSDczZ0xwUHJIaUlUUU1aSWxBdW1MUmU5WWw4ajhMLVUyZV81d0FHcWU2UmhtVV9WY05qVV9zcTRwOXhKT1FQOTMxM3l1aU9rU0N2VHdBZWc2TWtrcnF0cEx"
+      },
+      {
+        "headline": "Britain has not paused Chagos Island deal ratification after US criticism - Reuters",
+        "url": "https://www.reuters.com/world/uk/britain-halts-chagos-island-deal-ratification-bbc-reports-2026-02-25/",
+        "source": "Reuters",
+        "sourceId": "reuters_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Wed, 25 Feb 2026 14:09:25 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNbUtsWFVBMkNLSEFWaW1zdmdaYnp2eW9lNUV1amloQ1VpMkY0NjJfNGFJSWduWUNTX29ZS0dlMWQ4VGNvazJBY1FpOHh5WkF3T185a0h1OXM5bFhRaWZpY3RwNWtwYW92ZUs3MVN"
+      },
+      {
+        "headline": "Exclusive: Saudi Arabia boosts oil output, exports for US attack on Iran contingency, sources say - Reuters",
+        "url": "https://www.reuters.com/business/energy/saudi-arabia-boosts-oil-output-exports-us-attack-iran-contingency-sources-say-2026-02-25/",
+        "source": "Reuters",
+        "sourceId": "reuters_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Wed, 25 Feb 2026 14:17:23 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOUNsQ3FDckstNXp3OTZ0TDNfWi1tMHVqRTY2NmF2UHNpb1k2aXBuNkN0UTdQOVhTckZBUGk3Z3JHTDJ3SGc4RjJyekxHelU2b3ZxN3hZMTE0aTBjb2lUbE5QWEdSMWZrRkJoeWZ"
+      },
+      {
+        "headline": "Iran sees 'good outlook' for talks with US as negotiating team heads to Geneva - Reuters",
+        "url": "https://www.reuters.com/world/middle-east/iran-sees-good-outlook-talks-with-us-negotiating-team-heads-geneva-2026-02-25/",
+        "source": "Reuters",
+        "sourceId": "reuters_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Wed, 25 Feb 2026 13:46:51 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPckN5S3FmdXVzZERuNjYtTU00YjhfWWgxYTRHdUd1b09RcE9jRlFaYVRIM1ZZRTBkVHJvM2FZeWZsX2lGSlI2OWthRmtsR0R0MFJzME80QllxRkwyQzF1MHo3LUJFX1VCajFIMXV"
       },
       {
         "headline": "'Fear is everywhere': BBC reports from Mexican city turned into war zone by drug cartel feud",
@@ -1418,7 +1575,7 @@
       },
       {
         "headline": "Chaos, confusion and $200 billion dreams: What I saw at India’s AI summit - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Hb2p3em1Pbmt6Rm1PN09hSW0yU3JaelU2UXE2bVFPazRnaGJ2MTlEYTUzdmVLRllRU0pMa2xiRlE3eEFfc1ZuQ3NBUFNZY01hVGRuZmxoOFZ0YWVWWmFkZ0JkRWpiSjdC0gFuQVVfeXFMTlJEcjViTXd4V1pCYmJ1ZXBvS2xLUHdWWW1Ld0JPSElLNVlBVnlVSG1WRXVkdUFZbklBQVUxUG1rMEdERE1BTElvZzZMRDhJUnN6aW0zVzFDU3NOZVhCb0JjTGxVRnkwZWlxQ1I5RHc?oc=5",
+        "url": "https://www.cnbc.com/2026/02/21/ai-summit-india-tech.html",
         "source": "Daybook: International Events",
         "sourceId": "daybook_intl",
         "category": "daybook",
@@ -1567,16 +1724,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNbGdRNUwySmZKejlkdWZmUWR0TkZPcVB4cnFBVEk4TUpfaERtcTdNMVVXQ1NIYnZPSlpMa1ZKYUlZajN1eVFlV2wyTkNDcXU4NTBySGFTN19Mbmo1MnJkSmt4bS1EaERWRlVwdXR"
       },
       {
-        "headline": "Clippers working to integrate their trade deadline additions - Orange County Register",
-        "url": "https://www.ocregister.com/2026/02/18/clippers-working-to-integrate-their-trade-deadline-additions/",
-        "source": "Daybook: Economic Calendar",
-        "sourceId": "daybook_econ",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Thu, 19 Feb 2026 00:40:22 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNZWVWZFlNU1hLZXdDblJySHR6OHFveTZQLWRvNzdyTVVRRlJ2MzlIOHZuU3dreXRvOEtUVW9OMUlWak0xSGVqNG5LQ3pULVJiRVR1SmpjT1A2YkhPTWpEeUpNdGdPbXgwbS1HVTc"
-      },
-      {
         "headline": "Columbus Blue Jackets may hang onto free agents past trade deadline - The Columbus Dispatch",
         "url": "https://www.dispatch.com/story/sports/nhl/columbus-blue-jackets/2026/02/24/columbus-blue-jackets-may-hang-onto-free-agents-past-trade-deadline/88833945007/",
         "source": "Daybook: Economic Calendar",
@@ -1595,6 +1742,16 @@
         "priority": "reference",
         "date": "Tue, 24 Feb 2026 03:32:31 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQN0lJYVJSOXVQVEloR25zZlZjRGRWVGIzMl84QmxvWFFxWDVRRGo0azNYb281UnMtVjFpbFNfSUJmVER3S0V6UDlqV1JNcUVua0ZnbzdQR2ptUUpXQ1NWOGIzR1NXUndLbUlhWFB"
+      },
+      {
+        "headline": "How Mike Conley’s wild trade deadline journey led him back to Minnesota - The New York Times",
+        "url": "https://www.nytimes.com/athletic/7058049/2026/02/20/mike-conleys-minnesota-trade-deadline/",
+        "source": "Daybook: Economic Calendar",
+        "sourceId": "daybook_econ",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Fri, 20 Feb 2026 13:30:43 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNR09Xd0VHejdPemdGLUZieVpxQ2VZWGtuYjZzRy1LZVA0WXpRaXk1NVhmOENSbVJ4c0ZVampmNkdlcHBQMmNnUVdnNjI5ZGJGUUZweGw5YVVDTnBKUU4xT2dqcXB6VVJ2My1nQmt"
       },
       {
         "headline": "Justices reveal little about whether the deadline for removing cases to federal court can be excused - SCOTUSblog",
@@ -1647,16 +1804,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFB5cUtEaWNoVTd2OU5RX2FMR0Y5Sk12VWQ0TzdXOEFaTzJfMWRsR00xcnNNU0g4UHl3cldjRW5TbXFweUJBVVFfRENDNFRNbnFPY0k4eFdBVmd2dWZqbWl6R1hvNk5RbGNjd2IxNjR"
       },
       {
-        "headline": "Update to renewal dog license payment deadline: March 3rd - shrewsbury-ma.gov",
-        "url": "https://shrewsburyma.gov/m/newsflash/home/detail/9516",
-        "source": "Daybook: Scheduled Events",
-        "sourceId": "daybook_scheduled",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Wed, 25 Feb 2026 17:24:03 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xcndnZUplZmdvTzh0S3JZeldqcmZEZzRFY1hXdUIxTnd0NTh4VVhpaVpMMThTRTVDWFJMTDAxU1VwdkxBejhLQjRRRzFDRW51UklTYmhTNVRJeGdjTEdF?oc=5\" target=\"_bla"
-      },
-      {
         "headline": "Ahead of Feb. 27 Deadline, Mayor Mamdani Urges Families to Apply for Pre-K and 3-K - NYC.gov",
         "url": "https://www.nyc.gov/mayors-office/news/2026/02/ahead-of-feb--27-deadline--mayor-mamdani-urges-families-to-apply",
         "source": "Daybook: Scheduled Events",
@@ -1665,6 +1812,16 @@
         "priority": "reference",
         "date": "Wed, 25 Feb 2026 17:26:15 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOcW1NMTgtNGFwelZLVTVjNHRLR1F2eFFFZDl2ODFISGRqR1g5SFR5TEdoR0xHaW9UUERmd01jQ1Y2MUc2M2lLX05iblZmX1kyN3dJS0xsR0pIUmpVRVhLYUFXX3ZBa0lVU0pGNzR"
+      },
+      {
+        "headline": "Update to renewal dog license payment deadline: March 3rd - shrewsbury-ma.gov",
+        "url": "https://shrewsburyma.gov/m/newsflash/Home/Detail/9516",
+        "source": "Daybook: Scheduled Events",
+        "sourceId": "daybook_scheduled",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Wed, 25 Feb 2026 17:24:03 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtZzV1VThwazRKdERXMDd1emUwMjZHM0IycDY5Z1BuaFlzRjRfYzVxb1ZJTjhoRV9JaEZFMFNtWWVpeWhfT0xtUE5BNldEeHFYZmg2SW9iMG0zR1lHdnNQNllFMA?oc=5\" target"
       },
       {
         "headline": "Deadline approaching for prospective students with Ferris State family ties to apply for new scholarship - Ferris State University",
@@ -1707,16 +1864,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR2ZTTFgxUW9yTnRTQlAwMFJqTnE3VndIM1lYeGotRGp3MG1zeE1ZU24tOWs3NUNHWGo1XzM2bkNxZkdfUEpWbFhuazhsZDRpV3ZxRmN0MWx5R3BzMmJjRERQVkg5ODBlZ2kwOUh"
       },
       {
-        "headline": "Warner Board Says Paramount Agreed To Raise Offer To $31 A Share Or More If Two Sides Engaged - Deadline",
-        "url": "https://deadline.com/2026/02/warner-bros-discovery-says-paramount-agreed-to-higher-offer-1236726616/",
-        "source": "Daybook: Scheduled Events",
-        "sourceId": "daybook_scheduled",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Wed, 25 Feb 2026 12:05:58 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNSmFNMzRGbV9QS1BOWWlsb0FKTXR5cFZkMU5mWWR3ZEJhZW5XaWhOX2hnOEpoalYydERnZ3Axa09DMFRtUTU4UnBhVWRIV2hfR3dQVnJOVHR2Y0MxWVlRdUh3ZGQyUFZVUzY1dEg"
-      },
-      {
         "headline": "David F. Sandberg To Direct Horror Film ‘A Little Slice Of Hell’ In Development At Paramount - Deadline",
         "url": "https://deadline.com/2026/02/a-little-slice-of-hell-david-f-sandberg-directing-paramount-1236736018/",
         "source": "Daybook: Scheduled Events",
@@ -1725,6 +1872,16 @@
         "priority": "reference",
         "date": "Wed, 25 Feb 2026 18:53:00 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNLWFqb3p0YWVoY3ZsYlNqTVFtN3JsMmk4UGRfN1RVUjJsaHptQ2hfX2ZGT1VyU0MyeTRIM0pWMnR4cjlRWjc3a3RxN0dsSzRnaURFS0dkZkFtaXhHOUVFaUtuYkM1LW1seXJEVGZ"
+      },
+      {
+        "headline": "Warner Board Says Paramount Agreed To Raise Offer To $31 A Share Or More If Two Sides Engaged - Deadline",
+        "url": "https://deadline.com/2026/02/warner-bros-discovery-says-paramount-agreed-to-higher-offer-1236726616/",
+        "source": "Daybook: Scheduled Events",
+        "sourceId": "daybook_scheduled",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Wed, 25 Feb 2026 12:05:58 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNSmFNMzRGbV9QS1BOWWlsb0FKTXR5cFZkMU5mWWR3ZEJhZW5XaWhOX2hnOEpoalYydERnZ3Axa09DMFRtUTU4UnBhVWRIV2hfR3dQVnJOVHR2Y0MxWVlRdUh3ZGQyUFZVUzY1dEg"
       },
       {
         "headline": "'Industry' Renewed For Fifth &amp; Final Season At HBO - Deadline",
@@ -1852,6 +2009,163 @@
           "priority": "primary",
           "date": "Tue, 24 Feb 2026 00:53:02 +0000",
           "description": ""
+        },
+        {
+          "headline": "Cuba says it killed 4, wounded 6 from Florida-based speedboat that opened fire - Reuters",
+          "url": "https://www.reuters.com/world/cuba-says-four-killed-after-speedboat-florida-entered-cuban-waters-opened-fire-2026-02-25/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Wed, 25 Feb 2026 19:34:11 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNbEROWkQtSlVVTEtuNFRhcUVkOUp4UjZ1czRORThfMFRIUzdHdmJNT3FSNGxMWHZKeDBBUmVIVnFBd1VjXzBhY0ZCclBzTkFxdE5YYlZmaGtPaWd6Z1dKUWJ5VmRnRDBJRS1kdnl"
+        },
+        {
+          "headline": "US says it will allow resale of Venezuelan oil to Cuba - Reuters",
+          "url": "https://www.reuters.com/business/energy/us-allow-resale-venezuelan-oil-cuba-treasury-department-says-2026-02-25/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Wed, 25 Feb 2026 18:26:19 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPc2QydEFUTnhuNHZnWmVxcG1aN0MtbkJoend2WU9SWlNBLXA3ZHB6Qm1GbkU3TUl4S2pMaU5DdDYzSGlXWGFneFhzZUxEalBRU0VXR2hubUFucHYxNVFzcXNYOWMtSWxxNml6TXN"
+        },
+        {
+          "headline": "Iceland to hold EU referendum 'in the coming months', PM says - Reuters",
+          "url": "https://www.reuters.com/world/europe/iceland-hold-eu-referendum-over-coming-months-pm-says-2026-02-25/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Wed, 25 Feb 2026 17:10:19 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPYkxyWXVmdWgyWHRBa0pNUDRjVUptcFNYTmt2R3IwVG9ucDZyMkRReGJQbGNRRkJBOEF4czRHUUVsUnJZNmpyTldEc2hLRWV0eHJzSmQ3NnlNc0NoN3YwRVNGcmRmNzVfbkNURW4",
+          "watchCandidate": true,
+          "watchSignals": [
+            {
+              "category": "temporal",
+              "matched": "in the coming"
+            }
+          ]
+        },
+        {
+          "headline": "Exclusive: Google to test changes to search results, source says as EU fine looms - Reuters",
+          "url": "https://www.reuters.com/world/google-test-changes-search-results-source-says-eu-fine-looms-2026-02-25/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Wed, 25 Feb 2026 17:56:55 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxObFVQQnhRc3YzcWtueWZPSFRBR0szWHU5MUJZajd5bzFhUFg5cUw3OEdMaTQ0d05IX0JSam1Yay10VlZLWGRTZmdnR25paTJmQVZkZmQtWVpSTTFlcmVQb3lrZkRSSnpZdlhtRnh"
+        },
+        {
+          "headline": "Companies cutting jobs as investments shift toward AI - Reuters",
+          "url": "https://www.reuters.com/business/world-at-work/companies-cutting-jobs-investments-shift-toward-ai-2026-02-25/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Wed, 25 Feb 2026 16:38:12 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOUWdfaHBhbE4tUnNaZHEzMjRSN0xtRzhVSU16b1NZY0FTMlF3YnNiNk82MjNfYVdfQ2tjZHotWmMyMXgtV2hIMFdSdktyZy14UExzaWY2bUhYR0ExUmZ4NzhCU2NNTjBVZi1XdHJ"
+        },
+        {
+          "headline": "Larry Summers to resign from Harvard over Epstein ties - Reuters",
+          "url": "https://www.reuters.com/world/us/larry-summers-resign-harvard-new-york-times-reports-2026-02-25/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Wed, 25 Feb 2026 16:49:47 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPdUJfUkpGOEYtbzBkWjRlNmtlN1FHdG1hZWYzYUFQT05yS2JBSWI5Vk5oMWJxT1ItelVJZ1B2OVNpZmtDejBiQ3FHN2k3eUtNOGU0R2ktZmtlbjlWZE9hMUw3Zm84TTl5NThSSGN"
+        },
+        {
+          "headline": "Rubio urges Caribbean leaders to cooperate on gangs as Cuba worries grow - Reuters",
+          "url": "https://www.reuters.com/world/us/rubio-begins-talks-with-caribbean-leaders-amid-cuba-worries-2026-02-25/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Wed, 25 Feb 2026 16:49:14 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQWk9aa0tONDhaWHI5cEpUZjdQUGZwNDJpcUhaV3ZfQ28wMV9oR3VsQmd1ZjdNMjNRQjdBR0tqVXJyQWVVRUJLN3VSX3NCMU9rSmkxQ3d6Um95RlI4b1VHcFNISHplMHRQSHdOR1F"
+        },
+        {
+          "headline": "Government spending lifts global debt to a record $348 trillion in 2025, says IIF - Reuters",
+          "url": "https://www.reuters.com/business/finance/government-spending-lifts-global-debt-record-348-trillion-2025-says-iif-2026-02-25/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Wed, 25 Feb 2026 15:33:24 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTnFrVnkweldTUzViZ21MbnZMMktzWFBwM3BaNzZKSlVKOWw4R2c0bDRyZmJ0RmZETzcyWVNROUNBb3ptaF9yQlJLM2o0RXJVaC1WVDhMNGlzcXo3MXM1VDg5dHNMWUV4NEVwVkd"
+        },
+        {
+          "headline": "JP Morgan raises long-term gold price forecast to $4,500 - Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/jp-morgan-raises-long-term-gold-price-forecast-4500-2026-02-25/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Wed, 25 Feb 2026 15:06:13 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYUhVUm5aUDdOWEJ1YUEzTEtBQzBWQ3VEZENYX1U0RFU1ajdnREFwTGRmejNHcF9wRFNKMVpmY1BNenhYYU5XaWZYa3JVZkV1SGpZX094U1NFRks2SV9ONWpmVzZ0cDR5NWdfcDZ"
+        },
+        {
+          "headline": "White House to host Big Tech in pledge to rein in power costs - Reuters",
+          "url": "https://www.reuters.com/business/energy/white-house-host-big-tech-pledge-rein-power-costs-2026-02-25/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Wed, 25 Feb 2026 17:06:49 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPSkp6YmR2a3JBcS13QUZEeWNBaTF3UXdwNUJOWWxRazY1alM3T3RyblFuSDZfS0xHRTlkbzBQXzZlSVV5eDFlTjByZDAtR05tdnVPdmxKRTNOUUFHLThrck1SSUtMMmhMLTRJVHR"
+        },
+        {
+          "headline": "Vance says Trump still prefers diplomatic solution with Iran - Reuters",
+          "url": "https://www.reuters.com/world/middle-east/vance-tells-fox-news-trump-still-prefers-diplomatic-solution-with-iran-2026-02-25/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Wed, 25 Feb 2026 16:02:16 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxObnp6b2JaMFFmd3phZ3hMTEsxM1hrbnNQVWhjR0YyRTlMR29NZU96dVctLU9STHducUZEczJrWU83N3laZHZ3NEUzOHhFZDBkeG1ydEVUTm4xRmNVZTRmOTJFa2VCT0pBZkNWR2V"
+        },
+        {
+          "headline": "Ukraine to cover 4,000 km of roads with anti-drone nets by year-end, minister says - Reuters",
+          "url": "https://www.reuters.com/business/aerospace-defense/ukraine-cover-4000-km-roads-with-anti-drone-nets-by-year-end-minister-says-2026-02-25/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Wed, 25 Feb 2026 15:05:09 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTHRZX3pQTTZ3UFpoSDczZ0xwUHJIaUlUUU1aSWxBdW1MUmU5WWw4ajhMLVUyZV81d0FHcWU2UmhtVV9WY05qVV9zcTRwOXhKT1FQOTMxM3l1aU9rU0N2VHdBZWc2TWtrcnF0cEx"
+        },
+        {
+          "headline": "Britain has not paused Chagos Island deal ratification after US criticism - Reuters",
+          "url": "https://www.reuters.com/world/uk/britain-halts-chagos-island-deal-ratification-bbc-reports-2026-02-25/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Wed, 25 Feb 2026 14:09:25 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNbUtsWFVBMkNLSEFWaW1zdmdaYnp2eW9lNUV1amloQ1VpMkY0NjJfNGFJSWduWUNTX29ZS0dlMWQ4VGNvazJBY1FpOHh5WkF3T185a0h1OXM5bFhRaWZpY3RwNWtwYW92ZUs3MVN"
+        },
+        {
+          "headline": "Exclusive: Saudi Arabia boosts oil output, exports for US attack on Iran contingency, sources say - Reuters",
+          "url": "https://www.reuters.com/business/energy/saudi-arabia-boosts-oil-output-exports-us-attack-iran-contingency-sources-say-2026-02-25/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Wed, 25 Feb 2026 14:17:23 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOUNsQ3FDckstNXp3OTZ0TDNfWi1tMHVqRTY2NmF2UHNpb1k2aXBuNkN0UTdQOVhTckZBUGk3Z3JHTDJ3SGc4RjJyekxHelU2b3ZxN3hZMTE0aTBjb2lUbE5QWEdSMWZrRkJoeWZ"
+        },
+        {
+          "headline": "Iran sees 'good outlook' for talks with US as negotiating team heads to Geneva - Reuters",
+          "url": "https://www.reuters.com/world/middle-east/iran-sees-good-outlook-talks-with-us-negotiating-team-heads-geneva-2026-02-25/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Wed, 25 Feb 2026 13:46:51 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPckN5S3FmdXVzZERuNjYtTU00YjhfWWgxYTRHdUd1b09RcE9jRlFaYVRIM1ZZRTBkVHJvM2FZeWZsX2lGSlI2OWthRmtsR0R0MFJzME80QllxRkwyQzF1MHo3LUJFX1VCajFIMXV"
         },
         {
           "headline": "Four killed in firefight between Cuban coastguard and Florida-registered speedboat",
@@ -3145,7 +3459,7 @@
         },
         {
           "headline": "Chaos, confusion and $200 billion dreams: What I saw at India’s AI summit - CNBC",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Hb2p3em1Pbmt6Rm1PN09hSW0yU3JaelU2UXE2bVFPazRnaGJ2MTlEYTUzdmVLRllRU0pMa2xiRlE3eEFfc1ZuQ3NBUFNZY01hVGRuZmxoOFZ0YWVWWmFkZ0JkRWpiSjdC0gFuQVVfeXFMTlJEcjViTXd4V1pCYmJ1ZXBvS2xLUHdWWW1Ld0JPSElLNVlBVnlVSG1WRXVkdUFZbklBQVUxUG1rMEdERE1BTElvZzZMRDhJUnN6aW0zVzFDU3NOZVhCb0JjTGxVRnkwZWlxQ1I5RHc?oc=5",
+          "url": "https://www.cnbc.com/2026/02/21/ai-summit-india-tech.html",
           "source": "Daybook: International Events",
           "sourceId": "daybook_intl",
           "category": "daybook",
@@ -3294,16 +3608,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNbGdRNUwySmZKejlkdWZmUWR0TkZPcVB4cnFBVEk4TUpfaERtcTdNMVVXQ1NIYnZPSlpMa1ZKYUlZajN1eVFlV2wyTkNDcXU4NTBySGFTN19Mbmo1MnJkSmt4bS1EaERWRlVwdXR"
         },
         {
-          "headline": "Clippers working to integrate their trade deadline additions - Orange County Register",
-          "url": "https://www.ocregister.com/2026/02/18/clippers-working-to-integrate-their-trade-deadline-additions/",
-          "source": "Daybook: Economic Calendar",
-          "sourceId": "daybook_econ",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Thu, 19 Feb 2026 00:40:22 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNZWVWZFlNU1hLZXdDblJySHR6OHFveTZQLWRvNzdyTVVRRlJ2MzlIOHZuU3dreXRvOEtUVW9OMUlWak0xSGVqNG5LQ3pULVJiRVR1SmpjT1A2YkhPTWpEeUpNdGdPbXgwbS1HVTc"
-        },
-        {
           "headline": "Columbus Blue Jackets may hang onto free agents past trade deadline - The Columbus Dispatch",
           "url": "https://www.dispatch.com/story/sports/nhl/columbus-blue-jackets/2026/02/24/columbus-blue-jackets-may-hang-onto-free-agents-past-trade-deadline/88833945007/",
           "source": "Daybook: Economic Calendar",
@@ -3322,6 +3626,16 @@
           "priority": "reference",
           "date": "Tue, 24 Feb 2026 03:32:31 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQN0lJYVJSOXVQVEloR25zZlZjRGRWVGIzMl84QmxvWFFxWDVRRGo0azNYb281UnMtVjFpbFNfSUJmVER3S0V6UDlqV1JNcUVua0ZnbzdQR2ptUUpXQ1NWOGIzR1NXUndLbUlhWFB"
+        },
+        {
+          "headline": "How Mike Conley’s wild trade deadline journey led him back to Minnesota - The New York Times",
+          "url": "https://www.nytimes.com/athletic/7058049/2026/02/20/mike-conleys-minnesota-trade-deadline/",
+          "source": "Daybook: Economic Calendar",
+          "sourceId": "daybook_econ",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Fri, 20 Feb 2026 13:30:43 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNR09Xd0VHejdPemdGLUZieVpxQ2VZWGtuYjZzRy1LZVA0WXpRaXk1NVhmOENSbVJ4c0ZVampmNkdlcHBQMmNnUVdnNjI5ZGJGUUZweGw5YVVDTnBKUU4xT2dqcXB6VVJ2My1nQmt"
         },
         {
           "headline": "Justices reveal little about whether the deadline for removing cases to federal court can be excused - SCOTUSblog",
@@ -3374,16 +3688,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFB5cUtEaWNoVTd2OU5RX2FMR0Y5Sk12VWQ0TzdXOEFaTzJfMWRsR00xcnNNU0g4UHl3cldjRW5TbXFweUJBVVFfRENDNFRNbnFPY0k4eFdBVmd2dWZqbWl6R1hvNk5RbGNjd2IxNjR"
         },
         {
-          "headline": "Update to renewal dog license payment deadline: March 3rd - shrewsbury-ma.gov",
-          "url": "https://shrewsburyma.gov/m/newsflash/home/detail/9516",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Wed, 25 Feb 2026 17:24:03 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xcndnZUplZmdvTzh0S3JZeldqcmZEZzRFY1hXdUIxTnd0NTh4VVhpaVpMMThTRTVDWFJMTDAxU1VwdkxBejhLQjRRRzFDRW51UklTYmhTNVRJeGdjTEdF?oc=5\" target=\"_bla"
-        },
-        {
           "headline": "Ahead of Feb. 27 Deadline, Mayor Mamdani Urges Families to Apply for Pre-K and 3-K - NYC.gov",
           "url": "https://www.nyc.gov/mayors-office/news/2026/02/ahead-of-feb--27-deadline--mayor-mamdani-urges-families-to-apply",
           "source": "Daybook: Scheduled Events",
@@ -3392,6 +3696,16 @@
           "priority": "reference",
           "date": "Wed, 25 Feb 2026 17:26:15 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOcW1NMTgtNGFwelZLVTVjNHRLR1F2eFFFZDl2ODFISGRqR1g5SFR5TEdoR0xHaW9UUERmd01jQ1Y2MUc2M2lLX05iblZmX1kyN3dJS0xsR0pIUmpVRVhLYUFXX3ZBa0lVU0pGNzR"
+        },
+        {
+          "headline": "Update to renewal dog license payment deadline: March 3rd - shrewsbury-ma.gov",
+          "url": "https://shrewsburyma.gov/m/newsflash/Home/Detail/9516",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Wed, 25 Feb 2026 17:24:03 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtZzV1VThwazRKdERXMDd1emUwMjZHM0IycDY5Z1BuaFlzRjRfYzVxb1ZJTjhoRV9JaEZFMFNtWWVpeWhfT0xtUE5BNldEeHFYZmg2SW9iMG0zR1lHdnNQNllFMA?oc=5\" target"
         },
         {
           "headline": "Deadline approaching for prospective students with Ferris State family ties to apply for new scholarship - Ferris State University",
@@ -3434,14 +3748,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR2ZTTFgxUW9yTnRTQlAwMFJqTnE3VndIM1lYeGotRGp3MG1zeE1ZU24tOWs3NUNHWGo1XzM2bkNxZkdfUEpWbFhuazhsZDRpV3ZxRmN0MWx5R3BzMmJjRERQVkg5ODBlZ2kwOUh"
         },
         {
-          "headline": "Warner Board Says Paramount Agreed To Raise Offer To $31 A Share Or More If Two Sides Engaged - Deadline",
-          "url": "https://deadline.com/2026/02/warner-bros-discovery-says-paramount-agreed-to-higher-offer-1236726616/",
+          "headline": "David F. Sandberg To Direct Horror Film ‘A Little Slice Of Hell’ In Development At Paramount - Deadline",
+          "url": "https://deadline.com/2026/02/a-little-slice-of-hell-david-f-sandberg-directing-paramount-1236736018/",
           "source": "Daybook: Scheduled Events",
           "sourceId": "daybook_scheduled",
           "category": "daybook",
           "priority": "reference",
-          "date": "Wed, 25 Feb 2026 12:05:58 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNSmFNMzRGbV9QS1BOWWlsb0FKTXR5cFZkMU5mWWR3ZEJhZW5XaWhOX2hnOEpoalYydERnZ3Axa09DMFRtUTU4UnBhVWRIV2hfR3dQVnJOVHR2Y0MxWVlRdUh3ZGQyUFZVUzY1dEg"
+          "date": "Wed, 25 Feb 2026 18:53:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNLWFqb3p0YWVoY3ZsYlNqTVFtN3JsMmk4UGRfN1RVUjJsaHptQ2hfX2ZGT1VyU0MyeTRIM0pWMnR4cjlRWjc3a3RxN0dsSzRnaURFS0dkZkFtaXhHOUVFaUtuYkM1LW1seXJEVGZ"
         },
         {
           "headline": "Fantasy spin on 2026 NHL Trade Deadline - NHL.com",
@@ -3454,14 +3768,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQZVdRcVJWYmhxM3d1bUNMMXVoczhIZ1lDVDZ6TnUyTnEwM2lmUVpmcHRZQTRySG43R3FYc0JjR1I0SUFHaVFPZE91blZUN0Zjd0NFS1N5NHpTNGEzLUc1Mmp6WHFqaTdjeEljUzV"
         },
         {
-          "headline": "David F. Sandberg To Direct Horror Film ‘A Little Slice Of Hell’ In Development At Paramount - Deadline",
-          "url": "https://deadline.com/2026/02/a-little-slice-of-hell-david-f-sandberg-directing-paramount-1236736018/",
+          "headline": "Warner Board Says Paramount Agreed To Raise Offer To $31 A Share Or More If Two Sides Engaged - Deadline",
+          "url": "https://deadline.com/2026/02/warner-bros-discovery-says-paramount-agreed-to-higher-offer-1236726616/",
           "source": "Daybook: Scheduled Events",
           "sourceId": "daybook_scheduled",
           "category": "daybook",
           "priority": "reference",
-          "date": "Wed, 25 Feb 2026 18:53:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNLWFqb3p0YWVoY3ZsYlNqTVFtN3JsMmk4UGRfN1RVUjJsaHptQ2hfX2ZGT1VyU0MyeTRIM0pWMnR4cjlRWjc3a3RxN0dsSzRnaURFS0dkZkFtaXhHOUVFaUtuYkM1LW1seXJEVGZ"
+          "date": "Wed, 25 Feb 2026 12:05:58 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNSmFNMzRGbV9QS1BOWWlsb0FKTXR5cFZkMU5mWWR3ZEJhZW5XaWhOX2hnOEpoalYydERnZ3Axa09DMFRtUTU4UnBhVWRIV2hfR3dQVnJOVHR2Y0MxWVlRdUh3ZGQyUFZVUzY1dEg"
         },
         {
           "headline": "'Industry' Renewed For Fifth &amp; Final Season At HBO - Deadline",
@@ -3590,6 +3904,163 @@
           "priority": "primary",
           "date": "Tue, 24 Feb 2026 00:53:02 +0000",
           "description": ""
+        },
+        {
+          "headline": "Cuba says it killed 4, wounded 6 from Florida-based speedboat that opened fire - Reuters",
+          "url": "https://www.reuters.com/world/cuba-says-four-killed-after-speedboat-florida-entered-cuban-waters-opened-fire-2026-02-25/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Wed, 25 Feb 2026 19:34:11 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNbEROWkQtSlVVTEtuNFRhcUVkOUp4UjZ1czRORThfMFRIUzdHdmJNT3FSNGxMWHZKeDBBUmVIVnFBd1VjXzBhY0ZCclBzTkFxdE5YYlZmaGtPaWd6Z1dKUWJ5VmRnRDBJRS1kdnl"
+        },
+        {
+          "headline": "US says it will allow resale of Venezuelan oil to Cuba - Reuters",
+          "url": "https://www.reuters.com/business/energy/us-allow-resale-venezuelan-oil-cuba-treasury-department-says-2026-02-25/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Wed, 25 Feb 2026 18:26:19 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPc2QydEFUTnhuNHZnWmVxcG1aN0MtbkJoend2WU9SWlNBLXA3ZHB6Qm1GbkU3TUl4S2pMaU5DdDYzSGlXWGFneFhzZUxEalBRU0VXR2hubUFucHYxNVFzcXNYOWMtSWxxNml6TXN"
+        },
+        {
+          "headline": "Iceland to hold EU referendum 'in the coming months', PM says - Reuters",
+          "url": "https://www.reuters.com/world/europe/iceland-hold-eu-referendum-over-coming-months-pm-says-2026-02-25/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Wed, 25 Feb 2026 17:10:19 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPYkxyWXVmdWgyWHRBa0pNUDRjVUptcFNYTmt2R3IwVG9ucDZyMkRReGJQbGNRRkJBOEF4czRHUUVsUnJZNmpyTldEc2hLRWV0eHJzSmQ3NnlNc0NoN3YwRVNGcmRmNzVfbkNURW4",
+          "watchCandidate": true,
+          "watchSignals": [
+            {
+              "category": "temporal",
+              "matched": "in the coming"
+            }
+          ]
+        },
+        {
+          "headline": "Exclusive: Google to test changes to search results, source says as EU fine looms - Reuters",
+          "url": "https://www.reuters.com/world/google-test-changes-search-results-source-says-eu-fine-looms-2026-02-25/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Wed, 25 Feb 2026 17:56:55 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxObFVQQnhRc3YzcWtueWZPSFRBR0szWHU5MUJZajd5bzFhUFg5cUw3OEdMaTQ0d05IX0JSam1Yay10VlZLWGRTZmdnR25paTJmQVZkZmQtWVpSTTFlcmVQb3lrZkRSSnpZdlhtRnh"
+        },
+        {
+          "headline": "Companies cutting jobs as investments shift toward AI - Reuters",
+          "url": "https://www.reuters.com/business/world-at-work/companies-cutting-jobs-investments-shift-toward-ai-2026-02-25/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Wed, 25 Feb 2026 16:38:12 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOUWdfaHBhbE4tUnNaZHEzMjRSN0xtRzhVSU16b1NZY0FTMlF3YnNiNk82MjNfYVdfQ2tjZHotWmMyMXgtV2hIMFdSdktyZy14UExzaWY2bUhYR0ExUmZ4NzhCU2NNTjBVZi1XdHJ"
+        },
+        {
+          "headline": "Larry Summers to resign from Harvard over Epstein ties - Reuters",
+          "url": "https://www.reuters.com/world/us/larry-summers-resign-harvard-new-york-times-reports-2026-02-25/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Wed, 25 Feb 2026 16:49:47 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPdUJfUkpGOEYtbzBkWjRlNmtlN1FHdG1hZWYzYUFQT05yS2JBSWI5Vk5oMWJxT1ItelVJZ1B2OVNpZmtDejBiQ3FHN2k3eUtNOGU0R2ktZmtlbjlWZE9hMUw3Zm84TTl5NThSSGN"
+        },
+        {
+          "headline": "Rubio urges Caribbean leaders to cooperate on gangs as Cuba worries grow - Reuters",
+          "url": "https://www.reuters.com/world/us/rubio-begins-talks-with-caribbean-leaders-amid-cuba-worries-2026-02-25/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Wed, 25 Feb 2026 16:49:14 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQWk9aa0tONDhaWHI5cEpUZjdQUGZwNDJpcUhaV3ZfQ28wMV9oR3VsQmd1ZjdNMjNRQjdBR0tqVXJyQWVVRUJLN3VSX3NCMU9rSmkxQ3d6Um95RlI4b1VHcFNISHplMHRQSHdOR1F"
+        },
+        {
+          "headline": "Government spending lifts global debt to a record $348 trillion in 2025, says IIF - Reuters",
+          "url": "https://www.reuters.com/business/finance/government-spending-lifts-global-debt-record-348-trillion-2025-says-iif-2026-02-25/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Wed, 25 Feb 2026 15:33:24 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTnFrVnkweldTUzViZ21MbnZMMktzWFBwM3BaNzZKSlVKOWw4R2c0bDRyZmJ0RmZETzcyWVNROUNBb3ptaF9yQlJLM2o0RXJVaC1WVDhMNGlzcXo3MXM1VDg5dHNMWUV4NEVwVkd"
+        },
+        {
+          "headline": "JP Morgan raises long-term gold price forecast to $4,500 - Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/jp-morgan-raises-long-term-gold-price-forecast-4500-2026-02-25/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Wed, 25 Feb 2026 15:06:13 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYUhVUm5aUDdOWEJ1YUEzTEtBQzBWQ3VEZENYX1U0RFU1ajdnREFwTGRmejNHcF9wRFNKMVpmY1BNenhYYU5XaWZYa3JVZkV1SGpZX094U1NFRks2SV9ONWpmVzZ0cDR5NWdfcDZ"
+        },
+        {
+          "headline": "White House to host Big Tech in pledge to rein in power costs - Reuters",
+          "url": "https://www.reuters.com/business/energy/white-house-host-big-tech-pledge-rein-power-costs-2026-02-25/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Wed, 25 Feb 2026 17:06:49 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPSkp6YmR2a3JBcS13QUZEeWNBaTF3UXdwNUJOWWxRazY1alM3T3RyblFuSDZfS0xHRTlkbzBQXzZlSVV5eDFlTjByZDAtR05tdnVPdmxKRTNOUUFHLThrck1SSUtMMmhMLTRJVHR"
+        },
+        {
+          "headline": "Vance says Trump still prefers diplomatic solution with Iran - Reuters",
+          "url": "https://www.reuters.com/world/middle-east/vance-tells-fox-news-trump-still-prefers-diplomatic-solution-with-iran-2026-02-25/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Wed, 25 Feb 2026 16:02:16 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxObnp6b2JaMFFmd3phZ3hMTEsxM1hrbnNQVWhjR0YyRTlMR29NZU96dVctLU9STHducUZEczJrWU83N3laZHZ3NEUzOHhFZDBkeG1ydEVUTm4xRmNVZTRmOTJFa2VCT0pBZkNWR2V"
+        },
+        {
+          "headline": "Ukraine to cover 4,000 km of roads with anti-drone nets by year-end, minister says - Reuters",
+          "url": "https://www.reuters.com/business/aerospace-defense/ukraine-cover-4000-km-roads-with-anti-drone-nets-by-year-end-minister-says-2026-02-25/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Wed, 25 Feb 2026 15:05:09 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTHRZX3pQTTZ3UFpoSDczZ0xwUHJIaUlUUU1aSWxBdW1MUmU5WWw4ajhMLVUyZV81d0FHcWU2UmhtVV9WY05qVV9zcTRwOXhKT1FQOTMxM3l1aU9rU0N2VHdBZWc2TWtrcnF0cEx"
+        },
+        {
+          "headline": "Britain has not paused Chagos Island deal ratification after US criticism - Reuters",
+          "url": "https://www.reuters.com/world/uk/britain-halts-chagos-island-deal-ratification-bbc-reports-2026-02-25/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Wed, 25 Feb 2026 14:09:25 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNbUtsWFVBMkNLSEFWaW1zdmdaYnp2eW9lNUV1amloQ1VpMkY0NjJfNGFJSWduWUNTX29ZS0dlMWQ4VGNvazJBY1FpOHh5WkF3T185a0h1OXM5bFhRaWZpY3RwNWtwYW92ZUs3MVN"
+        },
+        {
+          "headline": "Exclusive: Saudi Arabia boosts oil output, exports for US attack on Iran contingency, sources say - Reuters",
+          "url": "https://www.reuters.com/business/energy/saudi-arabia-boosts-oil-output-exports-us-attack-iran-contingency-sources-say-2026-02-25/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Wed, 25 Feb 2026 14:17:23 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOUNsQ3FDckstNXp3OTZ0TDNfWi1tMHVqRTY2NmF2UHNpb1k2aXBuNkN0UTdQOVhTckZBUGk3Z3JHTDJ3SGc4RjJyekxHelU2b3ZxN3hZMTE0aTBjb2lUbE5QWEdSMWZrRkJoeWZ"
+        },
+        {
+          "headline": "Iran sees 'good outlook' for talks with US as negotiating team heads to Geneva - Reuters",
+          "url": "https://www.reuters.com/world/middle-east/iran-sees-good-outlook-talks-with-us-negotiating-team-heads-geneva-2026-02-25/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Wed, 25 Feb 2026 13:46:51 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPckN5S3FmdXVzZERuNjYtTU00YjhfWWgxYTRHdUd1b09RcE9jRlFaYVRIM1ZZRTBkVHJvM2FZeWZsX2lGSlI2OWthRmtsR0R0MFJzME80QllxRkwyQzF1MHo3LUJFX1VCajFIMXV"
         },
         {
           "headline": "'Fear is everywhere': BBC reports from Mexican city turned into war zone by drug cartel feud",
@@ -4882,7 +5353,7 @@
         },
         {
           "headline": "Chaos, confusion and $200 billion dreams: What I saw at India’s AI summit - CNBC",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Hb2p3em1Pbmt6Rm1PN09hSW0yU3JaelU2UXE2bVFPazRnaGJ2MTlEYTUzdmVLRllRU0pMa2xiRlE3eEFfc1ZuQ3NBUFNZY01hVGRuZmxoOFZ0YWVWWmFkZ0JkRWpiSjdC0gFuQVVfeXFMTlJEcjViTXd4V1pCYmJ1ZXBvS2xLUHdWWW1Ld0JPSElLNVlBVnlVSG1WRXVkdUFZbklBQVUxUG1rMEdERE1BTElvZzZMRDhJUnN6aW0zVzFDU3NOZVhCb0JjTGxVRnkwZWlxQ1I5RHc?oc=5",
+          "url": "https://www.cnbc.com/2026/02/21/ai-summit-india-tech.html",
           "source": "Daybook: International Events",
           "sourceId": "daybook_intl",
           "category": "daybook",
@@ -5031,16 +5502,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNbGdRNUwySmZKejlkdWZmUWR0TkZPcVB4cnFBVEk4TUpfaERtcTdNMVVXQ1NIYnZPSlpMa1ZKYUlZajN1eVFlV2wyTkNDcXU4NTBySGFTN19Mbmo1MnJkSmt4bS1EaERWRlVwdXR"
         },
         {
-          "headline": "Clippers working to integrate their trade deadline additions - Orange County Register",
-          "url": "https://www.ocregister.com/2026/02/18/clippers-working-to-integrate-their-trade-deadline-additions/",
-          "source": "Daybook: Economic Calendar",
-          "sourceId": "daybook_econ",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Thu, 19 Feb 2026 00:40:22 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNZWVWZFlNU1hLZXdDblJySHR6OHFveTZQLWRvNzdyTVVRRlJ2MzlIOHZuU3dreXRvOEtUVW9OMUlWak0xSGVqNG5LQ3pULVJiRVR1SmpjT1A2YkhPTWpEeUpNdGdPbXgwbS1HVTc"
-        },
-        {
           "headline": "Columbus Blue Jackets may hang onto free agents past trade deadline - The Columbus Dispatch",
           "url": "https://www.dispatch.com/story/sports/nhl/columbus-blue-jackets/2026/02/24/columbus-blue-jackets-may-hang-onto-free-agents-past-trade-deadline/88833945007/",
           "source": "Daybook: Economic Calendar",
@@ -5059,6 +5520,16 @@
           "priority": "reference",
           "date": "Tue, 24 Feb 2026 03:32:31 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQN0lJYVJSOXVQVEloR25zZlZjRGRWVGIzMl84QmxvWFFxWDVRRGo0azNYb281UnMtVjFpbFNfSUJmVER3S0V6UDlqV1JNcUVua0ZnbzdQR2ptUUpXQ1NWOGIzR1NXUndLbUlhWFB"
+        },
+        {
+          "headline": "How Mike Conley’s wild trade deadline journey led him back to Minnesota - The New York Times",
+          "url": "https://www.nytimes.com/athletic/7058049/2026/02/20/mike-conleys-minnesota-trade-deadline/",
+          "source": "Daybook: Economic Calendar",
+          "sourceId": "daybook_econ",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Fri, 20 Feb 2026 13:30:43 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNR09Xd0VHejdPemdGLUZieVpxQ2VZWGtuYjZzRy1LZVA0WXpRaXk1NVhmOENSbVJ4c0ZVampmNkdlcHBQMmNnUVdnNjI5ZGJGUUZweGw5YVVDTnBKUU4xT2dqcXB6VVJ2My1nQmt"
         },
         {
           "headline": "Justices reveal little about whether the deadline for removing cases to federal court can be excused - SCOTUSblog",
@@ -5111,16 +5582,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFB5cUtEaWNoVTd2OU5RX2FMR0Y5Sk12VWQ0TzdXOEFaTzJfMWRsR00xcnNNU0g4UHl3cldjRW5TbXFweUJBVVFfRENDNFRNbnFPY0k4eFdBVmd2dWZqbWl6R1hvNk5RbGNjd2IxNjR"
         },
         {
-          "headline": "Update to renewal dog license payment deadline: March 3rd - shrewsbury-ma.gov",
-          "url": "https://shrewsburyma.gov/m/newsflash/home/detail/9516",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Wed, 25 Feb 2026 17:24:03 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xcndnZUplZmdvTzh0S3JZeldqcmZEZzRFY1hXdUIxTnd0NTh4VVhpaVpMMThTRTVDWFJMTDAxU1VwdkxBejhLQjRRRzFDRW51UklTYmhTNVRJeGdjTEdF?oc=5\" target=\"_bla"
-        },
-        {
           "headline": "Ahead of Feb. 27 Deadline, Mayor Mamdani Urges Families to Apply for Pre-K and 3-K - NYC.gov",
           "url": "https://www.nyc.gov/mayors-office/news/2026/02/ahead-of-feb--27-deadline--mayor-mamdani-urges-families-to-apply",
           "source": "Daybook: Scheduled Events",
@@ -5129,6 +5590,16 @@
           "priority": "reference",
           "date": "Wed, 25 Feb 2026 17:26:15 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOcW1NMTgtNGFwelZLVTVjNHRLR1F2eFFFZDl2ODFISGRqR1g5SFR5TEdoR0xHaW9UUERmd01jQ1Y2MUc2M2lLX05iblZmX1kyN3dJS0xsR0pIUmpVRVhLYUFXX3ZBa0lVU0pGNzR"
+        },
+        {
+          "headline": "Update to renewal dog license payment deadline: March 3rd - shrewsbury-ma.gov",
+          "url": "https://shrewsburyma.gov/m/newsflash/Home/Detail/9516",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Wed, 25 Feb 2026 17:24:03 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtZzV1VThwazRKdERXMDd1emUwMjZHM0IycDY5Z1BuaFlzRjRfYzVxb1ZJTjhoRV9JaEZFMFNtWWVpeWhfT0xtUE5BNldEeHFYZmg2SW9iMG0zR1lHdnNQNllFMA?oc=5\" target"
         },
         {
           "headline": "Deadline approaching for prospective students with Ferris State family ties to apply for new scholarship - Ferris State University",
@@ -5171,14 +5642,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR2ZTTFgxUW9yTnRTQlAwMFJqTnE3VndIM1lYeGotRGp3MG1zeE1ZU24tOWs3NUNHWGo1XzM2bkNxZkdfUEpWbFhuazhsZDRpV3ZxRmN0MWx5R3BzMmJjRERQVkg5ODBlZ2kwOUh"
         },
         {
-          "headline": "Warner Board Says Paramount Agreed To Raise Offer To $31 A Share Or More If Two Sides Engaged - Deadline",
-          "url": "https://deadline.com/2026/02/warner-bros-discovery-says-paramount-agreed-to-higher-offer-1236726616/",
+          "headline": "David F. Sandberg To Direct Horror Film ‘A Little Slice Of Hell’ In Development At Paramount - Deadline",
+          "url": "https://deadline.com/2026/02/a-little-slice-of-hell-david-f-sandberg-directing-paramount-1236736018/",
           "source": "Daybook: Scheduled Events",
           "sourceId": "daybook_scheduled",
           "category": "daybook",
           "priority": "reference",
-          "date": "Wed, 25 Feb 2026 12:05:58 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNSmFNMzRGbV9QS1BOWWlsb0FKTXR5cFZkMU5mWWR3ZEJhZW5XaWhOX2hnOEpoalYydERnZ3Axa09DMFRtUTU4UnBhVWRIV2hfR3dQVnJOVHR2Y0MxWVlRdUh3ZGQyUFZVUzY1dEg"
+          "date": "Wed, 25 Feb 2026 18:53:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNLWFqb3p0YWVoY3ZsYlNqTVFtN3JsMmk4UGRfN1RVUjJsaHptQ2hfX2ZGT1VyU0MyeTRIM0pWMnR4cjlRWjc3a3RxN0dsSzRnaURFS0dkZkFtaXhHOUVFaUtuYkM1LW1seXJEVGZ"
         },
         {
           "headline": "Fantasy spin on 2026 NHL Trade Deadline - NHL.com",
@@ -5191,14 +5662,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQZVdRcVJWYmhxM3d1bUNMMXVoczhIZ1lDVDZ6TnUyTnEwM2lmUVpmcHRZQTRySG43R3FYc0JjR1I0SUFHaVFPZE91blZUN0Zjd0NFS1N5NHpTNGEzLUc1Mmp6WHFqaTdjeEljUzV"
         },
         {
-          "headline": "David F. Sandberg To Direct Horror Film ‘A Little Slice Of Hell’ In Development At Paramount - Deadline",
-          "url": "https://deadline.com/2026/02/a-little-slice-of-hell-david-f-sandberg-directing-paramount-1236736018/",
+          "headline": "Warner Board Says Paramount Agreed To Raise Offer To $31 A Share Or More If Two Sides Engaged - Deadline",
+          "url": "https://deadline.com/2026/02/warner-bros-discovery-says-paramount-agreed-to-higher-offer-1236726616/",
           "source": "Daybook: Scheduled Events",
           "sourceId": "daybook_scheduled",
           "category": "daybook",
           "priority": "reference",
-          "date": "Wed, 25 Feb 2026 18:53:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNLWFqb3p0YWVoY3ZsYlNqTVFtN3JsMmk4UGRfN1RVUjJsaHptQ2hfX2ZGT1VyU0MyeTRIM0pWMnR4cjlRWjc3a3RxN0dsSzRnaURFS0dkZkFtaXhHOUVFaUtuYkM1LW1seXJEVGZ"
+          "date": "Wed, 25 Feb 2026 12:05:58 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNSmFNMzRGbV9QS1BOWWlsb0FKTXR5cFZkMU5mWWR3ZEJhZW5XaWhOX2hnOEpoalYydERnZ3Axa09DMFRtUTU4UnBhVWRIV2hfR3dQVnJOVHR2Y0MxWVlRdUh3ZGQyUFZVUzY1dEg"
         },
         {
           "headline": "'Industry' Renewed For Fifth &amp; Final Season At HBO - Deadline",
@@ -5336,7 +5807,7 @@
     },
     {
       "headline": "Chaos, confusion and $200 billion dreams: What I saw at India’s AI summit - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Hb2p3em1Pbmt6Rm1PN09hSW0yU3JaelU2UXE2bVFPazRnaGJ2MTlEYTUzdmVLRllRU0pMa2xiRlE3eEFfc1ZuQ3NBUFNZY01hVGRuZmxoOFZ0YWVWWmFkZ0JkRWpiSjdC0gFuQVVfeXFMTlJEcjViTXd4V1pCYmJ1ZXBvS2xLUHdWWW1Ld0JPSElLNVlBVnlVSG1WRXVkdUFZbklBQVUxUG1rMEdERE1BTElvZzZMRDhJUnN6aW0zVzFDU3NOZVhCb0JjTGxVRnkwZWlxQ1I5RHc?oc=5",
+      "url": "https://www.cnbc.com/2026/02/21/ai-summit-india-tech.html",
       "source": "Daybook: International Events",
       "sourceId": "daybook_intl",
       "category": "daybook",
@@ -5485,16 +5956,6 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNbGdRNUwySmZKejlkdWZmUWR0TkZPcVB4cnFBVEk4TUpfaERtcTdNMVVXQ1NIYnZPSlpMa1ZKYUlZajN1eVFlV2wyTkNDcXU4NTBySGFTN19Mbmo1MnJkSmt4bS1EaERWRlVwdXR"
     },
     {
-      "headline": "Clippers working to integrate their trade deadline additions - Orange County Register",
-      "url": "https://www.ocregister.com/2026/02/18/clippers-working-to-integrate-their-trade-deadline-additions/",
-      "source": "Daybook: Economic Calendar",
-      "sourceId": "daybook_econ",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Thu, 19 Feb 2026 00:40:22 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNZWVWZFlNU1hLZXdDblJySHR6OHFveTZQLWRvNzdyTVVRRlJ2MzlIOHZuU3dreXRvOEtUVW9OMUlWak0xSGVqNG5LQ3pULVJiRVR1SmpjT1A2YkhPTWpEeUpNdGdPbXgwbS1HVTc"
-    },
-    {
       "headline": "Columbus Blue Jackets may hang onto free agents past trade deadline - The Columbus Dispatch",
       "url": "https://www.dispatch.com/story/sports/nhl/columbus-blue-jackets/2026/02/24/columbus-blue-jackets-may-hang-onto-free-agents-past-trade-deadline/88833945007/",
       "source": "Daybook: Economic Calendar",
@@ -5513,6 +5974,16 @@
       "priority": "reference",
       "date": "Tue, 24 Feb 2026 03:32:31 GMT",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQN0lJYVJSOXVQVEloR25zZlZjRGRWVGIzMl84QmxvWFFxWDVRRGo0azNYb281UnMtVjFpbFNfSUJmVER3S0V6UDlqV1JNcUVua0ZnbzdQR2ptUUpXQ1NWOGIzR1NXUndLbUlhWFB"
+    },
+    {
+      "headline": "How Mike Conley’s wild trade deadline journey led him back to Minnesota - The New York Times",
+      "url": "https://www.nytimes.com/athletic/7058049/2026/02/20/mike-conleys-minnesota-trade-deadline/",
+      "source": "Daybook: Economic Calendar",
+      "sourceId": "daybook_econ",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Fri, 20 Feb 2026 13:30:43 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNR09Xd0VHejdPemdGLUZieVpxQ2VZWGtuYjZzRy1LZVA0WXpRaXk1NVhmOENSbVJ4c0ZVampmNkdlcHBQMmNnUVdnNjI5ZGJGUUZweGw5YVVDTnBKUU4xT2dqcXB6VVJ2My1nQmt"
     },
     {
       "headline": "Justices reveal little about whether the deadline for removing cases to federal court can be excused - SCOTUSblog",
@@ -5565,16 +6036,6 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFB5cUtEaWNoVTd2OU5RX2FMR0Y5Sk12VWQ0TzdXOEFaTzJfMWRsR00xcnNNU0g4UHl3cldjRW5TbXFweUJBVVFfRENDNFRNbnFPY0k4eFdBVmd2dWZqbWl6R1hvNk5RbGNjd2IxNjR"
     },
     {
-      "headline": "Update to renewal dog license payment deadline: March 3rd - shrewsbury-ma.gov",
-      "url": "https://shrewsburyma.gov/m/newsflash/home/detail/9516",
-      "source": "Daybook: Scheduled Events",
-      "sourceId": "daybook_scheduled",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Wed, 25 Feb 2026 17:24:03 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xcndnZUplZmdvTzh0S3JZeldqcmZEZzRFY1hXdUIxTnd0NTh4VVhpaVpMMThTRTVDWFJMTDAxU1VwdkxBejhLQjRRRzFDRW51UklTYmhTNVRJeGdjTEdF?oc=5\" target=\"_bla"
-    },
-    {
       "headline": "Ahead of Feb. 27 Deadline, Mayor Mamdani Urges Families to Apply for Pre-K and 3-K - NYC.gov",
       "url": "https://www.nyc.gov/mayors-office/news/2026/02/ahead-of-feb--27-deadline--mayor-mamdani-urges-families-to-apply",
       "source": "Daybook: Scheduled Events",
@@ -5583,6 +6044,16 @@
       "priority": "reference",
       "date": "Wed, 25 Feb 2026 17:26:15 GMT",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOcW1NMTgtNGFwelZLVTVjNHRLR1F2eFFFZDl2ODFISGRqR1g5SFR5TEdoR0xHaW9UUERmd01jQ1Y2MUc2M2lLX05iblZmX1kyN3dJS0xsR0pIUmpVRVhLYUFXX3ZBa0lVU0pGNzR"
+    },
+    {
+      "headline": "Update to renewal dog license payment deadline: March 3rd - shrewsbury-ma.gov",
+      "url": "https://shrewsburyma.gov/m/newsflash/Home/Detail/9516",
+      "source": "Daybook: Scheduled Events",
+      "sourceId": "daybook_scheduled",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Wed, 25 Feb 2026 17:24:03 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtZzV1VThwazRKdERXMDd1emUwMjZHM0IycDY5Z1BuaFlzRjRfYzVxb1ZJTjhoRV9JaEZFMFNtWWVpeWhfT0xtUE5BNldEeHFYZmg2SW9iMG0zR1lHdnNQNllFMA?oc=5\" target"
     },
     {
       "headline": "Deadline approaching for prospective students with Ferris State family ties to apply for new scholarship - Ferris State University",
@@ -5625,16 +6096,6 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR2ZTTFgxUW9yTnRTQlAwMFJqTnE3VndIM1lYeGotRGp3MG1zeE1ZU24tOWs3NUNHWGo1XzM2bkNxZkdfUEpWbFhuazhsZDRpV3ZxRmN0MWx5R3BzMmJjRERQVkg5ODBlZ2kwOUh"
     },
     {
-      "headline": "Warner Board Says Paramount Agreed To Raise Offer To $31 A Share Or More If Two Sides Engaged - Deadline",
-      "url": "https://deadline.com/2026/02/warner-bros-discovery-says-paramount-agreed-to-higher-offer-1236726616/",
-      "source": "Daybook: Scheduled Events",
-      "sourceId": "daybook_scheduled",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Wed, 25 Feb 2026 12:05:58 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNSmFNMzRGbV9QS1BOWWlsb0FKTXR5cFZkMU5mWWR3ZEJhZW5XaWhOX2hnOEpoalYydERnZ3Axa09DMFRtUTU4UnBhVWRIV2hfR3dQVnJOVHR2Y0MxWVlRdUh3ZGQyUFZVUzY1dEg"
-    },
-    {
       "headline": "David F. Sandberg To Direct Horror Film ‘A Little Slice Of Hell’ In Development At Paramount - Deadline",
       "url": "https://deadline.com/2026/02/a-little-slice-of-hell-david-f-sandberg-directing-paramount-1236736018/",
       "source": "Daybook: Scheduled Events",
@@ -5643,6 +6104,16 @@
       "priority": "reference",
       "date": "Wed, 25 Feb 2026 18:53:00 GMT",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNLWFqb3p0YWVoY3ZsYlNqTVFtN3JsMmk4UGRfN1RVUjJsaHptQ2hfX2ZGT1VyU0MyeTRIM0pWMnR4cjlRWjc3a3RxN0dsSzRnaURFS0dkZkFtaXhHOUVFaUtuYkM1LW1seXJEVGZ"
+    },
+    {
+      "headline": "Warner Board Says Paramount Agreed To Raise Offer To $31 A Share Or More If Two Sides Engaged - Deadline",
+      "url": "https://deadline.com/2026/02/warner-bros-discovery-says-paramount-agreed-to-higher-offer-1236726616/",
+      "source": "Daybook: Scheduled Events",
+      "sourceId": "daybook_scheduled",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Wed, 25 Feb 2026 12:05:58 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNSmFNMzRGbV9QS1BOWWlsb0FKTXR5cFZkMU5mWWR3ZEJhZW5XaWhOX2hnOEpoalYydERnZ3Axa09DMFRtUTU4UnBhVWRIV2hfR3dQVnJOVHR2Y0MxWVlRdUh3ZGQyUFZVUzY1dEg"
     },
     {
       "headline": "'Industry' Renewed For Fifth &amp; Final Season At HBO - Deadline",
@@ -5687,6 +6158,23 @@
         {
           "category": "temporal",
           "matched": "ahead of"
+        }
+      ]
+    },
+    {
+      "headline": "Iceland to hold EU referendum 'in the coming months', PM says - Reuters",
+      "url": "https://www.reuters.com/world/europe/iceland-hold-eu-referendum-over-coming-months-pm-says-2026-02-25/",
+      "source": "Reuters",
+      "sourceId": "reuters_world",
+      "category": "wire",
+      "priority": "primary",
+      "date": "Wed, 25 Feb 2026 17:10:19 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPYkxyWXVmdWgyWHRBa0pNUDRjVUptcFNYTmt2R3IwVG9ucDZyMkRReGJQbGNRRkJBOEF4czRHUUVsUnJZNmpyTldEc2hLRWV0eHJzSmQ3NnlNc0NoN3YwRVNGcmRmNzVfbkNURW4",
+      "watchCandidate": true,
+      "watchSignals": [
+        {
+          "category": "temporal",
+          "matched": "in the coming"
         }
       ]
     },
@@ -5792,7 +6280,7 @@
       "category": "priority_signal",
       "priority": "primary",
       "topHeadlines": [
-        "The free press is under threat",
+        "Support the Guardian",
         "Reality bites Why the wildest 2000s TV shows are haunting us now",
         "Ted Widmer Trump's very long address ran out of steam",
         "A Hollywood ‘heir’ He claimed abuse. How did he end up in prison?",
