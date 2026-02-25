@@ -1,45 +1,39 @@
 Good morning, Russell! Here's what happened while you were sleeping.
 
-**Top Stories**
+## **Top Stories**
 
-- Cuban border guards [killed four](https://www.bbc.com/news/articles/c24drvj8yl2o?at_medium=RSS&amp;at_campaign=rss) people and wounded six others aboard a Florida-registered speedboat that opened fire near the island's northern coast, according to the BBC.
+- Cuban border guards [killed four](https://www.theguardian.com/world/2026/feb/25/cuba-says-border-guards-killed-four-gunmen-on-us-registered-speedboat) people and wounded six others aboard a Florida-registered speedboat that opened fire on soldiers near the island's northern coast, according to the Guardian.
 
-- The Guardian reports that [two Brazilian](https://www.theguardian.com/world/2026/feb/25/brazil-politician-brothers-convicted-murder) politician brothers were convicted for ordering the 2018 murder of Rio city councilwoman Marielle Franco, a gay Black woman who fought corruption.
+- Brazil's Supreme Court [convicted four](https://www.bbc.com/news/articles/c4g058v3d35o?at_medium=RSS&amp;at_campaign=rss) men — including two politician brothers and two former police officers — for ordering the 2018 murder of Rio de Janeiro city councilwoman Marielle Franco.
 
-- Nvidia [rallied on](https://www.ft.com/content/f4cda766-5650-4a97-a84f-24d3cfbeddd6) robust earnings powered by an AI investment boom, surpassing $200 billion in annual revenue for the first time, the Financial Times notes.
+- Nvidia [rallied on](https://www.ft.com/content/f4cda766-5650-4a97-a84f-24d3cfbeddd6) robust earnings powered by an AI investment boom, beating Wall Street expectations as it surpassed $200 billion in annual revenue for the first time.
 
-- German Chancellor Friedrich Merz [warned of](https://www.bbc.com/news/articles/c5yjpke8072o?at_medium=RSS&amp;at_campaign=rss) trade imbalances with China during his first Beijing trip, per the BBC.
+- Spain [declassified files](https://www.bbc.com/news/articles/ce8w42e152xo?at_medium=RSS&amp;at_campaign=rss) on the 1981 attempted coup in an effort to dispel conspiracy theories. The release came on the same day as the death of coup leader Antonio Tejero Molina.
 
-- Spain [declassified files](https://www.bbc.com/news/articles/ce8w42e152xo?at_medium=RSS&amp;at_campaign=rss) on the 1981 attempted coup in an effort to dispel conspiracy theories, Reuters reports.
+- German Chancellor Friedrich Merz [warned of](https://www.bbc.com/news/articles/c5yjpke8072o?at_medium=RSS&amp;at_campaign=rss) trade imbalances with China during his first Beijing trip, with business groups urging him to send clear signals on competition and export controls.
 
-- India's Prime Minister Narendra Modi told Israel's parliament that [no cause](https://www.aljazeera.com/news/2026/2/25/indias-modi-addresses-israeli-parliament-on-first-day-of-visit?traffic_source=rss) justifies killing civilians during his address to the Knesset.
+- India's Prime Minister Narendra Modi [told the](https://www.aljazeera.com/news/2026/2/25/indias-modi-addresses-israeli-parliament-on-first-day-of-visit?traffic_source=rss) Israeli Knesset that "no cause justifies killing civilians" during his visit, while hailing the "vital" partnership between the two countries.
 
-**Conflicts & Diplomacy**
+- Pope Francis [will visit](https://www.bbc.com/news/articles/cvg1vdgl3ymo?at_medium=RSS&amp;at_campaign=rss) four African countries in April, marking the first time a pope will travel to Algeria, whose population is mostly Muslim.
 
-- The U.S. will [allow resale](https://www.reuters.com/business/energy/us-allow-resale-venezuelan-oil-cuba-treasury-department-says-2026-02-25/) of Venezuelan oil to Cuba, according to Reuters, marking a shift in sanctions policy.
+## **Business & Markets**
 
-- Ukraine's citizens want the world to stop calling them [resilient](https://www.aljazeera.com/news/2026/2/25/cuban-border-agents-fire-upon-florida-tagged-speedboat-killing-four?traffic_source=rss), saying the label obscures their need for continued Western support.
+- The CME Group [halted trading](https://www.ft.com/content/d3fe28d9-ec71-45fb-8574-de4922d04482) on its flagship metals market for more than an hour due to "technical" issues, marking the latest outage for the world's largest exchanges operator.
 
-- The U.S. will offer [embassy services](https://www.aljazeera.com/news/2026/2/25/cuban-border-agents-fire-upon-florida-tagged-speedboat-killing-four?traffic_source=rss) in a West Bank settlement for the first time, a move Palestinians say legitimizes illegal settlements.
+- Salesforce [posted mixed](https://www.ft.com/content/b74b8227-d7cb-4976-ba95-a3a27b79cbdd) earnings results as the software group projected revenue could fall short of Wall Street expectations.
 
-**Business & Markets**
+- Google [will test](https://www.reuters.com/world/google-test-changes-search-results-source-says-eu-fine-looms-2026-02-25/) changes to search results as a potential EU fine looms, according to Reuters sources.
 
-- Salesforce [posted mixed](https://www.ft.com/content/b74b8227-d7cb-4976-ba95-a3a27b79cbdd) earnings and projected revenue could be short of Wall Street expectations as AI anxiety grows.
+## **Also Notable**
 
-- CME [halted trading](https://www.ft.com/content/d3fe28d9-ec71-45fb-8574-de4922d04482) on its flagship metals market for more than an hour due to technical issues, the FT reports.
+- Lawrence Summers [will step](https://www.ft.com/content/c3b1ff0a-9b31-4257-954b-ba6ef5d6669e) down from his Harvard teaching role, continuing his retreat from public commitments following revelations about his correspondence with Jeffrey Epstein.
 
-- Google will [test changes](https://www.reuters.com/world/google-test-changes-search-results-source-says-eu-fine-looms-2026-02-25/) to search results as a EU fine looms over antitrust concerns, Reuters notes.
+- The US Treasury [will allow](https://www.reuters.com/business/energy/us-allow-resale-venezuelan-oil-cuba-treasury-department-says-2026-02-25/) the resale of Venezuelan oil to Cuba, according to Reuters, marking a significant shift in sanctions policy.
 
-**Also Notable**
+## **What to Watch**
 
-- Lawrence Summers will [step down](https://www.ft.com/content/c3b1ff0a-9b31-4257-954b-ba6ef5d6669e) from his Harvard teaching role following disclosures about his correspondence with Jeffrey Epstein.
+- Iceland [will hold](https://www.reuters.com/world/europe/iceland-hold-eu-referendum-over-coming-months-pm-says-2026-02-25/) an EU referendum "in the coming months," Prime Minister Katrín Jakobsdóttir announced, potentially reshaping the Nordic island's relationship with Europe.
 
-- Pope Francis will [visit four](https://www.bbc.com/news/articles/cvg1vdgl3ymo?at_medium=RSS&amp;at_campaign=rss) African countries in April, including Algeria where he will be the first pope to visit the Muslim-majority nation.
+- The US [will host](https://www.reuters.com/world/us/us-host-g20-finance-meeting-north-carolina-august-september-treasury-dept-says-2026-02-19/) a G20 finance leaders meeting in Asheville, North Carolina, in August and September, per the Treasury Department.
 
-**What to Watch**
-
-- Iceland will [hold an](https://www.reuters.com/world/europe/iceland-hold-eu-referendum-over-coming-months-pm-says-2026-02-25/) EU referendum in the coming months, the Prime Minister says, per Reuters.
-
-- Mexico will make a [strong show](https://www.france24.com/en/mexico-will-make-a-strong-show-of-security-ahead-of-world-cup-expert-says) of security ahead of the World Cup following recent cartel violence, France24 reports.
-
-- Asheville will [host G20](https://www.bpr.org/politics-government/2026-02-20/asheville-to-host-g20-finance-leaders-in-august-september) finance leaders in August and September for high-level meetings on global economic issues.
+- Mexico [will make](https://www.france24.com/en/mexico-will-make-a-strong-show-of-security-ahead-of-world-cup-expert-says) "a strong show of security" ahead of the 2026 World Cup, according to France24, following recent cartel violence that has raised safety concerns.
