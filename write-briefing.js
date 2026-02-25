@@ -288,8 +288,38 @@ function buildPrompt(briefing) {
   const stories = briefing.stories || {};
   const byPriority = stories.byPriority || {};
 
-  const primaryStories = (byPriority.primary || []).slice(0, 15);
-  const secondaryStories = (byPriority.secondary || []).slice(0, 15);
+  // ---- Recency filter ----
+  // Tag each story with hoursAgo and filter out anything > 24h.
+  // Stories from today's calendar day get priority; yesterday's get demoted.
+  // Broken dates (NaN) are kept but tagged as "unknown age" so they're not lost.
+  const now = new Date();
+  function tagRecency(storyList) {
+    return (storyList || []).map(s => {
+      if (s.date) {
+        const pubDate = new Date(s.date);
+        const hoursAgo = isNaN(pubDate.getTime()) ? null : (now - pubDate) / (1000 * 60 * 60);
+        return { ...s, hoursAgo: hoursAgo !== null ? Math.round(hoursAgo * 10) / 10 : null };
+      }
+      return { ...s, hoursAgo: null };
+    });
+  }
+
+  function filterRecent(storyList, maxHours = 24) {
+    const tagged = tagRecency(storyList);
+    const fresh = tagged.filter(s => s.hoursAgo === null || s.hoursAgo <= maxHours);
+    const stale = tagged.length - fresh.length;
+    if (stale > 0) console.log(`  Filtered out ${stale} stories older than ${maxHours}h`);
+    // Sort: newest first (null ages go to end)
+    return fresh.sort((a, b) => {
+      if (a.hoursAgo === null) return 1;
+      if (b.hoursAgo === null) return -1;
+      return a.hoursAgo - b.hoursAgo;
+    });
+  }
+
+  console.log('Applying recency filter (24h max)...');
+  const primaryStories = filterRecent(byPriority.primary || [], 24).slice(0, 15);
+  const secondaryStories = filterRecent(byPriority.secondary || [], 24).slice(0, 15);
 
   // Daybook stories: forward-looking event data from dedicated Google News
   // RSS queries. Passed separately so Claude uses them for "What to Watch".
@@ -338,7 +368,8 @@ CRITICAL RULES:
 13. ACTIVELY SCAN for forward-looking language in stories: "scheduled for", "set to", "expected to", "will meet", "vote on", "summit begins", "deadline", "hearing", "ruling expected". Pull these into the What to Watch section.
 14. NEVER use meta-news framing — don't say "The biggest story today is..." or "...is drawing global attention" or "...is leading [outlet]." Just report the news. Let placement signal importance.
 15. ONLY use URLs that appear in the story data below. NEVER fabricate, guess, or construct URLs. If a story from the homepage headlines has no matching URL in the data, link to a different source's coverage of the same event instead. Homepage headlines are editorial priority signals only — they do NOT come with URLs.
-16. LINK DIVERSITY: Spread links across at least 4 different source domains. No single domain should account for more than 30% of all links. If you notice you're over-indexing on AP or BBC, actively seek out Guardian, FT, WSJ, Reuters, Al Jazeera, or France24 URLs for the same story.`;
+16. LINK DIVERSITY: Spread links across at least 4 different source domains. No single domain should account for more than 30% of all links. If you notice you're over-indexing on AP or BBC, actively seek out Guardian, FT, WSJ, Reuters, Al Jazeera, or France24 URLs for the same story.
+17. RECENCY: Each story has an "hoursAgo" field showing how old it is. For Top Stories, strongly prefer stories from the last 12 hours. Stories older than 18 hours should only appear if they are genuinely major and no fresher coverage exists. A 2-hour-old story beats a 20-hour-old story unless the older one is seismic.`;
 
   // Check if sleep filter data exists (from --cutoff run)
   const sleepFilter = briefing.sleepFilter || null;
