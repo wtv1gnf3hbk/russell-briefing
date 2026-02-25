@@ -335,7 +335,9 @@ CRITICAL RULES:
 10. Keep it tight — Russell reads this on his phone at 6am.
 11. Use standard markdown: "- " for bullets (not "•"), "**text**" for bold, "[text](url)" for links.
 12. The briefing MUST begin with the line: "Good morning, Russell! Here's what happened while you were sleeping." (on its own line, before the first section header). This is NOT a bullet point — just a plain text greeting.
-13. ACTIVELY SCAN for forward-looking language in stories: "scheduled for", "set to", "expected to", "will meet", "vote on", "summit begins", "deadline", "hearing", "ruling expected". Pull these into the What to Watch section.`;
+13. ACTIVELY SCAN for forward-looking language in stories: "scheduled for", "set to", "expected to", "will meet", "vote on", "summit begins", "deadline", "hearing", "ruling expected". Pull these into the What to Watch section.
+14. NEVER use meta-news framing — don't say "The biggest story today is..." or "...is drawing global attention" or "...is leading [outlet]." Just report the news. Let placement signal importance.
+15. ONLY use URLs that appear in the story data below. NEVER fabricate, guess, or construct URLs. If a story from the homepage headlines has no matching URL in the data, link to a different source's coverage of the same event instead. Homepage headlines are editorial priority signals only — they do NOT come with URLs.`;
 
   // Check if sleep filter data exists (from --cutoff run)
   const sleepFilter = briefing.sleepFilter || null;
