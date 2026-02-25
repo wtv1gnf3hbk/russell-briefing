@@ -4,8 +4,8 @@
     "owner": "Russell Goldman",
     "timezone": "America/New_York",
     "description": "Daily international news briefing — all bullets, ready by 6am ET",
-    "generated": "2026-02-25T21:42:25.017Z",
-    "generatedTimestamp": 1772055745017
+    "generated": "2026-02-25T21:46:16.818Z",
+    "generatedTimestamp": 1772055976818
   },
   "stats": {
     "sourceCount": 19,
@@ -14,7 +14,7 @@
     "totalScreenshots": 6,
     "daybookStories": 44,
     "watchCandidateCount": 5,
-    "elapsed": "61.2s"
+    "elapsed": "68.8s"
   },
   "stories": {
     "all": [
@@ -260,16 +260,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTHRZX3pQTTZ3UFpoSDczZ0xwUHJIaUlUUU1aSWxBdW1MUmU5WWw4ajhMLVUyZV81d0FHcWU2UmhtVV9WY05qVV9zcTRwOXhKT1FQOTMxM3l1aU9rU0N2VHdBZWc2TWtrcnF0cEx"
       },
       {
-        "headline": "Britain has not paused Chagos Island deal ratification after US criticism - Reuters",
-        "url": "https://www.reuters.com/world/uk/britain-halts-chagos-island-deal-ratification-bbc-reports-2026-02-25/",
-        "source": "Reuters",
-        "sourceId": "reuters_world",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Wed, 25 Feb 2026 14:09:25 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNbUtsWFVBMkNLSEFWaW1zdmdaYnp2eW9lNUV1amloQ1VpMkY0NjJfNGFJSWduWUNTX29ZS0dlMWQ4VGNvazJBY1FpOHh5WkF3T185a0h1OXM5bFhRaWZpY3RwNWtwYW92ZUs3MVN"
-      },
-      {
         "headline": "Exclusive: Saudi Arabia boosts oil output, exports for US attack on Iran contingency, sources say - Reuters",
         "url": "https://www.reuters.com/business/energy/saudi-arabia-boosts-oil-output-exports-us-attack-iran-contingency-sources-say-2026-02-25/",
         "source": "Reuters",
@@ -278,6 +268,16 @@
         "priority": "primary",
         "date": "Wed, 25 Feb 2026 14:17:23 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOUNsQ3FDckstNXp3OTZ0TDNfWi1tMHVqRTY2NmF2UHNpb1k2aXBuNkN0UTdQOVhTckZBUGk3Z3JHTDJ3SGc4RjJyekxHelU2b3ZxN3hZMTE0aTBjb2lUbE5QWEdSMWZrRkJoeWZ"
+      },
+      {
+        "headline": "Britain has not paused Chagos Island deal ratification after US criticism - Reuters",
+        "url": "https://www.reuters.com/world/uk/britain-halts-chagos-island-deal-ratification-bbc-reports-2026-02-25/",
+        "source": "Reuters",
+        "sourceId": "reuters_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Wed, 25 Feb 2026 14:09:25 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNbUtsWFVBMkNLSEFWaW1zdmdaYnp2eW9lNUV1amloQ1VpMkY0NjJfNGFJSWduWUNTX29ZS0dlMWQ4VGNvazJBY1FpOHh5WkF3T185a0h1OXM5bFhRaWZpY3RwNWtwYW92ZUs3MVN"
       },
       {
         "headline": "Iran sees 'good outlook' for talks with US as negotiating team heads to Geneva - Reuters",
@@ -597,24 +597,24 @@
         "description": "Israel says 91 hostages abducted on Oct. 7 remain in captivity, including the bodies of at least 34."
       },
       {
-        "headline": "Iran threatens escalation if US attacks",
-        "url": "https://www.ft.com/content/8da3bbc5-00c3-45ff-b6b1-efa65c5a2661",
+        "headline": "Nvidia rallies on robust earnings powered by AI investment boom",
+        "url": "https://www.ft.com/content/f4cda766-5650-4a97-a84f-24d3cfbeddd6",
         "source": "Financial Times",
         "sourceId": "ft_home",
         "category": "business",
         "priority": "primary",
-        "date": "Wed, 25 Feb 2026 15:59:22 GMT",
-        "description": "Officials indicate they are reconsidering doctrine that seeks to contain confrontations with Washington"
+        "date": "Wed, 25 Feb 2026 21:36:59 GMT",
+        "description": "Chips giant beats Wall Street’s expectations as it surpasses $200bn in annual revenue for the first time"
       },
       {
-        "headline": "Trump condemns Iran’s ‘sinister’ nuclear ambitions in State of the Union",
-        "url": "https://www.ft.com/content/9194e1f5-d191-414a-ab9f-e271a32b8b78",
+        "headline": "Salesforce posts mixed earnings amid AI anxiety",
+        "url": "https://www.ft.com/content/b74b8227-d7cb-4976-ba95-a3a27b79cbdd",
         "source": "Financial Times",
         "sourceId": "ft_home",
         "category": "business",
         "priority": "primary",
-        "date": "Wed, 25 Feb 2026 05:30:41 GMT",
-        "description": "President warns Islamic republic is rebuilding nuclear weapons programme amid huge US military build-up"
+        "date": "Wed, 25 Feb 2026 21:04:54 GMT",
+        "description": "Software group projects revenue could be short of Wall Street’s expectations"
       },
       {
         "headline": "How Deutsche Bank rolled out the red carpet for Jeffrey Epstein",
@@ -647,6 +647,26 @@
         "description": "The former chief delivers a sharp insider’s guide to the boom and bust era of financial services that took the shine off the investment bank"
       },
       {
+        "headline": "Iran threatens escalation if US attacks",
+        "url": "https://www.ft.com/content/8da3bbc5-00c3-45ff-b6b1-efa65c5a2661",
+        "source": "Financial Times",
+        "sourceId": "ft_home",
+        "category": "business",
+        "priority": "primary",
+        "date": "Wed, 25 Feb 2026 15:59:22 GMT",
+        "description": "Officials indicate they are reconsidering doctrine that seeks to contain confrontations with Washington"
+      },
+      {
+        "headline": "Trump condemns Iran’s ‘sinister’ nuclear ambitions in State of the Union",
+        "url": "https://www.ft.com/content/9194e1f5-d191-414a-ab9f-e271a32b8b78",
+        "source": "Financial Times",
+        "sourceId": "ft_home",
+        "category": "business",
+        "priority": "primary",
+        "date": "Wed, 25 Feb 2026 05:30:41 GMT",
+        "description": "President warns Islamic republic is rebuilding nuclear weapons programme amid huge US military build-up"
+      },
+      {
         "headline": "Democrats probe missing files alleging Trump link to Epstein",
         "url": "https://www.ft.com/content/cd792149-aa0a-420e-8723-ed12f4e0daa5",
         "source": "Financial Times",
@@ -657,34 +677,14 @@
         "description": "Garcia says justice department appears to have broken law requiring disclosure of all unclassified material in case"
       },
       {
-        "headline": "Defence and AI spending sends global debt to record $348tn",
-        "url": "https://www.ft.com/content/1308bb13-d67e-4541-8e8c-48eba49127d3",
+        "headline": "CME halts trading on flagship metals market for more than an hour",
+        "url": "https://www.ft.com/content/d3fe28d9-ec71-45fb-8574-de4922d04482",
         "source": "Financial Times",
         "sourceId": "ft_home",
         "category": "business",
         "priority": "primary",
-        "date": "Wed, 25 Feb 2026 18:25:21 GMT",
-        "description": "Last year’s $28.8tn increase was largely fuelled by government investment, according to the Institute of International Finance"
-      },
-      {
-        "headline": "Canada’s defence companies battle for billions in historic military build-up",
-        "url": "https://www.ft.com/content/72701b37-2295-4c62-a991-a1b5888c82ee",
-        "source": "Financial Times",
-        "sourceId": "ft_home",
-        "category": "business",
-        "priority": "primary",
-        "date": "Wed, 25 Feb 2026 05:00:06 GMT",
-        "description": "Pledge to raise spending to 5% of GDP will boost manufacturers but could strain the budget"
-      },
-      {
-        "headline": "Salesforce posts mixed earnings amid AI anxiety",
-        "url": "https://www.ft.com/content/b74b8227-d7cb-4976-ba95-a3a27b79cbdd",
-        "source": "Financial Times",
-        "sourceId": "ft_home",
-        "category": "business",
-        "priority": "primary",
-        "date": "Wed, 25 Feb 2026 21:04:54 GMT",
-        "description": "Software group projects revenue could be short of Wall Street’s expectations"
+        "date": "Wed, 25 Feb 2026 18:43:49 GMT",
+        "description": "World’s largest exchanges operator blames ‘technical’ issues for its latest outage"
       },
       {
         "headline": "Lawrence Summers to step down from Harvard teaching role",
@@ -853,7 +853,7 @@
         "sourceId": "nyt_world",
         "category": "general",
         "priority": "secondary",
-        "date": "Wed, 25 Feb 2026 21:35:45 +0000",
+        "date": "Wed, 25 Feb 2026 21:40:31 +0000",
         "description": "Border troops engaged in a gunfight with the four people killed near the island nation’s coast, the Cuban Interior Ministry said."
       },
       {
@@ -1664,6 +1664,16 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdjlGbF83Y0czQldUVndrVHhlQUVIZndDUlpUaGhESmp2TDJobFhOWnpraC1UYzdSaVZpOG90WE51dk5nbjlETDU2eXBPTUgybDNDZ3RWVUhVMEFUbmFsb0dpcUQzRDdtYkNwaGd"
       },
       {
+        "headline": "Option Volatility And Earnings Report For February 23 - 27 - Yahoo Finance",
+        "url": "https://finance.yahoo.com/news/option-volatility-earnings-report-february-120002562.html",
+        "source": "Daybook: Economic Calendar",
+        "sourceId": "daybook_econ",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Mon, 23 Feb 2026 12:00:02 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPUXYwZ2RpTUhiQ3hfS0VGY0JiZ3pWaGhjTVVUSmdsRlZLdWtKRVdORDBlVkpqUE9EbnJfbzZOQnozWkVSR2VLMWlEQk1zTnpZNVc5YUJSNkpMdHVpVHBDbnR2TmNPcGtlMjVkR0F"
+      },
+      {
         "headline": "NHL Trade Deadline: Bill Zito, Florida Panthers Standing By. For Now - Florida Hockey Now",
         "url": "https://floridahockeynow.com/nhl-trade-deadline-bill-zito-florida-panthers-standing-by/",
         "source": "Daybook: Economic Calendar",
@@ -1672,16 +1682,6 @@
         "priority": "reference",
         "date": "Wed, 25 Feb 2026 13:21:57 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQUEJuZWtqWU5Jbk43U0lldTN6LW1VblNUcmREaUE5dms3RTZwODlaNDh4bDVOcDNZVHZLRVpGQ2I5Z1FnaWNUdHBRanF4cDcxd2hVSEdUVkJ0Vndwb1FhZmVsb2hmaXgwandNMnl"
-      },
-      {
-        "headline": "SoundHound AI (SOUN) Q4 Earnings Report Preview: What To Look For - Yahoo Finance",
-        "url": "https://finance.yahoo.com/news/soundhound-ai-soun-q4-earnings-053625290.html",
-        "source": "Daybook: Economic Calendar",
-        "sourceId": "daybook_econ",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Wed, 25 Feb 2026 05:36:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNWWdsdGhUQWdVYTlscWF0RjJQT0dkVEpNZTVpM01wekNvb3B3Y2VNTmg2UVphNE8xbFFnanp5RENRZ3FnaWdYNFZqSEVHTVhMTl8tbHV2TTlGaWZuTlBqOXo1RHZxZlJ6bkQ0SGx"
       },
       {
         "headline": "Great Clips helps NHL players traded around 2026 NHL Trade Deadline settle into new cities with free haircuts through the 2026 Stanley Cup Playoffs - NHLPA.com",
@@ -1785,7 +1785,7 @@
       },
       {
         "headline": "HRSA extends deadline to April 20 for comments on 340B rebate model RFI and suggests expanded number of drugs to be included - American Hospital Association",
-        "url": "https://www.aha.org/news/headline/2026-02-25-hrsa-extends-deadline-april-20-comments-340b-rebate-model-rfi-and-suggests-expanded-number-drugs-be",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRkRxYXJPRnQ0YUpac1lobFAyQUVKQmlOU1dvb1czUFQwNTg3eTlzdHc3MlRfMEp0ckFFV3MwUkNEaUJBdlQyT1FxQU5DYXpKT3FGZkRCWHZxSzJjRjZQQkVoajFQOXBPQlA1d21ZUDBWN2oxaHpJY1NJUmJNdW9zVllnQjZwMTFwbmUyUzZJd19jVTJsbmFPeGxSZ3dnb0pHMW5CckZTeTk1TGRRUEVTYWY5aXVlS1ktRnBHZmZiYnBzai11NzF3QnQ5MGlyQUdtc09wd0cwMjJVYklt?oc=5",
         "source": "Daybook: Scheduled Events",
         "sourceId": "daybook_scheduled",
         "category": "daybook",
@@ -1804,6 +1804,16 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFB5cUtEaWNoVTd2OU5RX2FMR0Y5Sk12VWQ0TzdXOEFaTzJfMWRsR00xcnNNU0g4UHl3cldjRW5TbXFweUJBVVFfRENDNFRNbnFPY0k4eFdBVmd2dWZqbWl6R1hvNk5RbGNjd2IxNjR"
       },
       {
+        "headline": "Update to renewal dog license payment deadline: March 3rd - shrewsbury-ma.gov",
+        "url": "https://shrewsburyma.gov/m/newsflash/home/detail/9516",
+        "source": "Daybook: Scheduled Events",
+        "sourceId": "daybook_scheduled",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Wed, 25 Feb 2026 17:24:03 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xcndnZUplZmdvTzh0S3JZeldqcmZEZzRFY1hXdUIxTnd0NTh4VVhpaVpMMThTRTVDWFJMTDAxU1VwdkxBejhLQjRRRzFDRW51UklTYmhTNVRJeGdjTEdF?oc=5\" target=\"_bla"
+      },
+      {
         "headline": "Ahead of Feb. 27 Deadline, Mayor Mamdani Urges Families to Apply for Pre-K and 3-K - NYC.gov",
         "url": "https://www.nyc.gov/mayors-office/news/2026/02/ahead-of-feb--27-deadline--mayor-mamdani-urges-families-to-apply",
         "source": "Daybook: Scheduled Events",
@@ -1812,16 +1822,6 @@
         "priority": "reference",
         "date": "Wed, 25 Feb 2026 17:26:15 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOcW1NMTgtNGFwelZLVTVjNHRLR1F2eFFFZDl2ODFISGRqR1g5SFR5TEdoR0xHaW9UUERmd01jQ1Y2MUc2M2lLX05iblZmX1kyN3dJS0xsR0pIUmpVRVhLYUFXX3ZBa0lVU0pGNzR"
-      },
-      {
-        "headline": "Update to renewal dog license payment deadline: March 3rd - shrewsbury-ma.gov",
-        "url": "https://shrewsburyma.gov/m/newsflash/Home/Detail/9516",
-        "source": "Daybook: Scheduled Events",
-        "sourceId": "daybook_scheduled",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Wed, 25 Feb 2026 17:24:03 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtZzV1VThwazRKdERXMDd1emUwMjZHM0IycDY5Z1BuaFlzRjRfYzVxb1ZJTjhoRV9JaEZFMFNtWWVpeWhfT0xtUE5BNldEeHFYZmg2SW9iMG0zR1lHdnNQNllFMA?oc=5\" target"
       },
       {
         "headline": "Deadline approaching for prospective students with Ferris State family ties to apply for new scholarship - Ferris State University",
@@ -2138,16 +2138,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTHRZX3pQTTZ3UFpoSDczZ0xwUHJIaUlUUU1aSWxBdW1MUmU5WWw4ajhMLVUyZV81d0FHcWU2UmhtVV9WY05qVV9zcTRwOXhKT1FQOTMxM3l1aU9rU0N2VHdBZWc2TWtrcnF0cEx"
         },
         {
-          "headline": "Britain has not paused Chagos Island deal ratification after US criticism - Reuters",
-          "url": "https://www.reuters.com/world/uk/britain-halts-chagos-island-deal-ratification-bbc-reports-2026-02-25/",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Wed, 25 Feb 2026 14:09:25 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNbUtsWFVBMkNLSEFWaW1zdmdaYnp2eW9lNUV1amloQ1VpMkY0NjJfNGFJSWduWUNTX29ZS0dlMWQ4VGNvazJBY1FpOHh5WkF3T185a0h1OXM5bFhRaWZpY3RwNWtwYW92ZUs3MVN"
-        },
-        {
           "headline": "Exclusive: Saudi Arabia boosts oil output, exports for US attack on Iran contingency, sources say - Reuters",
           "url": "https://www.reuters.com/business/energy/saudi-arabia-boosts-oil-output-exports-us-attack-iran-contingency-sources-say-2026-02-25/",
           "source": "Reuters",
@@ -2156,6 +2146,16 @@
           "priority": "primary",
           "date": "Wed, 25 Feb 2026 14:17:23 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOUNsQ3FDckstNXp3OTZ0TDNfWi1tMHVqRTY2NmF2UHNpb1k2aXBuNkN0UTdQOVhTckZBUGk3Z3JHTDJ3SGc4RjJyekxHelU2b3ZxN3hZMTE0aTBjb2lUbE5QWEdSMWZrRkJoeWZ"
+        },
+        {
+          "headline": "Britain has not paused Chagos Island deal ratification after US criticism - Reuters",
+          "url": "https://www.reuters.com/world/uk/britain-halts-chagos-island-deal-ratification-bbc-reports-2026-02-25/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Wed, 25 Feb 2026 14:09:25 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNbUtsWFVBMkNLSEFWaW1zdmdaYnp2eW9lNUV1amloQ1VpMkY0NjJfNGFJSWduWUNTX29ZS0dlMWQ4VGNvazJBY1FpOHh5WkF3T185a0h1OXM5bFhRaWZpY3RwNWtwYW92ZUs3MVN"
         },
         {
           "headline": "Iran sees 'good outlook' for talks with US as negotiating team heads to Geneva - Reuters",
@@ -2790,7 +2790,7 @@
           "sourceId": "nyt_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Wed, 25 Feb 2026 21:35:45 +0000",
+          "date": "Wed, 25 Feb 2026 21:40:31 +0000",
           "description": "Border troops engaged in a gunfight with the four people killed near the island nation’s coast, the Cuban Interior Ministry said."
         },
         {
@@ -3086,24 +3086,24 @@
       ],
       "business": [
         {
-          "headline": "Iran threatens escalation if US attacks",
-          "url": "https://www.ft.com/content/8da3bbc5-00c3-45ff-b6b1-efa65c5a2661",
+          "headline": "Nvidia rallies on robust earnings powered by AI investment boom",
+          "url": "https://www.ft.com/content/f4cda766-5650-4a97-a84f-24d3cfbeddd6",
           "source": "Financial Times",
           "sourceId": "ft_home",
           "category": "business",
           "priority": "primary",
-          "date": "Wed, 25 Feb 2026 15:59:22 GMT",
-          "description": "Officials indicate they are reconsidering doctrine that seeks to contain confrontations with Washington"
+          "date": "Wed, 25 Feb 2026 21:36:59 GMT",
+          "description": "Chips giant beats Wall Street’s expectations as it surpasses $200bn in annual revenue for the first time"
         },
         {
-          "headline": "Trump condemns Iran’s ‘sinister’ nuclear ambitions in State of the Union",
-          "url": "https://www.ft.com/content/9194e1f5-d191-414a-ab9f-e271a32b8b78",
+          "headline": "Salesforce posts mixed earnings amid AI anxiety",
+          "url": "https://www.ft.com/content/b74b8227-d7cb-4976-ba95-a3a27b79cbdd",
           "source": "Financial Times",
           "sourceId": "ft_home",
           "category": "business",
           "priority": "primary",
-          "date": "Wed, 25 Feb 2026 05:30:41 GMT",
-          "description": "President warns Islamic republic is rebuilding nuclear weapons programme amid huge US military build-up"
+          "date": "Wed, 25 Feb 2026 21:04:54 GMT",
+          "description": "Software group projects revenue could be short of Wall Street’s expectations"
         },
         {
           "headline": "How Deutsche Bank rolled out the red carpet for Jeffrey Epstein",
@@ -3136,6 +3136,26 @@
           "description": "The former chief delivers a sharp insider’s guide to the boom and bust era of financial services that took the shine off the investment bank"
         },
         {
+          "headline": "Iran threatens escalation if US attacks",
+          "url": "https://www.ft.com/content/8da3bbc5-00c3-45ff-b6b1-efa65c5a2661",
+          "source": "Financial Times",
+          "sourceId": "ft_home",
+          "category": "business",
+          "priority": "primary",
+          "date": "Wed, 25 Feb 2026 15:59:22 GMT",
+          "description": "Officials indicate they are reconsidering doctrine that seeks to contain confrontations with Washington"
+        },
+        {
+          "headline": "Trump condemns Iran’s ‘sinister’ nuclear ambitions in State of the Union",
+          "url": "https://www.ft.com/content/9194e1f5-d191-414a-ab9f-e271a32b8b78",
+          "source": "Financial Times",
+          "sourceId": "ft_home",
+          "category": "business",
+          "priority": "primary",
+          "date": "Wed, 25 Feb 2026 05:30:41 GMT",
+          "description": "President warns Islamic republic is rebuilding nuclear weapons programme amid huge US military build-up"
+        },
+        {
           "headline": "Democrats probe missing files alleging Trump link to Epstein",
           "url": "https://www.ft.com/content/cd792149-aa0a-420e-8723-ed12f4e0daa5",
           "source": "Financial Times",
@@ -3146,34 +3166,14 @@
           "description": "Garcia says justice department appears to have broken law requiring disclosure of all unclassified material in case"
         },
         {
-          "headline": "Defence and AI spending sends global debt to record $348tn",
-          "url": "https://www.ft.com/content/1308bb13-d67e-4541-8e8c-48eba49127d3",
+          "headline": "CME halts trading on flagship metals market for more than an hour",
+          "url": "https://www.ft.com/content/d3fe28d9-ec71-45fb-8574-de4922d04482",
           "source": "Financial Times",
           "sourceId": "ft_home",
           "category": "business",
           "priority": "primary",
-          "date": "Wed, 25 Feb 2026 18:25:21 GMT",
-          "description": "Last year’s $28.8tn increase was largely fuelled by government investment, according to the Institute of International Finance"
-        },
-        {
-          "headline": "Canada’s defence companies battle for billions in historic military build-up",
-          "url": "https://www.ft.com/content/72701b37-2295-4c62-a991-a1b5888c82ee",
-          "source": "Financial Times",
-          "sourceId": "ft_home",
-          "category": "business",
-          "priority": "primary",
-          "date": "Wed, 25 Feb 2026 05:00:06 GMT",
-          "description": "Pledge to raise spending to 5% of GDP will boost manufacturers but could strain the budget"
-        },
-        {
-          "headline": "Salesforce posts mixed earnings amid AI anxiety",
-          "url": "https://www.ft.com/content/b74b8227-d7cb-4976-ba95-a3a27b79cbdd",
-          "source": "Financial Times",
-          "sourceId": "ft_home",
-          "category": "business",
-          "priority": "primary",
-          "date": "Wed, 25 Feb 2026 21:04:54 GMT",
-          "description": "Software group projects revenue could be short of Wall Street’s expectations"
+          "date": "Wed, 25 Feb 2026 18:43:49 GMT",
+          "description": "World’s largest exchanges operator blames ‘technical’ issues for its latest outage"
         },
         {
           "headline": "Lawrence Summers to step down from Harvard teaching role",
@@ -3548,6 +3548,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdjlGbF83Y0czQldUVndrVHhlQUVIZndDUlpUaGhESmp2TDJobFhOWnpraC1UYzdSaVZpOG90WE51dk5nbjlETDU2eXBPTUgybDNDZ3RWVUhVMEFUbmFsb0dpcUQzRDdtYkNwaGd"
         },
         {
+          "headline": "Option Volatility And Earnings Report For February 23 - 27 - Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/option-volatility-earnings-report-february-120002562.html",
+          "source": "Daybook: Economic Calendar",
+          "sourceId": "daybook_econ",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Mon, 23 Feb 2026 12:00:02 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPUXYwZ2RpTUhiQ3hfS0VGY0JiZ3pWaGhjTVVUSmdsRlZLdWtKRVdORDBlVkpqUE9EbnJfbzZOQnozWkVSR2VLMWlEQk1zTnpZNVc5YUJSNkpMdHVpVHBDbnR2TmNPcGtlMjVkR0F"
+        },
+        {
           "headline": "NHL Trade Deadline: Bill Zito, Florida Panthers Standing By. For Now - Florida Hockey Now",
           "url": "https://floridahockeynow.com/nhl-trade-deadline-bill-zito-florida-panthers-standing-by/",
           "source": "Daybook: Economic Calendar",
@@ -3556,16 +3566,6 @@
           "priority": "reference",
           "date": "Wed, 25 Feb 2026 13:21:57 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQUEJuZWtqWU5Jbk43U0lldTN6LW1VblNUcmREaUE5dms3RTZwODlaNDh4bDVOcDNZVHZLRVpGQ2I5Z1FnaWNUdHBRanF4cDcxd2hVSEdUVkJ0Vndwb1FhZmVsb2hmaXgwandNMnl"
-        },
-        {
-          "headline": "SoundHound AI (SOUN) Q4 Earnings Report Preview: What To Look For - Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/soundhound-ai-soun-q4-earnings-053625290.html",
-          "source": "Daybook: Economic Calendar",
-          "sourceId": "daybook_econ",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Wed, 25 Feb 2026 05:36:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNWWdsdGhUQWdVYTlscWF0RjJQT0dkVEpNZTVpM01wekNvb3B3Y2VNTmg2UVphNE8xbFFnanp5RENRZ3FnaWdYNFZqSEVHTVhMTl8tbHV2TTlGaWZuTlBqOXo1RHZxZlJ6bkQ0SGx"
         },
         {
           "headline": "Great Clips helps NHL players traded around 2026 NHL Trade Deadline settle into new cities with free haircuts through the 2026 Stanley Cup Playoffs - NHLPA.com",
@@ -3669,7 +3669,7 @@
         },
         {
           "headline": "HRSA extends deadline to April 20 for comments on 340B rebate model RFI and suggests expanded number of drugs to be included - American Hospital Association",
-          "url": "https://www.aha.org/news/headline/2026-02-25-hrsa-extends-deadline-april-20-comments-340b-rebate-model-rfi-and-suggests-expanded-number-drugs-be",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRkRxYXJPRnQ0YUpac1lobFAyQUVKQmlOU1dvb1czUFQwNTg3eTlzdHc3MlRfMEp0ckFFV3MwUkNEaUJBdlQyT1FxQU5DYXpKT3FGZkRCWHZxSzJjRjZQQkVoajFQOXBPQlA1d21ZUDBWN2oxaHpJY1NJUmJNdW9zVllnQjZwMTFwbmUyUzZJd19jVTJsbmFPeGxSZ3dnb0pHMW5CckZTeTk1TGRRUEVTYWY5aXVlS1ktRnBHZmZiYnBzai11NzF3QnQ5MGlyQUdtc09wd0cwMjJVYklt?oc=5",
           "source": "Daybook: Scheduled Events",
           "sourceId": "daybook_scheduled",
           "category": "daybook",
@@ -3688,6 +3688,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFB5cUtEaWNoVTd2OU5RX2FMR0Y5Sk12VWQ0TzdXOEFaTzJfMWRsR00xcnNNU0g4UHl3cldjRW5TbXFweUJBVVFfRENDNFRNbnFPY0k4eFdBVmd2dWZqbWl6R1hvNk5RbGNjd2IxNjR"
         },
         {
+          "headline": "Update to renewal dog license payment deadline: March 3rd - shrewsbury-ma.gov",
+          "url": "https://shrewsburyma.gov/m/newsflash/home/detail/9516",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Wed, 25 Feb 2026 17:24:03 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xcndnZUplZmdvTzh0S3JZeldqcmZEZzRFY1hXdUIxTnd0NTh4VVhpaVpMMThTRTVDWFJMTDAxU1VwdkxBejhLQjRRRzFDRW51UklTYmhTNVRJeGdjTEdF?oc=5\" target=\"_bla"
+        },
+        {
           "headline": "Ahead of Feb. 27 Deadline, Mayor Mamdani Urges Families to Apply for Pre-K and 3-K - NYC.gov",
           "url": "https://www.nyc.gov/mayors-office/news/2026/02/ahead-of-feb--27-deadline--mayor-mamdani-urges-families-to-apply",
           "source": "Daybook: Scheduled Events",
@@ -3696,16 +3706,6 @@
           "priority": "reference",
           "date": "Wed, 25 Feb 2026 17:26:15 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOcW1NMTgtNGFwelZLVTVjNHRLR1F2eFFFZDl2ODFISGRqR1g5SFR5TEdoR0xHaW9UUERmd01jQ1Y2MUc2M2lLX05iblZmX1kyN3dJS0xsR0pIUmpVRVhLYUFXX3ZBa0lVU0pGNzR"
-        },
-        {
-          "headline": "Update to renewal dog license payment deadline: March 3rd - shrewsbury-ma.gov",
-          "url": "https://shrewsburyma.gov/m/newsflash/Home/Detail/9516",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Wed, 25 Feb 2026 17:24:03 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtZzV1VThwazRKdERXMDd1emUwMjZHM0IycDY5Z1BuaFlzRjRfYzVxb1ZJTjhoRV9JaEZFMFNtWWVpeWhfT0xtUE5BNldEeHFYZmg2SW9iMG0zR1lHdnNQNllFMA?oc=5\" target"
         },
         {
           "headline": "Deadline approaching for prospective students with Ferris State family ties to apply for new scholarship - Ferris State University",
@@ -4033,16 +4033,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTHRZX3pQTTZ3UFpoSDczZ0xwUHJIaUlUUU1aSWxBdW1MUmU5WWw4ajhMLVUyZV81d0FHcWU2UmhtVV9WY05qVV9zcTRwOXhKT1FQOTMxM3l1aU9rU0N2VHdBZWc2TWtrcnF0cEx"
         },
         {
-          "headline": "Britain has not paused Chagos Island deal ratification after US criticism - Reuters",
-          "url": "https://www.reuters.com/world/uk/britain-halts-chagos-island-deal-ratification-bbc-reports-2026-02-25/",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Wed, 25 Feb 2026 14:09:25 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNbUtsWFVBMkNLSEFWaW1zdmdaYnp2eW9lNUV1amloQ1VpMkY0NjJfNGFJSWduWUNTX29ZS0dlMWQ4VGNvazJBY1FpOHh5WkF3T185a0h1OXM5bFhRaWZpY3RwNWtwYW92ZUs3MVN"
-        },
-        {
           "headline": "Exclusive: Saudi Arabia boosts oil output, exports for US attack on Iran contingency, sources say - Reuters",
           "url": "https://www.reuters.com/business/energy/saudi-arabia-boosts-oil-output-exports-us-attack-iran-contingency-sources-say-2026-02-25/",
           "source": "Reuters",
@@ -4051,6 +4041,16 @@
           "priority": "primary",
           "date": "Wed, 25 Feb 2026 14:17:23 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOUNsQ3FDckstNXp3OTZ0TDNfWi1tMHVqRTY2NmF2UHNpb1k2aXBuNkN0UTdQOVhTckZBUGk3Z3JHTDJ3SGc4RjJyekxHelU2b3ZxN3hZMTE0aTBjb2lUbE5QWEdSMWZrRkJoeWZ"
+        },
+        {
+          "headline": "Britain has not paused Chagos Island deal ratification after US criticism - Reuters",
+          "url": "https://www.reuters.com/world/uk/britain-halts-chagos-island-deal-ratification-bbc-reports-2026-02-25/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Wed, 25 Feb 2026 14:09:25 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNbUtsWFVBMkNLSEFWaW1zdmdaYnp2eW9lNUV1amloQ1VpMkY0NjJfNGFJSWduWUNTX29ZS0dlMWQ4VGNvazJBY1FpOHh5WkF3T185a0h1OXM5bFhRaWZpY3RwNWtwYW92ZUs3MVN"
         },
         {
           "headline": "Iran sees 'good outlook' for talks with US as negotiating team heads to Geneva - Reuters",
@@ -4370,24 +4370,24 @@
           "description": "Israel says 91 hostages abducted on Oct. 7 remain in captivity, including the bodies of at least 34."
         },
         {
-          "headline": "Iran threatens escalation if US attacks",
-          "url": "https://www.ft.com/content/8da3bbc5-00c3-45ff-b6b1-efa65c5a2661",
+          "headline": "Nvidia rallies on robust earnings powered by AI investment boom",
+          "url": "https://www.ft.com/content/f4cda766-5650-4a97-a84f-24d3cfbeddd6",
           "source": "Financial Times",
           "sourceId": "ft_home",
           "category": "business",
           "priority": "primary",
-          "date": "Wed, 25 Feb 2026 15:59:22 GMT",
-          "description": "Officials indicate they are reconsidering doctrine that seeks to contain confrontations with Washington"
+          "date": "Wed, 25 Feb 2026 21:36:59 GMT",
+          "description": "Chips giant beats Wall Street’s expectations as it surpasses $200bn in annual revenue for the first time"
         },
         {
-          "headline": "Trump condemns Iran’s ‘sinister’ nuclear ambitions in State of the Union",
-          "url": "https://www.ft.com/content/9194e1f5-d191-414a-ab9f-e271a32b8b78",
+          "headline": "Salesforce posts mixed earnings amid AI anxiety",
+          "url": "https://www.ft.com/content/b74b8227-d7cb-4976-ba95-a3a27b79cbdd",
           "source": "Financial Times",
           "sourceId": "ft_home",
           "category": "business",
           "priority": "primary",
-          "date": "Wed, 25 Feb 2026 05:30:41 GMT",
-          "description": "President warns Islamic republic is rebuilding nuclear weapons programme amid huge US military build-up"
+          "date": "Wed, 25 Feb 2026 21:04:54 GMT",
+          "description": "Software group projects revenue could be short of Wall Street’s expectations"
         },
         {
           "headline": "How Deutsche Bank rolled out the red carpet for Jeffrey Epstein",
@@ -4420,6 +4420,26 @@
           "description": "The former chief delivers a sharp insider’s guide to the boom and bust era of financial services that took the shine off the investment bank"
         },
         {
+          "headline": "Iran threatens escalation if US attacks",
+          "url": "https://www.ft.com/content/8da3bbc5-00c3-45ff-b6b1-efa65c5a2661",
+          "source": "Financial Times",
+          "sourceId": "ft_home",
+          "category": "business",
+          "priority": "primary",
+          "date": "Wed, 25 Feb 2026 15:59:22 GMT",
+          "description": "Officials indicate they are reconsidering doctrine that seeks to contain confrontations with Washington"
+        },
+        {
+          "headline": "Trump condemns Iran’s ‘sinister’ nuclear ambitions in State of the Union",
+          "url": "https://www.ft.com/content/9194e1f5-d191-414a-ab9f-e271a32b8b78",
+          "source": "Financial Times",
+          "sourceId": "ft_home",
+          "category": "business",
+          "priority": "primary",
+          "date": "Wed, 25 Feb 2026 05:30:41 GMT",
+          "description": "President warns Islamic republic is rebuilding nuclear weapons programme amid huge US military build-up"
+        },
+        {
           "headline": "Democrats probe missing files alleging Trump link to Epstein",
           "url": "https://www.ft.com/content/cd792149-aa0a-420e-8723-ed12f4e0daa5",
           "source": "Financial Times",
@@ -4430,34 +4450,14 @@
           "description": "Garcia says justice department appears to have broken law requiring disclosure of all unclassified material in case"
         },
         {
-          "headline": "Defence and AI spending sends global debt to record $348tn",
-          "url": "https://www.ft.com/content/1308bb13-d67e-4541-8e8c-48eba49127d3",
+          "headline": "CME halts trading on flagship metals market for more than an hour",
+          "url": "https://www.ft.com/content/d3fe28d9-ec71-45fb-8574-de4922d04482",
           "source": "Financial Times",
           "sourceId": "ft_home",
           "category": "business",
           "priority": "primary",
-          "date": "Wed, 25 Feb 2026 18:25:21 GMT",
-          "description": "Last year’s $28.8tn increase was largely fuelled by government investment, according to the Institute of International Finance"
-        },
-        {
-          "headline": "Canada’s defence companies battle for billions in historic military build-up",
-          "url": "https://www.ft.com/content/72701b37-2295-4c62-a991-a1b5888c82ee",
-          "source": "Financial Times",
-          "sourceId": "ft_home",
-          "category": "business",
-          "priority": "primary",
-          "date": "Wed, 25 Feb 2026 05:00:06 GMT",
-          "description": "Pledge to raise spending to 5% of GDP will boost manufacturers but could strain the budget"
-        },
-        {
-          "headline": "Salesforce posts mixed earnings amid AI anxiety",
-          "url": "https://www.ft.com/content/b74b8227-d7cb-4976-ba95-a3a27b79cbdd",
-          "source": "Financial Times",
-          "sourceId": "ft_home",
-          "category": "business",
-          "priority": "primary",
-          "date": "Wed, 25 Feb 2026 21:04:54 GMT",
-          "description": "Software group projects revenue could be short of Wall Street’s expectations"
+          "date": "Wed, 25 Feb 2026 18:43:49 GMT",
+          "description": "World’s largest exchanges operator blames ‘technical’ issues for its latest outage"
         },
         {
           "headline": "Lawrence Summers to step down from Harvard teaching role",
@@ -4628,7 +4628,7 @@
           "sourceId": "nyt_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Wed, 25 Feb 2026 21:35:45 +0000",
+          "date": "Wed, 25 Feb 2026 21:40:31 +0000",
           "description": "Border troops engaged in a gunfight with the four people killed near the island nation’s coast, the Cuban Interior Ministry said."
         },
         {
@@ -5442,6 +5442,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdjlGbF83Y0czQldUVndrVHhlQUVIZndDUlpUaGhESmp2TDJobFhOWnpraC1UYzdSaVZpOG90WE51dk5nbjlETDU2eXBPTUgybDNDZ3RWVUhVMEFUbmFsb0dpcUQzRDdtYkNwaGd"
         },
         {
+          "headline": "Option Volatility And Earnings Report For February 23 - 27 - Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/option-volatility-earnings-report-february-120002562.html",
+          "source": "Daybook: Economic Calendar",
+          "sourceId": "daybook_econ",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Mon, 23 Feb 2026 12:00:02 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPUXYwZ2RpTUhiQ3hfS0VGY0JiZ3pWaGhjTVVUSmdsRlZLdWtKRVdORDBlVkpqUE9EbnJfbzZOQnozWkVSR2VLMWlEQk1zTnpZNVc5YUJSNkpMdHVpVHBDbnR2TmNPcGtlMjVkR0F"
+        },
+        {
           "headline": "NHL Trade Deadline: Bill Zito, Florida Panthers Standing By. For Now - Florida Hockey Now",
           "url": "https://floridahockeynow.com/nhl-trade-deadline-bill-zito-florida-panthers-standing-by/",
           "source": "Daybook: Economic Calendar",
@@ -5450,16 +5460,6 @@
           "priority": "reference",
           "date": "Wed, 25 Feb 2026 13:21:57 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQUEJuZWtqWU5Jbk43U0lldTN6LW1VblNUcmREaUE5dms3RTZwODlaNDh4bDVOcDNZVHZLRVpGQ2I5Z1FnaWNUdHBRanF4cDcxd2hVSEdUVkJ0Vndwb1FhZmVsb2hmaXgwandNMnl"
-        },
-        {
-          "headline": "SoundHound AI (SOUN) Q4 Earnings Report Preview: What To Look For - Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/soundhound-ai-soun-q4-earnings-053625290.html",
-          "source": "Daybook: Economic Calendar",
-          "sourceId": "daybook_econ",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Wed, 25 Feb 2026 05:36:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNWWdsdGhUQWdVYTlscWF0RjJQT0dkVEpNZTVpM01wekNvb3B3Y2VNTmg2UVphNE8xbFFnanp5RENRZ3FnaWdYNFZqSEVHTVhMTl8tbHV2TTlGaWZuTlBqOXo1RHZxZlJ6bkQ0SGx"
         },
         {
           "headline": "Great Clips helps NHL players traded around 2026 NHL Trade Deadline settle into new cities with free haircuts through the 2026 Stanley Cup Playoffs - NHLPA.com",
@@ -5563,7 +5563,7 @@
         },
         {
           "headline": "HRSA extends deadline to April 20 for comments on 340B rebate model RFI and suggests expanded number of drugs to be included - American Hospital Association",
-          "url": "https://www.aha.org/news/headline/2026-02-25-hrsa-extends-deadline-april-20-comments-340b-rebate-model-rfi-and-suggests-expanded-number-drugs-be",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRkRxYXJPRnQ0YUpac1lobFAyQUVKQmlOU1dvb1czUFQwNTg3eTlzdHc3MlRfMEp0ckFFV3MwUkNEaUJBdlQyT1FxQU5DYXpKT3FGZkRCWHZxSzJjRjZQQkVoajFQOXBPQlA1d21ZUDBWN2oxaHpJY1NJUmJNdW9zVllnQjZwMTFwbmUyUzZJd19jVTJsbmFPeGxSZ3dnb0pHMW5CckZTeTk1TGRRUEVTYWY5aXVlS1ktRnBHZmZiYnBzai11NzF3QnQ5MGlyQUdtc09wd0cwMjJVYklt?oc=5",
           "source": "Daybook: Scheduled Events",
           "sourceId": "daybook_scheduled",
           "category": "daybook",
@@ -5582,6 +5582,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFB5cUtEaWNoVTd2OU5RX2FMR0Y5Sk12VWQ0TzdXOEFaTzJfMWRsR00xcnNNU0g4UHl3cldjRW5TbXFweUJBVVFfRENDNFRNbnFPY0k4eFdBVmd2dWZqbWl6R1hvNk5RbGNjd2IxNjR"
         },
         {
+          "headline": "Update to renewal dog license payment deadline: March 3rd - shrewsbury-ma.gov",
+          "url": "https://shrewsburyma.gov/m/newsflash/home/detail/9516",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Wed, 25 Feb 2026 17:24:03 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xcndnZUplZmdvTzh0S3JZeldqcmZEZzRFY1hXdUIxTnd0NTh4VVhpaVpMMThTRTVDWFJMTDAxU1VwdkxBejhLQjRRRzFDRW51UklTYmhTNVRJeGdjTEdF?oc=5\" target=\"_bla"
+        },
+        {
           "headline": "Ahead of Feb. 27 Deadline, Mayor Mamdani Urges Families to Apply for Pre-K and 3-K - NYC.gov",
           "url": "https://www.nyc.gov/mayors-office/news/2026/02/ahead-of-feb--27-deadline--mayor-mamdani-urges-families-to-apply",
           "source": "Daybook: Scheduled Events",
@@ -5590,16 +5600,6 @@
           "priority": "reference",
           "date": "Wed, 25 Feb 2026 17:26:15 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOcW1NMTgtNGFwelZLVTVjNHRLR1F2eFFFZDl2ODFISGRqR1g5SFR5TEdoR0xHaW9UUERmd01jQ1Y2MUc2M2lLX05iblZmX1kyN3dJS0xsR0pIUmpVRVhLYUFXX3ZBa0lVU0pGNzR"
-        },
-        {
-          "headline": "Update to renewal dog license payment deadline: March 3rd - shrewsbury-ma.gov",
-          "url": "https://shrewsburyma.gov/m/newsflash/Home/Detail/9516",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Wed, 25 Feb 2026 17:24:03 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtZzV1VThwazRKdERXMDd1emUwMjZHM0IycDY5Z1BuaFlzRjRfYzVxb1ZJTjhoRV9JaEZFMFNtWWVpeWhfT0xtUE5BNldEeHFYZmg2SW9iMG0zR1lHdnNQNllFMA?oc=5\" target"
         },
         {
           "headline": "Deadline approaching for prospective students with Ferris State family ties to apply for new scholarship - Ferris State University",
@@ -5896,6 +5896,16 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdjlGbF83Y0czQldUVndrVHhlQUVIZndDUlpUaGhESmp2TDJobFhOWnpraC1UYzdSaVZpOG90WE51dk5nbjlETDU2eXBPTUgybDNDZ3RWVUhVMEFUbmFsb0dpcUQzRDdtYkNwaGd"
     },
     {
+      "headline": "Option Volatility And Earnings Report For February 23 - 27 - Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/option-volatility-earnings-report-february-120002562.html",
+      "source": "Daybook: Economic Calendar",
+      "sourceId": "daybook_econ",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Mon, 23 Feb 2026 12:00:02 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPUXYwZ2RpTUhiQ3hfS0VGY0JiZ3pWaGhjTVVUSmdsRlZLdWtKRVdORDBlVkpqUE9EbnJfbzZOQnozWkVSR2VLMWlEQk1zTnpZNVc5YUJSNkpMdHVpVHBDbnR2TmNPcGtlMjVkR0F"
+    },
+    {
       "headline": "NHL Trade Deadline: Bill Zito, Florida Panthers Standing By. For Now - Florida Hockey Now",
       "url": "https://floridahockeynow.com/nhl-trade-deadline-bill-zito-florida-panthers-standing-by/",
       "source": "Daybook: Economic Calendar",
@@ -5904,16 +5914,6 @@
       "priority": "reference",
       "date": "Wed, 25 Feb 2026 13:21:57 GMT",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQUEJuZWtqWU5Jbk43U0lldTN6LW1VblNUcmREaUE5dms3RTZwODlaNDh4bDVOcDNZVHZLRVpGQ2I5Z1FnaWNUdHBRanF4cDcxd2hVSEdUVkJ0Vndwb1FhZmVsb2hmaXgwandNMnl"
-    },
-    {
-      "headline": "SoundHound AI (SOUN) Q4 Earnings Report Preview: What To Look For - Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/soundhound-ai-soun-q4-earnings-053625290.html",
-      "source": "Daybook: Economic Calendar",
-      "sourceId": "daybook_econ",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Wed, 25 Feb 2026 05:36:00 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNWWdsdGhUQWdVYTlscWF0RjJQT0dkVEpNZTVpM01wekNvb3B3Y2VNTmg2UVphNE8xbFFnanp5RENRZ3FnaWdYNFZqSEVHTVhMTl8tbHV2TTlGaWZuTlBqOXo1RHZxZlJ6bkQ0SGx"
     },
     {
       "headline": "Great Clips helps NHL players traded around 2026 NHL Trade Deadline settle into new cities with free haircuts through the 2026 Stanley Cup Playoffs - NHLPA.com",
@@ -6017,7 +6017,7 @@
     },
     {
       "headline": "HRSA extends deadline to April 20 for comments on 340B rebate model RFI and suggests expanded number of drugs to be included - American Hospital Association",
-      "url": "https://www.aha.org/news/headline/2026-02-25-hrsa-extends-deadline-april-20-comments-340b-rebate-model-rfi-and-suggests-expanded-number-drugs-be",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRkRxYXJPRnQ0YUpac1lobFAyQUVKQmlOU1dvb1czUFQwNTg3eTlzdHc3MlRfMEp0ckFFV3MwUkNEaUJBdlQyT1FxQU5DYXpKT3FGZkRCWHZxSzJjRjZQQkVoajFQOXBPQlA1d21ZUDBWN2oxaHpJY1NJUmJNdW9zVllnQjZwMTFwbmUyUzZJd19jVTJsbmFPeGxSZ3dnb0pHMW5CckZTeTk1TGRRUEVTYWY5aXVlS1ktRnBHZmZiYnBzai11NzF3QnQ5MGlyQUdtc09wd0cwMjJVYklt?oc=5",
       "source": "Daybook: Scheduled Events",
       "sourceId": "daybook_scheduled",
       "category": "daybook",
@@ -6036,6 +6036,16 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFB5cUtEaWNoVTd2OU5RX2FMR0Y5Sk12VWQ0TzdXOEFaTzJfMWRsR00xcnNNU0g4UHl3cldjRW5TbXFweUJBVVFfRENDNFRNbnFPY0k4eFdBVmd2dWZqbWl6R1hvNk5RbGNjd2IxNjR"
     },
     {
+      "headline": "Update to renewal dog license payment deadline: March 3rd - shrewsbury-ma.gov",
+      "url": "https://shrewsburyma.gov/m/newsflash/home/detail/9516",
+      "source": "Daybook: Scheduled Events",
+      "sourceId": "daybook_scheduled",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Wed, 25 Feb 2026 17:24:03 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xcndnZUplZmdvTzh0S3JZeldqcmZEZzRFY1hXdUIxTnd0NTh4VVhpaVpMMThTRTVDWFJMTDAxU1VwdkxBejhLQjRRRzFDRW51UklTYmhTNVRJeGdjTEdF?oc=5\" target=\"_bla"
+    },
+    {
       "headline": "Ahead of Feb. 27 Deadline, Mayor Mamdani Urges Families to Apply for Pre-K and 3-K - NYC.gov",
       "url": "https://www.nyc.gov/mayors-office/news/2026/02/ahead-of-feb--27-deadline--mayor-mamdani-urges-families-to-apply",
       "source": "Daybook: Scheduled Events",
@@ -6044,16 +6054,6 @@
       "priority": "reference",
       "date": "Wed, 25 Feb 2026 17:26:15 GMT",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOcW1NMTgtNGFwelZLVTVjNHRLR1F2eFFFZDl2ODFISGRqR1g5SFR5TEdoR0xHaW9UUERmd01jQ1Y2MUc2M2lLX05iblZmX1kyN3dJS0xsR0pIUmpVRVhLYUFXX3ZBa0lVU0pGNzR"
-    },
-    {
-      "headline": "Update to renewal dog license payment deadline: March 3rd - shrewsbury-ma.gov",
-      "url": "https://shrewsburyma.gov/m/newsflash/Home/Detail/9516",
-      "source": "Daybook: Scheduled Events",
-      "sourceId": "daybook_scheduled",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Wed, 25 Feb 2026 17:24:03 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtZzV1VThwazRKdERXMDd1emUwMjZHM0IycDY5Z1BuaFlzRjRfYzVxb1ZJTjhoRV9JaEZFMFNtWWVpeWhfT0xtUE5BNldEeHFYZmg2SW9iMG0zR1lHdnNQNllFMA?oc=5\" target"
     },
     {
       "headline": "Deadline approaching for prospective students with Ferris State family ties to apply for new scholarship - Ferris State University",

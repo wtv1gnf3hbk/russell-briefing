@@ -1,47 +1,45 @@
 Good morning, Russell! Here's what happened while you were sleeping.
 
-## **Top Stories**
+**Top Stories**
 
-- France [escalated its](https://apnews.com/article/france-us-ambassador-charles-kushner-648b599a32730b0e28a80329a1f45ba6) diplomatic row with Washington, announcing that ministers will no longer meet with US Ambassador Charles Kushner.
+- Cuban border guards [killed four](https://www.bbc.com/news/articles/c24drvj8yl2o?at_medium=RSS&amp;at_campaign=rss) people and wounded six others aboard a Florida-registered speedboat that opened fire near the island's northern coast, according to the BBC.
 
-- Cuban border troops [killed four](https://www.reuters.com/world/cuba-says-four-killed-after-speedboat-florida-entered-cuban-waters-opened-fire-2026-02-25/) people and wounded six others aboard a Florida-registered speedboat that opened fire on soldiers near the island's coast.
+- The Guardian reports that [two Brazilian](https://www.theguardian.com/world/2026/feb/25/brazil-politician-brothers-convicted-murder) politician brothers were convicted for ordering the 2018 murder of Rio city councilwoman Marielle Franco, a gay Black woman who fought corruption.
 
-- European officials [visited Ukraine](https://apnews.com/article/russia-ukraine-war-anniversary-87940e37c2f010572402640c8c5ac78c) to show support as the country marks four years since Russia's full-scale invasion began.
+- Nvidia [rallied on](https://www.ft.com/content/f4cda766-5650-4a97-a84f-24d3cfbeddd6) robust earnings powered by an AI investment boom, surpassing $200 billion in annual revenue for the first time, the Financial Times notes.
 
-- Germany's Chancellor Friedrich Merz [delivered blunt](https://www.nytimes.com/2026/02/25/world/asia/china-germany-merz-visit-xi.html) warnings about trade imbalances to Chinese leaders during his first Beijing trip.
+- German Chancellor Friedrich Merz [warned of](https://www.bbc.com/news/articles/c5yjpke8072o?at_medium=RSS&amp;at_campaign=rss) trade imbalances with China during his first Beijing trip, per the BBC.
 
-- An attacker [detonated an](https://apnews.com/article/russia-explosion-moscow-police-killed-d1509c5b35265004b0fd4d803e8850f5) explosive device in Moscow, killing a police officer and himself.
+- Spain [declassified files](https://www.bbc.com/news/articles/ce8w42e152xo?at_medium=RSS&amp;at_campaign=rss) on the 1981 attempted coup in an effort to dispel conspiracy theories, Reuters reports.
 
-- Mexico's drug cartel [violence is](https://apnews.com/article/mexico-jalisco-cartel-mencho-killed-tapalpa-b12ed518d44951c7875bfddef1c2c7b4) fueling security concerns in the lead-up to the FIFA World Cup.
+- India's Prime Minister Narendra Modi told Israel's parliament that [no cause](https://www.aljazeera.com/news/2026/2/25/indias-modi-addresses-israeli-parliament-on-first-day-of-visit?traffic_source=rss) justifies killing civilians during his address to the Knesset.
 
-## **Conflicts & Diplomacy**
+**Conflicts & Diplomacy**
 
-- The US [will allow](https://www.reuters.com/business/energy/us-allow-resale-venezuelan-oil-cuba-treasury-department-says-2026-02-25/) the resale of Venezuelan oil to Cuba, according to the Treasury Department.
+- The U.S. will [allow resale](https://www.reuters.com/business/energy/us-allow-resale-venezuelan-oil-cuba-treasury-department-says-2026-02-25/) of Venezuelan oil to Cuba, according to Reuters, marking a shift in sanctions policy.
 
-- America [will offer](https://www.nytimes.com/2026/02/25/world/middleeast/us-consular-services-israeli-settlements.html) embassy services in a West Bank settlement for the first time, drawing criticism from Palestinians and Israeli groups who say it legitimizes settlements.
+- Ukraine's citizens want the world to stop calling them [resilient](https://www.aljazeera.com/news/2026/2/25/cuban-border-agents-fire-upon-florida-tagged-speedboat-killing-four?traffic_source=rss), saying the label obscures their need for continued Western support.
 
-- Brazil's Supreme Court [convicted four](https://www.nytimes.com/2026/02/25/world/americas/brazil-supreme-court-verdict-marielle-franco-murder.html) men in the murder of Rio de Janeiro councilwoman Marielle Franco, including two politicians and two former police officers.
+- The U.S. will offer [embassy services](https://www.aljazeera.com/news/2026/2/25/cuban-border-agents-fire-upon-florida-tagged-speedboat-killing-four?traffic_source=rss) in a West Bank settlement for the first time, a move Palestinians say legitimizes illegal settlements.
 
-- Spain [declassified files](https://www.nytimes.com/2026/02/25/world/europe/spain-coup-1981-files-revealed.html) about its failed 1981 coup attempt, ending more than four decades of secrecy about why the plot collapsed.
+**Business & Markets**
 
-## **Business & Markets**
+- Salesforce [posted mixed](https://www.ft.com/content/b74b8227-d7cb-4976-ba95-a3a27b79cbdd) earnings and projected revenue could be short of Wall Street expectations as AI anxiety grows.
 
-- Google [will test](https://www.reuters.com/world/google-test-changes-search-results-source-says-eu-fine-looms-2026-02-25/) changes to search results as an EU fine looms, Reuters reports exclusively.
+- CME [halted trading](https://www.ft.com/content/d3fe28d9-ec71-45fb-8574-de4922d04482) on its flagship metals market for more than an hour due to technical issues, the FT reports.
 
-- Companies are [cutting jobs](https://www.reuters.com/business/world-at-work/companies-cutting-jobs-investments-shift-toward-ai-2026-02-25/) as investments shift toward artificial intelligence, according to Reuters.
+- Google will [test changes](https://www.reuters.com/world/google-test-changes-search-results-source-says-eu-fine-looms-2026-02-25/) to search results as a EU fine looms over antitrust concerns, Reuters notes.
 
-- The Supreme Court ruling against Trump's tariffs [is unlikely](https://apnews.com/article/trump-tariffs-supreme-court-refunds-imports-a90ebe598b888832c68ca5ab03a88521) to end trade policy chaos, per AP analysis.
+**Also Notable**
 
-## **Also Notable**
+- Lawrence Summers will [step down](https://www.ft.com/content/c3b1ff0a-9b31-4257-954b-ba6ef5d6669e) from his Harvard teaching role following disclosures about his correspondence with Jeffrey Epstein.
 
-- The Louvre [appointed a](https://www.nytimes.com/2026/02/25/world/europe/louvre-museum-new-director-leribault-paris.html) new director to replace Laurence des Cars, who resigned months after an audacious jewel heist.
+- Pope Francis will [visit four](https://www.bbc.com/news/articles/cvg1vdgl3ymo?at_medium=RSS&amp;at_campaign=rss) African countries in April, including Algeria where he will be the first pope to visit the Muslim-majority nation.
 
-- Pope Leo [will visit](https://www.nytimes.com/2026/02/25/world/europe/pope-africa-visit.html) Africa, signaling the continent's growing importance to Catholicism as the number of Catholics grows fastest there.
+**What to Watch**
 
-## **What to Watch**
+- Iceland will [hold an](https://www.reuters.com/world/europe/iceland-hold-eu-referendum-over-coming-months-pm-says-2026-02-25/) EU referendum in the coming months, the Prime Minister says, per Reuters.
 
-- Iceland [will hold](https://www.reuters.com/world/europe/iceland-hold-eu-referendum-over-coming-months-pm-says-2026-02-25/) an EU referendum in the coming months, the prime minister announced.
+- Mexico will make a [strong show](https://www.france24.com/en/mexico-will-make-a-strong-show-of-security-ahead-of-world-cup-expert-says) of security ahead of the World Cup following recent cartel violence, France24 reports.
 
-- Pentagon Secretary Hegseth and Anthropic's CEO are [set to](https://apnews.com/article/anthropic-hegseth-ai-pentagon-military-3d86c9296fe953ec0591fcde6a613aba) meet as debate intensifies over the military's use of AI.
-
-- Asheville [will host](https://www.citizen-times.com/story/news/local/2026/02/19/asheville-host-world-financial-leaders-g20-meeting/88757365007/) G20 finance leaders in August and September for a major economic summit.
+- Asheville will [host G20](https://www.bpr.org/politics-government/2026-02-20/asheville-to-host-g20-finance-leaders-in-august-september) finance leaders in August and September for high-level meetings on global economic issues.
