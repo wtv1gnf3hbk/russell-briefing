@@ -7,7 +7,8 @@
     "generate": "node generate-briefing.js",
     "write": "node write-briefing.js",
     "briefing": "node generate-briefing.js && node write-briefing.js",
-    "filter": "node sleeping-filter.js"
+    "filter": "node sleeping-filter.js",
+    "test": "node --test 'test/*.test.js'"
   },
   "dependencies": {
     "playwright": "^1.40.0",
