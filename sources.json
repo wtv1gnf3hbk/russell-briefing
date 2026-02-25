@@ -19,7 +19,7 @@
       "id": "reuters_world",
       "name": "Reuters",
       "type": "rss",
-      "url": "https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com&ceid=US:en&hl=en-US&gl=US",
+      "url": "https://feedx.net/rss/reuters.xml",
       "priority": "primary",
       "category": "wire"
     },
