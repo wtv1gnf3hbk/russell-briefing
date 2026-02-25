@@ -4,17 +4,17 @@
     "owner": "Russell Goldman",
     "timezone": "America/New_York",
     "description": "Daily international news briefing — all bullets, ready by 6am ET",
-    "generated": "2026-02-25T20:50:10.584Z",
-    "generatedTimestamp": 1772052610584
+    "generated": "2026-02-25T21:37:50.145Z",
+    "generatedTimestamp": 1772055470145
   },
   "stats": {
     "sourceCount": 19,
     "successCount": 19,
-    "totalStories": 170,
+    "totalStories": 169,
     "totalScreenshots": 6,
-    "daybookStories": 45,
-    "watchCandidateCount": 3,
-    "elapsed": "54.7s"
+    "daybookStories": 44,
+    "watchCandidateCount": 4,
+    "elapsed": "54.8s"
   },
   "stories": {
     "all": [
@@ -163,13 +163,13 @@
         "description": "A newspaper reports Gates apologised to staff over his links to Epstein and said: \"I did nothing illicit. I saw nothing illicit.\""
       },
       {
-        "headline": "Four shot dead on US-registered speedboat by border guard, Cuba says",
+        "headline": "Four shot dead on US-registered speedboat by border guards, Cuba says",
         "url": "https://www.bbc.com/news/articles/c24drvj8yl2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC",
         "sourceId": "bbc_world",
         "category": "general",
         "priority": "primary",
-        "date": "Wed, 25 Feb 2026 20:14:15 GMT",
+        "date": "Wed, 25 Feb 2026 21:18:50 GMT",
         "description": "Six other passengers were wounded in the incident, which took place near an island on Cuba's northern coast."
       },
       {
@@ -520,14 +520,14 @@
         "description": "Pledge to raise spending to 5% of GDP will boost manufacturers but could strain the budget"
       },
       {
-        "headline": "CME halts trading on metals and natural gas futures markets",
-        "url": "https://www.ft.com/content/d3fe28d9-ec71-45fb-8574-de4922d04482",
+        "headline": "Salesforce posts mixed earnings amid AI anxiety",
+        "url": "https://www.ft.com/content/b74b8227-d7cb-4976-ba95-a3a27b79cbdd",
         "source": "Financial Times",
         "sourceId": "ft_home",
         "category": "business",
         "priority": "primary",
-        "date": "Wed, 25 Feb 2026 18:43:49 GMT",
-        "description": "Exchanges operator says it is investigating ‘technical issues’"
+        "date": "Wed, 25 Feb 2026 21:04:54 GMT",
+        "description": "Software group projects revenue could be short of Wall Street’s expectations"
       },
       {
         "headline": "Lawrence Summers to step down from Harvard teaching role",
@@ -590,6 +590,16 @@
         "description": "&lt;p&gt;Intelligence findings read to parliament say ‘rogue’ agencies and individuals  recruiting Kenyan nationals to frontline&lt;/p&gt;&lt;p&gt;More than 1,000 Kenyans have been lured to fight for "
       },
       {
+        "headline": "Cuba says border guards killed four gunmen on US-registered speedboat",
+        "url": "https://www.theguardian.com/world/2026/feb/25/cuba-says-border-guards-killed-four-gunmen-on-us-registered-speedboat",
+        "source": "Guardian",
+        "sourceId": "guardian_world",
+        "category": "general",
+        "priority": "primary",
+        "date": "Wed, 25 Feb 2026 21:11:55 GMT",
+        "description": "&lt;p&gt;Rare clash off island’s coast comes amid oil embargo and heightened tensions between two countries &lt;/p&gt;&lt;p&gt;The Cuban Interior Ministry has said that border guards killed four gunme"
+      },
+      {
         "headline": "Brazilian politician brothers convicted of ordering murder of Rio city councillor",
         "url": "https://www.theguardian.com/world/2026/feb/25/brazil-politician-brothers-convicted-murder",
         "source": "Guardian",
@@ -628,16 +638,6 @@
         "priority": "primary",
         "date": "Tue, 24 Feb 2026 18:35:54 GMT",
         "description": "&lt;p&gt;Chiquinho and Domingos Brazão accused of ordering shooting of Marielle Franco and her driver in 2018&lt;/p&gt;&lt;p&gt;Brazil’s supreme court has opened the trial of politicians accused of or"
-      },
-      {
-        "headline": "Mexico pledges safety for World Cup after violence erupts from cartel boss’s killing",
-        "url": "https://www.theguardian.com/world/2026/feb/24/sheinbaum-world-cup-visitors-violence-el-mencho",
-        "source": "Guardian",
-        "sourceId": "guardian_world",
-        "category": "general",
-        "priority": "primary",
-        "date": "Tue, 24 Feb 2026 17:18:58 GMT",
-        "description": "&lt;p&gt;Mexico’s president says there is ‘no risk’ for those visiting for Fifa games after military killed drug lord ‘El Mencho’&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"https://www.theguard"
       },
       {
         "headline": "US man deported from Bali after 11 years in prison for ‘suitcase murder’ of then girlfriend’s mother",
@@ -690,14 +690,14 @@
         "description": "&lt;p&gt;Not enough support for freed victims, say aid agencies, with growing numbers  sleeping on the streets, unable to travel home without passports or money&lt;/p&gt;&lt;p&gt;Charities and aid wor"
       },
       {
-        "headline": "Inside Nicolás Maduro’s Last Days as Venezuela’s Leader",
-        "url": "https://www.nytimes.com/2026/02/25/world/americas/maduro-venezuela-us-capture-trump.html",
+        "headline": "Live Updates: Cuban Government Says Troops Kill 4 on Florida Speedboat",
+        "url": "https://www.nytimes.com/live/2026/02/25/world/cuba-speedboat-florida-deaths",
         "source": "New York Times",
         "sourceId": "nyt_world",
         "category": "general",
         "priority": "secondary",
-        "date": "Wed, 25 Feb 2026 17:05:55 +0000",
-        "description": "The Venezuelan leader overestimated his strength and misread his exchange with President Trump in the decisive weeks before his capture by U.S. forces."
+        "date": "Wed, 25 Feb 2026 21:35:45 +0000",
+        "description": "Border troops engaged in a gunfight with the four people killed near the island nation’s coast, the Cuban Interior Ministry said."
       },
       {
         "headline": "U.S. Will Offer Embassy Services in a West Bank Settlement for the First Time",
@@ -710,14 +710,14 @@
         "description": "Palestinians and Israelis on the right and left all say that the move is a step toward legitimizing the Israeli settlements, which most of the world considers illegal."
       },
       {
-        "headline": "Cuban Government Kills 4 in Gunfire Exchange Aboard Florida Speedboat",
-        "url": "https://www.nytimes.com/2026/02/25/world/americas/cuba-gunfire-speedboat-florida.html",
+        "headline": "Inside Nicolás Maduro’s Last Days as Venezuela’s Leader",
+        "url": "https://www.nytimes.com/2026/02/25/world/americas/maduro-venezuela-us-capture-trump.html",
         "source": "New York Times",
         "sourceId": "nyt_world",
         "category": "general",
         "priority": "secondary",
-        "date": "Wed, 25 Feb 2026 20:39:53 +0000",
-        "description": "Four people aboard a Florida-based speedboat died in a gunfight with Cuban border troops near the island nation’s coast, the Cuban Interior Ministry said."
+        "date": "Wed, 25 Feb 2026 17:05:55 +0000",
+        "description": "The Venezuelan leader overestimated his strength and misread his exchange with President Trump in the decisive weeks before his capture by U.S. forces."
       },
       {
         "headline": "Thanks, Ukrainians Say, but Please Stop Calling Us Resilient",
@@ -736,7 +736,7 @@
         "sourceId": "nyt_world",
         "category": "general",
         "priority": "secondary",
-        "date": "Wed, 25 Feb 2026 20:03:57 +0000",
+        "date": "Wed, 25 Feb 2026 20:51:07 +0000",
         "description": "Ending more than four decades of conjecture, the Spanish government moved to publish documents from a long-secret investigation of a failed 1981 coup."
       },
       {
@@ -830,14 +830,14 @@
         "description": "Negotiators agree that joining the bloc is critical to Kyiv’s future. But obstacles abound, and compromises might forever change how the union works."
       },
       {
-        "headline": "BBC and BAFTA Say They Are Investigating After Broadcast of Racist Slur",
-        "url": "https://www.nytimes.com/2026/02/25/world/europe/bbc-bafta-slur-apology-tourettes.html",
+        "headline": "Inside Tapalpa, the Town in Mexico Where El Mencho Made His Last Stand",
+        "url": "https://www.nytimes.com/2026/02/25/world/americas/el-mencho-tapalpa-jalisco-cartel.html",
         "source": "New York Times",
         "sourceId": "nyt_world",
         "category": "general",
         "priority": "secondary",
-        "date": "Wed, 25 Feb 2026 18:49:13 +0000",
-        "description": "The awards organization and the broadcaster have ordered separate investigations into what led to airing the slur, which was shouted involuntarily during Sunday’s ceremony."
+        "date": "Wed, 25 Feb 2026 21:34:47 +0000",
+        "description": "Times reporters visiting Tapalpa found a serene town in shock after Sunday’s raid on its outskirts left dozens dead and people fleeing. And, surprisingly, no police or military presence where the batt"
       },
       {
         "headline": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
@@ -990,6 +990,26 @@
         "description": "Check out the stocks Heard on the Street writers favor in their eighth annual stock-picking contest."
       },
       {
+        "headline": "India’s Modi tells Israel’s Knesset: ‘No cause justifies killing civilians’",
+        "url": "https://www.aljazeera.com/news/2026/2/25/indias-modi-addresses-israeli-parliament-on-first-day-of-visit?traffic_source=rss",
+        "source": "Al Jazeera",
+        "sourceId": "aljazeera",
+        "category": "general",
+        "priority": "secondary",
+        "date": "Wed, 25 Feb 2026 20:39:55 +0000",
+        "description": "Prime Minister Narendra Modi hailed the &#039;vital&#039; partnership between Israel and India during his visit."
+      },
+      {
+        "headline": "Modi, Netanyahu praise each other in address to Israeli Knesset",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/2/25/modi-netanyahu-praise-each-other-in-address-to-israeli-knesset?traffic_source=rss",
+        "source": "Al Jazeera",
+        "sourceId": "aljazeera",
+        "category": "general",
+        "priority": "secondary",
+        "date": "Wed, 25 Feb 2026 20:38:16 +0000",
+        "description": "Narendra Modi and Benjamin Netanyahu spoke of each other’s countries in civilisational terms to the Israeli Knesset."
+      },
+      {
         "headline": "Influential economist Larry Summers to depart Harvard over Epstein ties",
         "url": "https://www.aljazeera.com/news/2026/2/25/influential-economist-larry-summers-to-depart-harvard-over-epstein-ties?traffic_source=rss",
         "source": "Al Jazeera",
@@ -1100,16 +1120,6 @@
         "description": "Former President Hassan Rouhani denies reports he wants to replace Supreme Leader Ali Khamenei, blames US and Israel."
       },
       {
-        "headline": "Where the Silence Breaks | Ep 3 – Colombia",
-        "url": "https://www.aljazeera.com/video/making-peace/2026/2/25/where-the-silence-breaks-ep-3?traffic_source=rss",
-        "source": "Al Jazeera",
-        "sourceId": "aljazeera",
-        "category": "general",
-        "priority": "secondary",
-        "date": "Wed, 25 Feb 2026 17:00:00 +0000",
-        "description": "As part of Colombia’s peace process, former army soldiers confess to extrajudicial killings to the victims&#039; families."
-      },
-      {
         "headline": "LIVE: Real Madrid vs Benfica – Champions League playoff, second leg",
         "url": "https://www.aljazeera.com/sports/liveblog/2026/2/25/live-real-madrid-vs-benfica-champions-league-playoff-second-leg?traffic_source=rss",
         "source": "Al Jazeera",
@@ -1120,24 +1130,41 @@
         "description": "Follow the build-up, analysis and live text commentary of the game as the Portuguese giants travel to the Bernabeu."
       },
       {
-        "headline": "US issues new sanctions as it dials up pressure on Iran",
-        "url": "https://www.aljazeera.com/news/2026/2/25/us-issues-new-sanctions-as-it-dials-up-pressure-on-iran?traffic_source=rss",
+        "headline": "Where the Silence Breaks | Ep 3 – Colombia",
+        "url": "https://www.aljazeera.com/video/making-peace/2026/2/25/where-the-silence-breaks-ep-3?traffic_source=rss",
         "source": "Al Jazeera",
         "sourceId": "aljazeera",
         "category": "general",
         "priority": "secondary",
-        "date": "Wed, 25 Feb 2026 16:54:09 +0000",
-        "description": "Washington targets oil vessels as Trump administration intensifies &#039;maximum pressure&#039; campaign against Tehran."
+        "date": "Wed, 25 Feb 2026 17:00:00 +0000",
+        "description": "As part of Colombia’s peace process, former army soldiers confess to extrajudicial killings to the victims&#039; families."
       },
       {
-        "headline": "Demonstrators in frog costumes protest Trump’s State of the Union",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/2/25/demonstrators-in-frog-costumes-protest-trumps-state-of-the-union?traffic_source=rss",
-        "source": "Al Jazeera",
-        "sourceId": "aljazeera",
-        "category": "general",
+        "headline": "Four killed in firefight between Cuban coastguard and Florida-registered speedboat",
+        "url": "https://www.france24.com/en/americas/20260225-four-killed-in-firefight-between-cuban-coastguard-and-florida-registered-speedboat",
+        "source": "France24",
+        "sourceId": "france24",
+        "category": "wire",
         "priority": "secondary",
-        "date": "Wed, 25 Feb 2026 16:48:33 +0000",
-        "description": "As Trump delivered his State of the Union address, demonstrators dressed in frog costumes protested in the streets."
+        "date": "Wed, 25 Feb 2026 21:07:28 GMT",
+        "description": ""
+      },
+      {
+        "headline": "Mexico will make 'a strong show of security' ahead of World Cup, expert says",
+        "url": "https://www.france24.com/en/mexico-will-make-a-strong-show-of-security-ahead-of-world-cup-expert-says",
+        "source": "France24",
+        "sourceId": "france24",
+        "category": "wire",
+        "priority": "secondary",
+        "date": "Wed, 25 Feb 2026 20:31:33 GMT",
+        "description": "",
+        "watchCandidate": true,
+        "watchSignals": [
+          {
+            "category": "temporal",
+            "matched": "ahead of"
+          }
+        ]
       },
       {
         "headline": "Brazil politicians convicted for ordering murder of black activist councilor",
@@ -1270,26 +1297,6 @@
         "description": ""
       },
       {
-        "headline": "State of the Union: Trump's speech 'not likely to sway people one way or the other'",
-        "url": "https://www.france24.com/en/video/20260225-state-of-the-union-trump-s-speech-not-likely-to-sway-people-one-way-or-the-other",
-        "source": "France24",
-        "sourceId": "france24",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Wed, 25 Feb 2026 14:54:34 GMT",
-        "description": ""
-      },
-      {
-        "headline": "Syria confirms mass escape of suspected Islamic State jihadists' relatives from detention camp",
-        "url": "https://www.france24.com/en/middle-east/20260225-syria-confirms-mass-escape-of-suspected-islamic-state-family-members-from-detention-camp",
-        "source": "France24",
-        "sourceId": "france24",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Wed, 25 Feb 2026 14:52:00 GMT",
-        "description": ""
-      },
-      {
         "headline": "Deputy Secretary Landau’s Participation in the Investment, Security, and Shared Prosperity Summit, and Travel to Tonga, Fiji, and Samoa - U.S. Department of State (.gov)",
         "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/02/deputy-secretary-landaus-participation-in-the-investment-security-and-shared-prosperity-summit-and-travel-to-tonga-fiji-and-samoa",
         "source": "Daybook: International Events",
@@ -1318,26 +1325,6 @@
         "priority": "reference",
         "date": "Fri, 20 Feb 2026 15:24:00 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOcnB1VF9nMG56WDU0dndhVzBjTHlMX0VOcWNsZHNIRjlVYkxvejdmbDZwZFY5aGFQS1JkcWo5VkI1WERTTGUwSDJSZEFGUm54MU9GeUtyQ0MzNno4MDlONGNmRG1ETnl0eE5lb1l"
-      },
-      {
-        "headline": "FSS Summit strengthens AFMC Force Support enterprise &gt; Air Force &gt; Article Display - af.mil",
-        "url": "https://www.af.mil/News/Article-Display/Article/4410089/fss-summit-strengthens-afmc-force-support-enterprise/",
-        "source": "Daybook: International Events",
-        "sourceId": "daybook_intl",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Thu, 19 Feb 2026 21:41:40 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNQnR4VHQtaFVFR1NQaGNjbTFUQWc3QzFjUjFiRUgzYS1ib2hmZFVOM0Z3Ty1WT0dRRW9BM252R3NJd0loMHZ0Slgwd1NVMERKdEZPRU9lV19rVHRDT1NxQWotaHU2dUl1LWZrbUp"
-      },
-      {
-        "headline": "G20 (Group of 20) | History &amp; Members - Britannica",
-        "url": "https://www.britannica.com/topic/Group-of-20",
-        "source": "Daybook: International Events",
-        "sourceId": "daybook_intl",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Thu, 19 Feb 2026 08:00:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9IYW10UEFKaXZCd2pHd2c1V3RHc05SLTJIWmlCMWc0TjlONXRmZUF3N1l1NjNXWnRHcm5FUHNtR1ktM1N3N29Dckt2WHdWdGtDd2t1NW9sWQ?oc=5\" target=\"_blank\"&gt;G20"
       },
       {
         "headline": "New Chick-fil-A Opening in Lee’s Summit - Chick-fil-A",
@@ -1390,16 +1377,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMWZweG1pTE8wdUdrcTVsdEFheFJEWmZnWVVFTEw2T25IVnh5U1RJODZyLVhXTE9Db0VzYWkydnlabDJudnhMXzZ1d0tlLTJ3cDgxYmNFaXNfQjlFc0paaGhmQmxqWFdzaGJTVVY"
       },
       {
-        "headline": "Q&amp;A with Neel Kashkari at the Midwest Economic Outlook Summit - Federal Reserve Bank of Minneapolis",
-        "url": "https://www.minneapolisfed.org/speeches/2026/neel-kashkari-at-the-midwest-economic-outlook-summit",
-        "source": "Daybook: International Events",
-        "sourceId": "daybook_intl",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Thu, 19 Feb 2026 14:05:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNTmwxbFdRdkRDSFZpUUE5TEhzTTc2MlBqQmNJd09KQmY1dWVScGpFNHdVcmxMYnNNbDNhVENtWVpnR0NISzczT1VhLTZiMVZacW5pYktZVFlwdEdEVnVVMmhvWDFwSW0tMlBTcGJ"
-      },
-      {
         "headline": "Opening keynote speech by President von der Leyen at the Antwerp European Industry Summit - European Commission",
         "url": "https://ec.europa.eu/commission/presscorner/detail/hu/speech_26_382",
         "source": "Daybook: International Events",
@@ -1408,16 +1385,6 @@
         "priority": "reference",
         "date": "Fri, 20 Feb 2026 21:39:41 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBVaEZwMW1kVTdOa1ZJSHJ1bTN6QU1UdjJlUnJCY1czNkpmV0pZM1Z0ejluUGRYN1hWcmNpSHVqZlhWQlA0Y2RxUklqZjZBVF9vZER1ZzRsUGR6NnBBc1BlN1ZXN1JRSGZBZG1PVm9"
-      },
-      {
-        "headline": "Opening Day Wraps Up at the 2026 #SummitSD Championships - The Summit League",
-        "url": "https://thesummitleague.org/news/2026/2/19/mens-swimming-and-diving-opening-day-wraps-up-at-the-2026-summitsd-championships.aspx",
-        "source": "Daybook: International Events",
-        "sourceId": "daybook_intl",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Thu, 19 Feb 2026 02:47:29 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQY3N6bDcyMHIybWx3SjRmLVdVZmlhSmJ0VGFsNUZVNW10SDRhVXdmMVplWnBCS3ozRUhqcG1xN1hEMW1QTmhIckVzZGZUamZaSDNiYzNZdnBDTVhRSldJOXdpX0VRa1ZRNWdwUkx"
       },
       {
         "headline": "India’s AI summit draws global leaders, big pledges and some chaos - NBC News",
@@ -1440,6 +1407,46 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOUTFaOWp2NDJiVHZDaEpEc3E5OU1OOGJaekZfSUZYMnBCaWxlbkhFWlplRExIWWpwSktCS0FxOXJHbEpWdUlTNTRBNUpISzBqRW1vYU9NUVpzSmRoZU9LOElXWXRxZDVQazJleXl"
       },
       {
+        "headline": "Epstein’s shadow: Why Bill Gates pulled out of Modi’s AI summit - Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/2/19/epsteins-shadow-why-bill-gates-pulled-out-of-modis-ai-summit",
+        "source": "Daybook: International Events",
+        "sourceId": "daybook_intl",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Thu, 19 Feb 2026 10:55:50 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOTnhFZkpYY3EyN1NEV3h4QlF4T1hwR2had3p1eWkxLW4wNXR4bmZlUVZxMzVQT0YyRFNuRUtKRGJkODVUc1lmbmRiZU1vMkRtUUkwNEh0WEFndWNQWElIYzhjY3VVTnpkbmxQZE5"
+      },
+      {
+        "headline": "Chaos, confusion and $200 billion dreams: What I saw at India’s AI summit - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Hb2p3em1Pbmt6Rm1PN09hSW0yU3JaelU2UXE2bVFPazRnaGJ2MTlEYTUzdmVLRllRU0pMa2xiRlE3eEFfc1ZuQ3NBUFNZY01hVGRuZmxoOFZ0YWVWWmFkZ0JkRWpiSjdC0gFuQVVfeXFMTlJEcjViTXd4V1pCYmJ1ZXBvS2xLUHdWWW1Ld0JPSElLNVlBVnlVSG1WRXVkdUFZbklBQVUxUG1rMEdERE1BTElvZzZMRDhJUnN6aW0zVzFDU3NOZVhCb0JjTGxVRnkwZWlxQ1I5RHc?oc=5",
+        "source": "Daybook: International Events",
+        "sourceId": "daybook_intl",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Sat, 21 Feb 2026 08:50:57 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Hb2p3em1Pbmt6Rm1PN09hSW0yU3JaelU2UXE2bVFPazRnaGJ2MTlEYTUzdmVLRllRU0pMa2xiRlE3eEFfc1ZuQ3NBUFNZY01hVGRuZmxoOFZ0YWVWWmFkZ0JkRWpiSjdC0gFuQVV"
+      },
+      {
+        "headline": "Join the ‘Transformation to Triumph Black Women’s Summit’ and Become Part of a Global Network of Support - The Dig at Howard University",
+        "url": "https://thedig.howard.edu/all-stories/join-transformation-triumph-black-womens-summit-and-become-part-global-network-support",
+        "source": "Daybook: International Events",
+        "sourceId": "daybook_intl",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Tue, 24 Feb 2026 20:04:52 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSjlYSFd1cngxZmxDYmRFLXBTbE5sd2ZqZGVtY0h4bkFNNldUM2Y0MmM2UnVkenBjcXNQWTBLTXdteEpiRlZTenl4UHJFWmJiMTR5N0swejhmR1dHRU9venMyakNaYUFndnA4ZXp"
+      },
+      {
+        "headline": "Johnson Named Summit League Peak Performer of the Week for Third Time - University of Denver Athletics",
+        "url": "https://denverpioneers.com/news/2026/2/24/mens-basketball-johnson-named-summit-league-peak-performer-of-the-week-for-third-time.aspx",
+        "source": "Daybook: International Events",
+        "sourceId": "daybook_intl",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Tue, 24 Feb 2026 21:07:13 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNMC1ESTdsVnhla2Rtek1Zck5PV2pyZXRDU21Oa3RBSlJmNTJBbkJ6cVhTRmhPM1ZobG5HcGhuWVFsQzNUWEpscTNnRHV5Z2VYZ0Qxa2U5M29CSWl0V3o5a3hySEoyS0VlSVNiQTJ"
+      },
+      {
         "headline": "Decoding trade deadline strategy and where the Kraken fit - Sound Of Hockey",
         "url": "https://soundofhockey.com/2026/02/23/seattle-kraken-trade-deadline-strategies/",
         "source": "Daybook: Economic Calendar",
@@ -1460,14 +1467,14 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNbzNpeXlMSHVHMXFnWDVucEFWUm1jUWlWLUVCbzN2dUwxOXBfMURBRjhtR2dNRW9IX0dac1psaEpfM3hVZzNkeWY1S1pwb0FNUnNtakZWMFVTcEotRTBUQWVpcDVuU2s2V3lwS04"
       },
       {
-        "headline": "Trade Deadline, playoff races among top storylines after Olympic break - NHL.com",
-        "url": "https://www.nhl.com/news/trade-deadline-playoff-races-among-top-post-olympic-nhl-storylines",
+        "headline": "Fantasy spin on 2026 NHL Trade Deadline - NHL.com",
+        "url": "https://www.nhl.com/news/topic/trade-coverage/fantasy-hockey-spin-2026-nhl-trade-deadline",
         "source": "Daybook: Economic Calendar",
         "sourceId": "daybook_econ",
         "category": "daybook",
         "priority": "reference",
-        "date": "Tue, 24 Feb 2026 03:32:31 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQN0lJYVJSOXVQVEloR25zZlZjRGRWVGIzMl84QmxvWFFxWDVRRGo0azNYb281UnMtVjFpbFNfSUJmVER3S0V6UDlqV1JNcUVua0ZnbzdQR2ptUUpXQ1NWOGIzR1NXUndLbUlhWFB"
+        "date": "Wed, 25 Feb 2026 20:04:32 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQZVdRcVJWYmhxM3d1bUNMMXVoczhIZ1lDVDZ6TnUyTnEwM2lmUVpmcHRZQTRySG43R3FYc0JjR1I0SUFHaVFPZE91blZUN0Zjd0NFS1N5NHpTNGEzLUc1Mmp6WHFqaTdjeEljUzV"
       },
       {
         "headline": "Kevin Weekes Breaks Down the Kings Trade Deadline Options on The Insider Show - LA Kings Insider",
@@ -1488,16 +1495,6 @@
         "priority": "reference",
         "date": "Wed, 25 Feb 2026 17:04:00 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNEFLTnB6R0FaQU9wRnpnMjRwRmM1d2xFLTY5NWhqMUlrdVh3VzNBdDh0UFJlUHdaYm9PMlpWLVc0UmpDNWp1Vjc3ZUMwckdXSnpablF2aEJOcTRpMlZZVm94TUZQYzNydWN1UHN"
-      },
-      {
-        "headline": "Figma stock jumps 15% as company sees AI monetization accelerating growth - CNBC",
-        "url": "https://www.cnbc.com/2026/02/18/figma-fig-q4-earnings-report-2025.html",
-        "source": "Daybook: Economic Calendar",
-        "sourceId": "daybook_econ",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Wed, 18 Feb 2026 21:06:04 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFB0MWRKcU1SbDVyMVBwZVNWck1Bc0JPeFZpUG5Tc2VaS1p6eVNzWG1DVktWQUs3aEJPWGN1eDRzZ1F4S1lxWmZ4TXRfMzZMQzVKOVVPRzVRMDJCd1Z5MmM3N191QW9jb090T2QzMk1"
       },
       {
         "headline": "Fed’s Waller says March rate decision hinges on whether jobs rebound proves ‘signal or noise’ - InvestmentNews",
@@ -1540,6 +1537,16 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOXBCME5yNUlvc1RkT01BQ1A2d1RaRXZxQkJla3BmemNYMnRBYVdsZG84blpaOGFvQWpYUHl6TXhOdDdwY1RxNHVPR2RRUUtIdFBfRjBSTE5MaXpmbzAxMnBjOERFdnNsZXBrRGF"
       },
       {
+        "headline": "Kraken return from Olympic break for trade deadline and playoff push - The Seattle Times",
+        "url": "https://www.seattletimes.com/sports/kraken/kraken-return-from-olympic-break-for-trade-deadline-and-playoff-push/",
+        "source": "Daybook: Economic Calendar",
+        "sourceId": "daybook_econ",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Wed, 25 Feb 2026 14:00:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQaW1JenVYX2t0SHJSTFB6TURlZFpVaVBQcThUeHFDWC1ESGtsbHp1VWJZUS10MDg2NmZNUTNRNktGRU5vQVlDeVdyYlZuNWFySDVSYlNPSmdDNWJYRk43Z0hBXy04M19kTktNNm5"
+      },
+      {
         "headline": "MINNESOTA WILD: POST-OLYMPIC ADVICE FOR THE NHL TRADE DEADLINE - Lets Play Hockey",
         "url": "https://letsplayhockey.com/minnesota-wild-post-olympic-advice-for-the-nhl-trade-deadline/",
         "source": "Daybook: Economic Calendar",
@@ -1570,16 +1577,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNZWVWZFlNU1hLZXdDblJySHR6OHFveTZQLWRvNzdyTVVRRlJ2MzlIOHZuU3dreXRvOEtUVW9OMUlWak0xSGVqNG5LQ3pULVJiRVR1SmpjT1A2YkhPTWpEeUpNdGdPbXgwbS1HVTc"
       },
       {
-        "headline": "Kraken return from Olympic break for trade deadline and playoff push - The Seattle Times",
-        "url": "https://www.seattletimes.com/sports/kraken/kraken-return-from-olympic-break-for-trade-deadline-and-playoff-push/",
-        "source": "Daybook: Economic Calendar",
-        "sourceId": "daybook_econ",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Wed, 25 Feb 2026 14:00:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQaW1JenVYX2t0SHJSTFB6TURlZFpVaVBQcThUeHFDWC1ESGtsbHp1VWJZUS10MDg2NmZNUTNRNktGRU5vQVlDeVdyYlZuNWFySDVSYlNPSmdDNWJYRk43Z0hBXy04M19kTktNNm5"
-      },
-      {
         "headline": "Columbus Blue Jackets may hang onto free agents past trade deadline - The Columbus Dispatch",
         "url": "https://www.dispatch.com/story/sports/nhl/columbus-blue-jackets/2026/02/24/columbus-blue-jackets-may-hang-onto-free-agents-past-trade-deadline/88833945007/",
         "source": "Daybook: Economic Calendar",
@@ -1590,6 +1587,16 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTG9XZVZ2RVcteXNNdzFYNGQ4QUs5N3RON2ZxQTk5WGYxVEZMRVlOTDlLYThhUlZzYnc1TE1nZmFyUkd2cVZCZlphLWxnbzRkQzdMVC1icXB5UzRkdVVsWVZhQ1diaGFfZTNySks"
       },
       {
+        "headline": "Trade Deadline, playoff races among top storylines after Olympic break - NHL.com",
+        "url": "https://www.nhl.com/news/trade-deadline-playoff-races-among-top-post-olympic-nhl-storylines",
+        "source": "Daybook: Economic Calendar",
+        "sourceId": "daybook_econ",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Tue, 24 Feb 2026 03:32:31 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQN0lJYVJSOXVQVEloR25zZlZjRGRWVGIzMl84QmxvWFFxWDVRRGo0azNYb281UnMtVjFpbFNfSUJmVER3S0V6UDlqV1JNcUVua0ZnbzdQR2ptUUpXQ1NWOGIzR1NXUndLbUlhWFB"
+      },
+      {
         "headline": "Justices reveal little about whether the deadline for removing cases to federal court can be excused - SCOTUSblog",
         "url": "https://www.scotusblog.com/2026/02/justices-reveal-little-about-whether-the-deadline-for-removing-cases-to-federal-court-can-be-excused/",
         "source": "Daybook: Scheduled Events",
@@ -1598,6 +1605,36 @@
         "priority": "reference",
         "date": "Wed, 25 Feb 2026 15:20:51 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeGkxWkt6U0w3Sm1xQlBYd3FyeGZuWFZfbzNOam5rOE9KQTNsNzdzOVBDb1BDQ0s3c0w2XzViTWE3Vi1wRS1sS3JzSDU0Nk05Zjl5UHFqQVNlNlBVVFBBZjRzQTBfT1Y5QlhhdXh"
+      },
+      {
+        "headline": "NHL Trade Buzz: Panthers have ‘very important week’ before Deadline - NHL.com",
+        "url": "https://www.nhl.com/news/topic/trade-coverage/nhl-trade-buzz-news-and-notes-february-25-2026",
+        "source": "Daybook: Scheduled Events",
+        "sourceId": "daybook_scheduled",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Wed, 25 Feb 2026 17:15:58 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNU29VM3RmNXdCN3NZd3I3anJKdU5aXzBaSFF6Wk11TUtYSW5qM3Z2ZTBzeVZYU2lyM1RzOE84QkNfaGJvRjVobko3VjJiM19uaEpjYXNWVFdBaUZaMnhzWGh0MDBkQmtYN2hiaWN"
+      },
+      {
+        "headline": "Emma Roberts To Star In ‘Bride Wars’ Movie Reimagination For TV In Development At Peacock - Deadline",
+        "url": "https://deadline.com/2026/02/emma-roberts-bride-wars-movie-reimagination-for-tv-peacock-1236735460/",
+        "source": "Daybook: Scheduled Events",
+        "sourceId": "daybook_scheduled",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Wed, 25 Feb 2026 17:00:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOSEpFbUFLYWVkb2RsMUxUNjQzcF9HMGtPdk5mSWRSeG5DV2t6MUdfS3BWTTZSS2RtQ3VGSjNoOUZPNjF1WXFncnBVMzA1UmNYVFUzeU5WYlpiaHZDWFBmaXZHMTdWTUs5elBMUjB"
+      },
+      {
+        "headline": "HRSA extends deadline to April 20 for comments on 340B rebate model RFI and suggests expanded number of drugs to be included - American Hospital Association",
+        "url": "https://www.aha.org/news/headline/2026-02-25-hrsa-extends-deadline-april-20-comments-340b-rebate-model-rfi-and-suggests-expanded-number-drugs-be",
+        "source": "Daybook: Scheduled Events",
+        "sourceId": "daybook_scheduled",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Wed, 25 Feb 2026 21:11:15 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRkRxYXJPRnQ0YUpac1lobFAyQUVKQmlOU1dvb1czUFQwNTg3eTlzdHc3MlRfMEp0ckFFV3MwUkNEaUJBdlQyT1FxQU5DYXpKT3FGZkRCWHZxSzJjRjZQQkVoajFQOXBPQlA1d21"
       },
       {
         "headline": "Tennis Buffs Set to Begin Big 12 Play - University of Colorado Athletics",
@@ -1628,26 +1665,6 @@
         "priority": "reference",
         "date": "Wed, 25 Feb 2026 17:26:15 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOcW1NMTgtNGFwelZLVTVjNHRLR1F2eFFFZDl2ODFISGRqR1g5SFR5TEdoR0xHaW9UUERmd01jQ1Y2MUc2M2lLX05iblZmX1kyN3dJS0xsR0pIUmpVRVhLYUFXX3ZBa0lVU0pGNzR"
-      },
-      {
-        "headline": "Warner Board Says Paramount Agreed To Raise Offer To $31 A Share Or More If Two Sides Engaged - Deadline",
-        "url": "https://deadline.com/2026/02/warner-bros-discovery-says-paramount-agreed-to-higher-offer-1236726616/",
-        "source": "Daybook: Scheduled Events",
-        "sourceId": "daybook_scheduled",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Wed, 25 Feb 2026 12:05:58 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNSmFNMzRGbV9QS1BOWWlsb0FKTXR5cFZkMU5mWWR3ZEJhZW5XaWhOX2hnOEpoalYydERnZ3Axa09DMFRtUTU4UnBhVWRIV2hfR3dQVnJOVHR2Y0MxWVlRdUh3ZGQyUFZVUzY1dEg"
-      },
-      {
-        "headline": "NHL Trade Buzz: Panthers have ‘very important week’ before Deadline - NHL.com",
-        "url": "https://www.nhl.com/news/topic/trade-coverage/nhl-trade-buzz-news-and-notes-february-25-2026",
-        "source": "Daybook: Scheduled Events",
-        "sourceId": "daybook_scheduled",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Wed, 25 Feb 2026 17:15:58 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNU29VM3RmNXdCN3NZd3I3anJKdU5aXzBaSFF6Wk11TUtYSW5qM3Z2ZTBzeVZYU2lyM1RzOE84QkNfaGJvRjVobko3VjJiM19uaEpjYXNWVFdBaUZaMnhzWGh0MDBkQmtYN2hiaWN"
       },
       {
         "headline": "Deadline approaching for prospective students with Ferris State family ties to apply for new scholarship - Ferris State University",
@@ -1690,34 +1707,14 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR2ZTTFgxUW9yTnRTQlAwMFJqTnE3VndIM1lYeGotRGp3MG1zeE1ZU24tOWs3NUNHWGo1XzM2bkNxZkdfUEpWbFhuazhsZDRpV3ZxRmN0MWx5R3BzMmJjRERQVkg5ODBlZ2kwOUh"
       },
       {
-        "headline": "E15 deadline arrives as industry awaits congressional action - Brownfield Ag News",
-        "url": "https://www.brownfieldagnews.com/news/e15-deadline-arrives-as-industry-awaits-congressional-action/",
+        "headline": "Warner Board Says Paramount Agreed To Raise Offer To $31 A Share Or More If Two Sides Engaged - Deadline",
+        "url": "https://deadline.com/2026/02/warner-bros-discovery-says-paramount-agreed-to-higher-offer-1236726616/",
         "source": "Daybook: Scheduled Events",
         "sourceId": "daybook_scheduled",
         "category": "daybook",
         "priority": "reference",
-        "date": "Wed, 25 Feb 2026 15:37:31 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPcWEyQlByZ2Z6UFBtREdaMjExUW5nZHJCN2VocXFhdnZnS3lXZUl6NFhoZ3pFQWN4ZFh4WHV0cFhRQXgwdmRla3pUWEw4cWdoT2lyNWZISjRNS1ZiWFB3RG5xVzRqazdnX3JmdkF"
-      },
-      {
-        "headline": "'Industry' Renewed For Fifth &amp; Final Season At HBO - Deadline",
-        "url": "https://deadline.com/2026/02/industry-renewed-fifth-final-season-hbo-1236735218/",
-        "source": "Daybook: Scheduled Events",
-        "sourceId": "daybook_scheduled",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Wed, 25 Feb 2026 16:00:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQRXVTZkttZFhTMXJGc3IwZ0lhZ2RlTE1aSkgtSUFFc2x5MXMwMlV6RWFXT1U4eEtEMXRnRjYyMkpFXzAxMzFaUVoyMEp2SnZvZ1hyVVh1S09VNHdKZlh6elhzTnN3MGQ4a3JMd3p"
-      },
-      {
-        "headline": "Fantasy spin on 2026 NHL Trade Deadline - NHL.com",
-        "url": "https://www.nhl.com/news/topic/trade-coverage/fantasy-hockey-spin-2026-nhl-trade-deadline",
-        "source": "Daybook: Scheduled Events",
-        "sourceId": "daybook_scheduled",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Wed, 25 Feb 2026 20:04:32 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQZVdRcVJWYmhxM3d1bUNMMXVoczhIZ1lDVDZ6TnUyTnEwM2lmUVpmcHRZQTRySG43R3FYc0JjR1I0SUFHaVFPZE91blZUN0Zjd0NFS1N5NHpTNGEzLUc1Mmp6WHFqaTdjeEljUzV"
+        "date": "Wed, 25 Feb 2026 12:05:58 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNSmFNMzRGbV9QS1BOWWlsb0FKTXR5cFZkMU5mWWR3ZEJhZW5XaWhOX2hnOEpoalYydERnZ3Axa09DMFRtUTU4UnBhVWRIV2hfR3dQVnJOVHR2Y0MxWVlRdUh3ZGQyUFZVUzY1dEg"
       },
       {
         "headline": "David F. Sandberg To Direct Horror Film ‘A Little Slice Of Hell’ In Development At Paramount - Deadline",
@@ -1730,14 +1727,14 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNLWFqb3p0YWVoY3ZsYlNqTVFtN3JsMmk4UGRfN1RVUjJsaHptQ2hfX2ZGT1VyU0MyeTRIM0pWMnR4cjlRWjc3a3RxN0dsSzRnaURFS0dkZkFtaXhHOUVFaUtuYkM1LW1seXJEVGZ"
       },
       {
-        "headline": "FBI Raids Home &amp; Office Of LAUSD Superintendent Alberto Carvalho - Deadline",
-        "url": "https://deadline.com/2026/02/fbi-raids-home-office-lausd-superintendent-alberto-carvalho-1236735901/",
+        "headline": "'Industry' Renewed For Fifth &amp; Final Season At HBO - Deadline",
+        "url": "https://deadline.com/2026/02/industry-renewed-fifth-final-season-hbo-1236735218/",
         "source": "Daybook: Scheduled Events",
         "sourceId": "daybook_scheduled",
         "category": "daybook",
         "priority": "reference",
-        "date": "Wed, 25 Feb 2026 18:19:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQd2ZucDdzcTYzWEREb3ktaXVsSjBPRnJqWmstM1BfNkhDcnM1REdJd1YwQ0dObGVfdkhUWWl6azR2Z3FfRml1OVNaSDM4R3BCSHdxbEhaSjk0bllKTG9DTTVZc1pqU2VmWmxSU2p"
+        "date": "Wed, 25 Feb 2026 16:00:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQRXVTZkttZFhTMXJGc3IwZ0lhZ2RlTE1aSkgtSUFFc2x5MXMwMlV6RWFXT1U4eEtEMXRnRjYyMkpFXzAxMzFaUVoyMEp2SnZvZ1hyVVh1S09VNHdKZlh6elhzTnN3MGQ4a3JMd3p"
       }
     ],
     "byCategory": {
@@ -1855,6 +1852,33 @@
           "priority": "primary",
           "date": "Tue, 24 Feb 2026 00:53:02 +0000",
           "description": ""
+        },
+        {
+          "headline": "Four killed in firefight between Cuban coastguard and Florida-registered speedboat",
+          "url": "https://www.france24.com/en/americas/20260225-four-killed-in-firefight-between-cuban-coastguard-and-florida-registered-speedboat",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Wed, 25 Feb 2026 21:07:28 GMT",
+          "description": ""
+        },
+        {
+          "headline": "Mexico will make 'a strong show of security' ahead of World Cup, expert says",
+          "url": "https://www.france24.com/en/mexico-will-make-a-strong-show-of-security-ahead-of-world-cup-expert-says",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Wed, 25 Feb 2026 20:31:33 GMT",
+          "description": "",
+          "watchCandidate": true,
+          "watchSignals": [
+            {
+              "category": "temporal",
+              "matched": "ahead of"
+            }
+          ]
         },
         {
           "headline": "Brazil politicians convicted for ordering murder of black activist councilor",
@@ -1985,26 +2009,6 @@
           "priority": "secondary",
           "date": "Wed, 25 Feb 2026 15:00:46 GMT",
           "description": ""
-        },
-        {
-          "headline": "State of the Union: Trump's speech 'not likely to sway people one way or the other'",
-          "url": "https://www.france24.com/en/video/20260225-state-of-the-union-trump-s-speech-not-likely-to-sway-people-one-way-or-the-other",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Wed, 25 Feb 2026 14:54:34 GMT",
-          "description": ""
-        },
-        {
-          "headline": "Syria confirms mass escape of suspected Islamic State jihadists' relatives from detention camp",
-          "url": "https://www.france24.com/en/middle-east/20260225-syria-confirms-mass-escape-of-suspected-islamic-state-family-members-from-detention-camp",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Wed, 25 Feb 2026 14:52:00 GMT",
-          "description": ""
         }
       ],
       "general": [
@@ -2039,13 +2043,13 @@
           "description": "A newspaper reports Gates apologised to staff over his links to Epstein and said: \"I did nothing illicit. I saw nothing illicit.\""
         },
         {
-          "headline": "Four shot dead on US-registered speedboat by border guard, Cuba says",
+          "headline": "Four shot dead on US-registered speedboat by border guards, Cuba says",
           "url": "https://www.bbc.com/news/articles/c24drvj8yl2o?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC",
           "sourceId": "bbc_world",
           "category": "general",
           "priority": "primary",
-          "date": "Wed, 25 Feb 2026 20:14:15 GMT",
+          "date": "Wed, 25 Feb 2026 21:18:50 GMT",
           "description": "Six other passengers were wounded in the incident, which took place near an island on Cuba's northern coast."
         },
         {
@@ -2366,6 +2370,16 @@
           "description": "&lt;p&gt;Intelligence findings read to parliament say ‘rogue’ agencies and individuals  recruiting Kenyan nationals to frontline&lt;/p&gt;&lt;p&gt;More than 1,000 Kenyans have been lured to fight for "
         },
         {
+          "headline": "Cuba says border guards killed four gunmen on US-registered speedboat",
+          "url": "https://www.theguardian.com/world/2026/feb/25/cuba-says-border-guards-killed-four-gunmen-on-us-registered-speedboat",
+          "source": "Guardian",
+          "sourceId": "guardian_world",
+          "category": "general",
+          "priority": "primary",
+          "date": "Wed, 25 Feb 2026 21:11:55 GMT",
+          "description": "&lt;p&gt;Rare clash off island’s coast comes amid oil embargo and heightened tensions between two countries &lt;/p&gt;&lt;p&gt;The Cuban Interior Ministry has said that border guards killed four gunme"
+        },
+        {
           "headline": "Brazilian politician brothers convicted of ordering murder of Rio city councillor",
           "url": "https://www.theguardian.com/world/2026/feb/25/brazil-politician-brothers-convicted-murder",
           "source": "Guardian",
@@ -2404,16 +2418,6 @@
           "priority": "primary",
           "date": "Tue, 24 Feb 2026 18:35:54 GMT",
           "description": "&lt;p&gt;Chiquinho and Domingos Brazão accused of ordering shooting of Marielle Franco and her driver in 2018&lt;/p&gt;&lt;p&gt;Brazil’s supreme court has opened the trial of politicians accused of or"
-        },
-        {
-          "headline": "Mexico pledges safety for World Cup after violence erupts from cartel boss’s killing",
-          "url": "https://www.theguardian.com/world/2026/feb/24/sheinbaum-world-cup-visitors-violence-el-mencho",
-          "source": "Guardian",
-          "sourceId": "guardian_world",
-          "category": "general",
-          "priority": "primary",
-          "date": "Tue, 24 Feb 2026 17:18:58 GMT",
-          "description": "&lt;p&gt;Mexico’s president says there is ‘no risk’ for those visiting for Fifa games after military killed drug lord ‘El Mencho’&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"https://www.theguard"
         },
         {
           "headline": "US man deported from Bali after 11 years in prison for ‘suitcase murder’ of then girlfriend’s mother",
@@ -2466,14 +2470,14 @@
           "description": "&lt;p&gt;Not enough support for freed victims, say aid agencies, with growing numbers  sleeping on the streets, unable to travel home without passports or money&lt;/p&gt;&lt;p&gt;Charities and aid wor"
         },
         {
-          "headline": "Inside Nicolás Maduro’s Last Days as Venezuela’s Leader",
-          "url": "https://www.nytimes.com/2026/02/25/world/americas/maduro-venezuela-us-capture-trump.html",
+          "headline": "Live Updates: Cuban Government Says Troops Kill 4 on Florida Speedboat",
+          "url": "https://www.nytimes.com/live/2026/02/25/world/cuba-speedboat-florida-deaths",
           "source": "New York Times",
           "sourceId": "nyt_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Wed, 25 Feb 2026 17:05:55 +0000",
-          "description": "The Venezuelan leader overestimated his strength and misread his exchange with President Trump in the decisive weeks before his capture by U.S. forces."
+          "date": "Wed, 25 Feb 2026 21:35:45 +0000",
+          "description": "Border troops engaged in a gunfight with the four people killed near the island nation’s coast, the Cuban Interior Ministry said."
         },
         {
           "headline": "U.S. Will Offer Embassy Services in a West Bank Settlement for the First Time",
@@ -2486,14 +2490,14 @@
           "description": "Palestinians and Israelis on the right and left all say that the move is a step toward legitimizing the Israeli settlements, which most of the world considers illegal."
         },
         {
-          "headline": "Cuban Government Kills 4 in Gunfire Exchange Aboard Florida Speedboat",
-          "url": "https://www.nytimes.com/2026/02/25/world/americas/cuba-gunfire-speedboat-florida.html",
+          "headline": "Inside Nicolás Maduro’s Last Days as Venezuela’s Leader",
+          "url": "https://www.nytimes.com/2026/02/25/world/americas/maduro-venezuela-us-capture-trump.html",
           "source": "New York Times",
           "sourceId": "nyt_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Wed, 25 Feb 2026 20:39:53 +0000",
-          "description": "Four people aboard a Florida-based speedboat died in a gunfight with Cuban border troops near the island nation’s coast, the Cuban Interior Ministry said."
+          "date": "Wed, 25 Feb 2026 17:05:55 +0000",
+          "description": "The Venezuelan leader overestimated his strength and misread his exchange with President Trump in the decisive weeks before his capture by U.S. forces."
         },
         {
           "headline": "Thanks, Ukrainians Say, but Please Stop Calling Us Resilient",
@@ -2512,7 +2516,7 @@
           "sourceId": "nyt_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Wed, 25 Feb 2026 20:03:57 +0000",
+          "date": "Wed, 25 Feb 2026 20:51:07 +0000",
           "description": "Ending more than four decades of conjecture, the Spanish government moved to publish documents from a long-secret investigation of a failed 1981 coup."
         },
         {
@@ -2606,14 +2610,34 @@
           "description": "Negotiators agree that joining the bloc is critical to Kyiv’s future. But obstacles abound, and compromises might forever change how the union works."
         },
         {
-          "headline": "BBC and BAFTA Say They Are Investigating After Broadcast of Racist Slur",
-          "url": "https://www.nytimes.com/2026/02/25/world/europe/bbc-bafta-slur-apology-tourettes.html",
+          "headline": "Inside Tapalpa, the Town in Mexico Where El Mencho Made His Last Stand",
+          "url": "https://www.nytimes.com/2026/02/25/world/americas/el-mencho-tapalpa-jalisco-cartel.html",
           "source": "New York Times",
           "sourceId": "nyt_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Wed, 25 Feb 2026 18:49:13 +0000",
-          "description": "The awards organization and the broadcaster have ordered separate investigations into what led to airing the slur, which was shouted involuntarily during Sunday’s ceremony."
+          "date": "Wed, 25 Feb 2026 21:34:47 +0000",
+          "description": "Times reporters visiting Tapalpa found a serene town in shock after Sunday’s raid on its outskirts left dozens dead and people fleeing. And, surprisingly, no police or military presence where the batt"
+        },
+        {
+          "headline": "India’s Modi tells Israel’s Knesset: ‘No cause justifies killing civilians’",
+          "url": "https://www.aljazeera.com/news/2026/2/25/indias-modi-addresses-israeli-parliament-on-first-day-of-visit?traffic_source=rss",
+          "source": "Al Jazeera",
+          "sourceId": "aljazeera",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Wed, 25 Feb 2026 20:39:55 +0000",
+          "description": "Prime Minister Narendra Modi hailed the &#039;vital&#039; partnership between Israel and India during his visit."
+        },
+        {
+          "headline": "Modi, Netanyahu praise each other in address to Israeli Knesset",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/25/modi-netanyahu-praise-each-other-in-address-to-israeli-knesset?traffic_source=rss",
+          "source": "Al Jazeera",
+          "sourceId": "aljazeera",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Wed, 25 Feb 2026 20:38:16 +0000",
+          "description": "Narendra Modi and Benjamin Netanyahu spoke of each other’s countries in civilisational terms to the Israeli Knesset."
         },
         {
           "headline": "Influential economist Larry Summers to depart Harvard over Epstein ties",
@@ -2726,16 +2750,6 @@
           "description": "Former President Hassan Rouhani denies reports he wants to replace Supreme Leader Ali Khamenei, blames US and Israel."
         },
         {
-          "headline": "Where the Silence Breaks | Ep 3 – Colombia",
-          "url": "https://www.aljazeera.com/video/making-peace/2026/2/25/where-the-silence-breaks-ep-3?traffic_source=rss",
-          "source": "Al Jazeera",
-          "sourceId": "aljazeera",
-          "category": "general",
-          "priority": "secondary",
-          "date": "Wed, 25 Feb 2026 17:00:00 +0000",
-          "description": "As part of Colombia’s peace process, former army soldiers confess to extrajudicial killings to the victims&#039; families."
-        },
-        {
           "headline": "LIVE: Real Madrid vs Benfica – Champions League playoff, second leg",
           "url": "https://www.aljazeera.com/sports/liveblog/2026/2/25/live-real-madrid-vs-benfica-champions-league-playoff-second-leg?traffic_source=rss",
           "source": "Al Jazeera",
@@ -2746,24 +2760,14 @@
           "description": "Follow the build-up, analysis and live text commentary of the game as the Portuguese giants travel to the Bernabeu."
         },
         {
-          "headline": "US issues new sanctions as it dials up pressure on Iran",
-          "url": "https://www.aljazeera.com/news/2026/2/25/us-issues-new-sanctions-as-it-dials-up-pressure-on-iran?traffic_source=rss",
+          "headline": "Where the Silence Breaks | Ep 3 – Colombia",
+          "url": "https://www.aljazeera.com/video/making-peace/2026/2/25/where-the-silence-breaks-ep-3?traffic_source=rss",
           "source": "Al Jazeera",
           "sourceId": "aljazeera",
           "category": "general",
           "priority": "secondary",
-          "date": "Wed, 25 Feb 2026 16:54:09 +0000",
-          "description": "Washington targets oil vessels as Trump administration intensifies &#039;maximum pressure&#039; campaign against Tehran."
-        },
-        {
-          "headline": "Demonstrators in frog costumes protest Trump’s State of the Union",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/25/demonstrators-in-frog-costumes-protest-trumps-state-of-the-union?traffic_source=rss",
-          "source": "Al Jazeera",
-          "sourceId": "aljazeera",
-          "category": "general",
-          "priority": "secondary",
-          "date": "Wed, 25 Feb 2026 16:48:33 +0000",
-          "description": "As Trump delivered his State of the Union address, demonstrators dressed in frog costumes protested in the streets."
+          "date": "Wed, 25 Feb 2026 17:00:00 +0000",
+          "description": "As part of Colombia’s peace process, former army soldiers confess to extrajudicial killings to the victims&#039; families."
         }
       ],
       "business": [
@@ -2848,14 +2852,14 @@
           "description": "Pledge to raise spending to 5% of GDP will boost manufacturers but could strain the budget"
         },
         {
-          "headline": "CME halts trading on metals and natural gas futures markets",
-          "url": "https://www.ft.com/content/d3fe28d9-ec71-45fb-8574-de4922d04482",
+          "headline": "Salesforce posts mixed earnings amid AI anxiety",
+          "url": "https://www.ft.com/content/b74b8227-d7cb-4976-ba95-a3a27b79cbdd",
           "source": "Financial Times",
           "sourceId": "ft_home",
           "category": "business",
           "priority": "primary",
-          "date": "Wed, 25 Feb 2026 18:43:49 GMT",
-          "description": "Exchanges operator says it is investigating ‘technical issues’"
+          "date": "Wed, 25 Feb 2026 21:04:54 GMT",
+          "description": "Software group projects revenue could be short of Wall Street’s expectations"
         },
         {
           "headline": "Lawrence Summers to step down from Harvard teaching role",
@@ -3050,26 +3054,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOcnB1VF9nMG56WDU0dndhVzBjTHlMX0VOcWNsZHNIRjlVYkxvejdmbDZwZFY5aGFQS1JkcWo5VkI1WERTTGUwSDJSZEFGUm54MU9GeUtyQ0MzNno4MDlONGNmRG1ETnl0eE5lb1l"
         },
         {
-          "headline": "FSS Summit strengthens AFMC Force Support enterprise &gt; Air Force &gt; Article Display - af.mil",
-          "url": "https://www.af.mil/News/Article-Display/Article/4410089/fss-summit-strengthens-afmc-force-support-enterprise/",
-          "source": "Daybook: International Events",
-          "sourceId": "daybook_intl",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Thu, 19 Feb 2026 21:41:40 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNQnR4VHQtaFVFR1NQaGNjbTFUQWc3QzFjUjFiRUgzYS1ib2hmZFVOM0Z3Ty1WT0dRRW9BM252R3NJd0loMHZ0Slgwd1NVMERKdEZPRU9lV19rVHRDT1NxQWotaHU2dUl1LWZrbUp"
-        },
-        {
-          "headline": "G20 (Group of 20) | History &amp; Members - Britannica",
-          "url": "https://www.britannica.com/topic/Group-of-20",
-          "source": "Daybook: International Events",
-          "sourceId": "daybook_intl",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Thu, 19 Feb 2026 08:00:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9IYW10UEFKaXZCd2pHd2c1V3RHc05SLTJIWmlCMWc0TjlONXRmZUF3N1l1NjNXWnRHcm5FUHNtR1ktM1N3N29Dckt2WHdWdGtDd2t1NW9sWQ?oc=5\" target=\"_blank\"&gt;G20"
-        },
-        {
           "headline": "New Chick-fil-A Opening in Lee’s Summit - Chick-fil-A",
           "url": "https://www.chick-fil-a.com/press-room/announcing-chick-fil-a-oldham-village",
           "source": "Daybook: International Events",
@@ -3120,16 +3104,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMWZweG1pTE8wdUdrcTVsdEFheFJEWmZnWVVFTEw2T25IVnh5U1RJODZyLVhXTE9Db0VzYWkydnlabDJudnhMXzZ1d0tlLTJ3cDgxYmNFaXNfQjlFc0paaGhmQmxqWFdzaGJTVVY"
         },
         {
-          "headline": "Q&amp;A with Neel Kashkari at the Midwest Economic Outlook Summit - Federal Reserve Bank of Minneapolis",
-          "url": "https://www.minneapolisfed.org/speeches/2026/neel-kashkari-at-the-midwest-economic-outlook-summit",
-          "source": "Daybook: International Events",
-          "sourceId": "daybook_intl",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Thu, 19 Feb 2026 14:05:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNTmwxbFdRdkRDSFZpUUE5TEhzTTc2MlBqQmNJd09KQmY1dWVScGpFNHdVcmxMYnNNbDNhVENtWVpnR0NISzczT1VhLTZiMVZacW5pYktZVFlwdEdEVnVVMmhvWDFwSW0tMlBTcGJ"
-        },
-        {
           "headline": "Opening keynote speech by President von der Leyen at the Antwerp European Industry Summit - European Commission",
           "url": "https://ec.europa.eu/commission/presscorner/detail/hu/speech_26_382",
           "source": "Daybook: International Events",
@@ -3138,16 +3112,6 @@
           "priority": "reference",
           "date": "Fri, 20 Feb 2026 21:39:41 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBVaEZwMW1kVTdOa1ZJSHJ1bTN6QU1UdjJlUnJCY1czNkpmV0pZM1Z0ejluUGRYN1hWcmNpSHVqZlhWQlA0Y2RxUklqZjZBVF9vZER1ZzRsUGR6NnBBc1BlN1ZXN1JRSGZBZG1PVm9"
-        },
-        {
-          "headline": "Opening Day Wraps Up at the 2026 #SummitSD Championships - The Summit League",
-          "url": "https://thesummitleague.org/news/2026/2/19/mens-swimming-and-diving-opening-day-wraps-up-at-the-2026-summitsd-championships.aspx",
-          "source": "Daybook: International Events",
-          "sourceId": "daybook_intl",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Thu, 19 Feb 2026 02:47:29 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQY3N6bDcyMHIybWx3SjRmLVdVZmlhSmJ0VGFsNUZVNW10SDRhVXdmMVplWnBCS3ozRUhqcG1xN1hEMW1QTmhIckVzZGZUamZaSDNiYzNZdnBDTVhRSldJOXdpX0VRa1ZRNWdwUkx"
         },
         {
           "headline": "India’s AI summit draws global leaders, big pledges and some chaos - NBC News",
@@ -3170,6 +3134,46 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOUTFaOWp2NDJiVHZDaEpEc3E5OU1OOGJaekZfSUZYMnBCaWxlbkhFWlplRExIWWpwSktCS0FxOXJHbEpWdUlTNTRBNUpISzBqRW1vYU9NUVpzSmRoZU9LOElXWXRxZDVQazJleXl"
         },
         {
+          "headline": "Epstein’s shadow: Why Bill Gates pulled out of Modi’s AI summit - Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/2/19/epsteins-shadow-why-bill-gates-pulled-out-of-modis-ai-summit",
+          "source": "Daybook: International Events",
+          "sourceId": "daybook_intl",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Thu, 19 Feb 2026 10:55:50 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOTnhFZkpYY3EyN1NEV3h4QlF4T1hwR2had3p1eWkxLW4wNXR4bmZlUVZxMzVQT0YyRFNuRUtKRGJkODVUc1lmbmRiZU1vMkRtUUkwNEh0WEFndWNQWElIYzhjY3VVTnpkbmxQZE5"
+        },
+        {
+          "headline": "Chaos, confusion and $200 billion dreams: What I saw at India’s AI summit - CNBC",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Hb2p3em1Pbmt6Rm1PN09hSW0yU3JaelU2UXE2bVFPazRnaGJ2MTlEYTUzdmVLRllRU0pMa2xiRlE3eEFfc1ZuQ3NBUFNZY01hVGRuZmxoOFZ0YWVWWmFkZ0JkRWpiSjdC0gFuQVVfeXFMTlJEcjViTXd4V1pCYmJ1ZXBvS2xLUHdWWW1Ld0JPSElLNVlBVnlVSG1WRXVkdUFZbklBQVUxUG1rMEdERE1BTElvZzZMRDhJUnN6aW0zVzFDU3NOZVhCb0JjTGxVRnkwZWlxQ1I5RHc?oc=5",
+          "source": "Daybook: International Events",
+          "sourceId": "daybook_intl",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Sat, 21 Feb 2026 08:50:57 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Hb2p3em1Pbmt6Rm1PN09hSW0yU3JaelU2UXE2bVFPazRnaGJ2MTlEYTUzdmVLRllRU0pMa2xiRlE3eEFfc1ZuQ3NBUFNZY01hVGRuZmxoOFZ0YWVWWmFkZ0JkRWpiSjdC0gFuQVV"
+        },
+        {
+          "headline": "Join the ‘Transformation to Triumph Black Women’s Summit’ and Become Part of a Global Network of Support - The Dig at Howard University",
+          "url": "https://thedig.howard.edu/all-stories/join-transformation-triumph-black-womens-summit-and-become-part-global-network-support",
+          "source": "Daybook: International Events",
+          "sourceId": "daybook_intl",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Tue, 24 Feb 2026 20:04:52 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSjlYSFd1cngxZmxDYmRFLXBTbE5sd2ZqZGVtY0h4bkFNNldUM2Y0MmM2UnVkenBjcXNQWTBLTXdteEpiRlZTenl4UHJFWmJiMTR5N0swejhmR1dHRU9venMyakNaYUFndnA4ZXp"
+        },
+        {
+          "headline": "Johnson Named Summit League Peak Performer of the Week for Third Time - University of Denver Athletics",
+          "url": "https://denverpioneers.com/news/2026/2/24/mens-basketball-johnson-named-summit-league-peak-performer-of-the-week-for-third-time.aspx",
+          "source": "Daybook: International Events",
+          "sourceId": "daybook_intl",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Tue, 24 Feb 2026 21:07:13 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNMC1ESTdsVnhla2Rtek1Zck5PV2pyZXRDU21Oa3RBSlJmNTJBbkJ6cVhTRmhPM1ZobG5HcGhuWVFsQzNUWEpscTNnRHV5Z2VYZ0Qxa2U5M29CSWl0V3o5a3hySEoyS0VlSVNiQTJ"
+        },
+        {
           "headline": "Decoding trade deadline strategy and where the Kraken fit - Sound Of Hockey",
           "url": "https://soundofhockey.com/2026/02/23/seattle-kraken-trade-deadline-strategies/",
           "source": "Daybook: Economic Calendar",
@@ -3190,14 +3194,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNbzNpeXlMSHVHMXFnWDVucEFWUm1jUWlWLUVCbzN2dUwxOXBfMURBRjhtR2dNRW9IX0dac1psaEpfM3hVZzNkeWY1S1pwb0FNUnNtakZWMFVTcEotRTBUQWVpcDVuU2s2V3lwS04"
         },
         {
-          "headline": "Trade Deadline, playoff races among top storylines after Olympic break - NHL.com",
-          "url": "https://www.nhl.com/news/trade-deadline-playoff-races-among-top-post-olympic-nhl-storylines",
+          "headline": "Fantasy spin on 2026 NHL Trade Deadline - NHL.com",
+          "url": "https://www.nhl.com/news/topic/trade-coverage/fantasy-hockey-spin-2026-nhl-trade-deadline",
           "source": "Daybook: Economic Calendar",
           "sourceId": "daybook_econ",
           "category": "daybook",
           "priority": "reference",
-          "date": "Tue, 24 Feb 2026 03:32:31 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQN0lJYVJSOXVQVEloR25zZlZjRGRWVGIzMl84QmxvWFFxWDVRRGo0azNYb281UnMtVjFpbFNfSUJmVER3S0V6UDlqV1JNcUVua0ZnbzdQR2ptUUpXQ1NWOGIzR1NXUndLbUlhWFB"
+          "date": "Wed, 25 Feb 2026 20:04:32 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQZVdRcVJWYmhxM3d1bUNMMXVoczhIZ1lDVDZ6TnUyTnEwM2lmUVpmcHRZQTRySG43R3FYc0JjR1I0SUFHaVFPZE91blZUN0Zjd0NFS1N5NHpTNGEzLUc1Mmp6WHFqaTdjeEljUzV"
         },
         {
           "headline": "Kevin Weekes Breaks Down the Kings Trade Deadline Options on The Insider Show - LA Kings Insider",
@@ -3218,16 +3222,6 @@
           "priority": "reference",
           "date": "Wed, 25 Feb 2026 17:04:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNEFLTnB6R0FaQU9wRnpnMjRwRmM1d2xFLTY5NWhqMUlrdVh3VzNBdDh0UFJlUHdaYm9PMlpWLVc0UmpDNWp1Vjc3ZUMwckdXSnpablF2aEJOcTRpMlZZVm94TUZQYzNydWN1UHN"
-        },
-        {
-          "headline": "Figma stock jumps 15% as company sees AI monetization accelerating growth - CNBC",
-          "url": "https://www.cnbc.com/2026/02/18/figma-fig-q4-earnings-report-2025.html",
-          "source": "Daybook: Economic Calendar",
-          "sourceId": "daybook_econ",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Wed, 18 Feb 2026 21:06:04 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFB0MWRKcU1SbDVyMVBwZVNWck1Bc0JPeFZpUG5Tc2VaS1p6eVNzWG1DVktWQUs3aEJPWGN1eDRzZ1F4S1lxWmZ4TXRfMzZMQzVKOVVPRzVRMDJCd1Z5MmM3N191QW9jb090T2QzMk1"
         },
         {
           "headline": "Fed’s Waller says March rate decision hinges on whether jobs rebound proves ‘signal or noise’ - InvestmentNews",
@@ -3270,6 +3264,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOXBCME5yNUlvc1RkT01BQ1A2d1RaRXZxQkJla3BmemNYMnRBYVdsZG84blpaOGFvQWpYUHl6TXhOdDdwY1RxNHVPR2RRUUtIdFBfRjBSTE5MaXpmbzAxMnBjOERFdnNsZXBrRGF"
         },
         {
+          "headline": "Kraken return from Olympic break for trade deadline and playoff push - The Seattle Times",
+          "url": "https://www.seattletimes.com/sports/kraken/kraken-return-from-olympic-break-for-trade-deadline-and-playoff-push/",
+          "source": "Daybook: Economic Calendar",
+          "sourceId": "daybook_econ",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Wed, 25 Feb 2026 14:00:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQaW1JenVYX2t0SHJSTFB6TURlZFpVaVBQcThUeHFDWC1ESGtsbHp1VWJZUS10MDg2NmZNUTNRNktGRU5vQVlDeVdyYlZuNWFySDVSYlNPSmdDNWJYRk43Z0hBXy04M19kTktNNm5"
+        },
+        {
           "headline": "MINNESOTA WILD: POST-OLYMPIC ADVICE FOR THE NHL TRADE DEADLINE - Lets Play Hockey",
           "url": "https://letsplayhockey.com/minnesota-wild-post-olympic-advice-for-the-nhl-trade-deadline/",
           "source": "Daybook: Economic Calendar",
@@ -3300,16 +3304,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNZWVWZFlNU1hLZXdDblJySHR6OHFveTZQLWRvNzdyTVVRRlJ2MzlIOHZuU3dreXRvOEtUVW9OMUlWak0xSGVqNG5LQ3pULVJiRVR1SmpjT1A2YkhPTWpEeUpNdGdPbXgwbS1HVTc"
         },
         {
-          "headline": "Kraken return from Olympic break for trade deadline and playoff push - The Seattle Times",
-          "url": "https://www.seattletimes.com/sports/kraken/kraken-return-from-olympic-break-for-trade-deadline-and-playoff-push/",
-          "source": "Daybook: Economic Calendar",
-          "sourceId": "daybook_econ",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Wed, 25 Feb 2026 14:00:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQaW1JenVYX2t0SHJSTFB6TURlZFpVaVBQcThUeHFDWC1ESGtsbHp1VWJZUS10MDg2NmZNUTNRNktGRU5vQVlDeVdyYlZuNWFySDVSYlNPSmdDNWJYRk43Z0hBXy04M19kTktNNm5"
-        },
-        {
           "headline": "Columbus Blue Jackets may hang onto free agents past trade deadline - The Columbus Dispatch",
           "url": "https://www.dispatch.com/story/sports/nhl/columbus-blue-jackets/2026/02/24/columbus-blue-jackets-may-hang-onto-free-agents-past-trade-deadline/88833945007/",
           "source": "Daybook: Economic Calendar",
@@ -3320,6 +3314,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTG9XZVZ2RVcteXNNdzFYNGQ4QUs5N3RON2ZxQTk5WGYxVEZMRVlOTDlLYThhUlZzYnc1TE1nZmFyUkd2cVZCZlphLWxnbzRkQzdMVC1icXB5UzRkdVVsWVZhQ1diaGFfZTNySks"
         },
         {
+          "headline": "Trade Deadline, playoff races among top storylines after Olympic break - NHL.com",
+          "url": "https://www.nhl.com/news/trade-deadline-playoff-races-among-top-post-olympic-nhl-storylines",
+          "source": "Daybook: Economic Calendar",
+          "sourceId": "daybook_econ",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Tue, 24 Feb 2026 03:32:31 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQN0lJYVJSOXVQVEloR25zZlZjRGRWVGIzMl84QmxvWFFxWDVRRGo0azNYb281UnMtVjFpbFNfSUJmVER3S0V6UDlqV1JNcUVua0ZnbzdQR2ptUUpXQ1NWOGIzR1NXUndLbUlhWFB"
+        },
+        {
           "headline": "Justices reveal little about whether the deadline for removing cases to federal court can be excused - SCOTUSblog",
           "url": "https://www.scotusblog.com/2026/02/justices-reveal-little-about-whether-the-deadline-for-removing-cases-to-federal-court-can-be-excused/",
           "source": "Daybook: Scheduled Events",
@@ -3328,6 +3332,36 @@
           "priority": "reference",
           "date": "Wed, 25 Feb 2026 15:20:51 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeGkxWkt6U0w3Sm1xQlBYd3FyeGZuWFZfbzNOam5rOE9KQTNsNzdzOVBDb1BDQ0s3c0w2XzViTWE3Vi1wRS1sS3JzSDU0Nk05Zjl5UHFqQVNlNlBVVFBBZjRzQTBfT1Y5QlhhdXh"
+        },
+        {
+          "headline": "NHL Trade Buzz: Panthers have ‘very important week’ before Deadline - NHL.com",
+          "url": "https://www.nhl.com/news/topic/trade-coverage/nhl-trade-buzz-news-and-notes-february-25-2026",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Wed, 25 Feb 2026 17:15:58 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNU29VM3RmNXdCN3NZd3I3anJKdU5aXzBaSFF6Wk11TUtYSW5qM3Z2ZTBzeVZYU2lyM1RzOE84QkNfaGJvRjVobko3VjJiM19uaEpjYXNWVFdBaUZaMnhzWGh0MDBkQmtYN2hiaWN"
+        },
+        {
+          "headline": "Emma Roberts To Star In ‘Bride Wars’ Movie Reimagination For TV In Development At Peacock - Deadline",
+          "url": "https://deadline.com/2026/02/emma-roberts-bride-wars-movie-reimagination-for-tv-peacock-1236735460/",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Wed, 25 Feb 2026 17:00:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOSEpFbUFLYWVkb2RsMUxUNjQzcF9HMGtPdk5mSWRSeG5DV2t6MUdfS3BWTTZSS2RtQ3VGSjNoOUZPNjF1WXFncnBVMzA1UmNYVFUzeU5WYlpiaHZDWFBmaXZHMTdWTUs5elBMUjB"
+        },
+        {
+          "headline": "HRSA extends deadline to April 20 for comments on 340B rebate model RFI and suggests expanded number of drugs to be included - American Hospital Association",
+          "url": "https://www.aha.org/news/headline/2026-02-25-hrsa-extends-deadline-april-20-comments-340b-rebate-model-rfi-and-suggests-expanded-number-drugs-be",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Wed, 25 Feb 2026 21:11:15 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRkRxYXJPRnQ0YUpac1lobFAyQUVKQmlOU1dvb1czUFQwNTg3eTlzdHc3MlRfMEp0ckFFV3MwUkNEaUJBdlQyT1FxQU5DYXpKT3FGZkRCWHZxSzJjRjZQQkVoajFQOXBPQlA1d21"
         },
         {
           "headline": "Tennis Buffs Set to Begin Big 12 Play - University of Colorado Athletics",
@@ -3358,26 +3392,6 @@
           "priority": "reference",
           "date": "Wed, 25 Feb 2026 17:26:15 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOcW1NMTgtNGFwelZLVTVjNHRLR1F2eFFFZDl2ODFISGRqR1g5SFR5TEdoR0xHaW9UUERmd01jQ1Y2MUc2M2lLX05iblZmX1kyN3dJS0xsR0pIUmpVRVhLYUFXX3ZBa0lVU0pGNzR"
-        },
-        {
-          "headline": "Warner Board Says Paramount Agreed To Raise Offer To $31 A Share Or More If Two Sides Engaged - Deadline",
-          "url": "https://deadline.com/2026/02/warner-bros-discovery-says-paramount-agreed-to-higher-offer-1236726616/",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Wed, 25 Feb 2026 12:05:58 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNSmFNMzRGbV9QS1BOWWlsb0FKTXR5cFZkMU5mWWR3ZEJhZW5XaWhOX2hnOEpoalYydERnZ3Axa09DMFRtUTU4UnBhVWRIV2hfR3dQVnJOVHR2Y0MxWVlRdUh3ZGQyUFZVUzY1dEg"
-        },
-        {
-          "headline": "NHL Trade Buzz: Panthers have ‘very important week’ before Deadline - NHL.com",
-          "url": "https://www.nhl.com/news/topic/trade-coverage/nhl-trade-buzz-news-and-notes-february-25-2026",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Wed, 25 Feb 2026 17:15:58 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNU29VM3RmNXdCN3NZd3I3anJKdU5aXzBaSFF6Wk11TUtYSW5qM3Z2ZTBzeVZYU2lyM1RzOE84QkNfaGJvRjVobko3VjJiM19uaEpjYXNWVFdBaUZaMnhzWGh0MDBkQmtYN2hiaWN"
         },
         {
           "headline": "Deadline approaching for prospective students with Ferris State family ties to apply for new scholarship - Ferris State University",
@@ -3420,28 +3434,18 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR2ZTTFgxUW9yTnRTQlAwMFJqTnE3VndIM1lYeGotRGp3MG1zeE1ZU24tOWs3NUNHWGo1XzM2bkNxZkdfUEpWbFhuazhsZDRpV3ZxRmN0MWx5R3BzMmJjRERQVkg5ODBlZ2kwOUh"
         },
         {
-          "headline": "E15 deadline arrives as industry awaits congressional action - Brownfield Ag News",
-          "url": "https://www.brownfieldagnews.com/news/e15-deadline-arrives-as-industry-awaits-congressional-action/",
+          "headline": "Warner Board Says Paramount Agreed To Raise Offer To $31 A Share Or More If Two Sides Engaged - Deadline",
+          "url": "https://deadline.com/2026/02/warner-bros-discovery-says-paramount-agreed-to-higher-offer-1236726616/",
           "source": "Daybook: Scheduled Events",
           "sourceId": "daybook_scheduled",
           "category": "daybook",
           "priority": "reference",
-          "date": "Wed, 25 Feb 2026 15:37:31 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPcWEyQlByZ2Z6UFBtREdaMjExUW5nZHJCN2VocXFhdnZnS3lXZUl6NFhoZ3pFQWN4ZFh4WHV0cFhRQXgwdmRla3pUWEw4cWdoT2lyNWZISjRNS1ZiWFB3RG5xVzRqazdnX3JmdkF"
-        },
-        {
-          "headline": "'Industry' Renewed For Fifth &amp; Final Season At HBO - Deadline",
-          "url": "https://deadline.com/2026/02/industry-renewed-fifth-final-season-hbo-1236735218/",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Wed, 25 Feb 2026 16:00:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQRXVTZkttZFhTMXJGc3IwZ0lhZ2RlTE1aSkgtSUFFc2x5MXMwMlV6RWFXT1U4eEtEMXRnRjYyMkpFXzAxMzFaUVoyMEp2SnZvZ1hyVVh1S09VNHdKZlh6elhzTnN3MGQ4a3JMd3p"
+          "date": "Wed, 25 Feb 2026 12:05:58 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNSmFNMzRGbV9QS1BOWWlsb0FKTXR5cFZkMU5mWWR3ZEJhZW5XaWhOX2hnOEpoalYydERnZ3Axa09DMFRtUTU4UnBhVWRIV2hfR3dQVnJOVHR2Y0MxWVlRdUh3ZGQyUFZVUzY1dEg"
         },
         {
           "headline": "Fantasy spin on 2026 NHL Trade Deadline - NHL.com",
-          "url": "https://www.nhl.com/news/topic/trade-coverage/fantasy-hockey-spin-2026-nhl-trade-deadline",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZVdRcVJWYmhxM3d1bUNMMXVoczhIZ1lDVDZ6TnUyTnEwM2lmUVpmcHRZQTRySG43R3FYc0JjR1I0SUFHaVFPZE91blZUN0Zjd0NFS1N5NHpTNGEzLUc1Mmp6WHFqaTdjeEljUzVjTVNIUG91Nk1iT1k4dU1BYTlnYzJiUWl0WmdYcS1raGdzd2E0Qk0?oc=5",
           "source": "Daybook: Scheduled Events",
           "sourceId": "daybook_scheduled",
           "category": "daybook",
@@ -3460,14 +3464,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNLWFqb3p0YWVoY3ZsYlNqTVFtN3JsMmk4UGRfN1RVUjJsaHptQ2hfX2ZGT1VyU0MyeTRIM0pWMnR4cjlRWjc3a3RxN0dsSzRnaURFS0dkZkFtaXhHOUVFaUtuYkM1LW1seXJEVGZ"
         },
         {
-          "headline": "FBI Raids Home &amp; Office Of LAUSD Superintendent Alberto Carvalho - Deadline",
-          "url": "https://deadline.com/2026/02/fbi-raids-home-office-lausd-superintendent-alberto-carvalho-1236735901/",
+          "headline": "'Industry' Renewed For Fifth &amp; Final Season At HBO - Deadline",
+          "url": "https://deadline.com/2026/02/industry-renewed-fifth-final-season-hbo-1236735218/",
           "source": "Daybook: Scheduled Events",
           "sourceId": "daybook_scheduled",
           "category": "daybook",
           "priority": "reference",
-          "date": "Wed, 25 Feb 2026 18:19:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQd2ZucDdzcTYzWEREb3ktaXVsSjBPRnJqWmstM1BfNkhDcnM1REdJd1YwQ0dObGVfdkhUWWl6azR2Z3FfRml1OVNaSDM4R3BCSHdxbEhaSjk0bllKTG9DTTVZc1pqU2VmWmxSU2p"
+          "date": "Wed, 25 Feb 2026 16:00:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQRXVTZkttZFhTMXJGc3IwZ0lhZ2RlTE1aSkgtSUFFc2x5MXMwMlV6RWFXT1U4eEtEMXRnRjYyMkpFXzAxMzFaUVoyMEp2SnZvZ1hyVVh1S09VNHdKZlh6elhzTnN3MGQ4a3JMd3p"
         }
       ]
     },
@@ -3618,13 +3622,13 @@
           "description": "A newspaper reports Gates apologised to staff over his links to Epstein and said: \"I did nothing illicit. I saw nothing illicit.\""
         },
         {
-          "headline": "Four shot dead on US-registered speedboat by border guard, Cuba says",
+          "headline": "Four shot dead on US-registered speedboat by border guards, Cuba says",
           "url": "https://www.bbc.com/news/articles/c24drvj8yl2o?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC",
           "sourceId": "bbc_world",
           "category": "general",
           "priority": "primary",
-          "date": "Wed, 25 Feb 2026 20:14:15 GMT",
+          "date": "Wed, 25 Feb 2026 21:18:50 GMT",
           "description": "Six other passengers were wounded in the incident, which took place near an island on Cuba's northern coast."
         },
         {
@@ -3975,14 +3979,14 @@
           "description": "Pledge to raise spending to 5% of GDP will boost manufacturers but could strain the budget"
         },
         {
-          "headline": "CME halts trading on metals and natural gas futures markets",
-          "url": "https://www.ft.com/content/d3fe28d9-ec71-45fb-8574-de4922d04482",
+          "headline": "Salesforce posts mixed earnings amid AI anxiety",
+          "url": "https://www.ft.com/content/b74b8227-d7cb-4976-ba95-a3a27b79cbdd",
           "source": "Financial Times",
           "sourceId": "ft_home",
           "category": "business",
           "priority": "primary",
-          "date": "Wed, 25 Feb 2026 18:43:49 GMT",
-          "description": "Exchanges operator says it is investigating ‘technical issues’"
+          "date": "Wed, 25 Feb 2026 21:04:54 GMT",
+          "description": "Software group projects revenue could be short of Wall Street’s expectations"
         },
         {
           "headline": "Lawrence Summers to step down from Harvard teaching role",
@@ -4045,6 +4049,16 @@
           "description": "&lt;p&gt;Intelligence findings read to parliament say ‘rogue’ agencies and individuals  recruiting Kenyan nationals to frontline&lt;/p&gt;&lt;p&gt;More than 1,000 Kenyans have been lured to fight for "
         },
         {
+          "headline": "Cuba says border guards killed four gunmen on US-registered speedboat",
+          "url": "https://www.theguardian.com/world/2026/feb/25/cuba-says-border-guards-killed-four-gunmen-on-us-registered-speedboat",
+          "source": "Guardian",
+          "sourceId": "guardian_world",
+          "category": "general",
+          "priority": "primary",
+          "date": "Wed, 25 Feb 2026 21:11:55 GMT",
+          "description": "&lt;p&gt;Rare clash off island’s coast comes amid oil embargo and heightened tensions between two countries &lt;/p&gt;&lt;p&gt;The Cuban Interior Ministry has said that border guards killed four gunme"
+        },
+        {
           "headline": "Brazilian politician brothers convicted of ordering murder of Rio city councillor",
           "url": "https://www.theguardian.com/world/2026/feb/25/brazil-politician-brothers-convicted-murder",
           "source": "Guardian",
@@ -4083,16 +4097,6 @@
           "priority": "primary",
           "date": "Tue, 24 Feb 2026 18:35:54 GMT",
           "description": "&lt;p&gt;Chiquinho and Domingos Brazão accused of ordering shooting of Marielle Franco and her driver in 2018&lt;/p&gt;&lt;p&gt;Brazil’s supreme court has opened the trial of politicians accused of or"
-        },
-        {
-          "headline": "Mexico pledges safety for World Cup after violence erupts from cartel boss’s killing",
-          "url": "https://www.theguardian.com/world/2026/feb/24/sheinbaum-world-cup-visitors-violence-el-mencho",
-          "source": "Guardian",
-          "sourceId": "guardian_world",
-          "category": "general",
-          "priority": "primary",
-          "date": "Tue, 24 Feb 2026 17:18:58 GMT",
-          "description": "&lt;p&gt;Mexico’s president says there is ‘no risk’ for those visiting for Fifa games after military killed drug lord ‘El Mencho’&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"https://www.theguard"
         },
         {
           "headline": "US man deported from Bali after 11 years in prison for ‘suitcase murder’ of then girlfriend’s mother",
@@ -4147,14 +4151,14 @@
       ],
       "secondary": [
         {
-          "headline": "Inside Nicolás Maduro’s Last Days as Venezuela’s Leader",
-          "url": "https://www.nytimes.com/2026/02/25/world/americas/maduro-venezuela-us-capture-trump.html",
+          "headline": "Live Updates: Cuban Government Says Troops Kill 4 on Florida Speedboat",
+          "url": "https://www.nytimes.com/live/2026/02/25/world/cuba-speedboat-florida-deaths",
           "source": "New York Times",
           "sourceId": "nyt_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Wed, 25 Feb 2026 17:05:55 +0000",
-          "description": "The Venezuelan leader overestimated his strength and misread his exchange with President Trump in the decisive weeks before his capture by U.S. forces."
+          "date": "Wed, 25 Feb 2026 21:35:45 +0000",
+          "description": "Border troops engaged in a gunfight with the four people killed near the island nation’s coast, the Cuban Interior Ministry said."
         },
         {
           "headline": "U.S. Will Offer Embassy Services in a West Bank Settlement for the First Time",
@@ -4167,14 +4171,14 @@
           "description": "Palestinians and Israelis on the right and left all say that the move is a step toward legitimizing the Israeli settlements, which most of the world considers illegal."
         },
         {
-          "headline": "Cuban Government Kills 4 in Gunfire Exchange Aboard Florida Speedboat",
-          "url": "https://www.nytimes.com/2026/02/25/world/americas/cuba-gunfire-speedboat-florida.html",
+          "headline": "Inside Nicolás Maduro’s Last Days as Venezuela’s Leader",
+          "url": "https://www.nytimes.com/2026/02/25/world/americas/maduro-venezuela-us-capture-trump.html",
           "source": "New York Times",
           "sourceId": "nyt_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Wed, 25 Feb 2026 20:39:53 +0000",
-          "description": "Four people aboard a Florida-based speedboat died in a gunfight with Cuban border troops near the island nation’s coast, the Cuban Interior Ministry said."
+          "date": "Wed, 25 Feb 2026 17:05:55 +0000",
+          "description": "The Venezuelan leader overestimated his strength and misread his exchange with President Trump in the decisive weeks before his capture by U.S. forces."
         },
         {
           "headline": "Thanks, Ukrainians Say, but Please Stop Calling Us Resilient",
@@ -4193,7 +4197,7 @@
           "sourceId": "nyt_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Wed, 25 Feb 2026 20:03:57 +0000",
+          "date": "Wed, 25 Feb 2026 20:51:07 +0000",
           "description": "Ending more than four decades of conjecture, the Spanish government moved to publish documents from a long-secret investigation of a failed 1981 coup."
         },
         {
@@ -4287,14 +4291,14 @@
           "description": "Negotiators agree that joining the bloc is critical to Kyiv’s future. But obstacles abound, and compromises might forever change how the union works."
         },
         {
-          "headline": "BBC and BAFTA Say They Are Investigating After Broadcast of Racist Slur",
-          "url": "https://www.nytimes.com/2026/02/25/world/europe/bbc-bafta-slur-apology-tourettes.html",
+          "headline": "Inside Tapalpa, the Town in Mexico Where El Mencho Made His Last Stand",
+          "url": "https://www.nytimes.com/2026/02/25/world/americas/el-mencho-tapalpa-jalisco-cartel.html",
           "source": "New York Times",
           "sourceId": "nyt_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Wed, 25 Feb 2026 18:49:13 +0000",
-          "description": "The awards organization and the broadcaster have ordered separate investigations into what led to airing the slur, which was shouted involuntarily during Sunday’s ceremony."
+          "date": "Wed, 25 Feb 2026 21:34:47 +0000",
+          "description": "Times reporters visiting Tapalpa found a serene town in shock after Sunday’s raid on its outskirts left dozens dead and people fleeing. And, surprisingly, no police or military presence where the batt"
         },
         {
           "headline": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
@@ -4447,6 +4451,26 @@
           "description": "Check out the stocks Heard on the Street writers favor in their eighth annual stock-picking contest."
         },
         {
+          "headline": "India’s Modi tells Israel’s Knesset: ‘No cause justifies killing civilians’",
+          "url": "https://www.aljazeera.com/news/2026/2/25/indias-modi-addresses-israeli-parliament-on-first-day-of-visit?traffic_source=rss",
+          "source": "Al Jazeera",
+          "sourceId": "aljazeera",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Wed, 25 Feb 2026 20:39:55 +0000",
+          "description": "Prime Minister Narendra Modi hailed the &#039;vital&#039; partnership between Israel and India during his visit."
+        },
+        {
+          "headline": "Modi, Netanyahu praise each other in address to Israeli Knesset",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/25/modi-netanyahu-praise-each-other-in-address-to-israeli-knesset?traffic_source=rss",
+          "source": "Al Jazeera",
+          "sourceId": "aljazeera",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Wed, 25 Feb 2026 20:38:16 +0000",
+          "description": "Narendra Modi and Benjamin Netanyahu spoke of each other’s countries in civilisational terms to the Israeli Knesset."
+        },
+        {
           "headline": "Influential economist Larry Summers to depart Harvard over Epstein ties",
           "url": "https://www.aljazeera.com/news/2026/2/25/influential-economist-larry-summers-to-depart-harvard-over-epstein-ties?traffic_source=rss",
           "source": "Al Jazeera",
@@ -4557,16 +4581,6 @@
           "description": "Former President Hassan Rouhani denies reports he wants to replace Supreme Leader Ali Khamenei, blames US and Israel."
         },
         {
-          "headline": "Where the Silence Breaks | Ep 3 – Colombia",
-          "url": "https://www.aljazeera.com/video/making-peace/2026/2/25/where-the-silence-breaks-ep-3?traffic_source=rss",
-          "source": "Al Jazeera",
-          "sourceId": "aljazeera",
-          "category": "general",
-          "priority": "secondary",
-          "date": "Wed, 25 Feb 2026 17:00:00 +0000",
-          "description": "As part of Colombia’s peace process, former army soldiers confess to extrajudicial killings to the victims&#039; families."
-        },
-        {
           "headline": "LIVE: Real Madrid vs Benfica – Champions League playoff, second leg",
           "url": "https://www.aljazeera.com/sports/liveblog/2026/2/25/live-real-madrid-vs-benfica-champions-league-playoff-second-leg?traffic_source=rss",
           "source": "Al Jazeera",
@@ -4577,24 +4591,41 @@
           "description": "Follow the build-up, analysis and live text commentary of the game as the Portuguese giants travel to the Bernabeu."
         },
         {
-          "headline": "US issues new sanctions as it dials up pressure on Iran",
-          "url": "https://www.aljazeera.com/news/2026/2/25/us-issues-new-sanctions-as-it-dials-up-pressure-on-iran?traffic_source=rss",
+          "headline": "Where the Silence Breaks | Ep 3 – Colombia",
+          "url": "https://www.aljazeera.com/video/making-peace/2026/2/25/where-the-silence-breaks-ep-3?traffic_source=rss",
           "source": "Al Jazeera",
           "sourceId": "aljazeera",
           "category": "general",
           "priority": "secondary",
-          "date": "Wed, 25 Feb 2026 16:54:09 +0000",
-          "description": "Washington targets oil vessels as Trump administration intensifies &#039;maximum pressure&#039; campaign against Tehran."
+          "date": "Wed, 25 Feb 2026 17:00:00 +0000",
+          "description": "As part of Colombia’s peace process, former army soldiers confess to extrajudicial killings to the victims&#039; families."
         },
         {
-          "headline": "Demonstrators in frog costumes protest Trump’s State of the Union",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/25/demonstrators-in-frog-costumes-protest-trumps-state-of-the-union?traffic_source=rss",
-          "source": "Al Jazeera",
-          "sourceId": "aljazeera",
-          "category": "general",
+          "headline": "Four killed in firefight between Cuban coastguard and Florida-registered speedboat",
+          "url": "https://www.france24.com/en/americas/20260225-four-killed-in-firefight-between-cuban-coastguard-and-florida-registered-speedboat",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
           "priority": "secondary",
-          "date": "Wed, 25 Feb 2026 16:48:33 +0000",
-          "description": "As Trump delivered his State of the Union address, demonstrators dressed in frog costumes protested in the streets."
+          "date": "Wed, 25 Feb 2026 21:07:28 GMT",
+          "description": ""
+        },
+        {
+          "headline": "Mexico will make 'a strong show of security' ahead of World Cup, expert says",
+          "url": "https://www.france24.com/en/mexico-will-make-a-strong-show-of-security-ahead-of-world-cup-expert-says",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Wed, 25 Feb 2026 20:31:33 GMT",
+          "description": "",
+          "watchCandidate": true,
+          "watchSignals": [
+            {
+              "category": "temporal",
+              "matched": "ahead of"
+            }
+          ]
         },
         {
           "headline": "Brazil politicians convicted for ordering murder of black activist councilor",
@@ -4725,26 +4756,6 @@
           "priority": "secondary",
           "date": "Wed, 25 Feb 2026 15:00:46 GMT",
           "description": ""
-        },
-        {
-          "headline": "State of the Union: Trump's speech 'not likely to sway people one way or the other'",
-          "url": "https://www.france24.com/en/video/20260225-state-of-the-union-trump-s-speech-not-likely-to-sway-people-one-way-or-the-other",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Wed, 25 Feb 2026 14:54:34 GMT",
-          "description": ""
-        },
-        {
-          "headline": "Syria confirms mass escape of suspected Islamic State jihadists' relatives from detention camp",
-          "url": "https://www.france24.com/en/middle-east/20260225-syria-confirms-mass-escape-of-suspected-islamic-state-family-members-from-detention-camp",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Wed, 25 Feb 2026 14:52:00 GMT",
-          "description": ""
         }
       ],
       "tertiary": [],
@@ -4778,26 +4789,6 @@
           "priority": "reference",
           "date": "Fri, 20 Feb 2026 15:24:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOcnB1VF9nMG56WDU0dndhVzBjTHlMX0VOcWNsZHNIRjlVYkxvejdmbDZwZFY5aGFQS1JkcWo5VkI1WERTTGUwSDJSZEFGUm54MU9GeUtyQ0MzNno4MDlONGNmRG1ETnl0eE5lb1l"
-        },
-        {
-          "headline": "FSS Summit strengthens AFMC Force Support enterprise &gt; Air Force &gt; Article Display - af.mil",
-          "url": "https://www.af.mil/News/Article-Display/Article/4410089/fss-summit-strengthens-afmc-force-support-enterprise/",
-          "source": "Daybook: International Events",
-          "sourceId": "daybook_intl",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Thu, 19 Feb 2026 21:41:40 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNQnR4VHQtaFVFR1NQaGNjbTFUQWc3QzFjUjFiRUgzYS1ib2hmZFVOM0Z3Ty1WT0dRRW9BM252R3NJd0loMHZ0Slgwd1NVMERKdEZPRU9lV19rVHRDT1NxQWotaHU2dUl1LWZrbUp"
-        },
-        {
-          "headline": "G20 (Group of 20) | History &amp; Members - Britannica",
-          "url": "https://www.britannica.com/topic/Group-of-20",
-          "source": "Daybook: International Events",
-          "sourceId": "daybook_intl",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Thu, 19 Feb 2026 08:00:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9IYW10UEFKaXZCd2pHd2c1V3RHc05SLTJIWmlCMWc0TjlONXRmZUF3N1l1NjNXWnRHcm5FUHNtR1ktM1N3N29Dckt2WHdWdGtDd2t1NW9sWQ?oc=5\" target=\"_blank\"&gt;G20"
         },
         {
           "headline": "New Chick-fil-A Opening in Lee’s Summit - Chick-fil-A",
@@ -4850,16 +4841,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMWZweG1pTE8wdUdrcTVsdEFheFJEWmZnWVVFTEw2T25IVnh5U1RJODZyLVhXTE9Db0VzYWkydnlabDJudnhMXzZ1d0tlLTJ3cDgxYmNFaXNfQjlFc0paaGhmQmxqWFdzaGJTVVY"
         },
         {
-          "headline": "Q&amp;A with Neel Kashkari at the Midwest Economic Outlook Summit - Federal Reserve Bank of Minneapolis",
-          "url": "https://www.minneapolisfed.org/speeches/2026/neel-kashkari-at-the-midwest-economic-outlook-summit",
-          "source": "Daybook: International Events",
-          "sourceId": "daybook_intl",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Thu, 19 Feb 2026 14:05:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNTmwxbFdRdkRDSFZpUUE5TEhzTTc2MlBqQmNJd09KQmY1dWVScGpFNHdVcmxMYnNNbDNhVENtWVpnR0NISzczT1VhLTZiMVZacW5pYktZVFlwdEdEVnVVMmhvWDFwSW0tMlBTcGJ"
-        },
-        {
           "headline": "Opening keynote speech by President von der Leyen at the Antwerp European Industry Summit - European Commission",
           "url": "https://ec.europa.eu/commission/presscorner/detail/hu/speech_26_382",
           "source": "Daybook: International Events",
@@ -4868,16 +4849,6 @@
           "priority": "reference",
           "date": "Fri, 20 Feb 2026 21:39:41 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBVaEZwMW1kVTdOa1ZJSHJ1bTN6QU1UdjJlUnJCY1czNkpmV0pZM1Z0ejluUGRYN1hWcmNpSHVqZlhWQlA0Y2RxUklqZjZBVF9vZER1ZzRsUGR6NnBBc1BlN1ZXN1JRSGZBZG1PVm9"
-        },
-        {
-          "headline": "Opening Day Wraps Up at the 2026 #SummitSD Championships - The Summit League",
-          "url": "https://thesummitleague.org/news/2026/2/19/mens-swimming-and-diving-opening-day-wraps-up-at-the-2026-summitsd-championships.aspx",
-          "source": "Daybook: International Events",
-          "sourceId": "daybook_intl",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Thu, 19 Feb 2026 02:47:29 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQY3N6bDcyMHIybWx3SjRmLVdVZmlhSmJ0VGFsNUZVNW10SDRhVXdmMVplWnBCS3ozRUhqcG1xN1hEMW1QTmhIckVzZGZUamZaSDNiYzNZdnBDTVhRSldJOXdpX0VRa1ZRNWdwUkx"
         },
         {
           "headline": "India’s AI summit draws global leaders, big pledges and some chaos - NBC News",
@@ -4900,6 +4871,46 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOUTFaOWp2NDJiVHZDaEpEc3E5OU1OOGJaekZfSUZYMnBCaWxlbkhFWlplRExIWWpwSktCS0FxOXJHbEpWdUlTNTRBNUpISzBqRW1vYU9NUVpzSmRoZU9LOElXWXRxZDVQazJleXl"
         },
         {
+          "headline": "Epstein’s shadow: Why Bill Gates pulled out of Modi’s AI summit - Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/2/19/epsteins-shadow-why-bill-gates-pulled-out-of-modis-ai-summit",
+          "source": "Daybook: International Events",
+          "sourceId": "daybook_intl",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Thu, 19 Feb 2026 10:55:50 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOTnhFZkpYY3EyN1NEV3h4QlF4T1hwR2had3p1eWkxLW4wNXR4bmZlUVZxMzVQT0YyRFNuRUtKRGJkODVUc1lmbmRiZU1vMkRtUUkwNEh0WEFndWNQWElIYzhjY3VVTnpkbmxQZE5"
+        },
+        {
+          "headline": "Chaos, confusion and $200 billion dreams: What I saw at India’s AI summit - CNBC",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Hb2p3em1Pbmt6Rm1PN09hSW0yU3JaelU2UXE2bVFPazRnaGJ2MTlEYTUzdmVLRllRU0pMa2xiRlE3eEFfc1ZuQ3NBUFNZY01hVGRuZmxoOFZ0YWVWWmFkZ0JkRWpiSjdC0gFuQVVfeXFMTlJEcjViTXd4V1pCYmJ1ZXBvS2xLUHdWWW1Ld0JPSElLNVlBVnlVSG1WRXVkdUFZbklBQVUxUG1rMEdERE1BTElvZzZMRDhJUnN6aW0zVzFDU3NOZVhCb0JjTGxVRnkwZWlxQ1I5RHc?oc=5",
+          "source": "Daybook: International Events",
+          "sourceId": "daybook_intl",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Sat, 21 Feb 2026 08:50:57 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Hb2p3em1Pbmt6Rm1PN09hSW0yU3JaelU2UXE2bVFPazRnaGJ2MTlEYTUzdmVLRllRU0pMa2xiRlE3eEFfc1ZuQ3NBUFNZY01hVGRuZmxoOFZ0YWVWWmFkZ0JkRWpiSjdC0gFuQVV"
+        },
+        {
+          "headline": "Join the ‘Transformation to Triumph Black Women’s Summit’ and Become Part of a Global Network of Support - The Dig at Howard University",
+          "url": "https://thedig.howard.edu/all-stories/join-transformation-triumph-black-womens-summit-and-become-part-global-network-support",
+          "source": "Daybook: International Events",
+          "sourceId": "daybook_intl",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Tue, 24 Feb 2026 20:04:52 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSjlYSFd1cngxZmxDYmRFLXBTbE5sd2ZqZGVtY0h4bkFNNldUM2Y0MmM2UnVkenBjcXNQWTBLTXdteEpiRlZTenl4UHJFWmJiMTR5N0swejhmR1dHRU9venMyakNaYUFndnA4ZXp"
+        },
+        {
+          "headline": "Johnson Named Summit League Peak Performer of the Week for Third Time - University of Denver Athletics",
+          "url": "https://denverpioneers.com/news/2026/2/24/mens-basketball-johnson-named-summit-league-peak-performer-of-the-week-for-third-time.aspx",
+          "source": "Daybook: International Events",
+          "sourceId": "daybook_intl",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Tue, 24 Feb 2026 21:07:13 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNMC1ESTdsVnhla2Rtek1Zck5PV2pyZXRDU21Oa3RBSlJmNTJBbkJ6cVhTRmhPM1ZobG5HcGhuWVFsQzNUWEpscTNnRHV5Z2VYZ0Qxa2U5M29CSWl0V3o5a3hySEoyS0VlSVNiQTJ"
+        },
+        {
           "headline": "Decoding trade deadline strategy and where the Kraken fit - Sound Of Hockey",
           "url": "https://soundofhockey.com/2026/02/23/seattle-kraken-trade-deadline-strategies/",
           "source": "Daybook: Economic Calendar",
@@ -4920,14 +4931,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNbzNpeXlMSHVHMXFnWDVucEFWUm1jUWlWLUVCbzN2dUwxOXBfMURBRjhtR2dNRW9IX0dac1psaEpfM3hVZzNkeWY1S1pwb0FNUnNtakZWMFVTcEotRTBUQWVpcDVuU2s2V3lwS04"
         },
         {
-          "headline": "Trade Deadline, playoff races among top storylines after Olympic break - NHL.com",
-          "url": "https://www.nhl.com/news/trade-deadline-playoff-races-among-top-post-olympic-nhl-storylines",
+          "headline": "Fantasy spin on 2026 NHL Trade Deadline - NHL.com",
+          "url": "https://www.nhl.com/news/topic/trade-coverage/fantasy-hockey-spin-2026-nhl-trade-deadline",
           "source": "Daybook: Economic Calendar",
           "sourceId": "daybook_econ",
           "category": "daybook",
           "priority": "reference",
-          "date": "Tue, 24 Feb 2026 03:32:31 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQN0lJYVJSOXVQVEloR25zZlZjRGRWVGIzMl84QmxvWFFxWDVRRGo0azNYb281UnMtVjFpbFNfSUJmVER3S0V6UDlqV1JNcUVua0ZnbzdQR2ptUUpXQ1NWOGIzR1NXUndLbUlhWFB"
+          "date": "Wed, 25 Feb 2026 20:04:32 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQZVdRcVJWYmhxM3d1bUNMMXVoczhIZ1lDVDZ6TnUyTnEwM2lmUVpmcHRZQTRySG43R3FYc0JjR1I0SUFHaVFPZE91blZUN0Zjd0NFS1N5NHpTNGEzLUc1Mmp6WHFqaTdjeEljUzV"
         },
         {
           "headline": "Kevin Weekes Breaks Down the Kings Trade Deadline Options on The Insider Show - LA Kings Insider",
@@ -4948,16 +4959,6 @@
           "priority": "reference",
           "date": "Wed, 25 Feb 2026 17:04:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNEFLTnB6R0FaQU9wRnpnMjRwRmM1d2xFLTY5NWhqMUlrdVh3VzNBdDh0UFJlUHdaYm9PMlpWLVc0UmpDNWp1Vjc3ZUMwckdXSnpablF2aEJOcTRpMlZZVm94TUZQYzNydWN1UHN"
-        },
-        {
-          "headline": "Figma stock jumps 15% as company sees AI monetization accelerating growth - CNBC",
-          "url": "https://www.cnbc.com/2026/02/18/figma-fig-q4-earnings-report-2025.html",
-          "source": "Daybook: Economic Calendar",
-          "sourceId": "daybook_econ",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Wed, 18 Feb 2026 21:06:04 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFB0MWRKcU1SbDVyMVBwZVNWck1Bc0JPeFZpUG5Tc2VaS1p6eVNzWG1DVktWQUs3aEJPWGN1eDRzZ1F4S1lxWmZ4TXRfMzZMQzVKOVVPRzVRMDJCd1Z5MmM3N191QW9jb090T2QzMk1"
         },
         {
           "headline": "Fed’s Waller says March rate decision hinges on whether jobs rebound proves ‘signal or noise’ - InvestmentNews",
@@ -5000,6 +5001,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOXBCME5yNUlvc1RkT01BQ1A2d1RaRXZxQkJla3BmemNYMnRBYVdsZG84blpaOGFvQWpYUHl6TXhOdDdwY1RxNHVPR2RRUUtIdFBfRjBSTE5MaXpmbzAxMnBjOERFdnNsZXBrRGF"
         },
         {
+          "headline": "Kraken return from Olympic break for trade deadline and playoff push - The Seattle Times",
+          "url": "https://www.seattletimes.com/sports/kraken/kraken-return-from-olympic-break-for-trade-deadline-and-playoff-push/",
+          "source": "Daybook: Economic Calendar",
+          "sourceId": "daybook_econ",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Wed, 25 Feb 2026 14:00:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQaW1JenVYX2t0SHJSTFB6TURlZFpVaVBQcThUeHFDWC1ESGtsbHp1VWJZUS10MDg2NmZNUTNRNktGRU5vQVlDeVdyYlZuNWFySDVSYlNPSmdDNWJYRk43Z0hBXy04M19kTktNNm5"
+        },
+        {
           "headline": "MINNESOTA WILD: POST-OLYMPIC ADVICE FOR THE NHL TRADE DEADLINE - Lets Play Hockey",
           "url": "https://letsplayhockey.com/minnesota-wild-post-olympic-advice-for-the-nhl-trade-deadline/",
           "source": "Daybook: Economic Calendar",
@@ -5030,16 +5041,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNZWVWZFlNU1hLZXdDblJySHR6OHFveTZQLWRvNzdyTVVRRlJ2MzlIOHZuU3dreXRvOEtUVW9OMUlWak0xSGVqNG5LQ3pULVJiRVR1SmpjT1A2YkhPTWpEeUpNdGdPbXgwbS1HVTc"
         },
         {
-          "headline": "Kraken return from Olympic break for trade deadline and playoff push - The Seattle Times",
-          "url": "https://www.seattletimes.com/sports/kraken/kraken-return-from-olympic-break-for-trade-deadline-and-playoff-push/",
-          "source": "Daybook: Economic Calendar",
-          "sourceId": "daybook_econ",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Wed, 25 Feb 2026 14:00:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQaW1JenVYX2t0SHJSTFB6TURlZFpVaVBQcThUeHFDWC1ESGtsbHp1VWJZUS10MDg2NmZNUTNRNktGRU5vQVlDeVdyYlZuNWFySDVSYlNPSmdDNWJYRk43Z0hBXy04M19kTktNNm5"
-        },
-        {
           "headline": "Columbus Blue Jackets may hang onto free agents past trade deadline - The Columbus Dispatch",
           "url": "https://www.dispatch.com/story/sports/nhl/columbus-blue-jackets/2026/02/24/columbus-blue-jackets-may-hang-onto-free-agents-past-trade-deadline/88833945007/",
           "source": "Daybook: Economic Calendar",
@@ -5050,6 +5051,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTG9XZVZ2RVcteXNNdzFYNGQ4QUs5N3RON2ZxQTk5WGYxVEZMRVlOTDlLYThhUlZzYnc1TE1nZmFyUkd2cVZCZlphLWxnbzRkQzdMVC1icXB5UzRkdVVsWVZhQ1diaGFfZTNySks"
         },
         {
+          "headline": "Trade Deadline, playoff races among top storylines after Olympic break - NHL.com",
+          "url": "https://www.nhl.com/news/trade-deadline-playoff-races-among-top-post-olympic-nhl-storylines",
+          "source": "Daybook: Economic Calendar",
+          "sourceId": "daybook_econ",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Tue, 24 Feb 2026 03:32:31 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQN0lJYVJSOXVQVEloR25zZlZjRGRWVGIzMl84QmxvWFFxWDVRRGo0azNYb281UnMtVjFpbFNfSUJmVER3S0V6UDlqV1JNcUVua0ZnbzdQR2ptUUpXQ1NWOGIzR1NXUndLbUlhWFB"
+        },
+        {
           "headline": "Justices reveal little about whether the deadline for removing cases to federal court can be excused - SCOTUSblog",
           "url": "https://www.scotusblog.com/2026/02/justices-reveal-little-about-whether-the-deadline-for-removing-cases-to-federal-court-can-be-excused/",
           "source": "Daybook: Scheduled Events",
@@ -5058,6 +5069,36 @@
           "priority": "reference",
           "date": "Wed, 25 Feb 2026 15:20:51 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeGkxWkt6U0w3Sm1xQlBYd3FyeGZuWFZfbzNOam5rOE9KQTNsNzdzOVBDb1BDQ0s3c0w2XzViTWE3Vi1wRS1sS3JzSDU0Nk05Zjl5UHFqQVNlNlBVVFBBZjRzQTBfT1Y5QlhhdXh"
+        },
+        {
+          "headline": "NHL Trade Buzz: Panthers have ‘very important week’ before Deadline - NHL.com",
+          "url": "https://www.nhl.com/news/topic/trade-coverage/nhl-trade-buzz-news-and-notes-february-25-2026",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Wed, 25 Feb 2026 17:15:58 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNU29VM3RmNXdCN3NZd3I3anJKdU5aXzBaSFF6Wk11TUtYSW5qM3Z2ZTBzeVZYU2lyM1RzOE84QkNfaGJvRjVobko3VjJiM19uaEpjYXNWVFdBaUZaMnhzWGh0MDBkQmtYN2hiaWN"
+        },
+        {
+          "headline": "Emma Roberts To Star In ‘Bride Wars’ Movie Reimagination For TV In Development At Peacock - Deadline",
+          "url": "https://deadline.com/2026/02/emma-roberts-bride-wars-movie-reimagination-for-tv-peacock-1236735460/",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Wed, 25 Feb 2026 17:00:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOSEpFbUFLYWVkb2RsMUxUNjQzcF9HMGtPdk5mSWRSeG5DV2t6MUdfS3BWTTZSS2RtQ3VGSjNoOUZPNjF1WXFncnBVMzA1UmNYVFUzeU5WYlpiaHZDWFBmaXZHMTdWTUs5elBMUjB"
+        },
+        {
+          "headline": "HRSA extends deadline to April 20 for comments on 340B rebate model RFI and suggests expanded number of drugs to be included - American Hospital Association",
+          "url": "https://www.aha.org/news/headline/2026-02-25-hrsa-extends-deadline-april-20-comments-340b-rebate-model-rfi-and-suggests-expanded-number-drugs-be",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Wed, 25 Feb 2026 21:11:15 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRkRxYXJPRnQ0YUpac1lobFAyQUVKQmlOU1dvb1czUFQwNTg3eTlzdHc3MlRfMEp0ckFFV3MwUkNEaUJBdlQyT1FxQU5DYXpKT3FGZkRCWHZxSzJjRjZQQkVoajFQOXBPQlA1d21"
         },
         {
           "headline": "Tennis Buffs Set to Begin Big 12 Play - University of Colorado Athletics",
@@ -5088,26 +5129,6 @@
           "priority": "reference",
           "date": "Wed, 25 Feb 2026 17:26:15 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOcW1NMTgtNGFwelZLVTVjNHRLR1F2eFFFZDl2ODFISGRqR1g5SFR5TEdoR0xHaW9UUERmd01jQ1Y2MUc2M2lLX05iblZmX1kyN3dJS0xsR0pIUmpVRVhLYUFXX3ZBa0lVU0pGNzR"
-        },
-        {
-          "headline": "Warner Board Says Paramount Agreed To Raise Offer To $31 A Share Or More If Two Sides Engaged - Deadline",
-          "url": "https://deadline.com/2026/02/warner-bros-discovery-says-paramount-agreed-to-higher-offer-1236726616/",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Wed, 25 Feb 2026 12:05:58 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNSmFNMzRGbV9QS1BOWWlsb0FKTXR5cFZkMU5mWWR3ZEJhZW5XaWhOX2hnOEpoalYydERnZ3Axa09DMFRtUTU4UnBhVWRIV2hfR3dQVnJOVHR2Y0MxWVlRdUh3ZGQyUFZVUzY1dEg"
-        },
-        {
-          "headline": "NHL Trade Buzz: Panthers have ‘very important week’ before Deadline - NHL.com",
-          "url": "https://www.nhl.com/news/topic/trade-coverage/nhl-trade-buzz-news-and-notes-february-25-2026",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Wed, 25 Feb 2026 17:15:58 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNU29VM3RmNXdCN3NZd3I3anJKdU5aXzBaSFF6Wk11TUtYSW5qM3Z2ZTBzeVZYU2lyM1RzOE84QkNfaGJvRjVobko3VjJiM19uaEpjYXNWVFdBaUZaMnhzWGh0MDBkQmtYN2hiaWN"
         },
         {
           "headline": "Deadline approaching for prospective students with Ferris State family ties to apply for new scholarship - Ferris State University",
@@ -5150,28 +5171,18 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR2ZTTFgxUW9yTnRTQlAwMFJqTnE3VndIM1lYeGotRGp3MG1zeE1ZU24tOWs3NUNHWGo1XzM2bkNxZkdfUEpWbFhuazhsZDRpV3ZxRmN0MWx5R3BzMmJjRERQVkg5ODBlZ2kwOUh"
         },
         {
-          "headline": "E15 deadline arrives as industry awaits congressional action - Brownfield Ag News",
-          "url": "https://www.brownfieldagnews.com/news/e15-deadline-arrives-as-industry-awaits-congressional-action/",
+          "headline": "Warner Board Says Paramount Agreed To Raise Offer To $31 A Share Or More If Two Sides Engaged - Deadline",
+          "url": "https://deadline.com/2026/02/warner-bros-discovery-says-paramount-agreed-to-higher-offer-1236726616/",
           "source": "Daybook: Scheduled Events",
           "sourceId": "daybook_scheduled",
           "category": "daybook",
           "priority": "reference",
-          "date": "Wed, 25 Feb 2026 15:37:31 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPcWEyQlByZ2Z6UFBtREdaMjExUW5nZHJCN2VocXFhdnZnS3lXZUl6NFhoZ3pFQWN4ZFh4WHV0cFhRQXgwdmRla3pUWEw4cWdoT2lyNWZISjRNS1ZiWFB3RG5xVzRqazdnX3JmdkF"
-        },
-        {
-          "headline": "'Industry' Renewed For Fifth &amp; Final Season At HBO - Deadline",
-          "url": "https://deadline.com/2026/02/industry-renewed-fifth-final-season-hbo-1236735218/",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Wed, 25 Feb 2026 16:00:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQRXVTZkttZFhTMXJGc3IwZ0lhZ2RlTE1aSkgtSUFFc2x5MXMwMlV6RWFXT1U4eEtEMXRnRjYyMkpFXzAxMzFaUVoyMEp2SnZvZ1hyVVh1S09VNHdKZlh6elhzTnN3MGQ4a3JMd3p"
+          "date": "Wed, 25 Feb 2026 12:05:58 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNSmFNMzRGbV9QS1BOWWlsb0FKTXR5cFZkMU5mWWR3ZEJhZW5XaWhOX2hnOEpoalYydERnZ3Axa09DMFRtUTU4UnBhVWRIV2hfR3dQVnJOVHR2Y0MxWVlRdUh3ZGQyUFZVUzY1dEg"
         },
         {
           "headline": "Fantasy spin on 2026 NHL Trade Deadline - NHL.com",
-          "url": "https://www.nhl.com/news/topic/trade-coverage/fantasy-hockey-spin-2026-nhl-trade-deadline",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZVdRcVJWYmhxM3d1bUNMMXVoczhIZ1lDVDZ6TnUyTnEwM2lmUVpmcHRZQTRySG43R3FYc0JjR1I0SUFHaVFPZE91blZUN0Zjd0NFS1N5NHpTNGEzLUc1Mmp6WHFqaTdjeEljUzVjTVNIUG91Nk1iT1k4dU1BYTlnYzJiUWl0WmdYcS1raGdzd2E0Qk0?oc=5",
           "source": "Daybook: Scheduled Events",
           "sourceId": "daybook_scheduled",
           "category": "daybook",
@@ -5190,14 +5201,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNLWFqb3p0YWVoY3ZsYlNqTVFtN3JsMmk4UGRfN1RVUjJsaHptQ2hfX2ZGT1VyU0MyeTRIM0pWMnR4cjlRWjc3a3RxN0dsSzRnaURFS0dkZkFtaXhHOUVFaUtuYkM1LW1seXJEVGZ"
         },
         {
-          "headline": "FBI Raids Home &amp; Office Of LAUSD Superintendent Alberto Carvalho - Deadline",
-          "url": "https://deadline.com/2026/02/fbi-raids-home-office-lausd-superintendent-alberto-carvalho-1236735901/",
+          "headline": "'Industry' Renewed For Fifth &amp; Final Season At HBO - Deadline",
+          "url": "https://deadline.com/2026/02/industry-renewed-fifth-final-season-hbo-1236735218/",
           "source": "Daybook: Scheduled Events",
           "sourceId": "daybook_scheduled",
           "category": "daybook",
           "priority": "reference",
-          "date": "Wed, 25 Feb 2026 18:19:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQd2ZucDdzcTYzWEREb3ktaXVsSjBPRnJqWmstM1BfNkhDcnM1REdJd1YwQ0dObGVfdkhUWWl6azR2Z3FfRml1OVNaSDM4R3BCSHdxbEhaSjk0bllKTG9DTTVZc1pqU2VmWmxSU2p"
+          "date": "Wed, 25 Feb 2026 16:00:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQRXVTZkttZFhTMXJGc3IwZ0lhZ2RlTE1aSkgtSUFFc2x5MXMwMlV6RWFXT1U4eEtEMXRnRjYyMkpFXzAxMzFaUVoyMEp2SnZvZ1hyVVh1S09VNHdKZlh6elhzTnN3MGQ4a3JMd3p"
         }
       ]
     }
@@ -5232,26 +5243,6 @@
       "priority": "reference",
       "date": "Fri, 20 Feb 2026 15:24:00 GMT",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOcnB1VF9nMG56WDU0dndhVzBjTHlMX0VOcWNsZHNIRjlVYkxvejdmbDZwZFY5aGFQS1JkcWo5VkI1WERTTGUwSDJSZEFGUm54MU9GeUtyQ0MzNno4MDlONGNmRG1ETnl0eE5lb1l"
-    },
-    {
-      "headline": "FSS Summit strengthens AFMC Force Support enterprise &gt; Air Force &gt; Article Display - af.mil",
-      "url": "https://www.af.mil/News/Article-Display/Article/4410089/fss-summit-strengthens-afmc-force-support-enterprise/",
-      "source": "Daybook: International Events",
-      "sourceId": "daybook_intl",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Thu, 19 Feb 2026 21:41:40 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNQnR4VHQtaFVFR1NQaGNjbTFUQWc3QzFjUjFiRUgzYS1ib2hmZFVOM0Z3Ty1WT0dRRW9BM252R3NJd0loMHZ0Slgwd1NVMERKdEZPRU9lV19rVHRDT1NxQWotaHU2dUl1LWZrbUp"
-    },
-    {
-      "headline": "G20 (Group of 20) | History &amp; Members - Britannica",
-      "url": "https://www.britannica.com/topic/Group-of-20",
-      "source": "Daybook: International Events",
-      "sourceId": "daybook_intl",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Thu, 19 Feb 2026 08:00:00 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9IYW10UEFKaXZCd2pHd2c1V3RHc05SLTJIWmlCMWc0TjlONXRmZUF3N1l1NjNXWnRHcm5FUHNtR1ktM1N3N29Dckt2WHdWdGtDd2t1NW9sWQ?oc=5\" target=\"_blank\"&gt;G20"
     },
     {
       "headline": "New Chick-fil-A Opening in Lee’s Summit - Chick-fil-A",
@@ -5304,16 +5295,6 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMWZweG1pTE8wdUdrcTVsdEFheFJEWmZnWVVFTEw2T25IVnh5U1RJODZyLVhXTE9Db0VzYWkydnlabDJudnhMXzZ1d0tlLTJ3cDgxYmNFaXNfQjlFc0paaGhmQmxqWFdzaGJTVVY"
     },
     {
-      "headline": "Q&amp;A with Neel Kashkari at the Midwest Economic Outlook Summit - Federal Reserve Bank of Minneapolis",
-      "url": "https://www.minneapolisfed.org/speeches/2026/neel-kashkari-at-the-midwest-economic-outlook-summit",
-      "source": "Daybook: International Events",
-      "sourceId": "daybook_intl",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Thu, 19 Feb 2026 14:05:00 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNTmwxbFdRdkRDSFZpUUE5TEhzTTc2MlBqQmNJd09KQmY1dWVScGpFNHdVcmxMYnNNbDNhVENtWVpnR0NISzczT1VhLTZiMVZacW5pYktZVFlwdEdEVnVVMmhvWDFwSW0tMlBTcGJ"
-    },
-    {
       "headline": "Opening keynote speech by President von der Leyen at the Antwerp European Industry Summit - European Commission",
       "url": "https://ec.europa.eu/commission/presscorner/detail/hu/speech_26_382",
       "source": "Daybook: International Events",
@@ -5322,16 +5303,6 @@
       "priority": "reference",
       "date": "Fri, 20 Feb 2026 21:39:41 GMT",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBVaEZwMW1kVTdOa1ZJSHJ1bTN6QU1UdjJlUnJCY1czNkpmV0pZM1Z0ejluUGRYN1hWcmNpSHVqZlhWQlA0Y2RxUklqZjZBVF9vZER1ZzRsUGR6NnBBc1BlN1ZXN1JRSGZBZG1PVm9"
-    },
-    {
-      "headline": "Opening Day Wraps Up at the 2026 #SummitSD Championships - The Summit League",
-      "url": "https://thesummitleague.org/news/2026/2/19/mens-swimming-and-diving-opening-day-wraps-up-at-the-2026-summitsd-championships.aspx",
-      "source": "Daybook: International Events",
-      "sourceId": "daybook_intl",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Thu, 19 Feb 2026 02:47:29 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQY3N6bDcyMHIybWx3SjRmLVdVZmlhSmJ0VGFsNUZVNW10SDRhVXdmMVplWnBCS3ozRUhqcG1xN1hEMW1QTmhIckVzZGZUamZaSDNiYzNZdnBDTVhRSldJOXdpX0VRa1ZRNWdwUkx"
     },
     {
       "headline": "India’s AI summit draws global leaders, big pledges and some chaos - NBC News",
@@ -5354,6 +5325,46 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOUTFaOWp2NDJiVHZDaEpEc3E5OU1OOGJaekZfSUZYMnBCaWxlbkhFWlplRExIWWpwSktCS0FxOXJHbEpWdUlTNTRBNUpISzBqRW1vYU9NUVpzSmRoZU9LOElXWXRxZDVQazJleXl"
     },
     {
+      "headline": "Epstein’s shadow: Why Bill Gates pulled out of Modi’s AI summit - Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/2/19/epsteins-shadow-why-bill-gates-pulled-out-of-modis-ai-summit",
+      "source": "Daybook: International Events",
+      "sourceId": "daybook_intl",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Thu, 19 Feb 2026 10:55:50 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOTnhFZkpYY3EyN1NEV3h4QlF4T1hwR2had3p1eWkxLW4wNXR4bmZlUVZxMzVQT0YyRFNuRUtKRGJkODVUc1lmbmRiZU1vMkRtUUkwNEh0WEFndWNQWElIYzhjY3VVTnpkbmxQZE5"
+    },
+    {
+      "headline": "Chaos, confusion and $200 billion dreams: What I saw at India’s AI summit - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Hb2p3em1Pbmt6Rm1PN09hSW0yU3JaelU2UXE2bVFPazRnaGJ2MTlEYTUzdmVLRllRU0pMa2xiRlE3eEFfc1ZuQ3NBUFNZY01hVGRuZmxoOFZ0YWVWWmFkZ0JkRWpiSjdC0gFuQVVfeXFMTlJEcjViTXd4V1pCYmJ1ZXBvS2xLUHdWWW1Ld0JPSElLNVlBVnlVSG1WRXVkdUFZbklBQVUxUG1rMEdERE1BTElvZzZMRDhJUnN6aW0zVzFDU3NOZVhCb0JjTGxVRnkwZWlxQ1I5RHc?oc=5",
+      "source": "Daybook: International Events",
+      "sourceId": "daybook_intl",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Sat, 21 Feb 2026 08:50:57 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Hb2p3em1Pbmt6Rm1PN09hSW0yU3JaelU2UXE2bVFPazRnaGJ2MTlEYTUzdmVLRllRU0pMa2xiRlE3eEFfc1ZuQ3NBUFNZY01hVGRuZmxoOFZ0YWVWWmFkZ0JkRWpiSjdC0gFuQVV"
+    },
+    {
+      "headline": "Join the ‘Transformation to Triumph Black Women’s Summit’ and Become Part of a Global Network of Support - The Dig at Howard University",
+      "url": "https://thedig.howard.edu/all-stories/join-transformation-triumph-black-womens-summit-and-become-part-global-network-support",
+      "source": "Daybook: International Events",
+      "sourceId": "daybook_intl",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Tue, 24 Feb 2026 20:04:52 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSjlYSFd1cngxZmxDYmRFLXBTbE5sd2ZqZGVtY0h4bkFNNldUM2Y0MmM2UnVkenBjcXNQWTBLTXdteEpiRlZTenl4UHJFWmJiMTR5N0swejhmR1dHRU9venMyakNaYUFndnA4ZXp"
+    },
+    {
+      "headline": "Johnson Named Summit League Peak Performer of the Week for Third Time - University of Denver Athletics",
+      "url": "https://denverpioneers.com/news/2026/2/24/mens-basketball-johnson-named-summit-league-peak-performer-of-the-week-for-third-time.aspx",
+      "source": "Daybook: International Events",
+      "sourceId": "daybook_intl",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Tue, 24 Feb 2026 21:07:13 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNMC1ESTdsVnhla2Rtek1Zck5PV2pyZXRDU21Oa3RBSlJmNTJBbkJ6cVhTRmhPM1ZobG5HcGhuWVFsQzNUWEpscTNnRHV5Z2VYZ0Qxa2U5M29CSWl0V3o5a3hySEoyS0VlSVNiQTJ"
+    },
+    {
       "headline": "Decoding trade deadline strategy and where the Kraken fit - Sound Of Hockey",
       "url": "https://soundofhockey.com/2026/02/23/seattle-kraken-trade-deadline-strategies/",
       "source": "Daybook: Economic Calendar",
@@ -5374,14 +5385,14 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNbzNpeXlMSHVHMXFnWDVucEFWUm1jUWlWLUVCbzN2dUwxOXBfMURBRjhtR2dNRW9IX0dac1psaEpfM3hVZzNkeWY1S1pwb0FNUnNtakZWMFVTcEotRTBUQWVpcDVuU2s2V3lwS04"
     },
     {
-      "headline": "Trade Deadline, playoff races among top storylines after Olympic break - NHL.com",
-      "url": "https://www.nhl.com/news/trade-deadline-playoff-races-among-top-post-olympic-nhl-storylines",
+      "headline": "Fantasy spin on 2026 NHL Trade Deadline - NHL.com",
+      "url": "https://www.nhl.com/news/topic/trade-coverage/fantasy-hockey-spin-2026-nhl-trade-deadline",
       "source": "Daybook: Economic Calendar",
       "sourceId": "daybook_econ",
       "category": "daybook",
       "priority": "reference",
-      "date": "Tue, 24 Feb 2026 03:32:31 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQN0lJYVJSOXVQVEloR25zZlZjRGRWVGIzMl84QmxvWFFxWDVRRGo0azNYb281UnMtVjFpbFNfSUJmVER3S0V6UDlqV1JNcUVua0ZnbzdQR2ptUUpXQ1NWOGIzR1NXUndLbUlhWFB"
+      "date": "Wed, 25 Feb 2026 20:04:32 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQZVdRcVJWYmhxM3d1bUNMMXVoczhIZ1lDVDZ6TnUyTnEwM2lmUVpmcHRZQTRySG43R3FYc0JjR1I0SUFHaVFPZE91blZUN0Zjd0NFS1N5NHpTNGEzLUc1Mmp6WHFqaTdjeEljUzV"
     },
     {
       "headline": "Kevin Weekes Breaks Down the Kings Trade Deadline Options on The Insider Show - LA Kings Insider",
@@ -5402,16 +5413,6 @@
       "priority": "reference",
       "date": "Wed, 25 Feb 2026 17:04:00 GMT",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNEFLTnB6R0FaQU9wRnpnMjRwRmM1d2xFLTY5NWhqMUlrdVh3VzNBdDh0UFJlUHdaYm9PMlpWLVc0UmpDNWp1Vjc3ZUMwckdXSnpablF2aEJOcTRpMlZZVm94TUZQYzNydWN1UHN"
-    },
-    {
-      "headline": "Figma stock jumps 15% as company sees AI monetization accelerating growth - CNBC",
-      "url": "https://www.cnbc.com/2026/02/18/figma-fig-q4-earnings-report-2025.html",
-      "source": "Daybook: Economic Calendar",
-      "sourceId": "daybook_econ",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Wed, 18 Feb 2026 21:06:04 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFB0MWRKcU1SbDVyMVBwZVNWck1Bc0JPeFZpUG5Tc2VaS1p6eVNzWG1DVktWQUs3aEJPWGN1eDRzZ1F4S1lxWmZ4TXRfMzZMQzVKOVVPRzVRMDJCd1Z5MmM3N191QW9jb090T2QzMk1"
     },
     {
       "headline": "Fed’s Waller says March rate decision hinges on whether jobs rebound proves ‘signal or noise’ - InvestmentNews",
@@ -5454,6 +5455,16 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOXBCME5yNUlvc1RkT01BQ1A2d1RaRXZxQkJla3BmemNYMnRBYVdsZG84blpaOGFvQWpYUHl6TXhOdDdwY1RxNHVPR2RRUUtIdFBfRjBSTE5MaXpmbzAxMnBjOERFdnNsZXBrRGF"
     },
     {
+      "headline": "Kraken return from Olympic break for trade deadline and playoff push - The Seattle Times",
+      "url": "https://www.seattletimes.com/sports/kraken/kraken-return-from-olympic-break-for-trade-deadline-and-playoff-push/",
+      "source": "Daybook: Economic Calendar",
+      "sourceId": "daybook_econ",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Wed, 25 Feb 2026 14:00:00 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQaW1JenVYX2t0SHJSTFB6TURlZFpVaVBQcThUeHFDWC1ESGtsbHp1VWJZUS10MDg2NmZNUTNRNktGRU5vQVlDeVdyYlZuNWFySDVSYlNPSmdDNWJYRk43Z0hBXy04M19kTktNNm5"
+    },
+    {
       "headline": "MINNESOTA WILD: POST-OLYMPIC ADVICE FOR THE NHL TRADE DEADLINE - Lets Play Hockey",
       "url": "https://letsplayhockey.com/minnesota-wild-post-olympic-advice-for-the-nhl-trade-deadline/",
       "source": "Daybook: Economic Calendar",
@@ -5484,16 +5495,6 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNZWVWZFlNU1hLZXdDblJySHR6OHFveTZQLWRvNzdyTVVRRlJ2MzlIOHZuU3dreXRvOEtUVW9OMUlWak0xSGVqNG5LQ3pULVJiRVR1SmpjT1A2YkhPTWpEeUpNdGdPbXgwbS1HVTc"
     },
     {
-      "headline": "Kraken return from Olympic break for trade deadline and playoff push - The Seattle Times",
-      "url": "https://www.seattletimes.com/sports/kraken/kraken-return-from-olympic-break-for-trade-deadline-and-playoff-push/",
-      "source": "Daybook: Economic Calendar",
-      "sourceId": "daybook_econ",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Wed, 25 Feb 2026 14:00:00 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQaW1JenVYX2t0SHJSTFB6TURlZFpVaVBQcThUeHFDWC1ESGtsbHp1VWJZUS10MDg2NmZNUTNRNktGRU5vQVlDeVdyYlZuNWFySDVSYlNPSmdDNWJYRk43Z0hBXy04M19kTktNNm5"
-    },
-    {
       "headline": "Columbus Blue Jackets may hang onto free agents past trade deadline - The Columbus Dispatch",
       "url": "https://www.dispatch.com/story/sports/nhl/columbus-blue-jackets/2026/02/24/columbus-blue-jackets-may-hang-onto-free-agents-past-trade-deadline/88833945007/",
       "source": "Daybook: Economic Calendar",
@@ -5504,6 +5505,16 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTG9XZVZ2RVcteXNNdzFYNGQ4QUs5N3RON2ZxQTk5WGYxVEZMRVlOTDlLYThhUlZzYnc1TE1nZmFyUkd2cVZCZlphLWxnbzRkQzdMVC1icXB5UzRkdVVsWVZhQ1diaGFfZTNySks"
     },
     {
+      "headline": "Trade Deadline, playoff races among top storylines after Olympic break - NHL.com",
+      "url": "https://www.nhl.com/news/trade-deadline-playoff-races-among-top-post-olympic-nhl-storylines",
+      "source": "Daybook: Economic Calendar",
+      "sourceId": "daybook_econ",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Tue, 24 Feb 2026 03:32:31 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQN0lJYVJSOXVQVEloR25zZlZjRGRWVGIzMl84QmxvWFFxWDVRRGo0azNYb281UnMtVjFpbFNfSUJmVER3S0V6UDlqV1JNcUVua0ZnbzdQR2ptUUpXQ1NWOGIzR1NXUndLbUlhWFB"
+    },
+    {
       "headline": "Justices reveal little about whether the deadline for removing cases to federal court can be excused - SCOTUSblog",
       "url": "https://www.scotusblog.com/2026/02/justices-reveal-little-about-whether-the-deadline-for-removing-cases-to-federal-court-can-be-excused/",
       "source": "Daybook: Scheduled Events",
@@ -5512,6 +5523,36 @@
       "priority": "reference",
       "date": "Wed, 25 Feb 2026 15:20:51 GMT",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeGkxWkt6U0w3Sm1xQlBYd3FyeGZuWFZfbzNOam5rOE9KQTNsNzdzOVBDb1BDQ0s3c0w2XzViTWE3Vi1wRS1sS3JzSDU0Nk05Zjl5UHFqQVNlNlBVVFBBZjRzQTBfT1Y5QlhhdXh"
+    },
+    {
+      "headline": "NHL Trade Buzz: Panthers have ‘very important week’ before Deadline - NHL.com",
+      "url": "https://www.nhl.com/news/topic/trade-coverage/nhl-trade-buzz-news-and-notes-february-25-2026",
+      "source": "Daybook: Scheduled Events",
+      "sourceId": "daybook_scheduled",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Wed, 25 Feb 2026 17:15:58 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNU29VM3RmNXdCN3NZd3I3anJKdU5aXzBaSFF6Wk11TUtYSW5qM3Z2ZTBzeVZYU2lyM1RzOE84QkNfaGJvRjVobko3VjJiM19uaEpjYXNWVFdBaUZaMnhzWGh0MDBkQmtYN2hiaWN"
+    },
+    {
+      "headline": "Emma Roberts To Star In ‘Bride Wars’ Movie Reimagination For TV In Development At Peacock - Deadline",
+      "url": "https://deadline.com/2026/02/emma-roberts-bride-wars-movie-reimagination-for-tv-peacock-1236735460/",
+      "source": "Daybook: Scheduled Events",
+      "sourceId": "daybook_scheduled",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Wed, 25 Feb 2026 17:00:00 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOSEpFbUFLYWVkb2RsMUxUNjQzcF9HMGtPdk5mSWRSeG5DV2t6MUdfS3BWTTZSS2RtQ3VGSjNoOUZPNjF1WXFncnBVMzA1UmNYVFUzeU5WYlpiaHZDWFBmaXZHMTdWTUs5elBMUjB"
+    },
+    {
+      "headline": "HRSA extends deadline to April 20 for comments on 340B rebate model RFI and suggests expanded number of drugs to be included - American Hospital Association",
+      "url": "https://www.aha.org/news/headline/2026-02-25-hrsa-extends-deadline-april-20-comments-340b-rebate-model-rfi-and-suggests-expanded-number-drugs-be",
+      "source": "Daybook: Scheduled Events",
+      "sourceId": "daybook_scheduled",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Wed, 25 Feb 2026 21:11:15 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRkRxYXJPRnQ0YUpac1lobFAyQUVKQmlOU1dvb1czUFQwNTg3eTlzdHc3MlRfMEp0ckFFV3MwUkNEaUJBdlQyT1FxQU5DYXpKT3FGZkRCWHZxSzJjRjZQQkVoajFQOXBPQlA1d21"
     },
     {
       "headline": "Tennis Buffs Set to Begin Big 12 Play - University of Colorado Athletics",
@@ -5542,26 +5583,6 @@
       "priority": "reference",
       "date": "Wed, 25 Feb 2026 17:26:15 GMT",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOcW1NMTgtNGFwelZLVTVjNHRLR1F2eFFFZDl2ODFISGRqR1g5SFR5TEdoR0xHaW9UUERmd01jQ1Y2MUc2M2lLX05iblZmX1kyN3dJS0xsR0pIUmpVRVhLYUFXX3ZBa0lVU0pGNzR"
-    },
-    {
-      "headline": "Warner Board Says Paramount Agreed To Raise Offer To $31 A Share Or More If Two Sides Engaged - Deadline",
-      "url": "https://deadline.com/2026/02/warner-bros-discovery-says-paramount-agreed-to-higher-offer-1236726616/",
-      "source": "Daybook: Scheduled Events",
-      "sourceId": "daybook_scheduled",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Wed, 25 Feb 2026 12:05:58 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNSmFNMzRGbV9QS1BOWWlsb0FKTXR5cFZkMU5mWWR3ZEJhZW5XaWhOX2hnOEpoalYydERnZ3Axa09DMFRtUTU4UnBhVWRIV2hfR3dQVnJOVHR2Y0MxWVlRdUh3ZGQyUFZVUzY1dEg"
-    },
-    {
-      "headline": "NHL Trade Buzz: Panthers have ‘very important week’ before Deadline - NHL.com",
-      "url": "https://www.nhl.com/news/topic/trade-coverage/nhl-trade-buzz-news-and-notes-february-25-2026",
-      "source": "Daybook: Scheduled Events",
-      "sourceId": "daybook_scheduled",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Wed, 25 Feb 2026 17:15:58 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNU29VM3RmNXdCN3NZd3I3anJKdU5aXzBaSFF6Wk11TUtYSW5qM3Z2ZTBzeVZYU2lyM1RzOE84QkNfaGJvRjVobko3VjJiM19uaEpjYXNWVFdBaUZaMnhzWGh0MDBkQmtYN2hiaWN"
     },
     {
       "headline": "Deadline approaching for prospective students with Ferris State family ties to apply for new scholarship - Ferris State University",
@@ -5604,34 +5625,14 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR2ZTTFgxUW9yTnRTQlAwMFJqTnE3VndIM1lYeGotRGp3MG1zeE1ZU24tOWs3NUNHWGo1XzM2bkNxZkdfUEpWbFhuazhsZDRpV3ZxRmN0MWx5R3BzMmJjRERQVkg5ODBlZ2kwOUh"
     },
     {
-      "headline": "E15 deadline arrives as industry awaits congressional action - Brownfield Ag News",
-      "url": "https://www.brownfieldagnews.com/news/e15-deadline-arrives-as-industry-awaits-congressional-action/",
+      "headline": "Warner Board Says Paramount Agreed To Raise Offer To $31 A Share Or More If Two Sides Engaged - Deadline",
+      "url": "https://deadline.com/2026/02/warner-bros-discovery-says-paramount-agreed-to-higher-offer-1236726616/",
       "source": "Daybook: Scheduled Events",
       "sourceId": "daybook_scheduled",
       "category": "daybook",
       "priority": "reference",
-      "date": "Wed, 25 Feb 2026 15:37:31 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPcWEyQlByZ2Z6UFBtREdaMjExUW5nZHJCN2VocXFhdnZnS3lXZUl6NFhoZ3pFQWN4ZFh4WHV0cFhRQXgwdmRla3pUWEw4cWdoT2lyNWZISjRNS1ZiWFB3RG5xVzRqazdnX3JmdkF"
-    },
-    {
-      "headline": "'Industry' Renewed For Fifth &amp; Final Season At HBO - Deadline",
-      "url": "https://deadline.com/2026/02/industry-renewed-fifth-final-season-hbo-1236735218/",
-      "source": "Daybook: Scheduled Events",
-      "sourceId": "daybook_scheduled",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Wed, 25 Feb 2026 16:00:00 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQRXVTZkttZFhTMXJGc3IwZ0lhZ2RlTE1aSkgtSUFFc2x5MXMwMlV6RWFXT1U4eEtEMXRnRjYyMkpFXzAxMzFaUVoyMEp2SnZvZ1hyVVh1S09VNHdKZlh6elhzTnN3MGQ4a3JMd3p"
-    },
-    {
-      "headline": "Fantasy spin on 2026 NHL Trade Deadline - NHL.com",
-      "url": "https://www.nhl.com/news/topic/trade-coverage/fantasy-hockey-spin-2026-nhl-trade-deadline",
-      "source": "Daybook: Scheduled Events",
-      "sourceId": "daybook_scheduled",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Wed, 25 Feb 2026 20:04:32 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQZVdRcVJWYmhxM3d1bUNMMXVoczhIZ1lDVDZ6TnUyTnEwM2lmUVpmcHRZQTRySG43R3FYc0JjR1I0SUFHaVFPZE91blZUN0Zjd0NFS1N5NHpTNGEzLUc1Mmp6WHFqaTdjeEljUzV"
+      "date": "Wed, 25 Feb 2026 12:05:58 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNSmFNMzRGbV9QS1BOWWlsb0FKTXR5cFZkMU5mWWR3ZEJhZW5XaWhOX2hnOEpoalYydERnZ3Axa09DMFRtUTU4UnBhVWRIV2hfR3dQVnJOVHR2Y0MxWVlRdUh3ZGQyUFZVUzY1dEg"
     },
     {
       "headline": "David F. Sandberg To Direct Horror Film ‘A Little Slice Of Hell’ In Development At Paramount - Deadline",
@@ -5644,14 +5645,14 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNLWFqb3p0YWVoY3ZsYlNqTVFtN3JsMmk4UGRfN1RVUjJsaHptQ2hfX2ZGT1VyU0MyeTRIM0pWMnR4cjlRWjc3a3RxN0dsSzRnaURFS0dkZkFtaXhHOUVFaUtuYkM1LW1seXJEVGZ"
     },
     {
-      "headline": "FBI Raids Home &amp; Office Of LAUSD Superintendent Alberto Carvalho - Deadline",
-      "url": "https://deadline.com/2026/02/fbi-raids-home-office-lausd-superintendent-alberto-carvalho-1236735901/",
+      "headline": "'Industry' Renewed For Fifth &amp; Final Season At HBO - Deadline",
+      "url": "https://deadline.com/2026/02/industry-renewed-fifth-final-season-hbo-1236735218/",
       "source": "Daybook: Scheduled Events",
       "sourceId": "daybook_scheduled",
       "category": "daybook",
       "priority": "reference",
-      "date": "Wed, 25 Feb 2026 18:19:00 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQd2ZucDdzcTYzWEREb3ktaXVsSjBPRnJqWmstM1BfNkhDcnM1REdJd1YwQ0dObGVfdkhUWWl6azR2Z3FfRml1OVNaSDM4R3BCSHdxbEhaSjk0bllKTG9DTTVZc1pqU2VmWmxSU2p"
+      "date": "Wed, 25 Feb 2026 16:00:00 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQRXVTZkttZFhTMXJGc3IwZ0lhZ2RlTE1aSkgtSUFFc2x5MXMwMlV6RWFXT1U4eEtEMXRnRjYyMkpFXzAxMzFaUVoyMEp2SnZvZ1hyVVh1S09VNHdKZlh6elhzTnN3MGQ4a3JMd3p"
     }
   ],
   "watchCandidates": [
@@ -5705,6 +5706,23 @@
           "matched": "warns of"
         }
       ]
+    },
+    {
+      "headline": "Mexico will make 'a strong show of security' ahead of World Cup, expert says",
+      "url": "https://www.france24.com/en/mexico-will-make-a-strong-show-of-security-ahead-of-world-cup-expert-says",
+      "source": "France24",
+      "sourceId": "france24",
+      "category": "wire",
+      "priority": "secondary",
+      "date": "Wed, 25 Feb 2026 20:31:33 GMT",
+      "description": "",
+      "watchCandidate": true,
+      "watchSignals": [
+        {
+          "category": "temporal",
+          "matched": "ahead of"
+        }
+      ]
     }
   ],
   "screenshots": [
@@ -5721,11 +5739,11 @@
         "Trump’s portrayal of ‘golden age’ is out of sync with how Americans see economy",
         "Surgeon general nominee faces sharp questions about vaccines, birth control and qualifications",
         "Trump’s pick to lead new Justice Department unit scrutinized as president declares ‘war on fraud’",
+        "Arizona governor’s race will test MAGA future for Republican Party",
         "FBI searches Los Angeles school district headquarters and the superintendent’s home",
-        "NASA’s Mike Fincke identifies himself as the ailing astronaut who prompted space station evacuation",
-        "Supreme Court rules against private prison firm facing forced-work suit from immigration detainees",
-        "Are expensive shampoos worth it? Here’s what the experts have to say",
-        "3 scientists were charged in worm smuggling scheme. Lawyers say China helped get the case dismissed"
+        "Cuba says it killed 4 people aboard Florida-registered speedboat that opened fire on soldiers",
+        "Live updates: Iran pushes back against Trump ahead of Geneva talks",
+        "NASA’s Mike Fincke identifies himself as the ailing astronaut who prompted space station evacuation"
       ]
     },
     {
@@ -5747,12 +5765,12 @@
       "topHeadlines": [
         "'Fear is everywhere': BBC reports from Mexican city turned into war zone by drug cartel feud",
         "Trump keeps world waiting on his plans for Iran",
-        "Watch: Moment a sinkhole in Omaha traps cars and drivers",
+        "Six months after Australian police officers killed, will conspiracy theorist who ran into bush ever be found?",
         "Trump's theatrical State of the Union address offers little hint of any change in course",
-        "Four shot dead on US-registered speedboat by border guard, Cuba says",
+        "Four shot dead on US-registered speedboat by border guards, Cuba says",
         "Bill Gates 'took responsibility' over Epstein ties in staff meeting, foundation says",
         "Spain declassifies files on 1981 attempted coup in effort to dispel conspiracy theories",
-        "Six months after Australian police officers killed, will conspiracy theorist who ran into bush ever be found?",
+        "Watch: Moment a sinkhole in Omaha traps cars and drivers",
         "Martin Short's daughter Katherine dies at 42",
         "Sperm swim more quickly in summer, study finds"
       ]
@@ -5774,16 +5792,16 @@
       "category": "priority_signal",
       "priority": "primary",
       "topHeadlines": [
-        "Support the Guardian",
+        "The free press is under threat",
         "Reality bites Why the wildest 2000s TV shows are haunting us now",
         "Ted Widmer Trump's very long address ran out of steam",
         "A Hollywood ‘heir’ He claimed abuse. How did he end up in prison?",
         "Emma Brockes How did Epstein ensnare so many rich men?",
         "The ideas interview Stewart Brand on big tech and the next 10,000 years",
         "My best shot Two skinheads counting takings from a neo-Nazi gig",
+        "Cuba Cuba says border guards killed four gunmen on US-registered speedboat",
         "Iran US and Iran nuclear talks at critical stage amid threat of Trump tearing up terms of success",
-        "IranMembers of Iran’s elite accused of hypocrisy over children’s lives in west",
-        "Cuba Cuba says border guards killed four gunmen on US-registered speedboat"
+        "IranMembers of Iran’s elite accused of hypocrisy over children’s lives in west"
       ]
     },
     {
