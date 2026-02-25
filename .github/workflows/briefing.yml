@@ -32,6 +32,7 @@ jobs:
 
       - name: Scrape news sources
         run: node generate-briefing.js
+        timeout-minutes: 5
 
       - name: Write briefing
         env:

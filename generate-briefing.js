@@ -177,6 +177,9 @@ function isGoogleNewsUrl(url) {
  */
 async function resolveGoogleNewsUrls(urls) {
   const BATCH_SIZE = 5;
+  // Hard cap: don't spend more than 3 minutes total on URL resolution.
+  // If we hit it, return what we have — some resolved is better than none.
+  const TOTAL_TIMEOUT_MS = 180000;
   const resolved = new Map();
 
   if (urls.length === 0) return resolved;
@@ -188,17 +191,24 @@ async function resolveGoogleNewsUrls(urls) {
   }
 
   console.log(`\nResolving ${urls.length} Google News URLs...`);
+  const startTime = Date.now();
 
   // Process in batches to avoid overwhelming the browser
   for (let i = 0; i < urls.length; i += BATCH_SIZE) {
+    // Bail if we've exceeded the total timeout
+    if (Date.now() - startTime > TOTAL_TIMEOUT_MS) {
+      console.log(`  ⚠ Hit ${TOTAL_TIMEOUT_MS / 1000}s timeout — stopping with ${resolved.size} resolved`);
+      break;
+    }
+
     const batch = urls.slice(i, i + BATCH_SIZE);
     const results = await Promise.all(batch.map(async (gnUrl) => {
       let page;
       try {
         page = await b.newPage();
-        await page.goto(gnUrl, { waitUntil: 'domcontentloaded', timeout: 15000 });
-        // Wait for JS redirect to complete
-        await page.waitForTimeout(3000);
+        await page.goto(gnUrl, { waitUntil: 'domcontentloaded', timeout: 10000 });
+        // Wait for JS redirect — 2s is enough for most redirects
+        await page.waitForTimeout(2000);
         const finalUrl = page.url();
         // Only count as resolved if we actually left Google News
         if (!finalUrl.includes('news.google.com')) {
