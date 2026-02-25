@@ -2,44 +2,44 @@ Good morning, Russell! Here's what happened while you were sleeping.
 
 **Top Stories**
 
-- Ukraine [marks four](https://news.google.com/rss/articles/CBMinAFBVV85cUxNQUhqeEI5MGw3c1FQUmZOUEpzQWd5RXZpNF9MbWwxejFZd2ptLWpBalp1SUJKRTFBX0NFMEladzR0QnFvUlluMVNtNTVFM01TTG1mLXM1c2ZlYlc4a1lZcXVBOGNsZTkyUzRuN2d3dUlrM1Q4alczYnZVY0M0aWJBOXNNSFl5MjE3RmhEVC0yMEVacnhXdmhwdzdzdmY?oc=5) years since Russia's full-scale invasion as Zelenskyy declares Putin has "not broken" Ukrainians and [invites Trump](https://www.theguardian.com/international) to visit the country.
+- Iran [pushed back](https://apnews.com/article/trump-state-union-foreign-policy-iran) against Trump ahead of Geneva talks as the largest deployment of US warships and aircraft in decades heads to the Middle East.
 
-- Russian [soldiers tell](https://www.bbc.com/news) the BBC they witnessed fellow troops executed on commanders' orders for refusing to fight, revealing brutal internal discipline within Moscow's military ranks.
+- Trump used his [longest-ever State](https://apnews.com/article/trump-state-union-speech-domestic-foreign-policy) of the Union to claim America is "winning so much" while making false claims about health care in Greenland and promising to send a hospital ship there.
 
-- Mexican forces [killed](https://www.nytimes.com/2026/02/23/world/americas/el-mencho-killed-mexico-cartel.html) drug lord "El Mencho," the leader of the Jalisco New Generation Cartel, according to the New York Times. The death deals a major blow to one of Mexico's most powerful criminal organizations.
+- Japan will [deploy missiles](https://www.bbc.com/news/world-asia-68421789) on an island near Taiwan by 2031, according to the BBC, in a move that could heighten regional tensions.
 
-- A US ambassador [sparked outrage](https://news.google.com/rss/articles/CBMirwFBVV85cUxQRkZIYVlvbTl5aGpPTjBKRmRwdkM3Z0RxcEY2ZUlRa041My1TcnhON0lyMGhJSjYtOVpuNWJEVEVMOEdrQmtnQjQ3TF9raDJOZnZfVnhPajB4bmY0Rms1SFpfUi1PWXIzQldYT2kzN3k3a3ZZWjRLb0RxZ254VnJBcGhZVnZBMmNNSGh2LVJ6ak9qRVJDS2twaDdBWGhnQjVmX1lROTgxMDREc3ozbHdJ?oc=5) by claiming Israel has a right to much of the Middle East, per AP reporting.
+- Nicolas Maduro [overestimated his](https://www.nytimes.com/2026/02/25/world/americas/maduro-venezuela-us-capture-trump.html) strength and misread his exchange with Trump in the decisive weeks before his capture by US forces, the New York Times reports.
 
-- Rob Jetten becomes the Netherlands' [youngest ever](https://www.bbc.com/news/articles/clygj3421pqo?at_medium=RSS&at_campaign=rss) prime minister at age 38 after being sworn in following his narrow October election victory.
+- Mexican cartel violence [fuels doubts](https://apnews.com/article/mexico-cartels-world-cup-fifa-security-concerns) about FIFA World Cup games in Mexico after the death of Jalisco New Generation Cartel leader El Mencho sparked territorial battles.
 
-- China [imposed restrictions](https://www.nytimes.com/2026/02/24/world/asia/china-japan-export-ban.html) on 20 Japanese defense-related entities, escalating its months-long trade dispute with Tokyo.
+- Warren Buffett's company [invested in](https://apnews.com/article/berkshire-hathaway-new-york-times-buffett-investment) The New York Times six years after he sold all his newspapers, marking a return to media investments.
 
 **Conflicts & Diplomacy**
 
-- EU support for Ukraine [faces delays](https://www.nytimes.com/2026/02/23/world/europe/ukraine-war-russia-eu-hungary.html) as Hungary threatens to block both the latest Russia sanctions package and a $106 billion aid package to Kyiv.
+- A Ukrainian negotiator will [meet US](https://www.france24.com/en/europe/20260225-live-ukraine-us-russia-talks-zelensky) team ahead of fresh Russia talks, President Zelensky announced, per France24.
 
-- An explosion in Moscow [killed](https://www.theguardian.com/international) a Russian police officer after an attacker detonated a device, according to officials cited by the Guardian.
+- Ukraine battlefield [deaths could](https://www.nytimes.com/2026/02/24/world/europe/ukraine-war-deaths.html) reach 500,000 in the fifth year of war, with Russia losing as many as 325,000 troops according to some estimates.
 
-- France [summoned](https://www.nytimes.com/2026/02/23/world/europe/france-us-ambassador-kushner-activist-killing.html) US Ambassador Charles Kushner after the State Department cited "violent radical leftism" in the beating death of activist Quentin Deranque, 23.
+- Xi Jinping has [purged](https://www.nytimes.com/2026/02/24/world/asia/china-military-purges-xi.html) China's military deeply, with around 100 senior officers sidelined or vanished since 2022, raising questions about army capabilities.
 
-- Iranian officials view [capitulating](https://www.nytimes.com/2026/02/23/world/middleeast/iran-us-nuclear-talks-war.html) to US demands on uranium enrichment and missiles as riskier to regime survival than going to war, analysts tell the New York Times.
+- Germany's Chancellor Friedrich Merz [heads to](https://www.nytimes.com/2026/02/24/world/europe/merz-germany-china-trip-beijing-xi.html) China to walk a tightrope between Xi and Trump as tensions strain Europe-Washington relations.
 
 **Business & Markets**
 
-- World shares [traded mixed](https://news.google.com/rss/articles/CBMikgFBVV85cUxPRnUxUDJfWm5UQ0puWHZsTHpjazliX1NpNkJNRTVBY2VqS3ZwX2UtRk16cndUUWR3ZUpVWExja3lWQWhXRTJ2Q3lfU2EwU2d4TzZsTS1VWDdqSFBlbkxDSlBnMF9EU3NobnRLVTdDaTZKUXM2anBUR2NCQmR6OFNFVGNUYWxpbnliZ0dqY1Q3STJ4QQ?oc=5) after heavy selling hit potential AI losers on Wall Street, AP reports.
+- Trump's tariff ruling [prompted countermoves](https://apnews.com/article/trump-tariffs-business-trade-uncertainty) creating a murky outlook for businesses navigating new trade policies.
 
-- Fed minutes show many officials [need](https://news.google.com/rss/articles/CBMijAFBVV85cUxQd0VxeWJleWpXTHB4Nlc1Nkt5OGNhVm8yUEhpWWFtMW1NRWdkT2hPTUJsSDRqeC03ejhBVTlCVW5EdmN6LUd2SXJ3S0JQdXJDb1lkd3p4U0QtX1RLS0o5YnljYzFJQ2VuWF9Ed1RHd0JyZnFBeG04Wl9QRjJPcWNKYU5JWFpmbkxpRGFydA?oc=5) lower inflation before supporting rate cuts, according to AP.
-
-- Hong Kong [protests](https://news.google.com/rss/articles/CBMioAFBVV85cUxPcWZiUFBiYVg4aVFHbkQxQlNqbmlvbjAtb245TmJVZHJvTzk0Z0pCUXJNUVU5dVV6d3JJdTBUTVo4dzJYZnZKeGpRWHJOMVpoWUVKQjFobzhnMlJnSGNxXzViSzVPRTBLZVJiUFotNGJvSDlRRlM3cVZYQmtHdlFicDk5ZFNwT3dUc29ZQlM1aksyeTFBUU5vaEhFNlh6MDIt?oc=5) after Panama takes control of two key Panama Canal ports.
+- Russia [remade its](https://www.nytimes.com/2026/02/24/world/europe/russia-ukraine-war-future.html) economy for war but at huge cost, with about half the federal budget now going toward the Ukraine fight.
 
 **Also Notable**
 
-- A Cuban [activist's visit](https://news.google.com/rss/articles/CBMilwFBVV85cUxOWVJFbEJueUdRd2JXM3NaLXJERDFoQXFydjdKcHZrWjNqNXloZHdkQVBEY0JMTU9aNWRwUWUzYjlrVTlzcFdBd3B2SjR3TDk3enBHQ2gxQWliWjU5R3Bjd3NadDNYMVpScmFmYURUNzVZMUw1S1FLc3UwY3k3T19tdXVST19ud3NGQ0dWdm9GUERQNnpkbktN?oc=5) to Mexico sparked controversy and tests President Sheinbaum's support for Cuba, AP reports.
+- The Louvre director [resigned months](https://www.nytimes.com/2026/02/24/world/europe/louvre-director-resigns-heist.html) after crown jewels were stolen in a heist that capped a tenure marred by strikes, leaks, and security lapses.
 
-- Two-time WNBA champion Kara Braxton [died](https://news.google.com/rss/articles/CBMilgFBVV85cUxNWjhrRXNGaUExTHdSeUVmRm1lTmNuaVlqczFKSzMtY3lRN0JpNU82UlU2QThMWEQxZWJVbFZtSXY3QTdoTTBLQ3NkY3F1alFCQXRqYmU0RjRselREVFV6a1ZuYVFSSHkwaXFfYzhCMUhTbVJsZDl1TTUzNlEwZ3hVQWs0U1UyOFFwbE5QakwySG8ta3JWSUE?oc=5) at 43 after being in a car crash.
+- Emperor penguins [moult to](https://www.bbc.com/news/science-environment-68421567) survive but scientists fear the process may now be killing them as climate change disrupts their cycles.
 
 **What to Watch**
 
-- Trump [will deliver](https://news.google.com/rss/articles/CBMinAFBVV85cUxNQUhqeEI5MGw3c1FQUmZOUEpzQWd5RXZpNF9MbWwxejFZd2ptLWpBalp1SUJKRTFBX0NFMEladzR0QnFvUlluMVNtNTVFM01TTG1mLXM1c2ZlYlc4a1lZcXVBOGNsZTkyUzRuN2d3dUlrM1Q4alczYnZVY0M0aWJBOXNNSFl5MjE3RmhEVC0yMEVacnhXdmhwdzdzdmY?oc=5) his State of the Union address to a changed Congress he has largely sidelined.
+- Pentagon chief Hegseth [threatens to](https://www.ft.com/content/0c6b63b6-2524-4ba7-9f7a-e7183b29386f) cut Anthropic from Pentagon supply chain after the AI company tried to limit military use of its technology.
 
-- Fighting [continues](https://news.google.com/rss/articles/CBMipwFBVV85cUxNLVNiN0R0bl
+- Norway's new [10,000-antenna radar](https://www.nytimes.com/2026/02/24/science/norway-auroras-northern-lights-observatory.html) is expected to begin the next phase of northern lights exploration this summer.
+
+- Fresh Russia-Ukraine talks are expected following the Ukrainian negotiator's meeting with the US team, according to the Guardian.
