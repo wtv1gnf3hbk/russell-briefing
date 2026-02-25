@@ -799,6 +799,10 @@ async function main() {
   }
 
   console.log('✅ SUCCESS');
+
+  // Force exit — Playwright's browser process can linger and prevent
+  // Node from exiting cleanly, causing CI timeouts.
+  process.exit(0);
 }
 
 main().catch(err => {
