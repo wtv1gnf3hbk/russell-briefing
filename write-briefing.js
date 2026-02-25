@@ -417,6 +417,98 @@ DO NOT:
 - Rewrite sentences that are already correct
 - Add commentary or notes — return ONLY the corrected briefing markdown`;
 
+// ============================================
+// LINK DIVERSITY ENFORCEMENT
+// Code gate for Rule 16. Counts link domains in the Writer output.
+// If any single domain exceeds 30% of all links, does ONE retry
+// with explicit feedback telling the Writer which domains to diversify.
+// ============================================
+
+function analyzeLinkDiversity(markdown) {
+  // Extract all markdown links: [text](url)
+  const linkRegex = /\[([^\]]+)\]\((https?:\/\/[^)]+)\)/g;
+  const domains = {};
+  let total = 0;
+  let match;
+
+  while ((match = linkRegex.exec(markdown)) !== null) {
+    try {
+      const hostname = new URL(match[2]).hostname.replace(/^www\./, '');
+      domains[hostname] = (domains[hostname] || 0) + 1;
+      total++;
+    } catch (e) { /* skip malformed URLs */ }
+  }
+
+  return { domains, total };
+}
+
+async function enforceLinkDiversity(draft, systemPrompt, userPrompt) {
+  const { domains, total } = analyzeLinkDiversity(draft);
+  const MAX_SHARE = 0.30;
+
+  if (total === 0) return draft; // no links to check
+
+  // Find domains that exceed 30%
+  const violations = [];
+  for (const [domain, count] of Object.entries(domains)) {
+    const share = count / total;
+    if (share > MAX_SHARE) {
+      violations.push({ domain, count, share: (share * 100).toFixed(0) });
+    }
+  }
+
+  // Log the distribution either way
+  console.log(`\nLink diversity check (${total} links):`);
+  const sorted = Object.entries(domains).sort((a, b) => b[1] - a[1]);
+  for (const [domain, count] of sorted) {
+    const pct = ((count / total) * 100).toFixed(0);
+    const flag = (count / total) > MAX_SHARE ? ' ⚠ OVER 30%' : '';
+    console.log(`  ${domain}: ${count}/${total} (${pct}%)${flag}`);
+  }
+
+  if (violations.length === 0) {
+    console.log('  ✓ Diversity check passed');
+    return draft;
+  }
+
+  // Build targeted retry prompt
+  const violationDesc = violations
+    .map(v => `${v.domain} has ${v.count}/${total} links (${v.share}%)`)
+    .join(', ');
+  const otherSources = ['theguardian.com', 'wsj.com', 'ft.com', 'aljazeera.com', 'france24.com', 'reuters.com']
+    .filter(d => !violations.some(v => v.domain.includes(d.replace('.com', ''))))
+    .join(', ');
+
+  console.log(`\n  ⚠ Diversity violation: ${violationDesc}`);
+  console.log('  Retrying with diversity feedback...');
+
+  const diversityFeedback = `\n\nIMPORTANT CORRECTION: Your previous draft violated Rule 16 (link diversity). ${violationDesc}. No single domain should exceed 30% of links. Actively replace some of those links with coverage from ${otherSources}. The story data includes URLs from ALL of these sources — use them.`;
+
+  try {
+    const retryDraft = await callClaude(userPrompt + diversityFeedback, systemPrompt);
+
+    // Check if retry actually improved things
+    const retry = analyzeLinkDiversity(retryDraft);
+    const stillBad = Object.entries(retry.domains).some(([_, c]) => c / retry.total > MAX_SHARE);
+
+    if (stillBad) {
+      console.log('  ⚠ Retry still has diversity issues — using retry anyway (closer to target)');
+    } else {
+      console.log('  ✓ Retry passed diversity check');
+    }
+
+    // Log retry distribution
+    for (const [domain, count] of Object.entries(retry.domains).sort((a, b) => b[1] - a[1])) {
+      console.log(`  ${domain}: ${count}/${retry.total} (${((count / retry.total) * 100).toFixed(0)}%)`);
+    }
+
+    return retryDraft;
+  } catch (e) {
+    console.warn('  Diversity retry failed — using original draft:', e.message);
+    return draft;
+  }
+}
+
 function callClaudeEditor(draft) {
   const userPrompt = `Copy-edit this briefing. Return the full corrected markdown — nothing else.\n\n${draft}`;
   // Reuses the same callClaude function and model (Sonnet).
@@ -458,6 +550,11 @@ async function main() {
     console.error('Writer failed:', e.message);
     process.exit(1);
   }
+
+  // ---- Step 1b: Link diversity check ----
+  // Code gate for Rule 16. If any single domain > 30% of links,
+  // retry once with explicit feedback. Prose rules alone don't work.
+  briefingText = await enforceLinkDiversity(briefingText, systemPrompt, userPrompt);
 
   // ---- Step 2: Editor pass (Haiku) ----
   // Catches grammar bugs the Writer misses: missing articles,
