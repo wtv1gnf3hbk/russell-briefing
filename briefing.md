@@ -10,7 +10,7 @@ Good morning, Russell! Here's what happened while you were sleeping.
 
 - Cuba [vowed to](https://www.theguardian.com/world/2026/feb/26/what-to-know-cuba-boat-attack) fight "terrorist aggression" after a deadly coastal assault by exiles on a US-registered speedboat, Reuters reports.
 
-- A Kenyan man was [charged with](https://www.bbc.com/news/articles/cx2g79kpe2po?at_medium=RSS&amp;at_campaign=rss) luring young men to fight for Russia in Ukraine, with a total of 1,000 Kenyans reportedly recruited for the war.
+- A Kenyan man was [charged with](https://www.bbc.com/news/articles/cx2g79kpe2po?at_medium=RSS&amp;at_campaign=rss) luring 22 young men to fight for Russia in Ukraine.
 
 - World Economic Forum head Børge Brende [stepped down](https://www.theguardian.com/world/2026/feb/26/what-to-know-cuba-boat-attack) following pressure over his links to Jeffrey Epstein, the Guardian notes.
 
