@@ -1,47 +1,47 @@
 Good morning, Russell! Here's what happened while you were sleeping.
 
-## **Top Stories**
+**Top Stories**
 
-- US and Iranian negotiators [begin talks](https://www.bbc.com/news/articles/cvg1vd95nl9o?at_medium=RSS&at_campaign=rss) in Geneva seen as crucial to preventing conflict, with Secretary of State Marco Rubio warning that Tehran's reluctance to discuss ballistic missiles is a "[big problem](https://www.ft.com/content/c70a2349-124f-405a-89cf-255754cbe52d)."
+- Afghanistan launched [retaliatory strikes](https://www.bbc.com/news/articles/c0j5qx9n887o?at_medium=RSS&amp;at_campaign=rss) against Pakistan after earlier airstrikes, with the Taliban claiming casualties on both sides as [border tensions](https://apnews.com/article/afghanistan-pakistan-airstrikes-513791ef82fb8c2e4acce08c2b80c41a) escalate between the neighboring countries.
 
-- Iranian military capabilities would be [vastly outgunned](https://apnews.com/article/iran-us-nuclear-war-options-what-to-know-93db52cd853724dfc5f52d0185f27c18) in any war with the US but could still inflict considerable pain, according to military analysts.
+- US-Iran nuclear negotiations in Geneva concluded with claims of ["significant progress"](https://www.bbc.com/news/articles/cvg1vd95nl9o?at_medium=RSS&amp;at_campaign=rss) from mediators, though the Financial Times reports [both sides](https://www.ft.com/content/fb27e869-54de-4dea-8d4a-da6d73a5421b) are set to meet again with war still looming.
 
-- The Trump administration deploys the [largest US](https://apnews.com/article/iran-us-war-geneva-talks-nuclear-c1eb17f570b059f34071937c3f310fb6) naval and air force presence to the Middle East in decades as diplomatic talks continue.
+- Cuba vowed to fight ["terrorist aggression"](https://www.theguardian.com/world/2026/feb/26/what-to-know-cuba-boat-attack) after a deadly coastal assault by exiles aboard a US-registered speedboat, escalating tensions with Washington.
 
-- A Hong Kong court [quashed the fraud](https://apnews.com/article/jimmy-lai-fraud-appeal-hong-kong-7569a4e9d12d77fbc470db73ca9c38bb) conviction against former media mogul Jimmy Lai, dealing a blow to authorities prosecuting the pro-democracy figure.
+- Denmark's Prime Minister Mette Frederiksen [called snap](https://www.aljazeera.com/news/2026/2/26/hillary-clinton-calls-for-trump-to-testify-at-us-house-epstein-hearing?traffic_source=rss) parliamentary elections for March 24, with experts saying she is capitalizing on her success standing up to Trump over Greenland.
 
-- Kenyan police [arrested a](https://apnews.com/article/kenya-russia-recruits-fighting-ukraine-war-f373f0f715a259f58ce8acfae08e1db3) man accused of recruiting fighters for Russia's war in Ukraine, Reuters reports.
+- At least [10 FBI](https://www.bbc.com/news/articles/c4gq7vdld80o?at_medium=RSS&amp;at_campaign=rss) agents who worked on Trump's classified documents investigation were fired, according to the BBC.
 
-- Cuba says four people killed in a speedboat shooting were attempting to [infiltrate the](https://www.aljazeera.com/video/newsfeed/2026/2/26/cuba-us-react-to-deadly-shootout-between-agents-and-florida-tagged-boat?traffic_source=rss) country after a gunfight with border agents near the island's coast.
+- Hillary Clinton accused Republicans of ["political theatre"](https://www.ft.com/content/15994c57-25fb-4267-865c-e30711a24568) during closed-door congressional testimony about Jeffrey Epstein connections.
 
-## **Conflicts & Diplomacy**
+**Conflicts & Diplomacy**
 
-- The US and Ukraine are [set to](https://www.reuters.com/world/europe/us-ukraine-discuss-post-war-reconstruction-geneva-talks-2026-02-26/) discuss post-war reconstruction at separate Geneva talks, per Reuters.
+- Kenya charged a man with [human trafficking](https://www.bbc.com/news/articles/cx2g79kpe2po?at_medium=RSS&amp;at_campaign=rss) for allegedly recruiting 1,000 Kenyans to fight for Russia in Ukraine, per the BBC.
 
-- Ukraine and Russia [exchanged bodies](https://www.france24.com/en/europe/20260226-live-russia-ukraine-missiles-drones-us-ukraine-talks) of slain soldiers as diplomatic efforts intensify ahead of US-Ukraine discussions.
+- Russian forces launched [major strikes](https://www.nytimes.com/2026/02/26/world/europe/russia-attack-ukraine-talks.html) ahead of potential US-Ukraine peace talks in Geneva, with Ukrainian officials hoping for trilateral negotiations next week.
 
-- Ghana's foreign minister [urged Ukraine](https://www.france24.com/en/ghana-fm-urges-ukraine-to-release-two-ghanaian-pows) to release two Ghanaian prisoners of war currently held by Ukrainian forces.
+- An Israeli intelligence agent was [charged with](https://www.nytimes.com/2026/02/26/world/middleeast/israeli-agent-smuggling-gaza.html) smuggling goods into Gaza, adding to a growing list of security personnel accused of exploiting their positions for profit.
 
-- Zimbabwe [pulled out](https://www.france24.com/en/zimbabwe-pulls-out-of-us-health-aid-talks) of health aid negotiations with the United States, according to France24.
+**Business & Markets**
 
-## **Business & Markets**
+- Tech stocks slid with the Nasdaq [falling 1.9%](https://www.ft.com/content/62e713ad-ffdc-4898-8492-481815d1aff0) as AI spending fears returned despite Nvidia's better-than-expected results, the Financial Times reports.
 
-- European shares hit [record highs](https://www.reuters.com/markets/europe/european-shares-subdued-mixed-earnings-tech-focus-after-nvidia-beat-2026-02-26/) following strong earnings and technology sector gains after Nvidia beat expectations, Reuters reports.
+- Las Vegas casino group Caesars is [weighing takeover](https://www.ft.com/content/0b1db35d-62ba-427e-a1c8-3dbbef969725) interest after shares fell to a five-year low following its 2020 absorption into a smaller rival.
 
-- Asian markets [mostly rose](https://apnews.com/article/stocks-markets-nvidia-trump-oil-4fc4ccf75ee85f53585f08ddd93b2fc1) after Nvidia's earnings exceeded forecasts, boosting investor confidence in AI-related stocks.
+- A US regulator faces [scrutiny over](https://www.ft.com/content/d43bee0f-d187-4d3a-814a-0a160876fbc8) a bank license sought by Trump's crypto venture, with UAE investment intensifying concerns about favorable treatment and national security.
 
-- Greenland lawmakers are pushing to [pass foreign](https://www.reuters.com/world/europe/wary-us-investors-greenland-lawmakers-push-pass-foreign-investment-screening-law-2026-02-26/) investment screening legislation, wary of potential US investors following Trump's renewed interest in the territory.
+**Also Notable**
 
-## **Also Notable**
+- A genetic analysis revealed [new details](https://apnews.com/article/human-neanderthal-mating-dna-chromosome-5bedad6998e5b397f28d5a0eaceb2a8b) about ancient couplings between humans and Neanderthals, according to AP, with most people today carrying fragments of Neanderthal DNA.
 
-- The UN [approved the first](https://www.aljazeera.com/news/2026/2/26/un-approves-first-carbon-credits-under-paris-agreement-market-mechanism?traffic_source=rss) carbon credits under the Paris Agreement's market mechanism, enabling cross-border trade to support global emissions reduction.
+- Germany's domestic intelligence agency must [temporarily halt](https://www.nytimes.com/2026/02/26/world/europe/germany-ruling-afd-extremist.html) labeling the far-right AfD party as extremist following a court ruling, though surveillance can continue.
 
-- Senegal's Prime Minister Ousmane Sonko [submitted tougher](https://www.france24.com/en/senegalese-pm-ousmane-sonko-submits-tougher-anti-lgbt-law) anti-LGBT legislation to parliament, the Guardian notes.
+**What to Watch**
 
-## **What to Watch**
+- Ukrainian officials hope trilateral [peace negotiations](https://www.nytimes.com/2026/02/26/world/europe/russia-attack-ukraine-talks.html) with the US and Russia could take place next week in Geneva following today's major Russian strikes.
 
-- A French court is [due to](https://www.france24.com/en/mahdieh-esfandiari-on-trial-in-paris-french-court-due-to-hand-down-verdict) hand down its verdict today in the trial of Iranian national Mahdieh Esfandiari.
+- Denmark's snap election on March 24 will test whether Frederiksen can [capitalize on](https://www.nytimes.com/2026/02/26/world/europe/denmark-election-frederiksen-greenland.html) her strong stance against Trump's Greenland annexation threats.
 
-- US "suitcase murderer" Heather Mack is [scheduled to](https://www.bbc.com/news/articles/cdxg2r11g35o?at_medium=RSS&at_campaign=rss) appear in federal court Thursday after being deported from Bali following 11 years in prison.
+- The Pentagon has issued an ["ultimatum"](https://apnews.com/article/anthropic-military-ai-hegseth-department-of-defense-f05674f7195051ab843e5087d12c8cf8) to AI company Anthropic over military contracts under the Defense Protection Act, per AP.
 
-- G20 finance ministers are [set to](https://www.reuters.com/world/us/us-host-g20-finance-meeting-north-carolina-august-september-treasury-dept-says-2026-02-19/) meet in North Carolina this August and September, marking the first time the US hosts the gathering.
+- Hillary Clinton has called for Trump to [testify at](https://www.aljazeera.com/news/2026/2/26/hillary-clinton-calls-for-trump-to-testify-at-us-house-epstein-hearing?traffic_source=rss) future House Epstein hearings after accusing Republicans of protecting political allies in their probe.
