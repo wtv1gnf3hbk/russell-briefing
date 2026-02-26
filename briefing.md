@@ -2,38 +2,46 @@ Good morning, Russell! Here's what happened while you were sleeping.
 
 ## **Top Stories**
 
-- Cuban border guards [killed four](https://www.theguardian.com/world/2026/feb/25/cuba-says-border-guards-killed-four-gunmen-on-us-registered-speedboat) people and wounded six others aboard a Florida-registered speedboat that opened fire on soldiers near the island's northern coast, according to the Guardian.
+- US and Iranian negotiators [begin talks](https://www.bbc.com/news/articles/cvg1vd95nl9o?at_medium=RSS&at_campaign=rss) in Geneva seen as crucial to preventing conflict, with Secretary of State Marco Rubio warning that Tehran's reluctance to discuss ballistic missiles is a "[big problem](https://www.ft.com/content/c70a2349-124f-405a-89cf-255754cbe52d)."
 
-- Brazil's Supreme Court [convicted four](https://www.bbc.com/news/articles/c4g058v3d35o?at_medium=RSS&amp;at_campaign=rss) men — including two politician brothers and two former police officers — for ordering the 2018 murder of Rio de Janeiro city councilwoman Marielle Franco.
+- Iranian military capabilities would be [vastly outgunned](https://apnews.com/article/iran-us-nuclear-war-options-what-to-know-93db52cd853724dfc5f52d0185f27c18) in any war with the US but could still inflict considerable pain, according to military analysts.
 
-- Nvidia [rallied on](https://www.ft.com/content/f4cda766-5650-4a97-a84f-24d3cfbeddd6) robust earnings powered by an AI investment boom, beating Wall Street expectations as it surpassed $200 billion in annual revenue for the first time.
+- The Trump administration deploys the [largest US](https://apnews.com/article/iran-us-war-geneva-talks-nuclear-c1eb17f570b059f34071937c3f310fb6) naval and air force presence to the Middle East in decades as diplomatic talks continue.
 
-- Spain [declassified files](https://www.bbc.com/news/articles/ce8w42e152xo?at_medium=RSS&amp;at_campaign=rss) on the 1981 attempted coup in an effort to dispel conspiracy theories. The release came on the same day as the death of coup leader Antonio Tejero Molina.
+- A Hong Kong court [quashed the fraud](https://apnews.com/article/jimmy-lai-fraud-appeal-hong-kong-7569a4e9d12d77fbc470db73ca9c38bb) conviction against former media mogul Jimmy Lai, dealing a blow to authorities prosecuting the pro-democracy figure.
 
-- German Chancellor Friedrich Merz [warned of](https://www.bbc.com/news/articles/c5yjpke8072o?at_medium=RSS&amp;at_campaign=rss) trade imbalances with China during his first Beijing trip, with business groups urging him to send clear signals on competition and export controls.
+- Kenyan police [arrested a](https://apnews.com/article/kenya-russia-recruits-fighting-ukraine-war-f373f0f715a259f58ce8acfae08e1db3) man accused of recruiting fighters for Russia's war in Ukraine, Reuters reports.
 
-- India's Prime Minister Narendra Modi [told the](https://www.aljazeera.com/news/2026/2/25/indias-modi-addresses-israeli-parliament-on-first-day-of-visit?traffic_source=rss) Israeli Knesset that "no cause justifies killing civilians" during his visit, while hailing the "vital" partnership between the two countries.
+- Cuba says four people killed in a speedboat shooting were attempting to [infiltrate the](https://www.aljazeera.com/video/newsfeed/2026/2/26/cuba-us-react-to-deadly-shootout-between-agents-and-florida-tagged-boat?traffic_source=rss) country after a gunfight with border agents near the island's coast.
 
-- Pope Francis [will visit](https://www.bbc.com/news/articles/cvg1vdgl3ymo?at_medium=RSS&amp;at_campaign=rss) four African countries in April, marking the first time a pope will travel to Algeria, whose population is mostly Muslim.
+## **Conflicts & Diplomacy**
+
+- The US and Ukraine are [set to](https://www.reuters.com/world/europe/us-ukraine-discuss-post-war-reconstruction-geneva-talks-2026-02-26/) discuss post-war reconstruction at separate Geneva talks, per Reuters.
+
+- Ukraine and Russia [exchanged bodies](https://www.france24.com/en/europe/20260226-live-russia-ukraine-missiles-drones-us-ukraine-talks) of slain soldiers as diplomatic efforts intensify ahead of US-Ukraine discussions.
+
+- Ghana's foreign minister [urged Ukraine](https://www.france24.com/en/ghana-fm-urges-ukraine-to-release-two-ghanaian-pows) to release two Ghanaian prisoners of war currently held by Ukrainian forces.
+
+- Zimbabwe [pulled out](https://www.france24.com/en/zimbabwe-pulls-out-of-us-health-aid-talks) of health aid negotiations with the United States, according to France24.
 
 ## **Business & Markets**
 
-- The CME Group [halted trading](https://www.ft.com/content/d3fe28d9-ec71-45fb-8574-de4922d04482) on its flagship metals market for more than an hour due to "technical" issues, marking the latest outage for the world's largest exchanges operator.
+- European shares hit [record highs](https://www.reuters.com/markets/europe/european-shares-subdued-mixed-earnings-tech-focus-after-nvidia-beat-2026-02-26/) following strong earnings and technology sector gains after Nvidia beat expectations, Reuters reports.
 
-- Salesforce [posted mixed](https://www.ft.com/content/b74b8227-d7cb-4976-ba95-a3a27b79cbdd) earnings results as the software group projected revenue could fall short of Wall Street expectations.
+- Asian markets [mostly rose](https://apnews.com/article/stocks-markets-nvidia-trump-oil-4fc4ccf75ee85f53585f08ddd93b2fc1) after Nvidia's earnings exceeded forecasts, boosting investor confidence in AI-related stocks.
 
-- Google [will test](https://www.reuters.com/world/google-test-changes-search-results-source-says-eu-fine-looms-2026-02-25/) changes to search results as a potential EU fine looms, according to Reuters sources.
+- Greenland lawmakers are pushing to [pass foreign](https://www.reuters.com/world/europe/wary-us-investors-greenland-lawmakers-push-pass-foreign-investment-screening-law-2026-02-26/) investment screening legislation, wary of potential US investors following Trump's renewed interest in the territory.
 
 ## **Also Notable**
 
-- Lawrence Summers [will step](https://www.ft.com/content/c3b1ff0a-9b31-4257-954b-ba6ef5d6669e) down from his Harvard teaching role, continuing his retreat from public commitments following revelations about his correspondence with Jeffrey Epstein.
+- The UN [approved the first](https://www.aljazeera.com/news/2026/2/26/un-approves-first-carbon-credits-under-paris-agreement-market-mechanism?traffic_source=rss) carbon credits under the Paris Agreement's market mechanism, enabling cross-border trade to support global emissions reduction.
 
-- The US Treasury [will allow](https://www.reuters.com/business/energy/us-allow-resale-venezuelan-oil-cuba-treasury-department-says-2026-02-25/) the resale of Venezuelan oil to Cuba, according to Reuters, marking a significant shift in sanctions policy.
+- Senegal's Prime Minister Ousmane Sonko [submitted tougher](https://www.france24.com/en/senegalese-pm-ousmane-sonko-submits-tougher-anti-lgbt-law) anti-LGBT legislation to parliament, the Guardian notes.
 
 ## **What to Watch**
 
-- Iceland [will hold](https://www.reuters.com/world/europe/iceland-hold-eu-referendum-over-coming-months-pm-says-2026-02-25/) an EU referendum "in the coming months," Prime Minister Katrín Jakobsdóttir announced, potentially reshaping the Nordic island's relationship with Europe.
+- A French court is [due to](https://www.france24.com/en/mahdieh-esfandiari-on-trial-in-paris-french-court-due-to-hand-down-verdict) hand down its verdict today in the trial of Iranian national Mahdieh Esfandiari.
 
-- The US [will host](https://www.reuters.com/world/us/us-host-g20-finance-meeting-north-carolina-august-september-treasury-dept-says-2026-02-19/) a G20 finance leaders meeting in Asheville, North Carolina, in August and September, per the Treasury Department.
+- US "suitcase murderer" Heather Mack is [scheduled to](https://www.bbc.com/news/articles/cdxg2r11g35o?at_medium=RSS&at_campaign=rss) appear in federal court Thursday after being deported from Bali following 11 years in prison.
 
-- Mexico [will make](https://www.france24.com/en/mexico-will-make-a-strong-show-of-security-ahead-of-world-cup-expert-says) "a strong show of security" ahead of the 2026 World Cup, according to France24, following recent cartel violence that has raised safety concerns.
+- G20 finance ministers are [set to](https://www.reuters.com/world/us/us-host-g20-finance-meeting-north-carolina-august-september-treasury-dept-says-2026-02-19/) meet in North Carolina this August and September, marking the first time the US hosts the gathering.
