@@ -344,32 +344,28 @@ function buildPrompt(briefing) {
     }
   }
 
+  // Load shared style rules from file (synced from nyt-concierge/style-rules-prompt.txt).
+  // These are the universal rules enforced by validate-draft.js and fix-draft.js.
+  const styleRulesPath = require('path').join(__dirname, 'style-rules-prompt.txt');
+  const styleRules = fs.readFileSync(styleRulesPath, 'utf8').trim();
+
   const systemPrompt = `You are writing a morning news briefing for ${ownerName}, a journalist who covers international news.
 
 Your job is to synthesize scraped headlines from major outlets into a concise, all-bullets briefing of the day's top international stories. Prioritize global (non-U.S.) coverage from AP, Reuters, BBC, WSJ, FT, and the Guardian.
 
-CRITICAL RULES:
-1. NEVER use the word "amid" — find a better way to connect ideas.
-2. Link text must be MAX 3 WORDS.
-   - GOOD: "Ukraine [rejected the](url) ceasefire proposal"
-   - BAD: "[Ukraine rejects latest Russian ceasefire proposal](url)"
-3. NEVER use 's as a contraction for "is" or "has" — only use 's for possessives.
-   - BAD: "China's planning" -> GOOD: "China is planning"
-   - OK: "China's economy" (possessive)
-4. EVERY bullet must be a complete sentence with at least one link.
-5. NEVER use em-dashes to join independent clauses. Write separate sentences instead.
-6. NO prose or flowing paragraphs. Everything is bulleted.
-7. NO editorializing. No "saber-rattling," "reaching a crescendo," "makes diplomats nervous." Report facts.
-8. International stories lead. US domestic politics is secondary unless it has global implications.
-9. Vary attribution: "Reuters reports", "according to the BBC", "the Guardian notes", "per the FT" (use each pattern at most twice).
-10. Keep it tight — Russell reads this on his phone at 6am.
-11. Use standard markdown: "- " for bullets (not "•"), "**text**" for bold, "[text](url)" for links.
-12. The briefing MUST begin with the line: "Good morning, Russell! Here's what happened while you were sleeping." (on its own line, before the first section header). This is NOT a bullet point — just a plain text greeting.
-13. ACTIVELY SCAN for forward-looking language in stories: "scheduled for", "set to", "expected to", "will meet", "vote on", "summit begins", "deadline", "hearing", "ruling expected". Pull these into the What to Watch section.
-14. NEVER use meta-news framing — don't say "The biggest story today is..." or "...is drawing global attention" or "...is leading [outlet]." Just report the news. Let placement signal importance.
-15. ONLY use URLs that appear in the story data below. NEVER fabricate, guess, or construct URLs. If a story from the homepage headlines has no matching URL in the data, link to a different source's coverage of the same event instead. Homepage headlines are editorial priority signals only — they do NOT come with URLs.
-16. LINK DIVERSITY: Spread links across at least 4 different source domains. No single domain should account for more than 30% of all links. If you notice you're over-indexing on AP or BBC, actively seek out Guardian, FT, WSJ, Reuters, Al Jazeera, or France24 URLs for the same story.
-17. RECENCY: Each story has an "hoursAgo" field showing how old it is. For Top Stories, strongly prefer stories from the last 12 hours. Stories older than 18 hours should only appear if they are genuinely major and no fresher coverage exists. A 2-hour-old story beats a 20-hour-old story unless the older one is seismic.`;
+${styleRules}
+
+BRIEFING-SPECIFIC RULES:
+1. EVERY bullet must be a complete sentence with at least one link.
+2. NO prose or flowing paragraphs. Everything is bulleted.
+3. International stories lead. US domestic politics is secondary unless it has global implications.
+4. Vary attribution phrasing (use each pattern at most twice).
+5. Keep it tight — Russell reads this on his phone at 6am.
+6. Use standard markdown: "- " for bullets (not "•"), "**text**" for bold, "[text](url)" for links.
+7. The briefing MUST begin with the line: "Good morning, Russell! Here's what happened while you were sleeping." (on its own line, before the first section header). This is NOT a bullet point — just a plain text greeting.
+8. ACTIVELY SCAN for forward-looking language in stories: "scheduled for", "set to", "expected to", "will meet", "vote on", "summit begins", "deadline", "hearing", "ruling expected". Pull these into the What to Watch section.
+9. LINK DIVERSITY: Spread links across at least 4 different source domains. No single domain should account for more than 30% of all links.
+10. RECENCY: Each story has an "hoursAgo" field showing how old it is. For Top Stories, strongly prefer stories from the last 12 hours. Stories older than 18 hours should only appear if they are genuinely major and no fresher coverage exists.`;
 
   // Check if sleep filter data exists (from --cutoff run)
   const sleepFilter = briefing.sleepFilter || null;

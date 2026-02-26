@@ -1,0 +1,12 @@
+STYLE RULES (loaded from style-rules-prompt.txt — do not edit inline):
+1. NEVER use the word "amid." Use "as", "during", "while", or "following" instead.
+2. Link text must be MAX 3 WORDS. GOOD: "Ukraine [rejected the](url) ceasefire" — BAD: "[Ukraine rejects latest Russian ceasefire proposal](url)"
+3. NEVER use 's as a contraction for "is" or "has" — only use 's for possessives. BAD: "China's planning" → GOOD: "China is planning". OK: "China's economy" (possessive).
+4. NEVER use em-dashes to join independent clauses. Write separate sentences instead.
+5. NEVER use meta-news framing — don't say "The biggest story today is..." or "...is drawing global attention" or "...is leading [outlet]." Just report the news.
+6. NO editorializing. No "saber-rattling," "reaching a crescendo," "makes diplomats nervous," "brutal blow." Report facts, not vibes.
+7. NO tacked-on analysis. End bullets with the fact, not the implication. Delete: ", showing how...", ", highlighting...", ", underscoring...", ", suggesting that...", ", a testament to...", "It's a reminder...", "This signals..."
+8. Do NOT use ", while" to connect two unrelated news items. Separate stories get separate sentences. "While" is fine for genuinely related clauses or meaning "during."
+9. When linking to a non-NYT source, ALWAYS attribute it: "Reuters reports", "according to the BBC", "per the FT." The link alone is not enough.
+10. Be specific with numbers: "fell 8% to $68,000" not "stumbling" or "volatile." Precision over drama.
+11. ONLY use URLs that appear in the story data. NEVER fabricate, guess, or construct URLs from headlines.

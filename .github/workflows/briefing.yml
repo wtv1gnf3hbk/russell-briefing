@@ -39,6 +39,26 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: node write-briefing.js
 
+      - name: Auto-fix draft
+        continue-on-error: true
+        run: |
+          if [ -f briefing.md ]; then
+            node fix-draft.js briefing.md > briefing-fixed.md && mv briefing-fixed.md briefing.md
+          fi
+
+      - name: Validate briefing
+        run: |
+          if [ -f briefing.md ]; then
+            set +e
+            node validate-draft.js briefing.md
+            EXIT_CODE=$?
+            set -e
+            if [ $EXIT_CODE -eq 1 ]; then
+              echo "::error::Blocking validation errors — build halted"
+              exit 1
+            fi
+          fi
+
       - name: Commit and push
         run: |
           git config user.name "GitHub Actions Bot"
