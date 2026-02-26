@@ -4,8 +4,8 @@
     "owner": "Russell Goldman",
     "timezone": "America/New_York",
     "description": "Daily international news briefing — all bullets, ready by 6am ET",
-    "generated": "2026-02-26T20:46:49.596Z",
-    "generatedTimestamp": 1772138809596
+    "generated": "2026-02-26T21:05:21.926Z",
+    "generatedTimestamp": 1772139921926
   },
   "stats": {
     "sourceCount": 19,
@@ -14,7 +14,7 @@
     "totalScreenshots": 6,
     "daybookStories": 45,
     "watchCandidateCount": 9,
-    "elapsed": "62.5s"
+    "elapsed": "62.4s"
   },
   "stories": {
     "all": [
@@ -140,6 +140,16 @@
         "description": ""
       },
       {
+        "headline": "Venezuela fuel station operators declare emergency on minimal earnings-document, sources - Reuters",
+        "url": "https://www.reuters.com/business/energy/venezuela-fuel-station-operators-declare-emergency-minimal-earnings-document-2026-02-26/",
+        "source": "Reuters",
+        "sourceId": "reuters_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Thu, 26 Feb 2026 17:44:24 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNc0ZLa2ppWTJmaW54aWZnNDdwczhmZzVUVU5CSUJQcnk5Tm04aE9hU3dELTdNcFpoY2JDd2VLOTlLSmVfcjJJR0loU1J0SU1scGpZbkRsOXlhekN1M21jZC1xdWlXcVhzX3J6amg"
+      },
+      {
         "headline": "Hillary Clinton tells congressional panel she has no information on Epstein - Reuters",
         "url": "https://www.reuters.com/world/us/hillary-clinton-faces-epstein-congressional-inquiry-2026-02-26/",
         "source": "Reuters",
@@ -207,6 +217,16 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNT284MHQ5ZHVGbkhyRXZES3RfaXBXTDFxZWw5OEMxeGdVN0hMUHFSWTAta1JsdmJNVnBPX29ob1dFR1hxMmo5d0ZWbkttZ3pzUXIxX3R5cF90M2ZJQjJOemNocUNkeHg3N1dVMzR"
       },
       {
+        "headline": "Netflix and Apple TV join forces on F1 content - Reuters",
+        "url": "https://www.reuters.com/business/media-telecom/netflix-apple-tv-join-forces-f1-content-2026-02-26/",
+        "source": "Reuters",
+        "sourceId": "reuters_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Thu, 26 Feb 2026 18:40:45 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNc1FwVkE3Z3REanZoUVVyaVc1X0Y5SzRDX3BkeGcxVXBBb2tQVWxqVHljeFB5UExqQ0JGQnBhb214eGI3VXV0X0kzZGJlX015aEFaTXBKTk94UjFwTzR4NEZfLU1kSmE3YnlBblV"
+      },
+      {
         "headline": "Eni can now receive oil from Venezuela as payment for gas, CEO says - Reuters",
         "url": "https://www.reuters.com/business/energy/eni-can-now-receive-oil-venezuela-payment-gas-ceo-says-2026-02-26/",
         "source": "Reuters",
@@ -257,16 +277,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQNjg3WDBLeE0yVVAwSEZPa3Z0elZZdGdaRUJNX3dYMkJPQlc3Qm13bXl4YlA4NmIwS2Q1eVBVMFlhdnNybktmSGtJdTBid1pQNTV0RmRWYmNoNlZDN2wwZVE1QVA1ZkFKOC12T2R"
       },
       {
-        "headline": "Tesla touts California robotaxis but does nothing to get permits - Reuters",
-        "url": "https://www.reuters.com/business/autos-transportation/musk-touts-california-robotaxis-tesla-does-nothing-get-permits-2026-02-26/",
-        "source": "Reuters",
-        "sourceId": "reuters_world",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Thu, 26 Feb 2026 11:06:17 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPdGZNM3lRajlXMGdkV1Z3eGRMLTlvQVBUTVMxcV9FRU5PaUNaUkNfTm9mdVdoX3BZZVRUQkV5bWJBbzlzWENlU3Q3TGJhZ09EUUgzNTV6aGNkb2FLWWlQdzNyQ2lZbGJJTDkxdDV"
-      },
-      {
         "headline": "Exclusive: Trump EPA to shift at least half of waived biofuel obligations to big refiners, sources say - Reuters",
         "url": "https://www.reuters.com/sustainability/climate-energy/trump-epa-shift-least-half-waived-biofuel-obligations-big-refiners-sources-say-2026-02-26/",
         "source": "Reuters",
@@ -277,24 +287,14 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNjZDREw4MFJTYWgwSUktczIwSmF4dHgxNmFURy1oRWMtRTZaUFRGbGVfRTl4LWZRakFRaUVISldEaGphaE04cTlnMldSNzdVdUVTemlHcXdyY2cxc0Z6S1dTUFZDLVlOV1FPc1J"
       },
       {
-        "headline": "Wall St slides as tech rally stalls, AI enthusiasm wanes after Nvidia results - Reuters",
-        "url": "https://www.reuters.com/world/africa/us-stock-futures-waver-nvidias-blockbuster-results-draw-muted-response-2026-02-26/",
+        "headline": "Tesla touts California robotaxis but does nothing to get permits - Reuters",
+        "url": "https://www.reuters.com/business/autos-transportation/musk-touts-california-robotaxis-tesla-does-nothing-get-permits-2026-02-26/",
         "source": "Reuters",
         "sourceId": "reuters_world",
         "category": "wire",
         "priority": "primary",
-        "date": "Thu, 26 Feb 2026 11:11:43 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUkNMZnBnWlVNRzdyY0FSS0NmZTFNem5qb3Z4UHpkOFRGc3hxSG8xM2tUSnNrbDUyWjNqSzRMMGFaVFl6NUo1a0VsT0tzdUwxU1VDcm5CWXF5TEpScldjVlhzVUFBZzF4NlZodTl"
-      },
-      {
-        "headline": "Almost 8,000 died on migration routes in 2025 but toll likely far higher, says UN agency - Reuters",
-        "url": "https://www.reuters.com/world/almost-8000-died-migration-routes-2025-toll-likely-far-higher-says-un-agency-2026-02-26/",
-        "source": "Reuters",
-        "sourceId": "reuters_world",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Thu, 26 Feb 2026 11:36:47 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNY0JmS3h3blBfY1pIT3ptX2wtZC1LRWxzbHR5dXY4OGF5SEhSU2hHRGFzdFJULV9mRWRQN25CaWVEckRwdkJ3RmdkNjE1M21tZWI2Q2JtTjBLREdMNEVZNm1kUGhKanc4QzU2WGR"
+        "date": "Thu, 26 Feb 2026 11:06:17 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPdGZNM3lRajlXMGdkV1Z3eGRMLTlvQVBUTVMxcV9FRU5PaUNaUkNfTm9mdVdoX3BZZVRUQkV5bWJBbzlzWENlU3Q3TGJhZ09EUUgzNTV6aGNkb2FLWWlQdzNyQ2lZbGJJTDkxdDV"
       },
       {
         "headline": "US-Iran talks end after 'significant progress', mediator says",
@@ -394,14 +394,14 @@
         "description": "The terminated FBI staffers all participated in a probe into Trump's handling of classified documents after his first term."
       },
       {
-        "headline": "Four convicted over spyware scandal that shook Greece",
-        "url": "https://www.bbc.com/news/articles/cj6dx4886rpo?at_medium=RSS&amp;at_campaign=rss",
+        "headline": "Man, 82, crushed to death in car at Munich scrapyard",
+        "url": "https://www.bbc.com/news/articles/c4gj2ng03k8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC",
         "sourceId": "bbc_world",
         "category": "general",
         "priority": "primary",
-        "date": "Thu, 26 Feb 2026 15:05:53 GMT",
-        "description": "In what became known as \"Greece's Watergate\", surveillance software called Predator was used to target 87 people."
+        "date": "Thu, 26 Feb 2026 19:10:01 GMT",
+        "description": "Police said the car was meant to be scrapped and the man must have climbed into it without being noticed."
       },
       {
         "headline": "First writing may be 40,000 years earlier than thought",
@@ -670,7 +670,7 @@
         "sourceId": "ft_home",
         "category": "business",
         "priority": "primary",
-        "date": "Thu, 26 Feb 2026 19:13:15 GMT",
+        "date": "Thu, 26 Feb 2026 20:44:15 GMT",
         "description": "Oman’s foreign minister says the two countries are set to meet again following round of negotiations in Geneva"
       },
       {
@@ -1195,6 +1195,26 @@
         "description": "Check out the stocks Heard on the Street writers favor in their eighth annual stock-picking contest."
       },
       {
+        "headline": "Iranian foreign minister says US, Iran moving closer to deal",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/2/26/iranian-foreign-minister-says-us-iran-moving-closer-to-deal?traffic_source=rss",
+        "source": "Al Jazeera",
+        "sourceId": "aljazeera",
+        "category": "general",
+        "priority": "secondary",
+        "date": "Thu, 26 Feb 2026 20:57:13 +0000",
+        "description": "Iranian Foreign Minister Abbas Araghchi says the US and Iran have moved closer to reaching an agreement."
+      },
+      {
+        "headline": "Columbia University students protest ICE arrest at university housing",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/2/26/columbia-university-students-protest-ice-arrest-at-university?traffic_source=rss",
+        "source": "Al Jazeera",
+        "sourceId": "aljazeera",
+        "category": "general",
+        "priority": "secondary",
+        "date": "Thu, 26 Feb 2026 20:54:03 +0000",
+        "description": "Protesters gathered at Columbia University after Department of Homeland Security agents detained a student on campus."
+      },
+      {
         "headline": "US-Iran talks conclude with claims of progress but few details",
         "url": "https://www.aljazeera.com/news/2026/2/26/us-iran-talks-conclude-claims-progress-few-details?traffic_source=rss",
         "source": "Al Jazeera",
@@ -1330,26 +1350,6 @@
         "priority": "secondary",
         "date": "Thu, 26 Feb 2026 15:54:48 +0000",
         "description": "The US says it will licence entities to sell the oil to Cuba except those linked to the Cuban government and military."
-      },
-      {
-        "headline": "From Gaza to defence: Five key takeaways from Indian PM Modi’s Israel visit",
-        "url": "https://www.aljazeera.com/features/2026/2/26/from-gaza-to-defence-five-key-takeaways-from-indian-pm-modis-israel-visit?traffic_source=rss",
-        "source": "Al Jazeera",
-        "sourceId": "aljazeera",
-        "category": "general",
-        "priority": "secondary",
-        "date": "Thu, 26 Feb 2026 15:52:15 +0000",
-        "description": "Indian PM throws his weight behind Israel&#039;s Netanyahu even as genocide continues in occupied Palestinian territory."
-      },
-      {
-        "headline": "Epstein and the politics of distraction",
-        "url": "https://www.aljazeera.com/opinions/2026/2/26/epstein-and-the-politics-of-distraction?traffic_source=rss",
-        "source": "Al Jazeera",
-        "sourceId": "aljazeera",
-        "category": "general",
-        "priority": "secondary",
-        "date": "Thu, 26 Feb 2026 15:44:40 +0000",
-        "description": "Scandal individualises corruption, creating a spectacle that redirects anger away from structural power."
       },
       {
         "headline": "Pakistan vows 'immediate response' after Afghanistan launches retaliatory attacks",
@@ -1583,13 +1583,23 @@
       },
       {
         "headline": "A4A Leadership Participates in ATCA Aviation Innovation Summit - Airlines for America",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPc0J4TzJrR0V5TW5NUjlTeWFtVVhiWVBjWUxGM1NhOEhkc19IUjJ6VW1qSFJ0R2ZieTd1NUhfUEpqQWgzTV9nVG5qT0FtQU5yNzZLX3oxVjJBbXJlenpraXB6UzY3el9RN1pIcGhmckJoajdWN2FvcHl2R0tCMVRud2NUZF9hb0JtdzNqUUEyb0o3QQ?oc=5",
+        "url": "https://www.airlines.org/a4a-leadership-participates-in-atca-aviation-innovation-summit/",
         "source": "Daybook: International Events",
         "sourceId": "daybook_intl",
         "category": "daybook",
         "priority": "reference",
         "date": "Wed, 25 Feb 2026 23:05:44 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPc0J4TzJrR0V5TW5NUjlTeWFtVVhiWVBjWUxGM1NhOEhkc19IUjJ6VW1qSFJ0R2ZieTd1NUhfUEpqQWgzTV9nVG5qT0FtQU5yNzZLX3oxVjJBbXJlenpraXB6UzY3el9RN1pIcGh"
+      },
+      {
+        "headline": "Presidential summit recap: The disruption of higher education is here - Florida International University",
+        "url": "https://news.fiu.edu/2026/presidential-summit-recap-the-disruption-of-higher-education-is-here",
+        "source": "Daybook: International Events",
+        "sourceId": "daybook_intl",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Thu, 26 Feb 2026 14:01:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNdWJha1ZFOFNYcUtwdlFqRk4zU3lKcXJDOHVmRU5rN3VwVHNlc01YV3FXVXFqZXNqMVJ4cmZ2NElhemY3R1l1c0tWZlZYRVpVcDM5U2ZXaVVTNmJ2aWJHYXNpd1hqY3BZR0ZTSmd"
       },
       {
         "headline": "India’s AI summit draws global leaders, big pledges and some chaos - NBC News",
@@ -1603,7 +1613,7 @@
       },
       {
         "headline": "NDSU Women’s Basketball Tops South Dakota to Clinch Share of Summit League Title - gobison.com",
-        "url": "https://gobison.com/news/2026/2/21/womens-basketball-ndsu-womens-basketball-tops-south-dakota-to-clinch-share-of-summit-league-title.aspx",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdS1tcG1rTlJuZDBBYnhOX2tKaWoweDJ1SE1CSTR5Tk81WE5MUnloSWdrRVctSnRtbEN3NnpBUW5MYWQxaVVqUWl3bGRZZE0xMUhZcXVraFNUYlBaTS1kaVF5SUNyT01pNzduZ1JhNllMOTVRejk1N3pOVVVscnFfeFMydTVPMmZWZE95WXdOa0NLOXlPLVNRNU5FMUctanRycE1sZGs2bG1JbGxoREt1RFVfUXBaMjV6S0pMWEM0ZnZxd041enMyS0x6X2g4d3M2X3lN?oc=5",
         "source": "Daybook: International Events",
         "sourceId": "daybook_intl",
         "category": "daybook",
@@ -1633,23 +1643,13 @@
       },
       {
         "headline": "Chaos, confusion and $200 billion dreams: What I saw at India’s AI summit - CNBC",
-        "url": "https://www.cnbc.com/2026/02/21/ai-summit-india-tech.html",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Hb2p3em1Pbmt6Rm1PN09hSW0yU3JaelU2UXE2bVFPazRnaGJ2MTlEYTUzdmVLRllRU0pMa2xiRlE3eEFfc1ZuQ3NBUFNZY01hVGRuZmxoOFZ0YWVWWmFkZ0JkRWpiSjdC0gFuQVVfeXFMTlJEcjViTXd4V1pCYmJ1ZXBvS2xLUHdWWW1Ld0JPSElLNVlBVnlVSG1WRXVkdUFZbklBQVUxUG1rMEdERE1BTElvZzZMRDhJUnN6aW0zVzFDU3NOZVhCb0JjTGxVRnkwZWlxQ1I5RHc?oc=5",
         "source": "Daybook: International Events",
         "sourceId": "daybook_intl",
         "category": "daybook",
         "priority": "reference",
         "date": "Sat, 21 Feb 2026 08:50:57 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Hb2p3em1Pbmt6Rm1PN09hSW0yU3JaelU2UXE2bVFPazRnaGJ2MTlEYTUzdmVLRllRU0pMa2xiRlE3eEFfc1ZuQ3NBUFNZY01hVGRuZmxoOFZ0YWVWWmFkZ0JkRWpiSjdC0gFuQVV"
-      },
-      {
-        "headline": "2026 #SummitSD Championships All-League Teams Announced - The Summit League",
-        "url": "https://thesummitleague.org/news/2026/2/23/mens-swimming-and-diving-2026-summitsd-championships-all-league-teams-announced.aspx",
-        "source": "Daybook: International Events",
-        "sourceId": "daybook_intl",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Wed, 25 Feb 2026 16:34:49 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOeHpJelZLcXdYaEtnc3FCVkdSVkg5WmZRQ05yU2VEZzBYUC0xVWtrOFRYUGpvLXJ6bzZCdkRLaE9KeUt4QXM3SjFRYmpQOXNZQ2FvYUlQbzBxWXNtX1VZaWoydDcxS0luTG5wNnJ"
       },
       {
         "headline": "Trade Deadline, playoff races among top storylines after Olympic break - NHL.com",
@@ -1722,16 +1722,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPSmZpdlh5Q3Zta1NBNVNGaXZpZHBYMnh3ODUwQ2EzMEJ5WWlUeHhnMThYSG1YWEpfRzNaOTM1SlNWUXFNbVByeU54RDNfUU93UzVVMkY0dGZ6cklkQmw5MkMtcW1JYU1jNUVaclF"
       },
       {
-        "headline": "Kraken return from Olympic break for trade deadline and playoff push - The Seattle Times",
-        "url": "https://www.seattletimes.com/sports/kraken/kraken-return-from-olympic-break-for-trade-deadline-and-playoff-push/",
-        "source": "Daybook: Economic Calendar",
-        "sourceId": "daybook_econ",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Wed, 25 Feb 2026 14:00:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQaW1JenVYX2t0SHJSTFB6TURlZFpVaVBQcThUeHFDWC1ESGtsbHp1VWJZUS10MDg2NmZNUTNRNktGRU5vQVlDeVdyYlZuNWFySDVSYlNPSmdDNWJYRk43Z0hBXy04M19kTktNNm5"
-      },
-      {
         "headline": "NHL Trade Deadline: Bill Zito, Florida Panthers Standing By. For Now - Florida Hockey Now",
         "url": "https://floridahockeynow.com/nhl-trade-deadline-bill-zito-florida-panthers-standing-by/",
         "source": "Daybook: Economic Calendar",
@@ -1740,6 +1730,16 @@
         "priority": "reference",
         "date": "Wed, 25 Feb 2026 13:21:57 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQUEJuZWtqWU5Jbk43U0lldTN6LW1VblNUcmREaUE5dms3RTZwODlaNDh4bDVOcDNZVHZLRVpGQ2I5Z1FnaWNUdHBRanF4cDcxd2hVSEdUVkJ0Vndwb1FhZmVsb2hmaXgwandNMnl"
+      },
+      {
+        "headline": "Kraken return from Olympic break for trade deadline and playoff push - The Seattle Times",
+        "url": "https://www.seattletimes.com/sports/kraken/kraken-return-from-olympic-break-for-trade-deadline-and-playoff-push/",
+        "source": "Daybook: Economic Calendar",
+        "sourceId": "daybook_econ",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Wed, 25 Feb 2026 14:00:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQaW1JenVYX2t0SHJSTFB6TURlZFpVaVBQcThUeHFDWC1ESGtsbHp1VWJZUS10MDg2NmZNUTNRNktGRU5vQVlDeVdyYlZuNWFySDVSYlNPSmdDNWJYRk43Z0hBXy04M19kTktNNm5"
       },
       {
         "headline": "Columbus Blue Jackets may hang onto free agents past trade deadline - The Columbus Dispatch",
@@ -1812,6 +1812,16 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPaEpha2VDb2h3SklZMll6eDhidXkxYnpRakhtYVNEX0M5QUlVQTczTzNYU1BPSi1heWVmMWRfcGtSbDFHREQ0RzVMVmw0a1dsYUYtblFhMmJsVDM0MmNmY3VuRHdrc2Z6NFYwbWV"
       },
       {
+        "headline": "2025-26 NHL trade deadline live tracker: Deals, grades, more - ESPN",
+        "url": "https://www.espn.com/nhl/story/_/id/48043649/nhl-trade-deadline-2026-latest-contracts-rumors-grades-players",
+        "source": "Daybook: Scheduled Events",
+        "sourceId": "daybook_scheduled",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Thu, 26 Feb 2026 20:00:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaVdKUEQyb3ZXWElDLWc2dURkd0ZZVjQ1enZrTkU5dk9fU3pWQUNUWW0tNHdXeW5hMDJLajYzcU1JT0xYVy1vN1pQOGYxRHZZLXIxNDJXT2I0VERWWW9qdTZaVVBja19kcHRhR3l"
+      },
+      {
         "headline": "Humanities journal Tabula Rasa accepting submissions; deadline is April 1 - Vanderbilt Health News",
         "url": "https://news.vumc.org/2026/02/26/humanities-journal-tabula-rasa-accepting-submissions-deadline-is-april-1/",
         "source": "Daybook: Scheduled Events",
@@ -1830,16 +1840,6 @@
         "priority": "reference",
         "date": "Thu, 26 Feb 2026 05:07:07 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOcW1NMTgtNGFwelZLVTVjNHRLR1F2eFFFZDl2ODFISGRqR1g5SFR5TEdoR0xHaW9UUERmd01jQ1Y2MUc2M2lLX05iblZmX1kyN3dJS0xsR0pIUmpVRVhLYUFXX3ZBa0lVU0pGNzR"
-      },
-      {
-        "headline": "NHL trade deadline rankings tiers: Which players could move? - ESPN",
-        "url": "https://www.espn.com/nhl/story/_/id/48033531/nhl-2025-26-trade-deadline-rankings-tiers-rumors-top-players-teams",
-        "source": "Daybook: Scheduled Events",
-        "sourceId": "daybook_scheduled",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Thu, 26 Feb 2026 12:30:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPb0NhREJzZF8wc3V1V3REZlFtRjd0dVNGRjJsZkJtcjU3OU1zSlVnSFg2YWpibXVuZUhrSmpPQmJsamxaZlVKODQ4elJKOTZUM0RiNnV2dktiWjhRcUZMWFJVU2YyeG8tUktkelR"
       },
       {
         "headline": "Iran Says US Nuclear Talks So Far ‘Very Intense and Serious’ - Bloomberg.com",
@@ -1862,16 +1862,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcnNrc0lrenBENHJWWVZ3Wlc5NWFzdjJEZ2hobGc2UzI1WFdUeE9lekxsakh2amxKaGtjSHp1OEljVDg4TEFPWkRBSURLb29BcENwUW1ZRE9JU05panNNSGhZTVg0OE5WcENHRmQ"
       },
       {
-        "headline": "Congress misses E15 deadline, Iowa biofuels advocates ramp up pressure - The Des Moines Register",
-        "url": "https://www.desmoinesregister.com/story/news/politics/elections/2026/02/26/iowa-congress-misses-e15-deadline/88861980007/?gca-cat=p&gnt-cfr=1",
-        "source": "Daybook: Scheduled Events",
-        "sourceId": "daybook_scheduled",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Thu, 26 Feb 2026 12:03:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOV0RyNHh4TTJwOFZ1YXVQRGpLWDRnOEpOT1d0d0VKRHY0YTF5eTZQQmFpMzY1N0lxck9ibF9LRkwtSDUtUDdGYlJuTm0tZGxxYTVxN2FFSWlTVm5hOXRLSHVUczNLWHBiZ2lTT1l"
-      },
-      {
         "headline": "Plea hearing scheduled for Columbia man charged in shooting of 3-year-old - KOMU 8",
         "url": "https://www.komu.com/news/midmissourinews/plea-hearing-scheduled-for-columbia-man-charged-in-shooting-of-3-year-old/article_0b05ddc0-0bcb-4d95-930a-9083aee104e8.html",
         "source": "Daybook: Scheduled Events",
@@ -1880,6 +1870,16 @@
         "priority": "reference",
         "date": "Thu, 26 Feb 2026 19:45:00 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxNZHdNTDdVT21ZNXRfdmhlak1WbkFhU2tzZFhSR1lwMnFUWmhPNU4tRmFVdkt0cUlvNGNmS0s0Vzd1UEloZGNIZWYwSTVMTFBvZEZOWHZRTjV6UjRiT2syWGZ6d0NqUFQ5NnVKZ09"
+      },
+      {
+        "headline": "Congress misses E15 deadline, Iowa biofuels advocates ramp up pressure - The Des Moines Register",
+        "url": "https://www.desmoinesregister.com/story/news/politics/elections/2026/02/26/iowa-congress-misses-e15-deadline/88861980007/?gca-cat=p&gnt-cfr=1",
+        "source": "Daybook: Scheduled Events",
+        "sourceId": "daybook_scheduled",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Thu, 26 Feb 2026 12:03:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOV0RyNHh4TTJwOFZ1YXVQRGpLWDRnOEpOT1d0d0VKRHY0YTF5eTZQQmFpMzY1N0lxck9ibF9LRkwtSDUtUDdGYlJuTm0tZGxxYTVxN2FFSWlTVm5hOXRLSHVUczNLWHBiZ2lTT1l"
       },
       {
         "headline": "Fantasy spin on 2026 NHL Trade Deadline - NHL.com",
@@ -1892,16 +1892,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE13T2w2WkdXNERSTUhkejdIX2NjNm9VZm53bnVPRlJfeXduRjJlMnk5N2FnS1BtZzkySjQ4LTloLXl3RE5lWXI2WmxDM09wNko0YUNSM0txc0ZlTFlrZGtYOVlvX2JzU3AtcTF5YTV"
       },
       {
-        "headline": "Justices reveal little about whether the deadline for removing cases to federal court can be excused - SCOTUSblog",
-        "url": "https://www.scotusblog.com/2026/02/justices-reveal-little-about-whether-the-deadline-for-removing-cases-to-federal-court-can-be-excused/",
-        "source": "Daybook: Scheduled Events",
-        "sourceId": "daybook_scheduled",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Wed, 25 Feb 2026 15:20:51 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeGkxWkt6U0w3Sm1xQlBYd3FyeGZuWFZfbzNOam5rOE9KQTNsNzdzOVBDb1BDQ0s3c0w2XzViTWE3Vi1wRS1sS3JzSDU0Nk05Zjl5UHFqQVNlNlBVVFBBZjRzQTBfT1Y5QlhhdXh"
-      },
-      {
         "headline": "Blackhawks' Connor Murphy feeling allure of playoffs as trade deadline nears - Chicago Sun-Times",
         "url": "https://chicago.suntimes.com/blackhawks/2026/02/26/blackhawks-connor-murphy-nhl-trade-deadline-rumors-playoffs-allure",
         "source": "Daybook: Scheduled Events",
@@ -1910,6 +1900,16 @@
         "priority": "reference",
         "date": "Thu, 26 Feb 2026 20:02:00 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdkdKbllNVUxRSDJ2V1ZPQndfQndfVlY0akFuMFJyRDFWaDJmTkF4S2FwcDNwNkZ5NDNrVDJfZjhORlhCSklvMWViNDIxYkRyREQ3MF9fRWtGam9IUUVoUWtVM2hzLWhtM1NBNUd"
+      },
+      {
+        "headline": "Justices reveal little about whether the deadline for removing cases to federal court can be excused - SCOTUSblog",
+        "url": "https://www.scotusblog.com/2026/02/justices-reveal-little-about-whether-the-deadline-for-removing-cases-to-federal-court-can-be-excused/",
+        "source": "Daybook: Scheduled Events",
+        "sourceId": "daybook_scheduled",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Wed, 25 Feb 2026 15:20:51 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeGkxWkt6U0w3Sm1xQlBYd3FyeGZuWFZfbzNOam5rOE9KQTNsNzdzOVBDb1BDQ0s3c0w2XzViTWE3Vi1wRS1sS3JzSDU0Nk05Zjl5UHFqQVNlNlBVVFBBZjRzQTBfT1Y5QlhhdXh"
       },
       {
         "headline": "LIHEAP deadline moved up at South Central Community Action Partnership - KMVT",
@@ -1922,16 +1922,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQTHFhZ3FWS0NPN2dSeXNVaFZaLU9UazVKLS1YcVBiUDlLXzR5RG5ENlNFTkF5RllkdjB5RS1qcElxa1ltTDBod0hmZ1RpYXg0VExzSDlOSkFsYUpfalhnclQxSWxmOVRhRFgwY2F"
       },
       {
-        "headline": "With Neve Campbell and Kevin Williamson returning to the franchise they helped launch 30 years ago, the original 'Scream' team is full steam ahead. Read more below. - facebook.com",
-        "url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fdeadline%2Fphotos%2Fwith-neve-campbell-and-kevin-williamson-returning-to-the-franchise-they-helped-l%2F1275027121164292%2F",
-        "source": "Daybook: Scheduled Events",
-        "sourceId": "daybook_scheduled",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Thu, 26 Feb 2026 19:57:11 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVVFpN0pxUC1mWWpIUWhBdlBwMUZ3ZVBjR29aWjctS0dGZVZwb1V5VFRZOVBwYUt6NUFkMUo0MzhONlRHdktZVlMxYnV2dHo0Ymd6S052VjBxbUdnc1Q5RlNBallZbkJZNUZwUWN"
-      },
-      {
         "headline": "Chris Pine Circling Lead Opposite Emma Stone In Universal Rom Com ‘The Catch’–The Dish - Deadline",
         "url": "https://deadline.com/2026/02/chris-pine-the-catch-emma-stone-1236736456/",
         "source": "Daybook: Scheduled Events",
@@ -1942,14 +1932,24 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9PVzZIczhhdHk4a3VXTTlLY3NsN0lPUHZ0SVU1Q3NNcDI0WVZPMlpCWkdnd291TDBDdWtBa09WQy1VYUJ5Tm9BRlRaZVVKY01Cd3hsU3ViaHdTTHFYbXhHR3Q2ajdwYjVRakNtZml"
       },
       {
-        "headline": "EXCLUSIVE: Universal Pictures upcoming romantic comedy ‘The Catch’ starring Emma Stone looks to be gaining some serious momentum as sources tell Deadline Chris Pine is in talks to star opposite the two time Oscar-winner. Full details here: https://deadli - facebook.com",
-        "url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fdeadline%2Fphotos%2Fexclusive-universal-pictures-upcoming-romantic-comedy-the-catch-starring-emma-st%2F1275165051150499%2F",
+        "headline": "NHL trade deadline rankings tiers: Which players could move? - ESPN",
+        "url": "https://www.espn.com/nhl/story/_/id/48033531/nhl-2025-26-trade-deadline-rankings-tiers-rumors-top-players-teams",
         "source": "Daybook: Scheduled Events",
         "sourceId": "daybook_scheduled",
         "category": "daybook",
         "priority": "reference",
-        "date": "Thu, 26 Feb 2026 17:34:01 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxObkcyTDlYV0V0aUotRWdSdFFBNjRkUndOTWMtMXIwVVNWTDl1Skx3TlpxRmF1TlVILVUwa3pyS05KMWF2NWtRNGZiTDB1WDBkUFhkVkdWZWVJSng4dGVDTFBjNS1SR25Pdk5laEV"
+        "date": "Thu, 26 Feb 2026 12:30:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPb0NhREJzZF8wc3V1V3REZlFtRjd0dVNGRjJsZkJtcjU3OU1zSlVnSFg2YWpibXVuZUhrSmpPQmJsamxaZlVKODQ4elJKOTZUM0RiNnV2dktiWjhRcUZMWFJVU2YyeG8tUktkelR"
+      },
+      {
+        "headline": "‘Talk To Me’ Immersive Series From XRTV &amp; Meta Sets Cast - Deadline",
+        "url": "https://deadline.com/2026/02/talk-to-me-series-sets-cast-1236736439/",
+        "source": "Daybook: Scheduled Events",
+        "sourceId": "daybook_scheduled",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Thu, 26 Feb 2026 17:26:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5aN3NxdXdsWXdkMVVCVlJnUDlXeEdzVkp3S05wYWhtWm9WYm5nMHNuQkxlakNqSFhJUXVwZzVPNXdUUGpPcW1Va1hFSU5Gc19IVmJPRmVTZUZ1WFNJd1lHMU5vbF9xN3RNbnpwN1d"
       }
     ],
     "byCategory": {
@@ -2076,6 +2076,16 @@
           "description": ""
         },
         {
+          "headline": "Venezuela fuel station operators declare emergency on minimal earnings-document, sources - Reuters",
+          "url": "https://www.reuters.com/business/energy/venezuela-fuel-station-operators-declare-emergency-minimal-earnings-document-2026-02-26/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Thu, 26 Feb 2026 17:44:24 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNc0ZLa2ppWTJmaW54aWZnNDdwczhmZzVUVU5CSUJQcnk5Tm04aE9hU3dELTdNcFpoY2JDd2VLOTlLSmVfcjJJR0loU1J0SU1scGpZbkRsOXlhekN1M21jZC1xdWlXcVhzX3J6amg"
+        },
+        {
           "headline": "Hillary Clinton tells congressional panel she has no information on Epstein - Reuters",
           "url": "https://www.reuters.com/world/us/hillary-clinton-faces-epstein-congressional-inquiry-2026-02-26/",
           "source": "Reuters",
@@ -2143,6 +2153,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNT284MHQ5ZHVGbkhyRXZES3RfaXBXTDFxZWw5OEMxeGdVN0hMUHFSWTAta1JsdmJNVnBPX29ob1dFR1hxMmo5d0ZWbkttZ3pzUXIxX3R5cF90M2ZJQjJOemNocUNkeHg3N1dVMzR"
         },
         {
+          "headline": "Netflix and Apple TV join forces on F1 content - Reuters",
+          "url": "https://www.reuters.com/business/media-telecom/netflix-apple-tv-join-forces-f1-content-2026-02-26/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Thu, 26 Feb 2026 18:40:45 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNc1FwVkE3Z3REanZoUVVyaVc1X0Y5SzRDX3BkeGcxVXBBb2tQVWxqVHljeFB5UExqQ0JGQnBhb214eGI3VXV0X0kzZGJlX015aEFaTXBKTk94UjFwTzR4NEZfLU1kSmE3YnlBblV"
+        },
+        {
           "headline": "Eni can now receive oil from Venezuela as payment for gas, CEO says - Reuters",
           "url": "https://www.reuters.com/business/energy/eni-can-now-receive-oil-venezuela-payment-gas-ceo-says-2026-02-26/",
           "source": "Reuters",
@@ -2193,16 +2213,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQNjg3WDBLeE0yVVAwSEZPa3Z0elZZdGdaRUJNX3dYMkJPQlc3Qm13bXl4YlA4NmIwS2Q1eVBVMFlhdnNybktmSGtJdTBid1pQNTV0RmRWYmNoNlZDN2wwZVE1QVA1ZkFKOC12T2R"
         },
         {
-          "headline": "Tesla touts California robotaxis but does nothing to get permits - Reuters",
-          "url": "https://www.reuters.com/business/autos-transportation/musk-touts-california-robotaxis-tesla-does-nothing-get-permits-2026-02-26/",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Thu, 26 Feb 2026 11:06:17 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPdGZNM3lRajlXMGdkV1Z3eGRMLTlvQVBUTVMxcV9FRU5PaUNaUkNfTm9mdVdoX3BZZVRUQkV5bWJBbzlzWENlU3Q3TGJhZ09EUUgzNTV6aGNkb2FLWWlQdzNyQ2lZbGJJTDkxdDV"
-        },
-        {
           "headline": "Exclusive: Trump EPA to shift at least half of waived biofuel obligations to big refiners, sources say - Reuters",
           "url": "https://www.reuters.com/sustainability/climate-energy/trump-epa-shift-least-half-waived-biofuel-obligations-big-refiners-sources-say-2026-02-26/",
           "source": "Reuters",
@@ -2213,24 +2223,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNjZDREw4MFJTYWgwSUktczIwSmF4dHgxNmFURy1oRWMtRTZaUFRGbGVfRTl4LWZRakFRaUVISldEaGphaE04cTlnMldSNzdVdUVTemlHcXdyY2cxc0Z6S1dTUFZDLVlOV1FPc1J"
         },
         {
-          "headline": "Wall St slides as tech rally stalls, AI enthusiasm wanes after Nvidia results - Reuters",
-          "url": "https://www.reuters.com/world/africa/us-stock-futures-waver-nvidias-blockbuster-results-draw-muted-response-2026-02-26/",
+          "headline": "Tesla touts California robotaxis but does nothing to get permits - Reuters",
+          "url": "https://www.reuters.com/business/autos-transportation/musk-touts-california-robotaxis-tesla-does-nothing-get-permits-2026-02-26/",
           "source": "Reuters",
           "sourceId": "reuters_world",
           "category": "wire",
           "priority": "primary",
-          "date": "Thu, 26 Feb 2026 11:11:43 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUkNMZnBnWlVNRzdyY0FSS0NmZTFNem5qb3Z4UHpkOFRGc3hxSG8xM2tUSnNrbDUyWjNqSzRMMGFaVFl6NUo1a0VsT0tzdUwxU1VDcm5CWXF5TEpScldjVlhzVUFBZzF4NlZodTl"
-        },
-        {
-          "headline": "Almost 8,000 died on migration routes in 2025 but toll likely far higher, says UN agency - Reuters",
-          "url": "https://www.reuters.com/world/almost-8000-died-migration-routes-2025-toll-likely-far-higher-says-un-agency-2026-02-26/",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Thu, 26 Feb 2026 11:36:47 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNY0JmS3h3blBfY1pIT3ptX2wtZC1LRWxzbHR5dXY4OGF5SEhSU2hHRGFzdFJULV9mRWRQN25CaWVEckRwdkJ3RmdkNjE1M21tZWI2Q2JtTjBLREdMNEVZNm1kUGhKanc4QzU2WGR"
+          "date": "Thu, 26 Feb 2026 11:06:17 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPdGZNM3lRajlXMGdkV1Z3eGRMLTlvQVBUTVMxcV9FRU5PaUNaUkNfTm9mdVdoX3BZZVRUQkV5bWJBbzlzWENlU3Q3TGJhZ09EUUgzNTV6aGNkb2FLWWlQdzNyQ2lZbGJJTDkxdDV"
         },
         {
           "headline": "Pakistan vows 'immediate response' after Afghanistan launches retaliatory attacks",
@@ -2482,14 +2482,14 @@
           "description": "The terminated FBI staffers all participated in a probe into Trump's handling of classified documents after his first term."
         },
         {
-          "headline": "Four convicted over spyware scandal that shook Greece",
-          "url": "https://www.bbc.com/news/articles/cj6dx4886rpo?at_medium=RSS&amp;at_campaign=rss",
+          "headline": "Man, 82, crushed to death in car at Munich scrapyard",
+          "url": "https://www.bbc.com/news/articles/c4gj2ng03k8o?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC",
           "sourceId": "bbc_world",
           "category": "general",
           "priority": "primary",
-          "date": "Thu, 26 Feb 2026 15:05:53 GMT",
-          "description": "In what became known as \"Greece's Watergate\", surveillance software called Predator was used to target 87 people."
+          "date": "Thu, 26 Feb 2026 19:10:01 GMT",
+          "description": "Police said the car was meant to be scrapped and the man must have climbed into it without being noticed."
         },
         {
           "headline": "First writing may be 40,000 years earlier than thought",
@@ -3013,6 +3013,26 @@
           "description": "Most people alive today carry fragments of Neanderthal DNA in their genome. Now scientists are gaining a more intimate understanding of the ancient encounters that put it there."
         },
         {
+          "headline": "Iranian foreign minister says US, Iran moving closer to deal",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/26/iranian-foreign-minister-says-us-iran-moving-closer-to-deal?traffic_source=rss",
+          "source": "Al Jazeera",
+          "sourceId": "aljazeera",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Thu, 26 Feb 2026 20:57:13 +0000",
+          "description": "Iranian Foreign Minister Abbas Araghchi says the US and Iran have moved closer to reaching an agreement."
+        },
+        {
+          "headline": "Columbia University students protest ICE arrest at university housing",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/26/columbia-university-students-protest-ice-arrest-at-university?traffic_source=rss",
+          "source": "Al Jazeera",
+          "sourceId": "aljazeera",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Thu, 26 Feb 2026 20:54:03 +0000",
+          "description": "Protesters gathered at Columbia University after Department of Homeland Security agents detained a student on campus."
+        },
+        {
           "headline": "US-Iran talks conclude with claims of progress but few details",
           "url": "https://www.aljazeera.com/news/2026/2/26/us-iran-talks-conclude-claims-progress-few-details?traffic_source=rss",
           "source": "Al Jazeera",
@@ -3148,26 +3168,6 @@
           "priority": "secondary",
           "date": "Thu, 26 Feb 2026 15:54:48 +0000",
           "description": "The US says it will licence entities to sell the oil to Cuba except those linked to the Cuban government and military."
-        },
-        {
-          "headline": "From Gaza to defence: Five key takeaways from Indian PM Modi’s Israel visit",
-          "url": "https://www.aljazeera.com/features/2026/2/26/from-gaza-to-defence-five-key-takeaways-from-indian-pm-modis-israel-visit?traffic_source=rss",
-          "source": "Al Jazeera",
-          "sourceId": "aljazeera",
-          "category": "general",
-          "priority": "secondary",
-          "date": "Thu, 26 Feb 2026 15:52:15 +0000",
-          "description": "Indian PM throws his weight behind Israel&#039;s Netanyahu even as genocide continues in occupied Palestinian territory."
-        },
-        {
-          "headline": "Epstein and the politics of distraction",
-          "url": "https://www.aljazeera.com/opinions/2026/2/26/epstein-and-the-politics-of-distraction?traffic_source=rss",
-          "source": "Al Jazeera",
-          "sourceId": "aljazeera",
-          "category": "general",
-          "priority": "secondary",
-          "date": "Thu, 26 Feb 2026 15:44:40 +0000",
-          "description": "Scandal individualises corruption, creating a spectacle that redirects anger away from structural power."
         }
       ],
       "business": [
@@ -3238,7 +3238,7 @@
           "sourceId": "ft_home",
           "category": "business",
           "priority": "primary",
-          "date": "Thu, 26 Feb 2026 19:13:15 GMT",
+          "date": "Thu, 26 Feb 2026 20:44:15 GMT",
           "description": "Oman’s foreign minister says the two countries are set to meet again following round of negotiations in Geneva"
         },
         {
@@ -3525,13 +3525,23 @@
         },
         {
           "headline": "A4A Leadership Participates in ATCA Aviation Innovation Summit - Airlines for America",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPc0J4TzJrR0V5TW5NUjlTeWFtVVhiWVBjWUxGM1NhOEhkc19IUjJ6VW1qSFJ0R2ZieTd1NUhfUEpqQWgzTV9nVG5qT0FtQU5yNzZLX3oxVjJBbXJlenpraXB6UzY3el9RN1pIcGhmckJoajdWN2FvcHl2R0tCMVRud2NUZF9hb0JtdzNqUUEyb0o3QQ?oc=5",
+          "url": "https://www.airlines.org/a4a-leadership-participates-in-atca-aviation-innovation-summit/",
           "source": "Daybook: International Events",
           "sourceId": "daybook_intl",
           "category": "daybook",
           "priority": "reference",
           "date": "Wed, 25 Feb 2026 23:05:44 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPc0J4TzJrR0V5TW5NUjlTeWFtVVhiWVBjWUxGM1NhOEhkc19IUjJ6VW1qSFJ0R2ZieTd1NUhfUEpqQWgzTV9nVG5qT0FtQU5yNzZLX3oxVjJBbXJlenpraXB6UzY3el9RN1pIcGh"
+        },
+        {
+          "headline": "Presidential summit recap: The disruption of higher education is here - Florida International University",
+          "url": "https://news.fiu.edu/2026/presidential-summit-recap-the-disruption-of-higher-education-is-here",
+          "source": "Daybook: International Events",
+          "sourceId": "daybook_intl",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Thu, 26 Feb 2026 14:01:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNdWJha1ZFOFNYcUtwdlFqRk4zU3lKcXJDOHVmRU5rN3VwVHNlc01YV3FXVXFqZXNqMVJ4cmZ2NElhemY3R1l1c0tWZlZYRVpVcDM5U2ZXaVVTNmJ2aWJHYXNpd1hqY3BZR0ZTSmd"
         },
         {
           "headline": "India’s AI summit draws global leaders, big pledges and some chaos - NBC News",
@@ -3545,7 +3555,7 @@
         },
         {
           "headline": "NDSU Women’s Basketball Tops South Dakota to Clinch Share of Summit League Title - gobison.com",
-          "url": "https://gobison.com/news/2026/2/21/womens-basketball-ndsu-womens-basketball-tops-south-dakota-to-clinch-share-of-summit-league-title.aspx",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdS1tcG1rTlJuZDBBYnhOX2tKaWoweDJ1SE1CSTR5Tk81WE5MUnloSWdrRVctSnRtbEN3NnpBUW5MYWQxaVVqUWl3bGRZZE0xMUhZcXVraFNUYlBaTS1kaVF5SUNyT01pNzduZ1JhNllMOTVRejk1N3pOVVVscnFfeFMydTVPMmZWZE95WXdOa0NLOXlPLVNRNU5FMUctanRycE1sZGs2bG1JbGxoREt1RFVfUXBaMjV6S0pMWEM0ZnZxd041enMyS0x6X2g4d3M2X3lN?oc=5",
           "source": "Daybook: International Events",
           "sourceId": "daybook_intl",
           "category": "daybook",
@@ -3575,23 +3585,13 @@
         },
         {
           "headline": "Chaos, confusion and $200 billion dreams: What I saw at India’s AI summit - CNBC",
-          "url": "https://www.cnbc.com/2026/02/21/ai-summit-india-tech.html",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Hb2p3em1Pbmt6Rm1PN09hSW0yU3JaelU2UXE2bVFPazRnaGJ2MTlEYTUzdmVLRllRU0pMa2xiRlE3eEFfc1ZuQ3NBUFNZY01hVGRuZmxoOFZ0YWVWWmFkZ0JkRWpiSjdC0gFuQVVfeXFMTlJEcjViTXd4V1pCYmJ1ZXBvS2xLUHdWWW1Ld0JPSElLNVlBVnlVSG1WRXVkdUFZbklBQVUxUG1rMEdERE1BTElvZzZMRDhJUnN6aW0zVzFDU3NOZVhCb0JjTGxVRnkwZWlxQ1I5RHc?oc=5",
           "source": "Daybook: International Events",
           "sourceId": "daybook_intl",
           "category": "daybook",
           "priority": "reference",
           "date": "Sat, 21 Feb 2026 08:50:57 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Hb2p3em1Pbmt6Rm1PN09hSW0yU3JaelU2UXE2bVFPazRnaGJ2MTlEYTUzdmVLRllRU0pMa2xiRlE3eEFfc1ZuQ3NBUFNZY01hVGRuZmxoOFZ0YWVWWmFkZ0JkRWpiSjdC0gFuQVV"
-        },
-        {
-          "headline": "2026 #SummitSD Championships All-League Teams Announced - The Summit League",
-          "url": "https://thesummitleague.org/news/2026/2/23/mens-swimming-and-diving-2026-summitsd-championships-all-league-teams-announced.aspx",
-          "source": "Daybook: International Events",
-          "sourceId": "daybook_intl",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Wed, 25 Feb 2026 16:34:49 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOeHpJelZLcXdYaEtnc3FCVkdSVkg5WmZRQ05yU2VEZzBYUC0xVWtrOFRYUGpvLXJ6bzZCdkRLaE9KeUt4QXM3SjFRYmpQOXNZQ2FvYUlQbzBxWXNtX1VZaWoydDcxS0luTG5wNnJ"
         },
         {
           "headline": "Trade Deadline, playoff races among top storylines after Olympic break - NHL.com",
@@ -3664,16 +3664,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPSmZpdlh5Q3Zta1NBNVNGaXZpZHBYMnh3ODUwQ2EzMEJ5WWlUeHhnMThYSG1YWEpfRzNaOTM1SlNWUXFNbVByeU54RDNfUU93UzVVMkY0dGZ6cklkQmw5MkMtcW1JYU1jNUVaclF"
         },
         {
-          "headline": "Kraken return from Olympic break for trade deadline and playoff push - The Seattle Times",
-          "url": "https://www.seattletimes.com/sports/kraken/kraken-return-from-olympic-break-for-trade-deadline-and-playoff-push/",
-          "source": "Daybook: Economic Calendar",
-          "sourceId": "daybook_econ",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Wed, 25 Feb 2026 14:00:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQaW1JenVYX2t0SHJSTFB6TURlZFpVaVBQcThUeHFDWC1ESGtsbHp1VWJZUS10MDg2NmZNUTNRNktGRU5vQVlDeVdyYlZuNWFySDVSYlNPSmdDNWJYRk43Z0hBXy04M19kTktNNm5"
-        },
-        {
           "headline": "NHL Trade Deadline: Bill Zito, Florida Panthers Standing By. For Now - Florida Hockey Now",
           "url": "https://floridahockeynow.com/nhl-trade-deadline-bill-zito-florida-panthers-standing-by/",
           "source": "Daybook: Economic Calendar",
@@ -3682,6 +3672,16 @@
           "priority": "reference",
           "date": "Wed, 25 Feb 2026 13:21:57 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQUEJuZWtqWU5Jbk43U0lldTN6LW1VblNUcmREaUE5dms3RTZwODlaNDh4bDVOcDNZVHZLRVpGQ2I5Z1FnaWNUdHBRanF4cDcxd2hVSEdUVkJ0Vndwb1FhZmVsb2hmaXgwandNMnl"
+        },
+        {
+          "headline": "Kraken return from Olympic break for trade deadline and playoff push - The Seattle Times",
+          "url": "https://www.seattletimes.com/sports/kraken/kraken-return-from-olympic-break-for-trade-deadline-and-playoff-push/",
+          "source": "Daybook: Economic Calendar",
+          "sourceId": "daybook_econ",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Wed, 25 Feb 2026 14:00:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQaW1JenVYX2t0SHJSTFB6TURlZFpVaVBQcThUeHFDWC1ESGtsbHp1VWJZUS10MDg2NmZNUTNRNktGRU5vQVlDeVdyYlZuNWFySDVSYlNPSmdDNWJYRk43Z0hBXy04M19kTktNNm5"
         },
         {
           "headline": "Columbus Blue Jackets may hang onto free agents past trade deadline - The Columbus Dispatch",
@@ -3754,6 +3754,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPaEpha2VDb2h3SklZMll6eDhidXkxYnpRakhtYVNEX0M5QUlVQTczTzNYU1BPSi1heWVmMWRfcGtSbDFHREQ0RzVMVmw0a1dsYUYtblFhMmJsVDM0MmNmY3VuRHdrc2Z6NFYwbWV"
         },
         {
+          "headline": "2025-26 NHL trade deadline live tracker: Deals, grades, more - ESPN",
+          "url": "https://www.espn.com/nhl/story/_/id/48043649/nhl-trade-deadline-2026-latest-contracts-rumors-grades-players",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Thu, 26 Feb 2026 20:00:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaVdKUEQyb3ZXWElDLWc2dURkd0ZZVjQ1enZrTkU5dk9fU3pWQUNUWW0tNHdXeW5hMDJLajYzcU1JT0xYVy1vN1pQOGYxRHZZLXIxNDJXT2I0VERWWW9qdTZaVVBja19kcHRhR3l"
+        },
+        {
           "headline": "Humanities journal Tabula Rasa accepting submissions; deadline is April 1 - Vanderbilt Health News",
           "url": "https://news.vumc.org/2026/02/26/humanities-journal-tabula-rasa-accepting-submissions-deadline-is-april-1/",
           "source": "Daybook: Scheduled Events",
@@ -3772,16 +3782,6 @@
           "priority": "reference",
           "date": "Thu, 26 Feb 2026 05:07:07 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOcW1NMTgtNGFwelZLVTVjNHRLR1F2eFFFZDl2ODFISGRqR1g5SFR5TEdoR0xHaW9UUERmd01jQ1Y2MUc2M2lLX05iblZmX1kyN3dJS0xsR0pIUmpVRVhLYUFXX3ZBa0lVU0pGNzR"
-        },
-        {
-          "headline": "NHL trade deadline rankings tiers: Which players could move? - ESPN",
-          "url": "https://www.espn.com/nhl/story/_/id/48033531/nhl-2025-26-trade-deadline-rankings-tiers-rumors-top-players-teams",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Thu, 26 Feb 2026 12:30:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPb0NhREJzZF8wc3V1V3REZlFtRjd0dVNGRjJsZkJtcjU3OU1zSlVnSFg2YWpibXVuZUhrSmpPQmJsamxaZlVKODQ4elJKOTZUM0RiNnV2dktiWjhRcUZMWFJVU2YyeG8tUktkelR"
         },
         {
           "headline": "Iran Says US Nuclear Talks So Far ‘Very Intense and Serious’ - Bloomberg.com",
@@ -3804,16 +3804,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcnNrc0lrenBENHJWWVZ3Wlc5NWFzdjJEZ2hobGc2UzI1WFdUeE9lekxsakh2amxKaGtjSHp1OEljVDg4TEFPWkRBSURLb29BcENwUW1ZRE9JU05panNNSGhZTVg0OE5WcENHRmQ"
         },
         {
-          "headline": "Congress misses E15 deadline, Iowa biofuels advocates ramp up pressure - The Des Moines Register",
-          "url": "https://www.desmoinesregister.com/story/news/politics/elections/2026/02/26/iowa-congress-misses-e15-deadline/88861980007/?gca-cat=p&gnt-cfr=1",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Thu, 26 Feb 2026 12:03:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOV0RyNHh4TTJwOFZ1YXVQRGpLWDRnOEpOT1d0d0VKRHY0YTF5eTZQQmFpMzY1N0lxck9ibF9LRkwtSDUtUDdGYlJuTm0tZGxxYTVxN2FFSWlTVm5hOXRLSHVUczNLWHBiZ2lTT1l"
-        },
-        {
           "headline": "Plea hearing scheduled for Columbia man charged in shooting of 3-year-old - KOMU 8",
           "url": "https://www.komu.com/news/midmissourinews/plea-hearing-scheduled-for-columbia-man-charged-in-shooting-of-3-year-old/article_0b05ddc0-0bcb-4d95-930a-9083aee104e8.html",
           "source": "Daybook: Scheduled Events",
@@ -3822,6 +3812,16 @@
           "priority": "reference",
           "date": "Thu, 26 Feb 2026 19:45:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxNZHdNTDdVT21ZNXRfdmhlak1WbkFhU2tzZFhSR1lwMnFUWmhPNU4tRmFVdkt0cUlvNGNmS0s0Vzd1UEloZGNIZWYwSTVMTFBvZEZOWHZRTjV6UjRiT2syWGZ6d0NqUFQ5NnVKZ09"
+        },
+        {
+          "headline": "Congress misses E15 deadline, Iowa biofuels advocates ramp up pressure - The Des Moines Register",
+          "url": "https://www.desmoinesregister.com/story/news/politics/elections/2026/02/26/iowa-congress-misses-e15-deadline/88861980007/?gca-cat=p&gnt-cfr=1",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Thu, 26 Feb 2026 12:03:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOV0RyNHh4TTJwOFZ1YXVQRGpLWDRnOEpOT1d0d0VKRHY0YTF5eTZQQmFpMzY1N0lxck9ibF9LRkwtSDUtUDdGYlJuTm0tZGxxYTVxN2FFSWlTVm5hOXRLSHVUczNLWHBiZ2lTT1l"
         },
         {
           "headline": "Fantasy spin on 2026 NHL Trade Deadline - NHL.com",
@@ -3834,16 +3834,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE13T2w2WkdXNERSTUhkejdIX2NjNm9VZm53bnVPRlJfeXduRjJlMnk5N2FnS1BtZzkySjQ4LTloLXl3RE5lWXI2WmxDM09wNko0YUNSM0txc0ZlTFlrZGtYOVlvX2JzU3AtcTF5YTV"
         },
         {
-          "headline": "Justices reveal little about whether the deadline for removing cases to federal court can be excused - SCOTUSblog",
-          "url": "https://www.scotusblog.com/2026/02/justices-reveal-little-about-whether-the-deadline-for-removing-cases-to-federal-court-can-be-excused/",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Wed, 25 Feb 2026 15:20:51 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeGkxWkt6U0w3Sm1xQlBYd3FyeGZuWFZfbzNOam5rOE9KQTNsNzdzOVBDb1BDQ0s3c0w2XzViTWE3Vi1wRS1sS3JzSDU0Nk05Zjl5UHFqQVNlNlBVVFBBZjRzQTBfT1Y5QlhhdXh"
-        },
-        {
           "headline": "Blackhawks' Connor Murphy feeling allure of playoffs as trade deadline nears - Chicago Sun-Times",
           "url": "https://chicago.suntimes.com/blackhawks/2026/02/26/blackhawks-connor-murphy-nhl-trade-deadline-rumors-playoffs-allure",
           "source": "Daybook: Scheduled Events",
@@ -3852,6 +3842,16 @@
           "priority": "reference",
           "date": "Thu, 26 Feb 2026 20:02:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdkdKbllNVUxRSDJ2V1ZPQndfQndfVlY0akFuMFJyRDFWaDJmTkF4S2FwcDNwNkZ5NDNrVDJfZjhORlhCSklvMWViNDIxYkRyREQ3MF9fRWtGam9IUUVoUWtVM2hzLWhtM1NBNUd"
+        },
+        {
+          "headline": "Justices reveal little about whether the deadline for removing cases to federal court can be excused - SCOTUSblog",
+          "url": "https://www.scotusblog.com/2026/02/justices-reveal-little-about-whether-the-deadline-for-removing-cases-to-federal-court-can-be-excused/",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Wed, 25 Feb 2026 15:20:51 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeGkxWkt6U0w3Sm1xQlBYd3FyeGZuWFZfbzNOam5rOE9KQTNsNzdzOVBDb1BDQ0s3c0w2XzViTWE3Vi1wRS1sS3JzSDU0Nk05Zjl5UHFqQVNlNlBVVFBBZjRzQTBfT1Y5QlhhdXh"
         },
         {
           "headline": "LIHEAP deadline moved up at South Central Community Action Partnership - KMVT",
@@ -3864,16 +3864,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQTHFhZ3FWS0NPN2dSeXNVaFZaLU9UazVKLS1YcVBiUDlLXzR5RG5ENlNFTkF5RllkdjB5RS1qcElxa1ltTDBod0hmZ1RpYXg0VExzSDlOSkFsYUpfalhnclQxSWxmOVRhRFgwY2F"
         },
         {
-          "headline": "With Neve Campbell and Kevin Williamson returning to the franchise they helped launch 30 years ago, the original 'Scream' team is full steam ahead. Read more below. - facebook.com",
-          "url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fdeadline%2Fphotos%2Fwith-neve-campbell-and-kevin-williamson-returning-to-the-franchise-they-helped-l%2F1275027121164292%2F",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Thu, 26 Feb 2026 19:57:11 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVVFpN0pxUC1mWWpIUWhBdlBwMUZ3ZVBjR29aWjctS0dGZVZwb1V5VFRZOVBwYUt6NUFkMUo0MzhONlRHdktZVlMxYnV2dHo0Ymd6S052VjBxbUdnc1Q5RlNBallZbkJZNUZwUWN"
-        },
-        {
           "headline": "Chris Pine Circling Lead Opposite Emma Stone In Universal Rom Com ‘The Catch’–The Dish - Deadline",
           "url": "https://deadline.com/2026/02/chris-pine-the-catch-emma-stone-1236736456/",
           "source": "Daybook: Scheduled Events",
@@ -3884,14 +3874,24 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9PVzZIczhhdHk4a3VXTTlLY3NsN0lPUHZ0SVU1Q3NNcDI0WVZPMlpCWkdnd291TDBDdWtBa09WQy1VYUJ5Tm9BRlRaZVVKY01Cd3hsU3ViaHdTTHFYbXhHR3Q2ajdwYjVRakNtZml"
         },
         {
-          "headline": "EXCLUSIVE: Universal Pictures upcoming romantic comedy ‘The Catch’ starring Emma Stone looks to be gaining some serious momentum as sources tell Deadline Chris Pine is in talks to star opposite the two time Oscar-winner. Full details here: https://deadli - facebook.com",
-          "url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fdeadline%2Fphotos%2Fexclusive-universal-pictures-upcoming-romantic-comedy-the-catch-starring-emma-st%2F1275165051150499%2F",
+          "headline": "NHL trade deadline rankings tiers: Which players could move? - ESPN",
+          "url": "https://www.espn.com/nhl/story/_/id/48033531/nhl-2025-26-trade-deadline-rankings-tiers-rumors-top-players-teams",
           "source": "Daybook: Scheduled Events",
           "sourceId": "daybook_scheduled",
           "category": "daybook",
           "priority": "reference",
-          "date": "Thu, 26 Feb 2026 17:34:01 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxObkcyTDlYV0V0aUotRWdSdFFBNjRkUndOTWMtMXIwVVNWTDl1Skx3TlpxRmF1TlVILVUwa3pyS05KMWF2NWtRNGZiTDB1WDBkUFhkVkdWZWVJSng4dGVDTFBjNS1SR25Pdk5laEV"
+          "date": "Thu, 26 Feb 2026 12:30:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPb0NhREJzZF8wc3V1V3REZlFtRjd0dVNGRjJsZkJtcjU3OU1zSlVnSFg2YWpibXVuZUhrSmpPQmJsamxaZlVKODQ4elJKOTZUM0RiNnV2dktiWjhRcUZMWFJVU2YyeG8tUktkelR"
+        },
+        {
+          "headline": "‘Talk To Me’ Immersive Series From XRTV &amp; Meta Sets Cast - Deadline",
+          "url": "https://deadline.com/2026/02/talk-to-me-series-sets-cast-1236736439/",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Thu, 26 Feb 2026 17:26:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5aN3NxdXdsWXdkMVVCVlJnUDlXeEdzVkp3S05wYWhtWm9WYm5nMHNuQkxlakNqSFhJUXVwZzVPNXdUUGpPcW1Va1hFSU5Gc19IVmJPRmVTZUZ1WFNJd1lHMU5vbF9xN3RNbnpwN1d"
         }
       ]
     },
@@ -4019,6 +4019,16 @@
           "description": ""
         },
         {
+          "headline": "Venezuela fuel station operators declare emergency on minimal earnings-document, sources - Reuters",
+          "url": "https://www.reuters.com/business/energy/venezuela-fuel-station-operators-declare-emergency-minimal-earnings-document-2026-02-26/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Thu, 26 Feb 2026 17:44:24 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNc0ZLa2ppWTJmaW54aWZnNDdwczhmZzVUVU5CSUJQcnk5Tm04aE9hU3dELTdNcFpoY2JDd2VLOTlLSmVfcjJJR0loU1J0SU1scGpZbkRsOXlhekN1M21jZC1xdWlXcVhzX3J6amg"
+        },
+        {
           "headline": "Hillary Clinton tells congressional panel she has no information on Epstein - Reuters",
           "url": "https://www.reuters.com/world/us/hillary-clinton-faces-epstein-congressional-inquiry-2026-02-26/",
           "source": "Reuters",
@@ -4086,6 +4096,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNT284MHQ5ZHVGbkhyRXZES3RfaXBXTDFxZWw5OEMxeGdVN0hMUHFSWTAta1JsdmJNVnBPX29ob1dFR1hxMmo5d0ZWbkttZ3pzUXIxX3R5cF90M2ZJQjJOemNocUNkeHg3N1dVMzR"
         },
         {
+          "headline": "Netflix and Apple TV join forces on F1 content - Reuters",
+          "url": "https://www.reuters.com/business/media-telecom/netflix-apple-tv-join-forces-f1-content-2026-02-26/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Thu, 26 Feb 2026 18:40:45 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNc1FwVkE3Z3REanZoUVVyaVc1X0Y5SzRDX3BkeGcxVXBBb2tQVWxqVHljeFB5UExqQ0JGQnBhb214eGI3VXV0X0kzZGJlX015aEFaTXBKTk94UjFwTzR4NEZfLU1kSmE3YnlBblV"
+        },
+        {
           "headline": "Eni can now receive oil from Venezuela as payment for gas, CEO says - Reuters",
           "url": "https://www.reuters.com/business/energy/eni-can-now-receive-oil-venezuela-payment-gas-ceo-says-2026-02-26/",
           "source": "Reuters",
@@ -4136,16 +4156,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQNjg3WDBLeE0yVVAwSEZPa3Z0elZZdGdaRUJNX3dYMkJPQlc3Qm13bXl4YlA4NmIwS2Q1eVBVMFlhdnNybktmSGtJdTBid1pQNTV0RmRWYmNoNlZDN2wwZVE1QVA1ZkFKOC12T2R"
         },
         {
-          "headline": "Tesla touts California robotaxis but does nothing to get permits - Reuters",
-          "url": "https://www.reuters.com/business/autos-transportation/musk-touts-california-robotaxis-tesla-does-nothing-get-permits-2026-02-26/",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Thu, 26 Feb 2026 11:06:17 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPdGZNM3lRajlXMGdkV1Z3eGRMLTlvQVBUTVMxcV9FRU5PaUNaUkNfTm9mdVdoX3BZZVRUQkV5bWJBbzlzWENlU3Q3TGJhZ09EUUgzNTV6aGNkb2FLWWlQdzNyQ2lZbGJJTDkxdDV"
-        },
-        {
           "headline": "Exclusive: Trump EPA to shift at least half of waived biofuel obligations to big refiners, sources say - Reuters",
           "url": "https://www.reuters.com/sustainability/climate-energy/trump-epa-shift-least-half-waived-biofuel-obligations-big-refiners-sources-say-2026-02-26/",
           "source": "Reuters",
@@ -4156,24 +4166,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNjZDREw4MFJTYWgwSUktczIwSmF4dHgxNmFURy1oRWMtRTZaUFRGbGVfRTl4LWZRakFRaUVISldEaGphaE04cTlnMldSNzdVdUVTemlHcXdyY2cxc0Z6S1dTUFZDLVlOV1FPc1J"
         },
         {
-          "headline": "Wall St slides as tech rally stalls, AI enthusiasm wanes after Nvidia results - Reuters",
-          "url": "https://www.reuters.com/world/africa/us-stock-futures-waver-nvidias-blockbuster-results-draw-muted-response-2026-02-26/",
+          "headline": "Tesla touts California robotaxis but does nothing to get permits - Reuters",
+          "url": "https://www.reuters.com/business/autos-transportation/musk-touts-california-robotaxis-tesla-does-nothing-get-permits-2026-02-26/",
           "source": "Reuters",
           "sourceId": "reuters_world",
           "category": "wire",
           "priority": "primary",
-          "date": "Thu, 26 Feb 2026 11:11:43 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUkNMZnBnWlVNRzdyY0FSS0NmZTFNem5qb3Z4UHpkOFRGc3hxSG8xM2tUSnNrbDUyWjNqSzRMMGFaVFl6NUo1a0VsT0tzdUwxU1VDcm5CWXF5TEpScldjVlhzVUFBZzF4NlZodTl"
-        },
-        {
-          "headline": "Almost 8,000 died on migration routes in 2025 but toll likely far higher, says UN agency - Reuters",
-          "url": "https://www.reuters.com/world/almost-8000-died-migration-routes-2025-toll-likely-far-higher-says-un-agency-2026-02-26/",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Thu, 26 Feb 2026 11:36:47 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNY0JmS3h3blBfY1pIT3ptX2wtZC1LRWxzbHR5dXY4OGF5SEhSU2hHRGFzdFJULV9mRWRQN25CaWVEckRwdkJ3RmdkNjE1M21tZWI2Q2JtTjBLREdMNEVZNm1kUGhKanc4QzU2WGR"
+          "date": "Thu, 26 Feb 2026 11:06:17 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPdGZNM3lRajlXMGdkV1Z3eGRMLTlvQVBUTVMxcV9FRU5PaUNaUkNfTm9mdVdoX3BZZVRUQkV5bWJBbzlzWENlU3Q3TGJhZ09EUUgzNTV6aGNkb2FLWWlQdzNyQ2lZbGJJTDkxdDV"
         },
         {
           "headline": "US-Iran talks end after 'significant progress', mediator says",
@@ -4273,14 +4273,14 @@
           "description": "The terminated FBI staffers all participated in a probe into Trump's handling of classified documents after his first term."
         },
         {
-          "headline": "Four convicted over spyware scandal that shook Greece",
-          "url": "https://www.bbc.com/news/articles/cj6dx4886rpo?at_medium=RSS&amp;at_campaign=rss",
+          "headline": "Man, 82, crushed to death in car at Munich scrapyard",
+          "url": "https://www.bbc.com/news/articles/c4gj2ng03k8o?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC",
           "sourceId": "bbc_world",
           "category": "general",
           "priority": "primary",
-          "date": "Thu, 26 Feb 2026 15:05:53 GMT",
-          "description": "In what became known as \"Greece's Watergate\", surveillance software called Predator was used to target 87 people."
+          "date": "Thu, 26 Feb 2026 19:10:01 GMT",
+          "description": "Police said the car was meant to be scrapped and the man must have climbed into it without being noticed."
         },
         {
           "headline": "First writing may be 40,000 years earlier than thought",
@@ -4549,7 +4549,7 @@
           "sourceId": "ft_home",
           "category": "business",
           "priority": "primary",
-          "date": "Thu, 26 Feb 2026 19:13:15 GMT",
+          "date": "Thu, 26 Feb 2026 20:44:15 GMT",
           "description": "Oman’s foreign minister says the two countries are set to meet again following round of negotiations in Geneva"
         },
         {
@@ -5076,6 +5076,26 @@
           "description": "Check out the stocks Heard on the Street writers favor in their eighth annual stock-picking contest."
         },
         {
+          "headline": "Iranian foreign minister says US, Iran moving closer to deal",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/26/iranian-foreign-minister-says-us-iran-moving-closer-to-deal?traffic_source=rss",
+          "source": "Al Jazeera",
+          "sourceId": "aljazeera",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Thu, 26 Feb 2026 20:57:13 +0000",
+          "description": "Iranian Foreign Minister Abbas Araghchi says the US and Iran have moved closer to reaching an agreement."
+        },
+        {
+          "headline": "Columbia University students protest ICE arrest at university housing",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/2/26/columbia-university-students-protest-ice-arrest-at-university?traffic_source=rss",
+          "source": "Al Jazeera",
+          "sourceId": "aljazeera",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Thu, 26 Feb 2026 20:54:03 +0000",
+          "description": "Protesters gathered at Columbia University after Department of Homeland Security agents detained a student on campus."
+        },
+        {
           "headline": "US-Iran talks conclude with claims of progress but few details",
           "url": "https://www.aljazeera.com/news/2026/2/26/us-iran-talks-conclude-claims-progress-few-details?traffic_source=rss",
           "source": "Al Jazeera",
@@ -5211,26 +5231,6 @@
           "priority": "secondary",
           "date": "Thu, 26 Feb 2026 15:54:48 +0000",
           "description": "The US says it will licence entities to sell the oil to Cuba except those linked to the Cuban government and military."
-        },
-        {
-          "headline": "From Gaza to defence: Five key takeaways from Indian PM Modi’s Israel visit",
-          "url": "https://www.aljazeera.com/features/2026/2/26/from-gaza-to-defence-five-key-takeaways-from-indian-pm-modis-israel-visit?traffic_source=rss",
-          "source": "Al Jazeera",
-          "sourceId": "aljazeera",
-          "category": "general",
-          "priority": "secondary",
-          "date": "Thu, 26 Feb 2026 15:52:15 +0000",
-          "description": "Indian PM throws his weight behind Israel&#039;s Netanyahu even as genocide continues in occupied Palestinian territory."
-        },
-        {
-          "headline": "Epstein and the politics of distraction",
-          "url": "https://www.aljazeera.com/opinions/2026/2/26/epstein-and-the-politics-of-distraction?traffic_source=rss",
-          "source": "Al Jazeera",
-          "sourceId": "aljazeera",
-          "category": "general",
-          "priority": "secondary",
-          "date": "Thu, 26 Feb 2026 15:44:40 +0000",
-          "description": "Scandal individualises corruption, creating a spectacle that redirects anger away from structural power."
         },
         {
           "headline": "Pakistan vows 'immediate response' after Afghanistan launches retaliatory attacks",
@@ -5467,13 +5467,23 @@
         },
         {
           "headline": "A4A Leadership Participates in ATCA Aviation Innovation Summit - Airlines for America",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPc0J4TzJrR0V5TW5NUjlTeWFtVVhiWVBjWUxGM1NhOEhkc19IUjJ6VW1qSFJ0R2ZieTd1NUhfUEpqQWgzTV9nVG5qT0FtQU5yNzZLX3oxVjJBbXJlenpraXB6UzY3el9RN1pIcGhmckJoajdWN2FvcHl2R0tCMVRud2NUZF9hb0JtdzNqUUEyb0o3QQ?oc=5",
+          "url": "https://www.airlines.org/a4a-leadership-participates-in-atca-aviation-innovation-summit/",
           "source": "Daybook: International Events",
           "sourceId": "daybook_intl",
           "category": "daybook",
           "priority": "reference",
           "date": "Wed, 25 Feb 2026 23:05:44 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPc0J4TzJrR0V5TW5NUjlTeWFtVVhiWVBjWUxGM1NhOEhkc19IUjJ6VW1qSFJ0R2ZieTd1NUhfUEpqQWgzTV9nVG5qT0FtQU5yNzZLX3oxVjJBbXJlenpraXB6UzY3el9RN1pIcGh"
+        },
+        {
+          "headline": "Presidential summit recap: The disruption of higher education is here - Florida International University",
+          "url": "https://news.fiu.edu/2026/presidential-summit-recap-the-disruption-of-higher-education-is-here",
+          "source": "Daybook: International Events",
+          "sourceId": "daybook_intl",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Thu, 26 Feb 2026 14:01:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNdWJha1ZFOFNYcUtwdlFqRk4zU3lKcXJDOHVmRU5rN3VwVHNlc01YV3FXVXFqZXNqMVJ4cmZ2NElhemY3R1l1c0tWZlZYRVpVcDM5U2ZXaVVTNmJ2aWJHYXNpd1hqY3BZR0ZTSmd"
         },
         {
           "headline": "India’s AI summit draws global leaders, big pledges and some chaos - NBC News",
@@ -5487,7 +5497,7 @@
         },
         {
           "headline": "NDSU Women’s Basketball Tops South Dakota to Clinch Share of Summit League Title - gobison.com",
-          "url": "https://gobison.com/news/2026/2/21/womens-basketball-ndsu-womens-basketball-tops-south-dakota-to-clinch-share-of-summit-league-title.aspx",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdS1tcG1rTlJuZDBBYnhOX2tKaWoweDJ1SE1CSTR5Tk81WE5MUnloSWdrRVctSnRtbEN3NnpBUW5MYWQxaVVqUWl3bGRZZE0xMUhZcXVraFNUYlBaTS1kaVF5SUNyT01pNzduZ1JhNllMOTVRejk1N3pOVVVscnFfeFMydTVPMmZWZE95WXdOa0NLOXlPLVNRNU5FMUctanRycE1sZGs2bG1JbGxoREt1RFVfUXBaMjV6S0pMWEM0ZnZxd041enMyS0x6X2g4d3M2X3lN?oc=5",
           "source": "Daybook: International Events",
           "sourceId": "daybook_intl",
           "category": "daybook",
@@ -5517,23 +5527,13 @@
         },
         {
           "headline": "Chaos, confusion and $200 billion dreams: What I saw at India’s AI summit - CNBC",
-          "url": "https://www.cnbc.com/2026/02/21/ai-summit-india-tech.html",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Hb2p3em1Pbmt6Rm1PN09hSW0yU3JaelU2UXE2bVFPazRnaGJ2MTlEYTUzdmVLRllRU0pMa2xiRlE3eEFfc1ZuQ3NBUFNZY01hVGRuZmxoOFZ0YWVWWmFkZ0JkRWpiSjdC0gFuQVVfeXFMTlJEcjViTXd4V1pCYmJ1ZXBvS2xLUHdWWW1Ld0JPSElLNVlBVnlVSG1WRXVkdUFZbklBQVUxUG1rMEdERE1BTElvZzZMRDhJUnN6aW0zVzFDU3NOZVhCb0JjTGxVRnkwZWlxQ1I5RHc?oc=5",
           "source": "Daybook: International Events",
           "sourceId": "daybook_intl",
           "category": "daybook",
           "priority": "reference",
           "date": "Sat, 21 Feb 2026 08:50:57 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Hb2p3em1Pbmt6Rm1PN09hSW0yU3JaelU2UXE2bVFPazRnaGJ2MTlEYTUzdmVLRllRU0pMa2xiRlE3eEFfc1ZuQ3NBUFNZY01hVGRuZmxoOFZ0YWVWWmFkZ0JkRWpiSjdC0gFuQVV"
-        },
-        {
-          "headline": "2026 #SummitSD Championships All-League Teams Announced - The Summit League",
-          "url": "https://thesummitleague.org/news/2026/2/23/mens-swimming-and-diving-2026-summitsd-championships-all-league-teams-announced.aspx",
-          "source": "Daybook: International Events",
-          "sourceId": "daybook_intl",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Wed, 25 Feb 2026 16:34:49 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOeHpJelZLcXdYaEtnc3FCVkdSVkg5WmZRQ05yU2VEZzBYUC0xVWtrOFRYUGpvLXJ6bzZCdkRLaE9KeUt4QXM3SjFRYmpQOXNZQ2FvYUlQbzBxWXNtX1VZaWoydDcxS0luTG5wNnJ"
         },
         {
           "headline": "Trade Deadline, playoff races among top storylines after Olympic break - NHL.com",
@@ -5606,16 +5606,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPSmZpdlh5Q3Zta1NBNVNGaXZpZHBYMnh3ODUwQ2EzMEJ5WWlUeHhnMThYSG1YWEpfRzNaOTM1SlNWUXFNbVByeU54RDNfUU93UzVVMkY0dGZ6cklkQmw5MkMtcW1JYU1jNUVaclF"
         },
         {
-          "headline": "Kraken return from Olympic break for trade deadline and playoff push - The Seattle Times",
-          "url": "https://www.seattletimes.com/sports/kraken/kraken-return-from-olympic-break-for-trade-deadline-and-playoff-push/",
-          "source": "Daybook: Economic Calendar",
-          "sourceId": "daybook_econ",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Wed, 25 Feb 2026 14:00:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQaW1JenVYX2t0SHJSTFB6TURlZFpVaVBQcThUeHFDWC1ESGtsbHp1VWJZUS10MDg2NmZNUTNRNktGRU5vQVlDeVdyYlZuNWFySDVSYlNPSmdDNWJYRk43Z0hBXy04M19kTktNNm5"
-        },
-        {
           "headline": "NHL Trade Deadline: Bill Zito, Florida Panthers Standing By. For Now - Florida Hockey Now",
           "url": "https://floridahockeynow.com/nhl-trade-deadline-bill-zito-florida-panthers-standing-by/",
           "source": "Daybook: Economic Calendar",
@@ -5624,6 +5614,16 @@
           "priority": "reference",
           "date": "Wed, 25 Feb 2026 13:21:57 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQUEJuZWtqWU5Jbk43U0lldTN6LW1VblNUcmREaUE5dms3RTZwODlaNDh4bDVOcDNZVHZLRVpGQ2I5Z1FnaWNUdHBRanF4cDcxd2hVSEdUVkJ0Vndwb1FhZmVsb2hmaXgwandNMnl"
+        },
+        {
+          "headline": "Kraken return from Olympic break for trade deadline and playoff push - The Seattle Times",
+          "url": "https://www.seattletimes.com/sports/kraken/kraken-return-from-olympic-break-for-trade-deadline-and-playoff-push/",
+          "source": "Daybook: Economic Calendar",
+          "sourceId": "daybook_econ",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Wed, 25 Feb 2026 14:00:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQaW1JenVYX2t0SHJSTFB6TURlZFpVaVBQcThUeHFDWC1ESGtsbHp1VWJZUS10MDg2NmZNUTNRNktGRU5vQVlDeVdyYlZuNWFySDVSYlNPSmdDNWJYRk43Z0hBXy04M19kTktNNm5"
         },
         {
           "headline": "Columbus Blue Jackets may hang onto free agents past trade deadline - The Columbus Dispatch",
@@ -5696,6 +5696,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPaEpha2VDb2h3SklZMll6eDhidXkxYnpRakhtYVNEX0M5QUlVQTczTzNYU1BPSi1heWVmMWRfcGtSbDFHREQ0RzVMVmw0a1dsYUYtblFhMmJsVDM0MmNmY3VuRHdrc2Z6NFYwbWV"
         },
         {
+          "headline": "2025-26 NHL trade deadline live tracker: Deals, grades, more - ESPN",
+          "url": "https://www.espn.com/nhl/story/_/id/48043649/nhl-trade-deadline-2026-latest-contracts-rumors-grades-players",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Thu, 26 Feb 2026 20:00:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaVdKUEQyb3ZXWElDLWc2dURkd0ZZVjQ1enZrTkU5dk9fU3pWQUNUWW0tNHdXeW5hMDJLajYzcU1JT0xYVy1vN1pQOGYxRHZZLXIxNDJXT2I0VERWWW9qdTZaVVBja19kcHRhR3l"
+        },
+        {
           "headline": "Humanities journal Tabula Rasa accepting submissions; deadline is April 1 - Vanderbilt Health News",
           "url": "https://news.vumc.org/2026/02/26/humanities-journal-tabula-rasa-accepting-submissions-deadline-is-april-1/",
           "source": "Daybook: Scheduled Events",
@@ -5714,16 +5724,6 @@
           "priority": "reference",
           "date": "Thu, 26 Feb 2026 05:07:07 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOcW1NMTgtNGFwelZLVTVjNHRLR1F2eFFFZDl2ODFISGRqR1g5SFR5TEdoR0xHaW9UUERmd01jQ1Y2MUc2M2lLX05iblZmX1kyN3dJS0xsR0pIUmpVRVhLYUFXX3ZBa0lVU0pGNzR"
-        },
-        {
-          "headline": "NHL trade deadline rankings tiers: Which players could move? - ESPN",
-          "url": "https://www.espn.com/nhl/story/_/id/48033531/nhl-2025-26-trade-deadline-rankings-tiers-rumors-top-players-teams",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Thu, 26 Feb 2026 12:30:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPb0NhREJzZF8wc3V1V3REZlFtRjd0dVNGRjJsZkJtcjU3OU1zSlVnSFg2YWpibXVuZUhrSmpPQmJsamxaZlVKODQ4elJKOTZUM0RiNnV2dktiWjhRcUZMWFJVU2YyeG8tUktkelR"
         },
         {
           "headline": "Iran Says US Nuclear Talks So Far ‘Very Intense and Serious’ - Bloomberg.com",
@@ -5746,16 +5746,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcnNrc0lrenBENHJWWVZ3Wlc5NWFzdjJEZ2hobGc2UzI1WFdUeE9lekxsakh2amxKaGtjSHp1OEljVDg4TEFPWkRBSURLb29BcENwUW1ZRE9JU05panNNSGhZTVg0OE5WcENHRmQ"
         },
         {
-          "headline": "Congress misses E15 deadline, Iowa biofuels advocates ramp up pressure - The Des Moines Register",
-          "url": "https://www.desmoinesregister.com/story/news/politics/elections/2026/02/26/iowa-congress-misses-e15-deadline/88861980007/?gca-cat=p&gnt-cfr=1",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Thu, 26 Feb 2026 12:03:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOV0RyNHh4TTJwOFZ1YXVQRGpLWDRnOEpOT1d0d0VKRHY0YTF5eTZQQmFpMzY1N0lxck9ibF9LRkwtSDUtUDdGYlJuTm0tZGxxYTVxN2FFSWlTVm5hOXRLSHVUczNLWHBiZ2lTT1l"
-        },
-        {
           "headline": "Plea hearing scheduled for Columbia man charged in shooting of 3-year-old - KOMU 8",
           "url": "https://www.komu.com/news/midmissourinews/plea-hearing-scheduled-for-columbia-man-charged-in-shooting-of-3-year-old/article_0b05ddc0-0bcb-4d95-930a-9083aee104e8.html",
           "source": "Daybook: Scheduled Events",
@@ -5764,6 +5754,16 @@
           "priority": "reference",
           "date": "Thu, 26 Feb 2026 19:45:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxNZHdNTDdVT21ZNXRfdmhlak1WbkFhU2tzZFhSR1lwMnFUWmhPNU4tRmFVdkt0cUlvNGNmS0s0Vzd1UEloZGNIZWYwSTVMTFBvZEZOWHZRTjV6UjRiT2syWGZ6d0NqUFQ5NnVKZ09"
+        },
+        {
+          "headline": "Congress misses E15 deadline, Iowa biofuels advocates ramp up pressure - The Des Moines Register",
+          "url": "https://www.desmoinesregister.com/story/news/politics/elections/2026/02/26/iowa-congress-misses-e15-deadline/88861980007/?gca-cat=p&gnt-cfr=1",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Thu, 26 Feb 2026 12:03:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOV0RyNHh4TTJwOFZ1YXVQRGpLWDRnOEpOT1d0d0VKRHY0YTF5eTZQQmFpMzY1N0lxck9ibF9LRkwtSDUtUDdGYlJuTm0tZGxxYTVxN2FFSWlTVm5hOXRLSHVUczNLWHBiZ2lTT1l"
         },
         {
           "headline": "Fantasy spin on 2026 NHL Trade Deadline - NHL.com",
@@ -5776,16 +5776,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE13T2w2WkdXNERSTUhkejdIX2NjNm9VZm53bnVPRlJfeXduRjJlMnk5N2FnS1BtZzkySjQ4LTloLXl3RE5lWXI2WmxDM09wNko0YUNSM0txc0ZlTFlrZGtYOVlvX2JzU3AtcTF5YTV"
         },
         {
-          "headline": "Justices reveal little about whether the deadline for removing cases to federal court can be excused - SCOTUSblog",
-          "url": "https://www.scotusblog.com/2026/02/justices-reveal-little-about-whether-the-deadline-for-removing-cases-to-federal-court-can-be-excused/",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Wed, 25 Feb 2026 15:20:51 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeGkxWkt6U0w3Sm1xQlBYd3FyeGZuWFZfbzNOam5rOE9KQTNsNzdzOVBDb1BDQ0s3c0w2XzViTWE3Vi1wRS1sS3JzSDU0Nk05Zjl5UHFqQVNlNlBVVFBBZjRzQTBfT1Y5QlhhdXh"
-        },
-        {
           "headline": "Blackhawks' Connor Murphy feeling allure of playoffs as trade deadline nears - Chicago Sun-Times",
           "url": "https://chicago.suntimes.com/blackhawks/2026/02/26/blackhawks-connor-murphy-nhl-trade-deadline-rumors-playoffs-allure",
           "source": "Daybook: Scheduled Events",
@@ -5794,6 +5784,16 @@
           "priority": "reference",
           "date": "Thu, 26 Feb 2026 20:02:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdkdKbllNVUxRSDJ2V1ZPQndfQndfVlY0akFuMFJyRDFWaDJmTkF4S2FwcDNwNkZ5NDNrVDJfZjhORlhCSklvMWViNDIxYkRyREQ3MF9fRWtGam9IUUVoUWtVM2hzLWhtM1NBNUd"
+        },
+        {
+          "headline": "Justices reveal little about whether the deadline for removing cases to federal court can be excused - SCOTUSblog",
+          "url": "https://www.scotusblog.com/2026/02/justices-reveal-little-about-whether-the-deadline-for-removing-cases-to-federal-court-can-be-excused/",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Wed, 25 Feb 2026 15:20:51 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeGkxWkt6U0w3Sm1xQlBYd3FyeGZuWFZfbzNOam5rOE9KQTNsNzdzOVBDb1BDQ0s3c0w2XzViTWE3Vi1wRS1sS3JzSDU0Nk05Zjl5UHFqQVNlNlBVVFBBZjRzQTBfT1Y5QlhhdXh"
         },
         {
           "headline": "LIHEAP deadline moved up at South Central Community Action Partnership - KMVT",
@@ -5806,16 +5806,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQTHFhZ3FWS0NPN2dSeXNVaFZaLU9UazVKLS1YcVBiUDlLXzR5RG5ENlNFTkF5RllkdjB5RS1qcElxa1ltTDBod0hmZ1RpYXg0VExzSDlOSkFsYUpfalhnclQxSWxmOVRhRFgwY2F"
         },
         {
-          "headline": "With Neve Campbell and Kevin Williamson returning to the franchise they helped launch 30 years ago, the original 'Scream' team is full steam ahead. Read more below. - facebook.com",
-          "url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fdeadline%2Fphotos%2Fwith-neve-campbell-and-kevin-williamson-returning-to-the-franchise-they-helped-l%2F1275027121164292%2F",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Thu, 26 Feb 2026 19:57:11 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVVFpN0pxUC1mWWpIUWhBdlBwMUZ3ZVBjR29aWjctS0dGZVZwb1V5VFRZOVBwYUt6NUFkMUo0MzhONlRHdktZVlMxYnV2dHo0Ymd6S052VjBxbUdnc1Q5RlNBallZbkJZNUZwUWN"
-        },
-        {
           "headline": "Chris Pine Circling Lead Opposite Emma Stone In Universal Rom Com ‘The Catch’–The Dish - Deadline",
           "url": "https://deadline.com/2026/02/chris-pine-the-catch-emma-stone-1236736456/",
           "source": "Daybook: Scheduled Events",
@@ -5826,14 +5816,24 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9PVzZIczhhdHk4a3VXTTlLY3NsN0lPUHZ0SVU1Q3NNcDI0WVZPMlpCWkdnd291TDBDdWtBa09WQy1VYUJ5Tm9BRlRaZVVKY01Cd3hsU3ViaHdTTHFYbXhHR3Q2ajdwYjVRakNtZml"
         },
         {
-          "headline": "EXCLUSIVE: Universal Pictures upcoming romantic comedy ‘The Catch’ starring Emma Stone looks to be gaining some serious momentum as sources tell Deadline Chris Pine is in talks to star opposite the two time Oscar-winner. Full details here: https://deadli - facebook.com",
-          "url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fdeadline%2Fphotos%2Fexclusive-universal-pictures-upcoming-romantic-comedy-the-catch-starring-emma-st%2F1275165051150499%2F",
+          "headline": "NHL trade deadline rankings tiers: Which players could move? - ESPN",
+          "url": "https://www.espn.com/nhl/story/_/id/48033531/nhl-2025-26-trade-deadline-rankings-tiers-rumors-top-players-teams",
           "source": "Daybook: Scheduled Events",
           "sourceId": "daybook_scheduled",
           "category": "daybook",
           "priority": "reference",
-          "date": "Thu, 26 Feb 2026 17:34:01 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxObkcyTDlYV0V0aUotRWdSdFFBNjRkUndOTWMtMXIwVVNWTDl1Skx3TlpxRmF1TlVILVUwa3pyS05KMWF2NWtRNGZiTDB1WDBkUFhkVkdWZWVJSng4dGVDTFBjNS1SR25Pdk5laEV"
+          "date": "Thu, 26 Feb 2026 12:30:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPb0NhREJzZF8wc3V1V3REZlFtRjd0dVNGRjJsZkJtcjU3OU1zSlVnSFg2YWpibXVuZUhrSmpPQmJsamxaZlVKODQ4elJKOTZUM0RiNnV2dktiWjhRcUZMWFJVU2YyeG8tUktkelR"
+        },
+        {
+          "headline": "‘Talk To Me’ Immersive Series From XRTV &amp; Meta Sets Cast - Deadline",
+          "url": "https://deadline.com/2026/02/talk-to-me-series-sets-cast-1236736439/",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Thu, 26 Feb 2026 17:26:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5aN3NxdXdsWXdkMVVCVlJnUDlXeEdzVkp3S05wYWhtWm9WYm5nMHNuQkxlakNqSFhJUXVwZzVPNXdUUGpPcW1Va1hFSU5Gc19IVmJPRmVTZUZ1WFNJd1lHMU5vbF9xN3RNbnpwN1d"
         }
       ]
     }
@@ -5921,13 +5921,23 @@
     },
     {
       "headline": "A4A Leadership Participates in ATCA Aviation Innovation Summit - Airlines for America",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPc0J4TzJrR0V5TW5NUjlTeWFtVVhiWVBjWUxGM1NhOEhkc19IUjJ6VW1qSFJ0R2ZieTd1NUhfUEpqQWgzTV9nVG5qT0FtQU5yNzZLX3oxVjJBbXJlenpraXB6UzY3el9RN1pIcGhmckJoajdWN2FvcHl2R0tCMVRud2NUZF9hb0JtdzNqUUEyb0o3QQ?oc=5",
+      "url": "https://www.airlines.org/a4a-leadership-participates-in-atca-aviation-innovation-summit/",
       "source": "Daybook: International Events",
       "sourceId": "daybook_intl",
       "category": "daybook",
       "priority": "reference",
       "date": "Wed, 25 Feb 2026 23:05:44 GMT",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPc0J4TzJrR0V5TW5NUjlTeWFtVVhiWVBjWUxGM1NhOEhkc19IUjJ6VW1qSFJ0R2ZieTd1NUhfUEpqQWgzTV9nVG5qT0FtQU5yNzZLX3oxVjJBbXJlenpraXB6UzY3el9RN1pIcGh"
+    },
+    {
+      "headline": "Presidential summit recap: The disruption of higher education is here - Florida International University",
+      "url": "https://news.fiu.edu/2026/presidential-summit-recap-the-disruption-of-higher-education-is-here",
+      "source": "Daybook: International Events",
+      "sourceId": "daybook_intl",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Thu, 26 Feb 2026 14:01:00 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNdWJha1ZFOFNYcUtwdlFqRk4zU3lKcXJDOHVmRU5rN3VwVHNlc01YV3FXVXFqZXNqMVJ4cmZ2NElhemY3R1l1c0tWZlZYRVpVcDM5U2ZXaVVTNmJ2aWJHYXNpd1hqY3BZR0ZTSmd"
     },
     {
       "headline": "India’s AI summit draws global leaders, big pledges and some chaos - NBC News",
@@ -5941,7 +5951,7 @@
     },
     {
       "headline": "NDSU Women’s Basketball Tops South Dakota to Clinch Share of Summit League Title - gobison.com",
-      "url": "https://gobison.com/news/2026/2/21/womens-basketball-ndsu-womens-basketball-tops-south-dakota-to-clinch-share-of-summit-league-title.aspx",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdS1tcG1rTlJuZDBBYnhOX2tKaWoweDJ1SE1CSTR5Tk81WE5MUnloSWdrRVctSnRtbEN3NnpBUW5MYWQxaVVqUWl3bGRZZE0xMUhZcXVraFNUYlBaTS1kaVF5SUNyT01pNzduZ1JhNllMOTVRejk1N3pOVVVscnFfeFMydTVPMmZWZE95WXdOa0NLOXlPLVNRNU5FMUctanRycE1sZGs2bG1JbGxoREt1RFVfUXBaMjV6S0pMWEM0ZnZxd041enMyS0x6X2g4d3M2X3lN?oc=5",
       "source": "Daybook: International Events",
       "sourceId": "daybook_intl",
       "category": "daybook",
@@ -5971,23 +5981,13 @@
     },
     {
       "headline": "Chaos, confusion and $200 billion dreams: What I saw at India’s AI summit - CNBC",
-      "url": "https://www.cnbc.com/2026/02/21/ai-summit-india-tech.html",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Hb2p3em1Pbmt6Rm1PN09hSW0yU3JaelU2UXE2bVFPazRnaGJ2MTlEYTUzdmVLRllRU0pMa2xiRlE3eEFfc1ZuQ3NBUFNZY01hVGRuZmxoOFZ0YWVWWmFkZ0JkRWpiSjdC0gFuQVVfeXFMTlJEcjViTXd4V1pCYmJ1ZXBvS2xLUHdWWW1Ld0JPSElLNVlBVnlVSG1WRXVkdUFZbklBQVUxUG1rMEdERE1BTElvZzZMRDhJUnN6aW0zVzFDU3NOZVhCb0JjTGxVRnkwZWlxQ1I5RHc?oc=5",
       "source": "Daybook: International Events",
       "sourceId": "daybook_intl",
       "category": "daybook",
       "priority": "reference",
       "date": "Sat, 21 Feb 2026 08:50:57 GMT",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Hb2p3em1Pbmt6Rm1PN09hSW0yU3JaelU2UXE2bVFPazRnaGJ2MTlEYTUzdmVLRllRU0pMa2xiRlE3eEFfc1ZuQ3NBUFNZY01hVGRuZmxoOFZ0YWVWWmFkZ0JkRWpiSjdC0gFuQVV"
-    },
-    {
-      "headline": "2026 #SummitSD Championships All-League Teams Announced - The Summit League",
-      "url": "https://thesummitleague.org/news/2026/2/23/mens-swimming-and-diving-2026-summitsd-championships-all-league-teams-announced.aspx",
-      "source": "Daybook: International Events",
-      "sourceId": "daybook_intl",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Wed, 25 Feb 2026 16:34:49 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOeHpJelZLcXdYaEtnc3FCVkdSVkg5WmZRQ05yU2VEZzBYUC0xVWtrOFRYUGpvLXJ6bzZCdkRLaE9KeUt4QXM3SjFRYmpQOXNZQ2FvYUlQbzBxWXNtX1VZaWoydDcxS0luTG5wNnJ"
     },
     {
       "headline": "Trade Deadline, playoff races among top storylines after Olympic break - NHL.com",
@@ -6060,16 +6060,6 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPSmZpdlh5Q3Zta1NBNVNGaXZpZHBYMnh3ODUwQ2EzMEJ5WWlUeHhnMThYSG1YWEpfRzNaOTM1SlNWUXFNbVByeU54RDNfUU93UzVVMkY0dGZ6cklkQmw5MkMtcW1JYU1jNUVaclF"
     },
     {
-      "headline": "Kraken return from Olympic break for trade deadline and playoff push - The Seattle Times",
-      "url": "https://www.seattletimes.com/sports/kraken/kraken-return-from-olympic-break-for-trade-deadline-and-playoff-push/",
-      "source": "Daybook: Economic Calendar",
-      "sourceId": "daybook_econ",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Wed, 25 Feb 2026 14:00:00 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQaW1JenVYX2t0SHJSTFB6TURlZFpVaVBQcThUeHFDWC1ESGtsbHp1VWJZUS10MDg2NmZNUTNRNktGRU5vQVlDeVdyYlZuNWFySDVSYlNPSmdDNWJYRk43Z0hBXy04M19kTktNNm5"
-    },
-    {
       "headline": "NHL Trade Deadline: Bill Zito, Florida Panthers Standing By. For Now - Florida Hockey Now",
       "url": "https://floridahockeynow.com/nhl-trade-deadline-bill-zito-florida-panthers-standing-by/",
       "source": "Daybook: Economic Calendar",
@@ -6078,6 +6068,16 @@
       "priority": "reference",
       "date": "Wed, 25 Feb 2026 13:21:57 GMT",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQUEJuZWtqWU5Jbk43U0lldTN6LW1VblNUcmREaUE5dms3RTZwODlaNDh4bDVOcDNZVHZLRVpGQ2I5Z1FnaWNUdHBRanF4cDcxd2hVSEdUVkJ0Vndwb1FhZmVsb2hmaXgwandNMnl"
+    },
+    {
+      "headline": "Kraken return from Olympic break for trade deadline and playoff push - The Seattle Times",
+      "url": "https://www.seattletimes.com/sports/kraken/kraken-return-from-olympic-break-for-trade-deadline-and-playoff-push/",
+      "source": "Daybook: Economic Calendar",
+      "sourceId": "daybook_econ",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Wed, 25 Feb 2026 14:00:00 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQaW1JenVYX2t0SHJSTFB6TURlZFpVaVBQcThUeHFDWC1ESGtsbHp1VWJZUS10MDg2NmZNUTNRNktGRU5vQVlDeVdyYlZuNWFySDVSYlNPSmdDNWJYRk43Z0hBXy04M19kTktNNm5"
     },
     {
       "headline": "Columbus Blue Jackets may hang onto free agents past trade deadline - The Columbus Dispatch",
@@ -6150,6 +6150,16 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPaEpha2VDb2h3SklZMll6eDhidXkxYnpRakhtYVNEX0M5QUlVQTczTzNYU1BPSi1heWVmMWRfcGtSbDFHREQ0RzVMVmw0a1dsYUYtblFhMmJsVDM0MmNmY3VuRHdrc2Z6NFYwbWV"
     },
     {
+      "headline": "2025-26 NHL trade deadline live tracker: Deals, grades, more - ESPN",
+      "url": "https://www.espn.com/nhl/story/_/id/48043649/nhl-trade-deadline-2026-latest-contracts-rumors-grades-players",
+      "source": "Daybook: Scheduled Events",
+      "sourceId": "daybook_scheduled",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Thu, 26 Feb 2026 20:00:00 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaVdKUEQyb3ZXWElDLWc2dURkd0ZZVjQ1enZrTkU5dk9fU3pWQUNUWW0tNHdXeW5hMDJLajYzcU1JT0xYVy1vN1pQOGYxRHZZLXIxNDJXT2I0VERWWW9qdTZaVVBja19kcHRhR3l"
+    },
+    {
       "headline": "Humanities journal Tabula Rasa accepting submissions; deadline is April 1 - Vanderbilt Health News",
       "url": "https://news.vumc.org/2026/02/26/humanities-journal-tabula-rasa-accepting-submissions-deadline-is-april-1/",
       "source": "Daybook: Scheduled Events",
@@ -6168,16 +6178,6 @@
       "priority": "reference",
       "date": "Thu, 26 Feb 2026 05:07:07 GMT",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOcW1NMTgtNGFwelZLVTVjNHRLR1F2eFFFZDl2ODFISGRqR1g5SFR5TEdoR0xHaW9UUERmd01jQ1Y2MUc2M2lLX05iblZmX1kyN3dJS0xsR0pIUmpVRVhLYUFXX3ZBa0lVU0pGNzR"
-    },
-    {
-      "headline": "NHL trade deadline rankings tiers: Which players could move? - ESPN",
-      "url": "https://www.espn.com/nhl/story/_/id/48033531/nhl-2025-26-trade-deadline-rankings-tiers-rumors-top-players-teams",
-      "source": "Daybook: Scheduled Events",
-      "sourceId": "daybook_scheduled",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Thu, 26 Feb 2026 12:30:00 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPb0NhREJzZF8wc3V1V3REZlFtRjd0dVNGRjJsZkJtcjU3OU1zSlVnSFg2YWpibXVuZUhrSmpPQmJsamxaZlVKODQ4elJKOTZUM0RiNnV2dktiWjhRcUZMWFJVU2YyeG8tUktkelR"
     },
     {
       "headline": "Iran Says US Nuclear Talks So Far ‘Very Intense and Serious’ - Bloomberg.com",
@@ -6200,16 +6200,6 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcnNrc0lrenBENHJWWVZ3Wlc5NWFzdjJEZ2hobGc2UzI1WFdUeE9lekxsakh2amxKaGtjSHp1OEljVDg4TEFPWkRBSURLb29BcENwUW1ZRE9JU05panNNSGhZTVg0OE5WcENHRmQ"
     },
     {
-      "headline": "Congress misses E15 deadline, Iowa biofuels advocates ramp up pressure - The Des Moines Register",
-      "url": "https://www.desmoinesregister.com/story/news/politics/elections/2026/02/26/iowa-congress-misses-e15-deadline/88861980007/?gca-cat=p&gnt-cfr=1",
-      "source": "Daybook: Scheduled Events",
-      "sourceId": "daybook_scheduled",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Thu, 26 Feb 2026 12:03:00 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOV0RyNHh4TTJwOFZ1YXVQRGpLWDRnOEpOT1d0d0VKRHY0YTF5eTZQQmFpMzY1N0lxck9ibF9LRkwtSDUtUDdGYlJuTm0tZGxxYTVxN2FFSWlTVm5hOXRLSHVUczNLWHBiZ2lTT1l"
-    },
-    {
       "headline": "Plea hearing scheduled for Columbia man charged in shooting of 3-year-old - KOMU 8",
       "url": "https://www.komu.com/news/midmissourinews/plea-hearing-scheduled-for-columbia-man-charged-in-shooting-of-3-year-old/article_0b05ddc0-0bcb-4d95-930a-9083aee104e8.html",
       "source": "Daybook: Scheduled Events",
@@ -6218,6 +6208,16 @@
       "priority": "reference",
       "date": "Thu, 26 Feb 2026 19:45:00 GMT",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxNZHdNTDdVT21ZNXRfdmhlak1WbkFhU2tzZFhSR1lwMnFUWmhPNU4tRmFVdkt0cUlvNGNmS0s0Vzd1UEloZGNIZWYwSTVMTFBvZEZOWHZRTjV6UjRiT2syWGZ6d0NqUFQ5NnVKZ09"
+    },
+    {
+      "headline": "Congress misses E15 deadline, Iowa biofuels advocates ramp up pressure - The Des Moines Register",
+      "url": "https://www.desmoinesregister.com/story/news/politics/elections/2026/02/26/iowa-congress-misses-e15-deadline/88861980007/?gca-cat=p&gnt-cfr=1",
+      "source": "Daybook: Scheduled Events",
+      "sourceId": "daybook_scheduled",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Thu, 26 Feb 2026 12:03:00 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOV0RyNHh4TTJwOFZ1YXVQRGpLWDRnOEpOT1d0d0VKRHY0YTF5eTZQQmFpMzY1N0lxck9ibF9LRkwtSDUtUDdGYlJuTm0tZGxxYTVxN2FFSWlTVm5hOXRLSHVUczNLWHBiZ2lTT1l"
     },
     {
       "headline": "Fantasy spin on 2026 NHL Trade Deadline - NHL.com",
@@ -6230,16 +6230,6 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE13T2w2WkdXNERSTUhkejdIX2NjNm9VZm53bnVPRlJfeXduRjJlMnk5N2FnS1BtZzkySjQ4LTloLXl3RE5lWXI2WmxDM09wNko0YUNSM0txc0ZlTFlrZGtYOVlvX2JzU3AtcTF5YTV"
     },
     {
-      "headline": "Justices reveal little about whether the deadline for removing cases to federal court can be excused - SCOTUSblog",
-      "url": "https://www.scotusblog.com/2026/02/justices-reveal-little-about-whether-the-deadline-for-removing-cases-to-federal-court-can-be-excused/",
-      "source": "Daybook: Scheduled Events",
-      "sourceId": "daybook_scheduled",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Wed, 25 Feb 2026 15:20:51 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeGkxWkt6U0w3Sm1xQlBYd3FyeGZuWFZfbzNOam5rOE9KQTNsNzdzOVBDb1BDQ0s3c0w2XzViTWE3Vi1wRS1sS3JzSDU0Nk05Zjl5UHFqQVNlNlBVVFBBZjRzQTBfT1Y5QlhhdXh"
-    },
-    {
       "headline": "Blackhawks' Connor Murphy feeling allure of playoffs as trade deadline nears - Chicago Sun-Times",
       "url": "https://chicago.suntimes.com/blackhawks/2026/02/26/blackhawks-connor-murphy-nhl-trade-deadline-rumors-playoffs-allure",
       "source": "Daybook: Scheduled Events",
@@ -6248,6 +6238,16 @@
       "priority": "reference",
       "date": "Thu, 26 Feb 2026 20:02:00 GMT",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdkdKbllNVUxRSDJ2V1ZPQndfQndfVlY0akFuMFJyRDFWaDJmTkF4S2FwcDNwNkZ5NDNrVDJfZjhORlhCSklvMWViNDIxYkRyREQ3MF9fRWtGam9IUUVoUWtVM2hzLWhtM1NBNUd"
+    },
+    {
+      "headline": "Justices reveal little about whether the deadline for removing cases to federal court can be excused - SCOTUSblog",
+      "url": "https://www.scotusblog.com/2026/02/justices-reveal-little-about-whether-the-deadline-for-removing-cases-to-federal-court-can-be-excused/",
+      "source": "Daybook: Scheduled Events",
+      "sourceId": "daybook_scheduled",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Wed, 25 Feb 2026 15:20:51 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeGkxWkt6U0w3Sm1xQlBYd3FyeGZuWFZfbzNOam5rOE9KQTNsNzdzOVBDb1BDQ0s3c0w2XzViTWE3Vi1wRS1sS3JzSDU0Nk05Zjl5UHFqQVNlNlBVVFBBZjRzQTBfT1Y5QlhhdXh"
     },
     {
       "headline": "LIHEAP deadline moved up at South Central Community Action Partnership - KMVT",
@@ -6260,16 +6260,6 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQTHFhZ3FWS0NPN2dSeXNVaFZaLU9UazVKLS1YcVBiUDlLXzR5RG5ENlNFTkF5RllkdjB5RS1qcElxa1ltTDBod0hmZ1RpYXg0VExzSDlOSkFsYUpfalhnclQxSWxmOVRhRFgwY2F"
     },
     {
-      "headline": "With Neve Campbell and Kevin Williamson returning to the franchise they helped launch 30 years ago, the original 'Scream' team is full steam ahead. Read more below. - facebook.com",
-      "url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fdeadline%2Fphotos%2Fwith-neve-campbell-and-kevin-williamson-returning-to-the-franchise-they-helped-l%2F1275027121164292%2F",
-      "source": "Daybook: Scheduled Events",
-      "sourceId": "daybook_scheduled",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Thu, 26 Feb 2026 19:57:11 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVVFpN0pxUC1mWWpIUWhBdlBwMUZ3ZVBjR29aWjctS0dGZVZwb1V5VFRZOVBwYUt6NUFkMUo0MzhONlRHdktZVlMxYnV2dHo0Ymd6S052VjBxbUdnc1Q5RlNBallZbkJZNUZwUWN"
-    },
-    {
       "headline": "Chris Pine Circling Lead Opposite Emma Stone In Universal Rom Com ‘The Catch’–The Dish - Deadline",
       "url": "https://deadline.com/2026/02/chris-pine-the-catch-emma-stone-1236736456/",
       "source": "Daybook: Scheduled Events",
@@ -6280,14 +6270,24 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9PVzZIczhhdHk4a3VXTTlLY3NsN0lPUHZ0SVU1Q3NNcDI0WVZPMlpCWkdnd291TDBDdWtBa09WQy1VYUJ5Tm9BRlRaZVVKY01Cd3hsU3ViaHdTTHFYbXhHR3Q2ajdwYjVRakNtZml"
     },
     {
-      "headline": "EXCLUSIVE: Universal Pictures upcoming romantic comedy ‘The Catch’ starring Emma Stone looks to be gaining some serious momentum as sources tell Deadline Chris Pine is in talks to star opposite the two time Oscar-winner. Full details here: https://deadli - facebook.com",
-      "url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fdeadline%2Fphotos%2Fexclusive-universal-pictures-upcoming-romantic-comedy-the-catch-starring-emma-st%2F1275165051150499%2F",
+      "headline": "NHL trade deadline rankings tiers: Which players could move? - ESPN",
+      "url": "https://www.espn.com/nhl/story/_/id/48033531/nhl-2025-26-trade-deadline-rankings-tiers-rumors-top-players-teams",
       "source": "Daybook: Scheduled Events",
       "sourceId": "daybook_scheduled",
       "category": "daybook",
       "priority": "reference",
-      "date": "Thu, 26 Feb 2026 17:34:01 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxObkcyTDlYV0V0aUotRWdSdFFBNjRkUndOTWMtMXIwVVNWTDl1Skx3TlpxRmF1TlVILVUwa3pyS05KMWF2NWtRNGZiTDB1WDBkUFhkVkdWZWVJSng4dGVDTFBjNS1SR25Pdk5laEV"
+      "date": "Thu, 26 Feb 2026 12:30:00 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPb0NhREJzZF8wc3V1V3REZlFtRjd0dVNGRjJsZkJtcjU3OU1zSlVnSFg2YWpibXVuZUhrSmpPQmJsamxaZlVKODQ4elJKOTZUM0RiNnV2dktiWjhRcUZMWFJVU2YyeG8tUktkelR"
+    },
+    {
+      "headline": "‘Talk To Me’ Immersive Series From XRTV &amp; Meta Sets Cast - Deadline",
+      "url": "https://deadline.com/2026/02/talk-to-me-series-sets-cast-1236736439/",
+      "source": "Daybook: Scheduled Events",
+      "sourceId": "daybook_scheduled",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Thu, 26 Feb 2026 17:26:00 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5aN3NxdXdsWXdkMVVCVlJnUDlXeEdzVkp3S05wYWhtWm9WYm5nMHNuQkxlakNqSFhJUXVwZzVPNXdUUGpPcW1Va1hFSU5Gc19IVmJPRmVTZUZ1WFNJd1lHMU5vbF9xN3RNbnpwN1d"
     }
   ],
   "watchCandidates": [
@@ -6454,16 +6454,16 @@
       "category": "priority_signal",
       "priority": "primary",
       "topHeadlines": [
-        "Hillary Clinton testifies she has no information on Epstein’s crimes",
+        "Hillary Clinton demands public deposition after photo leak forces testimony to pause",
         "World Economic Forum head Børge Brende steps down following pressure over Epstein links",
         "Bill Gates ‘spoke candidly’ about Epstein ties at a Gates Foundation meeting, spokesperson says",
         "Judge rejects request to block Trump White House from building its $400 million ballroom project",
         "Trump administration asks the Supreme Court to allow an end to legal protections for Syrian migrants",
-        "US-Iran nuclear talks wrap up with no announcement of a deal as the risk of war looms",
-        "Brady Tkachuk slams White House TikTok as ‘clearly fake’ after anti-Canada slur",
+        "US hockey player Brady Tkachuk slams White House TikTok as ‘clearly fake’ after anti-Canada slur",
+        "A genetic analysis reveals new details on ancient couplings between humans and Neanderthals",
         "Judge scolds Shia LaBeouf and orders him to rehab after Mardi Gras arrest",
-        "Burger King is testing AI headsets that will know if employees say ‘welcome’ or ‘thank you’",
-        "The IRS broke the law by disclosing confidential information to ICE 42,695 times, judge says"
+        "The IRS broke the law by disclosing confidential information to ICE 42,695 times, judge says",
+        "FedEx says it will return to customers any refunds it gets back from Trump’s illegal tariffs"
       ]
     },
     {
@@ -6512,7 +6512,7 @@
       "category": "priority_signal",
       "priority": "primary",
       "topHeadlines": [
-        "Support the Guardian",
+        "The free press is under threat",
         "Janine di Giovanni My friend was killed for telling you the truth",
         "George Takei ‘I’ve spent two minutes longer in zero gravity than Shatner’",
         "Ask Ugly I pick at my pimples. How do I stop?",
