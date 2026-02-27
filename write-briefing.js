@@ -110,7 +110,10 @@ function formatTimestamp(timezone = 'America/New_York') {
     timeZoneName: 'short'
   }).split(' ').pop();
 
-  return { dateStr, timeStr, tzAbbr, full: `${dateStr} at ${timeStr} ${tzAbbr}` };
+  // ISO date for machine-readable contexts (feedback, etc.)
+  const isoDate = now.toLocaleDateString('en-CA', { timeZone: timezone }); // YYYY-MM-DD
+
+  return { dateStr, timeStr, tzAbbr, isoDate, full: `${dateStr} at ${timeStr} ${tzAbbr}` };
 }
 
 // ============================================
@@ -204,6 +207,72 @@ function generateHTML(briefingText, config) {
     '  </script>'
   ].join('\n');
 
+  // Feedback section — returns HTML + JS for the feedback widget
+  function feedbackBlock(isoDate) {
+    return [
+      '',
+      '  <div class="feedback-section" id="feedback-section" data-date="' + isoDate + '">',
+      '    <div class="feedback-prompt">How was today\'s briefing?</div>',
+      '    <div class="feedback-buttons" id="feedback-buttons">',
+      '      <button class="feedback-btn" data-reaction="thumbsup" onclick="selectReaction(this)">&#x1F44D;</button>',
+      '      <button class="feedback-btn" data-reaction="thumbsdown" onclick="selectReaction(this)">&#x1F44E;</button>',
+      '    </div>',
+      '    <textarea class="feedback-textarea" id="feedback-comment" placeholder="Optional: tell us more..." rows="3"></textarea>',
+      '    <button class="feedback-submit" id="feedback-submit" onclick="submitFeedback()">Send</button>',
+      '    <div class="feedback-thanks" id="feedback-thanks">Thanks for the feedback!</div>',
+      '  </div>',
+      '',
+      '  <script>',
+      '    var FEEDBACK_URL = "https://russell-briefing-refresh.adampasick.workers.dev/feedback";',
+      '    var selectedReaction = null;',
+      '',
+      '    (function() {',
+      '      var dateKey = document.getElementById("feedback-section").dataset.date;',
+      '      if (localStorage.getItem("feedback-sent-" + dateKey)) {',
+      '        document.getElementById("feedback-buttons").style.display = "none";',
+      '        document.querySelector(".feedback-prompt").style.display = "none";',
+      '        document.getElementById("feedback-thanks").style.display = "block";',
+      '        document.getElementById("feedback-thanks").textContent = "Feedback sent \\u2014 thank you!";',
+      '      }',
+      '    })();',
+      '',
+      '    function selectReaction(btn) {',
+      '      document.querySelectorAll(".feedback-btn").forEach(function(b) { b.classList.remove("selected"); });',
+      '      btn.classList.add("selected");',
+      '      selectedReaction = btn.dataset.reaction;',
+      '      document.getElementById("feedback-comment").style.display = "block";',
+      '      document.getElementById("feedback-submit").style.display = "block";',
+      '    }',
+      '',
+      '    async function submitFeedback() {',
+      '      if (!selectedReaction) return;',
+      '      var comment = document.getElementById("feedback-comment").value.trim();',
+      '      var dateKey = document.getElementById("feedback-section").dataset.date;',
+      '      var submitBtn = document.getElementById("feedback-submit");',
+      '      submitBtn.textContent = "Sending...";',
+      '      submitBtn.disabled = true;',
+      '      try {',
+      '        var res = await fetch(FEEDBACK_URL, {',
+      '          method: "POST",',
+      '          headers: { "Content-Type": "application/json" },',
+      '          body: JSON.stringify({ reaction: selectedReaction, comment: comment || "", briefingDate: dateKey })',
+      '        });',
+      '        if (!res.ok) throw new Error("Server error");',
+      '        document.getElementById("feedback-buttons").style.display = "none";',
+      '        document.getElementById("feedback-comment").style.display = "none";',
+      '        document.getElementById("feedback-submit").style.display = "none";',
+      '        document.querySelector(".feedback-prompt").style.display = "none";',
+      '        document.getElementById("feedback-thanks").style.display = "block";',
+      '        localStorage.setItem("feedback-sent-" + dateKey, "1");',
+      '      } catch (e) {',
+      '        submitBtn.textContent = "Error \\u2014 try again";',
+      '        submitBtn.disabled = false;',
+      '      }',
+      '    }',
+      '  </script>'
+    ].join('\n');
+  }
+
   return '<!DOCTYPE html>\n' +
     '<html lang="en">\n' +
     '<head>\n' +
@@ -257,6 +326,17 @@ function generateHTML(briefingText, config) {
     '    a:hover { text-decoration-color: #333; }\n' +
     '    strong { font-weight: 600; }\n' +
     '    .section-header { margin-top: 24px; margin-bottom: 12px; }\n' +
+    '    /* Feedback section */\n' +
+    '    .feedback-section { margin-top: 40px; padding-top: 24px; border-top: 1px solid #e0e0e0; text-align: center; }\n' +
+    '    .feedback-prompt { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-size: 0.85rem; color: #666; margin-bottom: 12px; }\n' +
+    '    .feedback-buttons { display: flex; justify-content: center; gap: 12px; margin-bottom: 12px; }\n' +
+    '    .feedback-btn { font-size: 1.4rem; padding: 8px 16px; border: 1px solid #ddd; border-radius: 8px; background: transparent; cursor: pointer; transition: background 0.15s; }\n' +
+    '    .feedback-btn:hover { background: #f0f0f0; }\n' +
+    '    .feedback-btn.selected { background: #e8e8e8; border-color: #999; }\n' +
+    '    .feedback-textarea { display: none; width: 100%; max-width: 480px; margin: 12px auto; padding: 10px; border: 1px solid #ddd; border-radius: 6px; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-size: 0.9rem; resize: vertical; }\n' +
+    '    .feedback-submit { display: none; margin: 8px auto; padding: 6px 20px; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-size: 0.85rem; border: 1px solid #ccc; border-radius: 4px; background: #f5f5f5; cursor: pointer; }\n' +
+    '    .feedback-submit:hover { background: #e8e8e8; }\n' +
+    '    .feedback-thanks { display: none; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-size: 0.85rem; color: #666; margin-top: 8px; }\n' +
     '  </style>\n' +
     '</head>\n' +
     '<body>\n' +
@@ -271,6 +351,7 @@ function generateHTML(briefingText, config) {
     '  <div id="content">\n' +
     contentHTML + '\n' +
     '  </div>\n' +
+    feedbackBlock(timestamp.isoDate) + '\n' +
     '</body>\n' +
     '</html>';
 }
@@ -289,10 +370,22 @@ function buildPrompt(briefing) {
   const byPriority = stories.byPriority || {};
 
   // ---- Recency filter ----
-  // Tag each story with hoursAgo and filter out anything > 24h.
-  // Stories from today's calendar day get priority; yesterday's get demoted.
-  // Broken dates (NaN) are kept but tagged as "unknown age" so they're not lost.
+  // Two-tier system:
+  //   - Hard cutoff: drop anything > 18h (not 24h — for a 5:30am run,
+  //     18h-old stories are genuinely "yesterday" and were likely in the
+  //     previous day's briefing already).
+  //   - Aging cap: stories 12-18h old are limited to MAX_AGING_PER_BUCKET
+  //     so the prompt is dominated by fresh content. This is the code gate
+  //     for Rule 10 ("prefer stories from the last 12 hours") — prose-only
+  //     rules don't work on LLMs.
+  //   - Null dates: limited to MAX_NULL_DATE so undated stories can't flood
+  //     the prompt and bypass age checks.
+  const HARD_CUTOFF_HOURS = 18;
+  const AGING_THRESHOLD_HOURS = 12;
+  const MAX_AGING_PER_BUCKET = 3;
+  const MAX_NULL_DATE = 2;
   const now = new Date();
+
   function tagRecency(storyList) {
     return (storyList || []).map(s => {
       if (s.date) {
@@ -304,22 +397,57 @@ function buildPrompt(briefing) {
     });
   }
 
-  function filterRecent(storyList, maxHours = 24) {
+  function filterRecent(storyList, label) {
     const tagged = tagRecency(storyList);
-    const fresh = tagged.filter(s => s.hoursAgo === null || s.hoursAgo <= maxHours);
-    const stale = tagged.length - fresh.length;
-    if (stale > 0) console.log(`  Filtered out ${stale} stories older than ${maxHours}h`);
-    // Sort: newest first (null ages go to end)
-    return fresh.sort((a, b) => {
+
+    // Hard cutoff: drop anything older than HARD_CUTOFF_HOURS
+    const underCutoff = tagged.filter(s => s.hoursAgo === null || s.hoursAgo <= HARD_CUTOFF_HOURS);
+    const hardDropped = tagged.length - underCutoff.length;
+
+    // Sort newest first (null ages to end)
+    underCutoff.sort((a, b) => {
       if (a.hoursAgo === null) return 1;
       if (b.hoursAgo === null) return -1;
       return a.hoursAgo - b.hoursAgo;
     });
+
+    // Aging cap: limit stories between 12-18h to MAX_AGING_PER_BUCKET
+    let agingCount = 0;
+    let agingCapped = 0;
+    let nullCount = 0;
+    let nullCapped = 0;
+    const result = underCutoff.filter(s => {
+      // Cap null-date stories
+      if (s.hoursAgo === null) {
+        nullCount++;
+        if (nullCount > MAX_NULL_DATE) { nullCapped++; return false; }
+        return true;
+      }
+      // Cap aging stories (12-18h)
+      if (s.hoursAgo > AGING_THRESHOLD_HOURS) {
+        agingCount++;
+        if (agingCount > MAX_AGING_PER_BUCKET) { agingCapped++; return false; }
+      }
+      return true;
+    });
+
+    // Log what happened
+    const parts = [];
+    if (hardDropped > 0) parts.push(`${hardDropped} dropped (>${HARD_CUTOFF_HOURS}h)`);
+    if (agingCapped > 0) parts.push(`${agingCapped} aging capped (12-${HARD_CUTOFF_HOURS}h, max ${MAX_AGING_PER_BUCKET})`);
+    if (nullCapped > 0) parts.push(`${nullCapped} null-date capped`);
+    if (parts.length > 0) {
+      console.log(`  ${label}: ${parts.join(', ')}`);
+    } else {
+      console.log(`  ${label}: all ${result.length} stories are fresh (<${AGING_THRESHOLD_HOURS}h)`);
+    }
+
+    return result;
   }
 
-  console.log('Applying recency filter (24h max)...');
-  const primaryStories = filterRecent(byPriority.primary || [], 24).slice(0, 15);
-  const secondaryStories = filterRecent(byPriority.secondary || [], 24).slice(0, 15);
+  console.log(`Applying recency filter (${HARD_CUTOFF_HOURS}h cutoff, ${AGING_THRESHOLD_HOURS}h aging cap)...`);
+  const primaryStories = filterRecent(byPriority.primary || [], 'primary').slice(0, 15);
+  const secondaryStories = filterRecent(byPriority.secondary || [], 'secondary').slice(0, 15);
 
   // Daybook stories: forward-looking event data from dedicated Google News
   // RSS queries. Passed separately so Claude uses them for "What to Watch".
@@ -365,7 +493,7 @@ BRIEFING-SPECIFIC RULES:
 7. The briefing MUST begin with the line: "Good morning, Russell! Here's what happened while you were sleeping." (on its own line, before the first section header). This is NOT a bullet point — just a plain text greeting.
 8. ACTIVELY SCAN for forward-looking language in stories: "scheduled for", "set to", "expected to", "will meet", "vote on", "summit begins", "deadline", "hearing", "ruling expected". Pull these into the What to Watch section.
 9. LINK DIVERSITY: Spread links across at least 4 different source domains. No single domain should account for more than 30% of all links.
-10. RECENCY: Each story has an "hoursAgo" field showing how old it is. For Top Stories, strongly prefer stories from the last 12 hours. Stories older than 18 hours should only appear if they are genuinely major and no fresher coverage exists.
+10. RECENCY: Each story has an "hoursAgo" field. Stories are pre-filtered to 18h max, with aging stories (12-18h) capped at 3 per source tier. Strongly prefer stories under 12 hours old for Top Stories. If a story's hoursAgo is >12, only include it if it is genuinely major breaking news with no fresher alternative.
 11. ATTRIBUTION-URL BINDING: When you attribute a story to a source, the source name MUST match the domain of the URL you link. If you link to apnews.com, write "AP" not "Reuters". If you link to reuters.com, write "Reuters" not "Bloomberg". Each story in the data below has a "source" field — use it. Before finalizing each bullet, double-check: does my attribution match the link's domain?
 12. ONE LINK PER BULLET: Each bullet should link to ONE primary source. Do not combine multiple non-NYT links in a single bullet — it creates attribution confusion and makes errors hard to catch.`;
 

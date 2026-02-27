@@ -100,6 +100,61 @@ export default {
         });
       }
 
+      // POST /feedback - Create a GitHub Issue from reader feedback
+      if (path === '/feedback' && request.method === 'POST') {
+        const body = await request.json();
+        const { reaction, comment, briefingDate } = body;
+
+        // Map reaction names to emoji (avoids encoding issues in POST body)
+        const reactionMap = { thumbsup: '\u{1F44D}', thumbsdown: '\u{1F44E}' };
+        const emoji = reactionMap[reaction];
+        if (!emoji) {
+          return new Response(JSON.stringify({ error: 'Invalid reaction' }), {
+            status: 400,
+            headers: { ...corsHeaders, 'Content-Type': 'application/json' }
+          });
+        }
+
+        // Build issue body
+        const issueBody = [
+          `**Reaction:** ${emoji}`,
+          comment ? `**Comment:** ${comment}` : '',
+          `**Briefing date:** ${briefingDate || 'unknown'}`,
+          `**Submitted:** ${new Date().toISOString()}`
+        ].filter(Boolean).join('\n\n');
+
+        // Create GitHub Issue
+        const ghResponse = await fetch(
+          `https://api.github.com/repos/${GITHUB_REPO}/issues`,
+          {
+            method: 'POST',
+            headers: {
+              'Accept': 'application/vnd.github+json',
+              'Authorization': `Bearer ${env.GITHUB_TOKEN}`,
+              'X-GitHub-Api-Version': '2022-11-28',
+              'User-Agent': 'russell-briefing-worker'
+            },
+            body: JSON.stringify({
+              title: `Feedback \u2014 ${briefingDate || 'unknown'} \u2014 ${emoji}`,
+              body: issueBody,
+              labels: ['feedback']
+            })
+          }
+        );
+
+        if (!ghResponse.ok) {
+          const text = await ghResponse.text();
+          return new Response(JSON.stringify({ error: 'Failed to create issue', details: text }), {
+            status: ghResponse.status,
+            headers: { ...corsHeaders, 'Content-Type': 'application/json' }
+          });
+        }
+
+        return new Response(JSON.stringify({ success: true }), {
+          headers: { ...corsHeaders, 'Content-Type': 'application/json' }
+        });
+      }
+
       // Health check
       if (path === '/' || path === '/health') {
         return new Response(JSON.stringify({ status: 'ok', repo: GITHUB_REPO }), {
