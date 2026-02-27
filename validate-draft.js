@@ -457,12 +457,24 @@ function validateAttributionDomainMatch(text) {
         // Does the link domain match any of the expected domains?
         const domainMatches = expectedDomains.some(d => domain.includes(d));
         if (!domainMatches) {
-          issues.push({
-            type: 'error',
-            message: `Attribution says "${sourceName}" but links to ${domain}`,
-            line: link.line,
-            context: getContext(text, link.index),
+          // Before flagging: check if this source name actually matches a
+          // DIFFERENT link on the same line. Multi-link bullets often have
+          // "the BBC reports" for one link and an AP link nearby — the
+          // attribution is correct for the BBC link, not a mismatch for AP.
+          const sameLine = allLinks.filter(l => l.line === link.line && l !== link);
+          const attributionMatchesOtherLink = sameLine.some(other => {
+            const otherDomain = extractDomain(other.url);
+            return otherDomain && expectedDomains.some(d => otherDomain.includes(d));
           });
+
+          if (!attributionMatchesOtherLink) {
+            issues.push({
+              type: 'error',
+              message: `Attribution says "${sourceName}" but links to ${domain}`,
+              line: link.line,
+              context: getContext(text, link.index),
+            });
+          }
         }
         break; // Only check the first matching source name
       }

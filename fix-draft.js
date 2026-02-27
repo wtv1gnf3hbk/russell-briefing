@@ -362,85 +362,85 @@ function fixAttributionDomain(text) {
     const lineLinks = allLinks.filter(l => l.line === lineIdx + 1);
     if (lineLinks.length === 0) continue;
 
+    // Count non-NYT links on this line. If there are multiple, skip —
+    // ambiguity is too high (one source mention might be correct for
+    // a different link, and replacing it would create cascading errors).
+    const nonNytLinks = lineLinks.filter(l => {
+      const d = extractDomain(l.url);
+      return d && !d.includes('nytimes.com');
+    });
+    if (nonNytLinks.length !== 1) continue; // Only fix single-link bullets
+
+    const link = nonNytLinks[0];
+    const domain = extractDomain(link.url);
+    const correctAttribution = getAttributionForDomain(domain);
+    if (!correctAttribution) continue;
+
     let fixedLine = line;
     let madeChange = false;
 
-    for (const link of lineLinks) {
-      const domain = extractDomain(link.url);
-      if (!domain) continue;
-      // Skip NYT links (no attribution needed)
-      if (domain.includes('nytimes.com')) continue;
+    // Check each known source name against this line
+    for (const [sourceName, expectedDomains] of Object.entries(SOURCE_DOMAINS)) {
+      // Does the line mention this source?
+      const lowerLine = fixedLine.toLowerCase();
+      if (!lowerLine.includes(sourceName.toLowerCase())) continue;
 
-      const correctAttribution = getAttributionForDomain(domain);
-      if (!correctAttribution) continue;
+      // Does the link domain match the expected domains for this source?
+      const domainMatches = expectedDomains.some(d => domain.includes(d));
+      if (domainMatches) continue; // No mismatch — skip
 
-      // Check each known source name against this line
-      for (const [sourceName, expectedDomains] of Object.entries(SOURCE_DOMAINS)) {
-        // Does the line mention this source?
-        const lowerLine = fixedLine.toLowerCase();
-        if (!lowerLine.includes(sourceName.toLowerCase())) continue;
+      // MISMATCH: line says "sourceName" but URL goes to a different domain.
+      // Find the display form in the actual text and replace it.
+      const displayForms = SOURCE_DISPLAY_FORMS[sourceName];
+      if (!displayForms) continue;
 
-        // Does the link domain match the expected domains for this source?
-        const domainMatches = expectedDomains.some(d => domain.includes(d));
-        if (domainMatches) continue; // No mismatch — skip
+      for (const form of displayForms) {
+        // Case-insensitive search for the display form in the line
+        const formRegex = new RegExp(escapeRegex(form), 'i');
+        const formMatch = formRegex.exec(fixedLine);
+        if (!formMatch) continue;
 
-        // MISMATCH: line says "sourceName" but URL goes to a different domain.
-        // Find the display form in the actual text and replace it.
-        const displayForms = SOURCE_DISPLAY_FORMS[sourceName];
-        if (!displayForms) continue;
+        const originalForm = formMatch[0];
+        const replacement = correctAttribution;
 
-        for (const form of displayForms) {
-          // Case-insensitive search for the display form in the line
-          const formRegex = new RegExp(escapeRegex(form), 'i');
-          const formMatch = formRegex.exec(fixedLine);
-          if (!formMatch) continue;
+        // Handle "the" prefix: if original had "the X" and replacement starts
+        // with "the", just swap. If original had "the X" but replacement doesn't
+        // start with "the", remove the preceding "the " too.
+        let actualOriginal = originalForm;
+        let actualReplacement = replacement;
 
-          const originalForm = formMatch[0]; // preserve original casing context
-          const replacement = correctAttribution;
+        // Check if there's a "the " before the matched form that's part of
+        // the attribution (e.g., "per the BBC" where "the" isn't part of
+        // SOURCE_DISPLAY_FORMS but is in the text)
+        const beforeIdx = formMatch.index;
+        const textBefore = fixedLine.substring(Math.max(0, beforeIdx - 4), beforeIdx);
 
-          // Handle "the" prefix: if original had "the X" and replacement starts
-          // with "the", just swap. If original had "the X" but replacement doesn't
-          // start with "the", remove the preceding "the " too.
-          let actualOriginal = originalForm;
-          let actualReplacement = replacement;
-
-          // Check if there's a "the " before the matched form that's part of
-          // the attribution (e.g., "per the BBC" where "the" isn't part of
-          // SOURCE_DISPLAY_FORMS but is in the text)
-          const beforeIdx = formMatch.index;
-          const textBefore = fixedLine.substring(Math.max(0, beforeIdx - 4), beforeIdx);
-
-          if (textBefore.match(/the\s$/i) && !form.toLowerCase().startsWith('the')) {
-            // There's a "the " before the source name.
-            // If replacement starts with "the ", include the preceding "the " in the original
-            if (replacement.toLowerCase().startsWith('the ')) {
-              actualOriginal = textBefore.match(/the\s$/i)[0] + originalForm;
-              actualReplacement = replacement;
-            } else {
-              // Replacement doesn't have "the" — remove the preceding "the " too
-              actualOriginal = textBefore.match(/the\s$/i)[0] + originalForm;
-              actualReplacement = replacement;
-            }
-          } else if (form.toLowerCase().startsWith('the ') && !replacement.toLowerCase().startsWith('the ')) {
-            // Display form includes "the" but replacement doesn't — just replace whole thing
+        if (textBefore.match(/the\s$/i) && !form.toLowerCase().startsWith('the')) {
+          if (replacement.toLowerCase().startsWith('the ')) {
+            actualOriginal = textBefore.match(/the\s$/i)[0] + originalForm;
+            actualReplacement = replacement;
+          } else {
+            actualOriginal = textBefore.match(/the\s$/i)[0] + originalForm;
             actualReplacement = replacement;
           }
-
-          fixedLine = fixedLine.replace(actualOriginal, actualReplacement);
-
-          fixes.push({
-            type: 'attribution-domain',
-            line: lineIdx + 1,
-            original: actualOriginal,
-            fixed: actualReplacement,
-            domain: domain,
-          });
-          madeChange = true;
-          break; // One fix per source per link
+        } else if (form.toLowerCase().startsWith('the ') && !replacement.toLowerCase().startsWith('the ')) {
+          actualReplacement = replacement;
         }
 
-        if (madeChange) break; // Move to next link
+        fixedLine = fixedLine.replace(actualOriginal, actualReplacement);
+
+        fixes.push({
+          type: 'attribution-domain',
+          line: lineIdx + 1,
+          original: actualOriginal,
+          fixed: actualReplacement,
+          domain: domain,
+        });
+        madeChange = true;
+        break; // One fix per source name
       }
+
+      if (madeChange) break; // Fixed this line
     }
 
     if (madeChange) {
