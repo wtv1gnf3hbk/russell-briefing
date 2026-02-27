@@ -58,8 +58,8 @@
     .feedback-btn { font-size: 1.4rem; padding: 8px 16px; border: 1px solid #ddd; border-radius: 8px; background: transparent; cursor: pointer; transition: background 0.15s; }
     .feedback-btn:hover { background: #f0f0f0; }
     .feedback-btn.selected { background: #e8e8e8; border-color: #999; }
-    .feedback-textarea { display: none; width: 100%; max-width: 480px; margin: 12px auto; padding: 10px; border: 1px solid #ddd; border-radius: 6px; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-size: 0.9rem; resize: vertical; }
-    .feedback-submit { display: none; margin: 8px auto; padding: 6px 20px; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-size: 0.85rem; border: 1px solid #ccc; border-radius: 4px; background: #f5f5f5; cursor: pointer; }
+    .feedback-textarea { display: block; width: 100%; max-width: 480px; margin: 12px auto; padding: 10px; border: 1px solid #ddd; border-radius: 6px; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-size: 0.9rem; resize: vertical; }
+    .feedback-submit { display: block; margin: 8px auto; padding: 6px 20px; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-size: 0.85rem; border: 1px solid #ccc; border-radius: 4px; background: #f5f5f5; cursor: pointer; }
     .feedback-submit:hover { background: #e8e8e8; }
     .feedback-thanks { display: none; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-size: 0.85rem; color: #666; margin-top: 8px; }
   </style>
@@ -68,7 +68,7 @@
   <div class="header">
     <div class="title">Russell's World Briefing</div>
     <div class="timestamp">
-      Generated Friday, February 27, 2026 at 11:05 AM EST
+      Generated Friday, February 27, 2026 at 11:10 AM EST
       &middot; <a class="refresh-link" onclick="refreshBriefing()">Refresh</a>
     </div>
   </div>
@@ -128,53 +128,47 @@
   </script>
 
   <div id="content">
-<p>Good morning, Russell! Here is what happened while you were sleeping.</p>
+<p>Good morning, Russell! Here's what happened while you were sleeping.</p>
 
 <p class="section-header"><strong>Top Stories</strong></p>
 
-<ul><li>The UK <a href="https://www.bbc.com/news/articles/c309vz0z893o?at_medium=RSS&amp;at_campaign=rss" target="_blank">withdrew embassy</a> staff from Tehran and the US told non-essential personnel they can leave Israel, as tensions over potential Iran strikes escalate across the region, according to the BBC.</li>
+<ul><li>The UK <a href="https://www.bbc.com/news/articles/c309vz0z893o?at_medium=RSS&amp;at_campaign=rss" target="_blank">withdrew Tehran</a> embassy staff as tensions between the US and Iran escalate, while the US embassy in Israel told non-essential staff they can leave if they wish, according to the BBC.</li>
 </ul>
-<ul><li>Pakistan declared <a href="https://www.france24.com/en/video/20260227-civilians-flee-fighting-after-pakistan-bombs-afghan-cities" target="_blank">open war</a> against Afghanistan after bombing major Afghan cities, following Taliban attacks on Pakistani border positions, France24 reports.</li>
+<ul><li>Pakistan declared <a href="https://www.france24.com/en/video/20260227-pakistan-afghanistan-conflict-localised-clashes-still-going-on" target="_blank">open war</a> against Afghanistan following Pakistani airstrikes on major Afghan cities, per France24, with civilians fleeing the fighting as relations between the neighbors reach a breaking point.</li>
 </ul>
-<ul><li>Sweden said a drone <a href="https://www.bbc.com/news/articles/c1mj3e2nz8ko?at_medium=RSS&amp;at_campaign=rss" target="_blank">jammed near</a> France's aircraft carrier was probably Russian, calling it "a serious but not unexpected incident" and "a Russian way of acting that we recognise from other places," per the BBC.</li>
+<ul><li>The UN nuclear watchdog said it cannot verify whether Iran has <a href="https://apnews.com/article/iran-nuclear-iaea-uranium-enrichment-suspend-ccf574a324504b985f4b158f9d3d6941" target="_blank">suspended uranium</a> enrichment, AP reports. A new IAEA report says Iran must allow inspections at the Isfahan facility.</li>
 </ul>
-<ul><li>The UN nuclear watchdog said it cannot <a href="https://apnews.com/article/iran-nuclear-iaea-uranium-enrichment-suspend-ccf574a324504b985f4b158f9d3d6941" target="_blank">verify whether</a> Iran has suspended all uranium enrichment following the latest talks, AP reports.</li>
+<ul><li>Sweden said a drone jammed near a French aircraft carrier was <a href="https://www.bbc.com/news/articles/c1mj3e2nz8ko?at_medium=RSS&amp;at_campaign=rss" target="_blank">probably Russian</a>, calling it "a Russian way of acting that we recognize from other places," according to the BBC.</li>
 </ul>
-<ul><li>Paramount <a href="https://www.ft.com/content/fdb3478b-a124-403e-ab39-0d0b33493294" target="_blank">clinched a</a> $111 billion takeover deal with Warner Bros after Netflix walked away from the months-long bidding battle, the FT reports.</li>
-</ul>
-<ul><li>OpenAI raised <a href="https://www.reuters.com/business/retail-consumer/openais-110-billion-funding-round-draws-investment-amazon-nvidia-softbank-2026-02-27/" target="_blank">$110 billion</a> in new funding from Amazon, Nvidia and SoftBank, Reuters reports.</li>
-</ul>
-<ul><li>US tech stocks head for their <a href="https://www.ft.com/content/259d2b95-ca0e-4029-b432-37bc6e2cec57" target="_blank">worst month</a> in almost a year over AI concerns, with fears about US-Iran conflict adding to the sell-off as oil prices jumped, according to the FT.</li>
+<ul><li>OpenAI secured a <a href="https://www.reuters.com/business/retail-consumer/openais-110-billion-funding-round-draws-investment-amazon-nvidia-softbank-2026-02-27/" target="_blank">$110 billion</a> funding round with investments from Amazon, Nvidia, and SoftBank, Reuters reports. The deal marks one of the largest private funding deals in tech history.</li>
 </ul>
 <p class="section-header"><strong>Conflicts & Diplomacy</strong></p>
 
-<ul><li>Iran stored highly enriched uranium at an <a href="https://www.reuters.com/world/middle-east/iran-stored-highly-enriched-uranium-underground-site-iaea-report-says-2026-02-27/" target="_blank">underground site</a> and must allow inspections at the Isfahan facility, a new IAEA report shows, Reuters reports.</li>
+<ul><li>US tech stocks are heading for their <a href="https://www.ft.com/content/259d2b95-ca0e-4029-b432-37bc6e2cec57" target="_blank">worst month</a> in almost a year over AI concerns. Fears about US-Iran conflict add to the sell-off as oil prices jump, the FT reports.</li>
 </ul>
-<ul><li>Israel's Supreme Court <a href="https://www.france24.com/en/middle-east/20260227-israel-s-supreme-court-allows-aid-groups-facing-govt-ban-to-keep-working-in-gaza" target="_blank">allowed aid</a> groups facing government bans to continue working in Gaza, France24 reports.</li>
+<ul><li>Israeli settlers <a href="https://www.aljazeera.com/video/newsfeed/2026/2/27/israeli-settlers-violently-attack-foreign-solidarity?traffic_source=rss" target="_blank">violently attacked</a> a 71-year-old foreign woman and 51-year-old foreign man in the occupied West Bank, Al Jazeera reports.</li>
 </ul>
-<ul><li>Some 100,000 Palestinians <a href="https://www.aljazeera.com/news/2026/2/27/100000-pray-at-al-aqsa-amid-israeli-restrictions-on-2nd-friday-of-ramadan?traffic_source=rss" target="_blank">prayed at</a> Al-Aqsa Mosque on the second Friday of Ramadan while others were turned away despite carrying required permits, Al Jazeera reports.</li>
-</ul>
-<ul><li>Israeli settlers <a href="https://www.aljazeera.com/video/newsfeed/2026/2/27/israeli-settlers-violently-attack-foreign-solidarity?traffic_source=rss" target="_blank">violently attacked</a> a 71-year-old foreign woman and 51-year-old foreign man in the occupied West Bank, according to Al Jazeera.</li>
+<ul><li>About 100,000 worshippers <a href="https://www.aljazeera.com/news/2026/2/27/100000-pray-at-al-aqsa-amid-israeli-restrictions-on-2nd-friday-of-ramadan?traffic_source=rss" target="_blank">prayed at</a> Al-Aqsa Mosque for the second Friday of Ramadan. Thousands of others were turned away despite carrying required permits, according to Al Jazeera.</li>
 </ul>
 <p class="section-header"><strong>Business & Markets</strong></p>
 
-<ul><li>Trump's media group is <a href="https://www.ft.com/content/f77e6dcf-73dd-4ccd-b3d5-98f2df7c01e7" target="_blank">weighing plans</a> to spin off Truth Social as it seeks to focus on becoming a significant player in the nuclear energy industry, the FT reports.</li>
+<ul><li>Paramount clinched a <a href="https://www.ft.com/content/fdb3478b-a124-403e-ab39-0d0b33493294" target="_blank">Warner Bros</a> takeover deal after Netflix walked away, ending months of bidding for the parent company of CNN, HBO and the Harry Potter franchise, per the FT.</li>
 </ul>
-<ul><li>Australian supermarket giant Woolworths <a href="https://www.bbc.com/news/articles/cy7jeyeyd18o?at_medium=RSS&amp;at_campaign=rss" target="_blank">tweaked its</a> AI-powered assistant after customers complained it was "obnoxious" and talked about its mother, giving them "the ick," the BBC reports.</li>
+<ul><li>The Trump family media group is <a href="https://www.ft.com/content/f77e6dcf-73dd-4ccd-b3d5-98f2df7c01e7" target="_blank">weighing plans</a> to spin off Truth Social as it seeks to focus on becoming a significant player in the nuclear energy industry, the FT reports.</li>
 </ul>
 <p class="section-header"><strong>Also Notable</strong></p>
 
-<ul><li>The Green Party <a href="https://www.nytimes.com/2026/02/26/world/europe/gorton-denton-result-green-party-labour.html" target="_blank">defeated Labour</a> in a UK special election, marking the first time Greens have won a British parliamentary by-election and signaling frustration with Prime Minister Keir Starmer.</li>
+<ul><li>The Green Party <a href="https://www.nytimes.com/2026/02/26/world/europe/gorton-denton-result-green-party-labour.html" target="_blank">defeated Labour</a> in a UK special election. The victory marks the first time the Greens have won a British parliamentary by-election and signals frustration with Prime Minister Keir Starmer.</li>
 </ul>
-<ul><li>An Indian court <a href="https://www.bbc.com/news/articles/ckg14d5y07xo?at_medium=RSS&amp;at_campaign=rss" target="_blank">cleared former</a> Delhi chief minister Arvind Kejriwal of corruption charges after he spent months in jail following his arrest weeks before India's general election, the BBC reports.</li>
+<ul><li>An Indian court <a href="https://www.bbc.com/news/articles/ckg14d5y07xo?at_medium=RSS&at_campaign=rss" target="_blank">cleared former</a> Delhi chief minister Arvind Kejriwal of corruption charges, according to the BBC. He had spent months in jail following his arrest weeks before India's general election.</li>
 </ul>
 <p class="section-header"><strong>What to Watch</strong></p>
 
-<ul><li>Hungary's Viktor Orban is <a href="https://www.nytimes.com/2026/02/27/world/europe/hungary-orban-europe.html" target="_blank">holding up</a> a big EU loan for Ukraine as he faces a serious election challenge, with analysts saying the timing is no coincidence.</li>
+<ul><li>A Pentagon-Anthropic dispute over AI warfare contracts faces a <a href="https://www.reuters.com/technology/pentagon-anthropic-feud-has-sales-ai-warfare-stake-friday-deadline-looms-2026-02-27/" target="_blank">Friday deadline</a> with major sales and military AI applications at stake, Reuters reports.</li>
 </ul>
-<ul><li>A Pentagon-Anthropic feud over AI warfare contracts <a href="https://www.reuters.com/technology/pentagon-anthropic-feud-has-sales-ai-warfare-stake-friday-deadline-looms-2026-02-27/" target="_blank">faces a</a> Friday deadline with sales and military AI development at stake, Reuters reports.</li>
+<ul><li>Hungary is <a href="https://www.nytimes.com/2026/02/27/world/europe/hungary-orban-europe.html" target="_blank">holding up</a> a major EU loan for Ukraine as Prime Minister Viktor Orban faces a serious election challenge at home. Analysts say the timing is no coincidence.</li>
 </ul>
-<ul><li>Air attacks on Kabul have pushed the Pakistan-Taliban crisis into <a href="https://www.aljazeera.com/news/2026/2/27/air-attacks-on-kabul-push-pakistan-taliban-crisis-into-uncharted-territory?traffic_source=rss" target="_blank">"uncharted territory"</a> with analysts warning escalation may destabilize both countries, Al Jazeera reports.</li></ul>
+<ul><li>Pakistan-Afghanistan tensions may <a href="https://www.aljazeera.com/news/2026/2/27/air-attacks-on-kabul-push-pakistan-taliban-crisis-into-uncharted-territory?traffic_source=rss" target="_blank">escalate further</a> after air attacks on Kabul pushed the crisis into uncharted territory. Analysts warn the escalation may embolden armed groups and destabilize both countries, Al Jazeera reports.</li></ul>
   </div>
 
   <div class="feedback-section" id="feedback-section" data-date="2026-02-27">
@@ -206,13 +200,11 @@
       document.querySelectorAll(".feedback-btn").forEach(function(b) { b.classList.remove("selected"); });
       btn.classList.add("selected");
       selectedReaction = btn.dataset.reaction;
-      document.getElementById("feedback-comment").style.display = "block";
-      document.getElementById("feedback-submit").style.display = "block";
     }
 
     async function submitFeedback() {
-      if (!selectedReaction) return;
       var comment = document.getElementById("feedback-comment").value.trim();
+      if (!selectedReaction && !comment) return;
       var dateKey = document.getElementById("feedback-section").dataset.date;
       var submitBtn = document.getElementById("feedback-submit");
       submitBtn.textContent = "Sending...";
@@ -221,7 +213,7 @@
         var res = await fetch(FEEDBACK_URL, {
           method: "POST",
           headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({ reaction: selectedReaction, comment: comment || "", briefingDate: dateKey })
+          body: JSON.stringify({ reaction: selectedReaction || "comment", comment: comment || "", briefingDate: dateKey })
         });
         if (!res.ok) throw new Error("Server error");
         document.getElementById("feedback-buttons").style.display = "none";

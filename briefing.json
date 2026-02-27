@@ -4,8 +4,8 @@
     "owner": "Russell Goldman",
     "timezone": "America/New_York",
     "description": "Daily international news briefing — all bullets, ready by 6am ET",
-    "generated": "2026-02-27T16:04:29.789Z",
-    "generatedTimestamp": 1772208269789
+    "generated": "2026-02-27T16:09:16.014Z",
+    "generatedTimestamp": 1772208556014
   },
   "stats": {
     "sourceCount": 19,
@@ -14,7 +14,7 @@
     "totalScreenshots": 6,
     "daybookStories": 43,
     "watchCandidateCount": 7,
-    "elapsed": "64.4s"
+    "elapsed": "62.2s"
   },
   "stories": {
     "all": [
@@ -206,6 +206,16 @@
         ]
       },
       {
+        "headline": "US lets some embassy staff leave Israel, citing safety risks - Reuters",
+        "url": "https://www.reuters.com/world/middle-east/us-allows-some-embassy-staff-leave-israel-citing-safety-risks-2026-02-27/",
+        "source": "Reuters",
+        "sourceId": "reuters_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Fri, 27 Feb 2026 09:51:22 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPSk8yRFdkMTdBam11M3JaU2gzWEtlSmdqZUQ2R2J4MlU1YUlHaENoRE5yQlluczlJeG5LRTVNci1qa1RrMU43azltc2dmR2Rvd0Y0LW9DU0I5U0NWRjFDckRfbThFenJLdkpYdGh"
+      },
+      {
         "headline": "LVMH shut down in Russia when the war started. But it kept a storied hotel that serves sanctioned clients - Reuters",
         "url": "https://www.reuters.com/sustainability/society-equity/lvmh-shut-down-russia-when-war-started-it-kept-storied-hotel-that-serves-2026-02-27/",
         "source": "Reuters",
@@ -244,16 +254,6 @@
         "priority": "primary",
         "date": "Fri, 27 Feb 2026 08:15:14 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQN3puWlR5NmZmQ3dLalVMdEJveEdxUjV6eG0ycndPLVRSSGNRdEpVeDlHVXFyN0JzVkpHWU9xZ3NKVVNXQmpiSEl2TWp0SlFPRTUwbEpQTk03VHRqSXQ4c1dJZ2h0VU9QWXg2bkV"
-      },
-      {
-        "headline": "US lets some embassy staff leave Israel, citing safety risks - Reuters",
-        "url": "https://www.reuters.com/world/middle-east/us-allows-some-embassy-staff-leave-israel-citing-safety-risks-2026-02-27/",
-        "source": "Reuters",
-        "sourceId": "reuters_world",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Fri, 27 Feb 2026 09:51:22 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPSk8yRFdkMTdBam11M3JaU2gzWEtlSmdqZUQ2R2J4MlU1YUlHaENoRE5yQlluczlJeG5LRTVNci1qa1RrMU43azltc2dmR2Rvd0Y0LW9DU0I5U0NWRjFDckRfbThFenJLdkpYdGh"
       },
       {
         "headline": "European shares set for eighth straight month of gains, buoyed by earnings - Reuters",
@@ -950,7 +950,7 @@
         "sourceId": "nyt_world",
         "category": "general",
         "priority": "secondary",
-        "date": "Fri, 27 Feb 2026 15:57:06 +0000",
+        "date": "Fri, 27 Feb 2026 15:57:07 +0000",
         "description": "The result marks the first time the Greens have won a British parliamentary by-election and signals the frustration of left-leaning voters with Prime Minister Keir Starmer.",
         "watchCandidate": true,
         "watchSignals": [
@@ -1498,6 +1498,16 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNS3BDa0VGNWdpbkx1RnB6Zjg5dzlIazlreS1EVmVsMW9iUm1vSlhidjFKOG9rM0wtb1lUeF9zWUJycEkzREhJT2xPbmFtdEVtQkQ3N2dQbEM0VlpQMGRlcFB1allrbzVOR2NpSE1"
       },
       {
+        "headline": "Denver Men’s Tennis Earns Summit League Awards Sweep - University of Denver Athletics",
+        "url": "https://denverpioneers.com/news/2026/2/24/denver-mens-tennis-earns-summit-league-awards-sweep.aspx",
+        "source": "Daybook: International Events",
+        "sourceId": "daybook_intl",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Tue, 24 Feb 2026 18:04:53 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNWEEzR19CTGdqVGhPNUw4Znl1dkxTTDFlZWV1UGtvbllWcWFlTUZJamJJWHMyREFyZGUxdGx2dGxKX0Nrc3hQUmtONlNfcUd0cHlVam1PM2N5Z3JMbDBxTDdGUENraWZUeEUyc3l"
+      },
+      {
         "headline": "New Kits On The Block: Boston Legacy, Denver Summit drop debut primary kits - NWSL",
         "url": "https://www.nwslsoccer.com/news/new-kits-on-the-block-boston-legacy-denver-summit-drop-debut-primary-kits",
         "source": "Daybook: International Events",
@@ -1506,6 +1516,16 @@
         "priority": "reference",
         "date": "Mon, 23 Feb 2026 19:21:54 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ1FsekozU3VLMlE4QTE5N2dOaXh1Y1VCQWsxUnVuTlNhN1N4LUZndWtzd1A5czFoWVFCcXQ5WmhLRkxpRHZnN2xPb3hzOGFTMEtJMGpPY0F3TF9HR183M19DM2ZSbzFCYWRCSEN"
+      },
+      {
+        "headline": "Inaugural Contested Logistics for Space Summit emphasizes USSF’s focus on mission sustainm - spaceforce.mil",
+        "url": "https://www.spaceforce.mil/News/Article-Display/Article/4410631/inaugural-contested-logistics-for-space-summit-emphasizes-ussfs-focus-on-missio/",
+        "source": "Daybook: International Events",
+        "sourceId": "daybook_intl",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Fri, 20 Feb 2026 16:48:04 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNDlVczNlUldmVktLTF9ZeUlfMlFld3BDQURQTFNVdktGdmZNSU90QXE4S2FpWjRheGh3OGs4aU9XX0ktblhDY3dVV2NqYV9SbFctSkd6TGNWbXA5UDJQMmpYWXVIS2dia0hPWTh"
       },
       {
         "headline": "At A.I. Summit, India Tries to Find a Way Between the U.S. and China - The New York Times - The New York Times",
@@ -1559,7 +1579,7 @@
       },
       {
         "headline": "NDSU Women’s Basketball Tops South Dakota to Clinch Share of Summit League Title - gobison.com",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdS1tcG1rTlJuZDBBYnhOX2tKaWoweDJ1SE1CSTR5Tk81WE5MUnloSWdrRVctSnRtbEN3NnpBUW5MYWQxaVVqUWl3bGRZZE0xMUhZcXVraFNUYlBaTS1kaVF5SUNyT01pNzduZ1JhNllMOTVRejk1N3pOVVVscnFfeFMydTVPMmZWZE95WXdOa0NLOXlPLVNRNU5FMUctanRycE1sZGs2bG1JbGxoREt1RFVfUXBaMjV6S0pMWEM0ZnZxd041enMyS0x6X2g4d3M2X3lN?oc=5",
+        "url": "https://gobison.com/news/2026/2/21/womens-basketball-ndsu-womens-basketball-tops-south-dakota-to-clinch-share-of-summit-league-title.aspx",
         "source": "Daybook: International Events",
         "sourceId": "daybook_intl",
         "category": "daybook",
@@ -1589,7 +1609,7 @@
       },
       {
         "headline": "Chaos, confusion and $200 billion dreams: What I saw at India’s AI summit - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Hb2p3em1Pbmt6Rm1PN09hSW0yU3JaelU2UXE2bVFPazRnaGJ2MTlEYTUzdmVLRllRU0pMa2xiRlE3eEFfc1ZuQ3NBUFNZY01hVGRuZmxoOFZ0YWVWWmFkZ0JkRWpiSjdC0gFuQVVfeXFMTlJEcjViTXd4V1pCYmJ1ZXBvS2xLUHdWWW1Ld0JPSElLNVlBVnlVSG1WRXVkdUFZbklBQVUxUG1rMEdERE1BTElvZzZMRDhJUnN6aW0zVzFDU3NOZVhCb0JjTGxVRnkwZWlxQ1I5RHc?oc=5",
+        "url": "https://www.cnbc.com/2026/02/21/ai-summit-india-tech.html",
         "source": "Daybook: International Events",
         "sourceId": "daybook_intl",
         "category": "daybook",
@@ -1599,33 +1619,13 @@
       },
       {
         "headline": "AIA Women’s Leadership Summit 2026 - The American Institute of Architects: AIA",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PaEViOUFlUHlhRDkyQkdoT2xXZkhGNVBUeDJBMDE1OGNrdzBpSDlWdzBDLTZCU2VSYmdZb3NCc3hyMkpLRC0wOFFkR0pBWGJsTHBWamx0RVlDTkYyYkdfYXhScFpTOGZkWElmNHJn?oc=5",
+        "url": "https://www.aia.org/community/events/womens-leadership-summit",
         "source": "Daybook: International Events",
         "sourceId": "daybook_intl",
         "category": "daybook",
         "priority": "reference",
         "date": "Thu, 26 Feb 2026 15:07:51 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1PaEViOUFlUHlhRDkyQkdoT2xXZkhGNVBUeDJBMDE1OGNrdzBpSDlWdzBDLTZCU2VSYmdZb3NCc3hyMkpLRC0wOFFkR0pBWGJsTHBWamx0RVlDTkYyYkdfYXhScFpTOGZkWElmNHJ"
-      },
-      {
-        "headline": "Entrepreneurs, academics discuss L.A.’s place in the startup world at USC Venture &amp; Innovation Summit - University of Southern California",
-        "url": "https://today.usc.edu/entrepreneurs-academics-discuss-l-a-s-place-in-the-startup-world-at-usc-venture-innovation-summit/",
-        "source": "Daybook: International Events",
-        "sourceId": "daybook_intl",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Wed, 25 Feb 2026 22:38:25 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNTTJvMmlfWm9zdDVuSXo0amZEbnRTRHRVa3E2eUlYaUhOQUxlTDFjUXdMVVFaOVd3aGhvOFBwLTdFSUwwVkRjenhwNVVBVDVjaDRyM2dDUFBQZ2d4bGphQ2dKbU5LUmxCNW1TcFZ"
-      },
-      {
-        "headline": "IARC at the European Cancer Screening and Early Detection Policy Summit in Brussels - International Agency for Research on Cancer",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWktnckI1dWhOQjc2SjNxZ0VWUDNnc1ZNU2poMEtYS2FpZXMxV0I3c1JpaXhVM1V6OHo3VHBRUWtSaXBSM2ZfWVJVaHVOMDNaa181SUxOQWI4T18yWV9iQlQ3NV9LYkhqSnZsR2ZpY0FZUElmbGtxRU1Dd002djNiTkRnWHBITVBXOHlGZGpjMWI2bmlrQU9SY3l3QnR6UGE0NU43aU0yS2pWN0ZYTTVPSkp1VGt1bW5iakg0NXVn?oc=5",
-        "source": "Daybook: International Events",
-        "sourceId": "daybook_intl",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Mon, 23 Feb 2026 19:59:52 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOWktnckI1dWhOQjc2SjNxZ0VWUDNnc1ZNU2poMEtYS2FpZXMxV0I3c1JpaXhVM1V6OHo3VHBRUWtSaXBSM2ZfWVJVaHVOMDNaa181SUxOQWI4T18yWV9iQlQ3NV9LYkhqSnZsR2Z"
       },
       {
         "headline": "Decoding trade deadline strategy and where the Kraken fit - Sound Of Hockey",
@@ -1699,7 +1699,7 @@
       },
       {
         "headline": "MINNESOTA WILD: POST-OLYMPIC ADVICE FOR THE NHL TRADE DEADLINE - Lets Play Hockey",
-        "url": "https://letsplayhockey.com/minnesota-wild-post-olympic-advice-for-the-nhl-trade-deadline/",
+        "url": "https://letsplayhockey.com/.well-known/sgcaptcha/?r=%2Fminnesota-wild-post-olympic-advice-for-the-nhl-trade-deadline%2F&y=ipr:132.196.82.2:1772208544.372",
         "source": "Daybook: Economic Calendar",
         "sourceId": "daybook_econ",
         "category": "daybook",
@@ -1858,16 +1858,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQNVdxeGpTY3hXa2wwUTB6S2VyalRWc09hQjMxMUJaN3JpbDliMmFUR0dWenhYWmxmbzF3Ry1FekFJaU1RTGJURHdiZ2lUZE9QZHZfTEMyWVV3V19oT2ZDQnNJNXNQM3lBV1JKWWJ"
       },
       {
-        "headline": "Missed the HIPAA Deadline? Don’t Panic, Health Care Entities Can Still Update Privacy Practices and Policy Notices - JD Supra",
-        "url": "https://www.jdsupra.com/legalnews/missed-the-hipaa-deadline-don-t-panic-4720721/",
-        "source": "Daybook: Scheduled Events",
-        "sourceId": "daybook_scheduled",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Fri, 27 Feb 2026 14:15:40 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPaUliYU5IcGpsS0JxVGpHQUpsOFh4bXVXMmJfbC1XcWlRUUdOcVk1bTI2TmhSV3kzN1N6NXliYzBHdV9qMDcyUWpWaTQydVJLSV9MTzQ5Yjk4Y2xSMHVYZnhnMGN3RnFmS2VkSk9"
-      },
-      {
         "headline": "Governor Gianforte, Department of Revenue Extend Application Deadline for Property Tax Relief - State of Montana Newsroom (.gov)",
         "url": "https://news.mt.gov/Governors-Office/Governor-Gianforte-Department-of-Revenue-Extend-Application-Deadline-for-Property-Tax-Relief",
         "source": "Daybook: Scheduled Events",
@@ -1876,6 +1866,16 @@
         "priority": "reference",
         "date": "Fri, 27 Feb 2026 01:48:10 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVEYwTjE5WFF6M3JkWXNGX2IxOGMwWnFPOWVWa1RraGd6X3VxeXd2VFNDek9feGtrd1FKa0Y2MzJDMWhSWlJHMURvVDk3aGxnQVEwckU5VkM5dnhIVUxlWnNIUGlPenBhNm5semJ"
+      },
+      {
+        "headline": "Missed the HIPAA Deadline? Don’t Panic, Health Care Entities Can Still Update Privacy Practices and Policy Notices - JD Supra",
+        "url": "https://www.jdsupra.com/legalnews/missed-the-hipaa-deadline-don-t-panic-4720721/",
+        "source": "Daybook: Scheduled Events",
+        "sourceId": "daybook_scheduled",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Fri, 27 Feb 2026 14:15:40 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPaUliYU5IcGpsS0JxVGpHQUpsOFh4bXVXMmJfbC1XcWlRUUdOcVk1bTI2TmhSV3kzN1N6NXliYzBHdV9qMDcyUWpWaTQydVJLSV9MTzQ5Yjk4Y2xSMHVYZnhnMGN3RnFmS2VkSk9"
       },
       {
         "headline": "Ahead of Feb. 27 Deadline, Mayor Mamdani Urges Families to Apply for Pre-K and 3-K - NYC.gov",
@@ -1898,14 +1898,14 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaVdKUEQyb3ZXWElDLWc2dURkd0ZZVjQ1enZrTkU5dk9fU3pWQUNUWW0tNHdXeW5hMDJLajYzcU1JT0xYVy1vN1pQOGYxRHZZLXIxNDJXT2I0VERWWW9qdTZaVVBja19kcHRhR3l"
       },
       {
-        "headline": "California sets August deadline for GHG emissions reporting - Responsible Investor",
-        "url": "https://www.responsible-investor.com/california-sets-august-deadline-for-ghg-emissions-reporting/",
+        "headline": "That’s All, Folks: Netflix Walks Away From Warner Bros., Refusing To Raise Offer - Deadline",
+        "url": "https://deadline.com/2026/02/netflix-declines-to-raise-offer-for-warner-bros-1236738005/",
         "source": "Daybook: Scheduled Events",
         "sourceId": "daybook_scheduled",
         "category": "daybook",
         "priority": "reference",
-        "date": "Fri, 27 Feb 2026 14:51:42 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNelpMaWozTHpudjdMV2JvVnF3eTJDcWJUaFVtZTZnUHBkd1FibFJSNkRsS1VPV1VYTTZ5SWFacE1FUHRqWnFLNV9uemVEZWRRSnhWVHdoejU3dzZieUlwMWduYnNOLV8tZm5iM2o"
+        "date": "Thu, 26 Feb 2026 22:55:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQYTliQUJsWGQtWTk2VjAwbTAySjdmcjhXYm5NNnEzUUlfN1ktb2MtWVlQZm9RR2xuc05vd1ZpcWNzMkdJVmY0UjlyTXN1WF96cGx1ZEFzWnpRVDdXSkpMTFRUSjljSW52V0dNaGh"
       }
     ],
     "byCategory": {
@@ -2098,6 +2098,16 @@
           ]
         },
         {
+          "headline": "US lets some embassy staff leave Israel, citing safety risks - Reuters",
+          "url": "https://www.reuters.com/world/middle-east/us-allows-some-embassy-staff-leave-israel-citing-safety-risks-2026-02-27/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Fri, 27 Feb 2026 09:51:22 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPSk8yRFdkMTdBam11M3JaU2gzWEtlSmdqZUQ2R2J4MlU1YUlHaENoRE5yQlluczlJeG5LRTVNci1qa1RrMU43azltc2dmR2Rvd0Y0LW9DU0I5U0NWRjFDckRfbThFenJLdkpYdGh"
+        },
+        {
           "headline": "LVMH shut down in Russia when the war started. But it kept a storied hotel that serves sanctioned clients - Reuters",
           "url": "https://www.reuters.com/sustainability/society-equity/lvmh-shut-down-russia-when-war-started-it-kept-storied-hotel-that-serves-2026-02-27/",
           "source": "Reuters",
@@ -2136,16 +2146,6 @@
           "priority": "primary",
           "date": "Fri, 27 Feb 2026 08:15:14 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQN3puWlR5NmZmQ3dLalVMdEJveEdxUjV6eG0ycndPLVRSSGNRdEpVeDlHVXFyN0JzVkpHWU9xZ3NKVVNXQmpiSEl2TWp0SlFPRTUwbEpQTk03VHRqSXQ4c1dJZ2h0VU9QWXg2bkV"
-        },
-        {
-          "headline": "US lets some embassy staff leave Israel, citing safety risks - Reuters",
-          "url": "https://www.reuters.com/world/middle-east/us-allows-some-embassy-staff-leave-israel-citing-safety-risks-2026-02-27/",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Fri, 27 Feb 2026 09:51:22 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPSk8yRFdkMTdBam11M3JaU2gzWEtlSmdqZUQ2R2J4MlU1YUlHaENoRE5yQlluczlJeG5LRTVNci1qa1RrMU43azltc2dmR2Rvd0Y0LW9DU0I5U0NWRjFDckRfbThFenJLdkpYdGh"
         },
         {
           "headline": "European shares set for eighth straight month of gains, buoyed by earnings - Reuters",
@@ -2877,7 +2877,7 @@
           "sourceId": "nyt_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Fri, 27 Feb 2026 15:57:06 +0000",
+          "date": "Fri, 27 Feb 2026 15:57:07 +0000",
           "description": "The result marks the first time the Greens have won a British parliamentary by-election and signals the frustration of left-leaning voters with Prime Minister Keir Starmer.",
           "watchCandidate": true,
           "watchSignals": [
@@ -3396,6 +3396,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNS3BDa0VGNWdpbkx1RnB6Zjg5dzlIazlreS1EVmVsMW9iUm1vSlhidjFKOG9rM0wtb1lUeF9zWUJycEkzREhJT2xPbmFtdEVtQkQ3N2dQbEM0VlpQMGRlcFB1allrbzVOR2NpSE1"
         },
         {
+          "headline": "Denver Men’s Tennis Earns Summit League Awards Sweep - University of Denver Athletics",
+          "url": "https://denverpioneers.com/news/2026/2/24/denver-mens-tennis-earns-summit-league-awards-sweep.aspx",
+          "source": "Daybook: International Events",
+          "sourceId": "daybook_intl",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Tue, 24 Feb 2026 18:04:53 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNWEEzR19CTGdqVGhPNUw4Znl1dkxTTDFlZWV1UGtvbllWcWFlTUZJamJJWHMyREFyZGUxdGx2dGxKX0Nrc3hQUmtONlNfcUd0cHlVam1PM2N5Z3JMbDBxTDdGUENraWZUeEUyc3l"
+        },
+        {
           "headline": "New Kits On The Block: Boston Legacy, Denver Summit drop debut primary kits - NWSL",
           "url": "https://www.nwslsoccer.com/news/new-kits-on-the-block-boston-legacy-denver-summit-drop-debut-primary-kits",
           "source": "Daybook: International Events",
@@ -3404,6 +3414,16 @@
           "priority": "reference",
           "date": "Mon, 23 Feb 2026 19:21:54 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ1FsekozU3VLMlE4QTE5N2dOaXh1Y1VCQWsxUnVuTlNhN1N4LUZndWtzd1A5czFoWVFCcXQ5WmhLRkxpRHZnN2xPb3hzOGFTMEtJMGpPY0F3TF9HR183M19DM2ZSbzFCYWRCSEN"
+        },
+        {
+          "headline": "Inaugural Contested Logistics for Space Summit emphasizes USSF’s focus on mission sustainm - spaceforce.mil",
+          "url": "https://www.spaceforce.mil/News/Article-Display/Article/4410631/inaugural-contested-logistics-for-space-summit-emphasizes-ussfs-focus-on-missio/",
+          "source": "Daybook: International Events",
+          "sourceId": "daybook_intl",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Fri, 20 Feb 2026 16:48:04 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNDlVczNlUldmVktLTF9ZeUlfMlFld3BDQURQTFNVdktGdmZNSU90QXE4S2FpWjRheGh3OGs4aU9XX0ktblhDY3dVV2NqYV9SbFctSkd6TGNWbXA5UDJQMmpYWXVIS2dia0hPWTh"
         },
         {
           "headline": "At A.I. Summit, India Tries to Find a Way Between the U.S. and China - The New York Times - The New York Times",
@@ -3457,7 +3477,7 @@
         },
         {
           "headline": "NDSU Women’s Basketball Tops South Dakota to Clinch Share of Summit League Title - gobison.com",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdS1tcG1rTlJuZDBBYnhOX2tKaWoweDJ1SE1CSTR5Tk81WE5MUnloSWdrRVctSnRtbEN3NnpBUW5MYWQxaVVqUWl3bGRZZE0xMUhZcXVraFNUYlBaTS1kaVF5SUNyT01pNzduZ1JhNllMOTVRejk1N3pOVVVscnFfeFMydTVPMmZWZE95WXdOa0NLOXlPLVNRNU5FMUctanRycE1sZGs2bG1JbGxoREt1RFVfUXBaMjV6S0pMWEM0ZnZxd041enMyS0x6X2g4d3M2X3lN?oc=5",
+          "url": "https://gobison.com/news/2026/2/21/womens-basketball-ndsu-womens-basketball-tops-south-dakota-to-clinch-share-of-summit-league-title.aspx",
           "source": "Daybook: International Events",
           "sourceId": "daybook_intl",
           "category": "daybook",
@@ -3487,7 +3507,7 @@
         },
         {
           "headline": "Chaos, confusion and $200 billion dreams: What I saw at India’s AI summit - CNBC",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Hb2p3em1Pbmt6Rm1PN09hSW0yU3JaelU2UXE2bVFPazRnaGJ2MTlEYTUzdmVLRllRU0pMa2xiRlE3eEFfc1ZuQ3NBUFNZY01hVGRuZmxoOFZ0YWVWWmFkZ0JkRWpiSjdC0gFuQVVfeXFMTlJEcjViTXd4V1pCYmJ1ZXBvS2xLUHdWWW1Ld0JPSElLNVlBVnlVSG1WRXVkdUFZbklBQVUxUG1rMEdERE1BTElvZzZMRDhJUnN6aW0zVzFDU3NOZVhCb0JjTGxVRnkwZWlxQ1I5RHc?oc=5",
+          "url": "https://www.cnbc.com/2026/02/21/ai-summit-india-tech.html",
           "source": "Daybook: International Events",
           "sourceId": "daybook_intl",
           "category": "daybook",
@@ -3497,33 +3517,13 @@
         },
         {
           "headline": "AIA Women’s Leadership Summit 2026 - The American Institute of Architects: AIA",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PaEViOUFlUHlhRDkyQkdoT2xXZkhGNVBUeDJBMDE1OGNrdzBpSDlWdzBDLTZCU2VSYmdZb3NCc3hyMkpLRC0wOFFkR0pBWGJsTHBWamx0RVlDTkYyYkdfYXhScFpTOGZkWElmNHJn?oc=5",
+          "url": "https://www.aia.org/community/events/womens-leadership-summit",
           "source": "Daybook: International Events",
           "sourceId": "daybook_intl",
           "category": "daybook",
           "priority": "reference",
           "date": "Thu, 26 Feb 2026 15:07:51 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1PaEViOUFlUHlhRDkyQkdoT2xXZkhGNVBUeDJBMDE1OGNrdzBpSDlWdzBDLTZCU2VSYmdZb3NCc3hyMkpLRC0wOFFkR0pBWGJsTHBWamx0RVlDTkYyYkdfYXhScFpTOGZkWElmNHJ"
-        },
-        {
-          "headline": "Entrepreneurs, academics discuss L.A.’s place in the startup world at USC Venture &amp; Innovation Summit - University of Southern California",
-          "url": "https://today.usc.edu/entrepreneurs-academics-discuss-l-a-s-place-in-the-startup-world-at-usc-venture-innovation-summit/",
-          "source": "Daybook: International Events",
-          "sourceId": "daybook_intl",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Wed, 25 Feb 2026 22:38:25 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNTTJvMmlfWm9zdDVuSXo0amZEbnRTRHRVa3E2eUlYaUhOQUxlTDFjUXdMVVFaOVd3aGhvOFBwLTdFSUwwVkRjenhwNVVBVDVjaDRyM2dDUFBQZ2d4bGphQ2dKbU5LUmxCNW1TcFZ"
-        },
-        {
-          "headline": "IARC at the European Cancer Screening and Early Detection Policy Summit in Brussels - International Agency for Research on Cancer",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWktnckI1dWhOQjc2SjNxZ0VWUDNnc1ZNU2poMEtYS2FpZXMxV0I3c1JpaXhVM1V6OHo3VHBRUWtSaXBSM2ZfWVJVaHVOMDNaa181SUxOQWI4T18yWV9iQlQ3NV9LYkhqSnZsR2ZpY0FZUElmbGtxRU1Dd002djNiTkRnWHBITVBXOHlGZGpjMWI2bmlrQU9SY3l3QnR6UGE0NU43aU0yS2pWN0ZYTTVPSkp1VGt1bW5iakg0NXVn?oc=5",
-          "source": "Daybook: International Events",
-          "sourceId": "daybook_intl",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Mon, 23 Feb 2026 19:59:52 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOWktnckI1dWhOQjc2SjNxZ0VWUDNnc1ZNU2poMEtYS2FpZXMxV0I3c1JpaXhVM1V6OHo3VHBRUWtSaXBSM2ZfWVJVaHVOMDNaa181SUxOQWI4T18yWV9iQlQ3NV9LYkhqSnZsR2Z"
         },
         {
           "headline": "Decoding trade deadline strategy and where the Kraken fit - Sound Of Hockey",
@@ -3597,7 +3597,7 @@
         },
         {
           "headline": "MINNESOTA WILD: POST-OLYMPIC ADVICE FOR THE NHL TRADE DEADLINE - Lets Play Hockey",
-          "url": "https://letsplayhockey.com/minnesota-wild-post-olympic-advice-for-the-nhl-trade-deadline/",
+          "url": "https://letsplayhockey.com/.well-known/sgcaptcha/?r=%2Fminnesota-wild-post-olympic-advice-for-the-nhl-trade-deadline%2F&y=ipr:132.196.82.2:1772208544.372",
           "source": "Daybook: Economic Calendar",
           "sourceId": "daybook_econ",
           "category": "daybook",
@@ -3776,16 +3776,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQNVdxeGpTY3hXa2wwUTB6S2VyalRWc09hQjMxMUJaN3JpbDliMmFUR0dWenhYWmxmbzF3Ry1FekFJaU1RTGJURHdiZ2lUZE9QZHZfTEMyWVV3V19oT2ZDQnNJNXNQM3lBV1JKWWJ"
         },
         {
-          "headline": "Missed the HIPAA Deadline? Don’t Panic, Health Care Entities Can Still Update Privacy Practices and Policy Notices - JD Supra",
-          "url": "https://www.jdsupra.com/legalnews/missed-the-hipaa-deadline-don-t-panic-4720721/",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Fri, 27 Feb 2026 14:15:40 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPaUliYU5IcGpsS0JxVGpHQUpsOFh4bXVXMmJfbC1XcWlRUUdOcVk1bTI2TmhSV3kzN1N6NXliYzBHdV9qMDcyUWpWaTQydVJLSV9MTzQ5Yjk4Y2xSMHVYZnhnMGN3RnFmS2VkSk9"
-        },
-        {
           "headline": "Governor Gianforte, Department of Revenue Extend Application Deadline for Property Tax Relief - State of Montana Newsroom (.gov)",
           "url": "https://news.mt.gov/Governors-Office/Governor-Gianforte-Department-of-Revenue-Extend-Application-Deadline-for-Property-Tax-Relief",
           "source": "Daybook: Scheduled Events",
@@ -3794,6 +3784,16 @@
           "priority": "reference",
           "date": "Fri, 27 Feb 2026 01:48:10 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVEYwTjE5WFF6M3JkWXNGX2IxOGMwWnFPOWVWa1RraGd6X3VxeXd2VFNDek9feGtrd1FKa0Y2MzJDMWhSWlJHMURvVDk3aGxnQVEwckU5VkM5dnhIVUxlWnNIUGlPenBhNm5semJ"
+        },
+        {
+          "headline": "Missed the HIPAA Deadline? Don’t Panic, Health Care Entities Can Still Update Privacy Practices and Policy Notices - JD Supra",
+          "url": "https://www.jdsupra.com/legalnews/missed-the-hipaa-deadline-don-t-panic-4720721/",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Fri, 27 Feb 2026 14:15:40 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPaUliYU5IcGpsS0JxVGpHQUpsOFh4bXVXMmJfbC1XcWlRUUdOcVk1bTI2TmhSV3kzN1N6NXliYzBHdV9qMDcyUWpWaTQydVJLSV9MTzQ5Yjk4Y2xSMHVYZnhnMGN3RnFmS2VkSk9"
         },
         {
           "headline": "Ahead of Feb. 27 Deadline, Mayor Mamdani Urges Families to Apply for Pre-K and 3-K - NYC.gov",
@@ -3816,14 +3816,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaVdKUEQyb3ZXWElDLWc2dURkd0ZZVjQ1enZrTkU5dk9fU3pWQUNUWW0tNHdXeW5hMDJLajYzcU1JT0xYVy1vN1pQOGYxRHZZLXIxNDJXT2I0VERWWW9qdTZaVVBja19kcHRhR3l"
         },
         {
-          "headline": "California sets August deadline for GHG emissions reporting - Responsible Investor",
-          "url": "https://www.responsible-investor.com/california-sets-august-deadline-for-ghg-emissions-reporting/",
+          "headline": "That’s All, Folks: Netflix Walks Away From Warner Bros., Refusing To Raise Offer - Deadline",
+          "url": "https://deadline.com/2026/02/netflix-declines-to-raise-offer-for-warner-bros-1236738005/",
           "source": "Daybook: Scheduled Events",
           "sourceId": "daybook_scheduled",
           "category": "daybook",
           "priority": "reference",
-          "date": "Fri, 27 Feb 2026 14:51:42 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNelpMaWozTHpudjdMV2JvVnF3eTJDcWJUaFVtZTZnUHBkd1FibFJSNkRsS1VPV1VYTTZ5SWFacE1FUHRqWnFLNV9uemVEZWRRSnhWVHdoejU3dzZieUlwMWduYnNOLV8tZm5iM2o"
+          "date": "Thu, 26 Feb 2026 22:55:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQYTliQUJsWGQtWTk2VjAwbTAySjdmcjhXYm5NNnEzUUlfN1ktb2MtWVlQZm9RR2xuc05vd1ZpcWNzMkdJVmY0UjlyTXN1WF96cGx1ZEFzWnpRVDdXSkpMTFRUSjljSW52V0dNaGh"
         }
       ]
     },
@@ -4017,6 +4017,16 @@
           ]
         },
         {
+          "headline": "US lets some embassy staff leave Israel, citing safety risks - Reuters",
+          "url": "https://www.reuters.com/world/middle-east/us-allows-some-embassy-staff-leave-israel-citing-safety-risks-2026-02-27/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Fri, 27 Feb 2026 09:51:22 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPSk8yRFdkMTdBam11M3JaU2gzWEtlSmdqZUQ2R2J4MlU1YUlHaENoRE5yQlluczlJeG5LRTVNci1qa1RrMU43azltc2dmR2Rvd0Y0LW9DU0I5U0NWRjFDckRfbThFenJLdkpYdGh"
+        },
+        {
           "headline": "LVMH shut down in Russia when the war started. But it kept a storied hotel that serves sanctioned clients - Reuters",
           "url": "https://www.reuters.com/sustainability/society-equity/lvmh-shut-down-russia-when-war-started-it-kept-storied-hotel-that-serves-2026-02-27/",
           "source": "Reuters",
@@ -4055,16 +4065,6 @@
           "priority": "primary",
           "date": "Fri, 27 Feb 2026 08:15:14 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQN3puWlR5NmZmQ3dLalVMdEJveEdxUjV6eG0ycndPLVRSSGNRdEpVeDlHVXFyN0JzVkpHWU9xZ3NKVVNXQmpiSEl2TWp0SlFPRTUwbEpQTk03VHRqSXQ4c1dJZ2h0VU9QWXg2bkV"
-        },
-        {
-          "headline": "US lets some embassy staff leave Israel, citing safety risks - Reuters",
-          "url": "https://www.reuters.com/world/middle-east/us-allows-some-embassy-staff-leave-israel-citing-safety-risks-2026-02-27/",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Fri, 27 Feb 2026 09:51:22 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPSk8yRFdkMTdBam11M3JaU2gzWEtlSmdqZUQ2R2J4MlU1YUlHaENoRE5yQlluczlJeG5LRTVNci1qa1RrMU43azltc2dmR2Rvd0Y0LW9DU0I5U0NWRjFDckRfbThFenJLdkpYdGh"
         },
         {
           "headline": "European shares set for eighth straight month of gains, buoyed by earnings - Reuters",
@@ -4763,7 +4763,7 @@
           "sourceId": "nyt_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Fri, 27 Feb 2026 15:57:06 +0000",
+          "date": "Fri, 27 Feb 2026 15:57:07 +0000",
           "description": "The result marks the first time the Greens have won a British parliamentary by-election and signals the frustration of left-leaning voters with Prime Minister Keir Starmer.",
           "watchCandidate": true,
           "watchSignals": [
@@ -5314,6 +5314,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNS3BDa0VGNWdpbkx1RnB6Zjg5dzlIazlreS1EVmVsMW9iUm1vSlhidjFKOG9rM0wtb1lUeF9zWUJycEkzREhJT2xPbmFtdEVtQkQ3N2dQbEM0VlpQMGRlcFB1allrbzVOR2NpSE1"
         },
         {
+          "headline": "Denver Men’s Tennis Earns Summit League Awards Sweep - University of Denver Athletics",
+          "url": "https://denverpioneers.com/news/2026/2/24/denver-mens-tennis-earns-summit-league-awards-sweep.aspx",
+          "source": "Daybook: International Events",
+          "sourceId": "daybook_intl",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Tue, 24 Feb 2026 18:04:53 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNWEEzR19CTGdqVGhPNUw4Znl1dkxTTDFlZWV1UGtvbllWcWFlTUZJamJJWHMyREFyZGUxdGx2dGxKX0Nrc3hQUmtONlNfcUd0cHlVam1PM2N5Z3JMbDBxTDdGUENraWZUeEUyc3l"
+        },
+        {
           "headline": "New Kits On The Block: Boston Legacy, Denver Summit drop debut primary kits - NWSL",
           "url": "https://www.nwslsoccer.com/news/new-kits-on-the-block-boston-legacy-denver-summit-drop-debut-primary-kits",
           "source": "Daybook: International Events",
@@ -5322,6 +5332,16 @@
           "priority": "reference",
           "date": "Mon, 23 Feb 2026 19:21:54 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ1FsekozU3VLMlE4QTE5N2dOaXh1Y1VCQWsxUnVuTlNhN1N4LUZndWtzd1A5czFoWVFCcXQ5WmhLRkxpRHZnN2xPb3hzOGFTMEtJMGpPY0F3TF9HR183M19DM2ZSbzFCYWRCSEN"
+        },
+        {
+          "headline": "Inaugural Contested Logistics for Space Summit emphasizes USSF’s focus on mission sustainm - spaceforce.mil",
+          "url": "https://www.spaceforce.mil/News/Article-Display/Article/4410631/inaugural-contested-logistics-for-space-summit-emphasizes-ussfs-focus-on-missio/",
+          "source": "Daybook: International Events",
+          "sourceId": "daybook_intl",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Fri, 20 Feb 2026 16:48:04 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNDlVczNlUldmVktLTF9ZeUlfMlFld3BDQURQTFNVdktGdmZNSU90QXE4S2FpWjRheGh3OGs4aU9XX0ktblhDY3dVV2NqYV9SbFctSkd6TGNWbXA5UDJQMmpYWXVIS2dia0hPWTh"
         },
         {
           "headline": "At A.I. Summit, India Tries to Find a Way Between the U.S. and China - The New York Times - The New York Times",
@@ -5375,7 +5395,7 @@
         },
         {
           "headline": "NDSU Women’s Basketball Tops South Dakota to Clinch Share of Summit League Title - gobison.com",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdS1tcG1rTlJuZDBBYnhOX2tKaWoweDJ1SE1CSTR5Tk81WE5MUnloSWdrRVctSnRtbEN3NnpBUW5MYWQxaVVqUWl3bGRZZE0xMUhZcXVraFNUYlBaTS1kaVF5SUNyT01pNzduZ1JhNllMOTVRejk1N3pOVVVscnFfeFMydTVPMmZWZE95WXdOa0NLOXlPLVNRNU5FMUctanRycE1sZGs2bG1JbGxoREt1RFVfUXBaMjV6S0pMWEM0ZnZxd041enMyS0x6X2g4d3M2X3lN?oc=5",
+          "url": "https://gobison.com/news/2026/2/21/womens-basketball-ndsu-womens-basketball-tops-south-dakota-to-clinch-share-of-summit-league-title.aspx",
           "source": "Daybook: International Events",
           "sourceId": "daybook_intl",
           "category": "daybook",
@@ -5405,7 +5425,7 @@
         },
         {
           "headline": "Chaos, confusion and $200 billion dreams: What I saw at India’s AI summit - CNBC",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Hb2p3em1Pbmt6Rm1PN09hSW0yU3JaelU2UXE2bVFPazRnaGJ2MTlEYTUzdmVLRllRU0pMa2xiRlE3eEFfc1ZuQ3NBUFNZY01hVGRuZmxoOFZ0YWVWWmFkZ0JkRWpiSjdC0gFuQVVfeXFMTlJEcjViTXd4V1pCYmJ1ZXBvS2xLUHdWWW1Ld0JPSElLNVlBVnlVSG1WRXVkdUFZbklBQVUxUG1rMEdERE1BTElvZzZMRDhJUnN6aW0zVzFDU3NOZVhCb0JjTGxVRnkwZWlxQ1I5RHc?oc=5",
+          "url": "https://www.cnbc.com/2026/02/21/ai-summit-india-tech.html",
           "source": "Daybook: International Events",
           "sourceId": "daybook_intl",
           "category": "daybook",
@@ -5415,33 +5435,13 @@
         },
         {
           "headline": "AIA Women’s Leadership Summit 2026 - The American Institute of Architects: AIA",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PaEViOUFlUHlhRDkyQkdoT2xXZkhGNVBUeDJBMDE1OGNrdzBpSDlWdzBDLTZCU2VSYmdZb3NCc3hyMkpLRC0wOFFkR0pBWGJsTHBWamx0RVlDTkYyYkdfYXhScFpTOGZkWElmNHJn?oc=5",
+          "url": "https://www.aia.org/community/events/womens-leadership-summit",
           "source": "Daybook: International Events",
           "sourceId": "daybook_intl",
           "category": "daybook",
           "priority": "reference",
           "date": "Thu, 26 Feb 2026 15:07:51 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1PaEViOUFlUHlhRDkyQkdoT2xXZkhGNVBUeDJBMDE1OGNrdzBpSDlWdzBDLTZCU2VSYmdZb3NCc3hyMkpLRC0wOFFkR0pBWGJsTHBWamx0RVlDTkYyYkdfYXhScFpTOGZkWElmNHJ"
-        },
-        {
-          "headline": "Entrepreneurs, academics discuss L.A.’s place in the startup world at USC Venture &amp; Innovation Summit - University of Southern California",
-          "url": "https://today.usc.edu/entrepreneurs-academics-discuss-l-a-s-place-in-the-startup-world-at-usc-venture-innovation-summit/",
-          "source": "Daybook: International Events",
-          "sourceId": "daybook_intl",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Wed, 25 Feb 2026 22:38:25 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNTTJvMmlfWm9zdDVuSXo0amZEbnRTRHRVa3E2eUlYaUhOQUxlTDFjUXdMVVFaOVd3aGhvOFBwLTdFSUwwVkRjenhwNVVBVDVjaDRyM2dDUFBQZ2d4bGphQ2dKbU5LUmxCNW1TcFZ"
-        },
-        {
-          "headline": "IARC at the European Cancer Screening and Early Detection Policy Summit in Brussels - International Agency for Research on Cancer",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWktnckI1dWhOQjc2SjNxZ0VWUDNnc1ZNU2poMEtYS2FpZXMxV0I3c1JpaXhVM1V6OHo3VHBRUWtSaXBSM2ZfWVJVaHVOMDNaa181SUxOQWI4T18yWV9iQlQ3NV9LYkhqSnZsR2ZpY0FZUElmbGtxRU1Dd002djNiTkRnWHBITVBXOHlGZGpjMWI2bmlrQU9SY3l3QnR6UGE0NU43aU0yS2pWN0ZYTTVPSkp1VGt1bW5iakg0NXVn?oc=5",
-          "source": "Daybook: International Events",
-          "sourceId": "daybook_intl",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Mon, 23 Feb 2026 19:59:52 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOWktnckI1dWhOQjc2SjNxZ0VWUDNnc1ZNU2poMEtYS2FpZXMxV0I3c1JpaXhVM1V6OHo3VHBRUWtSaXBSM2ZfWVJVaHVOMDNaa181SUxOQWI4T18yWV9iQlQ3NV9LYkhqSnZsR2Z"
         },
         {
           "headline": "Decoding trade deadline strategy and where the Kraken fit - Sound Of Hockey",
@@ -5515,7 +5515,7 @@
         },
         {
           "headline": "MINNESOTA WILD: POST-OLYMPIC ADVICE FOR THE NHL TRADE DEADLINE - Lets Play Hockey",
-          "url": "https://letsplayhockey.com/minnesota-wild-post-olympic-advice-for-the-nhl-trade-deadline/",
+          "url": "https://letsplayhockey.com/.well-known/sgcaptcha/?r=%2Fminnesota-wild-post-olympic-advice-for-the-nhl-trade-deadline%2F&y=ipr:132.196.82.2:1772208544.372",
           "source": "Daybook: Economic Calendar",
           "sourceId": "daybook_econ",
           "category": "daybook",
@@ -5694,16 +5694,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQNVdxeGpTY3hXa2wwUTB6S2VyalRWc09hQjMxMUJaN3JpbDliMmFUR0dWenhYWmxmbzF3Ry1FekFJaU1RTGJURHdiZ2lUZE9QZHZfTEMyWVV3V19oT2ZDQnNJNXNQM3lBV1JKWWJ"
         },
         {
-          "headline": "Missed the HIPAA Deadline? Don’t Panic, Health Care Entities Can Still Update Privacy Practices and Policy Notices - JD Supra",
-          "url": "https://www.jdsupra.com/legalnews/missed-the-hipaa-deadline-don-t-panic-4720721/",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Fri, 27 Feb 2026 14:15:40 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPaUliYU5IcGpsS0JxVGpHQUpsOFh4bXVXMmJfbC1XcWlRUUdOcVk1bTI2TmhSV3kzN1N6NXliYzBHdV9qMDcyUWpWaTQydVJLSV9MTzQ5Yjk4Y2xSMHVYZnhnMGN3RnFmS2VkSk9"
-        },
-        {
           "headline": "Governor Gianforte, Department of Revenue Extend Application Deadline for Property Tax Relief - State of Montana Newsroom (.gov)",
           "url": "https://news.mt.gov/Governors-Office/Governor-Gianforte-Department-of-Revenue-Extend-Application-Deadline-for-Property-Tax-Relief",
           "source": "Daybook: Scheduled Events",
@@ -5712,6 +5702,16 @@
           "priority": "reference",
           "date": "Fri, 27 Feb 2026 01:48:10 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVEYwTjE5WFF6M3JkWXNGX2IxOGMwWnFPOWVWa1RraGd6X3VxeXd2VFNDek9feGtrd1FKa0Y2MzJDMWhSWlJHMURvVDk3aGxnQVEwckU5VkM5dnhIVUxlWnNIUGlPenBhNm5semJ"
+        },
+        {
+          "headline": "Missed the HIPAA Deadline? Don’t Panic, Health Care Entities Can Still Update Privacy Practices and Policy Notices - JD Supra",
+          "url": "https://www.jdsupra.com/legalnews/missed-the-hipaa-deadline-don-t-panic-4720721/",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Fri, 27 Feb 2026 14:15:40 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPaUliYU5IcGpsS0JxVGpHQUpsOFh4bXVXMmJfbC1XcWlRUUdOcVk1bTI2TmhSV3kzN1N6NXliYzBHdV9qMDcyUWpWaTQydVJLSV9MTzQ5Yjk4Y2xSMHVYZnhnMGN3RnFmS2VkSk9"
         },
         {
           "headline": "Ahead of Feb. 27 Deadline, Mayor Mamdani Urges Families to Apply for Pre-K and 3-K - NYC.gov",
@@ -5734,14 +5734,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaVdKUEQyb3ZXWElDLWc2dURkd0ZZVjQ1enZrTkU5dk9fU3pWQUNUWW0tNHdXeW5hMDJLajYzcU1JT0xYVy1vN1pQOGYxRHZZLXIxNDJXT2I0VERWWW9qdTZaVVBja19kcHRhR3l"
         },
         {
-          "headline": "California sets August deadline for GHG emissions reporting - Responsible Investor",
-          "url": "https://www.responsible-investor.com/california-sets-august-deadline-for-ghg-emissions-reporting/",
+          "headline": "That’s All, Folks: Netflix Walks Away From Warner Bros., Refusing To Raise Offer - Deadline",
+          "url": "https://deadline.com/2026/02/netflix-declines-to-raise-offer-for-warner-bros-1236738005/",
           "source": "Daybook: Scheduled Events",
           "sourceId": "daybook_scheduled",
           "category": "daybook",
           "priority": "reference",
-          "date": "Fri, 27 Feb 2026 14:51:42 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNelpMaWozTHpudjdMV2JvVnF3eTJDcWJUaFVtZTZnUHBkd1FibFJSNkRsS1VPV1VYTTZ5SWFacE1FUHRqWnFLNV9uemVEZWRRSnhWVHdoejU3dzZieUlwMWduYnNOLV8tZm5iM2o"
+          "date": "Thu, 26 Feb 2026 22:55:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQYTliQUJsWGQtWTk2VjAwbTAySjdmcjhXYm5NNnEzUUlfN1ktb2MtWVlQZm9RR2xuc05vd1ZpcWNzMkdJVmY0UjlyTXN1WF96cGx1ZEFzWnpRVDdXSkpMTFRUSjljSW52V0dNaGh"
         }
       ]
     }
@@ -5768,6 +5768,16 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNS3BDa0VGNWdpbkx1RnB6Zjg5dzlIazlreS1EVmVsMW9iUm1vSlhidjFKOG9rM0wtb1lUeF9zWUJycEkzREhJT2xPbmFtdEVtQkQ3N2dQbEM0VlpQMGRlcFB1allrbzVOR2NpSE1"
     },
     {
+      "headline": "Denver Men’s Tennis Earns Summit League Awards Sweep - University of Denver Athletics",
+      "url": "https://denverpioneers.com/news/2026/2/24/denver-mens-tennis-earns-summit-league-awards-sweep.aspx",
+      "source": "Daybook: International Events",
+      "sourceId": "daybook_intl",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Tue, 24 Feb 2026 18:04:53 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNWEEzR19CTGdqVGhPNUw4Znl1dkxTTDFlZWV1UGtvbllWcWFlTUZJamJJWHMyREFyZGUxdGx2dGxKX0Nrc3hQUmtONlNfcUd0cHlVam1PM2N5Z3JMbDBxTDdGUENraWZUeEUyc3l"
+    },
+    {
       "headline": "New Kits On The Block: Boston Legacy, Denver Summit drop debut primary kits - NWSL",
       "url": "https://www.nwslsoccer.com/news/new-kits-on-the-block-boston-legacy-denver-summit-drop-debut-primary-kits",
       "source": "Daybook: International Events",
@@ -5776,6 +5786,16 @@
       "priority": "reference",
       "date": "Mon, 23 Feb 2026 19:21:54 GMT",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ1FsekozU3VLMlE4QTE5N2dOaXh1Y1VCQWsxUnVuTlNhN1N4LUZndWtzd1A5czFoWVFCcXQ5WmhLRkxpRHZnN2xPb3hzOGFTMEtJMGpPY0F3TF9HR183M19DM2ZSbzFCYWRCSEN"
+    },
+    {
+      "headline": "Inaugural Contested Logistics for Space Summit emphasizes USSF’s focus on mission sustainm - spaceforce.mil",
+      "url": "https://www.spaceforce.mil/News/Article-Display/Article/4410631/inaugural-contested-logistics-for-space-summit-emphasizes-ussfs-focus-on-missio/",
+      "source": "Daybook: International Events",
+      "sourceId": "daybook_intl",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Fri, 20 Feb 2026 16:48:04 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNDlVczNlUldmVktLTF9ZeUlfMlFld3BDQURQTFNVdktGdmZNSU90QXE4S2FpWjRheGh3OGs4aU9XX0ktblhDY3dVV2NqYV9SbFctSkd6TGNWbXA5UDJQMmpYWXVIS2dia0hPWTh"
     },
     {
       "headline": "At A.I. Summit, India Tries to Find a Way Between the U.S. and China - The New York Times - The New York Times",
@@ -5829,7 +5849,7 @@
     },
     {
       "headline": "NDSU Women’s Basketball Tops South Dakota to Clinch Share of Summit League Title - gobison.com",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdS1tcG1rTlJuZDBBYnhOX2tKaWoweDJ1SE1CSTR5Tk81WE5MUnloSWdrRVctSnRtbEN3NnpBUW5MYWQxaVVqUWl3bGRZZE0xMUhZcXVraFNUYlBaTS1kaVF5SUNyT01pNzduZ1JhNllMOTVRejk1N3pOVVVscnFfeFMydTVPMmZWZE95WXdOa0NLOXlPLVNRNU5FMUctanRycE1sZGs2bG1JbGxoREt1RFVfUXBaMjV6S0pMWEM0ZnZxd041enMyS0x6X2g4d3M2X3lN?oc=5",
+      "url": "https://gobison.com/news/2026/2/21/womens-basketball-ndsu-womens-basketball-tops-south-dakota-to-clinch-share-of-summit-league-title.aspx",
       "source": "Daybook: International Events",
       "sourceId": "daybook_intl",
       "category": "daybook",
@@ -5859,7 +5879,7 @@
     },
     {
       "headline": "Chaos, confusion and $200 billion dreams: What I saw at India’s AI summit - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Hb2p3em1Pbmt6Rm1PN09hSW0yU3JaelU2UXE2bVFPazRnaGJ2MTlEYTUzdmVLRllRU0pMa2xiRlE3eEFfc1ZuQ3NBUFNZY01hVGRuZmxoOFZ0YWVWWmFkZ0JkRWpiSjdC0gFuQVVfeXFMTlJEcjViTXd4V1pCYmJ1ZXBvS2xLUHdWWW1Ld0JPSElLNVlBVnlVSG1WRXVkdUFZbklBQVUxUG1rMEdERE1BTElvZzZMRDhJUnN6aW0zVzFDU3NOZVhCb0JjTGxVRnkwZWlxQ1I5RHc?oc=5",
+      "url": "https://www.cnbc.com/2026/02/21/ai-summit-india-tech.html",
       "source": "Daybook: International Events",
       "sourceId": "daybook_intl",
       "category": "daybook",
@@ -5869,33 +5889,13 @@
     },
     {
       "headline": "AIA Women’s Leadership Summit 2026 - The American Institute of Architects: AIA",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PaEViOUFlUHlhRDkyQkdoT2xXZkhGNVBUeDJBMDE1OGNrdzBpSDlWdzBDLTZCU2VSYmdZb3NCc3hyMkpLRC0wOFFkR0pBWGJsTHBWamx0RVlDTkYyYkdfYXhScFpTOGZkWElmNHJn?oc=5",
+      "url": "https://www.aia.org/community/events/womens-leadership-summit",
       "source": "Daybook: International Events",
       "sourceId": "daybook_intl",
       "category": "daybook",
       "priority": "reference",
       "date": "Thu, 26 Feb 2026 15:07:51 GMT",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1PaEViOUFlUHlhRDkyQkdoT2xXZkhGNVBUeDJBMDE1OGNrdzBpSDlWdzBDLTZCU2VSYmdZb3NCc3hyMkpLRC0wOFFkR0pBWGJsTHBWamx0RVlDTkYyYkdfYXhScFpTOGZkWElmNHJ"
-    },
-    {
-      "headline": "Entrepreneurs, academics discuss L.A.’s place in the startup world at USC Venture &amp; Innovation Summit - University of Southern California",
-      "url": "https://today.usc.edu/entrepreneurs-academics-discuss-l-a-s-place-in-the-startup-world-at-usc-venture-innovation-summit/",
-      "source": "Daybook: International Events",
-      "sourceId": "daybook_intl",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Wed, 25 Feb 2026 22:38:25 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNTTJvMmlfWm9zdDVuSXo0amZEbnRTRHRVa3E2eUlYaUhOQUxlTDFjUXdMVVFaOVd3aGhvOFBwLTdFSUwwVkRjenhwNVVBVDVjaDRyM2dDUFBQZ2d4bGphQ2dKbU5LUmxCNW1TcFZ"
-    },
-    {
-      "headline": "IARC at the European Cancer Screening and Early Detection Policy Summit in Brussels - International Agency for Research on Cancer",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWktnckI1dWhOQjc2SjNxZ0VWUDNnc1ZNU2poMEtYS2FpZXMxV0I3c1JpaXhVM1V6OHo3VHBRUWtSaXBSM2ZfWVJVaHVOMDNaa181SUxOQWI4T18yWV9iQlQ3NV9LYkhqSnZsR2ZpY0FZUElmbGtxRU1Dd002djNiTkRnWHBITVBXOHlGZGpjMWI2bmlrQU9SY3l3QnR6UGE0NU43aU0yS2pWN0ZYTTVPSkp1VGt1bW5iakg0NXVn?oc=5",
-      "source": "Daybook: International Events",
-      "sourceId": "daybook_intl",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Mon, 23 Feb 2026 19:59:52 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOWktnckI1dWhOQjc2SjNxZ0VWUDNnc1ZNU2poMEtYS2FpZXMxV0I3c1JpaXhVM1V6OHo3VHBRUWtSaXBSM2ZfWVJVaHVOMDNaa181SUxOQWI4T18yWV9iQlQ3NV9LYkhqSnZsR2Z"
     },
     {
       "headline": "Decoding trade deadline strategy and where the Kraken fit - Sound Of Hockey",
@@ -5969,7 +5969,7 @@
     },
     {
       "headline": "MINNESOTA WILD: POST-OLYMPIC ADVICE FOR THE NHL TRADE DEADLINE - Lets Play Hockey",
-      "url": "https://letsplayhockey.com/minnesota-wild-post-olympic-advice-for-the-nhl-trade-deadline/",
+      "url": "https://letsplayhockey.com/.well-known/sgcaptcha/?r=%2Fminnesota-wild-post-olympic-advice-for-the-nhl-trade-deadline%2F&y=ipr:132.196.82.2:1772208544.372",
       "source": "Daybook: Economic Calendar",
       "sourceId": "daybook_econ",
       "category": "daybook",
@@ -6128,16 +6128,6 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQNVdxeGpTY3hXa2wwUTB6S2VyalRWc09hQjMxMUJaN3JpbDliMmFUR0dWenhYWmxmbzF3Ry1FekFJaU1RTGJURHdiZ2lUZE9QZHZfTEMyWVV3V19oT2ZDQnNJNXNQM3lBV1JKWWJ"
     },
     {
-      "headline": "Missed the HIPAA Deadline? Don’t Panic, Health Care Entities Can Still Update Privacy Practices and Policy Notices - JD Supra",
-      "url": "https://www.jdsupra.com/legalnews/missed-the-hipaa-deadline-don-t-panic-4720721/",
-      "source": "Daybook: Scheduled Events",
-      "sourceId": "daybook_scheduled",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Fri, 27 Feb 2026 14:15:40 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPaUliYU5IcGpsS0JxVGpHQUpsOFh4bXVXMmJfbC1XcWlRUUdOcVk1bTI2TmhSV3kzN1N6NXliYzBHdV9qMDcyUWpWaTQydVJLSV9MTzQ5Yjk4Y2xSMHVYZnhnMGN3RnFmS2VkSk9"
-    },
-    {
       "headline": "Governor Gianforte, Department of Revenue Extend Application Deadline for Property Tax Relief - State of Montana Newsroom (.gov)",
       "url": "https://news.mt.gov/Governors-Office/Governor-Gianforte-Department-of-Revenue-Extend-Application-Deadline-for-Property-Tax-Relief",
       "source": "Daybook: Scheduled Events",
@@ -6146,6 +6136,16 @@
       "priority": "reference",
       "date": "Fri, 27 Feb 2026 01:48:10 GMT",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVEYwTjE5WFF6M3JkWXNGX2IxOGMwWnFPOWVWa1RraGd6X3VxeXd2VFNDek9feGtrd1FKa0Y2MzJDMWhSWlJHMURvVDk3aGxnQVEwckU5VkM5dnhIVUxlWnNIUGlPenBhNm5semJ"
+    },
+    {
+      "headline": "Missed the HIPAA Deadline? Don’t Panic, Health Care Entities Can Still Update Privacy Practices and Policy Notices - JD Supra",
+      "url": "https://www.jdsupra.com/legalnews/missed-the-hipaa-deadline-don-t-panic-4720721/",
+      "source": "Daybook: Scheduled Events",
+      "sourceId": "daybook_scheduled",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Fri, 27 Feb 2026 14:15:40 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPaUliYU5IcGpsS0JxVGpHQUpsOFh4bXVXMmJfbC1XcWlRUUdOcVk1bTI2TmhSV3kzN1N6NXliYzBHdV9qMDcyUWpWaTQydVJLSV9MTzQ5Yjk4Y2xSMHVYZnhnMGN3RnFmS2VkSk9"
     },
     {
       "headline": "Ahead of Feb. 27 Deadline, Mayor Mamdani Urges Families to Apply for Pre-K and 3-K - NYC.gov",
@@ -6168,14 +6168,14 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaVdKUEQyb3ZXWElDLWc2dURkd0ZZVjQ1enZrTkU5dk9fU3pWQUNUWW0tNHdXeW5hMDJLajYzcU1JT0xYVy1vN1pQOGYxRHZZLXIxNDJXT2I0VERWWW9qdTZaVVBja19kcHRhR3l"
     },
     {
-      "headline": "California sets August deadline for GHG emissions reporting - Responsible Investor",
-      "url": "https://www.responsible-investor.com/california-sets-august-deadline-for-ghg-emissions-reporting/",
+      "headline": "That’s All, Folks: Netflix Walks Away From Warner Bros., Refusing To Raise Offer - Deadline",
+      "url": "https://deadline.com/2026/02/netflix-declines-to-raise-offer-for-warner-bros-1236738005/",
       "source": "Daybook: Scheduled Events",
       "sourceId": "daybook_scheduled",
       "category": "daybook",
       "priority": "reference",
-      "date": "Fri, 27 Feb 2026 14:51:42 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNelpMaWozTHpudjdMV2JvVnF3eTJDcWJUaFVtZTZnUHBkd1FibFJSNkRsS1VPV1VYTTZ5SWFacE1FUHRqWnFLNV9uemVEZWRRSnhWVHdoejU3dzZieUlwMWduYnNOLV8tZm5iM2o"
+      "date": "Thu, 26 Feb 2026 22:55:00 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQYTliQUJsWGQtWTk2VjAwbTAySjdmcjhXYm5NNnEzUUlfN1ktb2MtWVlQZm9RR2xuc05vd1ZpcWNzMkdJVmY0UjlyTXN1WF96cGx1ZEFzWnpRVDdXSkpMTFRUSjljSW52V0dNaGh"
     }
   ],
   "watchCandidates": [
@@ -6271,7 +6271,7 @@
       "sourceId": "nyt_world",
       "category": "general",
       "priority": "secondary",
-      "date": "Fri, 27 Feb 2026 15:57:06 +0000",
+      "date": "Fri, 27 Feb 2026 15:57:07 +0000",
       "description": "The result marks the first time the Greens have won a British parliamentary by-election and signals the frustration of left-leaning voters with Prime Minister Keir Starmer.",
       "watchCandidate": true,
       "watchSignals": [
