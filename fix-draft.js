@@ -339,6 +339,122 @@ function getAttributionForDomain(domain) {
   return null;
 }
 
+// ---------------------------------------------------------------------------
+// BRIEFING.JSON GROUND TRUTH LOOKUP
+//
+// When briefing.json is available, we can look up the actual source for each
+// URL instead of guessing from the domain. This handles edge cases where:
+//   - A URL has been redirected through a CDN/shortener
+//   - The domain doesn't map cleanly to a single source
+//   - The Writer used a wire pickup (AP story on Yahoo News, etc.)
+//
+// The lookup is built at startup and passed through to fixAttributionDomain().
+// If briefing.json is missing, everything falls back to domain suffix matching.
+// ---------------------------------------------------------------------------
+
+/**
+ * Map raw source names from briefing.json to canonical display forms.
+ * e.g., "BBC World" -> "the BBC", "Associated Press" -> "AP"
+ */
+const SOURCE_NAME_TO_DISPLAY = {
+  'ap':                    'AP',
+  'associated press':      'AP',
+  'reuters':               'Reuters',
+  'bbc':                   'the BBC',
+  'bbc world':             'the BBC',
+  'bbc news':              'the BBC',
+  'bloomberg':             'Bloomberg',
+  'bloomberg markets':     'Bloomberg',
+  'the guardian':          'the Guardian',
+  'guardian':              'the Guardian',
+  'al jazeera':            'Al Jazeera',
+  'france24':              'France24',
+  'france 24':             'France24',
+  'financial times':       'the Financial Times',
+  'ft':                    'the Financial Times',
+  'wall street journal':   'the Wall Street Journal',
+  'wsj':                   'the Wall Street Journal',
+  'scmp':                  'the South China Morning Post',
+  'south china morning post': 'the South China Morning Post',
+  'japan times':           'the Japan Times',
+  'the japan times':       'the Japan Times',
+  'haaretz':               'Haaretz',
+  'the economist':         'the Economist',
+  'economist':             'the Economist',
+  'cnn':                   'CNN',
+  'npr':                   'NPR',
+  'afp':                   'AFP',
+};
+
+function getDisplayNameForSource(rawName) {
+  if (!rawName) return null;
+  const key = rawName.toLowerCase().trim();
+  return SOURCE_NAME_TO_DISPLAY[key] || null;
+}
+
+/**
+ * Build a Map<url, displayName> from briefing.json.
+ * Handles both briefing.json formats:
+ *   - russell-briefing: stories.all[] or stories.byPriority.{primary,secondary,...}[]
+ *   - news-briefing: secondary.{reuters,ap,bbc,bloomberg}[] + nyt.{lead,primary,secondary}
+ *
+ * Returns null if briefing.json doesn't exist or can't be parsed (graceful fallback).
+ */
+function buildUrlSourceLookup(briefingPath) {
+  try {
+    const raw = fs.readFileSync(briefingPath, 'utf8');
+    const briefing = JSON.parse(raw);
+    const lookup = new Map();
+
+    // Helper: add a story's URL->display name to the lookup
+    function addStory(story) {
+      const url = story.url || story.link;
+      const source = story.source || story.sourceId;
+      if (!url || !source) return;
+
+      // Try ground-truth display name first, fall back to domain-based lookup
+      const displayName = getDisplayNameForSource(source) || getAttributionForDomain(extractDomain(url));
+      if (displayName) {
+        lookup.set(url, displayName);
+      }
+    }
+
+    // Russell-briefing format: stories.all[] or stories.byPriority.{bucket}[]
+    if (briefing.stories) {
+      // stories.all is the most complete list
+      if (Array.isArray(briefing.stories.all)) {
+        briefing.stories.all.forEach(addStory);
+      }
+      // Also check byPriority buckets in case .all is missing
+      if (briefing.stories.byPriority) {
+        for (const bucket of Object.values(briefing.stories.byPriority)) {
+          if (Array.isArray(bucket)) bucket.forEach(addStory);
+        }
+      }
+    }
+
+    // News-briefing format: secondary.{reuters,ap,bbc,bloomberg}[]
+    if (briefing.secondary && typeof briefing.secondary === 'object') {
+      for (const stories of Object.values(briefing.secondary)) {
+        if (Array.isArray(stories)) stories.forEach(addStory);
+      }
+    }
+
+    // News-briefing: also index nyt.primary[], nyt.secondary[], nyt.lead
+    if (briefing.nyt) {
+      if (Array.isArray(briefing.nyt.primary)) briefing.nyt.primary.forEach(addStory);
+      if (Array.isArray(briefing.nyt.secondary)) briefing.nyt.secondary.forEach(addStory);
+      if (briefing.nyt.lead) addStory(briefing.nyt.lead);
+    }
+
+    console.error(`  Loaded ${lookup.size} URL→source mappings from ${briefingPath}`);
+    return lookup.size > 0 ? lookup : null;
+  } catch (e) {
+    // File missing or malformed — fall back to domain matching (no error needed)
+    return null;
+  }
+}
+
 /**
  * Fix attribution-domain mismatches.
  *
@@ -347,8 +463,14 @@ function getAttributionForDomain(domain) {
  * source name with the correct one based on the URL.
  *
  * Example: "per the BBC" + apnews.com link → "per AP"
+ *
+ * @param {string} text - The draft markdown text
+ * @param {Map<string, string>|null} urlSourceLookup - Optional ground-truth
+ *   URL→displayName map from briefing.json. When provided, the correct
+ *   attribution for a URL is looked up here first before falling back to
+ *   the static DOMAIN_TO_ATTRIBUTION map.
  */
-function fixAttributionDomain(text) {
+function fixAttributionDomain(text, urlSourceLookup = null) {
   const fixes = [];
   const allLinks = extractLinks(text);
 
@@ -373,7 +495,9 @@ function fixAttributionDomain(text) {
 
     const link = nonNytLinks[0];
     const domain = extractDomain(link.url);
-    const correctAttribution = getAttributionForDomain(domain);
+    // Ground truth first (briefing.json), then domain suffix fallback
+    const correctAttribution = (urlSourceLookup && urlSourceLookup.get(link.url))
+      || getAttributionForDomain(domain);
     if (!correctAttribution) continue;
 
     let fixedLine = line;
@@ -381,9 +505,10 @@ function fixAttributionDomain(text) {
 
     // Check each known source name against this line
     for (const [sourceName, expectedDomains] of Object.entries(SOURCE_DOMAINS)) {
-      // Does the line mention this source?
-      const lowerLine = fixedLine.toLowerCase();
-      if (!lowerLine.includes(sourceName.toLowerCase())) continue;
+      // Does the line mention this source as a whole word?
+      // Use word boundary check to avoid matching "ap" inside "snap", "bbc" inside "abbc", etc.
+      const sourceWordRegex = new RegExp('\\b' + escapeRegex(sourceName) + '\\b', 'i');
+      if (!sourceWordRegex.test(fixedLine)) continue;
 
       // Does the link domain match the expected domains for this source?
       const domainMatches = expectedDomains.some(d => domain.includes(d));
@@ -395,8 +520,9 @@ function fixAttributionDomain(text) {
       if (!displayForms) continue;
 
       for (const form of displayForms) {
-        // Case-insensitive search for the display form in the line
-        const formRegex = new RegExp(escapeRegex(form), 'i');
+        // Case-insensitive search for the display form in the line.
+        // Word boundaries prevent matching "ap" inside "snap", "cnn" inside "disconnect", etc.
+        const formRegex = new RegExp('\\b' + escapeRegex(form) + '\\b', 'i');
         const formMatch = formRegex.exec(fixedLine);
         if (!formMatch) continue;
 
@@ -469,7 +595,7 @@ function escapeRegex(str) {
 //   4. Attribution-domain mismatch last (needs stable link positions)
 // ---------------------------------------------------------------------------
 
-function fixAll(text) {
+function fixAll(text, urlSourceLookup = null) {
   const allFixes = [];
 
   // Pass 1: contractions
@@ -486,7 +612,8 @@ function fixAll(text) {
 
   // Pass 4: attribution-domain mismatch
   // "per Reuters" but link goes to apnews.com → "per AP"
-  const r4 = fixAttributionDomain(r3.text);
+  // Uses briefing.json ground truth when available, falls back to domain suffix matching.
+  const r4 = fixAttributionDomain(r3.text, urlSourceLookup);
   allFixes.push(...r4.fixes);
 
   return { text: r4.text, fixes: allFixes };
@@ -547,7 +674,14 @@ function main() {
     process.exit(1);
   }
 
-  const result = fixAll(draftText);
+  // Try to load briefing.json for ground-truth URL→source lookup.
+  // This makes Fixer 4 (attribution-domain) more accurate by using the
+  // actual source from scraped data rather than guessing from domains.
+  // Graceful fallback: if briefing.json doesn't exist, uses domain matching.
+  const briefingPath = require('path').join(process.cwd(), 'briefing.json');
+  const urlSourceLookup = buildUrlSourceLookup(briefingPath);
+
+  const result = fixAll(draftText, urlSourceLookup);
 
   if (args.json) {
     // JSON mode: output structured report
@@ -587,6 +721,9 @@ if (require.main === module) {
     getLineNumber,
     parseArgs,
     getAttributionForDomain,
+    getDisplayNameForSource,
+    buildUrlSourceLookup,
     DOMAIN_TO_ATTRIBUTION,
+    SOURCE_NAME_TO_DISPLAY,
   };
 }

@@ -365,7 +365,9 @@ BRIEFING-SPECIFIC RULES:
 7. The briefing MUST begin with the line: "Good morning, Russell! Here's what happened while you were sleeping." (on its own line, before the first section header). This is NOT a bullet point — just a plain text greeting.
 8. ACTIVELY SCAN for forward-looking language in stories: "scheduled for", "set to", "expected to", "will meet", "vote on", "summit begins", "deadline", "hearing", "ruling expected". Pull these into the What to Watch section.
 9. LINK DIVERSITY: Spread links across at least 4 different source domains. No single domain should account for more than 30% of all links.
-10. RECENCY: Each story has an "hoursAgo" field showing how old it is. For Top Stories, strongly prefer stories from the last 12 hours. Stories older than 18 hours should only appear if they are genuinely major and no fresher coverage exists.`;
+10. RECENCY: Each story has an "hoursAgo" field showing how old it is. For Top Stories, strongly prefer stories from the last 12 hours. Stories older than 18 hours should only appear if they are genuinely major and no fresher coverage exists.
+11. ATTRIBUTION-URL BINDING: When you attribute a story to a source, the source name MUST match the domain of the URL you link. If you link to apnews.com, write "AP" not "Reuters". If you link to reuters.com, write "Reuters" not "Bloomberg". Each story in the data below has a "source" field — use it. Before finalizing each bullet, double-check: does my attribution match the link's domain?
+12. ONE LINK PER BULLET: Each bullet should link to ONE primary source. Do not combine multiple non-NYT links in a single bullet — it creates attribution confusion and makes errors hard to catch.`;
 
   // Check if sleep filter data exists (from --cutoff run)
   const sleepFilter = briefing.sleepFilter || null;
