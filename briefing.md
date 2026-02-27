@@ -1,43 +1,47 @@
-Good morning, Russell! Here's what happened while you were sleeping.
+Good morning, Russell! Here is what happened while you were sleeping.
 
-**Top Stories**
+## **Top Stories**
 
-- The US and Iran [made progress](https://www.ft.com/content/fb27e869-54de-4dea-8d4a-da6d73a5421b) in nuclear talks in Geneva, with Oman's foreign minister saying the two countries are set to meet again following the round of negotiations.
+- The UK [withdrew embassy](https://www.bbc.com/news/articles/c309vz0z893o?at_medium=RSS&amp;at_campaign=rss) staff from Tehran and the US told non-essential personnel they can leave Israel, as tensions over potential Iran strikes escalate across the region, according to the BBC.
 
-- Afghanistan [launched retaliatory](https://www.bbc.com/news/articles/c0j5qx9n887o?at_medium=RSS&amp;at_campaign=rss) attacks on Pakistan, according to the Taliban, with both sides claiming to have inflicted casualties on the other.
+- Pakistan declared [open war](https://www.france24.com/en/video/20260227-civilians-flee-fighting-after-pakistan-bombs-afghan-cities) against Afghanistan after bombing major Afghan cities, following Taliban attacks on Pakistani border positions, France24 reports.
 
-- Danish Prime Minister Mette Frederiksen [called snap](https://www.bbc.com/news/articles/ckg3e63jwj8o?at_medium=RSS&amp;at_campaign=rss) elections for March 24, with the issue of Greenland expected to dominate the campaign following Trump's annexation threats.
+- Sweden said a drone [jammed near](https://www.bbc.com/news/articles/c1mj3e2nz8ko?at_medium=RSS&amp;at_campaign=rss) France's aircraft carrier was probably Russian, calling it "a serious but not unexpected incident" and "a Russian way of acting that we recognise from other places," per the BBC.
 
-- Cuba [vowed to](https://www.theguardian.com/world/2026/feb/26/what-to-know-cuba-boat-attack) fight "terrorist aggression" after a deadly coastal assault by exiles on a US-registered speedboat, Reuters reports.
+- The UN nuclear watchdog said it cannot [verify whether](https://apnews.com/article/iran-nuclear-iaea-uranium-enrichment-suspend-ccf574a324504b985f4b158f9d3d6941) Iran has suspended all uranium enrichment following the latest talks, AP reports.
 
-- A Kenyan man was [charged with](https://www.bbc.com/news/articles/cx2g79kpe2po?at_medium=RSS&amp;at_campaign=rss) luring 22 young men to fight for Russia in Ukraine.
+- Paramount [clinched a](https://www.ft.com/content/fdb3478b-a124-403e-ab39-0d0b33493294) $111 billion takeover deal with Warner Bros after Netflix walked away from the months-long bidding battle, the FT reports.
 
-- World Economic Forum head Børge Brende [stepped down](https://www.theguardian.com/world/2026/feb/26/what-to-know-cuba-boat-attack) following pressure over his links to Jeffrey Epstein, the Guardian notes.
+- OpenAI raised [$110 billion](https://www.reuters.com/business/retail-consumer/openais-110-billion-funding-round-draws-investment-amazon-nvidia-softbank-2026-02-27/) in new funding from Amazon, Nvidia and SoftBank, Reuters reports.
 
-**Conflicts & Diplomacy**
+- US tech stocks head for their [worst month](https://www.ft.com/content/259d2b95-ca0e-4029-b432-37bc6e2cec57) in almost a year over AI concerns, with fears about US-Iran conflict .
 
-- Iranian Foreign Minister Abbas Araghchi said the US and Iran have [moved closer](https://www.aljazeera.com/video/newsfeed/2026/2/26/iranian-foreign-minister-says-us-iran-moving-closer-to-deal?traffic_source=rss) to reaching an agreement, with technical discussions to continue in Vienna.
+## **Conflicts & Diplomacy**
 
-- Russia launched major strikes before US-Ukraine talks scheduled for Geneva, with Ukrainian officials hoping [trilateral peace](https://www.nytimes.com/2026/02/26/world/europe/russia-attack-ukraine-talks.html) negotiations could take place next week.
+- Iran stored highly enriched uranium at an [underground site](https://www.reuters.com/world/middle-east/iran-stored-highly-enriched-uranium-underground-site-iaea-report-says-2026-02-27/) and must allow inspections at the Isfahan facility, a new IAEA report shows, Reuters reports.
 
-- Israel [banned 37](https://www.aljazeera.com/video/newsfeed/2026/2/26/international-doctors-forced-to-leave-gaza-over-israeli-demands?traffic_source=rss) NGOs from operating in Gaza, forcing international medical teams to leave the territory.
+- Israel's Supreme Court [allowed aid](https://www.france24.com/en/middle-east/20260227-israel-s-supreme-court-allows-aid-groups-facing-govt-ban-to-keep-working-in-gaza) groups facing government bans to continue working in Gaza, France24 reports.
 
-- The US government [asked the](https://www.aljazeera.com/news/2026/2/26/us-government-asks-supreme-court-to-allow-deportation-of-syrian-migrants?traffic_source=rss) Supreme Court to allow deportation of Syrian migrants by stripping them of Temporary Protected Status.
+- Some 100,000 Palestinians [prayed at](https://www.aljazeera.com/news/2026/2/27/100000-pray-at-al-aqsa-during-israeli-restrictions-on-2nd-friday-of-ramadan?traffic_source=rss) Al-Aqsa Mosque on the second Friday of Ramadan while others were turned away despite carrying required permits, Al Jazeera reports.
 
-**Business & Markets**
+- An Indian court [cleared former](https://www.bbc.com/news/articles/ckg14d5y07xo?at_medium=RSS&amp;at_campaign=rss) Delhi chief minister Arvind Kejriwal of corruption charges almost two years after he was arrested in March 2024, weeks before India's general election, the BBC reports.
 
-- Tech stocks [slid 1.9%](https://www.ft.com/content/62e713ad-ffdc-4898-8492-481815d1aff0) on the Nasdaq despite better than expected results from Nvidia, as AI spending fears returned to markets.
+## **Business & Markets**
 
-- Las Vegas casino group Caesars is [weighing takeover](https://www.ft.com/content/0b1db35d-62ba-427e-a1c8-3dbbef969725) interest after shares fell to a five-year low following its absorption into a smaller rival in 2020.
+- Trump's media group is [weighing plans](https://www.ft.com/content/f77e6dcf-73dd-4ccd-b3d5-98f2df7c01e7) to spin off Truth Social as it seeks to focus on becoming a significant player in the nuclear energy industry, the FT reports.
 
-- Venezuela fuel station operators [declared an](https://www.reuters.com/business/energy/venezuela-fuel-station-operators-declare-emergency-minimal-earnings-document-2026-02-26/) emergency over minimal earnings, according to documents obtained by Reuters.
+- Australian supermarket giant Woolworths [tweaked its](https://www.bbc.com/news/articles/cy7jeyeyd18o?at_medium=RSS&amp;at_campaign=rss) AI-powered assistant after customers complained it was "obnoxious" and talked about its mother, giving them "the ick," the BBC reports.
 
-**What to Watch**
+## **Also Notable**
 
-- Denmark's [snap election](https://www.bbc.com/news/articles/ckg3e63jwj8o?at_medium=RSS&amp;at_campaign=rss) is set for March 24, with Greenland's status likely to dominate the campaign following Trump's annexation comments.
+- The Green Party [defeated Labour](https://www.nytimes.com/2026/02/26/world/europe/gorton-denton-result-green-party-labour.html) in a UK special election, marking the first time Greens have won a British parliamentary by-election and signaling frustration with Prime Minister Keir Starmer.
 
-- US-Ukraine [trilateral talks](https://www.nytimes.com/2026/02/26/world/europe/russia-attack-ukraine-talks.html) in Geneva could take place next week, Ukrainian officials said, per the New York Times.
+- An Indian court [cleared former](https://www.bbc.com/news/articles/ckg14d5y07xo?at_medium=RSS&amp;at_campaign=rss) Delhi chief minister Arvind Kejriwal of corruption charges after he spent months in jail following his arrest weeks before India's general election, the BBC reports.
 
-- The Pentagon [issued an](https://apnews.com/article/anthropic-military-ai-hegseth-department-of-defense-f05674f7195051ab843e5087d12c8cf8) ultimatum to AI company Anthropic under the Defense Protection Act, according to AP.
+## **What to Watch**
 
-- US authorities [threatened to](https://www.reuters.com/business/finance/us-proposes-severing-swiss-bank-financial-system-over-alleged-iran-russia-links-2026-02-26/) cut Swiss bank MBaer from the financial system over alleged ties to Iran, Russia, and Venezuela.
+- Hungary's Viktor Orban is [holding up](https://www.nytimes.com/2026/02/27/world/europe/hungary-orban-europe.html) a big EU loan for Ukraine as he faces a serious election challenge, with analysts saying the timing is no coincidence.
+
+- A Pentagon-Anthropic feud over AI warfare contracts [faces a](https://www.reuters.com/technology/pentagon-anthropic-feud-has-sales-ai-warfare-stake-friday-deadline-looms-2026-02-27/) Friday deadline with sales and military AI development at stake, Reuters reports.
+
+- Air attacks on Kabul have pushed the Pakistan-Taliban crisis into ["uncharted territory"](https://www.aljazeera.com/news/2026/2/27/air-attacks-on-kabul-push-pakistan-taliban-crisis-into-uncharted-territory?traffic_source=rss) with analysts warning escalation may destabilize both countries, Al Jazeera reports.
