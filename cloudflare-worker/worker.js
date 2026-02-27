@@ -106,7 +106,7 @@ export default {
         const { reaction, comment, briefingDate } = body;
 
         // Map reaction names to emoji (avoids encoding issues in POST body)
-        const reactionMap = { thumbsup: '\u{1F44D}', thumbsdown: '\u{1F44E}' };
+        const reactionMap = { thumbsup: '\u{1F44D}', thumbsdown: '\u{1F44E}', comment: '\u{1F4AC}' };
         const emoji = reactionMap[reaction];
         if (!emoji) {
           return new Response(JSON.stringify({ error: 'Invalid reaction' }), {
