@@ -445,15 +445,20 @@ function validateAttributionDomainMatch(text) {
     // Skip Google News redirects — handled by check 2
     if (link.url.includes('news.google.com')) continue;
 
-    // Get surrounding context (100 chars each side of the link)
-    const ctxStart = Math.max(0, link.index - 100);
-    const ctxEnd = Math.min(text.length, link.index + link.fullMatch.length + 100);
-    const context = text.substring(ctxStart, ctxEnd).toLowerCase();
+    // Get surrounding context — SAME LINE ONLY.
+    // Previously used a 100-char window on the raw text, which crossed
+    // newline/bullet boundaries and caused false positives: "BBC" from
+    // line 5's bullet leaked into the context for line 7's AP link.
+    // Fix: extract the full line containing this link and search within it.
+    const lines = text.split('\n');
+    const lineText = (lines[link.line - 1] || '').toLowerCase();
 
-    // Check each known source name against the context
+    // Check each known source name against the same line
     for (const [sourceName, expectedDomains] of Object.entries(SOURCE_DOMAINS)) {
-      // Does the nearby text mention this source?
-      if (context.includes(sourceName.toLowerCase())) {
+      // Does this line mention this source? Use word boundary to avoid
+      // matching "ap" inside "snap", "ft" inside "left", etc.
+      const sourceRegex = new RegExp('\\b' + sourceName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + '\\b', 'i');
+      if (sourceRegex.test(lineText)) {
         // Does the link domain match any of the expected domains?
         const domainMatches = expectedDomains.some(d => domain.includes(d));
         if (!domainMatches) {
