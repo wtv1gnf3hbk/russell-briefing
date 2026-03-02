@@ -2,36 +2,48 @@ Good morning, Russell! Here's what happened while you were sleeping.
 
 **Top Stories**
 
-- Iran's Supreme Leader Ayatollah Ali Khamenei was [killed in](https://apnews.com/article/iran-us-israel-reactions-03-01-2026-961f288c645f6cbc7fa9d63e0502df36) joint US-Israeli strikes, according to AP. Tehran confirmed his death following massive explosions in the capital.
+- AP reports that [US and Israeli](https://apnews.com/article/iran-trump-israel-war-where-things-stand-e3c003aef4479cd179967a63bb1236f4) strikes on Iran have killed Supreme Leader Ayatollah Ali Khamenei, as confirmed by Iranian state media.
 
-- Israel launched [fresh attacks](https://apnews.com/article/iran-israel-us-03-01-2026-693bc30bbbc98660d81f4a13f65ca10f) on Tehran's city center, according to AP. Iran retaliated with missile and drone strikes targeting Israel and Gulf states hosting US military bases.
+- According to the Financial Times, UK Prime Minister Starmer will [allow US forces](https://www.ft.com/content/b988499b-1a89-4e56-b0cf-19d5a8ac7111) to use British bases including Diego Garcia for attacks on Iranian missile sites.
 
-- A strike on an Iranian [primary school](https://www.ft.com/content/055d7ee1-0002-4d86-931f-18f4687d4f8b) killed 148 people, the FT reports. The girls' education facility was hit during the joint US-Israeli military operation.
+- Reuters reports that [drone strikes hit](https://www.reuters.com/business/energy/saudi-aramco-shuts-ras-tanura-refinery-after-drone-strike-source-says-2026-03-02/) major Saudi Arabian and Iraqi Kurdish oil facilities, forcing shutdowns of key refineries and gas fields.
 
-- At least 9 people died when [Shiite protesters](https://apnews.com/article/pakistan-protesters-attacked-us-consulate-karachi-iran-a3cc0c3c6f126cc54a657f61d312a203) stormed the US Consulate in Karachi, Pakistan, AP reports. Similar demonstrations erupted across Iraq following Khamenei's killing.
+- France24 reports that dozens died in Lebanon as [Israeli strikes targeted](https://www.france24.com/en/dozens-dead-in-lebanon-as-israel-and-hezbollah-trade-fire) Hezbollah positions following rocket attacks on Israeli territory.
 
-- Pragmatist Ali Larijani has [emerged as](https://www.reuters.com/world/middle-east/khameneis-absence-pragmatist-larijani-emerges-power-broker-iran-2026-03-01/) a key power broker in Iran's leadership transition, Reuters reports. Tehran is forming an interim council to oversee succession plans.
+- Reuters reports that Amazon's AWS cloud services suffered [outages in Bahrain](https://www.reuters.com/world/middle-east/amazon-cloud-unit-flags-issues-bahrain-uae-data-centers-during-iran-strikes-2026-03-02/) and UAE after data centers were struck by "objects" during Iranian attacks.
 
-- Major airlines suspended flights through Middle Eastern airspace, with [thousands of](https://www.reuters.com/world/middle-east/us-iran-conflict-disrupts-thousands-flights-travel-chaos-deepens-2026-03-01/) travelers stranded as the conflict disrupts global aviation, according to Reuters.
+- The BBC reports that oil [prices jumped sharply](https://www.bbc.com/news/articles/c75evve6l63o?at_medium=RSS&at_campaign=rss) while global stock markets fell as the Middle East conflict escalated beyond Iran's borders.
 
 **Conflicts & Diplomacy**
 
-- Iranian drones struck [oil tankers](https://www.reuters.com/business/energy/oil-tanker-hit-off-oman-coast-after-drones-strike-duqm-port-2026-03-01/) off Oman's coast and hit the Duqm port, Reuters reports. Tehran's retaliation expanded beyond Israel to target regional US allies.
+- Reuters reports that the [conflict has widened](https://www.reuters.com/world/middle-east/israel-strikes-lebanon-following-hezbollah-attacks-widening-iran-conflict-2026-03-02/) to include Lebanese Hezbollah forces following Israeli strikes in southern Lebanon.
 
-- Belgium authorities [seized a](https://www.reuters.com/world/belgium-seizes-suspected-russian-shadow-fleet-tanker-2026-03-01/) suspected Russian shadow fleet tanker, according to Reuters. European enforcement of sanctions continues following the Ukraine conflict.
+- France24 reports that President Trump [urged Iranian military](https://www.france24.com/en/donald-trump-urges-iranian-military-forces-to-surrender) forces to surrender as US-Israeli operations continue across Iran.
 
-- A Kenyan MP was [among six](https://www.reuters.com/world/africa/kenyan-mp-among-six-people-killed-helicopter-crash-2026-03-01/) people killed in a helicopter crash, Reuters reports. The incident appears unrelated to regional conflicts.
+- The BBC reports that oil prices jumped 10% and global markets fell as Iran launched strikes near the Strait of Hormuz following [ongoing attacks](https://www.bbc.com/news/articles/c75evve6l63o?at_medium=RSS&at_campaign=rss) by the US and Israel.
 
 **Business & Markets**
 
-- OPEC+ members are [debating boosting](https://www.reuters.com/business/energy/opec-debates-oil-output-boost-us-war-iran-disrupts-shipments-2026-03-01/) oil output as the US-Iran conflict disrupts global energy shipments, according to Reuters.
+- The Financial Times reports that [oil and gas](https://www.ft.com/content/dac7a77d-e0f4-4f52-a3d4-55b145e67347) prices soared following a drone attack on a major Saudi Arabian refinery that raised risks for global energy markets.
 
-- Japanese shipping [companies halted](https://www.reuters.com/world/asia-pacific/japan-shippers-halt-hormuz-operations-after-us-israel-strikes-iran-2026-03-01/) operations through the Strait of Hormuz following the strikes on Iran, Reuters reports. This raises concerns about critical energy supply routes.
+- Reuters reports that [ship insurers cancelled](https://www.reuters.com/world/middle-east/ship-insurers-cancel-war-risk-cover-due-iran-conflict-2026-03-02/) war risk coverage for vessels transiting the Gulf region due to the Iran conflict.
+
+- France24 reports that [tanker traffic ceased](https://www.france24.com/en/tv-shows/business/20260302-oil-prices-surge-as-tanker-traffic-in-strait-of-hormuz-grinds-to-a-halt) in the Strait of Hormuz as oil prices surged over supply concerns.
+
+- Reuters reports that [Wall Street futures](https://www.reuters.com/business/wall-street-futures-slide-middle-east-conflict-escalates-2026-03-02/) fell sharply as the Middle East conflict escalated beyond initial targets.
+
+**Also Notable**
+
+- Al Jazeera reports that India and Canada agreed to [complete a trade](https://www.aljazeera.com/news/2026/3/2/india-canada-aim-for-trade-pact-by-year-end-agree-uranium-deal?traffic_source=rss) pact by year-end and signed a uranium deal, with bilateral trade expected to reach $50 billion by 2030.
+
+- Reuters reports that Orange [partnered with AST](https://www.reuters.com/business/retail-consumer/orange-partners-with-ast-spacemobile-vodafone-satellite-connectivity-2026-03-02/) SpaceMobile and Vodafone to expand satellite connectivity services across multiple markets.
 
 **What to Watch**
 
-- Iran's three-member transitional council consisting of Ayatollah Alireza Arafi, President Masoud Pezeshkian, and Supreme Court Chief Justice Gholam-Hossein Mohseni-Ejei will handle state duties following Khamenei's killing, with [security chief](https://www.aljazeera.com/news/2026/3/1/iran-to-form-interim-council-to-oversee-transition-after-khameneis-killing?traffic_source=rss) Larijani expected to play a pivotal role, according to Al Jazeera.
+- The BBC reports that Iran's Supreme Leader Ali Khamenei was killed in US-Israeli strikes, with the [coming days](https://www.bbc.com/news/articles/cx2lgvg5rl1o?at_medium=RSS&at_campaign=rss) showing whether the regime can maintain control after forming a temporary governing council.
 
-- Middle Eastern airports remain closed with thousands of flights cancelled, creating [ongoing travel](https://apnews.com/article/iran-israel-us-flights-03-01-2026-037e2570049a1b34b52a13427e491547) chaos as airlines await security clearances to resume operations, AP reports.
+- Reuters reports that [oil prices are](https://www.reuters.com/business/energy/oil-prices-expected-stay-high-days-all-eyes-strait-hormuz-flows-2026-03-02/) expected to stay elevated for days as markets focus on Strait of Hormuz shipping flows.
 
-- Nepal's parliamentary elections continue as voters focus on corruption issues, with the [absence of](https://www.bbc.com/news/articles/cgqgl3j5nj4o?at_medium=RSS&at_campaign=rss) traditional political dynasty candidates marking a shift following last year's protests, according to the BBC.
+- France24 reports that [closure concerns over](https://www.france24.com/en/strait-of-hormuz-closure-sparks-concern-over-possible-global-oil-shock) the Strait of Hormuz are sparking fears of a possible global oil shock.
+
+- AP reports that [celebrations and uncertainty](https://apnews.com/article/iran-strikes-us-israel-khamenei-war-future-df2e42e9e6ed7ca1f88a28bd140be457) continue in Iran following the supreme leader's death, with the regime's future stability unclear.
