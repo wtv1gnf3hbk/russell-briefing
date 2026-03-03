@@ -2,48 +2,42 @@ Good morning, Russell! Here's what happened while you were sleeping.
 
 **Top Stories**
 
-- AP reports that [US and Israeli](https://apnews.com/article/iran-trump-israel-war-where-things-stand-e3c003aef4479cd179967a63bb1236f4) strikes on Iran have killed Supreme Leader Ayatollah Ali Khamenei, as confirmed by Iranian state media.
+- Iran [threatens to](https://www.bbc.com/news/articles/cr5lz0vgy52o?at_medium=RSS&amp;at_campaign=rss) "set fire" to ships passing through the Strait of Hormuz as gas and oil prices soar following the escalating Middle East conflict, according to the BBC.
 
-- According to the Financial Times, UK Prime Minister Starmer will [allow US forces](https://www.ft.com/content/b988499b-1a89-4e56-b0cf-19d5a8ac7111) to use British bases including Diego Garcia for attacks on Iranian missile sites.
+- Six US soldiers were killed in an Iranian missile attack on a Kuwait base, while three US fighter jets were downed in a separate friendly fire incident, [the BBC reports](https://www.bbc.com/news/articles/c4gq33ynl07o?at_medium=RSS&amp;at_campaign=rss).
 
-- Reuters reports that [drone strikes hit](https://www.reuters.com/business/energy/saudi-aramco-shuts-ras-tanura-refinery-after-drone-strike-source-says-2026-03-02/) major Saudi Arabian and Iraqi Kurdish oil facilities, forcing shutdowns of key refineries and gas fields.
+- Global markets [tumbled sharply](https://www.ft.com/content/48a11039-eca6-4af4-89bd-c79b4203aee8) as the widening Middle East war rattles investors, with European indices and US futures down, per the Financial Times.
 
-- France24 reports that dozens died in Lebanon as [Israeli strikes targeted](https://www.france24.com/en/dozens-dead-in-lebanon-as-israel-and-hezbollah-trade-fire) Hezbollah positions following rocket attacks on Israeli territory.
+- Global shares are [mostly lower](https://apnews.com/article/stock-markets-iran-energy-oil-trump-75edbda5b8fa3038b47f143cc16855f0) as investors focus on the Iran war's impact on energy supplies, AP reports.
 
-- Reuters reports that Amazon's AWS cloud services suffered [outages in Bahrain](https://www.reuters.com/world/middle-east/amazon-cloud-unit-flags-issues-bahrain-uae-data-centers-during-iran-strikes-2026-03-02/) and UAE after data centers were struck by "objects" during Iranian attacks.
+- The US [sanctioned Rwanda's](https://www.bbc.com/news/articles/cr5l7zdnjgpo?at_medium=RSS&amp;at_campaign=rss) military and top commanders over fighting in DR Congo, prompting Kigali to call the move "one sided" and politically motivated, according to the BBC.
 
-- The BBC reports that oil [prices jumped sharply](https://www.bbc.com/news/articles/c75evve6l63o?at_medium=RSS&at_campaign=rss) while global stock markets fell as the Middle East conflict escalated beyond Iran's borders.
+- Netanyahu [takes a](https://apnews.com/article/iran-war-netanyahu-trump-support-ef032c6370bd31294cab5641a57ba8af) gamble on American support for Israel with the war against Iran, AP reports.
 
 **Conflicts & Diplomacy**
 
-- Reuters reports that the [conflict has widened](https://www.reuters.com/world/middle-east/israel-strikes-lebanon-following-hezbollah-attacks-widening-iran-conflict-2026-03-02/) to include Lebanese Hezbollah forces following Israeli strikes in southern Lebanon.
+- Middle Eastern airlines [started flying](https://www.ft.com/content/a6fe19e2-fe2c-4a9b-ab35-24d129ea9bf2) stranded passengers out of the Gulf while many governments have yet to launch evacuation flights due to closed airspace, the Financial Times reports.
 
-- France24 reports that President Trump [urged Iranian military](https://www.france24.com/en/donald-trump-urges-iranian-military-forces-to-surrender) forces to surrender as US-Israeli operations continue across Iran.
+- France [will send](https://www.reuters.com/business/aerospace-defense/france-send-anti-drone-systems-cyprus-after-british-base-attack-report-says-2026-03-03/) anti-drone systems to Cyprus after a British base attack, according to Reuters.
 
-- The BBC reports that oil prices jumped 10% and global markets fell as Iran launched strikes near the Strait of Hormuz following [ongoing attacks](https://www.bbc.com/news/articles/c75evve6l63o?at_medium=RSS&at_campaign=rss) by the US and Israel.
+- India and Europe [feel fuel](https://www.aljazeera.com/news/2026/3/3/india-europe-feel-fuel-crunch-as-gulf-gas-supplies-disrupted-during-war?traffic_source=rss) crunch as Qatar halts liquefied natural gas production following Gulf supply disruptions during the war, Al Jazeera reports.
 
 **Business & Markets**
 
-- The Financial Times reports that [oil and gas](https://www.ft.com/content/dac7a77d-e0f4-4f52-a3d4-55b145e67347) prices soared following a drone attack on a major Saudi Arabian refinery that raised risks for global energy markets.
+- Eurozone inflation [rose to](https://www.ft.com/content/672018d2-da8d-4e08-a522-d8766b794c39) 1.9% in February, remaining below the European Central Bank's 2% target, per the Financial Times.
 
-- Reuters reports that [ship insurers cancelled](https://www.reuters.com/world/middle-east/ship-insurers-cancel-war-risk-cover-due-iran-conflict-2026-03-02/) war risk coverage for vessels transiting the Gulf region due to the Iran conflict.
-
-- France24 reports that [tanker traffic ceased](https://www.france24.com/en/tv-shows/business/20260302-oil-prices-surge-as-tanker-traffic-in-strait-of-hormuz-grinds-to-a-halt) in the Strait of Hormuz as oil prices surged over supply concerns.
-
-- Reuters reports that [Wall Street futures](https://www.reuters.com/business/wall-street-futures-slide-middle-east-conflict-escalates-2026-03-02/) fell sharply as the Middle East conflict escalated beyond initial targets.
+- Polymarket users [won big](https://www.ft.com/content/2883d3d4-aea2-4984-b994-4640593eed55) with unusual bets on US attack on Iran, with FT analysis identifying 12 accounts that made large well-timed wagers just before the conflict began.
 
 **Also Notable**
 
-- Al Jazeera reports that India and Canada agreed to [complete a trade](https://www.aljazeera.com/news/2026/3/2/india-canada-aim-for-trade-pact-by-year-end-agree-uranium-deal?traffic_source=rss) pact by year-end and signed a uranium deal, with bilateral trade expected to reach $50 billion by 2030.
+- A Dutch museum [confirmed a](https://apnews.com/article/rembrandt-amsterdam-rijksmuseum-discovery-9766e3a9d475f26b6c4b4dfbc7a0f169) Rembrandt painting discovery .
 
-- Reuters reports that Orange [partnered with AST](https://www.reuters.com/business/retail-consumer/orange-partners-with-ast-spacemobile-vodafone-satellite-connectivity-2026-03-02/) SpaceMobile and Vodafone to expand satellite connectivity services across multiple markets.
+- Germany [has ratcheted](https://www.nytimes.com/2026/03/03/world/europe/germany-military-defense-spending-europe-nato.html) up defense spending to levels that could exceed Britain and France combined, raising concerns in Paris about European "strategic autonomy" having a German accent.
 
 **What to Watch**
 
-- The BBC reports that Iran's Supreme Leader Ali Khamenei was killed in US-Israeli strikes, with the [coming days](https://www.bbc.com/news/articles/cx2lgvg5rl1o?at_medium=RSS&at_campaign=rss) showing whether the regime can maintain control after forming a temporary governing council.
+- China's Two Sessions [will reveal](https://www.theguardian.com/world/2026/mar/03/china-two-sessions-president-xi-economy-defence-technology) Xi Jinping's economic and defense plans this week as thousands of delegates gather in Beijing to set growth targets with focus on technology self-reliance.
 
-- Reuters reports that [oil prices are](https://www.reuters.com/business/energy/oil-prices-expected-stay-high-days-all-eyes-strait-hormuz-flows-2026-03-02/) expected to stay elevated for days as markets focus on Strait of Hormuz shipping flows.
+- Myanmar's junta leader [is expected](https://www.nytimes.com/2026/03/03/world/asia/myanmar-junta-president-min-aung-hlaing.html) to seek the civilian title of president following sham elections to add legitimacy to military rule.
 
-- France24 reports that [closure concerns over](https://www.france24.com/en/strait-of-hormuz-closure-sparks-concern-over-possible-global-oil-shock) the Strait of Hormuz are sparking fears of a possible global oil shock.
-
-- AP reports that [celebrations and uncertainty](https://apnews.com/article/iran-strikes-us-israel-khamenei-war-future-df2e42e9e6ed7ca1f88a28bd140be457) continue in Iran following the supreme leader's death, with the regime's future stability unclear.
+- Iranian threats to the Strait of Hormuz shipping lane create potential for further energy market volatility and supply disruptions to global oil and gas flows.
