@@ -2,42 +2,38 @@ Good morning, Russell! Here's what happened while you were sleeping.
 
 **Top Stories**
 
-- Iran [threatens to](https://www.bbc.com/news/articles/cr5lz0vgy52o?at_medium=RSS&amp;at_campaign=rss) "set fire" to ships passing through the Strait of Hormuz as gas and oil prices soar following the escalating Middle East conflict, according to the BBC.
+- Israel launched a [broad wave](https://www.ft.com/content/b71ef4e2-d008-49fd-99f8-3c89fdab0d9f) of strikes on Iran as the conflict entered its fifth day, with explosions reported in Tehran and attacks targeting Iranian infrastructure and security forces.
 
-- Six US soldiers were killed in an Iranian missile attack on a Kuwait base, while three US fighter jets were downed in a separate friendly fire incident, [the BBC reports](https://www.bbc.com/news/articles/c4gq33ynl07o?at_medium=RSS&amp;at_campaign=rss).
+- Saudi Aramco's [Ras Tanura](https://www.reuters.com/business/energy/saudi-aramcos-ras-tanura-struck-again-by-unknown-projectile-four-sources-say-2026-03-04/) oil facility was struck again by an unknown projectile, according to four sources who spoke to Reuters, marking another escalation in regional attacks.
 
-- Global markets [tumbled sharply](https://www.ft.com/content/48a11039-eca6-4af4-89bd-c79b4203aee8) as the widening Middle East war rattles investors, with European indices and US futures down, per the Financial Times.
+- Ali Khamenei's son [Mojtaba emerges](https://www.ft.com/content/b71ef4e2-d008-49fd-99f8-3c89fdab0d9f) as a leading candidate for Iran's supreme leader following his father's killing by Israel and the U.S., per the Financial Times.
 
-- Global shares are [mostly lower](https://apnews.com/article/stock-markets-iran-energy-oil-trump-75edbda5b8fa3038b47f143cc16855f0) as investors focus on the Iran war's impact on energy supplies, AP reports.
+- Spain's Prime Minister [Pedro Sánchez](https://www.bbc.com/news/articles/c93wwq1n542o?at_medium=RSS&amp;at_campaign=rss) delivered a strong rebuke to Trump's threat to end trade with Spain, saying "no to war" and criticizing potential U.S. military action on Iran, according to the BBC.
 
-- The US [sanctioned Rwanda's](https://www.bbc.com/news/articles/cr5l7zdnjgpo?at_medium=RSS&amp;at_campaign=rss) military and top commanders over fighting in DR Congo, prompting Kigali to call the move "one sided" and politically motivated, according to the BBC.
+- South Korea's stock market [plunged 12%](https://www.ft.com/content/bab415ba-59d4-4b31-bcd4-2fb448fa3fd6) in its worst one-day drop as Asian markets were rocked by the Middle East conflict, the Financial Times reports.
 
-- Netanyahu [takes a](https://apnews.com/article/iran-war-netanyahu-trump-support-ef032c6370bd31294cab5641a57ba8af) gamble on American support for Israel with the war against Iran, AP reports.
+- South Africa's former defense minister [Mosiuoa Lekota](https://www.bbc.com/news/articles/clyzzdgv2k0o?at_medium=RSS&amp;at_campaign=rss) died, the BBC reports. He was imprisoned alongside Nelson Mandela on Robben Island during apartheid.
 
 **Conflicts & Diplomacy**
 
-- Middle Eastern airlines [started flying](https://www.ft.com/content/a6fe19e2-fe2c-4a9b-ab35-24d129ea9bf2) stranded passengers out of the Gulf while many governments have yet to launch evacuation flights due to closed airspace, the Financial Times reports.
+- France deployed its [aircraft carrier](https://www.france24.com/en/france-deploys-its-aircraft-carrier-to-protect-middle-east-allies) Charles de Gaulle to the Mediterranean to protect Middle East allies as the regional conflict spreads, France24 reports.
 
-- France [will send](https://www.reuters.com/business/aerospace-defense/france-send-anti-drone-systems-cyprus-after-british-base-attack-report-says-2026-03-03/) anti-drone systems to Cyprus after a British base attack, according to Reuters.
+- European Union members [failed to](https://www.aljazeera.com/news/2026/3/4/during-middle-east-crisis-europe-fumbles-towards-mutual-defence?traffic_source=rss) unite on how to respond to the war that has destabilized the Middle East, though some are rallying around mutual defense concepts, according to Al Jazeera.
 
-- India and Europe [feel fuel](https://www.aljazeera.com/news/2026/3/3/india-europe-feel-fuel-crunch-as-gulf-gas-supplies-disrupted-during-war?traffic_source=rss) crunch as Qatar halts liquefied natural gas production following Gulf supply disruptions during the war, Al Jazeera reports.
+- Hungary's opposition [leads in](https://www.reuters.com/world/hungarys-opposition-leads-polls-far-right-party-gains-support-2026-03-04/) polls while a far-right party gains support ahead of elections, Reuters reports.
+
+- African supply chains are [under strain](https://www.reuters.com/world/africa/south-african-president-says-african-supply-chains-strained-by-middle-east-2026-03-04/) from the Middle East conflict, South African President Ramaphosa told Reuters.
 
 **Business & Markets**
 
-- Eurozone inflation [rose to](https://www.ft.com/content/672018d2-da8d-4e08-a522-d8766b794c39) 1.9% in February, remaining below the European Central Bank's 2% target, per the Financial Times.
+- Dubai evacuation costs have [risen as](https://www.ft.com/content/23e04747-a1fc-4137-8ea2-235981e013d8) high as $250,000 as more expatriate families flee the city during the regional conflict, the Financial Times reports.
 
-- Polymarket users [won big](https://www.ft.com/content/2883d3d4-aea2-4984-b994-4640593eed55) with unusual bets on US attack on Iran, with FT analysis identifying 12 accounts that made large well-timed wagers just before the conflict began.
-
-**Also Notable**
-
-- A Dutch museum [confirmed a](https://apnews.com/article/rembrandt-amsterdam-rijksmuseum-discovery-9766e3a9d475f26b6c4b4dfbc7a0f169) Rembrandt painting discovery .
-
-- Germany [has ratcheted](https://www.nytimes.com/2026/03/03/world/europe/germany-military-defense-spending-europe-nato.html) up defense spending to levels that could exceed Britain and France combined, raising concerns in Paris about European "strategic autonomy" having a German accent.
+- The air travel [industry faces](https://www.france24.com/en/air-travel-industry-faces-worse-crisis-since-pandemic) its worst crisis since the pandemic as Middle East conflicts disrupt global routes, per France24.
 
 **What to Watch**
 
-- China's Two Sessions [will reveal](https://www.theguardian.com/world/2026/mar/03/china-two-sessions-president-xi-economy-defence-technology) Xi Jinping's economic and defense plans this week as thousands of delegates gather in Beijing to set growth targets with focus on technology self-reliance.
+- China's "Two Sessions" political meetings [kick off](https://www.theguardian.com/world/2026/mar/04/china-two-sessions-2026-meeting-what-are-they-when-is-it-explainer) this week in Beijing with the economy, technology and military high on the agenda, the Guardian reports.
 
-- Myanmar's junta leader [is expected](https://www.nytimes.com/2026/03/03/world/asia/myanmar-junta-president-min-aung-hlaing.html) to seek the civilian title of president following sham elections to add legitimacy to military rule.
+- Iranians are [preparing to](https://www.aljazeera.com/news/2026/3/4/iranians-to-bid-farewell-to-khamenei-as-israel-threatens-to-kill-successor?traffic_source=rss) bid farewell to Khamenei in Tehran as the country moves closer to choosing his successor, Al Jazeera reports.
 
-- Iranian threats to the Strait of Hormuz shipping lane create potential for further energy market volatility and supply disruptions to global oil and gas flows.
+- Myanmar's junta leader [is expected](https://www.nytimes.com/2026/03/03/world/asia/myanmar-junta-president-min-aung-hlaing.html) to seek the civilian post of president to add legitimacy after sham elections, the New York Times reports.
