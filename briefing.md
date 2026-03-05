@@ -2,38 +2,46 @@ Good morning, Russell! Here's what happened while you were sleeping.
 
 **Top Stories**
 
-- Israel launched a [broad wave](https://www.ft.com/content/b71ef4e2-d008-49fd-99f8-3c89fdab0d9f) of strikes on Iran as the conflict entered its fifth day, with explosions reported in Tehran and attacks targeting Iranian infrastructure and security forces.
+- The US and Middle Eastern countries are [seeking Ukraine's](https://apnews.com/article/russia-ukraine-war-drones-iran-5cafbae5d360a44c4502b69647269037) expertise in countering Iran's Shahed drones, according to AP, while Russia-Ukraine peace talks remain frozen.
 
-- Saudi Aramco's [Ras Tanura](https://www.reuters.com/business/energy/saudi-aramcos-ras-tanura-struck-again-by-unknown-projectile-four-sources-say-2026-03-04/) oil facility was struck again by an unknown projectile, according to four sources who spoke to Reuters, marking another escalation in regional attacks.
+- Iran claims it [hit a](https://www.reuters.com/world/middle-east/iran-says-it-hits-us-oil-tanker-gulf-no-immediate-confirmation-2026-03-05/) US oil tanker in the Gulf, though Reuters reports no immediate confirmation from Washington or shipping companies.
 
-- Ali Khamenei's son [Mojtaba emerges](https://www.ft.com/content/b71ef4e2-d008-49fd-99f8-3c89fdab0d9f) as a leading candidate for Iran's supreme leader following his father's killing by Israel and the U.S., per the Financial Times.
+- Iranian drones [struck an](https://www.reuters.com/world/asia-pacific/missiles-drones-coming-iran-fell-airport-azerbaijan-source-says-2026-03-05/) airport in Azerbaijan's Nakhchivan exclave, injuring two people and marking a significant expansion of the conflict beyond the Middle East.
 
-- Spain's Prime Minister [Pedro Sánchez](https://www.bbc.com/news/articles/c93wwq1n542o?at_medium=RSS&amp;at_campaign=rss) delivered a strong rebuke to Trump's threat to end trade with Spain, saying "no to war" and criticizing potential U.S. military action on Iran, according to the BBC.
+- The [US is](https://www.ft.com/content/fe0d828d-ef51-4568-b2d7-1c286d464723) in talks with Iranian Kurdish militant groups about anti-regime operations, per the FT, as Iraq-based groups seek intelligence, weapons and training from the Trump administration.
 
-- South Korea's stock market [plunged 12%](https://www.ft.com/content/bab415ba-59d4-4b31-bcd4-2fb448fa3fd6) in its worst one-day drop as Asian markets were rocked by the Middle East conflict, the Financial Times reports.
+- Iran [targeted the headquarters](https://www.bbc.com/news/articles/c2k88y1147jo?at_medium=RSS&at_campaign=rss) of Iranian Kurdish forces in Iraq following speculation that Washington wants these groups to join the conflict, the BBC reports.
 
-- South Africa's former defense minister [Mosiuoa Lekota](https://www.bbc.com/news/articles/clyzzdgv2k0o?at_medium=RSS&amp;at_campaign=rss) died, the BBC reports. He was imprisoned alongside Nelson Mandela on Robben Island during apartheid.
+- Oil prices [climbed 3.3%](https://www.theguardian.com/business/2026/mar/05/oil-price-continues-to-rise-during-middle-east-crisis-but-stock-markets-rebound-across-asia) to $84 a barrel following reports of the tanker attack, the Guardian reports, while Asian stock markets rebounded after yesterday's rout.
 
 **Conflicts & Diplomacy**
 
-- France deployed its [aircraft carrier](https://www.france24.com/en/france-deploys-its-aircraft-carrier-to-protect-middle-east-allies) Charles de Gaulle to the Mediterranean to protect Middle East allies as the regional conflict spreads, France24 reports.
+- Italy plans to [send air](https://www.reuters.com/business/aerospace-defense/italy-plans-send-air-defence-aid-gulf-states-after-iranian-strikes-meloni-says-2026-03-05/) defense aid to Gulf states following Iranian strikes, Prime Minister Meloni announced, per Reuters.
 
-- European Union members [failed to](https://www.aljazeera.com/news/2026/3/4/during-middle-east-crisis-europe-fumbles-towards-mutual-defence?traffic_source=rss) unite on how to respond to the war that has destabilized the Middle East, though some are rallying around mutual defense concepts, according to Al Jazeera.
+- Canada and Australia [urge war](https://apnews.com/article/australia-canada-carney-iran-albanese-782de2f4cf66feab671e56c46d87700a) de-escalation but agree Iran cannot acquire nuclear weapons, AP reports.
 
-- Hungary's opposition [leads in](https://www.reuters.com/world/hungarys-opposition-leads-polls-far-right-party-gains-support-2026-03-04/) polls while a far-right party gains support ahead of elections, Reuters reports.
-
-- African supply chains are [under strain](https://www.reuters.com/world/africa/south-african-president-says-african-supply-chains-strained-by-middle-east-2026-03-04/) from the Middle East conflict, South African President Ramaphosa told Reuters.
+- A crude tanker's [hull was](https://www.reuters.com/world/americas/crude-tanker-sonangol-namibes-hull-likely-breached-after-blast-near-iraq-port-2026-03-05/) likely breached after an explosion near an Iraqi port, according to Reuters.
 
 **Business & Markets**
 
-- Dubai evacuation costs have [risen as](https://www.ft.com/content/23e04747-a1fc-4137-8ea2-235981e013d8) high as $250,000 as more expatriate families flee the city during the regional conflict, the Financial Times reports.
+- Jet fuel prices [surged dramatically](https://www.reuters.com/markets/commodities/jet-fuels-huge-price-surge-points-coming-pain-iran-war-2026-03-05/) as the Iran war threatens global aviation costs, Reuters reports, with airlines facing potential route cancellations and higher ticket prices.
 
-- The air travel [industry faces](https://www.france24.com/en/air-travel-industry-faces-worse-crisis-since-pandemic) its worst crisis since the pandemic as Middle East conflicts disrupt global routes, per France24.
+- Europe faces [another energy](https://www.ft.com/content/d48f6a08-0b7d-4a01-a84f-b0fbecf03915) crisis as LNG tankers bound for France are being rerouted to Asia, the FT reports.
+
+- South Korea led [market recovery](https://www.ft.com/content/795fc5e9-5dbd-4b3d-9677-adf00e7728db) from yesterday's Iran-related selloff after President Lee Jae Myung activated a $68 billion market stabilization fund, per the FT.
+
+- Nvidia [stopped production](https://www.ft.com/content/47f1cf56-209f-46fb-a437-f769b9ccb2cb) of chips intended for the Chinese market, shifting focus to its latest Vera Rubin products, the FT reports.
+
+**Also Notable**
+
+- Cuba was [hit by](https://www.aljazeera.com/video/newsfeed/2026/3/5/cuba-hit-by-massive-power-outage-during-us-oil-pressure?traffic_source=rss) a massive blackout affecting two-thirds of the country including Havana, Al Jazeera reports, as US oil pressure intensifies.
+
+- India's GAIL [weighs supply](https://www.reuters.com/business/energy/indias-gail-weighs-supply-cuts-gas-customers-after-petronet-lng-force-majeure-2026-03-05/) cuts to gas customers after Petronet LNG declared force majeure, Reuters reports.
 
 **What to Watch**
 
-- China's "Two Sessions" political meetings [kick off](https://www.theguardian.com/world/2026/mar/04/china-two-sessions-2026-meeting-what-are-they-when-is-it-explainer) this week in Beijing with the economy, technology and military high on the agenda, the Guardian reports.
+- The House [will vote](https://apnews.com/article/house-vote-iran-war-powers-resolution-trump-5d7d93c7793802881d9cde042220d7bc) on an Iran war powers resolution testing Trump's military strategy, AP reports, after Senate Republicans blocked similar limits.
 
-- Iranians are [preparing to](https://www.aljazeera.com/news/2026/3/4/iranians-to-bid-farewell-to-khamenei-as-israel-threatens-to-kill-successor?traffic_source=rss) bid farewell to Khamenei in Tehran as the country moves closer to choosing his successor, Al Jazeera reports.
+- Europe's energy crisis [could escalate](https://www.ft.com/content/d48f6a08-0b7d-4a01-a84f-b0fbecf03915) further as more LNG shipments are diverted from European ports to higher-paying Asian markets, according to the FT.
 
-- Myanmar's junta leader [is expected](https://www.nytimes.com/2026/03/03/world/asia/myanmar-junta-president-min-aung-hlaing.html) to seek the civilian post of president to add legitimacy after sham elections, the New York Times reports.
+- Trump is [scheduled to](https://www.nbcmiami.com/news/local/trump-to-meet-latin-american-leaders-at-security-summit-in-doral-wh/3776523/) meet Latin American leaders at a security summit in Doral as regional tensions mount, NBC reports.
