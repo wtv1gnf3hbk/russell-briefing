@@ -1,39 +1,45 @@
 Good morning, Russell! Here's what happened while you were sleeping.
 
-## **Top Stories**
+**Top Stories**
 
-- Hungary [confirmed it](https://www.bbc.com/news/articles/cd03rj7n0nro?at_medium=RSS&amp;at_campaign=rss) is holding seven Ukrainian bank employees and $80 million in cash after detaining two vans traveling between Austria and Ukraine, according to the BBC.
+- Iran [calls halt](https://www.ft.com/content/bbd79c63-8131-4b20-9d2d-708bc8acea38) to attacks on neighbors as Israel strikes more targets, the Financial Times reports, though Hezbollah said it had engaged Israeli forces in the Bekaa Valley.
 
-- Qatar [warned that](https://www.ft.com/content/be122b17-e667-478d-be19-89d605e978ea) Gulf states will be forced to stop energy exports "within days" if the Middle East war escalates, following an Iranian drone strike on a gas facility, per the Financial Times.
+- At least 7 people [died in](https://www.bbc.com/news/articles/cn8zd049l08o?at_medium=RSS&at_campaign=rss) Kharkiv as a Russian missile hit an apartment building, with 10 others injured including children, according to the BBC.
 
-- London police [arrested four](https://apnews.com/article/britain-iran-spying-jewish-bfca89a4e75f64d213dbfdf625255cab) men on suspicion of spying on the Jewish community for Iran, including one Iranian and three dual British-Iranian nationals.
+- State actors are [behind much](https://apnews.com/article/iran-war-images-misinformation-russia-israel-9e495017dc5c4bf24a0b6152863dbfb1) of the visual misinformation about the Iran war, AP reports, as AI-generated videos and false imagery spread across social media.
 
-- Russia [said it](https://www.reuters.com/world/europe/russia-says-it-will-respond-if-finland-hosts-nuclear-weapons-accuses-helsinki-2026-03-06/) will respond if Finland hosts nuclear weapons, accusing Helsinki of stoking tension following the Nordic country's NATO membership, Reuters reports.
+- Russia has [provided Iran](https://www.france24.com/en/russia-sharing-intelligence-information-to-help-tehran-officials-say) with intelligence information to help Tehran, according to the Associated Press, though the Pentagon downplayed the reports.
 
-- Hong Kong media mogul Jimmy Lai [will not](https://apnews.com/article/hong-kong-jimmy-lai-national-security-d5cbe77909e3de6c9334365974523a83) appeal his national security conviction, his legal team confirmed.
+- India [let an](https://www.reuters.com/world/asia-pacific/india-let-iran-warship-dock-day-us-sank-another-off-sri-lanka-officials-say-2026-03-07/) Iranian warship dock the same day the US sank another off Sri Lanka, Reuters reports.
 
-- Indonesia [is set](https://apnews.com/article/indonesia-social-media-children-854305eeb97b34157586b51ce5c6a5dc) to ban social media for children under 16, the communication minister announced.
+- Trump [invites Latin](https://www.theguardian.com/world/2026/mar/07/an-ideological-guest-list-trump-invites-latin-americas-rightwing-leaders-to-florida-summit) America's rightwing leaders to a Florida summit while omitting the presidents of Brazil, Mexico and Colombia, per the Guardian.
 
-## **Conflicts & Diplomacy**
+**Conflicts & Diplomacy**
 
-- Americans stranded in the UAE [vented anger](https://www.ft.com/content/7f964455-03e5-45ca-aef8-ee394f6526f0) at "very disappointing" US government support and defective helplines as the Gulf conflict disrupts travel, per the Financial Times.
+- Iran to [suspend strikes](https://www.reuters.com/world/middle-east/iran-suspend-strikes-neighbours-unless-attacks-come-them-2026-03-07/) on neighbors unless attacks come from them, Reuters reports, as President Pezeshkian apologized for attacking neighboring countries in a pre-recorded address.
 
-- The Philippines [ordered energy](https://www.theguardian.com/world/2026/mar/06/philippines-orders-energy-cuts-middle-east-war-fuel-prices) cuts in response to the Middle East war as fuel prices surge, according to the Guardian.
+- Israeli [satellite images](https://www.ft.com/content/59cfcbfb-34e2-4d26-b687-5d768dcc5650) show extensive bombing damage across Tehran, with strikes targeting regime infrastructure and some civilian sites, the Financial Times reports.
 
-- Ukraine [accuses Hungary](https://www.reuters.com/world/ukraine-accuses-hungary-taking-hostage-bank-employees-who-were-carrying-82-2026-03-06/) of taking bank employees hostage who were carrying $82 million between Austria and Ukraine, Reuters reports.
+- A drone [struck near](https://www.aljazeera.com/video/newsfeed/2026/3/7/moment-drone-strikes-dubai-international-airport?traffic_source=rss) Dubai International Airport as Qatar and Bahrain reported Iranian attacks on their territories, Al Jazeera reports.
 
-## **Business & Markets**
+- Israeli forces [engaged Hezbollah](https://www.france24.com/en/israel-raids-deep-into-lebanon-israeli-troops-engage-hezbollah-after-helicopter-raid) after a helicopter raid deep into Lebanon, according to France 24.
 
-- Etihad [resumed limited](https://www.ft.com/content/29cf7740-5382-4cfe-b56d-141018f187e1) services as air travel across the Gulf slowly returns, with Emirates beginning Dubai connections while Lufthansa sees demand jump for direct flights to Asia and Africa, the Financial Times reports.
+**Business & Markets**
 
-- Asia shares [traded mixed](https://apnews.com/article/stocks-markets-oil-iran-1f7bf89b783a9ba731f4b25564bf80f8) following Wall Street losses as oil continues to climb despite Middle East tensions.
+- Palmer Luckey's [defense tech](https://www.ft.com/content/77e330a5-8e59-4a36-b08b-c18010a2383b) company is in talks to raise $1 billion for a new gaming venture focused on rebooting 1990s video game consoles, the Financial Times reports.
 
-- Weight-loss jabs [could be](https://www.theguardian.com/global-development/2026/mar/06/generic-drugs-weight-loss-semaglutide-ozempic-wegovy-diabetes-obesity-study) made for $3 a month using generic semaglutide, potentially helping millions with diabetes and obesity across 160 countries, the Guardian reports.
+- A Hong Kong firm [seeks $2](https://apnews.com/article/panama-canal-ports-china-us-arbitration-67b0e8643f6a25f0277be0bb28afdb73) billion over Panama's takeover of two key canal ports, AP reports, as tensions over Chinese infrastructure investments escalate.
 
-## **What to Watch**
+**Also Notable**
 
-- The Kosovo president [dissolved parliament](https://www.reuters.com/world/kosovo-president-dissolves-parliament-calls-snap-election-after-failed-2026-03-06/) and called a snap election after a failed presidential vote, with the date to be announced, according to Reuters.
+- An [ex-rapper's political](https://apnews.com/article/nepal-parliament-election-results-balendra-shah-aac242077d2dd052e7e9bdd7c088ccc9) party leads early results in Nepal's first election since the 2025 youth revolt, AP reports.
 
-- Trump [is scheduled](https://www.nbcmiami.com/news/local/trump-to-meet-latin-american-leaders-at-security-summit-in-doral-wh/3776523/) to meet Latin American leaders at a security summit in Doral this week, focusing on regional cooperation.
+- Southern Peru [experienced flooding](https://www.aljazeera.com/video/newsfeed/2026/3/7/protests-in-cuba-after-thousands-without-power-following-blackout?traffic_source=rss) after torrential rain, according to Al Jazeera.
 
-- A planned [China summit](https://www.nbcnews.com/world/asia/trumps-china-summit-xi-jinping-just-got-lot-complicated-rcna261453) between Trump and Xi Jinping has become more complicated following recent Middle East developments, NBC reports.
+**What to Watch**
+
+- Trump is set to [host Latin](https://www.aljazeera.com/news/2026/3/6/in-a-bid-to-counter-china-trump-hosts-a-summit-for-latin-america-leaders) American leaders at his "Shield of the Americas" summit in Doral this weekend, Al Jazeera reports, as he seeks to counter China's growing regional influence.
+
+- Swiss voters will [decide on](https://www.bbc.com/news/articles/c4g55v24wrno?at_medium=RSS&at_campaign=rss) a right-wing push to slash the license fee for public broadcaster SRG, the BBC reports, in a referendum backed by the Swiss People's Party.
+
+- Nepal's election [results continue](https://apnews.com/article/nepal-parliament-election-results-balendra-shah-aac242077d2dd052e7e9bdd7c088ccc9) to roll in following the youth-led political upheaval, with Balendra Shah's party maintaining its early lead.
