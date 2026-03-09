@@ -2,50 +2,40 @@ Good morning, Russell! Here's what happened while you were sleeping.
 
 **Top Stories**
 
-- The Israeli military [vowed to](https://www.reuters.com/world/middle-east/israeli-military-says-it-will-pursue-every-successor-irans-khamenei-2026-03-08/) pursue every successor to Iran's Supreme Leader Khamenei, according to Reuters, as war escalates across the Middle East.
+- Iran [named](https://www.france24.com/en/iran-goes-full-dynasty-with-choice-of-new-supreme-leader) Mojtaba Khamenei, son of the slain supreme leader, as the country's new supreme leader, according to France24.
 
-- Iran's Assembly of Experts [reached consensus](https://www.reuters.com/world/middle-east/majority-consensus-reached-irans-next-supreme-leader-mehr-news-reports-2026-03-08/) on selecting Khamenei's successor, Reuters reports, though the identity remains undisclosed.
+- Oil prices [surged above](https://www.bbc.com/news/articles/c79542n0grwo?at_medium=RSS&at_campaign=rss) $100 per barrel for the first time since 2022 as Iran's war disrupts production and shipping, the BBC reports.
 
-- An explosion [hit the](https://www.bbc.com/news/articles/c5yjegg892lo?at_medium=RSS&at_campaign=rss) US Embassy in Oslo early Sunday, the BBC reports, with no injuries reported but Norwegian police investigating the blast.
+- G7 finance ministers will [hold emergency](https://www.bbc.com/news/articles/c79542n0grwo?at_medium=RSS&at_campaign=rss) talks on oil prices as stock markets sink, with Chancellor Rachel Reeves joining discussions on potential reserve releases.
 
-- Two Kuwaiti interior ministry officers were [killed while](https://www.reuters.com/world/middle-east/two-kuwait-fire-officers-killed-while-performing-duties-fire-force-says-2026-03-08/) performing duties, Reuters reports, as Iranian drone strikes spread to Gulf states.
+- Fresh Iranian missile and drone [attacks targeted](https://www.aljazeera.com/news/2026/3/9/reprehensible-new-wave-of-iranian-missiles-drones-target-gulf-nations?traffic_source=rss) Gulf nations, with Qatar urging de-escalation, Al Jazeera reports.
 
-- Bahrain says an Iranian drone attack [damaged a](https://www.aljazeera.com/news/2026/3/8/bahrain-says-water-desalination-plant-damaged-in-iranian-drone-attack?traffic_source=rss) water desalination plant and injured three people, according to Al Jazeera, raising fears of attacks on civilian infrastructure.
+- Tehran [threatens to](https://www.reuters.com/business/media-telecom/tehran-threatens-confiscate-property-iranians-abroad-who-back-attacks-iran-2026-03-09/) confiscate property of Iranians abroad who support attacks on Iran, Reuters reports.
 
-- China signaled it [wants a](https://www.ft.com/content/6886b572-4ae8-4f08-a5f6-1861f96509fb) Trump visit this month, per the FT, with Foreign Minister Wang Yi saying Beijing is "positive and open" to a US-China summit despite the Iran war.
+- A massive fire at a building adjacent to Glasgow Central Station [forced cancellation](https://apnews.com/article/glasgow-central-station-fire-rail-disruption-abf37d606c64ddf9d9ca6c73a42a277a) of all train services at Scotland's busiest railway hub, AP reports.
 
-- War in Cyprus [fuels debate](https://www.bbc.com/news/articles/cx2r1xldl1ko?at_medium=RSS&at_campaign=rss) over UK military bases after a drone strike targeted RAF Akrotiri, the BBC reports, with protesters demanding "British Bases Out."
+- Istanbul's former mayor Ekrem Imamoglu, seen as President Erdogan's main political rival, will [stand trial](https://www.bbc.com/news/articles/c204ymjnn80o?at_medium=RSS&at_campaign=rss) on corruption charges, according to the BBC.
 
 **Conflicts & Diplomacy**
 
-- Saudi Arabia [warned Iran](https://www.reuters.com/world/middle-east/saudi-has-told-iran-not-attack-it-warns-possible-retaliation-sources-say-2026-03-07/) not to attack it and threatened possible retaliation, Reuters reports, as the kingdom seeks to avoid being drawn into the expanding conflict.
+- NATO conducted [Arctic war](https://www.reuters.com/business/aerospace-defense/nato-drills-war-arctic-with-focus-civilians-being-ready-2026-03-09/) drills with a focus on civilian readiness, Reuters reports.
 
-- Israeli forces [pushed into](https://www.france24.com/en/israeli-tanks-push-into-southern-lebanon-christian-villagers-defy-israeli-evacuation-orders) southern Lebanon while Christian villagers defied evacuation orders, according to France24, expanding the ground campaign.
+- European Commission President von der Leyen said the EU can no longer rely on a [rules-based system](https://www.reuters.com/world/eu-can-no-longer-rely-rules-based-system-against-threats-von-der-leyen-says-2026-03-09/) against emerging threats, per Reuters.
 
-- Traffic [stalled in](https://www.france24.com/en/traffic-stalls-in-strait-of-hormuz) the Strait of Hormuz, France24 reports, as the vital oil shipping route faces disruption from the regional conflict.
+- French President Macron [visited Cyprus](https://apnews.com/article/cyprus-makron-mitsotakis-drones-frigates-shahed-7b7ba3828f3d7a95dbccfb28c62fd38e) to show European support for the island during the Iran war, AP reports.
 
-- Families of MH370 passengers [urged Malaysia](https://www.reuters.com/world/china/families-flight-mh370-passengers-urge-malaysia-extend-search-2026-03-08/) to extend the search for the missing aircraft, Reuters reports, nearly 12 years after the plane disappeared.
+- Iran reported [1,255 people](https://www.aljazeera.com/news/2026/3/9/iran-says-1255-killed-in-us-israeli-attacks-mostly-civilians?traffic_source=rss) killed in US-Israeli attacks, with most being civilians, according to Al Jazeera.
 
 **Business & Markets**
 
-- KKR eyes a [multibillion-dollar sale](https://www.ft.com/content/b1784f74-7a91-4e04-b507-cc5b13920f51) of data center cooling company CoolIT Systems, the FT reports, as the AI boom drives up valuations in the sector.
+- UK AI firm Nscale [raised $2](https://www.reuters.com/business/nvidia-backed-uk-ai-firm-nscale-raises-2-billion-funding-round-2026-03-09/) billion in fresh funding with Nvidia backing, valuing the company at $14.6 billion, Reuters reports.
 
-- Gulf businesses [bought up](https://www.ft.com/content/c892e180-5747-49bc-80ef-9f8b81554102) political violence insurance as the Middle East conflict spreads, per the FT, with data centers, energy projects and hotels seeking to limit potential losses.
-
-- Samsung seeks [AI deals](https://www.ft.com/content/3752d058-d3ee-41a4-b702-d49ae7f61b5c) to challenge Apple's smartphone lead, the FT reports, with the Korean giant planning multiple AI models in future Galaxy devices.
-
-**Also Notable**
-
-- British Columbia [decided to](https://www.theguardian.com/world/2026/mar/08/british-columbia-canada-daylight-saving-time) create a permanent Pacific time zone, the Guardian reports, with Trump's rhetoric toward Canada helping seal the deal for change.
-
-- Rapper-politician Balendra Shah [heads for](https://www.bbc.com/news/articles/c93w6y0lnd9o?at_medium=RSS&at_campaign=rss) victory in Nepal's general election, according to the BBC, unseating the country's former prime minister in Thursday's vote.
+- China released [economic plans](https://apnews.com/article/china-five-year-plan-technology-economy-7face4580fcfba44410ff2134a09d6bb) revealing tech ambitions and rivalry strategy with the US, AP reports.
 
 **What to Watch**
 
-- Trump [will meet](https://www.c-span.org/event/white-house-event/president-trump-participates-in-shield-of-the-americas-summit/441084) Latin American leaders at the Shield of the Americas summit today in Florida, according to C-SPAN, as he seeks to counter China's regional influence.
+- Tehran's threat to confiscate Iranian diaspora property signals potential [escalation in](https://www.reuters.com/business/media-telecom/tehran-threatens-confiscate-property-iranians-abroad-who-back-attacks-iran-2026-03-09/) targeting expatriates who oppose the regime, Reuters reports.
 
-- Swiss voters [will decide](https://www.bbc.com/news/articles/c4g55v24wrno?at_medium=RSS&at_campaign=rss) on a right-wing proposal to slash licence fees for public broadcasters, the BBC reports, in a referendum backed by the Swiss People's Party.
+- President Trump will host a [Shield of](https://www.aljazeera.com/news/2026/3/6/in-a-bid-to-counter-china-trump-hosts-a-summit-for-latin-america-leaders) the Americas summit in Doral with Latin American leaders to counter Chinese influence, Al Jazeera reports.
 
-- The Israeli military [expects the](https://www.france24.com/en/the-israeli-army-expects-the-phase-of-this-campaign-to-last-another-two-weeks) current phase of its Iran campaign to last another two weeks, France24 reports, providing a timeline for the escalating conflict.
-
-- Iran's Assembly of Experts has [picked a candidate](https://www.aljazeera.com/news/2026/3/8/irans-assembly-of-experts-says-consensus-reached-on-khameneis-successor?traffic_source=rss) to succeed Supreme Leader Khamenei, Al Jazeera reports, after officials said consensus was reached based on the late leader's criteria.
+- Nepal's rapper-turned-politician Balendra Shah appears [headed for](https://www.bbc.com/news/articles/c93w6y0lnd9o?at_medium=RSS&at_campaign=rss) victory as prime minister following Thursday's election landslide, the BBC reports.
