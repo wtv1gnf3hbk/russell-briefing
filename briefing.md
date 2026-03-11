@@ -2,44 +2,40 @@ Good morning, Russell! Here's what happened while you were sleeping.
 
 ## **Top Stories**
 
-- Iran [fired drones](https://www.reuters.com/world/middle-east/maybe-we-die-together-voices-iran-turkey-mountain-crossing-2026-03-10/) toward Saudi Arabia and Kuwait as the conflict escalates, per Reuters, while thousands of Iranians fled across the Turkey border seeking safety.
+- Iran [says it](https://www.reuters.com/world/middle-east/iran-will-target-us-israeli-economic-banking-interests-region-state-media-2026-03-11/) will target US-Israeli economic and banking interests across the region, according to Reuters, as the two-week-old war shows no signs of abating.
 
-- Turkey [deployed US](https://www.reuters.com/world/asia-pacific/turkey-says-us-patriot-system-deployed-boost-air-defence-during-iran-war-2026-03-10/) Patriot missile systems to boost air defenses following the widening Middle East conflict, Reuters reports.
+- Two [drones fell](https://www.reuters.com/world/middle-east/two-drones-fall-vicinity-dubai-airport-iran-crisis-shows-no-sign-easing-2026-03-11/) near Dubai airport early Wednesday, Reuters reports, as Iran continues expanding attacks beyond Israel to Gulf neighbors hosting US forces.
 
-- Saudi Aramco [will restore](https://www.ft.com/content/2a83b917-62f3-4294-875c-a397fc68c652) 70% of normal crude oil exports within days by rapidly stepping up shipments from Red Sea ports to avoid the Strait of Hormuz, the FT reports.
+- The IEA is [preparing a](https://www.ft.com/content/894b1636-caaa-4f30-a171-549f5bd00738) record release of oil reserves, the Financial Times reports, as concerns mount over global energy supplies following Iranian threats to mine the Strait of Hormuz.
 
-- Five Iranian [women's footballers received](https://www.bbc.com/news/articles/cwy8e978xl8o?at_medium=RSS&at_campaign=rss) Australian visas after declining to sing the national anthem ahead of their match against South Korea, the BBC reports. Concern grows for team members after critics called them "wartime traitors."
+- Israel believes Iran's [new leader](https://www.reuters.com/world/middle-east/israel-believes-irans-new-leader-was-lightly-wounded-attacks-senior-official-2026-03-11/) was lightly wounded in recent attacks, a senior Israeli official told Reuters, though Iranian state media has claimed the supreme leader remains safe.
 
-- China-North Korea [passenger trains](https://www.theguardian.com/world/2026/mar/10/china-north-korea-trains-to-resume-after-six-year-halt-following-covid-outbreak) will resume this week after a six-year halt following Covid, the Guardian reports, with travel operators saying tickets are now available for services leaving this week.
+- Canadian PM [Mark Carney](https://www.bbc.com/news/articles/c0e5jwz0703o?at_medium=RSS&at_campaign=rss) inches closer to a parliamentary majority as a fourth MP defected to his Liberals, the BBC reports, with former NDP member Lori Idlout becoming .
 
-- Madagascar's military [leader dismissed](https://www.bbc.com/news/articles/c39wywm298lo?at_medium=RSS&at_campaign=rss) his entire cabinet in a surprise move, according to the BBC, with Col Randrianirina providing no reason for dissolving the government he installed after seizing power last year.
+- At least [three people](https://www.theguardian.com/world/2026/mar/11/drone-attack-goma-eastern-democratic-republic-of-the-congo-m23-rebels) were killed in a drone attack on Goma in eastern Democratic Republic of Congo, the Guardian reports, with M23 rebels blaming the government for the strike on the residential area they control.
 
 ## **Conflicts & Diplomacy**
 
-- Russia is [the only](https://www.reuters.com/world/china/russia-is-only-winner-middle-east-war-eus-costa-says-2026-03-10/) winner of the Middle East war, EU Council President António Costa said, Reuters reports. Moscow benefits from higher energy prices and Western distraction.
+- North Korean leader [Kim watched](https://apnews.com/article/north-korea-kim-missile-tests-us-south-a091960cc5f438b2313aae5e243c9c13) cruise missile tests alongside his daughter, AP reports, in the latest weapons demonstration as Pyongyang continues military provocations.
 
-- Pakistan [deployed naval](https://www.nytimes.com/2026/03/10/world/middleeast/pakistan-gulf-conflict-oil-economy.html) escorts for its ships in the Middle East as the Iran conflict forces the government to protect its economy while striving to remain neutral.
+- British police arrested Peter Mandelson, a former UK ambassador to the US, in a misconduct probe stemming from his ties with Jeffrey Epstein, [AP reports](https://apnews.com/article/britain-mandelson-epstein-files-published-starmer-9776857db55f83e0561dc543d1c7e5b1).
 
-- Air strikes [killed four](https://www.aljazeera.com/news/2026/3/10/air-strike-kills-four-iran-linked-fighters-in-iraq?traffic_source=rss) Iran-linked fighters in Iraq, Al Jazeera reports. Iran's Revolutionary Guards targeted a US base as Prime Minister Sudani rejected attempts to drag Iraq into the war.
+- Large parts of [Dresden were](https://www.bbc.com/news/articles/c1781gr5n9go?at_medium=RSS&at_campaign=rss) evacuated after authorities discovered a 250kg World War II bomb near a collapsed bridge, the BBC reports. The evacuation was the German city's largest ever.
 
 ## **Business & Markets**
 
-- Bill Ackman's [Pershing Square](https://www.ft.com/content/6241eb74-65b1-4c35-9766-5b5bfc88db95) filed for a US IPO of a new closed-end fund on the NYSE that would give backers shares in the management company, the FT reports.
-
-- Lego's chief [criticized Danish](https://www.ft.com/content/5d28acbe-0f4e-4fdf-b724-7c1c6a4fb1cd) Prime Minister Mette Frederiksen's wealth tax proposal, telling the FT it would "drain quite a lot of capital out of companies."
-
-- Oil prices [fell while](https://www.france24.com/en/tv-shows/business/20260310-oil-prices-fall-stocks-rise-as-trump-says-military-goals-pretty-well-complete) stocks rose as Trump said military goals against Iran were "pretty well complete," France 24 reports.
+- The UK [ended centuries-old](https://www.reuters.com/world/uk/uk-ends-centuries-old-hereditary-seats-parliament-upper-chamber-2026-03-11/) hereditary seats in the House of Lords, Reuters reports, as the Labour government pushes through constitutional reforms to modernize parliament's upper chamber.
 
 ## **Also Notable**
 
-- Alexander Butterfield, [who revealed](https://www.bbc.com/news/articles/ckg15l9welxo?at_medium=RSS&at_campaign=rss) the existence of Nixon's White House recording system during Watergate, died at age 99, the BBC reports.
+- India's Supreme Court [allowed the](https://www.bbc.com/news/articles/c62v64rz6mko?at_medium=RSS&at_campaign=rss) removal of life support from a man in a vegetative state since 2013, the BBC reports. This marks the country's first-ever passive euthanasia case.
 
-- Chile's [anti-abortion president](https://www.theguardian.com/global-development/2026/mar/10/fears-womens-rights-chile-anti-abortion-president-jose-antonio-kast) José Antonio Kast is set to take office, with women's rights activists bracing for his push to return to a total abortion ban, the Guardian reports.
+- José Antonio Kast, [the Pinochet](https://www.theguardian.com/world/2026/mar/11/jose-antonio-kast-pinochet-fan-chile-far-right) fan who won Chile's presidency promising to clean up crime, takes office with a background that serves as a red flag for many, the Guardian reports.
 
 ## **What to Watch**
 
-- China-North Korea [train services](https://www.theguardian.com/world/2026/mar/10/china-north-korea-trains-to-resume-after-six-year-halt-following-covid-outbreak) begin operating this week for the first time since Covid, marking a significant reopening of the border between the allies.
+- The UK [banned a](https://www.nytimes.com/2026/03/11/world/middleeast/uk-iran-al-quds-march-ban.html) pro-Palestinian protest march scheduled for Sunday that critics say supports the Iranian regime, the New York Times reports, using rarely-invoked powers to stop the Al Quds demonstration.
 
-- G7 leaders [are meeting](https://www.bbc.com/news/articles/c79542n0grwo) on Iran after holding off on releasing emergency oil supplies, with the BBC reporting they will take "necessary measures" to support global energy supplies.
+- China-North Korea [passenger trains](https://www.theguardian.com/world/2026/mar/10/china-north-korea-trains-to-resume-after-six-year-halt-following-covid-outbreak) will resume this week after a six-year halt following Covid, the Guardian reports, with travel operators saying tickets are now available for services departing soon.
 
-- Trump [will host](https://www.wlrn.org/americas/2026-03-06/trump-shield-americas-summit-doral) a "Shield of the Americas" summit at his Doral resort this week, focusing on Western Hemisphere relations following the Iran conflict.
+- A UN Security Council [vote is](https://www.aljazeera.com/news/2026/3/11/iran-fires-missiles-drones-at-gulf-nations-as-ship-hit-in-strait-of-hormuz?traffic_source=rss) expected on a Gulf Cooperation Council bid urging Iran to halt attacks on neighboring countries, Al Jazeera reports, as Tehran maintains daily pressure through missile and drone strikes.
