@@ -1,41 +1,49 @@
 Good morning, Russell! Here's what happened while you were sleeping.
 
-## **Top Stories**
+**Top Stories**
 
-- Iran [says it](https://www.reuters.com/world/middle-east/iran-will-target-us-israeli-economic-banking-interests-region-state-media-2026-03-11/) will target US-Israeli economic and banking interests across the region, according to Reuters, as the two-week-old war shows no signs of abating.
+- Oil prices [spiked above](https://www.ft.com/content/32726bce-ec4e-4251-8f33-10c15806fbc6) $100 per barrel as the IEA warned that Iran's war is causing "the largest disruption in history" to global oil supplies, per the Financial Times.
 
-- Two [drones fell](https://www.reuters.com/world/middle-east/two-drones-fall-vicinity-dubai-airport-iran-crisis-shows-no-sign-easing-2026-03-11/) near Dubai airport early Wednesday, Reuters reports, as Iran continues expanding attacks beyond Israel to Gulf neighbors hosting US forces.
+- Iran [claimed responsibility](https://www.nytimes.com/live/2026/03/12/world/iran-war-news-trump-oil-israel) for striking oil tankers burning off the Iraqi coast as Iraq closed oil terminals following growing attacks on energy infrastructure.
 
-- The IEA is [preparing a](https://www.ft.com/content/894b1636-caaa-4f30-a171-549f5bd00738) record release of oil reserves, the Financial Times reports, as concerns mount over global energy supplies following Iranian threats to mine the Strait of Hormuz.
+- China [approved an](https://www.bbc.com/news/articles/cp9meeek051o) "ethnic unity" law requiring minority children to learn Mandarin from before kindergarten through high school.
 
-- Israel believes Iran's [new leader](https://www.reuters.com/world/middle-east/israel-believes-irans-new-leader-was-lightly-wounded-attacks-senior-official-2026-03-11/) was lightly wounded in recent attacks, a senior Israeli official told Reuters, though Iranian state media has claimed the supreme leader remains safe.
+- Celebrity chef René Redzepi [resigned from](https://apnews.com/article/noma-rene-redzepi-denmark-abuse-allegations-43685e19c75849a0f7f48c487205ce4d) his iconic Danish restaurant Noma following abuse allegations, AP reports.
 
-- Canadian PM [Mark Carney](https://www.bbc.com/news/articles/c0e5jwz0703o?at_medium=RSS&at_campaign=rss) inches closer to a parliamentary majority as a fourth MP defected to his Liberals, the BBC reports, with former NDP member Lori Idlout becoming .
+- Israeli strikes [hit central](https://www.france24.com/en/video/20260312-war-in-the-middle-east-heavy-israeli-strikes-hit-central-beirut) Beirut while new waves of Hezbollah missiles targeted Israel, according to France24.
 
-- At least [three people](https://www.theguardian.com/world/2026/mar/11/drone-attack-goma-eastern-democratic-republic-of-the-congo-m23-rebels) were killed in a drone attack on Goma in eastern Democratic Republic of Congo, the Guardian reports, with M23 rebels blaming the government for the strike on the residential area they control.
+- Death toll from Ethiopia floods and landslides [rose to](https://www.bbc.com/news/articles/ce947x4m0e1o) more than 60 as forecasters warn storms are intensifying due to global warming.
 
-## **Conflicts & Diplomacy**
+**Conflicts & Diplomacy**
 
-- North Korean leader [Kim watched](https://apnews.com/article/north-korea-kim-missile-tests-us-south-a091960cc5f438b2313aae5e243c9c13) cruise missile tests alongside his daughter, AP reports, in the latest weapons demonstration as Pyongyang continues military provocations.
+- Ukrainian President Zelenskyy said Ukraine [awaits White](https://apnews.com/article/russia-ukraine-war-drones-iran-oil-a0204c7973df02715a3990fcdc666db4) House approval for a US drone production deal, AP reports.
 
-- British police arrested Peter Mandelson, a former UK ambassador to the US, in a misconduct probe stemming from his ties with Jeffrey Epstein, [AP reports](https://apnews.com/article/britain-mandelson-epstein-files-published-starmer-9776857db55f83e0561dc543d1c7e5b1).
+- A Chinese national [was arrested](https://www.bbc.com/news/articles/cz7gd57z33zo) in Kenya for attempting to smuggle over 2,200 garden ants packed in test tubes and tissue paper rolls.
 
-- Large parts of [Dresden were](https://www.bbc.com/news/articles/c1781gr5n9go?at_medium=RSS&at_campaign=rss) evacuated after authorities discovered a 250kg World War II bomb near a collapsed bridge, the BBC reports. The evacuation was the German city's largest ever.
+- Companies [evacuated Dubai's](https://www.france24.com/en/video/20260312-companies-evacuate-dubai-financial-district-after-iran-threats) financial district following Iranian threats to Gulf energy infrastructure, per France24.
 
-## **Business & Markets**
+- British Prime Minister Starmer [was warned](https://www.nytimes.com/live/2026/03/11/world/mandelson-files-epstein-uk) about "reputational risk" before appointing Peter Mandelson as US ambassador due to his ties to Jeffrey Epstein.
 
-- The UK [ended centuries-old](https://www.reuters.com/world/uk/uk-ends-centuries-old-hereditary-seats-parliament-upper-chamber-2026-03-11/) hereditary seats in the House of Lords, Reuters reports, as the Labour government pushes through constitutional reforms to modernize parliament's upper chamber.
+**Business & Markets**
 
-## **Also Notable**
+- Honda [will post](https://www.reuters.com/world/asia-pacific/honda-expects-fy202526-loss-up-43-bln-review-ev-strategy-2026-03-12/) a full-year loss due to a $15.7 billion hit from its struggling electric vehicle business, Reuters reports.
 
-- India's Supreme Court [allowed the](https://www.bbc.com/news/articles/c62v64rz6mko?at_medium=RSS&at_campaign=rss) removal of life support from a man in a vegetative state since 2013, the BBC reports. This marks the country's first-ever passive euthanasia case.
+- Tesla [won approval](https://www.reuters.com/business/energy/teslas-energy-business-wins-approval-supply-electricity-uk-2026-03-12/) to supply electricity to UK homes through its energy business, according to Reuters.
 
-- José Antonio Kast, [the Pinochet](https://www.theguardian.com/world/2026/mar/11/jose-antonio-kast-pinochet-fan-chile-far-right) fan who won Chile's presidency promising to clean up crime, takes office with a background that serves as a red flag for many, the Guardian reports.
+- A Chinese national [was arrested](https://www.bbc.com/news/articles/cz7gd57z33zo) in Kenya for attempting to smuggle 2,000 queen ants packed in test tubes and tissue paper rolls.
 
-## **What to Watch**
+**Also Notable**
 
-- The UK [banned a](https://www.nytimes.com/2026/03/11/world/middleeast/uk-iran-al-quds-march-ban.html) pro-Palestinian protest march scheduled for Sunday that critics say supports the Iranian regime, the New York Times reports, using rarely-invoked powers to stop the Al Quds demonstration.
+- Senegal [approved tougher](https://www.bbc.com/news/articles/cp857gy1843o) anti-gay legislation as rights groups warned of increased "violence and fear" against LGBTQ+ communities.
 
-- China-North Korea [passenger trains](https://www.theguardian.com/world/2026/mar/10/china-north-korea-trains-to-resume-after-six-year-halt-following-covid-outbreak) will resume this week after a six-year halt following Covid, the Guardian reports, with travel operators saying tickets are now available for services departing soon.
+- A China-North Korea rail connection [resumed after](https://www.france24.com/en/asia-pacific/20260312-train-connecting-china-and-north-korea-arrives-in-pyongyang-after-6-year-hiatus) six years with the first train arriving in Pyongyang, France24 reports.
 
-- A UN Security Council [vote is](https://www.aljazeera.com/news/2026/3/11/iran-fires-missiles-drones-at-gulf-nations-as-ship-hit-in-strait-of-hormuz?traffic_source=rss) expected on a Gulf Cooperation Council bid urging Iran to halt attacks on neighboring countries, Al Jazeera reports, as Tehran maintains daily pressure through missile and drone strikes.
+**What to Watch**
+
+- Hungary [heads to](https://www.bbc.com/news/articles/crm8rxwyyz8o) the polls soon with Prime Minister Viktor Orbán targeting Ukraine's president as his main campaign foil.
+
+- Argentina's [asylum decision](https://www.theguardian.com/world/2026/mar/11/argentina-asylum-brasil-elections) for a Brasília rioter could inflame Brazilian election politics, the Guardian reports.
+
+- G7 leaders are [expected to](https://www.reuters.com/world/macron-host-g7-leaders-call-iran-crisis-energy-prices-2026-03-10/) hold emergency talks on Iran crisis and energy prices following Macron's planned call.
+
+- The Nuclear Energy Summit 2026 [opens this](https://www.iaea.org/events/nuclear-energy-summit-2026) week as global leaders discuss atomic power expansion plans.
