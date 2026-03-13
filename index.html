@@ -51,13 +51,24 @@
     a:hover { text-decoration-color: #333; }
     strong { font-weight: 600; }
     .section-header { margin-top: 24px; margin-bottom: 12px; }
+    /* Feedback section */
+    .feedback-section { margin-top: 40px; padding-top: 24px; border-top: 1px solid #e0e0e0; text-align: center; }
+    .feedback-prompt { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-size: 0.85rem; color: #666; margin-bottom: 12px; }
+    .feedback-buttons { display: flex; justify-content: center; gap: 12px; margin-bottom: 12px; }
+    .feedback-btn { font-size: 1.4rem; padding: 8px 16px; border: 1px solid #ddd; border-radius: 8px; background: transparent; cursor: pointer; transition: background 0.15s; }
+    .feedback-btn:hover { background: #f0f0f0; }
+    .feedback-btn.selected { background: #e8e8e8; border-color: #999; }
+    .feedback-textarea { display: block; width: 100%; max-width: 480px; margin: 12px auto; padding: 10px; border: 1px solid #ddd; border-radius: 6px; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-size: 0.9rem; resize: vertical; }
+    .feedback-submit { display: block; margin: 8px auto; padding: 6px 20px; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-size: 0.85rem; border: 1px solid #ccc; border-radius: 4px; background: #f5f5f5; cursor: pointer; }
+    .feedback-submit:hover { background: #e8e8e8; }
+    .feedback-thanks { display: none; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-size: 0.85rem; color: #666; margin-top: 8px; }
   </style>
 </head>
 <body>
   <div class="header">
     <div class="title">Russell's World Briefing</div>
     <div class="timestamp">
-      Generated Friday, February 27, 2026 at 8:19 AM EST
+      Generated Thursday, March 12, 2026 at 7:08 AM EDT
       &middot; <a class="refresh-link" onclick="refreshBriefing()">Refresh</a>
     </div>
   </div>
@@ -121,47 +132,109 @@
 
 <p class="section-header"><strong>Top Stories</strong></p>
 
-<ul><li>Pakistan's defence minister declared the country in <a href="https://www.bbc.com/news/articles/cvgjd7pv4y4o?at_medium=RSS&amp;at_campaign=rss" target="_blank"><strong>open war</strong></a> with Afghanistan after Pakistani airstrikes hit Kabul, according to the BBC.</li>
+<ul><li>Oil prices <a href="https://www.ft.com/content/32726bce-ec4e-4251-8f33-10c15806fbc6" target="_blank">spiked above</a> $100 per barrel as the IEA warned that Iran's war is causing "the largest disruption in history" to global oil supplies, per the Financial Times.</li>
 </ul>
-<ul><li>The US advised embassy staff in Israel they can <a href="https://apnews.com/article/iran-us-israel-embassy-staff-436162f886bdaed30c8dd0cdbe1b5aea" target="_blank"><strong>leave now</strong></a> if they want as the risk of war with Iran looms, AP reports.</li>
+<ul><li>Iran <a href="https://www.nytimes.com/live/2026/03/12/world/iran-war-news-trump-oil-israel" target="_blank">claimed responsibility</a> for striking oil tankers burning off the Iraqi coast as Iraq closed oil terminals following growing attacks on energy infrastructure.</li>
 </ul>
-<ul><li>American sympathies in the Israeli-Palestinian conflict have <a href="https://apnews.com/article/poll-gallup-americans-israel-palestinians-democrats-republicans-2614e22b0ddabe514424680b71e1802f" target="_blank"><strong>shifted dramatically</strong></a>, with 41% now sympathizing more with Palestinians than Israel, per a new Gallup poll.</li>
+<ul><li>China <a href="https://www.bbc.com/news/articles/cp9meeek051o" target="_blank">approved an</a> "ethnic unity" law requiring minority children to learn Mandarin from before kindergarten through high school.</li>
 </ul>
-<ul><li>Former President Bill Clinton faced <a href="https://apnews.com/article/bill-clinton-jeffrey-epstein-deposition-congress-9ea23ac5a5ffd1c7b9511e46308e8b21" target="_blank"><strong>congressional grilling</strong></a> over his connections to Jeffrey Epstein in a six-hour deposition, AP reports.</li>
+<ul><li>Celebrity chef René Redzepi <a href="https://apnews.com/article/noma-rene-redzepi-denmark-abuse-allegations-43685e19c75849a0f7f48c487205ce4d" target="_blank">resigned from</a> his iconic Danish restaurant Noma following abuse allegations, AP reports.</li>
 </ul>
-<ul><li>Swedish officials say a drone jammed near France's aircraft carrier was <a href="https://www.bbc.com/news/articles/c1mj3e2nz8ko?at_medium=RSS&amp;at_campaign=rss" target="_blank"><strong>probably Russian</strong></a>, citing a likely link to a Russian naval vessel in the area.</li>
+<ul><li>Chile's new far-right president José Antonio Kast <a href="https://www.aljazeera.com/video/newsfeed/2026/3/12/chiles-new-far-right-president-is-sworn-in" target="_blank">was sworn</a> in, marking a sharp political shift to the right, according to Al Jazeera.</li>
 </ul>
-<ul><li>China removed 19 deputies from its legislature, including nine military officers, <a href="https://apnews.com/article/china-npc-legislature-congress-military-deputies-purge-692a549b012e601200fc31638abf7a2e" target="_blank"><strong>before its</strong></a> annual meeting next week, according to AP.</li>
+<ul><li>Death toll from Ethiopia floods and landslides <a href="https://www.bbc.com/news/articles/ce947x4m0e1o" target="_blank">rose to</a> more than 60 as forecasters warn storms are intensifying due to global warming.</li>
 </ul>
 <p class="section-header"><strong>Conflicts & Diplomacy</strong></p>
 
-<ul><li>At least 55 Ghanaians have been <a href="https://www.bbc.com/news/articles/cgl5gxg3zj9o?at_medium=RSS&amp;at_campaign=rss" target="_blank"><strong>killed fighting</strong></a> in the Russia-Ukraine war, the highest confirmed casualties from any single African country, BBC reports.</li>
+<ul><li>Ukrainian President Zelenskyy said Ukraine <a href="https://apnews.com/article/russia-ukraine-war-drones-iran-oil-a0204c7973df02715a3990fcdc666db4" target="_blank">awaits White</a> House approval for a US drone production deal, AP reports.</li>
 </ul>
-<ul><li>Brussels has ordered a probe of Peter Mandelson's <a href="https://apnews.com/article/brussels-mandelson-epstein-b2fc19f8bb13ea69ce5cac4782fb89e4" target="_blank"><strong>Epstein ties</strong></a> while serving as EU trade representative, per AP.</li>
+<ul><li>Israeli strikes <a href="https://www.france24.com/en/video/20260312-war-in-the-middle-east-heavy-israeli-strikes-hit-central-beirut" target="_blank">hit central</a> Beirut while new waves of Iranian missiles targeted Israel, according to France24.</li>
 </ul>
-<ul><li>Iranian agents obstructed medical care at hospitals <a href="https://apnews.com/article/iran-protests-crackdown-hospitals-326f127b5fef610a89f89e5c164b473c" target="_blank"><strong>packed with</strong></a> wounded protesters during the government crackdown, AP reports.</li>
+<ul><li>Companies <a href="https://www.france24.com/en/video/20260312-companies-evacuate-dubai-financial-district-after-iran-threats" target="_blank">evacuated Dubai's</a> financial district following Iranian threats to Gulf energy infrastructure, per France24.</li>
 </ul>
-<ul><li>A former US diplomat was <a href="https://www.bbc.com/news/articles/c93wx97wl10o?at_medium=RSS&amp;at_campaign=rss" target="_blank"><strong>sentenced to</strong></a> life in prison for sexually abusing two girls in Burkina Faso, according to the BBC.</li>
+<ul><li>British Prime Minister Starmer <a href="https://www.nytimes.com/live/2026/03/11/world/mandelson-files-epstein-uk" target="_blank">was warned</a> about "reputational risk" before appointing Peter Mandelson as US ambassador due to his ties to Jeffrey Epstein.</li>
 </ul>
 <p class="section-header"><strong>Business & Markets</strong></p>
 
-<ul><li>World shares are <a href="https://apnews.com/article/stocks-markets-nvidia-block-trump-f248d9463d4dffc7a9ffa6635afda137" target="_blank"><strong>mostly higher</strong></a> in a week dominated by artificial intelligence news, AP reports.</li>
+<ul><li>Honda <a href="https://www.reuters.com/world/asia-pacific/honda-expects-fy202526-loss-up-43-bln-review-ev-strategy-2026-03-12/" target="_blank">will post</a> a full-year loss due to a $15.7 billion hit from its struggling electric vehicle business, Reuters reports.</li>
 </ul>
-<ul><li>The Financial Times reports that UK Prime Minister Keir Starmer <a href="https://www.ft.com/content/aa7abe87-3407-4f14-aa72-48fbfc132c0e" target="_blank"><strong>hit out</strong></a> at political extremes after Labour was pushed into third place in a by-election loss to the Green Party.</li>
+<ul><li>Tesla <a href="https://www.reuters.com/business/energy/teslas-energy-business-wins-approval-supply-electricity-uk-2026-03-12/" target="_blank">won approval</a> to supply electricity to UK homes through its energy business, according to Reuters.</li>
+</ul>
+<ul><li>A Chinese national <a href="https://www.bbc.com/news/articles/cz7gd57z33zo" target="_blank">was arrested</a> in Kenya for attempting to smuggle 2,000 queen ants packed in test tubes and tissue paper rolls.</li>
 </ul>
 <p class="section-header"><strong>Also Notable</strong></p>
 
-<ul><li>An Indian court cleared former Delhi chief minister Arvind Kejriwal of <a href="https://www.bbc.com/news/articles/ckg14d5y07xo?at_medium=RSS&amp;at_campaign=rss" target="_blank"><strong>corruption charges</strong></a> after he spent months in jail following his arrest before India's general election.</li>
+<ul><li>Senegal <a href="https://www.bbc.com/news/articles/cp857gy1843o" target="_blank">approved tougher</a> anti-gay legislation as rights groups warned of increased "violence and fear" against LGBTQ+ communities.</li>
 </ul>
-<ul><li>Denmark's prime minister called a <a href="https://www.aljazeera.com/news/2026/2/27/air-attacks-on-kabul-push-pakistan-taliban-crisis-into-uncharted-territory?traffic_source=rss" target="_blank"><strong>snap election</strong></a> with the Greenland issue taking center stage following Trump's annexation comments.</li>
+<ul><li>A China-North Korea rail connection <a href="https://www.france24.com/en/asia-pacific/20260312-train-connecting-china-and-north-korea-arrives-in-pyongyang-after-6-year-hiatus" target="_blank">resumed after</a> six years with the first train arriving in Pyongyang, France24 reports.</li>
 </ul>
 <p class="section-header"><strong>What to Watch</strong></p>
 
-<ul><li>The Pakistan-Afghanistan conflict could escalate further as Al Jazeera warns the <a href="https://www.aljazeera.com/news/2026/2/27/air-attacks-on-kabul-push-pakistan-taliban-crisis-into-uncharted-territory?traffic_source=rss" target="_blank"><strong>crisis has</strong></a> entered uncharted territory after the Kabul airstrikes.</li>
+<ul><li>Hungary <a href="https://www.bbc.com/news/articles/crm8rxwyyz8o" target="_blank">heads to</a> the polls soon with Prime Minister Viktor Orbán targeting Ukraine's president as his main campaign foil.</li>
 </ul>
-<ul><li>China's annual Two Sessions meeting begins next week following the removal of nine military officials from the <a href="https://www.bbc.com/news/articles/c6270z0dr6no?at_medium=RSS&amp;at_campaign=rss" target="_blank"><strong>national legislature</strong></a>.</li>
+<ul><li>Argentina's <a href="https://www.theguardian.com/world/2026/mar/11/argentina-asylum-brasil-elections" target="_blank">asylum decision</a> for a Brasília rioter could inflame Brazilian election politics, the Guardian reports.</li>
 </ul>
-<ul><li>Hungarian Prime Minister Viktor Orban faces a <a href="https://www.nytimes.com/2026/02/27/world/europe/hungary-orban-europe.html" target="_blank"><strong>serious election</strong></a> challenge while holding up EU loan funds for Ukraine, with analysts saying the timing is no coincidence.</li></ul>
+<ul><li>G7 leaders are <a href="https://www.reuters.com/world/macron-host-g7-leaders-call-iran-crisis-energy-prices-2026-03-10/" target="_blank">expected to</a> hold emergency talks on Iran crisis and energy prices following Macron's planned call.</li>
+</ul>
+<ul><li>The Nuclear Energy Summit 2026 <a href="https://www.iaea.org/events/nuclear-energy-summit-2026" target="_blank">opens this</a> week as global leaders discuss atomic power expansion plans.</li></ul>
   </div>
+
+  <div class="feedback-section" id="feedback-section" data-date="2026-03-12">
+    <div class="feedback-prompt">How was today's briefing?</div>
+    <div class="feedback-buttons" id="feedback-buttons">
+      <button class="feedback-btn" data-reaction="thumbsup" onclick="selectReaction(this)">&#x1F44D;</button>
+      <button class="feedback-btn" data-reaction="thumbsdown" onclick="selectReaction(this)">&#x1F44E;</button>
+    </div>
+    <textarea class="feedback-textarea" id="feedback-comment" placeholder="Optional: tell us more..." rows="3"></textarea>
+    <button class="feedback-submit" id="feedback-submit" onclick="submitFeedback()">Send</button>
+    <div class="feedback-thanks" id="feedback-thanks">Thanks for the feedback!</div>
+  </div>
+
+  <script>
+    var FEEDBACK_URL = "https://russell-briefing-refresh.adampasick.workers.dev/feedback";
+    var selectedReaction = null;
+
+    (function() {
+      var dateKey = document.getElementById("feedback-section").dataset.date;
+      if (localStorage.getItem("feedback-sent-" + dateKey)) {
+        document.getElementById("feedback-buttons").style.display = "none";
+        document.querySelector(".feedback-prompt").style.display = "none";
+        document.getElementById("feedback-thanks").style.display = "block";
+        document.getElementById("feedback-thanks").textContent = "Feedback sent \u2014 thank you!";
+      }
+    })();
+
+    function selectReaction(btn) {
+      document.querySelectorAll(".feedback-btn").forEach(function(b) { b.classList.remove("selected"); });
+      btn.classList.add("selected");
+      selectedReaction = btn.dataset.reaction;
+    }
+
+    async function submitFeedback() {
+      var comment = document.getElementById("feedback-comment").value.trim();
+      if (!selectedReaction && !comment) return;
+      var dateKey = document.getElementById("feedback-section").dataset.date;
+      var submitBtn = document.getElementById("feedback-submit");
+      submitBtn.textContent = "Sending...";
+      submitBtn.disabled = true;
+      try {
+        var res = await fetch(FEEDBACK_URL, {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ reaction: selectedReaction || "comment", comment: comment || "", briefingDate: dateKey })
+        });
+        if (!res.ok) throw new Error("Server error");
+        document.getElementById("feedback-buttons").style.display = "none";
+        document.getElementById("feedback-comment").style.display = "none";
+        document.getElementById("feedback-submit").style.display = "none";
+        document.querySelector(".feedback-prompt").style.display = "none";
+        document.getElementById("feedback-thanks").style.display = "block";
+        localStorage.setItem("feedback-sent-" + dateKey, "1");
+      } catch (e) {
+        submitBtn.textContent = "Error \u2014 try again";
+        submitBtn.disabled = false;
+      }
+    }
+  </script>
 </body>
 </html>
