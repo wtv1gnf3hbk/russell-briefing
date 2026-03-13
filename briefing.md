@@ -1,47 +1,45 @@
-Good morning, Russell! Here is what happened while you were sleeping.
+Good morning, Russell! Here's what happened while you were sleeping.
 
-## **Top Stories**
+**Top Stories**
 
-- The UK [withdrew embassy](https://www.bbc.com/news/articles/c309vz0z893o?at_medium=RSS&amp;at_campaign=rss) staff from Tehran and the US told non-essential personnel they can leave Israel, as tensions over potential Iran strikes escalate across the region, according to the BBC.
+- Pakistan's defence minister declared the country in [**open war**](https://www.bbc.com/news/articles/cvgjd7pv4y4o?at_medium=RSS&amp;at_campaign=rss) with Afghanistan after Pakistani airstrikes hit Kabul, according to the BBC.
 
-- Pakistan declared [open war](https://www.france24.com/en/video/20260227-civilians-flee-fighting-after-pakistan-bombs-afghan-cities) against Afghanistan after bombing major Afghan cities, following Taliban attacks on Pakistani border positions, France24 reports.
+- The US advised embassy staff in Israel they can [**leave now**](https://apnews.com/article/iran-us-israel-embassy-staff-436162f886bdaed30c8dd0cdbe1b5aea) if they want as the risk of war with Iran looms, AP reports.
 
-- Sweden said a drone [jammed near](https://www.bbc.com/news/articles/c1mj3e2nz8ko?at_medium=RSS&amp;at_campaign=rss) France's aircraft carrier was probably Russian, calling it "a serious but not unexpected incident" and "a Russian way of acting that we recognise from other places," per the BBC.
+- American sympathies in the Israeli-Palestinian conflict have [**shifted dramatically**](https://apnews.com/article/poll-gallup-americans-israel-palestinians-democrats-republicans-2614e22b0ddabe514424680b71e1802f), with 41% now sympathizing more with Palestinians than Israel, per a new Gallup poll.
 
-- The UN nuclear watchdog said it cannot [verify whether](https://apnews.com/article/iran-nuclear-iaea-uranium-enrichment-suspend-ccf574a324504b985f4b158f9d3d6941) Iran has suspended all uranium enrichment following the latest talks, AP reports.
+- Former President Bill Clinton faced [**congressional grilling**](https://apnews.com/article/bill-clinton-jeffrey-epstein-deposition-congress-9ea23ac5a5ffd1c7b9511e46308e8b21) over his connections to Jeffrey Epstein in a six-hour deposition, AP reports.
 
-- Paramount [clinched a](https://www.ft.com/content/fdb3478b-a124-403e-ab39-0d0b33493294) $111 billion takeover deal with Warner Bros after Netflix walked away from the months-long bidding battle, the FT reports.
+- Swedish officials say a drone jammed near France's aircraft carrier was [**probably Russian**](https://www.bbc.com/news/articles/c1mj3e2nz8ko?at_medium=RSS&amp;at_campaign=rss), citing a likely link to a Russian naval vessel in the area.
 
-- OpenAI raised [$110 billion](https://www.reuters.com/business/retail-consumer/openais-110-billion-funding-round-draws-investment-amazon-nvidia-softbank-2026-02-27/) in new funding from Amazon, Nvidia and SoftBank, Reuters reports.
+- China removed 19 deputies from its legislature, including nine military officers, [**before its**](https://apnews.com/article/china-npc-legislature-congress-military-deputies-purge-692a549b012e601200fc31638abf7a2e) annual meeting next week, according to AP.
 
-- US tech stocks head for their [worst month](https://www.ft.com/content/259d2b95-ca0e-4029-b432-37bc6e2cec57) in almost a year over AI concerns, with fears about US-Iran conflict .
+**Conflicts & Diplomacy**
 
-## **Conflicts & Diplomacy**
+- At least 55 Ghanaians have been [**killed fighting**](https://www.bbc.com/news/articles/cgl5gxg3zj9o?at_medium=RSS&amp;at_campaign=rss) in the Russia-Ukraine war, the highest confirmed casualties from any single African country, BBC reports.
 
-- Iran stored highly enriched uranium at an [underground site](https://www.reuters.com/world/middle-east/iran-stored-highly-enriched-uranium-underground-site-iaea-report-says-2026-02-27/) and must allow inspections at the Isfahan facility, a new IAEA report shows, Reuters reports.
+- Brussels has ordered a probe of Peter Mandelson's [**Epstein ties**](https://apnews.com/article/brussels-mandelson-epstein-b2fc19f8bb13ea69ce5cac4782fb89e4) while serving as EU trade representative, per AP.
 
-- Israel's Supreme Court [allowed aid](https://www.france24.com/en/middle-east/20260227-israel-s-supreme-court-allows-aid-groups-facing-govt-ban-to-keep-working-in-gaza) groups facing government bans to continue working in Gaza, France24 reports.
+- Iranian agents obstructed medical care at hospitals [**packed with**](https://apnews.com/article/iran-protests-crackdown-hospitals-326f127b5fef610a89f89e5c164b473c) wounded protesters during the government crackdown, AP reports.
 
-- Some 100,000 Palestinians [prayed at](https://www.aljazeera.com/news/2026/2/27/100000-pray-at-al-aqsa-during-israeli-restrictions-on-2nd-friday-of-ramadan?traffic_source=rss) Al-Aqsa Mosque on the second Friday of Ramadan while others were turned away despite carrying required permits, Al Jazeera reports.
+- A former US diplomat was [**sentenced to**](https://www.bbc.com/news/articles/c93wx97wl10o?at_medium=RSS&amp;at_campaign=rss) life in prison for sexually abusing two girls in Burkina Faso, according to the BBC.
 
-- An Indian court [cleared former](https://www.bbc.com/news/articles/ckg14d5y07xo?at_medium=RSS&amp;at_campaign=rss) Delhi chief minister Arvind Kejriwal of corruption charges almost two years after he was arrested in March 2024, weeks before India's general election, the BBC reports.
+**Business & Markets**
 
-## **Business & Markets**
+- World shares are [**mostly higher**](https://apnews.com/article/stocks-markets-nvidia-block-trump-f248d9463d4dffc7a9ffa6635afda137) in a week dominated by artificial intelligence news, AP reports.
 
-- Trump's media group is [weighing plans](https://www.ft.com/content/f77e6dcf-73dd-4ccd-b3d5-98f2df7c01e7) to spin off Truth Social as it seeks to focus on becoming a significant player in the nuclear energy industry, the FT reports.
+- The Financial Times reports that UK Prime Minister Keir Starmer [**hit out**](https://www.ft.com/content/aa7abe87-3407-4f14-aa72-48fbfc132c0e) at political extremes after Labour was pushed into third place in a by-election loss to the Green Party.
 
-- Australian supermarket giant Woolworths [tweaked its](https://www.bbc.com/news/articles/cy7jeyeyd18o?at_medium=RSS&amp;at_campaign=rss) AI-powered assistant after customers complained it was "obnoxious" and talked about its mother, giving them "the ick," the BBC reports.
+**Also Notable**
 
-## **Also Notable**
+- An Indian court cleared former Delhi chief minister Arvind Kejriwal of [**corruption charges**](https://www.bbc.com/news/articles/ckg14d5y07xo?at_medium=RSS&amp;at_campaign=rss) after he spent months in jail following his arrest before India's general election.
 
-- The Green Party [defeated Labour](https://www.nytimes.com/2026/02/26/world/europe/gorton-denton-result-green-party-labour.html) in a UK special election, marking the first time Greens have won a British parliamentary by-election and signaling frustration with Prime Minister Keir Starmer.
+- Denmark's prime minister called a [**snap election**](https://www.aljazeera.com/news/2026/2/27/air-attacks-on-kabul-push-pakistan-taliban-crisis-into-uncharted-territory?traffic_source=rss) with the Greenland issue taking center stage following Trump's annexation comments.
 
-- An Indian court [cleared former](https://www.bbc.com/news/articles/ckg14d5y07xo?at_medium=RSS&amp;at_campaign=rss) Delhi chief minister Arvind Kejriwal of corruption charges after he spent months in jail following his arrest weeks before India's general election, the BBC reports.
+**What to Watch**
 
-## **What to Watch**
+- The Pakistan-Afghanistan conflict could escalate further as Al Jazeera warns the [**crisis has**](https://www.aljazeera.com/news/2026/2/27/air-attacks-on-kabul-push-pakistan-taliban-crisis-into-uncharted-territory?traffic_source=rss) entered uncharted territory after the Kabul airstrikes.
 
-- Hungary's Viktor Orban is [holding up](https://www.nytimes.com/2026/02/27/world/europe/hungary-orban-europe.html) a big EU loan for Ukraine as he faces a serious election challenge, with analysts saying the timing is no coincidence.
+- China's annual Two Sessions meeting begins next week following the removal of nine military officials from the [**national legislature**](https://www.bbc.com/news/articles/c6270z0dr6no?at_medium=RSS&amp;at_campaign=rss).
 
-- A Pentagon-Anthropic feud over AI warfare contracts [faces a](https://www.reuters.com/technology/pentagon-anthropic-feud-has-sales-ai-warfare-stake-friday-deadline-looms-2026-02-27/) Friday deadline with sales and military AI development at stake, Reuters reports.
-
-- Air attacks on Kabul have pushed the Pakistan-Taliban crisis into ["uncharted territory"](https://www.aljazeera.com/news/2026/2/27/air-attacks-on-kabul-push-pakistan-taliban-crisis-into-uncharted-territory?traffic_source=rss) with analysts warning escalation may destabilize both countries, Al Jazeera reports.
+- Hungarian Prime Minister Viktor Orban faces a [**serious election**](https://www.nytimes.com/2026/02/27/world/europe/hungary-orban-europe.html) challenge while holding up EU loan funds for Ukraine, with analysts saying the timing is no coincidence.

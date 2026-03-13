@@ -7,7 +7,7 @@
  * validate-draft.js
  *
  * Post-draft quality gate for The World newsletter briefings.
- * Runs 13 automated checks against the briefing markdown before publication.
+ * Runs 14 automated checks against the briefing markdown before publication.
  *
  * Usage:
  *   node validate-draft.js < draft.md           # Read from stdin
@@ -36,6 +36,7 @@
  *    11. Multi-paragraph lead — lead should be ONE narrative paragraph
  *    12. Link text length — max 3 words per writing-rules.md Rule 7
  *    13. Stale stories — cross-refs draft against briefing.json pubDates >36h old
+ *    14. Source concentration — warns if <30% of links are non-NYT (too NYT-heavy)
  *
  * No external dependencies — pure Node.js.
  */
@@ -89,6 +90,10 @@ const BANNED_PHRASES = [
   "revealing",
   "suggesting that",
   "which could",
+  // "amid" is banned in ALL contexts per writing-rules.md Rule 12.
+  // "amid growing concerns" is already in the list above; this catches
+  // standalone uses like "amid rising tensions", "amid protests", etc.
+  "amid",
 ];
 
 // Verbs that indicate an 's = "is/has" contraction bug.
@@ -1037,6 +1042,46 @@ function validateStaleStories(text) {
 }
 
 
+/**
+ * CHECK 14: Source concentration (NYT over-reliance)
+ *
+ * Catches briefings where the Writer leaned too heavily on NYT sources
+ * and didn't pull enough from the 40+ RSS feeds available. The existing
+ * link diversity check (Check 1) only requires 2 non-NYT links in ATW —
+ * this checks the OVERALL ratio across the entire briefing.
+ *
+ * A briefing with 12 NYT links and 2 non-NYT links technically passes
+ * Check 1 but is clearly NYT-heavy. This check flags that.
+ *
+ * WARNS if non-NYT links are < 30% of total links (when total >= 5).
+ */
+const MIN_NON_NYT_RATIO = 0.30;
+
+function validateSourceConcentration(text) {
+  const issues = [];
+  const allLinks = extractLinks(text);
+
+  // Only check if we have enough links to make a ratio meaningful
+  if (allLinks.length < MIN_TOTAL_LINKS) return issues;
+
+  const nytCount = allLinks.filter(l => isNYTLink(l.url)).length;
+  const nonNytCount = allLinks.length - nytCount;
+  const nonNytRatio = nonNytCount / allLinks.length;
+
+  if (nonNytRatio < MIN_NON_NYT_RATIO) {
+    const pct = Math.round(nonNytRatio * 100);
+    issues.push({
+      type: 'warning',
+      message: `Source concentration: Only ${nonNytCount}/${allLinks.length} links (${pct}%) are non-NYT. Briefing is too NYT-heavy — pull more from wire services and international outlets (minimum ${Math.round(MIN_NON_NYT_RATIO * 100)}%).`,
+      line: null,
+      context: null,
+    });
+  }
+
+  return issues;
+}
+
+
 // ---------------------------------------------------------------------------
 // OUTPUT
 // ---------------------------------------------------------------------------
@@ -1106,7 +1151,7 @@ function main() {
     process.exit(0);
   }
 
-  // Run all 13 validators
+  // Run all 14 validators
   const errors = [
     ...validateLinkDiversity(draftText),       // Check 1
     ...validateGoogleNewsUrls(draftText),      // Check 2
@@ -1124,6 +1169,7 @@ function main() {
     ...validateLeadParagraphCount(draftText),   // Check 11
     ...validateLinkTextLength(draftText),        // Check 12
     ...validateStaleStories(draftText),          // Check 13
+    ...validateSourceConcentration(draftText),  // Check 14
   ];
 
   const results = { errors, warnings };
@@ -1177,6 +1223,7 @@ if (require.main === module) {
     validateLeadParagraphCount,
     validateLinkTextLength,
     validateStaleStories,
+    validateSourceConcentration,
     // Constants (useful for test assertions and fix-draft.js)
     BANNED_PHRASES,
     CONTRACTION_VERBS,
@@ -1186,5 +1233,6 @@ if (require.main === module) {
     INTERNATIONAL_KEYWORDS,
     MIN_TOTAL_LINKS,
     MIN_NON_NYT_AROUND_WORLD,
+    MIN_NON_NYT_RATIO,
   };
 }

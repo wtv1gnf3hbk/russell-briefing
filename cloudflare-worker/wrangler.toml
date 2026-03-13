@@ -1,3 +1,8 @@
 name = "russell-briefing-refresh"
 main = "worker.js"
 compatibility_date = "2024-01-01"
+
+# Cron trigger: 10:30 UTC = 6:30am ET
+# Fires the workflow even if GitHub skips the cron due to repo inactivity
+[triggers]
+crons = ["30 10 * * *"]

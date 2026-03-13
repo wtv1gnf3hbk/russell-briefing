@@ -546,9 +546,45 @@ async function scrapeAll(config) {
     }
   }
 
+  // ---- SCRAPE-TIME RECENCY FILTER ----
+  // Drop stories older than 24h right here at scrape time, before they
+  // enter briefing.json. This keeps the data clean for write-briefing.js
+  // and prevents the WSJ "13-month-old stories" problem from polluting
+  // the pool. Daybook stories are exempt (they're forward-looking).
+  const SCRAPE_MAX_AGE_HOURS = 24;
+  const scrapeNow = new Date();
+  const beforeFilter = allStories.length;
+  const staleBySource = {};
+
+  const freshStories = allStories.filter(story => {
+    // Daybook stories are forward-looking — keep regardless of age
+    if (story.category === 'daybook') return true;
+
+    if (!story.date) return true; // No date = keep (can't judge age)
+    const pubDate = new Date(story.date);
+    if (isNaN(pubDate.getTime())) return true; // Unparseable = keep
+
+    const hoursAgo = (scrapeNow - pubDate) / (1000 * 60 * 60);
+    if (hoursAgo > SCRAPE_MAX_AGE_HOURS) {
+      // Track stale counts per source for feed health reporting
+      const src = story.source || 'unknown';
+      staleBySource[src] = (staleBySource[src] || 0) + 1;
+      return false;
+    }
+    return true;
+  });
+
+  const scrapeDropped = beforeFilter - freshStories.length;
+  if (scrapeDropped > 0) {
+    console.log(`\n⚠ Scrape-time recency filter: dropped ${scrapeDropped} stories older than ${SCRAPE_MAX_AGE_HOURS}h`);
+    for (const [src, count] of Object.entries(staleBySource)) {
+      console.log(`  ${src}: ${count} stale stories (feed may be broken)`);
+    }
+  }
+
   // Deduplicate stories by URL
   const seen = new Set();
-  const deduped = allStories.filter(story => {
+  const deduped = freshStories.filter(story => {
     if (seen.has(story.url)) return false;
     seen.add(story.url);
     return true;
