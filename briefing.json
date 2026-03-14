@@ -4,17 +4,17 @@
     "owner": "Russell Goldman",
     "timezone": "America/New_York",
     "description": "Daily international news briefing — all bullets, ready by 6am ET",
-    "generated": "2026-03-14T10:32:12.154Z",
-    "generatedTimestamp": 1773484332154
+    "generated": "2026-03-14T10:55:28.600Z",
+    "generatedTimestamp": 1773485728600
   },
   "stats": {
     "sourceCount": 19,
     "successCount": 19,
-    "totalStories": 146,
+    "totalStories": 145,
     "totalScreenshots": 6,
     "daybookStories": 45,
     "watchCandidateCount": 4,
-    "elapsed": "59.8s"
+    "elapsed": "61.0s"
   },
   "stories": {
     "all": [
@@ -139,6 +139,16 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOdUVmVjF4ckFGZ0lPcnc1VC1SQjR4S1JlYVdnZWswY1V5YVlGNmcwSDhuSXhmclM0NFNCYmdRN3hmUUNDYldlV2JBNE1FNENZRnl6UzFYT2hCQ1JETjNMRnkwYmlGM3I3dm8zMlh"
       },
       {
+        "headline": "Greek-flagged tanker hit by unidentified object outside CPC terminal at Novorossiysk, minor damage, operator says - Reuters",
+        "url": "https://www.reuters.com/world/china/greek-flagged-tanker-hit-by-unidentified-object-outside-cpc-terminal-2026-03-14/",
+        "source": "Reuters",
+        "sourceId": "reuters_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Sat, 14 Mar 2026 09:40:44 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPRjZZYjVqNDRTLXZYR3pZdzRuV3o3RjJVcjFpNmV3eVB0Vm96VnRudjBRTjZ4d18tVWo0clVUQVBLNUlvUWxEbFhsem1WbEU3TDd5bk51bDJNVnJNbUdZa2xmb2FIYWhORWdmNEV"
+      },
+      {
         "headline": "Kharg Island, struck by US, is key hub for Iran oil exports - Reuters",
         "url": "https://www.reuters.com/business/energy/kharg-island-struck-by-us-is-key-hub-iran-oil-exports-2026-03-14/",
         "source": "Reuters",
@@ -226,16 +236,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQSWtjM1lUQW12N1hJQlBkU2d6V2o5THBxbWtWMWJFOHhzRXd0V3ljNlB6U1hFVDVVT3YyVDJaclByUTJ0dWIwbk9ZMUFIaFVSVDdHZ1dYZjVLQTBlNVFjTURZd1NrNWJjd19BcEN"
       },
       {
-        "headline": "Booming Taiwan can well afford more military spending, president says - Reuters",
-        "url": "https://www.reuters.com/business/aerospace-defense/booming-taiwan-can-well-afford-more-military-spending-president-says-2026-03-14/",
-        "source": "Reuters",
-        "sourceId": "reuters_world",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Sat, 14 Mar 2026 04:27:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQUVNYLUFEQVl5MW9DSk9SdXBLNUxIdkZRVWJNcF8yWjB4TnVSYjg1aXZOYVJMU2w1Q0szVEl2ZXo3OFlYRGV3ZmZRQzRJSVNldFhYVFRaY0U5MEMxN3QtUnUxX2VJaUhDd1ltVnd"
-      },
-      {
         "headline": "Five US Air Force refueling planes hit in Iranian strike on Saudi Arabia, WSJ reports - Reuters",
         "url": "https://www.reuters.com/world/five-us-air-force-refueling-planes-hit-iranian-strike-saudi-arabia-wsj-reports-2026-03-13/",
         "source": "Reuters",
@@ -244,6 +244,16 @@
         "priority": "primary",
         "date": "Fri, 13 Mar 2026 23:25:45 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNay1OYk1XSDBJU0RfNGZMLXRMWUN2VE5KcHhpSDJNV1NYVzB1NVRkQTMxcnEtWnJWYkpkNlN5S0Jac0E3cURTOTdXdDh2dFRqY2tLV0l1NHhDUUE0RkhYblNCWE01dEdSQ0Rmd0h"
+      },
+      {
+        "headline": "Booming Taiwan can well afford more military spending, president says - Reuters",
+        "url": "https://www.reuters.com/business/aerospace-defense/booming-taiwan-can-well-afford-more-military-spending-president-says-2026-03-14/",
+        "source": "Reuters",
+        "sourceId": "reuters_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Sat, 14 Mar 2026 04:27:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQUVNYLUFEQVl5MW9DSk9SdXBLNUxIdkZRVWJNcF8yWjB4TnVSYjg1aXZOYVJMU2w1Q0szVEl2ZXo3OFlYRGV3ZmZRQzRJSVNldFhYVFRaY0U5MEMxN3QtUnUxX2VJaUhDd1ltVnd"
       },
       {
         "headline": "US FAA lifts ground stop at the three Washington-area airports - Reuters",
@@ -264,16 +274,6 @@
         "priority": "primary",
         "date": "Fri, 13 Mar 2026 23:20:39 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPS0NwcGFWTXlJUTE1U1EycGNqb3Fkclh4S3hoMnY3Z29qcm4xRHE0eV81a3A4V2FqdUhuem91c05YaFBPUmRHRWFOT195N3B2MWx2ZGdPaktNdTBRWGFJNnNRaGIycEZEak1KV0F"
-      },
-      {
-        "headline": "Trump administration set to receive $10 billion fee for brokering TikTok deal, WSJ reports - Reuters",
-        "url": "https://www.reuters.com/world/china/trump-administration-set-receive-10-billion-fee-brokering-tiktok-deal-wsj-2026-03-13/",
-        "source": "Reuters",
-        "sourceId": "reuters_world",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Fri, 13 Mar 2026 22:09:24 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOREdabzJib29PUUptaWRyTXBBbklDU04yeGFFLXRKeFp0WHJCbzczdlpKanhfVXBKMkVnamNqZ1VaUlA2SnZ4RXVmem44VWZqY0h0MXlodWZCT20tUk4wcWdiaUVDTGVRSHpCalp"
       },
       {
         "headline": "More US Marines and warships to be moved to Middle East, reports say",
@@ -423,17 +423,7 @@
         "description": "The subject has polarised India for long, though some states and private companies offer menstrual leaves."
       },
       {
-        "headline": "Bodies of 84 Iranian sailors killed in US torpedo strike to be repatriated",
-        "url": "https://www.bbc.com/news/articles/c363lk4xk07o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC",
-        "sourceId": "bbc_world",
-        "category": "general",
-        "priority": "primary",
-        "date": "Fri, 13 Mar 2026 10:43:21 GMT",
-        "description": "The seamen died when Iranian warship the Iris Dena was sunk on 4 March by a US submarine near Sri Lanka."
-      },
-      {
-        "headline": "Fire breaks out at UAE port after US hits military assets at Iranian export hub",
+        "headline": "UAE port struck after US hits military assets at Iranian export hub",
         "url": "https://www.ft.com/content/d1b23f3e-a976-4ff1-a653-4155e7a8695e",
         "source": "Financial Times",
         "sourceId": "ft_home",
@@ -636,7 +626,7 @@
         "sourceId": "nyt_world",
         "category": "general",
         "priority": "secondary",
-        "date": "Sat, 14 Mar 2026 10:23:49 +0000",
+        "date": "Sat, 14 Mar 2026 10:49:06 +0000",
         "description": "President Trump said he directed the Pentagon to “totally obliterate” military assets on Kharg Island. The U.S. said it was deploying thousands of Marines to the region."
       },
       {
@@ -750,7 +740,7 @@
         "description": "The country aims to expand domestic satellite systems and cut dependence on American networks like Elon Musk’s Starlink."
       },
       {
-        "headline": "China edge Taiwan 2-0 in extra time to reach Women’s Asian Cup semifinals",
+        "headline": "China beat Taiwan 2-0 in extra time to reach Women’s Asian Cup semifinals",
         "url": "https://www.aljazeera.com/sports/2026/3/14/china-edge-taiwan-2-0-in-extra-time-to-reach-womens-asian-cup-semifinals?traffic_source=rss",
         "source": "Al Jazeera",
         "sourceId": "aljazeera",
@@ -947,7 +937,7 @@
         "description": ""
       },
       {
-        "headline": "Tyre residents refuse to evacuate Lebanon's Hezbollah bastion despite Israeli strikes",
+        "headline": "Residents refuse to leave the Lebanese Hezbollah bastion of Tyre despite Israeli strikes",
         "url": "https://www.france24.com/en/middle-east/20260314-tyre-residents-refuse-to-evacuate-lebanon-s-hezbollah-bastion-despite-israeli-strikes",
         "source": "France24",
         "sourceId": "france24",
@@ -1098,7 +1088,7 @@
       },
       {
         "headline": "UND Falls to North Dakota State in Summit League Tournament Championship - University of North Dakota Athletics",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSjdFcjN2TjdyZFB3a2Z6RGJaU19GakFJY1YyRzhSSTMxRUEtcHhYN0prbkFVNk1DdDlneTMwS05oQXZ2WmpmV2xUT2Y3NWFGdUhMcTU0SVQ4SXNyTWV2RHBDbE9XcTVFVlZtbUJHRlR4YUMzQ0otTXlEYndxSnM2UjJGcnJrWGx5OHRWNXV3UXJWSGxtbms5UTRaU3pUWWszZEppQTUzWnNQbVRfZTg3QXRzeVUyYXRHbkxnS0dfX2NUOXAzVTVjQnJLUlFxUQ?oc=5",
+        "url": "https://fightinghawks.com/news/2026/3/9/mens-basketball-und-falls-to-north-dakota-state-in-summit-league-tournament-championship.aspx",
         "source": "Daybook: International Events",
         "sourceId": "daybook_intl",
         "category": "daybook",
@@ -1118,7 +1108,7 @@
       },
       {
         "headline": "Bison advance to title game behind Koenen's 31-point effort - The Summit League",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYzJFSmdwaHdTUkI0ZHNoTk02cFJuVEF2T29SNVVqV0ZadWs0cEt2YnlDSm9Tdi1yT1Fmc3JVX0pUM0k4LVA3RHlsWVNYYUlMUU1qbHJaY1FpeVVFUXR0MEl2N1l3TVkxRTQ3WEx1c25kM2V5dWxlVDdJX2hsLUpmWmJXUEZCTU92Ti03eG13b3RUa1FYczliN2I5UWdyUQ?oc=5",
+        "url": "https://thesummitleague.org/news/2026/3/7/womens-basketball-summitwbb26-recap-semifinal-no-1.aspx",
         "source": "Daybook: International Events",
         "sourceId": "daybook_intl",
         "category": "daybook",
@@ -1157,6 +1147,16 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNX1V6RnJzeURnNkYwV1pfTmJLU1UzTTNlS0RHdmJUWmt0ZFFVX1ptMzhMWlZrRWU1cm9OUGhHdDNUdzFJN2hXakFzU255MFQ0RlB0aE1UWWxrNkc2aTRvMEI4NWxJRDk4Z3UzQXZ"
       },
       {
+        "headline": "Trump set to host a hemispheric summit in Doral — but only for his hemispheric friends - WUSF",
+        "url": "https://www.wusf.org/politics-issues/2026-03-07/trump-set-to-host-a-hemispheric-summit-in-doral-but-only-for-his-hemispheric-friends",
+        "source": "Daybook: International Events",
+        "sourceId": "daybook_intl",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Sat, 07 Mar 2026 12:21:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQbTRVVTNyWHQ5bWFiSHhuS3prazcxclZOSGozc2FPTzRtMkhfLXJOUVlvTlRVdlUybDJoWUk2OXBhMkVpUU5ZZkVQczN1S3JWbjlLX0UtaERxRmQ3U0RyU3R4MW41bWdSYnFQWTN"
+      },
+      {
         "headline": "Macron to host G7 leaders call on Iran crisis, energy prices - Reuters",
         "url": "https://www.reuters.com/world/macron-host-g7-leaders-call-iran-crisis-energy-prices-2026-03-10/",
         "source": "Daybook: International Events",
@@ -1175,16 +1175,6 @@
         "priority": "reference",
         "date": "Sun, 08 Mar 2026 11:12:45 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPLTZ3Qm9mRm8tRFNYd1hIc0wzWTJYUjllaS1wOTJwZUtCbDAtQ19Rc2NQYjZVMnVzQ3U1eGR1bTFPWkg1VjRheGo3S01zV1hYQWYzLWZfN3JvUFJ6QThsZVJhQ3pNN0NneUxzX2h"
-      },
-      {
-        "headline": "Trump convenes ‘Shield of Americas’ summit with 12 Latin American leaders - The Guardian",
-        "url": "https://www.theguardian.com/us-news/2026/mar/07/trump-shield-of-americas-summit",
-        "source": "Daybook: International Events",
-        "sourceId": "daybook_intl",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Sat, 07 Mar 2026 20:26:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQT0FrU2JRV0QtLWk1aERFajRMMXFBTmNTMmpIT2NWaTdac3NscEhlSFhQUzhXcm1UYm50ZzIzVnhIQS1lRkhUWF9qRzZUSnVfQkVRTkYzR1RqU09UZlpGSUtzdU5aRF8tQmx1Z3l"
       },
       {
         "headline": "G7 Leaders’ Online Meeting - mofa.go.jp",
@@ -1237,17 +1227,7 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOTVNINzFPb096Ynk4c0lQVFdkeC1EOGg1MTZodXhPTnNwLUFsd2JkMGxhUUlZaFNmR3dORm1OenBveENyQnBqaEZoYjJudDFHUzFMVFBzMEd3dEFUN1pKODBSajM3Q2EzNW1JY08"
       },
       {
-        "headline": "‘It was a real happy day for us’ | Bandits GM Steve Dietrich talks trade deadline deals - Buffalo Bandits",
-        "url": "https://bandits.com/it-was-a-real-happy-day-for-us-bandits-gm-steve-dietrich-talks-trade-deadline-deals/",
-        "source": "Daybook: Economic Calendar",
-        "sourceId": "daybook_econ",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Wed, 11 Mar 2026 23:54:25 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNUTdDN3pUcVRtNXhMZVA5a2Fjd0FVc0U4NUIzdndwZGpob095NkgtYUVYdTB4RzFwYkJBYlQwWEdpMXJLcFBuWFhfRElzaWk0alJZS2t6MG03NUVxTEhHTGMxZ0RJamxjblUxZUh"
-      },
-      {
-        "headline": "March Fed Meeting Unpacked: A Checkpoint for the Markets - Lord, Abbett &amp; Co LLC",
+        "headline": "March Fed Meeting Unpacked: A Checkpoint for the Markets - Lord Abbett",
         "url": "https://www.lordabbett.com/en-us/institutional-investor/events/webinars/2026/march-fed-meeting-unpacked-a-checkpoint-for-the-markets.html",
         "source": "Daybook: Economic Calendar",
         "sourceId": "daybook_econ",
@@ -1257,14 +1237,14 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeW5OdDlrYjI1NWlUVnhQZkR4amZiUThIc2tjOXVYVHZvXy1GWUMzUWRQZ282OEdMdXBYdUttajQ3VnIzMTRhNmVNR3RFclFsMVFhcXFtYnA1RExUNi00RVBRT3FtX0lwd1hJRkR"
       },
       {
-        "headline": "Rangers finding success post NHL trade deadline behind new-look top line - SNY",
-        "url": "https://sny.tv/articles/rangers-finding-success-post-nhl-trade-deadline-new-top-line",
+        "headline": "‘It was a real happy day for us’ | Bandits GM Steve Dietrich talks trade deadline deals - Buffalo Bandits",
+        "url": "https://bandits.com/it-was-a-real-happy-day-for-us-bandits-gm-steve-dietrich-talks-trade-deadline-deals/",
         "source": "Daybook: Economic Calendar",
         "sourceId": "daybook_econ",
         "category": "daybook",
         "priority": "reference",
-        "date": "Wed, 11 Mar 2026 21:41:57 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNcmdtSmc2WHRNVVlDTnN0cDBaRU51TDUzY1dXaDBQSHpQcVVDOW9ZbW5kaGlETHFTRlozUGtKUWJzdEZHYi1SMEpKcEN5cTRQTTkxc1Q5S3E0UFFXMXp2a0NiOW41SEFZRHdfbk5"
+        "date": "Wed, 11 Mar 2026 23:54:25 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNUTdDN3pUcVRtNXhMZVA5a2Fjd0FVc0U4NUIzdndwZGpob095NkgtYUVYdTB4RzFwYkJBYlQwWEdpMXJLcFBuWFhfRElzaWk0alJZS2t6MG03NUVxTEhHTGMxZ0RJamxjblUxZUh"
       },
       {
         "headline": "3 things homebuyers should avoid before the March Fed meeting - CBS News",
@@ -1277,8 +1257,18 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNdkNfTDVVbXltaVNSaktjbFNhRFB5REpkQTNYQ1VpSTA2OFhKaWN2MllwWEF1am1nVVlSTmI0NlhTazd4U1lfVDZpS29fVGJ5RjZ4OVdZQnFDYXRseUhRenk3ellQZk5RenNJS3N"
       },
       {
+        "headline": "Rangers finding success post NHL trade deadline behind new-look top line - SNY",
+        "url": "https://sny.tv/articles/rangers-finding-success-post-nhl-trade-deadline-new-top-line",
+        "source": "Daybook: Economic Calendar",
+        "sourceId": "daybook_econ",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Wed, 11 Mar 2026 21:41:57 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNcmdtSmc2WHRNVVlDTnN0cDBaRU51TDUzY1dXaDBQSHpQcVVDOW9ZbW5kaGlETHFTRlozUGtKUWJzdEZHYi1SMEpKcEN5cTRQTTkxc1Q5S3E0UFFXMXp2a0NiOW41SEFZRHdfbk5"
+      },
+      {
         "headline": "NHL post-trade deadline: Playoff races, tank ranks and whatever the Blues are doing - The Athletic - The New York Times",
-        "url": "https://www.nytimes.com/athletic/7104467/2026/03/10/nhl-trade-deadline-playoffs-race-red-light/",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYUZRS3Vuc2tVZ3Z3XzJGNjk2Ql9KdUllamdmVUF3SGFBSTR0Y25UQzZlajk3bjBLcHlST2RMVXgza2lCeEZlM3BRQkxuX1lNeE9hQVB4QlBDcHVoTlVrQU1TQXBkUlpGd2I5WDkzLXMtOXNSeWFENXd4N3FSZTZFMlhwa3J0b2RIUl9CXzRPOGx0QUVqTlU1OGlhOA?oc=5",
         "source": "Daybook: Economic Calendar",
         "sourceId": "daybook_econ",
         "category": "daybook",
@@ -1287,24 +1277,24 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPYUZRS3Vuc2tVZ3Z3XzJGNjk2Ql9KdUllamdmVUF3SGFBSTR0Y25UQzZlajk3bjBLcHlST2RMVXgza2lCeEZlM3BRQkxuX1lNeE9hQVB4QlBDcHVoTlVrQU1TQXBkUlpGd2I5WDk"
       },
       {
-        "headline": "Anaheim Ducks 2026 Trade Deadline Review - The Hockey News",
-        "url": "https://thehockeynews.com/nhl/anaheim-ducks/latest-news/anaheim-ducks-2026-trade-deadline-review",
+        "headline": "Ashlyn Sullivan's 3 takeaways from the Flyers' NHL trade deadline - NBC Sports Philadelphia",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRUxKamZxM1NUTmFFRk1ydW5UMnB0eTdkRTQxNEtKQmU4ekt4UlMzclI5TmpsN1FqMVI4VG5NcmZ6NjI0YTFiZzZ3RlJUeTNaajh6N2dvLWpsT2czZ2g4VEJOOWhrMzFieFVYMUpvaHNhaTFFb0FaSU5LUTVPRWlBelhQY0o0NXQ3RlItcVVBUlFCLTFfYXI2aG9WYmtkY1U3dl9ZamZXcGRVTDZSRHNMSGZvN2FmUER6NEpxcmNWNWF5ekQxVEpB0gHPAUFVX3lxTE8zSnBXdTlxZHU2SGFFYTFZTEdLc1B5YVdUR3dkQll6eThacGFPUHpCWU04aHZnYkpsNXhpWDRoV0ZIVVZiOEZ0eFFMeEU0QlQyZXdiNmpzZ0Q2RlQ5d0JTY0xIRWk5eS1hRWZacjE0bDY3QmdITWFVdkx3WEt5a0tZUlJvNTk3aHAyaEV6M09WU2Q2UVFGQ3l1WDl6eGtRYXlkYW1uN2FTVl9lNm5OaDFNV1lBdVZOUzlraTdXQUF1R3VjeFdtTnVGZ3puSGdqbw?oc=5",
         "source": "Daybook: Economic Calendar",
         "sourceId": "daybook_econ",
         "category": "daybook",
         "priority": "reference",
-        "date": "Sun, 08 Mar 2026 04:46:30 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPaTdxQWV1T2N3WVJrVWc5aWdqRF93RnY5LTNtUHFyMTg1TV9tbGF5ZFpzamlVVTZNV0h2bUpqNXdTMmpFRzlETllFY2Z0UkZ5VV9YaW1rdTR6T3hEdjlKVUVoVFpLeWNzSWJIVmp"
+        "date": "Sat, 07 Mar 2026 20:09:19 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPRUxKamZxM1NUTmFFRk1ydW5UMnB0eTdkRTQxNEtKQmU4ekt4UlMzclI5TmpsN1FqMVI4VG5NcmZ6NjI0YTFiZzZ3RlJUeTNaajh6N2dvLWpsT2czZ2g4VEJOOWhrMzFieFVYMUp"
       },
       {
         "headline": "Alibaba Stock Is Down but Not Out. Its Earnings Report Should Boost Shares. - Barron's",
-        "url": "https://www.barrons.com/articles/alibaba-baba-stock-price-earnings-b0e4dde4?gaa_at=eafs&gaa_n=AWEtsqfZ6Gtrx1jPEJ5qv78PdbyuEFZCljSb8B5qoDiBDwSEkkzn12psuxJg&gaa_ts=69b53c75&gaa_sig=ZtP4xu3TpXklGUTTBQY3imb9NG1KiNgN4GoXy4RxB05HiQGTAcX7BIS5vJ_g-NXAkHvESifFW6A_r0r4YUwjlA%3D%3D",
+        "url": "https://www.barrons.com/articles/alibaba-baba-stock-price-earnings-b0e4dde4?gaa_at=eafs&gaa_n=AWEtsqcSeMtn1IF-1AFSjJ9ZQKuslh8xHW2p0f5fYXqDHCl-ucrLU6CYN5wZ&gaa_ts=69b541e8&gaa_sig=sEh2jfSeje7gP__icGucJalNrGDTKKPvufJ9hNyNns2VLzZq7wjAEWDVlos_Q5mOMumzjBVYsM4rJ2fvdAJ_6A%3D%3D",
         "source": "Daybook: Economic Calendar",
         "sourceId": "daybook_econ",
         "category": "daybook",
         "priority": "reference",
         "date": "Thu, 12 Mar 2026 12:40:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgNBVV95cUxNWW9QOEl2OTMxaUlyQzBYcUlEdGVRcUlHMjFmeUVnQ1J0cWRWb19LSlFLSTROU0RXZWRCX3NtVXBNZTl4M2dWcjJKWHVMeVp2Yl9JNFY0NzJDSGJ1MWxfN2cySElfVEpTbWxVQWl"
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgNBVV95cUxONnZ0ckpHU280d1lzaVhWVjc3eGY3QkxHenNxeTN5aDcydkQySUdxajRhZW1EMU0zWE9ITEVKemxDekxuT0RLNmY3c1F2SlZTM1J3WVdsS1F5UVR4Snc2ZkpsZFFqRC04TTV0cFV"
       },
       {
         "headline": "Fantasy spin on 2026 NHL Trade Deadline - NHL.com",
@@ -1447,16 +1437,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNHRqZHdTbTRvamFnRXg4S0Z2R1k3TWkwZlZNSWZQZGhpZTVGUVdUYTVUX1lWeVlDallNLUNpR3p2VFIzM3VSc3lZVmgtcmY0S0hLa0tYNjQ0WFoxRXpZWDdiZzVXTy02V2dWTF9"
       },
       {
-        "headline": "Large Item Pickup Scheduled for Unincorporated Areas of Dare County - Dare County (.gov)",
-        "url": "https://www.darenc.gov/Home/Components/News/News/9463/17",
-        "source": "Daybook: Scheduled Events",
-        "sourceId": "daybook_scheduled",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Fri, 13 Mar 2026 17:28:48 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDOHQzX0dPdEVrbVVHeHNZVmlBNnVxSERBaFljX3V0LVBaamQ3Q3lJQUQ5eGdoTzRKenpVdG1WdENkYmp3WC15WGI0b1kwd3o1YkpreFB4RWVDT2IyWThTN1E4SUFMdEU?oc=5\" t"
-      },
-      {
         "headline": "Benefit scheduled for Sunday for family battling pancreatic cancer - timesobserver.com",
         "url": "https://www.timesobserver.com/news/local-news/2026/03/benefit-scheduled-for-sunday-for-family-battling-pancreatic-cancer/",
         "source": "Daybook: Scheduled Events",
@@ -1465,6 +1445,16 @@
         "priority": "reference",
         "date": "Sat, 14 Mar 2026 04:54:19 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQWUs3dl8xSWE0eEZMMC01Ym0zWk9GMVRVSHoyUk9JWGc2MnZRWjlPQlpETVFVWWZ6QjJqNlVEaU54cFBqaF9KaER1M1liYTZvTlJfVmxzMVlmQ3B6TklkdFM5UlBkRS1ZalJOUnN"
+      },
+      {
+        "headline": "Large Item Pickup Scheduled for Unincorporated Areas of Dare County - Dare County (.gov)",
+        "url": "https://www.darenc.gov/Home/Components/News/News/9463/17",
+        "source": "Daybook: Scheduled Events",
+        "sourceId": "daybook_scheduled",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Fri, 13 Mar 2026 17:28:48 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDOHQzX0dPdEVrbVVHeHNZVmlBNnVxSERBaFljX3V0LVBaamQ3Q3lJQUQ5eGdoTzRKenpVdG1WdENkYmp3WC15WGI0b1kwd3o1YkpreFB4RWVDT2IyWThTN1E4SUFMdEU?oc=5\" t"
       },
       {
         "headline": "Steven Spielberg Talks 'Disclosure Day,' Aliens, Western In Development - Deadline",
@@ -1630,6 +1620,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOdUVmVjF4ckFGZ0lPcnc1VC1SQjR4S1JlYVdnZWswY1V5YVlGNmcwSDhuSXhmclM0NFNCYmdRN3hmUUNDYldlV2JBNE1FNENZRnl6UzFYT2hCQ1JETjNMRnkwYmlGM3I3dm8zMlh"
         },
         {
+          "headline": "Greek-flagged tanker hit by unidentified object outside CPC terminal at Novorossiysk, minor damage, operator says - Reuters",
+          "url": "https://www.reuters.com/world/china/greek-flagged-tanker-hit-by-unidentified-object-outside-cpc-terminal-2026-03-14/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sat, 14 Mar 2026 09:40:44 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPRjZZYjVqNDRTLXZYR3pZdzRuV3o3RjJVcjFpNmV3eVB0Vm96VnRudjBRTjZ4d18tVWo0clVUQVBLNUlvUWxEbFhsem1WbEU3TDd5bk51bDJNVnJNbUdZa2xmb2FIYWhORWdmNEV"
+        },
+        {
           "headline": "Kharg Island, struck by US, is key hub for Iran oil exports - Reuters",
           "url": "https://www.reuters.com/business/energy/kharg-island-struck-by-us-is-key-hub-iran-oil-exports-2026-03-14/",
           "source": "Reuters",
@@ -1717,16 +1717,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQSWtjM1lUQW12N1hJQlBkU2d6V2o5THBxbWtWMWJFOHhzRXd0V3ljNlB6U1hFVDVVT3YyVDJaclByUTJ0dWIwbk9ZMUFIaFVSVDdHZ1dYZjVLQTBlNVFjTURZd1NrNWJjd19BcEN"
         },
         {
-          "headline": "Booming Taiwan can well afford more military spending, president says - Reuters",
-          "url": "https://www.reuters.com/business/aerospace-defense/booming-taiwan-can-well-afford-more-military-spending-president-says-2026-03-14/",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sat, 14 Mar 2026 04:27:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQUVNYLUFEQVl5MW9DSk9SdXBLNUxIdkZRVWJNcF8yWjB4TnVSYjg1aXZOYVJMU2w1Q0szVEl2ZXo3OFlYRGV3ZmZRQzRJSVNldFhYVFRaY0U5MEMxN3QtUnUxX2VJaUhDd1ltVnd"
-        },
-        {
           "headline": "Five US Air Force refueling planes hit in Iranian strike on Saudi Arabia, WSJ reports - Reuters",
           "url": "https://www.reuters.com/world/five-us-air-force-refueling-planes-hit-iranian-strike-saudi-arabia-wsj-reports-2026-03-13/",
           "source": "Reuters",
@@ -1735,6 +1725,16 @@
           "priority": "primary",
           "date": "Fri, 13 Mar 2026 23:25:45 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNay1OYk1XSDBJU0RfNGZMLXRMWUN2VE5KcHhpSDJNV1NYVzB1NVRkQTMxcnEtWnJWYkpkNlN5S0Jac0E3cURTOTdXdDh2dFRqY2tLV0l1NHhDUUE0RkhYblNCWE01dEdSQ0Rmd0h"
+        },
+        {
+          "headline": "Booming Taiwan can well afford more military spending, president says - Reuters",
+          "url": "https://www.reuters.com/business/aerospace-defense/booming-taiwan-can-well-afford-more-military-spending-president-says-2026-03-14/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sat, 14 Mar 2026 04:27:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQUVNYLUFEQVl5MW9DSk9SdXBLNUxIdkZRVWJNcF8yWjB4TnVSYjg1aXZOYVJMU2w1Q0szVEl2ZXo3OFlYRGV3ZmZRQzRJSVNldFhYVFRaY0U5MEMxN3QtUnUxX2VJaUhDd1ltVnd"
         },
         {
           "headline": "US FAA lifts ground stop at the three Washington-area airports - Reuters",
@@ -1755,16 +1755,6 @@
           "priority": "primary",
           "date": "Fri, 13 Mar 2026 23:20:39 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPS0NwcGFWTXlJUTE1U1EycGNqb3Fkclh4S3hoMnY3Z29qcm4xRHE0eV81a3A4V2FqdUhuem91c05YaFBPUmRHRWFOT195N3B2MWx2ZGdPaktNdTBRWGFJNnNRaGIycEZEak1KV0F"
-        },
-        {
-          "headline": "Trump administration set to receive $10 billion fee for brokering TikTok deal, WSJ reports - Reuters",
-          "url": "https://www.reuters.com/world/china/trump-administration-set-receive-10-billion-fee-brokering-tiktok-deal-wsj-2026-03-13/",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Fri, 13 Mar 2026 22:09:24 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOREdabzJib29PUUptaWRyTXBBbklDU04yeGFFLXRKeFp0WHJCbzczdlpKanhfVXBKMkVnamNqZ1VaUlA2SnZ4RXVmem44VWZqY0h0MXlodWZCT20tUk4wcWdiaUVDTGVRSHpCalp"
         },
         {
           "headline": "US deploys USS Tripoli amphibious assault ship to Middle East",
@@ -1807,7 +1797,7 @@
           "description": ""
         },
         {
-          "headline": "Tyre residents refuse to evacuate Lebanon's Hezbollah bastion despite Israeli strikes",
+          "headline": "Residents refuse to leave the Lebanese Hezbollah bastion of Tyre despite Israeli strikes",
           "url": "https://www.france24.com/en/middle-east/20260314-tyre-residents-refuse-to-evacuate-lebanon-s-hezbollah-bastion-despite-israeli-strikes",
           "source": "France24",
           "sourceId": "france24",
@@ -2382,7 +2372,7 @@
           "sourceId": "nyt_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Sat, 14 Mar 2026 10:23:49 +0000",
+          "date": "Sat, 14 Mar 2026 10:49:06 +0000",
           "description": "President Trump said he directed the Pentagon to “totally obliterate” military assets on Kharg Island. The U.S. said it was deploying thousands of Marines to the region."
         },
         {
@@ -2526,7 +2516,7 @@
           "description": "The country aims to expand domestic satellite systems and cut dependence on American networks like Elon Musk’s Starlink."
         },
         {
-          "headline": "China edge Taiwan 2-0 in extra time to reach Women’s Asian Cup semifinals",
+          "headline": "China beat Taiwan 2-0 in extra time to reach Women’s Asian Cup semifinals",
           "url": "https://www.aljazeera.com/sports/2026/3/14/china-edge-taiwan-2-0-in-extra-time-to-reach-womens-asian-cup-semifinals?traffic_source=rss",
           "source": "Al Jazeera",
           "sourceId": "aljazeera",
@@ -2685,7 +2675,7 @@
       ],
       "business": [
         {
-          "headline": "Fire breaks out at UAE port after US hits military assets at Iranian export hub",
+          "headline": "UAE port struck after US hits military assets at Iranian export hub",
           "url": "https://www.ft.com/content/d1b23f3e-a976-4ff1-a653-4155e7a8695e",
           "source": "Financial Times",
           "sourceId": "ft_home",
@@ -3015,7 +3005,7 @@
         },
         {
           "headline": "UND Falls to North Dakota State in Summit League Tournament Championship - University of North Dakota Athletics",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSjdFcjN2TjdyZFB3a2Z6RGJaU19GakFJY1YyRzhSSTMxRUEtcHhYN0prbkFVNk1DdDlneTMwS05oQXZ2WmpmV2xUT2Y3NWFGdUhMcTU0SVQ4SXNyTWV2RHBDbE9XcTVFVlZtbUJHRlR4YUMzQ0otTXlEYndxSnM2UjJGcnJrWGx5OHRWNXV3UXJWSGxtbms5UTRaU3pUWWszZEppQTUzWnNQbVRfZTg3QXRzeVUyYXRHbkxnS0dfX2NUOXAzVTVjQnJLUlFxUQ?oc=5",
+          "url": "https://fightinghawks.com/news/2026/3/9/mens-basketball-und-falls-to-north-dakota-state-in-summit-league-tournament-championship.aspx",
           "source": "Daybook: International Events",
           "sourceId": "daybook_intl",
           "category": "daybook",
@@ -3035,7 +3025,7 @@
         },
         {
           "headline": "Bison advance to title game behind Koenen's 31-point effort - The Summit League",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYzJFSmdwaHdTUkI0ZHNoTk02cFJuVEF2T29SNVVqV0ZadWs0cEt2YnlDSm9Tdi1yT1Fmc3JVX0pUM0k4LVA3RHlsWVNYYUlMUU1qbHJaY1FpeVVFUXR0MEl2N1l3TVkxRTQ3WEx1c25kM2V5dWxlVDdJX2hsLUpmWmJXUEZCTU92Ti03eG13b3RUa1FYczliN2I5UWdyUQ?oc=5",
+          "url": "https://thesummitleague.org/news/2026/3/7/womens-basketball-summitwbb26-recap-semifinal-no-1.aspx",
           "source": "Daybook: International Events",
           "sourceId": "daybook_intl",
           "category": "daybook",
@@ -3074,6 +3064,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNX1V6RnJzeURnNkYwV1pfTmJLU1UzTTNlS0RHdmJUWmt0ZFFVX1ptMzhMWlZrRWU1cm9OUGhHdDNUdzFJN2hXakFzU255MFQ0RlB0aE1UWWxrNkc2aTRvMEI4NWxJRDk4Z3UzQXZ"
         },
         {
+          "headline": "Trump set to host a hemispheric summit in Doral — but only for his hemispheric friends - WUSF",
+          "url": "https://www.wusf.org/politics-issues/2026-03-07/trump-set-to-host-a-hemispheric-summit-in-doral-but-only-for-his-hemispheric-friends",
+          "source": "Daybook: International Events",
+          "sourceId": "daybook_intl",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Sat, 07 Mar 2026 12:21:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQbTRVVTNyWHQ5bWFiSHhuS3prazcxclZOSGozc2FPTzRtMkhfLXJOUVlvTlRVdlUybDJoWUk2OXBhMkVpUU5ZZkVQczN1S3JWbjlLX0UtaERxRmQ3U0RyU3R4MW41bWdSYnFQWTN"
+        },
+        {
           "headline": "Macron to host G7 leaders call on Iran crisis, energy prices - Reuters",
           "url": "https://www.reuters.com/world/macron-host-g7-leaders-call-iran-crisis-energy-prices-2026-03-10/",
           "source": "Daybook: International Events",
@@ -3092,16 +3092,6 @@
           "priority": "reference",
           "date": "Sun, 08 Mar 2026 11:12:45 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPLTZ3Qm9mRm8tRFNYd1hIc0wzWTJYUjllaS1wOTJwZUtCbDAtQ19Rc2NQYjZVMnVzQ3U1eGR1bTFPWkg1VjRheGo3S01zV1hYQWYzLWZfN3JvUFJ6QThsZVJhQ3pNN0NneUxzX2h"
-        },
-        {
-          "headline": "Trump convenes ‘Shield of Americas’ summit with 12 Latin American leaders - The Guardian",
-          "url": "https://www.theguardian.com/us-news/2026/mar/07/trump-shield-of-americas-summit",
-          "source": "Daybook: International Events",
-          "sourceId": "daybook_intl",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Sat, 07 Mar 2026 20:26:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQT0FrU2JRV0QtLWk1aERFajRMMXFBTmNTMmpIT2NWaTdac3NscEhlSFhQUzhXcm1UYm50ZzIzVnhIQS1lRkhUWF9qRzZUSnVfQkVRTkYzR1RqU09UZlpGSUtzdU5aRF8tQmx1Z3l"
         },
         {
           "headline": "G7 Leaders’ Online Meeting - mofa.go.jp",
@@ -3154,17 +3144,7 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOTVNINzFPb096Ynk4c0lQVFdkeC1EOGg1MTZodXhPTnNwLUFsd2JkMGxhUUlZaFNmR3dORm1OenBveENyQnBqaEZoYjJudDFHUzFMVFBzMEd3dEFUN1pKODBSajM3Q2EzNW1JY08"
         },
         {
-          "headline": "‘It was a real happy day for us’ | Bandits GM Steve Dietrich talks trade deadline deals - Buffalo Bandits",
-          "url": "https://bandits.com/it-was-a-real-happy-day-for-us-bandits-gm-steve-dietrich-talks-trade-deadline-deals/",
-          "source": "Daybook: Economic Calendar",
-          "sourceId": "daybook_econ",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Wed, 11 Mar 2026 23:54:25 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNUTdDN3pUcVRtNXhMZVA5a2Fjd0FVc0U4NUIzdndwZGpob095NkgtYUVYdTB4RzFwYkJBYlQwWEdpMXJLcFBuWFhfRElzaWk0alJZS2t6MG03NUVxTEhHTGMxZ0RJamxjblUxZUh"
-        },
-        {
-          "headline": "March Fed Meeting Unpacked: A Checkpoint for the Markets - Lord, Abbett &amp; Co LLC",
+          "headline": "March Fed Meeting Unpacked: A Checkpoint for the Markets - Lord Abbett",
           "url": "https://www.lordabbett.com/en-us/institutional-investor/events/webinars/2026/march-fed-meeting-unpacked-a-checkpoint-for-the-markets.html",
           "source": "Daybook: Economic Calendar",
           "sourceId": "daybook_econ",
@@ -3174,14 +3154,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeW5OdDlrYjI1NWlUVnhQZkR4amZiUThIc2tjOXVYVHZvXy1GWUMzUWRQZ282OEdMdXBYdUttajQ3VnIzMTRhNmVNR3RFclFsMVFhcXFtYnA1RExUNi00RVBRT3FtX0lwd1hJRkR"
         },
         {
-          "headline": "Rangers finding success post NHL trade deadline behind new-look top line - SNY",
-          "url": "https://sny.tv/articles/rangers-finding-success-post-nhl-trade-deadline-new-top-line",
+          "headline": "‘It was a real happy day for us’ | Bandits GM Steve Dietrich talks trade deadline deals - Buffalo Bandits",
+          "url": "https://bandits.com/it-was-a-real-happy-day-for-us-bandits-gm-steve-dietrich-talks-trade-deadline-deals/",
           "source": "Daybook: Economic Calendar",
           "sourceId": "daybook_econ",
           "category": "daybook",
           "priority": "reference",
-          "date": "Wed, 11 Mar 2026 21:41:57 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNcmdtSmc2WHRNVVlDTnN0cDBaRU51TDUzY1dXaDBQSHpQcVVDOW9ZbW5kaGlETHFTRlozUGtKUWJzdEZHYi1SMEpKcEN5cTRQTTkxc1Q5S3E0UFFXMXp2a0NiOW41SEFZRHdfbk5"
+          "date": "Wed, 11 Mar 2026 23:54:25 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNUTdDN3pUcVRtNXhMZVA5a2Fjd0FVc0U4NUIzdndwZGpob095NkgtYUVYdTB4RzFwYkJBYlQwWEdpMXJLcFBuWFhfRElzaWk0alJZS2t6MG03NUVxTEhHTGMxZ0RJamxjblUxZUh"
         },
         {
           "headline": "3 things homebuyers should avoid before the March Fed meeting - CBS News",
@@ -3194,8 +3174,18 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNdkNfTDVVbXltaVNSaktjbFNhRFB5REpkQTNYQ1VpSTA2OFhKaWN2MllwWEF1am1nVVlSTmI0NlhTazd4U1lfVDZpS29fVGJ5RjZ4OVdZQnFDYXRseUhRenk3ellQZk5RenNJS3N"
         },
         {
+          "headline": "Rangers finding success post NHL trade deadline behind new-look top line - SNY",
+          "url": "https://sny.tv/articles/rangers-finding-success-post-nhl-trade-deadline-new-top-line",
+          "source": "Daybook: Economic Calendar",
+          "sourceId": "daybook_econ",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Wed, 11 Mar 2026 21:41:57 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNcmdtSmc2WHRNVVlDTnN0cDBaRU51TDUzY1dXaDBQSHpQcVVDOW9ZbW5kaGlETHFTRlozUGtKUWJzdEZHYi1SMEpKcEN5cTRQTTkxc1Q5S3E0UFFXMXp2a0NiOW41SEFZRHdfbk5"
+        },
+        {
           "headline": "NHL post-trade deadline: Playoff races, tank ranks and whatever the Blues are doing - The Athletic - The New York Times",
-          "url": "https://www.nytimes.com/athletic/7104467/2026/03/10/nhl-trade-deadline-playoffs-race-red-light/",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYUZRS3Vuc2tVZ3Z3XzJGNjk2Ql9KdUllamdmVUF3SGFBSTR0Y25UQzZlajk3bjBLcHlST2RMVXgza2lCeEZlM3BRQkxuX1lNeE9hQVB4QlBDcHVoTlVrQU1TQXBkUlpGd2I5WDkzLXMtOXNSeWFENXd4N3FSZTZFMlhwa3J0b2RIUl9CXzRPOGx0QUVqTlU1OGlhOA?oc=5",
           "source": "Daybook: Economic Calendar",
           "sourceId": "daybook_econ",
           "category": "daybook",
@@ -3204,24 +3194,24 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPYUZRS3Vuc2tVZ3Z3XzJGNjk2Ql9KdUllamdmVUF3SGFBSTR0Y25UQzZlajk3bjBLcHlST2RMVXgza2lCeEZlM3BRQkxuX1lNeE9hQVB4QlBDcHVoTlVrQU1TQXBkUlpGd2I5WDk"
         },
         {
-          "headline": "Anaheim Ducks 2026 Trade Deadline Review - The Hockey News",
-          "url": "https://thehockeynews.com/nhl/anaheim-ducks/latest-news/anaheim-ducks-2026-trade-deadline-review",
+          "headline": "Ashlyn Sullivan's 3 takeaways from the Flyers' NHL trade deadline - NBC Sports Philadelphia",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRUxKamZxM1NUTmFFRk1ydW5UMnB0eTdkRTQxNEtKQmU4ekt4UlMzclI5TmpsN1FqMVI4VG5NcmZ6NjI0YTFiZzZ3RlJUeTNaajh6N2dvLWpsT2czZ2g4VEJOOWhrMzFieFVYMUpvaHNhaTFFb0FaSU5LUTVPRWlBelhQY0o0NXQ3RlItcVVBUlFCLTFfYXI2aG9WYmtkY1U3dl9ZamZXcGRVTDZSRHNMSGZvN2FmUER6NEpxcmNWNWF5ekQxVEpB0gHPAUFVX3lxTE8zSnBXdTlxZHU2SGFFYTFZTEdLc1B5YVdUR3dkQll6eThacGFPUHpCWU04aHZnYkpsNXhpWDRoV0ZIVVZiOEZ0eFFMeEU0QlQyZXdiNmpzZ0Q2RlQ5d0JTY0xIRWk5eS1hRWZacjE0bDY3QmdITWFVdkx3WEt5a0tZUlJvNTk3aHAyaEV6M09WU2Q2UVFGQ3l1WDl6eGtRYXlkYW1uN2FTVl9lNm5OaDFNV1lBdVZOUzlraTdXQUF1R3VjeFdtTnVGZ3puSGdqbw?oc=5",
           "source": "Daybook: Economic Calendar",
           "sourceId": "daybook_econ",
           "category": "daybook",
           "priority": "reference",
-          "date": "Sun, 08 Mar 2026 04:46:30 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPaTdxQWV1T2N3WVJrVWc5aWdqRF93RnY5LTNtUHFyMTg1TV9tbGF5ZFpzamlVVTZNV0h2bUpqNXdTMmpFRzlETllFY2Z0UkZ5VV9YaW1rdTR6T3hEdjlKVUVoVFpLeWNzSWJIVmp"
+          "date": "Sat, 07 Mar 2026 20:09:19 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPRUxKamZxM1NUTmFFRk1ydW5UMnB0eTdkRTQxNEtKQmU4ekt4UlMzclI5TmpsN1FqMVI4VG5NcmZ6NjI0YTFiZzZ3RlJUeTNaajh6N2dvLWpsT2czZ2g4VEJOOWhrMzFieFVYMUp"
         },
         {
           "headline": "Alibaba Stock Is Down but Not Out. Its Earnings Report Should Boost Shares. - Barron's",
-          "url": "https://www.barrons.com/articles/alibaba-baba-stock-price-earnings-b0e4dde4?gaa_at=eafs&gaa_n=AWEtsqfZ6Gtrx1jPEJ5qv78PdbyuEFZCljSb8B5qoDiBDwSEkkzn12psuxJg&gaa_ts=69b53c75&gaa_sig=ZtP4xu3TpXklGUTTBQY3imb9NG1KiNgN4GoXy4RxB05HiQGTAcX7BIS5vJ_g-NXAkHvESifFW6A_r0r4YUwjlA%3D%3D",
+          "url": "https://www.barrons.com/articles/alibaba-baba-stock-price-earnings-b0e4dde4?gaa_at=eafs&gaa_n=AWEtsqcSeMtn1IF-1AFSjJ9ZQKuslh8xHW2p0f5fYXqDHCl-ucrLU6CYN5wZ&gaa_ts=69b541e8&gaa_sig=sEh2jfSeje7gP__icGucJalNrGDTKKPvufJ9hNyNns2VLzZq7wjAEWDVlos_Q5mOMumzjBVYsM4rJ2fvdAJ_6A%3D%3D",
           "source": "Daybook: Economic Calendar",
           "sourceId": "daybook_econ",
           "category": "daybook",
           "priority": "reference",
           "date": "Thu, 12 Mar 2026 12:40:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgNBVV95cUxNWW9QOEl2OTMxaUlyQzBYcUlEdGVRcUlHMjFmeUVnQ1J0cWRWb19LSlFLSTROU0RXZWRCX3NtVXBNZTl4M2dWcjJKWHVMeVp2Yl9JNFY0NzJDSGJ1MWxfN2cySElfVEpTbWxVQWl"
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgNBVV95cUxONnZ0ckpHU280d1lzaVhWVjc3eGY3QkxHenNxeTN5aDcydkQySUdxajRhZW1EMU0zWE9ITEVKemxDekxuT0RLNmY3c1F2SlZTM1J3WVdsS1F5UVR4Snc2ZkpsZFFqRC04TTV0cFV"
         },
         {
           "headline": "Fantasy spin on 2026 NHL Trade Deadline - NHL.com",
@@ -3364,16 +3354,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNHRqZHdTbTRvamFnRXg4S0Z2R1k3TWkwZlZNSWZQZGhpZTVGUVdUYTVUX1lWeVlDallNLUNpR3p2VFIzM3VSc3lZVmgtcmY0S0hLa0tYNjQ0WFoxRXpZWDdiZzVXTy02V2dWTF9"
         },
         {
-          "headline": "Large Item Pickup Scheduled for Unincorporated Areas of Dare County - Dare County (.gov)",
-          "url": "https://www.darenc.gov/Home/Components/News/News/9463/17",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Fri, 13 Mar 2026 17:28:48 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDOHQzX0dPdEVrbVVHeHNZVmlBNnVxSERBaFljX3V0LVBaamQ3Q3lJQUQ5eGdoTzRKenpVdG1WdENkYmp3WC15WGI0b1kwd3o1YkpreFB4RWVDT2IyWThTN1E4SUFMdEU?oc=5\" t"
-        },
-        {
           "headline": "Benefit scheduled for Sunday for family battling pancreatic cancer - timesobserver.com",
           "url": "https://www.timesobserver.com/news/local-news/2026/03/benefit-scheduled-for-sunday-for-family-battling-pancreatic-cancer/",
           "source": "Daybook: Scheduled Events",
@@ -3382,6 +3362,16 @@
           "priority": "reference",
           "date": "Sat, 14 Mar 2026 04:54:19 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQWUs3dl8xSWE0eEZMMC01Ym0zWk9GMVRVSHoyUk9JWGc2MnZRWjlPQlpETVFVWWZ6QjJqNlVEaU54cFBqaF9KaER1M1liYTZvTlJfVmxzMVlmQ3B6TklkdFM5UlBkRS1ZalJOUnN"
+        },
+        {
+          "headline": "Large Item Pickup Scheduled for Unincorporated Areas of Dare County - Dare County (.gov)",
+          "url": "https://www.darenc.gov/Home/Components/News/News/9463/17",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Fri, 13 Mar 2026 17:28:48 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDOHQzX0dPdEVrbVVHeHNZVmlBNnVxSERBaFljX3V0LVBaamQ3Q3lJQUQ5eGdoTzRKenpVdG1WdENkYmp3WC15WGI0b1kwd3o1YkpreFB4RWVDT2IyWThTN1E4SUFMdEU?oc=5\" t"
         },
         {
           "headline": "Steven Spielberg Talks 'Disclosure Day,' Aliens, Western In Development - Deadline",
@@ -3548,6 +3538,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOdUVmVjF4ckFGZ0lPcnc1VC1SQjR4S1JlYVdnZWswY1V5YVlGNmcwSDhuSXhmclM0NFNCYmdRN3hmUUNDYldlV2JBNE1FNENZRnl6UzFYT2hCQ1JETjNMRnkwYmlGM3I3dm8zMlh"
         },
         {
+          "headline": "Greek-flagged tanker hit by unidentified object outside CPC terminal at Novorossiysk, minor damage, operator says - Reuters",
+          "url": "https://www.reuters.com/world/china/greek-flagged-tanker-hit-by-unidentified-object-outside-cpc-terminal-2026-03-14/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sat, 14 Mar 2026 09:40:44 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPRjZZYjVqNDRTLXZYR3pZdzRuV3o3RjJVcjFpNmV3eVB0Vm96VnRudjBRTjZ4d18tVWo0clVUQVBLNUlvUWxEbFhsem1WbEU3TDd5bk51bDJNVnJNbUdZa2xmb2FIYWhORWdmNEV"
+        },
+        {
           "headline": "Kharg Island, struck by US, is key hub for Iran oil exports - Reuters",
           "url": "https://www.reuters.com/business/energy/kharg-island-struck-by-us-is-key-hub-iran-oil-exports-2026-03-14/",
           "source": "Reuters",
@@ -3635,16 +3635,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQSWtjM1lUQW12N1hJQlBkU2d6V2o5THBxbWtWMWJFOHhzRXd0V3ljNlB6U1hFVDVVT3YyVDJaclByUTJ0dWIwbk9ZMUFIaFVSVDdHZ1dYZjVLQTBlNVFjTURZd1NrNWJjd19BcEN"
         },
         {
-          "headline": "Booming Taiwan can well afford more military spending, president says - Reuters",
-          "url": "https://www.reuters.com/business/aerospace-defense/booming-taiwan-can-well-afford-more-military-spending-president-says-2026-03-14/",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sat, 14 Mar 2026 04:27:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQUVNYLUFEQVl5MW9DSk9SdXBLNUxIdkZRVWJNcF8yWjB4TnVSYjg1aXZOYVJMU2w1Q0szVEl2ZXo3OFlYRGV3ZmZRQzRJSVNldFhYVFRaY0U5MEMxN3QtUnUxX2VJaUhDd1ltVnd"
-        },
-        {
           "headline": "Five US Air Force refueling planes hit in Iranian strike on Saudi Arabia, WSJ reports - Reuters",
           "url": "https://www.reuters.com/world/five-us-air-force-refueling-planes-hit-iranian-strike-saudi-arabia-wsj-reports-2026-03-13/",
           "source": "Reuters",
@@ -3653,6 +3643,16 @@
           "priority": "primary",
           "date": "Fri, 13 Mar 2026 23:25:45 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNay1OYk1XSDBJU0RfNGZMLXRMWUN2VE5KcHhpSDJNV1NYVzB1NVRkQTMxcnEtWnJWYkpkNlN5S0Jac0E3cURTOTdXdDh2dFRqY2tLV0l1NHhDUUE0RkhYblNCWE01dEdSQ0Rmd0h"
+        },
+        {
+          "headline": "Booming Taiwan can well afford more military spending, president says - Reuters",
+          "url": "https://www.reuters.com/business/aerospace-defense/booming-taiwan-can-well-afford-more-military-spending-president-says-2026-03-14/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sat, 14 Mar 2026 04:27:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQUVNYLUFEQVl5MW9DSk9SdXBLNUxIdkZRVWJNcF8yWjB4TnVSYjg1aXZOYVJMU2w1Q0szVEl2ZXo3OFlYRGV3ZmZRQzRJSVNldFhYVFRaY0U5MEMxN3QtUnUxX2VJaUhDd1ltVnd"
         },
         {
           "headline": "US FAA lifts ground stop at the three Washington-area airports - Reuters",
@@ -3673,16 +3673,6 @@
           "priority": "primary",
           "date": "Fri, 13 Mar 2026 23:20:39 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPS0NwcGFWTXlJUTE1U1EycGNqb3Fkclh4S3hoMnY3Z29qcm4xRHE0eV81a3A4V2FqdUhuem91c05YaFBPUmRHRWFOT195N3B2MWx2ZGdPaktNdTBRWGFJNnNRaGIycEZEak1KV0F"
-        },
-        {
-          "headline": "Trump administration set to receive $10 billion fee for brokering TikTok deal, WSJ reports - Reuters",
-          "url": "https://www.reuters.com/world/china/trump-administration-set-receive-10-billion-fee-brokering-tiktok-deal-wsj-2026-03-13/",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Fri, 13 Mar 2026 22:09:24 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOREdabzJib29PUUptaWRyTXBBbklDU04yeGFFLXRKeFp0WHJCbzczdlpKanhfVXBKMkVnamNqZ1VaUlA2SnZ4RXVmem44VWZqY0h0MXlodWZCT20tUk4wcWdiaUVDTGVRSHpCalp"
         },
         {
           "headline": "More US Marines and warships to be moved to Middle East, reports say",
@@ -3992,7 +3982,7 @@
           "description": "Israel says 91 hostages abducted on Oct. 7 remain in captivity, including the bodies of at least 34."
         },
         {
-          "headline": "Fire breaks out at UAE port after US hits military assets at Iranian export hub",
+          "headline": "UAE port struck after US hits military assets at Iranian export hub",
           "url": "https://www.ft.com/content/d1b23f3e-a976-4ff1-a653-4155e7a8695e",
           "source": "Financial Times",
           "sourceId": "ft_home",
@@ -4287,7 +4277,7 @@
           "sourceId": "nyt_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Sat, 14 Mar 2026 10:23:49 +0000",
+          "date": "Sat, 14 Mar 2026 10:49:06 +0000",
           "description": "President Trump said he directed the Pentagon to “totally obliterate” military assets on Kharg Island. The U.S. said it was deploying thousands of Marines to the region."
         },
         {
@@ -4581,7 +4571,7 @@
           "description": "Check out the stocks Heard on the Street writers favor in their eighth annual stock-picking contest."
         },
         {
-          "headline": "China edge Taiwan 2-0 in extra time to reach Women’s Asian Cup semifinals",
+          "headline": "China beat Taiwan 2-0 in extra time to reach Women’s Asian Cup semifinals",
           "url": "https://www.aljazeera.com/sports/2026/3/14/china-edge-taiwan-2-0-in-extra-time-to-reach-womens-asian-cup-semifinals?traffic_source=rss",
           "source": "Al Jazeera",
           "sourceId": "aljazeera",
@@ -4778,7 +4768,7 @@
           "description": ""
         },
         {
-          "headline": "Tyre residents refuse to evacuate Lebanon's Hezbollah bastion despite Israeli strikes",
+          "headline": "Residents refuse to leave the Lebanese Hezbollah bastion of Tyre despite Israeli strikes",
           "url": "https://www.france24.com/en/middle-east/20260314-tyre-residents-refuse-to-evacuate-lebanon-s-hezbollah-bastion-despite-israeli-strikes",
           "source": "France24",
           "sourceId": "france24",
@@ -4932,7 +4922,7 @@
         },
         {
           "headline": "UND Falls to North Dakota State in Summit League Tournament Championship - University of North Dakota Athletics",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSjdFcjN2TjdyZFB3a2Z6RGJaU19GakFJY1YyRzhSSTMxRUEtcHhYN0prbkFVNk1DdDlneTMwS05oQXZ2WmpmV2xUT2Y3NWFGdUhMcTU0SVQ4SXNyTWV2RHBDbE9XcTVFVlZtbUJHRlR4YUMzQ0otTXlEYndxSnM2UjJGcnJrWGx5OHRWNXV3UXJWSGxtbms5UTRaU3pUWWszZEppQTUzWnNQbVRfZTg3QXRzeVUyYXRHbkxnS0dfX2NUOXAzVTVjQnJLUlFxUQ?oc=5",
+          "url": "https://fightinghawks.com/news/2026/3/9/mens-basketball-und-falls-to-north-dakota-state-in-summit-league-tournament-championship.aspx",
           "source": "Daybook: International Events",
           "sourceId": "daybook_intl",
           "category": "daybook",
@@ -4952,7 +4942,7 @@
         },
         {
           "headline": "Bison advance to title game behind Koenen's 31-point effort - The Summit League",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYzJFSmdwaHdTUkI0ZHNoTk02cFJuVEF2T29SNVVqV0ZadWs0cEt2YnlDSm9Tdi1yT1Fmc3JVX0pUM0k4LVA3RHlsWVNYYUlMUU1qbHJaY1FpeVVFUXR0MEl2N1l3TVkxRTQ3WEx1c25kM2V5dWxlVDdJX2hsLUpmWmJXUEZCTU92Ti03eG13b3RUa1FYczliN2I5UWdyUQ?oc=5",
+          "url": "https://thesummitleague.org/news/2026/3/7/womens-basketball-summitwbb26-recap-semifinal-no-1.aspx",
           "source": "Daybook: International Events",
           "sourceId": "daybook_intl",
           "category": "daybook",
@@ -4991,6 +4981,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNX1V6RnJzeURnNkYwV1pfTmJLU1UzTTNlS0RHdmJUWmt0ZFFVX1ptMzhMWlZrRWU1cm9OUGhHdDNUdzFJN2hXakFzU255MFQ0RlB0aE1UWWxrNkc2aTRvMEI4NWxJRDk4Z3UzQXZ"
         },
         {
+          "headline": "Trump set to host a hemispheric summit in Doral — but only for his hemispheric friends - WUSF",
+          "url": "https://www.wusf.org/politics-issues/2026-03-07/trump-set-to-host-a-hemispheric-summit-in-doral-but-only-for-his-hemispheric-friends",
+          "source": "Daybook: International Events",
+          "sourceId": "daybook_intl",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Sat, 07 Mar 2026 12:21:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQbTRVVTNyWHQ5bWFiSHhuS3prazcxclZOSGozc2FPTzRtMkhfLXJOUVlvTlRVdlUybDJoWUk2OXBhMkVpUU5ZZkVQczN1S3JWbjlLX0UtaERxRmQ3U0RyU3R4MW41bWdSYnFQWTN"
+        },
+        {
           "headline": "Macron to host G7 leaders call on Iran crisis, energy prices - Reuters",
           "url": "https://www.reuters.com/world/macron-host-g7-leaders-call-iran-crisis-energy-prices-2026-03-10/",
           "source": "Daybook: International Events",
@@ -5009,16 +5009,6 @@
           "priority": "reference",
           "date": "Sun, 08 Mar 2026 11:12:45 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPLTZ3Qm9mRm8tRFNYd1hIc0wzWTJYUjllaS1wOTJwZUtCbDAtQ19Rc2NQYjZVMnVzQ3U1eGR1bTFPWkg1VjRheGo3S01zV1hYQWYzLWZfN3JvUFJ6QThsZVJhQ3pNN0NneUxzX2h"
-        },
-        {
-          "headline": "Trump convenes ‘Shield of Americas’ summit with 12 Latin American leaders - The Guardian",
-          "url": "https://www.theguardian.com/us-news/2026/mar/07/trump-shield-of-americas-summit",
-          "source": "Daybook: International Events",
-          "sourceId": "daybook_intl",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Sat, 07 Mar 2026 20:26:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQT0FrU2JRV0QtLWk1aERFajRMMXFBTmNTMmpIT2NWaTdac3NscEhlSFhQUzhXcm1UYm50ZzIzVnhIQS1lRkhUWF9qRzZUSnVfQkVRTkYzR1RqU09UZlpGSUtzdU5aRF8tQmx1Z3l"
         },
         {
           "headline": "G7 Leaders’ Online Meeting - mofa.go.jp",
@@ -5071,17 +5061,7 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOTVNINzFPb096Ynk4c0lQVFdkeC1EOGg1MTZodXhPTnNwLUFsd2JkMGxhUUlZaFNmR3dORm1OenBveENyQnBqaEZoYjJudDFHUzFMVFBzMEd3dEFUN1pKODBSajM3Q2EzNW1JY08"
         },
         {
-          "headline": "‘It was a real happy day for us’ | Bandits GM Steve Dietrich talks trade deadline deals - Buffalo Bandits",
-          "url": "https://bandits.com/it-was-a-real-happy-day-for-us-bandits-gm-steve-dietrich-talks-trade-deadline-deals/",
-          "source": "Daybook: Economic Calendar",
-          "sourceId": "daybook_econ",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Wed, 11 Mar 2026 23:54:25 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNUTdDN3pUcVRtNXhMZVA5a2Fjd0FVc0U4NUIzdndwZGpob095NkgtYUVYdTB4RzFwYkJBYlQwWEdpMXJLcFBuWFhfRElzaWk0alJZS2t6MG03NUVxTEhHTGMxZ0RJamxjblUxZUh"
-        },
-        {
-          "headline": "March Fed Meeting Unpacked: A Checkpoint for the Markets - Lord, Abbett &amp; Co LLC",
+          "headline": "March Fed Meeting Unpacked: A Checkpoint for the Markets - Lord Abbett",
           "url": "https://www.lordabbett.com/en-us/institutional-investor/events/webinars/2026/march-fed-meeting-unpacked-a-checkpoint-for-the-markets.html",
           "source": "Daybook: Economic Calendar",
           "sourceId": "daybook_econ",
@@ -5091,14 +5071,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeW5OdDlrYjI1NWlUVnhQZkR4amZiUThIc2tjOXVYVHZvXy1GWUMzUWRQZ282OEdMdXBYdUttajQ3VnIzMTRhNmVNR3RFclFsMVFhcXFtYnA1RExUNi00RVBRT3FtX0lwd1hJRkR"
         },
         {
-          "headline": "Rangers finding success post NHL trade deadline behind new-look top line - SNY",
-          "url": "https://sny.tv/articles/rangers-finding-success-post-nhl-trade-deadline-new-top-line",
+          "headline": "‘It was a real happy day for us’ | Bandits GM Steve Dietrich talks trade deadline deals - Buffalo Bandits",
+          "url": "https://bandits.com/it-was-a-real-happy-day-for-us-bandits-gm-steve-dietrich-talks-trade-deadline-deals/",
           "source": "Daybook: Economic Calendar",
           "sourceId": "daybook_econ",
           "category": "daybook",
           "priority": "reference",
-          "date": "Wed, 11 Mar 2026 21:41:57 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNcmdtSmc2WHRNVVlDTnN0cDBaRU51TDUzY1dXaDBQSHpQcVVDOW9ZbW5kaGlETHFTRlozUGtKUWJzdEZHYi1SMEpKcEN5cTRQTTkxc1Q5S3E0UFFXMXp2a0NiOW41SEFZRHdfbk5"
+          "date": "Wed, 11 Mar 2026 23:54:25 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNUTdDN3pUcVRtNXhMZVA5a2Fjd0FVc0U4NUIzdndwZGpob095NkgtYUVYdTB4RzFwYkJBYlQwWEdpMXJLcFBuWFhfRElzaWk0alJZS2t6MG03NUVxTEhHTGMxZ0RJamxjblUxZUh"
         },
         {
           "headline": "3 things homebuyers should avoid before the March Fed meeting - CBS News",
@@ -5111,8 +5091,18 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNdkNfTDVVbXltaVNSaktjbFNhRFB5REpkQTNYQ1VpSTA2OFhKaWN2MllwWEF1am1nVVlSTmI0NlhTazd4U1lfVDZpS29fVGJ5RjZ4OVdZQnFDYXRseUhRenk3ellQZk5RenNJS3N"
         },
         {
+          "headline": "Rangers finding success post NHL trade deadline behind new-look top line - SNY",
+          "url": "https://sny.tv/articles/rangers-finding-success-post-nhl-trade-deadline-new-top-line",
+          "source": "Daybook: Economic Calendar",
+          "sourceId": "daybook_econ",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Wed, 11 Mar 2026 21:41:57 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNcmdtSmc2WHRNVVlDTnN0cDBaRU51TDUzY1dXaDBQSHpQcVVDOW9ZbW5kaGlETHFTRlozUGtKUWJzdEZHYi1SMEpKcEN5cTRQTTkxc1Q5S3E0UFFXMXp2a0NiOW41SEFZRHdfbk5"
+        },
+        {
           "headline": "NHL post-trade deadline: Playoff races, tank ranks and whatever the Blues are doing - The Athletic - The New York Times",
-          "url": "https://www.nytimes.com/athletic/7104467/2026/03/10/nhl-trade-deadline-playoffs-race-red-light/",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYUZRS3Vuc2tVZ3Z3XzJGNjk2Ql9KdUllamdmVUF3SGFBSTR0Y25UQzZlajk3bjBLcHlST2RMVXgza2lCeEZlM3BRQkxuX1lNeE9hQVB4QlBDcHVoTlVrQU1TQXBkUlpGd2I5WDkzLXMtOXNSeWFENXd4N3FSZTZFMlhwa3J0b2RIUl9CXzRPOGx0QUVqTlU1OGlhOA?oc=5",
           "source": "Daybook: Economic Calendar",
           "sourceId": "daybook_econ",
           "category": "daybook",
@@ -5121,24 +5111,24 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPYUZRS3Vuc2tVZ3Z3XzJGNjk2Ql9KdUllamdmVUF3SGFBSTR0Y25UQzZlajk3bjBLcHlST2RMVXgza2lCeEZlM3BRQkxuX1lNeE9hQVB4QlBDcHVoTlVrQU1TQXBkUlpGd2I5WDk"
         },
         {
-          "headline": "Anaheim Ducks 2026 Trade Deadline Review - The Hockey News",
-          "url": "https://thehockeynews.com/nhl/anaheim-ducks/latest-news/anaheim-ducks-2026-trade-deadline-review",
+          "headline": "Ashlyn Sullivan's 3 takeaways from the Flyers' NHL trade deadline - NBC Sports Philadelphia",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRUxKamZxM1NUTmFFRk1ydW5UMnB0eTdkRTQxNEtKQmU4ekt4UlMzclI5TmpsN1FqMVI4VG5NcmZ6NjI0YTFiZzZ3RlJUeTNaajh6N2dvLWpsT2czZ2g4VEJOOWhrMzFieFVYMUpvaHNhaTFFb0FaSU5LUTVPRWlBelhQY0o0NXQ3RlItcVVBUlFCLTFfYXI2aG9WYmtkY1U3dl9ZamZXcGRVTDZSRHNMSGZvN2FmUER6NEpxcmNWNWF5ekQxVEpB0gHPAUFVX3lxTE8zSnBXdTlxZHU2SGFFYTFZTEdLc1B5YVdUR3dkQll6eThacGFPUHpCWU04aHZnYkpsNXhpWDRoV0ZIVVZiOEZ0eFFMeEU0QlQyZXdiNmpzZ0Q2RlQ5d0JTY0xIRWk5eS1hRWZacjE0bDY3QmdITWFVdkx3WEt5a0tZUlJvNTk3aHAyaEV6M09WU2Q2UVFGQ3l1WDl6eGtRYXlkYW1uN2FTVl9lNm5OaDFNV1lBdVZOUzlraTdXQUF1R3VjeFdtTnVGZ3puSGdqbw?oc=5",
           "source": "Daybook: Economic Calendar",
           "sourceId": "daybook_econ",
           "category": "daybook",
           "priority": "reference",
-          "date": "Sun, 08 Mar 2026 04:46:30 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPaTdxQWV1T2N3WVJrVWc5aWdqRF93RnY5LTNtUHFyMTg1TV9tbGF5ZFpzamlVVTZNV0h2bUpqNXdTMmpFRzlETllFY2Z0UkZ5VV9YaW1rdTR6T3hEdjlKVUVoVFpLeWNzSWJIVmp"
+          "date": "Sat, 07 Mar 2026 20:09:19 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPRUxKamZxM1NUTmFFRk1ydW5UMnB0eTdkRTQxNEtKQmU4ekt4UlMzclI5TmpsN1FqMVI4VG5NcmZ6NjI0YTFiZzZ3RlJUeTNaajh6N2dvLWpsT2czZ2g4VEJOOWhrMzFieFVYMUp"
         },
         {
           "headline": "Alibaba Stock Is Down but Not Out. Its Earnings Report Should Boost Shares. - Barron's",
-          "url": "https://www.barrons.com/articles/alibaba-baba-stock-price-earnings-b0e4dde4?gaa_at=eafs&gaa_n=AWEtsqfZ6Gtrx1jPEJ5qv78PdbyuEFZCljSb8B5qoDiBDwSEkkzn12psuxJg&gaa_ts=69b53c75&gaa_sig=ZtP4xu3TpXklGUTTBQY3imb9NG1KiNgN4GoXy4RxB05HiQGTAcX7BIS5vJ_g-NXAkHvESifFW6A_r0r4YUwjlA%3D%3D",
+          "url": "https://www.barrons.com/articles/alibaba-baba-stock-price-earnings-b0e4dde4?gaa_at=eafs&gaa_n=AWEtsqcSeMtn1IF-1AFSjJ9ZQKuslh8xHW2p0f5fYXqDHCl-ucrLU6CYN5wZ&gaa_ts=69b541e8&gaa_sig=sEh2jfSeje7gP__icGucJalNrGDTKKPvufJ9hNyNns2VLzZq7wjAEWDVlos_Q5mOMumzjBVYsM4rJ2fvdAJ_6A%3D%3D",
           "source": "Daybook: Economic Calendar",
           "sourceId": "daybook_econ",
           "category": "daybook",
           "priority": "reference",
           "date": "Thu, 12 Mar 2026 12:40:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgNBVV95cUxNWW9QOEl2OTMxaUlyQzBYcUlEdGVRcUlHMjFmeUVnQ1J0cWRWb19LSlFLSTROU0RXZWRCX3NtVXBNZTl4M2dWcjJKWHVMeVp2Yl9JNFY0NzJDSGJ1MWxfN2cySElfVEpTbWxVQWl"
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgNBVV95cUxONnZ0ckpHU280d1lzaVhWVjc3eGY3QkxHenNxeTN5aDcydkQySUdxajRhZW1EMU0zWE9ITEVKemxDekxuT0RLNmY3c1F2SlZTM1J3WVdsS1F5UVR4Snc2ZkpsZFFqRC04TTV0cFV"
         },
         {
           "headline": "Fantasy spin on 2026 NHL Trade Deadline - NHL.com",
@@ -5281,16 +5271,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNHRqZHdTbTRvamFnRXg4S0Z2R1k3TWkwZlZNSWZQZGhpZTVGUVdUYTVUX1lWeVlDallNLUNpR3p2VFIzM3VSc3lZVmgtcmY0S0hLa0tYNjQ0WFoxRXpZWDdiZzVXTy02V2dWTF9"
         },
         {
-          "headline": "Large Item Pickup Scheduled for Unincorporated Areas of Dare County - Dare County (.gov)",
-          "url": "https://www.darenc.gov/Home/Components/News/News/9463/17",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Fri, 13 Mar 2026 17:28:48 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDOHQzX0dPdEVrbVVHeHNZVmlBNnVxSERBaFljX3V0LVBaamQ3Q3lJQUQ5eGdoTzRKenpVdG1WdENkYmp3WC15WGI0b1kwd3o1YkpreFB4RWVDT2IyWThTN1E4SUFMdEU?oc=5\" t"
-        },
-        {
           "headline": "Benefit scheduled for Sunday for family battling pancreatic cancer - timesobserver.com",
           "url": "https://www.timesobserver.com/news/local-news/2026/03/benefit-scheduled-for-sunday-for-family-battling-pancreatic-cancer/",
           "source": "Daybook: Scheduled Events",
@@ -5299,6 +5279,16 @@
           "priority": "reference",
           "date": "Sat, 14 Mar 2026 04:54:19 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQWUs3dl8xSWE0eEZMMC01Ym0zWk9GMVRVSHoyUk9JWGc2MnZRWjlPQlpETVFVWWZ6QjJqNlVEaU54cFBqaF9KaER1M1liYTZvTlJfVmxzMVlmQ3B6TklkdFM5UlBkRS1ZalJOUnN"
+        },
+        {
+          "headline": "Large Item Pickup Scheduled for Unincorporated Areas of Dare County - Dare County (.gov)",
+          "url": "https://www.darenc.gov/Home/Components/News/News/9463/17",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Fri, 13 Mar 2026 17:28:48 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDOHQzX0dPdEVrbVVHeHNZVmlBNnVxSERBaFljX3V0LVBaamQ3Q3lJQUQ5eGdoTzRKenpVdG1WdENkYmp3WC15WGI0b1kwd3o1YkpreFB4RWVDT2IyWThTN1E4SUFMdEU?oc=5\" t"
         },
         {
           "headline": "Steven Spielberg Talks 'Disclosure Day,' Aliens, Western In Development - Deadline",
@@ -5386,7 +5376,7 @@
     },
     {
       "headline": "UND Falls to North Dakota State in Summit League Tournament Championship - University of North Dakota Athletics",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSjdFcjN2TjdyZFB3a2Z6RGJaU19GakFJY1YyRzhSSTMxRUEtcHhYN0prbkFVNk1DdDlneTMwS05oQXZ2WmpmV2xUT2Y3NWFGdUhMcTU0SVQ4SXNyTWV2RHBDbE9XcTVFVlZtbUJHRlR4YUMzQ0otTXlEYndxSnM2UjJGcnJrWGx5OHRWNXV3UXJWSGxtbms5UTRaU3pUWWszZEppQTUzWnNQbVRfZTg3QXRzeVUyYXRHbkxnS0dfX2NUOXAzVTVjQnJLUlFxUQ?oc=5",
+      "url": "https://fightinghawks.com/news/2026/3/9/mens-basketball-und-falls-to-north-dakota-state-in-summit-league-tournament-championship.aspx",
       "source": "Daybook: International Events",
       "sourceId": "daybook_intl",
       "category": "daybook",
@@ -5406,7 +5396,7 @@
     },
     {
       "headline": "Bison advance to title game behind Koenen's 31-point effort - The Summit League",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYzJFSmdwaHdTUkI0ZHNoTk02cFJuVEF2T29SNVVqV0ZadWs0cEt2YnlDSm9Tdi1yT1Fmc3JVX0pUM0k4LVA3RHlsWVNYYUlMUU1qbHJaY1FpeVVFUXR0MEl2N1l3TVkxRTQ3WEx1c25kM2V5dWxlVDdJX2hsLUpmWmJXUEZCTU92Ti03eG13b3RUa1FYczliN2I5UWdyUQ?oc=5",
+      "url": "https://thesummitleague.org/news/2026/3/7/womens-basketball-summitwbb26-recap-semifinal-no-1.aspx",
       "source": "Daybook: International Events",
       "sourceId": "daybook_intl",
       "category": "daybook",
@@ -5445,6 +5435,16 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNX1V6RnJzeURnNkYwV1pfTmJLU1UzTTNlS0RHdmJUWmt0ZFFVX1ptMzhMWlZrRWU1cm9OUGhHdDNUdzFJN2hXakFzU255MFQ0RlB0aE1UWWxrNkc2aTRvMEI4NWxJRDk4Z3UzQXZ"
     },
     {
+      "headline": "Trump set to host a hemispheric summit in Doral — but only for his hemispheric friends - WUSF",
+      "url": "https://www.wusf.org/politics-issues/2026-03-07/trump-set-to-host-a-hemispheric-summit-in-doral-but-only-for-his-hemispheric-friends",
+      "source": "Daybook: International Events",
+      "sourceId": "daybook_intl",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Sat, 07 Mar 2026 12:21:00 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQbTRVVTNyWHQ5bWFiSHhuS3prazcxclZOSGozc2FPTzRtMkhfLXJOUVlvTlRVdlUybDJoWUk2OXBhMkVpUU5ZZkVQczN1S3JWbjlLX0UtaERxRmQ3U0RyU3R4MW41bWdSYnFQWTN"
+    },
+    {
       "headline": "Macron to host G7 leaders call on Iran crisis, energy prices - Reuters",
       "url": "https://www.reuters.com/world/macron-host-g7-leaders-call-iran-crisis-energy-prices-2026-03-10/",
       "source": "Daybook: International Events",
@@ -5463,16 +5463,6 @@
       "priority": "reference",
       "date": "Sun, 08 Mar 2026 11:12:45 GMT",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPLTZ3Qm9mRm8tRFNYd1hIc0wzWTJYUjllaS1wOTJwZUtCbDAtQ19Rc2NQYjZVMnVzQ3U1eGR1bTFPWkg1VjRheGo3S01zV1hYQWYzLWZfN3JvUFJ6QThsZVJhQ3pNN0NneUxzX2h"
-    },
-    {
-      "headline": "Trump convenes ‘Shield of Americas’ summit with 12 Latin American leaders - The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/mar/07/trump-shield-of-americas-summit",
-      "source": "Daybook: International Events",
-      "sourceId": "daybook_intl",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Sat, 07 Mar 2026 20:26:00 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQT0FrU2JRV0QtLWk1aERFajRMMXFBTmNTMmpIT2NWaTdac3NscEhlSFhQUzhXcm1UYm50ZzIzVnhIQS1lRkhUWF9qRzZUSnVfQkVRTkYzR1RqU09UZlpGSUtzdU5aRF8tQmx1Z3l"
     },
     {
       "headline": "G7 Leaders’ Online Meeting - mofa.go.jp",
@@ -5525,17 +5515,7 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOTVNINzFPb096Ynk4c0lQVFdkeC1EOGg1MTZodXhPTnNwLUFsd2JkMGxhUUlZaFNmR3dORm1OenBveENyQnBqaEZoYjJudDFHUzFMVFBzMEd3dEFUN1pKODBSajM3Q2EzNW1JY08"
     },
     {
-      "headline": "‘It was a real happy day for us’ | Bandits GM Steve Dietrich talks trade deadline deals - Buffalo Bandits",
-      "url": "https://bandits.com/it-was-a-real-happy-day-for-us-bandits-gm-steve-dietrich-talks-trade-deadline-deals/",
-      "source": "Daybook: Economic Calendar",
-      "sourceId": "daybook_econ",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Wed, 11 Mar 2026 23:54:25 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNUTdDN3pUcVRtNXhMZVA5a2Fjd0FVc0U4NUIzdndwZGpob095NkgtYUVYdTB4RzFwYkJBYlQwWEdpMXJLcFBuWFhfRElzaWk0alJZS2t6MG03NUVxTEhHTGMxZ0RJamxjblUxZUh"
-    },
-    {
-      "headline": "March Fed Meeting Unpacked: A Checkpoint for the Markets - Lord, Abbett &amp; Co LLC",
+      "headline": "March Fed Meeting Unpacked: A Checkpoint for the Markets - Lord Abbett",
       "url": "https://www.lordabbett.com/en-us/institutional-investor/events/webinars/2026/march-fed-meeting-unpacked-a-checkpoint-for-the-markets.html",
       "source": "Daybook: Economic Calendar",
       "sourceId": "daybook_econ",
@@ -5545,14 +5525,14 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeW5OdDlrYjI1NWlUVnhQZkR4amZiUThIc2tjOXVYVHZvXy1GWUMzUWRQZ282OEdMdXBYdUttajQ3VnIzMTRhNmVNR3RFclFsMVFhcXFtYnA1RExUNi00RVBRT3FtX0lwd1hJRkR"
     },
     {
-      "headline": "Rangers finding success post NHL trade deadline behind new-look top line - SNY",
-      "url": "https://sny.tv/articles/rangers-finding-success-post-nhl-trade-deadline-new-top-line",
+      "headline": "‘It was a real happy day for us’ | Bandits GM Steve Dietrich talks trade deadline deals - Buffalo Bandits",
+      "url": "https://bandits.com/it-was-a-real-happy-day-for-us-bandits-gm-steve-dietrich-talks-trade-deadline-deals/",
       "source": "Daybook: Economic Calendar",
       "sourceId": "daybook_econ",
       "category": "daybook",
       "priority": "reference",
-      "date": "Wed, 11 Mar 2026 21:41:57 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNcmdtSmc2WHRNVVlDTnN0cDBaRU51TDUzY1dXaDBQSHpQcVVDOW9ZbW5kaGlETHFTRlozUGtKUWJzdEZHYi1SMEpKcEN5cTRQTTkxc1Q5S3E0UFFXMXp2a0NiOW41SEFZRHdfbk5"
+      "date": "Wed, 11 Mar 2026 23:54:25 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNUTdDN3pUcVRtNXhMZVA5a2Fjd0FVc0U4NUIzdndwZGpob095NkgtYUVYdTB4RzFwYkJBYlQwWEdpMXJLcFBuWFhfRElzaWk0alJZS2t6MG03NUVxTEhHTGMxZ0RJamxjblUxZUh"
     },
     {
       "headline": "3 things homebuyers should avoid before the March Fed meeting - CBS News",
@@ -5565,8 +5545,18 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNdkNfTDVVbXltaVNSaktjbFNhRFB5REpkQTNYQ1VpSTA2OFhKaWN2MllwWEF1am1nVVlSTmI0NlhTazd4U1lfVDZpS29fVGJ5RjZ4OVdZQnFDYXRseUhRenk3ellQZk5RenNJS3N"
     },
     {
+      "headline": "Rangers finding success post NHL trade deadline behind new-look top line - SNY",
+      "url": "https://sny.tv/articles/rangers-finding-success-post-nhl-trade-deadline-new-top-line",
+      "source": "Daybook: Economic Calendar",
+      "sourceId": "daybook_econ",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Wed, 11 Mar 2026 21:41:57 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNcmdtSmc2WHRNVVlDTnN0cDBaRU51TDUzY1dXaDBQSHpQcVVDOW9ZbW5kaGlETHFTRlozUGtKUWJzdEZHYi1SMEpKcEN5cTRQTTkxc1Q5S3E0UFFXMXp2a0NiOW41SEFZRHdfbk5"
+    },
+    {
       "headline": "NHL post-trade deadline: Playoff races, tank ranks and whatever the Blues are doing - The Athletic - The New York Times",
-      "url": "https://www.nytimes.com/athletic/7104467/2026/03/10/nhl-trade-deadline-playoffs-race-red-light/",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYUZRS3Vuc2tVZ3Z3XzJGNjk2Ql9KdUllamdmVUF3SGFBSTR0Y25UQzZlajk3bjBLcHlST2RMVXgza2lCeEZlM3BRQkxuX1lNeE9hQVB4QlBDcHVoTlVrQU1TQXBkUlpGd2I5WDkzLXMtOXNSeWFENXd4N3FSZTZFMlhwa3J0b2RIUl9CXzRPOGx0QUVqTlU1OGlhOA?oc=5",
       "source": "Daybook: Economic Calendar",
       "sourceId": "daybook_econ",
       "category": "daybook",
@@ -5575,24 +5565,24 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPYUZRS3Vuc2tVZ3Z3XzJGNjk2Ql9KdUllamdmVUF3SGFBSTR0Y25UQzZlajk3bjBLcHlST2RMVXgza2lCeEZlM3BRQkxuX1lNeE9hQVB4QlBDcHVoTlVrQU1TQXBkUlpGd2I5WDk"
     },
     {
-      "headline": "Anaheim Ducks 2026 Trade Deadline Review - The Hockey News",
-      "url": "https://thehockeynews.com/nhl/anaheim-ducks/latest-news/anaheim-ducks-2026-trade-deadline-review",
+      "headline": "Ashlyn Sullivan's 3 takeaways from the Flyers' NHL trade deadline - NBC Sports Philadelphia",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRUxKamZxM1NUTmFFRk1ydW5UMnB0eTdkRTQxNEtKQmU4ekt4UlMzclI5TmpsN1FqMVI4VG5NcmZ6NjI0YTFiZzZ3RlJUeTNaajh6N2dvLWpsT2czZ2g4VEJOOWhrMzFieFVYMUpvaHNhaTFFb0FaSU5LUTVPRWlBelhQY0o0NXQ3RlItcVVBUlFCLTFfYXI2aG9WYmtkY1U3dl9ZamZXcGRVTDZSRHNMSGZvN2FmUER6NEpxcmNWNWF5ekQxVEpB0gHPAUFVX3lxTE8zSnBXdTlxZHU2SGFFYTFZTEdLc1B5YVdUR3dkQll6eThacGFPUHpCWU04aHZnYkpsNXhpWDRoV0ZIVVZiOEZ0eFFMeEU0QlQyZXdiNmpzZ0Q2RlQ5d0JTY0xIRWk5eS1hRWZacjE0bDY3QmdITWFVdkx3WEt5a0tZUlJvNTk3aHAyaEV6M09WU2Q2UVFGQ3l1WDl6eGtRYXlkYW1uN2FTVl9lNm5OaDFNV1lBdVZOUzlraTdXQUF1R3VjeFdtTnVGZ3puSGdqbw?oc=5",
       "source": "Daybook: Economic Calendar",
       "sourceId": "daybook_econ",
       "category": "daybook",
       "priority": "reference",
-      "date": "Sun, 08 Mar 2026 04:46:30 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPaTdxQWV1T2N3WVJrVWc5aWdqRF93RnY5LTNtUHFyMTg1TV9tbGF5ZFpzamlVVTZNV0h2bUpqNXdTMmpFRzlETllFY2Z0UkZ5VV9YaW1rdTR6T3hEdjlKVUVoVFpLeWNzSWJIVmp"
+      "date": "Sat, 07 Mar 2026 20:09:19 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPRUxKamZxM1NUTmFFRk1ydW5UMnB0eTdkRTQxNEtKQmU4ekt4UlMzclI5TmpsN1FqMVI4VG5NcmZ6NjI0YTFiZzZ3RlJUeTNaajh6N2dvLWpsT2czZ2g4VEJOOWhrMzFieFVYMUp"
     },
     {
       "headline": "Alibaba Stock Is Down but Not Out. Its Earnings Report Should Boost Shares. - Barron's",
-      "url": "https://www.barrons.com/articles/alibaba-baba-stock-price-earnings-b0e4dde4?gaa_at=eafs&gaa_n=AWEtsqfZ6Gtrx1jPEJ5qv78PdbyuEFZCljSb8B5qoDiBDwSEkkzn12psuxJg&gaa_ts=69b53c75&gaa_sig=ZtP4xu3TpXklGUTTBQY3imb9NG1KiNgN4GoXy4RxB05HiQGTAcX7BIS5vJ_g-NXAkHvESifFW6A_r0r4YUwjlA%3D%3D",
+      "url": "https://www.barrons.com/articles/alibaba-baba-stock-price-earnings-b0e4dde4?gaa_at=eafs&gaa_n=AWEtsqcSeMtn1IF-1AFSjJ9ZQKuslh8xHW2p0f5fYXqDHCl-ucrLU6CYN5wZ&gaa_ts=69b541e8&gaa_sig=sEh2jfSeje7gP__icGucJalNrGDTKKPvufJ9hNyNns2VLzZq7wjAEWDVlos_Q5mOMumzjBVYsM4rJ2fvdAJ_6A%3D%3D",
       "source": "Daybook: Economic Calendar",
       "sourceId": "daybook_econ",
       "category": "daybook",
       "priority": "reference",
       "date": "Thu, 12 Mar 2026 12:40:00 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgNBVV95cUxNWW9QOEl2OTMxaUlyQzBYcUlEdGVRcUlHMjFmeUVnQ1J0cWRWb19LSlFLSTROU0RXZWRCX3NtVXBNZTl4M2dWcjJKWHVMeVp2Yl9JNFY0NzJDSGJ1MWxfN2cySElfVEpTbWxVQWl"
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgNBVV95cUxONnZ0ckpHU280d1lzaVhWVjc3eGY3QkxHenNxeTN5aDcydkQySUdxajRhZW1EMU0zWE9ITEVKemxDekxuT0RLNmY3c1F2SlZTM1J3WVdsS1F5UVR4Snc2ZkpsZFFqRC04TTV0cFV"
     },
     {
       "headline": "Fantasy spin on 2026 NHL Trade Deadline - NHL.com",
@@ -5735,16 +5725,6 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNHRqZHdTbTRvamFnRXg4S0Z2R1k3TWkwZlZNSWZQZGhpZTVGUVdUYTVUX1lWeVlDallNLUNpR3p2VFIzM3VSc3lZVmgtcmY0S0hLa0tYNjQ0WFoxRXpZWDdiZzVXTy02V2dWTF9"
     },
     {
-      "headline": "Large Item Pickup Scheduled for Unincorporated Areas of Dare County - Dare County (.gov)",
-      "url": "https://www.darenc.gov/Home/Components/News/News/9463/17",
-      "source": "Daybook: Scheduled Events",
-      "sourceId": "daybook_scheduled",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Fri, 13 Mar 2026 17:28:48 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDOHQzX0dPdEVrbVVHeHNZVmlBNnVxSERBaFljX3V0LVBaamQ3Q3lJQUQ5eGdoTzRKenpVdG1WdENkYmp3WC15WGI0b1kwd3o1YkpreFB4RWVDT2IyWThTN1E4SUFMdEU?oc=5\" t"
-    },
-    {
       "headline": "Benefit scheduled for Sunday for family battling pancreatic cancer - timesobserver.com",
       "url": "https://www.timesobserver.com/news/local-news/2026/03/benefit-scheduled-for-sunday-for-family-battling-pancreatic-cancer/",
       "source": "Daybook: Scheduled Events",
@@ -5753,6 +5733,16 @@
       "priority": "reference",
       "date": "Sat, 14 Mar 2026 04:54:19 GMT",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQWUs3dl8xSWE0eEZMMC01Ym0zWk9GMVRVSHoyUk9JWGc2MnZRWjlPQlpETVFVWWZ6QjJqNlVEaU54cFBqaF9KaER1M1liYTZvTlJfVmxzMVlmQ3B6TklkdFM5UlBkRS1ZalJOUnN"
+    },
+    {
+      "headline": "Large Item Pickup Scheduled for Unincorporated Areas of Dare County - Dare County (.gov)",
+      "url": "https://www.darenc.gov/Home/Components/News/News/9463/17",
+      "source": "Daybook: Scheduled Events",
+      "sourceId": "daybook_scheduled",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Fri, 13 Mar 2026 17:28:48 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDOHQzX0dPdEVrbVVHeHNZVmlBNnVxSERBaFljX3V0LVBaamQ3Q3lJQUQ5eGdoTzRKenpVdG1WdENkYmp3WC15WGI0b1kwd3o1YkpreFB4RWVDT2IyWThTN1E4SUFMdEU?oc=5\" t"
     },
     {
       "headline": "Steven Spielberg Talks 'Disclosure Day,' Aliens, Western In Development - Deadline",
@@ -5875,14 +5865,14 @@
       "priority": "primary",
       "topHeadlines": [
         "Trump threatens Iran’s oil infrastructure after US bombs Kharg Island military sites",
-        "Jet fuel prices are rising. That could make summer flights more expensive",
+        "The islands off Iran’s southern coast are key to its economy and security. What to know about them",
         "US bombs military sites on Iranian island as Trump threatens its oil infrastructure",
         "What to know about the Jones Act as Trump considers a waiver during the Iran war",
+        "State Department slashes fee to renounce US citizenship by 80% to $450",
         "Trump ally Ric Grenell stepping down as Kennedy Center president",
         "Judge quashes subpoenas in Justice Department’s investigation of Fed chair Jerome Powell",
         "Trump signs executive orders aimed at addressing home affordability concerns ahead of midterms",
-        "Offshore wind project targeted by Trump administration starts sending power to the New England grid",
-        "State Department slashes fee to renounce US citizenship by 80% to $450",
+        "War has already displaced nearly a million Lebanese, and aid groups warn of a humanitarian crisis",
         "North Korea fires about 10 missiles toward sea in show of force, Seoul says"
       ]
     },
@@ -5940,7 +5930,7 @@
         "Paul Taylor History shows us foreign meddling makes things worse",
         "My mother's advice Go in to bat for the ones you love",
         "Middle East crisis",
-        "Middle East crisis live Iran warns of retaliation after Trump says military targets on Kharg Island ‘obliterated’",
+        "Middle East crisis live Iran threatens US ‘hideouts’ in UAE after Trump says military targets on Kharg Island ‘obliterated’",
         "‘No clear goal’Lack of Iran war plan has unleashed chaos and could stymie US military for decades, say critics"
       ]
     },
