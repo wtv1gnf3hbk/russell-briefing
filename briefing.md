@@ -2,48 +2,46 @@ Good morning, Russell! Here's what happened while you were sleeping.
 
 **Top Stories**
 
-- Oil prices [spiked above](https://www.ft.com/content/32726bce-ec4e-4251-8f33-10c15806fbc6) $100 per barrel as the IEA warned that Iran's war is causing "the largest disruption in history" to global oil supplies, per the Financial Times.
+- The US [bombed military](https://apnews.com/article/iran-iraq-us-trump-march-14-2026-oil-prices-a2399398b4c590995b814d7640362a11) sites on Iran's Kharg Island as Trump threatens the country's oil infrastructure, according to AP.
 
-- Iran [claimed responsibility](https://www.nytimes.com/live/2026/03/12/world/iran-war-news-trump-oil-israel) for striking oil tankers burning off the Iraqi coast as Iraq closed oil terminals following growing attacks on energy infrastructure.
+- A [fire broke](https://www.ft.com/content/d1b23f3e-a976-4ff1-a653-4155e7a8695e) out at a UAE port after the US strikes on Iranian assets, the FT reports, with authorities saying the Fujairah attack was intercepted.
 
-- China [approved an](https://www.bbc.com/news/articles/cp9meeek051o) "ethnic unity" law requiring minority children to learn Mandarin from before kindergarten through high school.
+- Missiles [struck the](https://www.reuters.com/world/middle-east/us-embassy-iraqs-baghdad-hit-missiles-attack-security-sources-say-2026-03-14/) US embassy compound in Baghdad, hitting a helipad, Reuters reports.
 
-- Celebrity chef René Redzepi [resigned from](https://apnews.com/article/noma-rene-redzepi-denmark-abuse-allegations-43685e19c75849a0f7f48c487205ce4d) his iconic Danish restaurant Noma following abuse allegations, AP reports.
+- An [explosion at](https://www.bbc.com/news/articles/cwyg4j58gdyo?at_medium=RSS&amp;at_campaign=rss) an Amsterdam Jewish school was "a deliberate attack," the city's mayor said, per the BBC.
 
-- Israeli strikes [hit central](https://www.france24.com/en/video/20260312-war-in-the-middle-east-heavy-israeli-strikes-hit-central-beirut) Beirut while new waves of Hezbollah missiles targeted Israel, according to France24.
+- North Korea [fired 10](https://www.reuters.com/world/asia-pacific/north-korea-fires-possible-missile-towards-sea-during-us-south-korea-drills-2026-03-14/) ballistic missiles during US-South Korea military drills, Reuters reports.
 
-- Death toll from Ethiopia floods and landslides [rose to](https://www.bbc.com/news/articles/ce947x4m0e1o) more than 60 as forecasters warn storms are intensifying due to global warming.
+- At least [112 people](https://www.aljazeera.com/news/2026/3/14/more-than-110-people-killed-in-irans-kurdistan-official?traffic_source=rss) were killed in US-Israel attacks on Iran's Kurdistan province with 969 injured, Al Jazeera reports, citing local officials.
+
+- A [French soldier](https://www.france24.com/en/middle-east/20260314-french-soldier-killed-by-iran-made-drone-was-in-iraq-on-anti-jihad-operation) was killed by an Iranian drone while on an anti-jihad mission in Iraq, France24 reports.
 
 **Conflicts & Diplomacy**
 
-- Ukrainian President Zelenskyy said Ukraine [awaits White](https://apnews.com/article/russia-ukraine-war-drones-iran-oil-a0204c7973df02715a3990fcdc666db4) House approval for a US drone production deal, AP reports.
+- Four people were [killed in](https://www.reuters.com/world/four-killed-russian-air-attack-kyiv-region-officials-say-2026-03-14/) a Russian air attack on Ukraine's Kyiv region, according to Reuters.
 
-- A Chinese national [was arrested](https://www.bbc.com/news/articles/cz7gd57z33zo) in Kenya for attempting to smuggle over 2,200 garden ants packed in test tubes and tissue paper rolls.
+- Hamas [urged Iran](https://www.aljazeera.com/news/2026/3/14/hamas-urges-iran-to-halt-attacks-on-neighbouring-gulf-states?traffic_source=rss) to halt attacks on Gulf states while supporting Tehran's right to defend against Israel and the US, Al Jazeera reports.
 
-- Companies [evacuated Dubai's](https://www.france24.com/en/video/20260312-companies-evacuate-dubai-financial-district-after-iran-threats) financial district following Iranian threats to Gulf energy infrastructure, per France24.
-
-- British Prime Minister Starmer [was warned](https://www.nytimes.com/live/2026/03/11/world/mandelson-files-epstein-uk) about "reputational risk" before appointing Peter Mandelson as US ambassador due to his ties to Jeffrey Epstein.
+- Taiwan's president says the island [can afford](https://www.reuters.com/business/aerospace-defense/booming-taiwan-can-well-afford-more-military-spending-president-says-2026-03-14/) more military spending as its economy booms, per Reuters.
 
 **Business & Markets**
 
-- Honda [will post](https://www.reuters.com/world/asia-pacific/honda-expects-fy202526-loss-up-43-bln-review-ev-strategy-2026-03-12/) a full-year loss due to a $15.7 billion hit from its struggling electric vehicle business, Reuters reports.
+- Analysts question whether [markets are](https://www.ft.com/content/36474089-8b7e-4fc8-aa76-1643796a57d9) being too complacent about the Iran war, the FT reports.
 
-- Tesla [won approval](https://www.reuters.com/business/energy/teslas-energy-business-wins-approval-supply-electricity-uk-2026-03-12/) to supply electricity to UK homes through its energy business, according to Reuters.
+- Oil price surges are [shaking Pakistan's](https://www.nytimes.com/2026/03/14/world/asia/pakistan-oil-prices.html) already fragile economy as families prepare for Eid and farmers ready for harvest, the NYT reports.
 
-- A Chinese national [was arrested](https://www.bbc.com/news/articles/cz7gd57z33zo) in Kenya for attempting to smuggle 2,000 queen ants packed in test tubes and tissue paper rolls.
+- Canada aims to [expand domestic](https://www.nytimes.com/2026/03/14/world/canada/starlink-satellites-defense-carney-canada.html) satellite systems and cut dependence on American networks like Starlink, according to the NYT.
 
 **Also Notable**
 
-- Senegal [approved tougher](https://www.bbc.com/news/articles/cp857gy1843o) anti-gay legislation as rights groups warned of increased "violence and fear" against LGBTQ+ communities.
+- Rescuers blame weather and [underprepared skiers](https://www.bbc.com/news/articles/cev7111kx9wo?at_medium=RSS&amp;at_campaign=rss) for a rise in Alps avalanche deaths as this season's fatalities pass 100, the BBC reports.
 
-- A China-North Korea rail connection [resumed after](https://www.france24.com/en/asia-pacific/20260312-train-connecting-china-and-north-korea-arrives-in-pyongyang-after-6-year-hiatus) six years with the first train arriving in Pyongyang, France24 reports.
+- Scientists warn that [shark nets](https://www.france24.com/en/africa/20260314-shark-nets-%E2%82%AC100-million-club-med-resort-threaten-south-african-endangered-species-scientists-warn) planned for a €100 million Club Med resort threaten endangered species in South Africa, France24 reports.
 
 **What to Watch**
 
-- Hungary [heads to](https://www.bbc.com/news/articles/crm8rxwyyz8o) the polls soon with Prime Minister Viktor Orbán targeting Ukraine's president as his main campaign foil.
+- The [Bahrain and](https://www.bbc.com/sport/formula1/articles/c875vw1lwjzo?at_medium=RSS&amp;at_campaign=rss) Saudi Arabia Grands Prix scheduled for next month are set to be cancelled as a result of the Middle East war, the BBC reports.
 
-- Argentina's [asylum decision](https://www.theguardian.com/world/2026/mar/11/argentina-asylum-brasil-elections) for a Brasília rioter could inflame Brazilian election politics, the Guardian reports.
+- Nvidia [prepares to](https://www.ft.com/content/849fab2d-0d04-411d-8fbb-7fe3b515f5bf) unveil new AI inference chips at its GTC event next week as spending shifts from training to running AI models, the FT reports.
 
-- G7 leaders are [expected to](https://www.reuters.com/world/macron-host-g7-leaders-call-iran-crisis-energy-prices-2026-03-10/) hold emergency talks on Iran crisis and energy prices following Macron's planned call.
-
-- The Nuclear Energy Summit 2026 [opens this](https://www.iaea.org/events/nuclear-energy-summit-2026) week as global leaders discuss atomic power expansion plans.
+- Tehran [threatens to](https://www.aljazeera.com/news/2026/3/14/us-attacks-military-sites-on-irans-kharg-island-home-to-vast-oil-facility?traffic_source=rss) reduce US-linked oil facilities to "pile of ashes" if oil structures on Kharg Island are attacked, Al Jazeera reports.
