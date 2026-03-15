@@ -1,47 +1,49 @@
 Good morning, Russell! Here's what happened while you were sleeping.
 
-**Top Stories**
+## **Top Stories**
 
-- The US [bombed military](https://apnews.com/article/iran-iraq-us-trump-march-14-2026-oil-prices-a2399398b4c590995b814d7640362a11) sites on Iran's Kharg Island as Trump threatened to target the country's oil infrastructure if shipping lanes remain blocked.
+- Trump [urged allies](https://www.ft.com/content/4dd2173b-b283-41e4-8dee-4f04919dea68) including China and the UK to send warships to reopen the Strait of Hormuz as Iran maintains its blockade following US strikes on the country's main oil export terminal, per the Financial Times.
 
-- A UAE [port was](https://www.ft.com/content/d1b23f3e-a976-4ff1-a653-4155e7a8695e) struck after the US bombing, with authorities saying the attack was intercepted and a resulting blaze brought under control.
+- Severe flooding [killed 62](https://www.bbc.com/news/articles/cz6e5eng03yo?at_medium=RSS&amp;at_campaign=rss) people in Kenya as heavy rains continue to batter the country, with 11 people rescued overnight after a minibus taxi got stuck in rising floodwaters in Nairobi, the BBC reports.
 
-- The US [embassy in](https://www.reuters.com/world/middle-east/us-embassy-iraqs-baghdad-hit-missiles-attack-security-sources-say-2026-03-14/) Baghdad was hit by missiles as tensions escalate across the region, according to Reuters.
+- The US [named six](https://www.bbc.com/news/articles/cly0d510yz3o?at_medium=RSS&amp;at_campaign=rss) crew members killed when a refueling plane crashed in western Iraq on Thursday during a combat mission against Iran, according to the BBC.
 
-- Amsterdam's mayor called an [explosion at](https://www.bbc.com/news/articles/cwyg4j58gdyo?at_medium=RSS&at_campaign=rss) a Jewish school "a deliberate attack," following increased security at Jewish institutions after an earlier Rotterdam incident.
+- Israeli forces [killed four](https://www.reuters.com/world/middle-east/israeli-forces-kill-four-palestinians-west-bank-palestinian-health-authorities-2026-03-15/) Palestinians including two children in the West Bank, Palestinian health authorities said, Reuters reports.
 
-- North Korea [fired 10](https://www.reuters.com/world/asia-pacific/north-korea-fires-possible-missile-towards-sea-during-us-south-korea-drills-2026-03-14/) ballistic missiles during US-South Korea military drills, Reuters reports.
+- Japan will [release oil](https://www.reuters.com/business/energy/japan-release-oil-stocks-us-says-buy-american-2026-03-15/) from strategic reserves as the US tells allies to "buy American" following Iran's closure of the Strait of Hormuz, Reuters reports.
 
-- A [Greek-flagged tanker](https://www.reuters.com/world/china/greek-flagged-tanker-hit-by-unidentified-object-outside-cpc-terminal-2026-03-14/) was hit by an unidentified object outside Russia's Novorossiysk terminal, suffering minor damage, per Reuters.
+- Oil loading [operations restarted](https://www.reuters.com/business/energy/oil-loading-operations-uaes-fujairah-have-restarted-industry-source-says-2026-03-15/) at the UAE's Fujairah port after being disrupted by Iranian missile attacks, an industry source told Reuters.
 
-**Conflicts & Diplomacy**
+## **Conflicts & Diplomacy**
 
-- Hamas [urged Iran](https://www.aljazeera.com/news/2026/3/14/hamas-urges-iran-to-halt-attacks-on-neighbouring-gulf-states?traffic_source=rss) to halt attacks on Gulf states while supporting Tehran's right to defend against Israel and the US, according to Al Jazeera.
+- Ukrainian President Zelensky [accused Russia](https://www.reuters.com/world/middle-east/russia-is-supplying-iran-with-shahed-drones-zelenskiy-says-2026-03-15/) of supplying Iran with Shahed drones as the country fights the US and Israel, according to Reuters.
 
-- At least 112 people were killed in Iran's Kurdistan province during US-Israeli attacks, with 969 injured, Al Jazeera reports.
+- Ukraine peace talks [have stalled](https://www.ft.com/content/c4fa2378-516b-4689-a4cf-69163ff2d31a) as Trump's focus shifts to Iran. European officials say the US president is no longer pressuring Vladimir Putin, the Financial Times reports.
 
-- [Four people](https://www.reuters.com/world/four-killed-russian-air-attack-kyiv-region-officials-say-2026-03-14/) were killed in a Russian air attack on Ukraine's Kyiv region, Reuters reports.
+- Taiwan reported [large-scale Chinese](https://www.reuters.com/business/aerospace-defense/taiwan-says-large-scale-chinese-military-flights-return-after-unusual-absence-2026-03-15/) military flights resumed after an unusual absence, Reuters reports.
 
-- A French soldier was [killed by](https://www.france24.com/en/middle-east/20260314-french-soldier-killed-by-iran-made-drone-was-in-iraq-on-anti-jihad-operation) an Iranian drone while on an anti-jihad mission in Iraq, according to France24.
+- Two people [were arrested](https://www.nytimes.com/2026/03/15/world/canada/canada-iran-arrests-death.html) in Canada on murder charges in what authorities called a "targeted incident" against anti-Iranian regime activist Masood Masjoody, who had gone missing weeks ago.
 
-**Business & Markets**
+## **Business & Markets**
 
-- [Kharg Island](https://www.reuters.com/business/energy/kharg-island-struck-by-us-is-key-hub-iran-oil-exports-2026-03-14/), the site of the US bombing, serves as Iran's key oil export hub, Reuters reports.
+- Retail traders [rushed into](https://www.ft.com/content/04ff96ba-90bb-4111-8a8b-cc5bcd05d0db) oil bets as the Iran war drives wild price swings. The biggest US crude ETF saw record inflows in what the Financial Times calls oil's "meme" moment.
 
-- Taiwan's president said the [booming economy](https://www.reuters.com/business/aerospace-defense/booming-taiwan-can-well-afford-more-military-spending-president-says-2026-03-14/) can "well afford" increased military spending as regional tensions rise, per Reuters.
+- Chinese tech companies [are backing](https://www.ft.com/content/42ebe96a-f9ae-46f7-be29-1eb63174515b) Brazil's food delivery app Keeta in a $20 billion market war against local rival iFood, trading claims of corporate espionage and unfair tactics, per the Financial Times.
 
-- Oil price [surges are](https://www.nytimes.com/2026/03/14/world/asia/pakistan-oil-prices.html) shaking Pakistan's already fragile economy as families prepare for Eid and farmers ready for harvest.
+- North Korean [operatives deployed](https://www.ft.com/content/4e26ad94-f917-4f52-924d-066e332217cf) AI chatbots to exploit European companies as "fake workers" undertaking tasks in multiple roles, the Financial Times reports.
 
-**Also Notable**
+## **Also Notable**
 
-- Rescuers [blame weather](https://www.bbc.com/news/articles/cev7111kx9wo?at_medium=RSS&at_campaign=rss) and "underprepared skiers" for rising Alps avalanche deaths, with this season's toll passing 100.
+- Mercedes teenager [Kimi Antonelli](https://www.aljazeera.com/sports/2026/3/15/mercedes-teenager-kimi-antonelli-wins-first-f1-in-china-russell-second?traffic_source=rss) won his first Formula 1 race in China at age 19, converting pole position into victory for Mercedes' second successive one-two finish, Al Jazeera reports.
 
-- Canada is [expanding domestic](https://www.nytimes.com/2026/03/14/world/canada/starlink-satellites-defense-carney-canada.html) satellite systems to reduce dependence on American networks like Elon Musk's Starlink as part of its sovereignty push.
+- France [retained the](https://www.france24.com/en/tv-shows/sports/20260315-six-nations-france-retain-title-after-thriller-against-england) Six Nations rugby title after defeating England in a thriller match, according to France24.
 
-**What to Watch**
+## **What to Watch**
 
-- Nvidia's Jensen Huang [will unveil](https://www.ft.com/content/849fab2d-0d04-411d-8fbb-7fe3b515f5bf) new AI "inference" chips at next week's GTC event to counter rising competitors as spending shifts from training to running AI models.
+- French voters [choose mayors](https://www.france24.com/en/french-parties-test-strategies-in-municipal-elections-ahead-of-2027-presidential-poll) this week in municipal elections seen as a test for political parties ahead of the 2027 presidential race, with the far right performing strongly in Marseille.
 
-- The [Bahrain and](https://www.bbc.com/sport/formula1/articles/c875vw1lwjzo?at_medium=RSS&at_campaign=rss) Saudi Arabia Grands Prix scheduled for next month are set to be cancelled due to the Middle East war.
+- Republic of Congo [votes today](https://www.aljazeera.com/news/2026/3/15/republic-of-congo-votes-in-election-that-could-extend-sassous-42-year-rule?traffic_source=rss) in an election that could extend President Denis Sassou Nguesso's 42-year rule, with the 82-year-old running for a fifth term in polls boycotted by major opposition parties.
 
-- Iran has [threatened to](https://www.aljazeera.com/news/2026/3/14/us-attacks-military-sites-on-irans-kharg-island-home-to-vast-oil-facility?traffic_source=rss) reduce US-linked oil facilities to a "pile of ashes" if oil structures on Kharg Island are attacked, according to Al Jazeera.
+- Vietnam [holds parliamentary](https://www.aljazeera.com/news/2026/3/15/vietnam-holds-general-election-93-candidates-from-ruling-communist-party?traffic_source=rss) elections today with 93% of candidates fielded by the ruling Communist Party, Al Jazeera reports.
+
+- MotoGP [postponed the](https://www.aljazeera.com/sports/2026/3/15/motogp-postpones-qatar-grand-prix-due-to-middle-east-conflict?traffic_source=rss) Qatar Grand Prix scheduled for April 10-12, rescheduling it for November due to the ongoing conflict in the Middle East.
