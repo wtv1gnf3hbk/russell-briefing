@@ -4,17 +4,17 @@
     "owner": "Russell Goldman",
     "timezone": "America/New_York",
     "description": "Daily international news briefing — all bullets, ready by 6am ET",
-    "generated": "2026-03-15T10:32:07.738Z",
-    "generatedTimestamp": 1773570727738
+    "generated": "2026-03-15T10:57:42.933Z",
+    "generatedTimestamp": 1773572262933
   },
   "stats": {
     "sourceCount": 19,
     "successCount": 19,
-    "totalStories": 138,
+    "totalStories": 139,
     "totalScreenshots": 6,
     "daybookStories": 45,
-    "watchCandidateCount": 8,
-    "elapsed": "59.3s"
+    "watchCandidateCount": 9,
+    "elapsed": "61.4s"
   },
   "stories": {
     "all": [
@@ -126,6 +126,16 @@
         ]
       },
       {
+        "headline": "Oil poised for further gains as Middle East conflict threatens export facilities - Reuters",
+        "url": "https://www.reuters.com/business/energy/oil-poised-further-gains-middle-east-conflict-threatens-export-facilities-2026-03-15/",
+        "source": "Reuters",
+        "sourceId": "reuters_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Sun, 15 Mar 2026 09:13:02 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVHlOVVdNbmk2elRIdUVBLWJQMG55cC1DRjhlVGxyeldiZ3Z0QjZ6bEluQ0dSZFlXaEZ2Ul9uTklOd1lMd0ZyZkR6Sl9HY3p0bEFnSlNBbVNFU3FqMU9tMnMyVHNVVTZmQmR5d1J"
+      },
+      {
         "headline": "Japan to release oil stocks as US says buy American - Reuters",
         "url": "https://www.reuters.com/business/energy/japan-release-oil-stocks-us-says-buy-american-2026-03-15/",
         "source": "Reuters",
@@ -162,7 +172,7 @@
         "sourceId": "reuters_world",
         "category": "wire",
         "priority": "primary",
-        "date": "Sun, 15 Mar 2026 02:19:52 GMT",
+        "date": "Sun, 15 Mar 2026 02:19:00 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOWS1EQVBESlRXOG9xSUdQdmdVZ2hOcUNmSXM2REJ1NTAyaEtiMEFBZ1VJZnhSbGk2aTlkS0RlRE5ici1xcXpIMWdoWWpuUjhmS3AyNEZ6NUxrajFXUEoxb0hERWg2d3BKMlh0SHZ"
       },
       {
@@ -219,8 +229,18 @@
         "sourceId": "reuters_world",
         "category": "wire",
         "priority": "primary",
-        "date": "Sun, 15 Mar 2026 00:04:00 GMT",
+        "date": "Sun, 15 Mar 2026 00:04:12 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNUHRnSFM2Z3hZVVk3aS1uUHpDM0ZVSmwzZFhYMEIzVUtEM0V0R3FpclVQc1VUZGEyT0thZWlKQzROdGk5YUoyTlgzQ2Y1ZnVBbWFydWVfV2NJRXVJeXRKbnRaUTktaDVQaXRSaW1"
+      },
+      {
+        "headline": "Zelenskiy says Ukraine wants money, technology in return for Middle East drone help - Reuters",
+        "url": "https://www.reuters.com/business/aerospace-defense/zelenskiy-says-ukraine-wants-money-technology-return-middle-east-drone-help-2026-03-15/",
+        "source": "Reuters",
+        "sourceId": "reuters_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Sun, 15 Mar 2026 08:52:27 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWWlSVHFNMFJTZmwwemVVQW9JdHhWY3B5UG1INnNPcHFUVlVOSXdmTHdKVml4dVotbnhycU9hUDVCbzlfV1VhQ015dG1QbFZfSjMwUHp4SEtVb2VMZk9CMV85SHZwbEZQcE9xRjd"
       },
       {
         "headline": "F1 calls off April races in Bahrain and Saudi Arabia - Reuters",
@@ -263,26 +283,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNNVVCNnJIV2tsZjdOU2JSVTh6VnFRQkVoLV9sTHlsY3RadkpkXzFMLWdGMlRUcmlYTWZ0U19FbmhrSEphRFdRWHpuc3JyY1BoWEM1VE1PaWQ0d0JUVEppRlBuTmNnSG9iSzBNcUp"
       },
       {
-        "headline": "North Korean leader Kim oversees test-launch of multiple rocket launchers -KCNA - Reuters",
-        "url": "https://www.reuters.com/business/aerospace-defense/north-korean-leader-kim-oversees-test-launch-multiple-rocket-launchers-kcna-2026-03-14/",
-        "source": "Reuters",
-        "sourceId": "reuters_world",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Sat, 14 Mar 2026 21:42:47 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYS1zd051YmRJTUU3NC00T3BzdHZ3a0xZbkswR0JOS3N3dVBjWmxadTFTbXA4ZDFwdjRsdTA2X0x4cFp1Y0RSM3V0bEZnOWM2M1VBMDcyamZES2d0VHFEYWtJVF9HSndqazRyRS0"
-      },
-      {
-        "headline": "Exclusive: Trump rejects efforts to launch Iran ceasefire talks, sources say - Reuters",
-        "url": "https://www.reuters.com/world/middle-east/trump-rejects-efforts-launch-iran-ceasefire-talks-sources-say-2026-03-14/",
-        "source": "Reuters",
-        "sourceId": "reuters_world",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Sat, 14 Mar 2026 16:46:41 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQcG41Tl80eUxGMzVlQm5VZlNrbmc0UGI5aktXY0dxRGtQWGYxOTBJYWxlQzd0MV9wSnJJSV9Od0c4Umk2MGxPNHp4ZEhCQm0zemtxWjJiOGVjRVdDUjFxYWxjT0hNUTRHNTlnMjN"
-      },
-      {
         "headline": "BBC visits aftermath of Israeli strike on Lebanon that killed family as IDF targets Hezbollah",
         "url": "https://www.bbc.com/news/articles/c20lvn0ex6yo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC",
@@ -320,14 +320,14 @@
         "description": "Eleven people were rescued overnight after a minibus taxi got stuck in rising floodwaters in Nairobi."
       },
       {
-        "headline": "'Gruesome' war bets fuel calls for crackdown on prediction markets",
-        "url": "https://www.bbc.com/news/articles/cjwz8051y0lo?at_medium=RSS&amp;at_campaign=rss",
+        "headline": "Israeli forces kill Palestinian couple and two of their children in occupied West Bank",
+        "url": "https://www.bbc.com/news/articles/cqxdndz75zvo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC",
         "sourceId": "bbc_world",
         "category": "general",
         "priority": "primary",
-        "date": "Sun, 15 Mar 2026 00:01:31 GMT",
-        "description": "Predictions markets have hosted millions of dollars of bets related to the war in Iran."
+        "date": "Sun, 15 Mar 2026 10:38:22 GMT",
+        "description": "Mohammed, aged five, and Othman, aged seven, were killed alongside their parents, the Palestinian health ministry says."
       },
       {
         "headline": "Treasure hunter freed from prison after refusing to turn over shipwreck gold",
@@ -360,6 +360,16 @@
         "description": "Discontent is mounting over rolling blackouts and shortages of food, fuel and medicine, exacerbated by a US blockade."
       },
       {
+        "headline": "'Gruesome' war bets fuel calls for crackdown on prediction markets",
+        "url": "https://www.bbc.com/news/articles/cjwz8051y0lo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC",
+        "sourceId": "bbc_world",
+        "category": "general",
+        "priority": "primary",
+        "date": "Sun, 15 Mar 2026 00:01:31 GMT",
+        "description": "Predictions markets have hosted millions of dollars of bets related to the war in Iran."
+      },
+      {
         "headline": "Three more Iran football team members change minds over asylum",
         "url": "https://www.bbc.com/news/articles/c98gz372683o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC",
@@ -368,6 +378,16 @@
         "priority": "primary",
         "date": "Sat, 14 Mar 2026 20:48:55 GMT",
         "description": "Four of seven members of the women's football delegation who originally sought to stay in Australia have now chosen to return home."
+      },
+      {
+        "headline": "Medvedev stuns Alcaraz to set up Sinner final",
+        "url": "https://www.bbc.com/sport/tennis/articles/cqlgn0vz4y1o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC",
+        "sourceId": "bbc_world",
+        "category": "general",
+        "priority": "primary",
+        "date": "Sun, 15 Mar 2026 00:32:02 GMT",
+        "description": "World number two Jannik Sinner puts on a masterclass to beat Alexander Zverev 6-2 6-4 and reach his first final at Indian Wells, while Daniil Medvedev ends Carlos Alcaraz's winning run."
       },
       {
         "headline": "Russia exploiting Iran war, Zelensky says after fresh bombardment",
@@ -388,16 +408,6 @@
         "priority": "primary",
         "date": "Sat, 14 Mar 2026 23:56:28 GMT",
         "description": "Iraq will travel to Mexico by private plane for their World Cup play-off despite calls from coach Graham Arnold to postpone the match amid the escalating US-Israeli war with Iran, the country's FA pre"
-      },
-      {
-        "headline": "Medvedev stuns Alcaraz to set up Sinner final",
-        "url": "https://www.bbc.com/sport/tennis/articles/cqlgn0vz4y1o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC",
-        "sourceId": "bbc_world",
-        "category": "general",
-        "priority": "primary",
-        "date": "Sun, 15 Mar 2026 00:32:02 GMT",
-        "description": "World number two Jannik Sinner puts on a masterclass to beat Alexander Zverev 6-2 6-4 and reach his first final at Indian Wells, while Daniil Medvedev ends Carlos Alcaraz's winning run."
       },
       {
         "headline": "Trump urges UK and other nations to send warships to Strait of Hormuz",
@@ -428,16 +438,6 @@
         "priority": "primary",
         "date": "Sat, 14 Mar 2026 18:02:15 GMT",
         "description": "One the most influential thinkers in post-war Germany, he linked philosophy and political action throughout his life."
-      },
-      {
-        "headline": "Rescuers blame weather and 'underprepared skiers' for rise in Alps avalanche deaths",
-        "url": "https://www.bbc.com/news/articles/cev7111kx9wo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC",
-        "sourceId": "bbc_world",
-        "category": "general",
-        "priority": "primary",
-        "date": "Sat, 14 Mar 2026 16:32:25 GMT",
-        "description": "The BBC joins a French Alps rescue team as the number of skiers killed this season passes 100."
       },
       {
         "headline": "US oil groups in line for $63bn windfall from Gulf war disruption",
@@ -500,6 +500,16 @@
         "description": "Attack on Iranian warship in coastal waters highlights country’s vulnerability to Middle East conflict"
       },
       {
+        "headline": "Zelenskyy challenges Europe over Russian oil imports",
+        "url": "https://www.ft.com/content/9e7dc3e6-e79d-4a9b-adc3-ab4c7a7ad552",
+        "source": "Financial Times",
+        "sourceId": "ft_home",
+        "category": "business",
+        "priority": "primary",
+        "date": "Sun, 15 Mar 2026 10:16:32 GMT",
+        "description": "Ukrainian president asks if countries ‘collectively decided’ to restart flows from Russia"
+      },
+      {
         "headline": "Ukraine peace talks fizzle out as Trump’s focus shifts to Iran",
         "url": "https://www.ft.com/content/c4fa2378-516b-4689-a4cf-69163ff2d31a",
         "source": "Financial Times",
@@ -556,7 +566,7 @@
         "sourceId": "nyt_world",
         "category": "general",
         "priority": "secondary",
-        "date": "Sun, 15 Mar 2026 10:14:44 +0000",
+        "date": "Sun, 15 Mar 2026 10:55:00 +0000",
         "description": "Iran’s foreign minister claimed the Strait of Hormuz was open to all except America or its allies. President Trump had threatened to strike Iran’s main oil export terminal if it did not lift the de fa"
       },
       {
@@ -675,6 +685,33 @@
         "priority": "secondary",
         "date": "Sun, 15 Mar 2026 10:14:43 +0000",
         "description": ""
+      },
+      {
+        "headline": "Thousands in Paris protest military actions in Iran, Lebanon and Palestine",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/15/thousands-in-paris-protest-military-actions-in-iran-lebanon-and-palestine?traffic_source=rss",
+        "source": "Al Jazeera",
+        "sourceId": "aljazeera",
+        "category": "general",
+        "priority": "secondary",
+        "date": "Sun, 15 Mar 2026 10:21:04 +0000",
+        "description": "Thousands in Paris protest military operations in the Middle East. One of more than 85 protests across France."
+      },
+      {
+        "headline": "US, China hold trade talks in Paris to clear path to Trump-Xi summit",
+        "url": "https://www.aljazeera.com/news/2026/3/15/us-china-hold-trade-talks-in-paris-to-clear-path-to-trump-xi-summit?traffic_source=rss",
+        "source": "Al Jazeera",
+        "sourceId": "aljazeera",
+        "category": "general",
+        "priority": "secondary",
+        "date": "Sun, 15 Mar 2026 10:10:04 +0000",
+        "description": "The world&#039;s two largest economies trying to hash out trade issues before US President Trump is expected to visit China.",
+        "watchCandidate": true,
+        "watchSignals": [
+          {
+            "category": "temporal",
+            "matched": "expected to"
+          }
+        ]
       },
       {
         "headline": "Mercedes teenager Kimi Antonelli wins first F1 in China; Russell second",
@@ -832,24 +869,34 @@
         "description": "Cars were seen burned and one overturned in in Tel Aviv district caused by shrapnel after a wave of Iranian missiles."
       },
       {
-        "headline": "As Syria marks 15 years since anti-Assad uprising, security issues remain",
-        "url": "https://www.aljazeera.com/features/2026/3/15/as-syria-marks-15-years-since-anti-assad-uprising-security-issues-remain?traffic_source=rss",
-        "source": "Al Jazeera",
-        "sourceId": "aljazeera",
-        "category": "general",
+        "headline": "Ukraine recovering from Russian strike, concerned Putin is benefiting from Iran war",
+        "url": "https://www.france24.com/en/ukraine-recovering-from-russian-strike-concerned-putin-is-benefiting-from-iran-war",
+        "source": "France24",
+        "sourceId": "france24",
+        "category": "wire",
         "priority": "secondary",
-        "date": "Sun, 15 Mar 2026 05:13:09 +0000",
-        "description": "Syrians celebrate the start of the 2011 uprising that, in 2024, put an end to Bashar al-Assad&#039;s rule."
+        "date": "Sun, 15 Mar 2026 10:37:06 GMT",
+        "description": ""
       },
       {
-        "headline": "FPV drone slams into US military base in Iraq",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/15/fpv-drone-slams-into-us-military-base-in-iraq?traffic_source=rss",
-        "source": "Al Jazeera",
-        "sourceId": "aljazeera",
-        "category": "general",
+        "headline": "Gaza hit by strongest sandstorm in over five years",
+        "url": "https://www.france24.com/en/gaza-hit-by-strongest-sandstorm-in-over-five-years",
+        "source": "France24",
+        "sourceId": "france24",
+        "category": "wire",
         "priority": "secondary",
-        "date": "Sun, 15 Mar 2026 04:53:14 +0000",
-        "description": "Iraq&#039;s Iranian-backed Kataib Hezbollah has released drone video from an attack on the US&#039;s Victory Base in Baghdad."
+        "date": "Sun, 15 Mar 2026 10:35:24 GMT",
+        "description": ""
+      },
+      {
+        "headline": "She lost 5 brothers to Syria’s war – Now she’s fighting for justice at the UN",
+        "url": "https://www.france24.com/en/video/20260315-she-lost-5-brothers-to-syria-s-war-%E2%80%93-now-she-s-fighting-for-justice-at-the-un",
+        "source": "France24",
+        "sourceId": "france24",
+        "category": "wire",
+        "priority": "secondary",
+        "date": "Sun, 15 Mar 2026 10:32:55 GMT",
+        "description": ""
       },
       {
         "headline": "Qatar, Kuwait, UAE... Iranian reprisals disrupts daily life across the Gulf",
@@ -949,7 +996,7 @@
         "description": ""
       },
       {
-        "headline": "France retain Six Nations title after 13-try thriller with England",
+        "headline": "France retains Six Nations title after 13-try thriller with England",
         "url": "https://www.france24.com/en/sport/20260314-france-retain-six-nations-title-after-13-try-thriller-with-england",
         "source": "France24",
         "sourceId": "france24",
@@ -976,36 +1023,6 @@
         "category": "wire",
         "priority": "secondary",
         "date": "Sat, 14 Mar 2026 21:34:16 GMT",
-        "description": ""
-      },
-      {
-        "headline": "UN force base in southern Lebanon comes under fire, one peacekeeper wounded",
-        "url": "https://www.france24.com/en/un-force-base-in-southern-lebanon-comes-under-fire-one-peacekeeper-wounded",
-        "source": "France24",
-        "sourceId": "france24",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Sat, 14 Mar 2026 21:06:32 GMT",
-        "description": ""
-      },
-      {
-        "headline": "Propaganda in 21st-century wars: WITNESS associate director Mahsa Alimardani speaks to France 24",
-        "url": "https://www.france24.com/en/tv-shows/spotlight/20260314-propaganda-in-21st-century-wars-witness-associate-director-mahsa-alimardani-speaks-to-france-24",
-        "source": "France24",
-        "sourceId": "france24",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Sat, 14 Mar 2026 19:12:15 GMT",
-        "description": ""
-      },
-      {
-        "headline": "Literature in time of crisis: world-renowned writer Azar Nafisi speaks to France 24",
-        "url": "https://www.france24.com/en/tv-shows/spotlight/20260314-literature-in-time-of-crisis-world-renowned-writer-azar-nafisi-speaks-to-france-24",
-        "source": "France24",
-        "sourceId": "france24",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Sat, 14 Mar 2026 18:19:26 GMT",
         "description": ""
       },
       {
@@ -1199,16 +1216,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeW5OdDlrYjI1NWlUVnhQZkR4amZiUThIc2tjOXVYVHZvXy1GWUMzUWRQZ282OEdMdXBYdUttajQ3VnIzMTRhNmVNR3RFclFsMVFhcXFtYnA1RExUNi00RVBRT3FtX0lwd1hJRkR"
       },
       {
-        "headline": "NHL 2025-26 season predictions 3.0: How did the trade deadline impact our picks? - The Athletic - The New York Times",
-        "url": "https://www.nytimes.com/athletic/7116375/2026/03/14/nhl-2025-26-season-predictions-trade-deadline/",
-        "source": "Daybook: Economic Calendar",
-        "sourceId": "daybook_econ",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Sat, 14 Mar 2026 11:00:43 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPUDVZdkdsTmhWRnEzUmdFYWhHMHVaZjctcndNQi1qN1NpaEcwRUJ6dU84Ui02MmJ0dG83ZzNnbFdYeF84MU9Xeks5cTE2NnJBMXR2bENfcTMzV0FDS0R1V0ZzSTU4LUNfSHdCQzI"
-      },
-      {
         "headline": "‘It was a real happy day for us’ | Bandits GM Steve Dietrich talks trade deadline deals - Buffalo Bandits",
         "url": "https://bandits.com/it-was-a-real-happy-day-for-us-bandits-gm-steve-dietrich-talks-trade-deadline-deals/",
         "source": "Daybook: Economic Calendar",
@@ -1217,6 +1224,16 @@
         "priority": "reference",
         "date": "Wed, 11 Mar 2026 23:54:25 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNUTdDN3pUcVRtNXhMZVA5a2Fjd0FVc0U4NUIzdndwZGpob095NkgtYUVYdTB4RzFwYkJBYlQwWEdpMXJLcFBuWFhfRElzaWk0alJZS2t6MG03NUVxTEhHTGMxZ0RJamxjblUxZUh"
+      },
+      {
+        "headline": "NHL 2025-26 season predictions 3.0: How did the trade deadline impact our picks? - The Athletic - The New York Times",
+        "url": "https://www.nytimes.com/athletic/7116375/2026/03/14/nhl-2025-26-season-predictions-trade-deadline/",
+        "source": "Daybook: Economic Calendar",
+        "sourceId": "daybook_econ",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Sat, 14 Mar 2026 11:00:43 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPUDVZdkdsTmhWRnEzUmdFYWhHMHVaZjctcndNQi1qN1NpaEcwRUJ6dU84Ui02MmJ0dG83ZzNnbFdYeF84MU9Xeks5cTE2NnJBMXR2bENfcTMzV0FDS0R1V0ZzSTU4LUNfSHdCQzI"
       },
       {
         "headline": "Rangers finding success post NHL trade deadline behind new-look top line - SNY",
@@ -1240,13 +1257,13 @@
       },
       {
         "headline": "Alibaba Stock Is Down but Not Out. Its Earnings Report Should Boost Shares. - Barron's",
-        "url": "https://www.barrons.com/articles/alibaba-baba-stock-price-earnings-b0e4dde4?gaa_at=eafs&gaa_n=AWEtsqdrNpVrzNGQLUiz8e0AD9Yj_qz-YFmVgeBkyQGzduqy93bOESi6kxmW&gaa_ts=69b68df1&gaa_sig=W-Dsoa27bZRe9xKnqdGLQ20ECaBEx_Cg0RWdPTF1OPpm2IQr_2K-L8ZWmAUkwID2qd6ZATB0Mw9xg4WsXrJQsg%3D%3D",
+        "url": "https://www.barrons.com/articles/alibaba-baba-stock-price-earnings-b0e4dde4?gaa_at=eafs&gaa_n=AWEtsqdD1DpWDWGrXjPYrPDMFKJeFC-ES8XFimDKhC8v_U3-9-g9d4OcXk7P&gaa_ts=69b693ee&gaa_sig=fHTw0zUa9OO9lNoutVN-wFBL7ig-WGIzGQuFkjJMJA9AG7ilYG9hvMgXMnp4_l6YwlAEcIzXGsOSmKDqjAOEeQ%3D%3D",
         "source": "Daybook: Economic Calendar",
         "sourceId": "daybook_econ",
         "category": "daybook",
         "priority": "reference",
         "date": "Thu, 12 Mar 2026 12:40:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgNBVV95cUxNQ1hZQmVOQ1duTHE0T0hONmJKNUNOWFhTSUtjeUJZYzUtRDZzZHdCMXZUQXIwa25PMjItU3lDY2N1MHJNNlZNOUF1Tk5IQV9aZzhkZ2JZYmx1Y0xJMVdrVVNMdm5ldG4wczgtVDA"
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgNBVV95cUxQZmpYdnM0QnNLSktKc1BTaWhKNVVtaVBYa1gxZXNIMk1XcU9NcVhsdVgyY2xCM0xQWnlXQkZrQUpaSl9nanNkSmhNRWlTaFBMWDQwVXAwWW9iNXhGMFg0VmpwdjZBc2ZtbUNjeXV"
       },
       {
         "headline": "Communication key to helping new players after NHL Trade Deadline - NHL.com",
@@ -1319,16 +1336,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBNSjlZWlp1VnFrckgyVHNRRHpIdk5OdnYzWUt3S3h2UENVRHdnbWd5czZrdmZQQTBEZHg4X1JqNm1qdDJ5SF9KQWpsTmdEZnZCRDZLQzlYMlJUc0g0dW5jaEdiNHl4VkdHNmZjY0J"
       },
       {
-        "headline": "Hulu has opted not to proceed with its Buffy the Vampire reboot, starring Sarah Michelle Gellar. Chloé Zhao directed the pilot, Buddy: New Sunnydale. Read more below. - Facebook",
-        "url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fdeadline%2Fphotos%2Fhulu-has-opted-not-to-proceed-with-its-buffy-the-vampire-reboot-starring-sarah-m%2F1286935123306825%2F",
-        "source": "Daybook: Scheduled Events",
-        "sourceId": "daybook_scheduled",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Sun, 15 Mar 2026 08:05:41 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNemxhN045N1NqY1BoQ2w0MGtQVzFnRHRsaDB1Qnk4MDlidmNLY0lqN3JFV1BmVFJEQXhwX3RTZkR1dE9TS2JkSzF6OW1wOHJpYXkyRmZOeDUtVlpKTTdIMUZUeWJ5bWFRZm9uQVZ"
-      },
-      {
         "headline": "Drama at the deadline as candidates file for Iowa’s 2026 Primary Elections - Radio Iowa",
         "url": "https://www.radioiowa.com/2026/03/14/drama-at-the-deadline-as-candidates-file-for-iowas-2026-primary-elections/",
         "source": "Daybook: Scheduled Events",
@@ -1337,6 +1344,16 @@
         "priority": "reference",
         "date": "Sat, 14 Mar 2026 22:32:40 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNbHBuNFN6RE1scDFheHVlRVkzWThOQktHYjA2UEtCODNuZ1BWd29qYjFXQzFoTzdBNU1kcjBqRkU5WU1KWHpHOXV6LUdzbTVwckFEb2tERUo2NHc4VjJmeHRCMGhGdnNaUElKMjR"
+      },
+      {
+        "headline": "Hulu has opted not to proceed with its Buffy the Vampire reboot, starring Sarah Michelle Gellar. Chloé Zhao directed the pilot, Buddy: New Sunnydale. Read more below. - Facebook",
+        "url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fdeadline%2Fphotos%2Fhulu-has-opted-not-to-proceed-with-its-buffy-the-vampire-reboot-starring-sarah-m%2F1286935123306825%2F",
+        "source": "Daybook: Scheduled Events",
+        "sourceId": "daybook_scheduled",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Sun, 15 Mar 2026 08:05:41 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNemxhN045N1NqY1BoQ2w0MGtQVzFnRHRsaDB1Qnk4MDlidmNLY0lqN3JFV1BmVFJEQXhwX3RTZkR1dE9TS2JkSzF6OW1wOHJpYXkyRmZOeDUtVlpKTTdIMUZUeWJ5bWFRZm9uQVZ"
       },
       {
         "headline": "“Raylee’s Law” has less than two left to pass legislature before deadline - WSAZ",
@@ -1569,6 +1586,16 @@
           ]
         },
         {
+          "headline": "Oil poised for further gains as Middle East conflict threatens export facilities - Reuters",
+          "url": "https://www.reuters.com/business/energy/oil-poised-further-gains-middle-east-conflict-threatens-export-facilities-2026-03-15/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sun, 15 Mar 2026 09:13:02 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVHlOVVdNbmk2elRIdUVBLWJQMG55cC1DRjhlVGxyeldiZ3Z0QjZ6bEluQ0dSZFlXaEZ2Ul9uTklOd1lMd0ZyZkR6Sl9HY3p0bEFnSlNBbVNFU3FqMU9tMnMyVHNVVTZmQmR5d1J"
+        },
+        {
           "headline": "Japan to release oil stocks as US says buy American - Reuters",
           "url": "https://www.reuters.com/business/energy/japan-release-oil-stocks-us-says-buy-american-2026-03-15/",
           "source": "Reuters",
@@ -1605,7 +1632,7 @@
           "sourceId": "reuters_world",
           "category": "wire",
           "priority": "primary",
-          "date": "Sun, 15 Mar 2026 02:19:52 GMT",
+          "date": "Sun, 15 Mar 2026 02:19:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOWS1EQVBESlRXOG9xSUdQdmdVZ2hOcUNmSXM2REJ1NTAyaEtiMEFBZ1VJZnhSbGk2aTlkS0RlRE5ici1xcXpIMWdoWWpuUjhmS3AyNEZ6NUxrajFXUEoxb0hERWg2d3BKMlh0SHZ"
         },
         {
@@ -1662,8 +1689,18 @@
           "sourceId": "reuters_world",
           "category": "wire",
           "priority": "primary",
-          "date": "Sun, 15 Mar 2026 00:04:00 GMT",
+          "date": "Sun, 15 Mar 2026 00:04:12 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNUHRnSFM2Z3hZVVk3aS1uUHpDM0ZVSmwzZFhYMEIzVUtEM0V0R3FpclVQc1VUZGEyT0thZWlKQzROdGk5YUoyTlgzQ2Y1ZnVBbWFydWVfV2NJRXVJeXRKbnRaUTktaDVQaXRSaW1"
+        },
+        {
+          "headline": "Zelenskiy says Ukraine wants money, technology in return for Middle East drone help - Reuters",
+          "url": "https://www.reuters.com/business/aerospace-defense/zelenskiy-says-ukraine-wants-money-technology-return-middle-east-drone-help-2026-03-15/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sun, 15 Mar 2026 08:52:27 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWWlSVHFNMFJTZmwwemVVQW9JdHhWY3B5UG1INnNPcHFUVlVOSXdmTHdKVml4dVotbnhycU9hUDVCbzlfV1VhQ015dG1QbFZfSjMwUHp4SEtVb2VMZk9CMV85SHZwbEZQcE9xRjd"
         },
         {
           "headline": "F1 calls off April races in Bahrain and Saudi Arabia - Reuters",
@@ -1706,24 +1743,34 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNNVVCNnJIV2tsZjdOU2JSVTh6VnFRQkVoLV9sTHlsY3RadkpkXzFMLWdGMlRUcmlYTWZ0U19FbmhrSEphRFdRWHpuc3JyY1BoWEM1VE1PaWQ0d0JUVEppRlBuTmNnSG9iSzBNcUp"
         },
         {
-          "headline": "North Korean leader Kim oversees test-launch of multiple rocket launchers -KCNA - Reuters",
-          "url": "https://www.reuters.com/business/aerospace-defense/north-korean-leader-kim-oversees-test-launch-multiple-rocket-launchers-kcna-2026-03-14/",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
+          "headline": "Ukraine recovering from Russian strike, concerned Putin is benefiting from Iran war",
+          "url": "https://www.france24.com/en/ukraine-recovering-from-russian-strike-concerned-putin-is-benefiting-from-iran-war",
+          "source": "France24",
+          "sourceId": "france24",
           "category": "wire",
-          "priority": "primary",
-          "date": "Sat, 14 Mar 2026 21:42:47 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYS1zd051YmRJTUU3NC00T3BzdHZ3a0xZbkswR0JOS3N3dVBjWmxadTFTbXA4ZDFwdjRsdTA2X0x4cFp1Y0RSM3V0bEZnOWM2M1VBMDcyamZES2d0VHFEYWtJVF9HSndqazRyRS0"
+          "priority": "secondary",
+          "date": "Sun, 15 Mar 2026 10:37:06 GMT",
+          "description": ""
         },
         {
-          "headline": "Exclusive: Trump rejects efforts to launch Iran ceasefire talks, sources say - Reuters",
-          "url": "https://www.reuters.com/world/middle-east/trump-rejects-efforts-launch-iran-ceasefire-talks-sources-say-2026-03-14/",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
+          "headline": "Gaza hit by strongest sandstorm in over five years",
+          "url": "https://www.france24.com/en/gaza-hit-by-strongest-sandstorm-in-over-five-years",
+          "source": "France24",
+          "sourceId": "france24",
           "category": "wire",
-          "priority": "primary",
-          "date": "Sat, 14 Mar 2026 16:46:41 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQcG41Tl80eUxGMzVlQm5VZlNrbmc0UGI5aktXY0dxRGtQWGYxOTBJYWxlQzd0MV9wSnJJSV9Od0c4Umk2MGxPNHp4ZEhCQm0zemtxWjJiOGVjRVdDUjFxYWxjT0hNUTRHNTlnMjN"
+          "priority": "secondary",
+          "date": "Sun, 15 Mar 2026 10:35:24 GMT",
+          "description": ""
+        },
+        {
+          "headline": "She lost 5 brothers to Syria’s war – Now she’s fighting for justice at the UN",
+          "url": "https://www.france24.com/en/video/20260315-she-lost-5-brothers-to-syria-s-war-%E2%80%93-now-she-s-fighting-for-justice-at-the-un",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Sun, 15 Mar 2026 10:32:55 GMT",
+          "description": ""
         },
         {
           "headline": "Qatar, Kuwait, UAE... Iranian reprisals disrupts daily life across the Gulf",
@@ -1823,7 +1870,7 @@
           "description": ""
         },
         {
-          "headline": "France retain Six Nations title after 13-try thriller with England",
+          "headline": "France retains Six Nations title after 13-try thriller with England",
           "url": "https://www.france24.com/en/sport/20260314-france-retain-six-nations-title-after-13-try-thriller-with-england",
           "source": "France24",
           "sourceId": "france24",
@@ -1850,36 +1897,6 @@
           "category": "wire",
           "priority": "secondary",
           "date": "Sat, 14 Mar 2026 21:34:16 GMT",
-          "description": ""
-        },
-        {
-          "headline": "UN force base in southern Lebanon comes under fire, one peacekeeper wounded",
-          "url": "https://www.france24.com/en/un-force-base-in-southern-lebanon-comes-under-fire-one-peacekeeper-wounded",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Sat, 14 Mar 2026 21:06:32 GMT",
-          "description": ""
-        },
-        {
-          "headline": "Propaganda in 21st-century wars: WITNESS associate director Mahsa Alimardani speaks to France 24",
-          "url": "https://www.france24.com/en/tv-shows/spotlight/20260314-propaganda-in-21st-century-wars-witness-associate-director-mahsa-alimardani-speaks-to-france-24",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Sat, 14 Mar 2026 19:12:15 GMT",
-          "description": ""
-        },
-        {
-          "headline": "Literature in time of crisis: world-renowned writer Azar Nafisi speaks to France 24",
-          "url": "https://www.france24.com/en/tv-shows/spotlight/20260314-literature-in-time-of-crisis-world-renowned-writer-azar-nafisi-speaks-to-france-24",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Sat, 14 Mar 2026 18:19:26 GMT",
           "description": ""
         }
       ],
@@ -1922,14 +1939,14 @@
           "description": "Eleven people were rescued overnight after a minibus taxi got stuck in rising floodwaters in Nairobi."
         },
         {
-          "headline": "'Gruesome' war bets fuel calls for crackdown on prediction markets",
-          "url": "https://www.bbc.com/news/articles/cjwz8051y0lo?at_medium=RSS&amp;at_campaign=rss",
+          "headline": "Israeli forces kill Palestinian couple and two of their children in occupied West Bank",
+          "url": "https://www.bbc.com/news/articles/cqxdndz75zvo?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC",
           "sourceId": "bbc_world",
           "category": "general",
           "priority": "primary",
-          "date": "Sun, 15 Mar 2026 00:01:31 GMT",
-          "description": "Predictions markets have hosted millions of dollars of bets related to the war in Iran."
+          "date": "Sun, 15 Mar 2026 10:38:22 GMT",
+          "description": "Mohammed, aged five, and Othman, aged seven, were killed alongside their parents, the Palestinian health ministry says."
         },
         {
           "headline": "Treasure hunter freed from prison after refusing to turn over shipwreck gold",
@@ -1962,6 +1979,16 @@
           "description": "Discontent is mounting over rolling blackouts and shortages of food, fuel and medicine, exacerbated by a US blockade."
         },
         {
+          "headline": "'Gruesome' war bets fuel calls for crackdown on prediction markets",
+          "url": "https://www.bbc.com/news/articles/cjwz8051y0lo?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC",
+          "sourceId": "bbc_world",
+          "category": "general",
+          "priority": "primary",
+          "date": "Sun, 15 Mar 2026 00:01:31 GMT",
+          "description": "Predictions markets have hosted millions of dollars of bets related to the war in Iran."
+        },
+        {
           "headline": "Three more Iran football team members change minds over asylum",
           "url": "https://www.bbc.com/news/articles/c98gz372683o?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC",
@@ -1970,6 +1997,16 @@
           "priority": "primary",
           "date": "Sat, 14 Mar 2026 20:48:55 GMT",
           "description": "Four of seven members of the women's football delegation who originally sought to stay in Australia have now chosen to return home."
+        },
+        {
+          "headline": "Medvedev stuns Alcaraz to set up Sinner final",
+          "url": "https://www.bbc.com/sport/tennis/articles/cqlgn0vz4y1o?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC",
+          "sourceId": "bbc_world",
+          "category": "general",
+          "priority": "primary",
+          "date": "Sun, 15 Mar 2026 00:32:02 GMT",
+          "description": "World number two Jannik Sinner puts on a masterclass to beat Alexander Zverev 6-2 6-4 and reach his first final at Indian Wells, while Daniil Medvedev ends Carlos Alcaraz's winning run."
         },
         {
           "headline": "Russia exploiting Iran war, Zelensky says after fresh bombardment",
@@ -1990,16 +2027,6 @@
           "priority": "primary",
           "date": "Sat, 14 Mar 2026 23:56:28 GMT",
           "description": "Iraq will travel to Mexico by private plane for their World Cup play-off despite calls from coach Graham Arnold to postpone the match amid the escalating US-Israeli war with Iran, the country's FA pre"
-        },
-        {
-          "headline": "Medvedev stuns Alcaraz to set up Sinner final",
-          "url": "https://www.bbc.com/sport/tennis/articles/cqlgn0vz4y1o?at_medium=RSS&amp;at_campaign=rss",
-          "source": "BBC",
-          "sourceId": "bbc_world",
-          "category": "general",
-          "priority": "primary",
-          "date": "Sun, 15 Mar 2026 00:32:02 GMT",
-          "description": "World number two Jannik Sinner puts on a masterclass to beat Alexander Zverev 6-2 6-4 and reach his first final at Indian Wells, while Daniil Medvedev ends Carlos Alcaraz's winning run."
         },
         {
           "headline": "Trump urges UK and other nations to send warships to Strait of Hormuz",
@@ -2030,16 +2057,6 @@
           "priority": "primary",
           "date": "Sat, 14 Mar 2026 18:02:15 GMT",
           "description": "One the most influential thinkers in post-war Germany, he linked philosophy and political action throughout his life."
-        },
-        {
-          "headline": "Rescuers blame weather and 'underprepared skiers' for rise in Alps avalanche deaths",
-          "url": "https://www.bbc.com/news/articles/cev7111kx9wo?at_medium=RSS&amp;at_campaign=rss",
-          "source": "BBC",
-          "sourceId": "bbc_world",
-          "category": "general",
-          "priority": "primary",
-          "date": "Sat, 14 Mar 2026 16:32:25 GMT",
-          "description": "The BBC joins a French Alps rescue team as the number of skiers killed this season passes 100."
         },
         {
           "headline": "Palestinians Stream Back to Northern Gaza on Foot",
@@ -2348,7 +2365,7 @@
           "sourceId": "nyt_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Sun, 15 Mar 2026 10:14:44 +0000",
+          "date": "Sun, 15 Mar 2026 10:55:00 +0000",
           "description": "Iran’s foreign minister claimed the Strait of Hormuz was open to all except America or its allies. President Trump had threatened to strike Iran’s main oil export terminal if it did not lift the de fa"
         },
         {
@@ -2497,6 +2514,33 @@
           "priority": "secondary",
           "date": "Sun, 15 Mar 2026 10:14:43 +0000",
           "description": ""
+        },
+        {
+          "headline": "Thousands in Paris protest military actions in Iran, Lebanon and Palestine",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/15/thousands-in-paris-protest-military-actions-in-iran-lebanon-and-palestine?traffic_source=rss",
+          "source": "Al Jazeera",
+          "sourceId": "aljazeera",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Sun, 15 Mar 2026 10:21:04 +0000",
+          "description": "Thousands in Paris protest military operations in the Middle East. One of more than 85 protests across France."
+        },
+        {
+          "headline": "US, China hold trade talks in Paris to clear path to Trump-Xi summit",
+          "url": "https://www.aljazeera.com/news/2026/3/15/us-china-hold-trade-talks-in-paris-to-clear-path-to-trump-xi-summit?traffic_source=rss",
+          "source": "Al Jazeera",
+          "sourceId": "aljazeera",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Sun, 15 Mar 2026 10:10:04 +0000",
+          "description": "The world&#039;s two largest economies trying to hash out trade issues before US President Trump is expected to visit China.",
+          "watchCandidate": true,
+          "watchSignals": [
+            {
+              "category": "temporal",
+              "matched": "expected to"
+            }
+          ]
         },
         {
           "headline": "Mercedes teenager Kimi Antonelli wins first F1 in China; Russell second",
@@ -2652,26 +2696,6 @@
           "priority": "secondary",
           "date": "Sun, 15 Mar 2026 06:12:04 +0000",
           "description": "Cars were seen burned and one overturned in in Tel Aviv district caused by shrapnel after a wave of Iranian missiles."
-        },
-        {
-          "headline": "As Syria marks 15 years since anti-Assad uprising, security issues remain",
-          "url": "https://www.aljazeera.com/features/2026/3/15/as-syria-marks-15-years-since-anti-assad-uprising-security-issues-remain?traffic_source=rss",
-          "source": "Al Jazeera",
-          "sourceId": "aljazeera",
-          "category": "general",
-          "priority": "secondary",
-          "date": "Sun, 15 Mar 2026 05:13:09 +0000",
-          "description": "Syrians celebrate the start of the 2011 uprising that, in 2024, put an end to Bashar al-Assad&#039;s rule."
-        },
-        {
-          "headline": "FPV drone slams into US military base in Iraq",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/15/fpv-drone-slams-into-us-military-base-in-iraq?traffic_source=rss",
-          "source": "Al Jazeera",
-          "sourceId": "aljazeera",
-          "category": "general",
-          "priority": "secondary",
-          "date": "Sun, 15 Mar 2026 04:53:14 +0000",
-          "description": "Iraq&#039;s Iranian-backed Kataib Hezbollah has released drone video from an attack on the US&#039;s Victory Base in Baghdad."
         }
       ],
       "business": [
@@ -2734,6 +2758,16 @@
           "priority": "primary",
           "date": "Sun, 15 Mar 2026 01:30:06 GMT",
           "description": "Attack on Iranian warship in coastal waters highlights country’s vulnerability to Middle East conflict"
+        },
+        {
+          "headline": "Zelenskyy challenges Europe over Russian oil imports",
+          "url": "https://www.ft.com/content/9e7dc3e6-e79d-4a9b-adc3-ab4c7a7ad552",
+          "source": "Financial Times",
+          "sourceId": "ft_home",
+          "category": "business",
+          "priority": "primary",
+          "date": "Sun, 15 Mar 2026 10:16:32 GMT",
+          "description": "Ukrainian president asks if countries ‘collectively decided’ to restart flows from Russia"
         },
         {
           "headline": "Ukraine peace talks fizzle out as Trump’s focus shifts to Iran",
@@ -3118,16 +3152,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeW5OdDlrYjI1NWlUVnhQZkR4amZiUThIc2tjOXVYVHZvXy1GWUMzUWRQZ282OEdMdXBYdUttajQ3VnIzMTRhNmVNR3RFclFsMVFhcXFtYnA1RExUNi00RVBRT3FtX0lwd1hJRkR"
         },
         {
-          "headline": "NHL 2025-26 season predictions 3.0: How did the trade deadline impact our picks? - The Athletic - The New York Times",
-          "url": "https://www.nytimes.com/athletic/7116375/2026/03/14/nhl-2025-26-season-predictions-trade-deadline/",
-          "source": "Daybook: Economic Calendar",
-          "sourceId": "daybook_econ",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Sat, 14 Mar 2026 11:00:43 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPUDVZdkdsTmhWRnEzUmdFYWhHMHVaZjctcndNQi1qN1NpaEcwRUJ6dU84Ui02MmJ0dG83ZzNnbFdYeF84MU9Xeks5cTE2NnJBMXR2bENfcTMzV0FDS0R1V0ZzSTU4LUNfSHdCQzI"
-        },
-        {
           "headline": "‘It was a real happy day for us’ | Bandits GM Steve Dietrich talks trade deadline deals - Buffalo Bandits",
           "url": "https://bandits.com/it-was-a-real-happy-day-for-us-bandits-gm-steve-dietrich-talks-trade-deadline-deals/",
           "source": "Daybook: Economic Calendar",
@@ -3136,6 +3160,16 @@
           "priority": "reference",
           "date": "Wed, 11 Mar 2026 23:54:25 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNUTdDN3pUcVRtNXhMZVA5a2Fjd0FVc0U4NUIzdndwZGpob095NkgtYUVYdTB4RzFwYkJBYlQwWEdpMXJLcFBuWFhfRElzaWk0alJZS2t6MG03NUVxTEhHTGMxZ0RJamxjblUxZUh"
+        },
+        {
+          "headline": "NHL 2025-26 season predictions 3.0: How did the trade deadline impact our picks? - The Athletic - The New York Times",
+          "url": "https://www.nytimes.com/athletic/7116375/2026/03/14/nhl-2025-26-season-predictions-trade-deadline/",
+          "source": "Daybook: Economic Calendar",
+          "sourceId": "daybook_econ",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Sat, 14 Mar 2026 11:00:43 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPUDVZdkdsTmhWRnEzUmdFYWhHMHVaZjctcndNQi1qN1NpaEcwRUJ6dU84Ui02MmJ0dG83ZzNnbFdYeF84MU9Xeks5cTE2NnJBMXR2bENfcTMzV0FDS0R1V0ZzSTU4LUNfSHdCQzI"
         },
         {
           "headline": "Rangers finding success post NHL trade deadline behind new-look top line - SNY",
@@ -3159,13 +3193,13 @@
         },
         {
           "headline": "Alibaba Stock Is Down but Not Out. Its Earnings Report Should Boost Shares. - Barron's",
-          "url": "https://www.barrons.com/articles/alibaba-baba-stock-price-earnings-b0e4dde4?gaa_at=eafs&gaa_n=AWEtsqdrNpVrzNGQLUiz8e0AD9Yj_qz-YFmVgeBkyQGzduqy93bOESi6kxmW&gaa_ts=69b68df1&gaa_sig=W-Dsoa27bZRe9xKnqdGLQ20ECaBEx_Cg0RWdPTF1OPpm2IQr_2K-L8ZWmAUkwID2qd6ZATB0Mw9xg4WsXrJQsg%3D%3D",
+          "url": "https://www.barrons.com/articles/alibaba-baba-stock-price-earnings-b0e4dde4?gaa_at=eafs&gaa_n=AWEtsqdD1DpWDWGrXjPYrPDMFKJeFC-ES8XFimDKhC8v_U3-9-g9d4OcXk7P&gaa_ts=69b693ee&gaa_sig=fHTw0zUa9OO9lNoutVN-wFBL7ig-WGIzGQuFkjJMJA9AG7ilYG9hvMgXMnp4_l6YwlAEcIzXGsOSmKDqjAOEeQ%3D%3D",
           "source": "Daybook: Economic Calendar",
           "sourceId": "daybook_econ",
           "category": "daybook",
           "priority": "reference",
           "date": "Thu, 12 Mar 2026 12:40:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgNBVV95cUxNQ1hZQmVOQ1duTHE0T0hONmJKNUNOWFhTSUtjeUJZYzUtRDZzZHdCMXZUQXIwa25PMjItU3lDY2N1MHJNNlZNOUF1Tk5IQV9aZzhkZ2JZYmx1Y0xJMVdrVVNMdm5ldG4wczgtVDA"
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgNBVV95cUxQZmpYdnM0QnNLSktKc1BTaWhKNVVtaVBYa1gxZXNIMk1XcU9NcVhsdVgyY2xCM0xQWnlXQkZrQUpaSl9nanNkSmhNRWlTaFBMWDQwVXAwWW9iNXhGMFg0VmpwdjZBc2ZtbUNjeXV"
         },
         {
           "headline": "Communication key to helping new players after NHL Trade Deadline - NHL.com",
@@ -3238,16 +3272,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBNSjlZWlp1VnFrckgyVHNRRHpIdk5OdnYzWUt3S3h2UENVRHdnbWd5czZrdmZQQTBEZHg4X1JqNm1qdDJ5SF9KQWpsTmdEZnZCRDZLQzlYMlJUc0g0dW5jaEdiNHl4VkdHNmZjY0J"
         },
         {
-          "headline": "Hulu has opted not to proceed with its Buffy the Vampire reboot, starring Sarah Michelle Gellar. Chloé Zhao directed the pilot, Buddy: New Sunnydale. Read more below. - Facebook",
-          "url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fdeadline%2Fphotos%2Fhulu-has-opted-not-to-proceed-with-its-buffy-the-vampire-reboot-starring-sarah-m%2F1286935123306825%2F",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Sun, 15 Mar 2026 08:05:41 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNemxhN045N1NqY1BoQ2w0MGtQVzFnRHRsaDB1Qnk4MDlidmNLY0lqN3JFV1BmVFJEQXhwX3RTZkR1dE9TS2JkSzF6OW1wOHJpYXkyRmZOeDUtVlpKTTdIMUZUeWJ5bWFRZm9uQVZ"
-        },
-        {
           "headline": "Drama at the deadline as candidates file for Iowa’s 2026 Primary Elections - Radio Iowa",
           "url": "https://www.radioiowa.com/2026/03/14/drama-at-the-deadline-as-candidates-file-for-iowas-2026-primary-elections/",
           "source": "Daybook: Scheduled Events",
@@ -3256,6 +3280,16 @@
           "priority": "reference",
           "date": "Sat, 14 Mar 2026 22:32:40 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNbHBuNFN6RE1scDFheHVlRVkzWThOQktHYjA2UEtCODNuZ1BWd29qYjFXQzFoTzdBNU1kcjBqRkU5WU1KWHpHOXV6LUdzbTVwckFEb2tERUo2NHc4VjJmeHRCMGhGdnNaUElKMjR"
+        },
+        {
+          "headline": "Hulu has opted not to proceed with its Buffy the Vampire reboot, starring Sarah Michelle Gellar. Chloé Zhao directed the pilot, Buddy: New Sunnydale. Read more below. - Facebook",
+          "url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fdeadline%2Fphotos%2Fhulu-has-opted-not-to-proceed-with-its-buffy-the-vampire-reboot-starring-sarah-m%2F1286935123306825%2F",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Sun, 15 Mar 2026 08:05:41 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNemxhN045N1NqY1BoQ2w0MGtQVzFnRHRsaDB1Qnk4MDlidmNLY0lqN3JFV1BmVFJEQXhwX3RTZkR1dE9TS2JkSzF6OW1wOHJpYXkyRmZOeDUtVlpKTTdIMUZUeWJ5bWFRZm9uQVZ"
         },
         {
           "headline": "“Raylee’s Law” has less than two left to pass legislature before deadline - WSAZ",
@@ -3489,6 +3523,16 @@
           ]
         },
         {
+          "headline": "Oil poised for further gains as Middle East conflict threatens export facilities - Reuters",
+          "url": "https://www.reuters.com/business/energy/oil-poised-further-gains-middle-east-conflict-threatens-export-facilities-2026-03-15/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sun, 15 Mar 2026 09:13:02 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVHlOVVdNbmk2elRIdUVBLWJQMG55cC1DRjhlVGxyeldiZ3Z0QjZ6bEluQ0dSZFlXaEZ2Ul9uTklOd1lMd0ZyZkR6Sl9HY3p0bEFnSlNBbVNFU3FqMU9tMnMyVHNVVTZmQmR5d1J"
+        },
+        {
           "headline": "Japan to release oil stocks as US says buy American - Reuters",
           "url": "https://www.reuters.com/business/energy/japan-release-oil-stocks-us-says-buy-american-2026-03-15/",
           "source": "Reuters",
@@ -3525,7 +3569,7 @@
           "sourceId": "reuters_world",
           "category": "wire",
           "priority": "primary",
-          "date": "Sun, 15 Mar 2026 02:19:52 GMT",
+          "date": "Sun, 15 Mar 2026 02:19:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOWS1EQVBESlRXOG9xSUdQdmdVZ2hOcUNmSXM2REJ1NTAyaEtiMEFBZ1VJZnhSbGk2aTlkS0RlRE5ici1xcXpIMWdoWWpuUjhmS3AyNEZ6NUxrajFXUEoxb0hERWg2d3BKMlh0SHZ"
         },
         {
@@ -3582,8 +3626,18 @@
           "sourceId": "reuters_world",
           "category": "wire",
           "priority": "primary",
-          "date": "Sun, 15 Mar 2026 00:04:00 GMT",
+          "date": "Sun, 15 Mar 2026 00:04:12 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNUHRnSFM2Z3hZVVk3aS1uUHpDM0ZVSmwzZFhYMEIzVUtEM0V0R3FpclVQc1VUZGEyT0thZWlKQzROdGk5YUoyTlgzQ2Y1ZnVBbWFydWVfV2NJRXVJeXRKbnRaUTktaDVQaXRSaW1"
+        },
+        {
+          "headline": "Zelenskiy says Ukraine wants money, technology in return for Middle East drone help - Reuters",
+          "url": "https://www.reuters.com/business/aerospace-defense/zelenskiy-says-ukraine-wants-money-technology-return-middle-east-drone-help-2026-03-15/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sun, 15 Mar 2026 08:52:27 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWWlSVHFNMFJTZmwwemVVQW9JdHhWY3B5UG1INnNPcHFUVlVOSXdmTHdKVml4dVotbnhycU9hUDVCbzlfV1VhQ015dG1QbFZfSjMwUHp4SEtVb2VMZk9CMV85SHZwbEZQcE9xRjd"
         },
         {
           "headline": "F1 calls off April races in Bahrain and Saudi Arabia - Reuters",
@@ -3626,26 +3680,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNNVVCNnJIV2tsZjdOU2JSVTh6VnFRQkVoLV9sTHlsY3RadkpkXzFMLWdGMlRUcmlYTWZ0U19FbmhrSEphRFdRWHpuc3JyY1BoWEM1VE1PaWQ0d0JUVEppRlBuTmNnSG9iSzBNcUp"
         },
         {
-          "headline": "North Korean leader Kim oversees test-launch of multiple rocket launchers -KCNA - Reuters",
-          "url": "https://www.reuters.com/business/aerospace-defense/north-korean-leader-kim-oversees-test-launch-multiple-rocket-launchers-kcna-2026-03-14/",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sat, 14 Mar 2026 21:42:47 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYS1zd051YmRJTUU3NC00T3BzdHZ3a0xZbkswR0JOS3N3dVBjWmxadTFTbXA4ZDFwdjRsdTA2X0x4cFp1Y0RSM3V0bEZnOWM2M1VBMDcyamZES2d0VHFEYWtJVF9HSndqazRyRS0"
-        },
-        {
-          "headline": "Exclusive: Trump rejects efforts to launch Iran ceasefire talks, sources say - Reuters",
-          "url": "https://www.reuters.com/world/middle-east/trump-rejects-efforts-launch-iran-ceasefire-talks-sources-say-2026-03-14/",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sat, 14 Mar 2026 16:46:41 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQcG41Tl80eUxGMzVlQm5VZlNrbmc0UGI5aktXY0dxRGtQWGYxOTBJYWxlQzd0MV9wSnJJSV9Od0c4Umk2MGxPNHp4ZEhCQm0zemtxWjJiOGVjRVdDUjFxYWxjT0hNUTRHNTlnMjN"
-        },
-        {
           "headline": "BBC visits aftermath of Israeli strike on Lebanon that killed family as IDF targets Hezbollah",
           "url": "https://www.bbc.com/news/articles/c20lvn0ex6yo?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC",
@@ -3683,14 +3717,14 @@
           "description": "Eleven people were rescued overnight after a minibus taxi got stuck in rising floodwaters in Nairobi."
         },
         {
-          "headline": "'Gruesome' war bets fuel calls for crackdown on prediction markets",
-          "url": "https://www.bbc.com/news/articles/cjwz8051y0lo?at_medium=RSS&amp;at_campaign=rss",
+          "headline": "Israeli forces kill Palestinian couple and two of their children in occupied West Bank",
+          "url": "https://www.bbc.com/news/articles/cqxdndz75zvo?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC",
           "sourceId": "bbc_world",
           "category": "general",
           "priority": "primary",
-          "date": "Sun, 15 Mar 2026 00:01:31 GMT",
-          "description": "Predictions markets have hosted millions of dollars of bets related to the war in Iran."
+          "date": "Sun, 15 Mar 2026 10:38:22 GMT",
+          "description": "Mohammed, aged five, and Othman, aged seven, were killed alongside their parents, the Palestinian health ministry says."
         },
         {
           "headline": "Treasure hunter freed from prison after refusing to turn over shipwreck gold",
@@ -3723,6 +3757,16 @@
           "description": "Discontent is mounting over rolling blackouts and shortages of food, fuel and medicine, exacerbated by a US blockade."
         },
         {
+          "headline": "'Gruesome' war bets fuel calls for crackdown on prediction markets",
+          "url": "https://www.bbc.com/news/articles/cjwz8051y0lo?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC",
+          "sourceId": "bbc_world",
+          "category": "general",
+          "priority": "primary",
+          "date": "Sun, 15 Mar 2026 00:01:31 GMT",
+          "description": "Predictions markets have hosted millions of dollars of bets related to the war in Iran."
+        },
+        {
           "headline": "Three more Iran football team members change minds over asylum",
           "url": "https://www.bbc.com/news/articles/c98gz372683o?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC",
@@ -3731,6 +3775,16 @@
           "priority": "primary",
           "date": "Sat, 14 Mar 2026 20:48:55 GMT",
           "description": "Four of seven members of the women's football delegation who originally sought to stay in Australia have now chosen to return home."
+        },
+        {
+          "headline": "Medvedev stuns Alcaraz to set up Sinner final",
+          "url": "https://www.bbc.com/sport/tennis/articles/cqlgn0vz4y1o?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC",
+          "sourceId": "bbc_world",
+          "category": "general",
+          "priority": "primary",
+          "date": "Sun, 15 Mar 2026 00:32:02 GMT",
+          "description": "World number two Jannik Sinner puts on a masterclass to beat Alexander Zverev 6-2 6-4 and reach his first final at Indian Wells, while Daniil Medvedev ends Carlos Alcaraz's winning run."
         },
         {
           "headline": "Russia exploiting Iran war, Zelensky says after fresh bombardment",
@@ -3751,16 +3805,6 @@
           "priority": "primary",
           "date": "Sat, 14 Mar 2026 23:56:28 GMT",
           "description": "Iraq will travel to Mexico by private plane for their World Cup play-off despite calls from coach Graham Arnold to postpone the match amid the escalating US-Israeli war with Iran, the country's FA pre"
-        },
-        {
-          "headline": "Medvedev stuns Alcaraz to set up Sinner final",
-          "url": "https://www.bbc.com/sport/tennis/articles/cqlgn0vz4y1o?at_medium=RSS&amp;at_campaign=rss",
-          "source": "BBC",
-          "sourceId": "bbc_world",
-          "category": "general",
-          "priority": "primary",
-          "date": "Sun, 15 Mar 2026 00:32:02 GMT",
-          "description": "World number two Jannik Sinner puts on a masterclass to beat Alexander Zverev 6-2 6-4 and reach his first final at Indian Wells, while Daniil Medvedev ends Carlos Alcaraz's winning run."
         },
         {
           "headline": "Trump urges UK and other nations to send warships to Strait of Hormuz",
@@ -3791,16 +3835,6 @@
           "priority": "primary",
           "date": "Sat, 14 Mar 2026 18:02:15 GMT",
           "description": "One the most influential thinkers in post-war Germany, he linked philosophy and political action throughout his life."
-        },
-        {
-          "headline": "Rescuers blame weather and 'underprepared skiers' for rise in Alps avalanche deaths",
-          "url": "https://www.bbc.com/news/articles/cev7111kx9wo?at_medium=RSS&amp;at_campaign=rss",
-          "source": "BBC",
-          "sourceId": "bbc_world",
-          "category": "general",
-          "priority": "primary",
-          "date": "Sat, 14 Mar 2026 16:32:25 GMT",
-          "description": "The BBC joins a French Alps rescue team as the number of skiers killed this season passes 100."
         },
         {
           "headline": "Palestinians Stream Back to Northern Gaza on Foot",
@@ -4013,6 +4047,16 @@
           "description": "Attack on Iranian warship in coastal waters highlights country’s vulnerability to Middle East conflict"
         },
         {
+          "headline": "Zelenskyy challenges Europe over Russian oil imports",
+          "url": "https://www.ft.com/content/9e7dc3e6-e79d-4a9b-adc3-ab4c7a7ad552",
+          "source": "Financial Times",
+          "sourceId": "ft_home",
+          "category": "business",
+          "priority": "primary",
+          "date": "Sun, 15 Mar 2026 10:16:32 GMT",
+          "description": "Ukrainian president asks if countries ‘collectively decided’ to restart flows from Russia"
+        },
+        {
           "headline": "Ukraine peace talks fizzle out as Trump’s focus shifts to Iran",
           "url": "https://www.ft.com/content/c4fa2378-516b-4689-a4cf-69163ff2d31a",
           "source": "Financial Times",
@@ -4211,7 +4255,7 @@
           "sourceId": "nyt_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Sun, 15 Mar 2026 10:14:44 +0000",
+          "date": "Sun, 15 Mar 2026 10:55:00 +0000",
           "description": "Iran’s foreign minister claimed the Strait of Hormuz was open to all except America or its allies. President Trump had threatened to strike Iran’s main oil export terminal if it did not lift the de fa"
         },
         {
@@ -4512,6 +4556,33 @@
           "description": "Check out the stocks Heard on the Street writers favor in their eighth annual stock-picking contest."
         },
         {
+          "headline": "Thousands in Paris protest military actions in Iran, Lebanon and Palestine",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/15/thousands-in-paris-protest-military-actions-in-iran-lebanon-and-palestine?traffic_source=rss",
+          "source": "Al Jazeera",
+          "sourceId": "aljazeera",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Sun, 15 Mar 2026 10:21:04 +0000",
+          "description": "Thousands in Paris protest military operations in the Middle East. One of more than 85 protests across France."
+        },
+        {
+          "headline": "US, China hold trade talks in Paris to clear path to Trump-Xi summit",
+          "url": "https://www.aljazeera.com/news/2026/3/15/us-china-hold-trade-talks-in-paris-to-clear-path-to-trump-xi-summit?traffic_source=rss",
+          "source": "Al Jazeera",
+          "sourceId": "aljazeera",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Sun, 15 Mar 2026 10:10:04 +0000",
+          "description": "The world&#039;s two largest economies trying to hash out trade issues before US President Trump is expected to visit China.",
+          "watchCandidate": true,
+          "watchSignals": [
+            {
+              "category": "temporal",
+              "matched": "expected to"
+            }
+          ]
+        },
+        {
           "headline": "Mercedes teenager Kimi Antonelli wins first F1 in China; Russell second",
           "url": "https://www.aljazeera.com/sports/2026/3/15/mercedes-teenager-kimi-antonelli-wins-first-f1-in-china-russell-second?traffic_source=rss",
           "source": "Al Jazeera",
@@ -4667,24 +4738,34 @@
           "description": "Cars were seen burned and one overturned in in Tel Aviv district caused by shrapnel after a wave of Iranian missiles."
         },
         {
-          "headline": "As Syria marks 15 years since anti-Assad uprising, security issues remain",
-          "url": "https://www.aljazeera.com/features/2026/3/15/as-syria-marks-15-years-since-anti-assad-uprising-security-issues-remain?traffic_source=rss",
-          "source": "Al Jazeera",
-          "sourceId": "aljazeera",
-          "category": "general",
+          "headline": "Ukraine recovering from Russian strike, concerned Putin is benefiting from Iran war",
+          "url": "https://www.france24.com/en/ukraine-recovering-from-russian-strike-concerned-putin-is-benefiting-from-iran-war",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
           "priority": "secondary",
-          "date": "Sun, 15 Mar 2026 05:13:09 +0000",
-          "description": "Syrians celebrate the start of the 2011 uprising that, in 2024, put an end to Bashar al-Assad&#039;s rule."
+          "date": "Sun, 15 Mar 2026 10:37:06 GMT",
+          "description": ""
         },
         {
-          "headline": "FPV drone slams into US military base in Iraq",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/15/fpv-drone-slams-into-us-military-base-in-iraq?traffic_source=rss",
-          "source": "Al Jazeera",
-          "sourceId": "aljazeera",
-          "category": "general",
+          "headline": "Gaza hit by strongest sandstorm in over five years",
+          "url": "https://www.france24.com/en/gaza-hit-by-strongest-sandstorm-in-over-five-years",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
           "priority": "secondary",
-          "date": "Sun, 15 Mar 2026 04:53:14 +0000",
-          "description": "Iraq&#039;s Iranian-backed Kataib Hezbollah has released drone video from an attack on the US&#039;s Victory Base in Baghdad."
+          "date": "Sun, 15 Mar 2026 10:35:24 GMT",
+          "description": ""
+        },
+        {
+          "headline": "She lost 5 brothers to Syria’s war – Now she’s fighting for justice at the UN",
+          "url": "https://www.france24.com/en/video/20260315-she-lost-5-brothers-to-syria-s-war-%E2%80%93-now-she-s-fighting-for-justice-at-the-un",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Sun, 15 Mar 2026 10:32:55 GMT",
+          "description": ""
         },
         {
           "headline": "Qatar, Kuwait, UAE... Iranian reprisals disrupts daily life across the Gulf",
@@ -4784,7 +4865,7 @@
           "description": ""
         },
         {
-          "headline": "France retain Six Nations title after 13-try thriller with England",
+          "headline": "France retains Six Nations title after 13-try thriller with England",
           "url": "https://www.france24.com/en/sport/20260314-france-retain-six-nations-title-after-13-try-thriller-with-england",
           "source": "France24",
           "sourceId": "france24",
@@ -4811,36 +4892,6 @@
           "category": "wire",
           "priority": "secondary",
           "date": "Sat, 14 Mar 2026 21:34:16 GMT",
-          "description": ""
-        },
-        {
-          "headline": "UN force base in southern Lebanon comes under fire, one peacekeeper wounded",
-          "url": "https://www.france24.com/en/un-force-base-in-southern-lebanon-comes-under-fire-one-peacekeeper-wounded",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Sat, 14 Mar 2026 21:06:32 GMT",
-          "description": ""
-        },
-        {
-          "headline": "Propaganda in 21st-century wars: WITNESS associate director Mahsa Alimardani speaks to France 24",
-          "url": "https://www.france24.com/en/tv-shows/spotlight/20260314-propaganda-in-21st-century-wars-witness-associate-director-mahsa-alimardani-speaks-to-france-24",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Sat, 14 Mar 2026 19:12:15 GMT",
-          "description": ""
-        },
-        {
-          "headline": "Literature in time of crisis: world-renowned writer Azar Nafisi speaks to France 24",
-          "url": "https://www.france24.com/en/tv-shows/spotlight/20260314-literature-in-time-of-crisis-world-renowned-writer-azar-nafisi-speaks-to-france-24",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Sat, 14 Mar 2026 18:19:26 GMT",
           "description": ""
         }
       ],
@@ -5037,16 +5088,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeW5OdDlrYjI1NWlUVnhQZkR4amZiUThIc2tjOXVYVHZvXy1GWUMzUWRQZ282OEdMdXBYdUttajQ3VnIzMTRhNmVNR3RFclFsMVFhcXFtYnA1RExUNi00RVBRT3FtX0lwd1hJRkR"
         },
         {
-          "headline": "NHL 2025-26 season predictions 3.0: How did the trade deadline impact our picks? - The Athletic - The New York Times",
-          "url": "https://www.nytimes.com/athletic/7116375/2026/03/14/nhl-2025-26-season-predictions-trade-deadline/",
-          "source": "Daybook: Economic Calendar",
-          "sourceId": "daybook_econ",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Sat, 14 Mar 2026 11:00:43 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPUDVZdkdsTmhWRnEzUmdFYWhHMHVaZjctcndNQi1qN1NpaEcwRUJ6dU84Ui02MmJ0dG83ZzNnbFdYeF84MU9Xeks5cTE2NnJBMXR2bENfcTMzV0FDS0R1V0ZzSTU4LUNfSHdCQzI"
-        },
-        {
           "headline": "‘It was a real happy day for us’ | Bandits GM Steve Dietrich talks trade deadline deals - Buffalo Bandits",
           "url": "https://bandits.com/it-was-a-real-happy-day-for-us-bandits-gm-steve-dietrich-talks-trade-deadline-deals/",
           "source": "Daybook: Economic Calendar",
@@ -5055,6 +5096,16 @@
           "priority": "reference",
           "date": "Wed, 11 Mar 2026 23:54:25 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNUTdDN3pUcVRtNXhMZVA5a2Fjd0FVc0U4NUIzdndwZGpob095NkgtYUVYdTB4RzFwYkJBYlQwWEdpMXJLcFBuWFhfRElzaWk0alJZS2t6MG03NUVxTEhHTGMxZ0RJamxjblUxZUh"
+        },
+        {
+          "headline": "NHL 2025-26 season predictions 3.0: How did the trade deadline impact our picks? - The Athletic - The New York Times",
+          "url": "https://www.nytimes.com/athletic/7116375/2026/03/14/nhl-2025-26-season-predictions-trade-deadline/",
+          "source": "Daybook: Economic Calendar",
+          "sourceId": "daybook_econ",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Sat, 14 Mar 2026 11:00:43 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPUDVZdkdsTmhWRnEzUmdFYWhHMHVaZjctcndNQi1qN1NpaEcwRUJ6dU84Ui02MmJ0dG83ZzNnbFdYeF84MU9Xeks5cTE2NnJBMXR2bENfcTMzV0FDS0R1V0ZzSTU4LUNfSHdCQzI"
         },
         {
           "headline": "Rangers finding success post NHL trade deadline behind new-look top line - SNY",
@@ -5078,13 +5129,13 @@
         },
         {
           "headline": "Alibaba Stock Is Down but Not Out. Its Earnings Report Should Boost Shares. - Barron's",
-          "url": "https://www.barrons.com/articles/alibaba-baba-stock-price-earnings-b0e4dde4?gaa_at=eafs&gaa_n=AWEtsqdrNpVrzNGQLUiz8e0AD9Yj_qz-YFmVgeBkyQGzduqy93bOESi6kxmW&gaa_ts=69b68df1&gaa_sig=W-Dsoa27bZRe9xKnqdGLQ20ECaBEx_Cg0RWdPTF1OPpm2IQr_2K-L8ZWmAUkwID2qd6ZATB0Mw9xg4WsXrJQsg%3D%3D",
+          "url": "https://www.barrons.com/articles/alibaba-baba-stock-price-earnings-b0e4dde4?gaa_at=eafs&gaa_n=AWEtsqdD1DpWDWGrXjPYrPDMFKJeFC-ES8XFimDKhC8v_U3-9-g9d4OcXk7P&gaa_ts=69b693ee&gaa_sig=fHTw0zUa9OO9lNoutVN-wFBL7ig-WGIzGQuFkjJMJA9AG7ilYG9hvMgXMnp4_l6YwlAEcIzXGsOSmKDqjAOEeQ%3D%3D",
           "source": "Daybook: Economic Calendar",
           "sourceId": "daybook_econ",
           "category": "daybook",
           "priority": "reference",
           "date": "Thu, 12 Mar 2026 12:40:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgNBVV95cUxNQ1hZQmVOQ1duTHE0T0hONmJKNUNOWFhTSUtjeUJZYzUtRDZzZHdCMXZUQXIwa25PMjItU3lDY2N1MHJNNlZNOUF1Tk5IQV9aZzhkZ2JZYmx1Y0xJMVdrVVNMdm5ldG4wczgtVDA"
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgNBVV95cUxQZmpYdnM0QnNLSktKc1BTaWhKNVVtaVBYa1gxZXNIMk1XcU9NcVhsdVgyY2xCM0xQWnlXQkZrQUpaSl9nanNkSmhNRWlTaFBMWDQwVXAwWW9iNXhGMFg0VmpwdjZBc2ZtbUNjeXV"
         },
         {
           "headline": "Communication key to helping new players after NHL Trade Deadline - NHL.com",
@@ -5157,16 +5208,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBNSjlZWlp1VnFrckgyVHNRRHpIdk5OdnYzWUt3S3h2UENVRHdnbWd5czZrdmZQQTBEZHg4X1JqNm1qdDJ5SF9KQWpsTmdEZnZCRDZLQzlYMlJUc0g0dW5jaEdiNHl4VkdHNmZjY0J"
         },
         {
-          "headline": "Hulu has opted not to proceed with its Buffy the Vampire reboot, starring Sarah Michelle Gellar. Chloé Zhao directed the pilot, Buddy: New Sunnydale. Read more below. - Facebook",
-          "url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fdeadline%2Fphotos%2Fhulu-has-opted-not-to-proceed-with-its-buffy-the-vampire-reboot-starring-sarah-m%2F1286935123306825%2F",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Sun, 15 Mar 2026 08:05:41 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNemxhN045N1NqY1BoQ2w0MGtQVzFnRHRsaDB1Qnk4MDlidmNLY0lqN3JFV1BmVFJEQXhwX3RTZkR1dE9TS2JkSzF6OW1wOHJpYXkyRmZOeDUtVlpKTTdIMUZUeWJ5bWFRZm9uQVZ"
-        },
-        {
           "headline": "Drama at the deadline as candidates file for Iowa’s 2026 Primary Elections - Radio Iowa",
           "url": "https://www.radioiowa.com/2026/03/14/drama-at-the-deadline-as-candidates-file-for-iowas-2026-primary-elections/",
           "source": "Daybook: Scheduled Events",
@@ -5175,6 +5216,16 @@
           "priority": "reference",
           "date": "Sat, 14 Mar 2026 22:32:40 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNbHBuNFN6RE1scDFheHVlRVkzWThOQktHYjA2UEtCODNuZ1BWd29qYjFXQzFoTzdBNU1kcjBqRkU5WU1KWHpHOXV6LUdzbTVwckFEb2tERUo2NHc4VjJmeHRCMGhGdnNaUElKMjR"
+        },
+        {
+          "headline": "Hulu has opted not to proceed with its Buffy the Vampire reboot, starring Sarah Michelle Gellar. Chloé Zhao directed the pilot, Buddy: New Sunnydale. Read more below. - Facebook",
+          "url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fdeadline%2Fphotos%2Fhulu-has-opted-not-to-proceed-with-its-buffy-the-vampire-reboot-starring-sarah-m%2F1286935123306825%2F",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Sun, 15 Mar 2026 08:05:41 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNemxhN045N1NqY1BoQ2w0MGtQVzFnRHRsaDB1Qnk4MDlidmNLY0lqN3JFV1BmVFJEQXhwX3RTZkR1dE9TS2JkSzF6OW1wOHJpYXkyRmZOeDUtVlpKTTdIMUZUeWJ5bWFRZm9uQVZ"
         },
         {
           "headline": "“Raylee’s Law” has less than two left to pass legislature before deadline - WSAZ",
@@ -5491,16 +5542,6 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeW5OdDlrYjI1NWlUVnhQZkR4amZiUThIc2tjOXVYVHZvXy1GWUMzUWRQZ282OEdMdXBYdUttajQ3VnIzMTRhNmVNR3RFclFsMVFhcXFtYnA1RExUNi00RVBRT3FtX0lwd1hJRkR"
     },
     {
-      "headline": "NHL 2025-26 season predictions 3.0: How did the trade deadline impact our picks? - The Athletic - The New York Times",
-      "url": "https://www.nytimes.com/athletic/7116375/2026/03/14/nhl-2025-26-season-predictions-trade-deadline/",
-      "source": "Daybook: Economic Calendar",
-      "sourceId": "daybook_econ",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Sat, 14 Mar 2026 11:00:43 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPUDVZdkdsTmhWRnEzUmdFYWhHMHVaZjctcndNQi1qN1NpaEcwRUJ6dU84Ui02MmJ0dG83ZzNnbFdYeF84MU9Xeks5cTE2NnJBMXR2bENfcTMzV0FDS0R1V0ZzSTU4LUNfSHdCQzI"
-    },
-    {
       "headline": "‘It was a real happy day for us’ | Bandits GM Steve Dietrich talks trade deadline deals - Buffalo Bandits",
       "url": "https://bandits.com/it-was-a-real-happy-day-for-us-bandits-gm-steve-dietrich-talks-trade-deadline-deals/",
       "source": "Daybook: Economic Calendar",
@@ -5509,6 +5550,16 @@
       "priority": "reference",
       "date": "Wed, 11 Mar 2026 23:54:25 GMT",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNUTdDN3pUcVRtNXhMZVA5a2Fjd0FVc0U4NUIzdndwZGpob095NkgtYUVYdTB4RzFwYkJBYlQwWEdpMXJLcFBuWFhfRElzaWk0alJZS2t6MG03NUVxTEhHTGMxZ0RJamxjblUxZUh"
+    },
+    {
+      "headline": "NHL 2025-26 season predictions 3.0: How did the trade deadline impact our picks? - The Athletic - The New York Times",
+      "url": "https://www.nytimes.com/athletic/7116375/2026/03/14/nhl-2025-26-season-predictions-trade-deadline/",
+      "source": "Daybook: Economic Calendar",
+      "sourceId": "daybook_econ",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Sat, 14 Mar 2026 11:00:43 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPUDVZdkdsTmhWRnEzUmdFYWhHMHVaZjctcndNQi1qN1NpaEcwRUJ6dU84Ui02MmJ0dG83ZzNnbFdYeF84MU9Xeks5cTE2NnJBMXR2bENfcTMzV0FDS0R1V0ZzSTU4LUNfSHdCQzI"
     },
     {
       "headline": "Rangers finding success post NHL trade deadline behind new-look top line - SNY",
@@ -5532,13 +5583,13 @@
     },
     {
       "headline": "Alibaba Stock Is Down but Not Out. Its Earnings Report Should Boost Shares. - Barron's",
-      "url": "https://www.barrons.com/articles/alibaba-baba-stock-price-earnings-b0e4dde4?gaa_at=eafs&gaa_n=AWEtsqdrNpVrzNGQLUiz8e0AD9Yj_qz-YFmVgeBkyQGzduqy93bOESi6kxmW&gaa_ts=69b68df1&gaa_sig=W-Dsoa27bZRe9xKnqdGLQ20ECaBEx_Cg0RWdPTF1OPpm2IQr_2K-L8ZWmAUkwID2qd6ZATB0Mw9xg4WsXrJQsg%3D%3D",
+      "url": "https://www.barrons.com/articles/alibaba-baba-stock-price-earnings-b0e4dde4?gaa_at=eafs&gaa_n=AWEtsqdD1DpWDWGrXjPYrPDMFKJeFC-ES8XFimDKhC8v_U3-9-g9d4OcXk7P&gaa_ts=69b693ee&gaa_sig=fHTw0zUa9OO9lNoutVN-wFBL7ig-WGIzGQuFkjJMJA9AG7ilYG9hvMgXMnp4_l6YwlAEcIzXGsOSmKDqjAOEeQ%3D%3D",
       "source": "Daybook: Economic Calendar",
       "sourceId": "daybook_econ",
       "category": "daybook",
       "priority": "reference",
       "date": "Thu, 12 Mar 2026 12:40:00 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgNBVV95cUxNQ1hZQmVOQ1duTHE0T0hONmJKNUNOWFhTSUtjeUJZYzUtRDZzZHdCMXZUQXIwa25PMjItU3lDY2N1MHJNNlZNOUF1Tk5IQV9aZzhkZ2JZYmx1Y0xJMVdrVVNMdm5ldG4wczgtVDA"
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgNBVV95cUxQZmpYdnM0QnNLSktKc1BTaWhKNVVtaVBYa1gxZXNIMk1XcU9NcVhsdVgyY2xCM0xQWnlXQkZrQUpaSl9nanNkSmhNRWlTaFBMWDQwVXAwWW9iNXhGMFg0VmpwdjZBc2ZtbUNjeXV"
     },
     {
       "headline": "Communication key to helping new players after NHL Trade Deadline - NHL.com",
@@ -5611,16 +5662,6 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBNSjlZWlp1VnFrckgyVHNRRHpIdk5OdnYzWUt3S3h2UENVRHdnbWd5czZrdmZQQTBEZHg4X1JqNm1qdDJ5SF9KQWpsTmdEZnZCRDZLQzlYMlJUc0g0dW5jaEdiNHl4VkdHNmZjY0J"
     },
     {
-      "headline": "Hulu has opted not to proceed with its Buffy the Vampire reboot, starring Sarah Michelle Gellar. Chloé Zhao directed the pilot, Buddy: New Sunnydale. Read more below. - Facebook",
-      "url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fdeadline%2Fphotos%2Fhulu-has-opted-not-to-proceed-with-its-buffy-the-vampire-reboot-starring-sarah-m%2F1286935123306825%2F",
-      "source": "Daybook: Scheduled Events",
-      "sourceId": "daybook_scheduled",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Sun, 15 Mar 2026 08:05:41 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNemxhN045N1NqY1BoQ2w0MGtQVzFnRHRsaDB1Qnk4MDlidmNLY0lqN3JFV1BmVFJEQXhwX3RTZkR1dE9TS2JkSzF6OW1wOHJpYXkyRmZOeDUtVlpKTTdIMUZUeWJ5bWFRZm9uQVZ"
-    },
-    {
       "headline": "Drama at the deadline as candidates file for Iowa’s 2026 Primary Elections - Radio Iowa",
       "url": "https://www.radioiowa.com/2026/03/14/drama-at-the-deadline-as-candidates-file-for-iowas-2026-primary-elections/",
       "source": "Daybook: Scheduled Events",
@@ -5629,6 +5670,16 @@
       "priority": "reference",
       "date": "Sat, 14 Mar 2026 22:32:40 GMT",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNbHBuNFN6RE1scDFheHVlRVkzWThOQktHYjA2UEtCODNuZ1BWd29qYjFXQzFoTzdBNU1kcjBqRkU5WU1KWHpHOXV6LUdzbTVwckFEb2tERUo2NHc4VjJmeHRCMGhGdnNaUElKMjR"
+    },
+    {
+      "headline": "Hulu has opted not to proceed with its Buffy the Vampire reboot, starring Sarah Michelle Gellar. Chloé Zhao directed the pilot, Buddy: New Sunnydale. Read more below. - Facebook",
+      "url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fdeadline%2Fphotos%2Fhulu-has-opted-not-to-proceed-with-its-buffy-the-vampire-reboot-starring-sarah-m%2F1286935123306825%2F",
+      "source": "Daybook: Scheduled Events",
+      "sourceId": "daybook_scheduled",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Sun, 15 Mar 2026 08:05:41 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNemxhN045N1NqY1BoQ2w0MGtQVzFnRHRsaDB1Qnk4MDlidmNLY0lqN3JFV1BmVFJEQXhwX3RTZkR1dE9TS2JkSzF6OW1wOHJpYXkyRmZOeDUtVlpKTTdIMUZUeWJ5bWFRZm9uQVZ"
     },
     {
       "headline": "“Raylee’s Law” has less than two left to pass legislature before deadline - WSAZ",
@@ -5821,6 +5872,23 @@
       ]
     },
     {
+      "headline": "US, China hold trade talks in Paris to clear path to Trump-Xi summit",
+      "url": "https://www.aljazeera.com/news/2026/3/15/us-china-hold-trade-talks-in-paris-to-clear-path-to-trump-xi-summit?traffic_source=rss",
+      "source": "Al Jazeera",
+      "sourceId": "aljazeera",
+      "category": "general",
+      "priority": "secondary",
+      "date": "Sun, 15 Mar 2026 10:10:04 +0000",
+      "description": "The world&#039;s two largest economies trying to hash out trade issues before US President Trump is expected to visit China.",
+      "watchCandidate": true,
+      "watchSignals": [
+        {
+          "category": "temporal",
+          "matched": "expected to"
+        }
+      ]
+    },
+    {
       "headline": "MotoGP postpones Qatar Grand Prix due to Middle East conflict",
       "url": "https://www.aljazeera.com/sports/2026/3/15/motogp-postpones-qatar-grand-prix-due-to-middle-east-conflict?traffic_source=rss",
       "source": "Al Jazeera",
@@ -5908,7 +5976,7 @@
         "Trump urges US allies to send warships to Strait of Hormuz",
         "Gulf states intercept new missiles and drones as Iran threatens to widen war",
         "After attacks on Iran’s oil facilities, toxic black rain endangers the public",
-        "Another 3 members of Iran’s women’s soccer team decide against staying in Australia as refugees",
+        "As other Iran‑allied groups are engaging in the Mideast war, Yemen’s Houthis hold back",
         "The biggest change to voting in Republican election bill could become a burden for many US voters",
         "Trump seeks to close $1.6 trillion revenue gap with raft of new tariffs",
         "WADA to weigh barring Trump, US officials from LA Olympics and possibly World Cup over unpaid dues"
@@ -5933,7 +6001,7 @@
       "topHeadlines": [
         "Israel launches 'wide-scale' strikes on Iran as Trump says US not ready to make deal to end war",
         "BBC visits aftermath of Israeli strike on Lebanon that killed family as IDF targets Hezbollah",
-        "Cuban protesters ransack Communist Party office as energy crisis deepens",
+        "Israeli forces kill Palestinian couple and two of their children in occupied West Bank",
         "Treasure hunter freed from jail after refusing to turn over shipwreck gold",
         "US names six crew killed in refuelling plane crash in Iraq",
         "Severe flooding kills 62 in Kenya, as heavy rains continue",
@@ -5960,7 +6028,7 @@
       "category": "priority_signal",
       "priority": "primary",
       "topHeadlines": [
-        "The free press is under threat",
+        "Support the Guardian",
         "Feminism What everyone gets wrong about feminism",
         "‘My dear son' The Ukrainian soldier who came back from the dead",
         "Ask Annalisa Barbieri How can I recover after my husband's affair?",
@@ -5969,7 +6037,7 @@
         "Kojo Koram UK conservatives are riding on Maga’s coat-tails",
         "Middle East crisis",
         "Middle East crisis live Israel hits Iran with ‘extensive strikes’ as Trump says US ‘not ready’ to make a deal to end war",
-        "Kharg IslandTrump says US may strike Iran’s oil export hub ‘just for fun’"
+        "US mediaFCC chair threatens to throttle news broadcasts over ‘hoaxes’ about Iran war"
       ]
     },
     {
