@@ -1,51 +1,47 @@
-Good morning, Russell! Here is what happened while you were sleeping.
+Good morning, Russell! Here's what happened while you were sleeping.
 
-## **Top Stories**
+**Top Stories**
 
-- Israeli forces [killed four](https://www.bbc.com/news/articles/cqxdndz75zvo?at_medium=RSS&amp;at_campaign=rss) Palestinians in the occupied West Bank, including a couple and their two young children aged 5 and 7, according to the BBC.
+- Iran [continues striking](https://apnews.com/article/iran-iraq-us-trump-march-16-2026-5f56cff945472db519d91dd5036ead9d) Gulf neighbors while maintaining its stranglehold on oil shipping through the Strait of Hormuz, AP reports, as concerns grow of a global energy crisis.
 
-- Trump urged [China and](https://www.ft.com/content/4dd2173b-b283-41e4-8dee-4f04919dea68) the UK to send warships to reopen the Strait of Hormuz after his bombing of Iran's Kharg Island deepened fears of a protracted oil crisis, per the FT.
+- Trump [suggested delaying](https://apnews.com/article/trump-china-iran-strait-hormuz-7ce3b6cd9ca6bd222dfe3236e10f8266) his planned China trip while pressuring Beijing to help secure the Strait of Hormuz, according to AP.
 
-- Severe flooding [killed 62](https://www.bbc.com/news/articles/cz6e5eng03yo?at_medium=RSS&amp;at_campaign=rss) people in Kenya as heavy rains continue, the BBC reports, with 11 people rescued overnight after their minibus got stuck in rising floodwaters in Nairobi.
+- Emirates [rerouted flights](https://www.ft.com/content/dcbf9a60-8662-4404-9d27-4f8b81f4bd57) after a drone attack on Dubai airport, with flights from Manchester, Edinburgh and Dublin among those that returned to destinations, the FT reports.
 
-- The US [named six](https://www.bbc.com/news/articles/cly0d510yz3o?at_medium=RSS&amp;at_campaign=rss) crew members killed when their refueling plane crashed while on a combat mission as part of ongoing US operations against Iran in western Iraq on Thursday, according to the BBC.
+- EU foreign policy chief Kallas [floated using](https://www.reuters.com/business/energy/eus-kallas-floats-black-sea-model-unblock-strait-hormuz-2026-03-16/) the Black Sea model to unblock the Strait of Hormuz, Reuters reports.
 
-- Ukraine peace [talks fizzled](https://www.ft.com/content/c4fa2378-516b-4689-a4cf-69163ff2d31a) out as Trump's focus shifted to Iran, with European officials saying the US president is no longer pressuring Vladimir Putin, the FT reports.
+- Poland [transformed from](https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa) a post-Communist wreck into one of the world's 20 biggest economies, AP reports.
 
-- Zelenskyy challenged [Europe over](https://www.ft.com/content/9e7dc3e6-e79d-4a9b-adc3-ab4c7a7ad552) Russian oil imports, asking if countries "collectively decided" to restart flows from Russia, per the FT.
+- "One Battle [After Another"](https://www.bbc.com/news/articles/cp9mg90k78eo?at_medium=RSS&at_campaign=rss) swept the Oscars with six wins including best picture, according to the BBC. Michael B. Jordan won best actor while Timothée Chalamet became the target of jokes after being snubbed.
 
-## **Conflicts & Diplomacy**
+**Conflicts & Diplomacy**
 
-- Oil loading [operations restarted](https://www.reuters.com/business/energy/oil-loading-operations-uaes-fujairah-have-restarted-industry-source-says-2026-03-15/) at the UAE's Fujairah terminal after earlier disruptions, an industry source told Reuters.
+- Belgian Prime Minister Bart De Wever [called for](https://www.ft.com/content/4ce01938-a671-4433-83a7-dada2b3bac01) the EU to normalize ties with Russia in his quest for lower energy prices, challenging full support for Ukraine, the FT reports.
 
-- Mercedes teenager [Kimi Antonelli](https://www.aljazeera.com/sports/2026/3/15/mercedes-teenager-kimi-antonelli-wins-first-f1-in-china-russell-second?traffic_source=rss) won his first Formula 1 race in China, converting pole position into victory with teammate Lewis Hamilton finishing second, Al Jazeera reports.
+- Israel [launched ground](https://www.aljazeera.com/news/2026/3/16/israeli-military-launches-limited-ground-operations-in-southern-lebanon?traffic_source=rss) operations in southern Lebanon, targeting key locations to expand forward defense zones, Al Jazeera reports.
 
-- Two people [were arrested](https://www.nytimes.com/2026/03/15/world/canada/canada-iran-arrests-death.html) in Canada and charged with murder in what authorities described as a "targeted incident" against anti-Iranian regime activist Masood Masjoody.
+- Israeli [attacks displaced](https://www.aljazeera.com/gallery/2026/3/16/displaced-lebanese-shelter-in-schools-stadiums-during-israeli-attacks?traffic_source=rss) over 800,000 people in Lebanon and killed at least 850, prompting the UN to launch an urgent aid appeal, according to Al Jazeera.
 
-- Zelenskyy said Ukraine [wants money](https://www.reuters.com/business/aerospace-defense/zelenskiy-says-ukraine-wants-money-technology-return-middle-east-drone-help-2026-03-15/) and technology in return for providing drone assistance in the Middle East, Reuters reports.
+- The US [is quickly](https://www.reuters.com/markets/commodities/us-is-quickly-exhausting-tools-absorb-iran-war-oil-shock-2026-03-16/) exhausting tools to absorb the Iran war oil shock, Reuters reports.
 
-## **Business & Markets**
+**Business & Markets**
 
-- Oil is [poised for](https://www.reuters.com/business/energy/oil-poised-further-gains-middle-east-conflict-threatens-export-facilities-2026-03-15/) further gains as the Middle East conflict threatens export facilities, according to Reuters.
+- UniCredit [launched a](https://www.ft.com/content/950b9187-45b9-464c-9d34-6ad667b03525) €35 billion takeover offer for Commerzbank, stepping up its long-running pursuit of the German bank, according to the FT.
 
-- Japan will [release oil](https://www.reuters.com/business/energy/japan-release-oil-stocks-us-says-buy-american-2026-03-15/) stocks from reserves as the US urges allies to "buy American," Reuters reports.
+- Yale padlock [maker agreed](https://www.ft.com/content/f628ca01-1a88-455c-9d68-49cee70fd712) to scrap its CEO appointment in a deal with activist investor Ed Garden's firm to stave off a proxy battle, the FT reports.
 
-- Retail traders [rushed into](https://www.ft.com/content/04ff96ba-90bb-4111-8a8b-cc5bcd05d0db) oil bets as the Iran war drove wild price swings, with the biggest US oil ETF seeing record inflows, per the FT.
+- Taiwan's Foxconn [reported profits](https://www.reuters.com/business/autos-transportation/taiwans-foxconn-books-2-fall-fourth-quarter-profit-lags-forecasts-2026-03-16/) that lagged estimates while forecasting strong revenue growth, Reuters reports.
 
-- Chinese-backed delivery [app Keeta](https://www.ft.com/content/42ebe96a-f9ae-46f7-be29-1eb63174515b) and Brazil's iFood are trading claims of corporate espionage and underhand tactics in the country's $20 billion delivery app war, the FT reports.
+**Also Notable**
 
-## **Also Notable**
+- A fire [killed 10](https://www.aljazeera.com/news/2026/3/16/fire-at-india-hospital-intensive-care-unit-kills-10-people?traffic_source=rss) people in the intensive care unit of a hospital in Cuttack, India, likely caused by a short circuit, Al Jazeera reports.
 
-- Mercedes teenager [Kimi Antonelli](https://www.aljazeera.com/sports/2026/3/15/mercedes-teenager-kimi-antonelli-wins-first-f1-in-china-russell-second?traffic_source=rss) won his first Formula 1 race in China, converting pole position into victory with teammate George Russell finishing second, Al Jazeera reports.
+- British teens [resist calls](https://www.reuters.com/business/media-telecom/british-teens-resist-australian-style-social-media-ban-2026-03-16/) for an Australian-style social media ban, according to Reuters.
 
-- France retained [the Six](https://www.france24.com/en/tv-shows/sports/20260315-six-nations-france-retain-title-after-thriller-against-england) Nations rugby title after a thriller against England, according to France24.
+**What to Watch**
 
-## **What to Watch**
+- French voters [will choose](https://www.nytimes.com/2026/03/15/world/europe/france-marseille-mayor-election-far-right.html) mayors this week, with the far right performing strongly in Marseille, making the contest there a test of national political shifts.
 
-- The US and China [held trade](https://www.aljazeera.com/news/2026/3/15/us-china-hold-trade-talks-in-paris-to-clear-path-to-trump-xi-summit?traffic_source=rss) talks in Paris to clear the path for an expected Trump-Xi summit, Al Jazeera reports.
+- Trump's planned summit with Xi Jinping faces uncertainty as the US pressures China over the Strait of Hormuz crisis.
 
-- French parties [are testing](https://www.france24.com/en/french-parties-test-strategies-in-municipal-elections-ahead-of-2027-presidential-poll) strategies in municipal elections this week ahead of the 2027 presidential poll, France24 reports.
-
-- The Republic of [Congo votes](https://www.aljazeera.com/news/2026/3/15/republic-of-congo-votes-in-election-that-could-extend-sassous-42-year-rule?traffic_source=rss) in an election that could extend President Denis Sassou Nguesso's 42-year rule, with major opposition parties boycotting the polls, according to Al Jazeera.
-
-- Vietnam held [a general](https://www.aljazeera.com/news/2026/3/15/vietnam-holds-general-election-93-candidates-from-ruling-communist-party?traffic_source=rss) election today with 93% of candidates from the ruling Communist Party, Al Jazeera reports.
+- Retail investors [are pulling](https://www.ft.com/content/3103e960-5e54-4cff-a439-b61a77ab21bd) billions from private capital's credit funds, threatening to stall one of Wall Street's most important growth sources, the FT reports.
