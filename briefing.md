@@ -2,46 +2,44 @@ Good morning, Russell! Here's what happened while you were sleeping.
 
 **Top Stories**
 
-- Iran [continues striking](https://apnews.com/article/iran-iraq-us-trump-march-16-2026-5f56cff945472db519d91dd5036ead9d) Gulf neighbors while maintaining its stranglehold on oil shipping through the Strait of Hormuz, AP reports, as concerns grow of a global energy crisis.
+- Iran [expanded attacks](https://apnews.com/article/iran-iraq-us-trump-march-16-2026-5f56cff945472db519d91dd5036ead9d) on Gulf neighbors and maintained its stranglehold on oil shipping, raising fears of a global energy crisis.
 
-- Trump [suggested delaying](https://apnews.com/article/trump-china-iran-strait-hormuz-7ce3b6cd9ca6bd222dfe3236e10f8266) his planned China trip while pressuring Beijing to help secure the Strait of Hormuz, according to AP.
+- Oil prices [surged above](https://apnews.com/article/oil-stocks-markets-iran-trump-f982468f7ed277b058836387b04622b4) $100 per barrel as Iran hit more Gulf targets, while global stock markets traded mixed.
 
-- Emirates [rerouted flights](https://www.ft.com/content/dcbf9a60-8662-4404-9d27-4f8b81f4bd57) after a drone attack on Dubai airport, with flights from Manchester, Edinburgh and Dublin among those that returned to destinations, the FT reports.
+- Emirates [rerouted flights](https://www.ft.com/content/dcbf9a60-8662-4404-9d27-4f8b81f4bd57) from Manchester, Edinburgh and Dublin after a drone attack on Dubai's airport, according to the FT.
 
-- EU foreign policy chief Kallas [floated using](https://www.reuters.com/business/energy/eus-kallas-floats-black-sea-model-unblock-strait-hormuz-2026-03-16/) the Black Sea model to unblock the Strait of Hormuz, Reuters reports.
+- Trump [suggested delaying](https://apnews.com/article/trump-china-iran-strait-hormuz-7ce3b6cd9ca6bd222dfe3236e10f8266) his planned China trip as he pressures Beijing for help reopening the Strait of Hormuz.
 
-- Poland [transformed from](https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa) a post-Communist wreck into one of the world's 20 biggest economies, AP reports.
+- EU foreign policy chief Kallas [proposed using](https://www.reuters.com/business/energy/eus-kallas-floats-black-sea-model-unblock-strait-hormuz-2026-03-16/) a Black Sea shipping model to unblock the Strait of Hormuz, Reuters reports.
 
-- "One Battle [After Another"](https://www.bbc.com/news/articles/cp9mg90k78eo?at_medium=RSS&at_campaign=rss) swept the Oscars with six wins including best picture, according to the BBC. Michael B. Jordan won best actor while Timothée Chalamet became the target of jokes after being snubbed.
+- Israel [claims it](https://www.reuters.com/world/middle-east/israel-says-it-destroyed-plane-used-by-irans-late-supreme-leader-khamenei-2026-03-16/) destroyed a plane once used by Iran's late Supreme Leader Khamenei, per Reuters.
 
 **Conflicts & Diplomacy**
 
-- Belgian Prime Minister Bart De Wever [called for](https://www.ft.com/content/4ce01938-a671-4433-83a7-dada2b3bac01) the EU to normalize ties with Russia in his quest for lower energy prices, challenging full support for Ukraine, the FT reports.
+- Belgian Prime Minister Bart De Wever [called for](https://www.ft.com/content/4ce01938-a671-4433-83a7-dada2b3bac01) the EU to normalize ties with Russia to secure lower energy prices, challenging full support for Ukraine.
 
-- Israel [launched ground](https://www.aljazeera.com/news/2026/3/16/israeli-military-launches-limited-ground-operations-in-southern-lebanon?traffic_source=rss) operations in southern Lebanon, targeting key locations to expand forward defense zones, Al Jazeera reports.
+- A South African police whistleblower [was murdered](https://www.bbc.com/news/articles/czr05nz3dp8o?at_medium=RSS&amp;at_campaign=rss) by a former elite officer in December last year, according to the BBC, after accusing colleagues of killing a robbery suspect.
 
-- Israeli [attacks displaced](https://www.aljazeera.com/gallery/2026/3/16/displaced-lebanese-shelter-in-schools-stadiums-during-israeli-attacks?traffic_source=rss) over 800,000 people in Lebanon and killed at least 850, prompting the UN to launch an urgent aid appeal, according to Al Jazeera.
-
-- The US [is quickly](https://www.reuters.com/markets/commodities/us-is-quickly-exhausting-tools-absorb-iran-war-oil-shock-2026-03-16/) exhausting tools to absorb the Iran war oil shock, Reuters reports.
+- Myanmar's military-dominated parliament [convened for](https://www.aljazeera.com/news/2026/3/16/myanmar-parliament-dominated-by-pro-military-party-convenes-after-5-years?traffic_source=rss) the first time in five years following elections that excluded major opposition parties, Al Jazeera reports.
 
 **Business & Markets**
 
-- UniCredit [launched a](https://www.ft.com/content/950b9187-45b9-464c-9d34-6ad667b03525) €35 billion takeover offer for Commerzbank, stepping up its long-running pursuit of the German bank, according to the FT.
+- Poland [has risen](https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa) from post-Communist wreckage to become one of the world's 20 largest economies.
 
-- Yale padlock [maker agreed](https://www.ft.com/content/f628ca01-1a88-455c-9d68-49cee70fd712) to scrap its CEO appointment in a deal with activist investor Ed Garden's firm to stave off a proxy battle, the FT reports.
+- Yale padlock maker Fortune Brands [agreed to](https://www.ft.com/content/f628ca01-1a88-455c-9d68-49cee70fd712) scrap a CEO appointment in a deal with activist investor Ed Garden, per the FT.
 
-- Taiwan's Foxconn [reported profits](https://www.reuters.com/business/autos-transportation/taiwans-foxconn-books-2-fall-fourth-quarter-profit-lags-forecasts-2026-03-16/) that lagged estimates while forecasting strong revenue growth, Reuters reports.
+- Trade negotiations between the US, Mexico and Canada [began Monday](https://apnews.com/article/trump-usmca-mexico-canada-trade-tariffs-7a838812f96da25af9f7975461421ed2) to renew the USMCA pact.
 
 **Also Notable**
 
-- A fire [killed 10](https://www.aljazeera.com/news/2026/3/16/fire-at-india-hospital-intensive-care-unit-kills-10-people?traffic_source=rss) people in the intensive care unit of a hospital in Cuttack, India, likely caused by a short circuit, Al Jazeera reports.
+- Far-left and far-right parties [made major](https://www.bbc.com/news/articles/c8r17knnz5vo?at_medium=RSS&amp;at_campaign=rss) gains in France's mayoral elections, creating awkward choices for mainstream parties, the BBC reports.
 
-- British teens [resist calls](https://www.reuters.com/business/media-telecom/british-teens-resist-australian-style-social-media-ban-2026-03-16/) for an Australian-style social media ban, according to Reuters.
+- "One Battle After Another" [swept the](https://www.bbc.com/news/articles/cp9mg90k78eo?at_medium=RSS&amp;at_campaign=rss) Oscars while Timothée Chalamet became the butt of jokes after his snub.
 
 **What to Watch**
 
-- French voters [will choose](https://www.nytimes.com/2026/03/15/world/europe/france-marseille-mayor-election-far-right.html) mayors this week, with the far right performing strongly in Marseille, making the contest there a test of national political shifts.
+- French mayors saw [far-right and left make major gains](https://www.france24.com/en/far-right-and-left-make-major-gains-across-france-in-mayoral-election) in the first round of municipal elections on March 15, according to France24.
 
-- Trump's planned summit with Xi Jinping faces uncertainty as the US pressures China over the Strait of Hormuz crisis.
+- Trump [may delay](https://apnews.com/article/trump-china-iran-strait-hormuz-7ce3b6cd9ca6bd222dfe3236e10f8266) his Beijing summit as tensions over Iran escalate.
 
-- Retail investors [are pulling](https://www.ft.com/content/3103e960-5e54-4cff-a439-b61a77ab21bd) billions from private capital's credit funds, threatening to stall one of Wall Street's most important growth sources, the FT reports.
+- Retail investors are [pulling billions](https://www.ft.com/content/3103e960-5e54-4cff-a439-b61a77ab21bd) from private credit funds, threatening Wall Street's growth engine, the FT reports.
