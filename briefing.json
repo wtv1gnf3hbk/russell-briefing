@@ -4,8 +4,8 @@
     "owner": "Russell Goldman",
     "timezone": "America/New_York",
     "description": "Daily international news briefing — all bullets, ready by 6am ET",
-    "generated": "2026-03-17T10:32:12.532Z",
-    "generatedTimestamp": 1773743532532
+    "generated": "2026-03-17T11:14:08.742Z",
+    "generatedTimestamp": 1773746048742
   },
   "stats": {
     "sourceCount": 19,
@@ -13,11 +13,21 @@
     "totalStories": 141,
     "totalScreenshots": 6,
     "daybookStories": 45,
-    "watchCandidateCount": 5,
-    "elapsed": "61.9s"
+    "watchCandidateCount": 6,
+    "elapsed": "62.0s"
   },
   "stories": {
     "all": [
+      {
+        "headline": "Illinois voters pick a new generation of Democrats for House, Senate after near-record retirements",
+        "url": "https://apnews.com/article/election-primary-illinois-democrats-senate-house-f9432112c459e87fdbfea0bdbcd4e492",
+        "source": "AP",
+        "sourceId": "ap_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Tue, 17 Mar 2026 10:53:02 +0000",
+        "description": ""
+      },
       {
         "headline": "Iran war pushes countries into energy triage as they conserve power and curb soaring prices",
         "url": "https://apnews.com/article/middle-east-wars-energy-asia-gas-oil-f22739369eb36ccaf87543459cfed320",
@@ -116,14 +126,24 @@
         "description": ""
       },
       {
-        "headline": "Afghanistan says 400 people killed in Pakistan strike on Kabul hospital treating drug users",
-        "url": "https://apnews.com/article/afghanistan-pakistan-border-clashes-children-killed-taliban-44c7bb28cdf68615b413a81eb4e4fe36",
-        "source": "AP",
-        "sourceId": "ap_world",
+        "headline": "Exclusive: Iran's new supreme leader rejects proposals for reducing tensions with US, senior official says - Reuters",
+        "url": "https://www.reuters.com/world/middle-east/irans-new-supreme-leader-rejects-proposals-reducing-tensions-with-us-senior-2026-03-17/",
+        "source": "Reuters",
+        "sourceId": "reuters_world",
         "category": "wire",
         "priority": "primary",
-        "date": "Tue, 17 Mar 2026 00:23:02 +0000",
-        "description": ""
+        "date": "Tue, 17 Mar 2026 09:54:45 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWWR3M2NPOGJKb2RWb3VLQVRrampGU0hlT0E5N1YwWGdsaDJkVW1mcVkxQnR0TDFWcWdTb2c1Tno3RHNWMnRndF9hQUlIVE5DZkRKRU9nVTBVU2FhOEdmZ1hicHNBeHh0ZVpHT0x"
+      },
+      {
+        "headline": "Israel says Iran's security chief Larijani is killed - Reuters",
+        "url": "https://www.reuters.com/world/middle-east/israel-says-irans-security-chief-larijani-is-killed-2026-03-17/",
+        "source": "Reuters",
+        "sourceId": "reuters_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Tue, 17 Mar 2026 09:30:51 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSjhkeFE4SlZfRHV4VlZpbUlTNTQ3T1VsQ245MUpkV2xzMFA4bUZzVmZqd2NvbXY0eVNHcTFJYVNqeUMwbzUwU2dKd2V2LWdDa2pGbEtjY2d4MFNYcmliZkpUVFBhWHJNUWIxZDZ"
       },
       {
         "headline": "Exclusive: EU seeks diplomatic solution for Hormuz Strait, Kallas says - Reuters",
@@ -146,6 +166,16 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOWWRmYUdmdXdXYVRpZlBQQ3o4d0MzZ1BlODJWSlhGRGhiUy1Lc3pEQWJGemplWGw0Y3FhWDlsUTZTNDN4LUlUM041WUctaGZiWmRrUmNMbC05N2duYXZOM1VfQW9FT1lUeE9UUGF"
       },
       {
+        "headline": "Trump's summit delay casts pall over US-China trade truce - Reuters",
+        "url": "https://www.reuters.com/world/china/trumps-summit-delay-casts-pall-over-us-china-trade-truce-2026-03-17/",
+        "source": "Reuters",
+        "sourceId": "reuters_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Tue, 17 Mar 2026 07:10:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQX2pHMVJYY2pieURiREZOX29FUktfaDBQWHVsRW5Wa0xjQ1VpNXE1Q1V5TXR4X1ZrOFlfRkxDSEwzQ0x5SFF3RVZpRG84aUR0bTdtNDY3UFdxSnAtTWkyRXQzT2o4UXBFaHB6QXU"
+      },
+      {
         "headline": "Iraq in talks with Iran to safeguard oil tanker traffic through Hormuz - Reuters",
         "url": "https://www.reuters.com/world/middle-east/iraq-talks-with-iran-safeguard-oil-tanker-traffic-through-hormuz-2026-03-17/",
         "source": "Reuters",
@@ -154,16 +184,6 @@
         "priority": "primary",
         "date": "Tue, 17 Mar 2026 08:10:05 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPLU9aSWNiOVoyOHdVZGtBVFFlaW9Zc3JzUnRhRExJRmh4emZTOU1VNTJFWU1LbnVlZThzZ0tRdS1fZDNTeXJ1VHVwa0Z6azhGUUZOVjBVWjNyd1daMm1FTXBhYU1XVzlIQ0xMRzN"
-      },
-      {
-        "headline": "Google in talks with China's Envicool, others to buy data centre cooling systems, sources say - Reuters",
-        "url": "https://www.reuters.com/world/china/google-talks-with-chinas-envicool-others-buy-data-centre-cooling-systems-sources-2026-03-17/",
-        "source": "Reuters",
-        "sourceId": "reuters_world",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Tue, 17 Mar 2026 06:05:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQWHpTb1FHQXpXdC0zaktIdkoxYzNRbE1FTFNCZmtGTUVHR202Qjhjam4wNkFfT283Y0JYU3l2T3ZhZFZ5c2Y5cmJWTGVSM0ZKOFE2aXUxRFpDUUdWM015WXlBamdST3hrMUdBR1k"
       },
       {
         "headline": "Exclusive: EU has adapted to US unpredictability, foreign policy chief says - Reuters",
@@ -186,6 +206,26 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOMGJpZjdQUGVVdnFJQkVVSGNrMFcxZnRJS0ZPSEc1cm9VbkQ5aXZnMGROX2RHNHp4TWZ0UUM5d01KazlVd2R5U0VhZTE3bGhjWHplNmdVeDNaSEkxRTlIUUNGY0d1bG5TNnFQaUt"
       },
       {
+        "headline": "Google in talks with China's Envicool, others to buy data centre cooling systems, sources say - Reuters",
+        "url": "https://www.reuters.com/world/china/google-talks-with-chinas-envicool-others-buy-data-centre-cooling-systems-sources-2026-03-17/",
+        "source": "Reuters",
+        "sourceId": "reuters_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Tue, 17 Mar 2026 06:05:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQWHpTb1FHQXpXdC0zaktIdkoxYzNRbE1FTFNCZmtGTUVHR202Qjhjam4wNkFfT283Y0JYU3l2T3ZhZFZ5c2Y5cmJWTGVSM0ZKOFE2aXUxRFpDUUdWM015WXlBamdST3hrMUdBR1k"
+      },
+      {
+        "headline": "'It was like doomsday,' says Kabul hospital survivor after Pakistan air strike - Reuters",
+        "url": "https://www.reuters.com/world/asia-pacific/it-was-like-doomsday-says-kabul-hospital-survivor-after-pakistan-air-strike-2026-03-17/",
+        "source": "Reuters",
+        "sourceId": "reuters_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Tue, 17 Mar 2026 06:28:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOSDlDWDd5ejA1VURYdkZqOE1sZEt1YWt2NlF0aU8xcFlVaHpfSUp0QXJNVzZGQXMzN3lLUHJ4UGpMTmFVMU5vN3RqTTd2c3A0OUZMMmNEZmNjMG45ZzJfbVZDM240RV9ybTJONVh"
+      },
+      {
         "headline": "Magnitude 6 earthquake strikes Cuba, EMSC says - Reuters",
         "url": "https://www.reuters.com/business/environment/magnitude-6-earthquake-strikes-cuba-emsc-says-2026-03-17/",
         "source": "Reuters",
@@ -196,14 +236,14 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQVlFMeW9wU3FzeDdrUlJlZlE4bkF0WTRMLTlMeUZjVkV6dXhsanFKNEVNTzNPd2UtTGRCc2cwQkpIbjNnRDViR2QyOC1PWkVNRlo3RHY3UWdwUGhYckRfNkNrc2pnRnhzakVvSVB"
       },
       {
-        "headline": "Trump's summit delay casts pall over US-China trade truce - Reuters",
-        "url": "https://www.reuters.com/world/china/trumps-summit-delay-casts-pall-over-us-china-trade-truce-2026-03-17/",
+        "headline": "Vietnam firms vie for crypto licences as Hanoi plans ban on overseas trading - Reuters",
+        "url": "https://www.reuters.com/world/asia-pacific/vietnam-firms-vie-crypto-licences-hanoi-plans-ban-overseas-trading-2026-03-17/",
         "source": "Reuters",
         "sourceId": "reuters_world",
         "category": "wire",
         "priority": "primary",
-        "date": "Tue, 17 Mar 2026 07:10:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQX2pHMVJYY2pieURiREZOX29FUktfaDBQWHVsRW5Wa0xjQ1VpNXE1Q1V5TXR4X1ZrOFlfRkxDSEwzQ0x5SFF3RVZpRG84aUR0bTdtNDY3UFdxSnAtTWkyRXQzT2o4UXBFaHB6QXU"
+        "date": "Tue, 17 Mar 2026 06:15:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOWWt6YTdkLXJIYlRvYWNlTkEtcGFJa1hwTUZHdTA2OTBOV3ZtNzlad2k1cTBjYUZza01ybFVuR3ZabUhhWDRtLVhLOHBXMmpzN2tZUDA3VmRSRzcxTEhnY3JqSWdfQk9pSEJkY2o"
       },
       {
         "headline": "Iran negotiating with FIFA to move World Cup games to Mexico from US - Reuters",
@@ -226,16 +266,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTVhHMjJPUHhnUVdGdEtLWTZ3MUgwanJydGkyZkJ5bWI3WnFKVS0zREVmRGF4RzBhU1FUT1VEWjJLUXZ5VFBRaUtzdGtONGY3MHdlZDV2SkU5Yzc4cWEwdmJuY2sxSVl5NEtITXp"
       },
       {
-        "headline": "'It was like doomsday,' says Kabul hospital survivor after Pakistan air strike - Reuters",
-        "url": "https://www.reuters.com/world/asia-pacific/it-was-like-doomsday-says-kabul-hospital-survivor-after-pakistan-air-strike-2026-03-17/",
-        "source": "Reuters",
-        "sourceId": "reuters_world",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Tue, 17 Mar 2026 06:28:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOSDlDWDd5ejA1VURYdkZqOE1sZEt1YWt2NlF0aU8xcFlVaHpfSUp0QXJNVzZGQXMzN3lLUHJ4UGpMTmFVMU5vN3RqTTd2c3A0OUZMMmNEZmNjMG45ZzJfbVZDM240RV9ybTJONVh"
-      },
-      {
         "headline": "Cheap drones are reshaping the war in the sky - Reuters",
         "url": "https://www.reuters.com/graphics/IRAN-CRISIS/DRONES/dwpkyamxqpm/",
         "source": "Reuters",
@@ -246,43 +276,13 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5fUzBLOGJoSkIwUVdfSm1uUHhsT2hEWmlXdEJFcE11YTBFZTRTcG1lRXRIRmJGTXpFOHBVSWxadG5Tb0VTcWhpWm81YkdUeG1hUnpKZl9jX2hZVWhURHVUR0R0T0R4ZlRtYjdBWFd"
       },
       {
-        "headline": "Ten foreign individuals arrested in Iran's northeast for spying, Tasnim reports - Reuters",
-        "url": "https://www.reuters.com/world/middle-east/ten-foreign-individuals-arrested-irans-northeast-spying-tasnim-reports-2026-03-17/",
-        "source": "Reuters",
-        "sourceId": "reuters_world",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Tue, 17 Mar 2026 05:49:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbU01aGozc3hyVzdLai1vX3hkNVRQUk9qYk9STVZLQVBqNzU2U0FhSkhYb04wRmx1YXBhdlAxOTlvcXItejdHaDNhRklRWVdKSjRqM2dvWkRoeW14TkFGckpVZWZXVFhBdEMzaHN"
-      },
-      {
-        "headline": "Trump was warned of likely Iranian retaliation on Gulf allies, sources say - Reuters",
-        "url": "https://www.reuters.com/world/middle-east/trump-was-warned-likely-iranian-retaliation-gulf-allies-sources-say-2026-03-17/",
-        "source": "Reuters",
-        "sourceId": "reuters_world",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Tue, 17 Mar 2026 02:49:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOT1o3eDFZNnVCNk93VThlQl8zbTVfME1xVm5ad3VEOUpWNW9CZWU4MEdmZXlNWEppby1fQzZ5NFpEbjRTaWRlVmQ1QXU2bzhNcGJsSWxVUEdDeDM0Q0YzYkExbnFtcmJGZG5YV1c"
-      },
-      {
-        "headline": "US government confirms Tesla and LG Energy Solution's $4.3 billion battery deal - Reuters",
-        "url": "https://www.reuters.com/business/energy/us-government-confirms-tesla-lg-energy-solutions-43-billion-battery-deal-2026-03-17/",
-        "source": "Reuters",
-        "sourceId": "reuters_world",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Tue, 17 Mar 2026 03:24:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY0VBMUJ3X19leG43Nkp6NGNObTcwU2VVWkxXTkI4NmRDdVJCM2g4SUpNcGl5LTJjTC03YXVYQkNRU2pJY3FFeVpkTlVnNzdqaGFMRHVQenZsWHg3Sm9BcVNDTEt3eUxlZWdHR29"
-      },
-      {
         "headline": "Trump seeks to delay meeting with Xi in China",
         "url": "https://www.bbc.com/news/articles/cn9e0z7v3nxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC",
         "sourceId": "bbc_world",
         "category": "general",
         "priority": "primary",
-        "date": "Tue, 17 Mar 2026 07:52:40 GMT",
+        "date": "Tue, 17 Mar 2026 10:33:49 GMT",
         "description": "The escalating war in Iran has overshadowed many of the US' foreign policy objectives"
       },
       {
@@ -296,14 +296,14 @@
         "description": "The National Center for Learning Disabilities said it was \"disturbed\" by the president's remarks."
       },
       {
-        "headline": "Dozens killed in air strike on Kabul rehab centre blamed on Pakistan",
+        "headline": "Pakistan blamed after air strike on Kabul rehab centre kills at least 100",
         "url": "https://www.bbc.com/news/articles/c4g8n7e0l40o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC",
         "sourceId": "bbc_world",
         "category": "general",
         "priority": "primary",
-        "date": "Tue, 17 Mar 2026 06:19:03 GMT",
-        "description": "The BBC visited the facility and saw more than 30 bodies being carried out on stretchers."
+        "date": "Tue, 17 Mar 2026 11:00:53 GMT",
+        "description": "Some of the bodies were injured beyond recognition, forensic laboratory sources told the BBC."
       },
       {
         "headline": "Utah bereavement author found guilty of fatally poisoning her husband",
@@ -316,14 +316,14 @@
         "description": "A jury found that Kouri Richins killed her husband in March 2022 by poisoning him with a fentanyl-laced drink."
       },
       {
-        "headline": "Columbia University protester released after one year in immigration custody",
-        "url": "https://www.bbc.com/news/articles/ckgzdkg0q9go?at_medium=RSS&amp;at_campaign=rss",
+        "headline": "Suspected suicide attacks kill at least 23 in north-east Nigeria",
+        "url": "https://www.bbc.com/news/articles/c4gqnjjy9edo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC",
         "sourceId": "bbc_world",
         "category": "general",
         "priority": "primary",
-        "date": "Tue, 17 Mar 2026 01:08:24 GMT",
-        "description": "Federal officials say Leqaa Kordia overstayed her student visa. Her lawyer says she was targeted for pro-Palestinian activism."
+        "date": "Tue, 17 Mar 2026 10:24:29 GMT",
+        "description": "Multiple blasts struck some of the Maiduguri's busiest locations on Monday evening."
       },
       {
         "headline": "And the burger goes to... Michael B Jordan marks Oscars win at In-N-Out",
@@ -334,6 +334,16 @@
         "priority": "primary",
         "date": "Tue, 17 Mar 2026 04:41:58 GMT",
         "description": "Hours after winning best actor, Jordan joins an exclusive list of famous faces to celebrate an Oscar victory with a burger."
+      },
+      {
+        "headline": "Columbia University protester released after one year in immigration custody",
+        "url": "https://www.bbc.com/news/articles/ckgzdkg0q9go?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC",
+        "sourceId": "bbc_world",
+        "category": "general",
+        "priority": "primary",
+        "date": "Tue, 17 Mar 2026 01:08:24 GMT",
+        "description": "Federal officials say Leqaa Kordia overstayed her student visa. Her lawyer says she was targeted for pro-Palestinian activism."
       },
       {
         "headline": "From tornadoes to blizzards, severe weather batters parts of the US",
@@ -362,7 +372,7 @@
         "sourceId": "bbc_world",
         "category": "general",
         "priority": "primary",
-        "date": "Tue, 17 Mar 2026 03:46:22 GMT",
+        "date": "Tue, 17 Mar 2026 10:32:25 GMT",
         "description": "Cuba's chronic fuel shortages have been exacerbated by a US blockade on oil shipments to the island."
       },
       {
@@ -396,16 +406,6 @@
         "description": "Marius van der Merwe was shot dead three weeks after accusing police officers of killing a robbery suspect."
       },
       {
-        "headline": "Russia agrees to stop using Kenyan recruits in Ukraine conflict, Kenya says",
-        "url": "https://www.bbc.com/news/articles/cev7rdwmky9o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC",
-        "sourceId": "bbc_world",
-        "category": "general",
-        "priority": "primary",
-        "date": "Mon, 16 Mar 2026 14:09:58 GMT",
-        "description": "Some 1,000 Kenyans are believed to have recruited to fight in Ukraine - many say they were lured under false pretences."
-      },
-      {
         "headline": "Surge in US petrol prices deepens political peril for Trump over Iran",
         "url": "https://www.bbc.com/news/articles/c70k29914q4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC",
@@ -426,14 +426,14 @@
         "description": "The Iran war has already rattled LPG users. Will India’s piped gas network face the next squeeze?"
       },
       {
-        "headline": "Israel says it has killed Iran’s intelligence chief Ali Larijani",
+        "headline": "Israel says it has killed Iran’s top security official Ali Larijani",
         "url": "https://www.ft.com/content/3b4fd03c-e416-4cbd-bf5c-adca908e6911",
         "source": "Financial Times",
         "sourceId": "ft_home",
         "category": "business",
         "priority": "primary",
         "date": "Tue, 17 Mar 2026 09:37:15 GMT",
-        "description": "Regime veteran also headed the country’s Supreme National Security Council"
+        "description": "Regime veteran headed the country’s Supreme National Security Council"
       },
       {
         "headline": "Naval escorts will not guarantee safe passage through Strait of Hormuz, says IMO chief",
@@ -558,6 +558,16 @@
         "priority": "primary",
         "date": "Mon, 16 Mar 2026 23:01:30 GMT",
         "description": "‘Disconnection’ leaves 11mn without power in largest outage since US energy blockade began earlier this year"
+      },
+      {
+        "headline": "‘These connections are overlooked’: how British companies profited from slavery in Brazil long after abolition",
+        "url": "https://www.theguardian.com/world/2026/mar/17/connections-overlooked-how-british-companies-profited-slavery-brazil-after-abolition",
+        "source": "Guardian",
+        "sourceId": "guardian_world",
+        "category": "general",
+        "priority": "primary",
+        "date": "Tue, 17 Mar 2026 11:00:44 GMT",
+        "description": "&lt;p&gt;Britons learn about the country’s involvement ‘almost as a self-congratulatory narrative’, says historian Joseph Mulhern &lt;/p&gt;&lt;p&gt;In 1845 British citizens and companies were already"
       },
       {
         "headline": "Africa particularly vulnerable as Iran conflict disrupts supply chains, say experts",
@@ -687,24 +697,24 @@
         "description": "Pakistani airstrikes have killed at least 75 civilians and displaced 115,000 in Afghanistan, with both sides vowing escalation and no talks in sight."
       },
       {
-        "headline": "4 Palestinians Killed When Israeli Forces Open Fire on West Bank Family",
-        "url": "https://www.nytimes.com/2026/03/15/world/middleeast/palestinian-family-killed-west-bank.html",
+        "headline": "What to Know About Ali Larijani, Iran’s Top Security Official",
+        "url": "https://www.nytimes.com/2026/03/17/world/middleeast/who-is-ali-larijani-iran.html",
         "source": "New York Times",
         "sourceId": "nyt_world",
         "category": "general",
         "priority": "secondary",
-        "date": "Mon, 16 Mar 2026 10:44:44 +0000",
-        "description": "Six members of a Palestinian family went out for a ride in the car. Only two made it back home."
+        "date": "Tue, 17 Mar 2026 10:45:06 +0000",
+        "description": "One of Ayatollah Ali Khamenei’s closest confidants, Mr. Larijani emerged as the face of the government after Mr. Khamenei was killed."
       },
       {
-        "headline": "Another Tanker Is Attacked Near the Strait of Hormuz",
-        "url": "https://www.nytimes.com/2026/03/17/world/middleeast/tanker-attack-iran-war-strait-hormuz-oil.html",
-        "source": "New York Times",
-        "sourceId": "nyt_world",
+        "headline": "Building burns in Israel after rocket attack from Lebanon",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/17/building-burns-in-israel-after-rocket-attack-from-lebanon?traffic_source=rss",
+        "source": "Al Jazeera",
+        "sourceId": "aljazeera",
         "category": "general",
         "priority": "secondary",
-        "date": "Tue, 17 Mar 2026 09:35:07 +0000",
-        "description": "The ship was struck near an Emirati port, in the first such attack in five days. The United Arab Emirates also said it was intercepting Iranian drones and missiles."
+        "date": "Tue, 17 Mar 2026 10:36:18 +0000",
+        "description": "A building in the northern Israeli city of Nahariyya caught fire on Monday after a rocket attack launched from Lebanon."
       },
       {
         "headline": "Could the Iran war trigger a global recession?",
@@ -737,14 +747,14 @@
         "description": "Israel’s Defence Minister Israel Katz says Ali Larijani, Iran’s security chief, has been killed in an Israeli strike."
       },
       {
-        "headline": "Israel says it’s killed Larijani, Iran’s security chief and Basij commander",
+        "headline": "Israel says it’s killed Iran’s security chief Larijani and Basij commander",
         "url": "https://www.aljazeera.com/news/2026/3/17/israel-says-it-has-killed-ali-larijani-irans-top-security-official?traffic_source=rss",
         "source": "Al Jazeera",
         "sourceId": "aljazeera",
         "category": "general",
         "priority": "secondary",
         "date": "Tue, 17 Mar 2026 09:32:52 +0000",
-        "description": "Israel’s Defence Minister Katz has claimed that Iran’s security chief has been assassinated"
+        "description": "Israel’s Defence Minister Katz has claimed that Iran’s security chief has been assassinated."
       },
       {
         "headline": "Gulf economies suffer brunt of Iran war as recession risk looms",
@@ -847,14 +857,85 @@
         "description": "Attacks hit three southern Beirut neighbourhoods, fighting in the south intensifies as Hezbollah engages Israeli army."
       },
       {
-        "headline": "Iran war: What is happening on day 18 of US-Israel attacks?",
-        "url": "https://www.aljazeera.com/news/2026/3/17/iran-war-what-is-happening-on-day-18-of-us-israel-attacks?traffic_source=rss",
-        "source": "Al Jazeera",
-        "sourceId": "aljazeera",
-        "category": "general",
+        "headline": "French parties scramble to make alliances ahead of local election runoffs",
+        "url": "https://www.france24.com/en/video/20260317-french-parties-scramble-to-make-alliances-ahead-of-local-election-runoffs",
+        "source": "France24",
+        "sourceId": "france24",
+        "category": "wire",
         "priority": "secondary",
-        "date": "Tue, 17 Mar 2026 06:52:53 +0000",
-        "description": "The US-Israeli attacks target Iranian cities as the conflict spreads to the region and causes a global energy crisis."
+        "date": "Tue, 17 Mar 2026 11:07:00 GMT",
+        "description": "",
+        "watchCandidate": true,
+        "watchSignals": [
+          {
+            "category": "temporal",
+            "matched": "ahead of"
+          },
+          {
+            "category": "scheduled",
+            "matched": "election"
+          }
+        ]
+      },
+      {
+        "headline": "The 'Bib Gourmand' - Michelin's award good food at great value",
+        "url": "https://www.france24.com/en/video/20260317-the-bib-gourmand-michelin-s-award-good-food-at-great-value",
+        "source": "France24",
+        "sourceId": "france24",
+        "category": "wire",
+        "priority": "secondary",
+        "date": "Tue, 17 Mar 2026 11:05:59 GMT",
+        "description": ""
+      },
+      {
+        "headline": "Gulf states seek to bypass Strait of Hormuz for oil exports via pipelines",
+        "url": "https://www.france24.com/en/tv-shows/business/20260317-gulf-states-seek-to-bypass-strait-of-hormuz-for-oil-exports-via-pipelines",
+        "source": "France24",
+        "sourceId": "france24",
+        "category": "wire",
+        "priority": "secondary",
+        "date": "Tue, 17 Mar 2026 11:00:43 GMT",
+        "description": ""
+      },
+      {
+        "headline": "Trump's call for help with Hormuz largely falls on deaf ears",
+        "url": "https://www.france24.com/en/video/20260317-trump-s-call-for-help-with-hormuz-largely-falls-on-deaf-ears",
+        "source": "France24",
+        "sourceId": "france24",
+        "category": "wire",
+        "priority": "secondary",
+        "date": "Tue, 17 Mar 2026 10:56:17 GMT",
+        "description": ""
+      },
+      {
+        "headline": "Lava flow reaches ocean on France's Reunion island",
+        "url": "https://www.france24.com/en/video/20260317-lava-flow-reaches-ocean-on-france-s-reunion-island",
+        "source": "France24",
+        "sourceId": "france24",
+        "category": "wire",
+        "priority": "secondary",
+        "date": "Tue, 17 Mar 2026 10:55:08 GMT",
+        "description": ""
+      },
+      {
+        "headline": "'Ready to fight' but lacking means, Iraqi Kurds targeted by Iran",
+        "url": "https://www.france24.com/en/video/20260317-ready-to-fight-but-lacking-means-iraqi-kurds-targeted-by-iran",
+        "source": "France24",
+        "sourceId": "france24",
+        "category": "wire",
+        "priority": "secondary",
+        "date": "Tue, 17 Mar 2026 10:53:31 GMT",
+        "description": ""
+      },
+      {
+        "headline": "Israel says killed Iran national security chief Larijani",
+        "url": "https://www.france24.com/en/video/20260317-israel-says-killed-iran-national-security-chief-larijani",
+        "source": "France24",
+        "sourceId": "france24",
+        "category": "wire",
+        "priority": "secondary",
+        "date": "Tue, 17 Mar 2026 10:52:21 GMT",
+        "description": ""
       },
       {
         "headline": "Israel hits Lebanon with fresh strikes as ground operation expands",
@@ -944,76 +1025,6 @@
         ]
       },
       {
-        "headline": "Iran 'negotiating' with FIFA over moving World Cup games from US to Mexico",
-        "url": "https://www.france24.com/en/sport/20260317-iran-negotiating-with-fifa-over-moving-world-cup-games-from-us-to-mexico",
-        "source": "France24",
-        "sourceId": "france24",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Tue, 17 Mar 2026 05:03:14 GMT",
-        "description": ""
-      },
-      {
-        "headline": "Middle East war live: Israel killed Iran’s security chief Ali Larijani, Defence Minister Katz says",
-        "url": "https://www.france24.com/en/middle-east/20260317-uae-intercepts-iranian-fire-as-israel-strikes-tehran-and-lebanon",
-        "source": "France24",
-        "sourceId": "france24",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Tue, 17 Mar 2026 03:13:41 GMT",
-        "description": ""
-      },
-      {
-        "headline": "Chile’s new president launches border barrier plan to curb illegal immigration",
-        "url": "https://www.france24.com/en/americas/20260316-chile-president-launches-border-barrier-illegal-immigration",
-        "source": "France24",
-        "sourceId": "france24",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Mon, 16 Mar 2026 22:55:32 GMT",
-        "description": ""
-      },
-      {
-        "headline": "Cuba hit by massive islandwide blackout as power grid crisis deepens",
-        "url": "https://www.france24.com/en/americas/20260316-cuba-hit-by-blackout-power-grid-crisis",
-        "source": "France24",
-        "sourceId": "france24",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Mon, 16 Mar 2026 22:38:27 GMT",
-        "description": ""
-      },
-      {
-        "headline": "Social media abuzz with viral rumours of Netanyahu's death",
-        "url": "https://www.france24.com/en/social-media-abuzz-with-viral-rumours-of-benjamin-netanyahu-s-death",
-        "source": "France24",
-        "sourceId": "france24",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Mon, 16 Mar 2026 22:04:41 GMT",
-        "description": ""
-      },
-      {
-        "headline": "Oil eases amid signs Iran is allowing some tankers pass through Strait of Hormuz",
-        "url": "https://www.france24.com/en/tv-shows/business/20260316-oil-eases-amid-signs-iran-is-allowing-some-tankers-pass-through-strait-of-hormuz",
-        "source": "France24",
-        "sourceId": "france24",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Mon, 16 Mar 2026 21:57:58 GMT",
-        "description": ""
-      },
-      {
-        "headline": "Kenyans will no longer be enlisted to fight for Russia in Ukraine",
-        "url": "https://www.france24.com/en/enyans-will-no-longer-be-enlisted-to-fight-for-russia-in-ukraine",
-        "source": "France24",
-        "sourceId": "france24",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Mon, 16 Mar 2026 21:38:19 GMT",
-        "description": ""
-      },
-      {
         "headline": "Global Leaders Affirm Central Role for Nuclear at 2026 Nuclear Energy Summit - International Atomic Energy Agency",
         "url": "https://www.iaea.org/newscenter/news/global-leaders-affirm-central-role-for-nuclear-at-2026-nuclear-energy-summit",
         "source": "Daybook: International Events",
@@ -1084,7 +1095,7 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1xZm9WaDdxWW5EQ0hvZGlZQWhnNWRoRUpBT0prVWF1aU5LMW5uSEtIQmZ2dFNJX0JnRUgxaERBZUlyTEg0d3RUVmMyVGNBZWQ3ckVqZHFHSXY2X2dfXzl3RjJxTC1IVHpPUEpmNFZ"
       },
       {
-        "headline": "Ukraine updates: G7 rules out easing sanctions on Russia - DW.com",
+        "headline": "Ukraine updates: G7 rules out easing sanctions on Russia - dw.com",
         "url": "https://www.dw.com/en/ukraine-updates-g7-rules-out-easing-sanctions-on-russia/live-76302663",
         "source": "Daybook: International Events",
         "sourceId": "daybook_intl",
@@ -1144,6 +1155,16 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOaU8tZXN1VjNmWDZZUkc4UkZnWEZDS1JJcmgxekNNY0FpSHllQm5jLVdrUWF6TDFsZ0hTdjNmTXJHT21vVkwtZVZ0YTVtRzY1SXlxa3dxWDZkeTdLNTRMMGdKZEkxdTZiQktEQUt"
       },
       {
+        "headline": "DU Men’s Tennis’ Robb-Wilcox, Coats Sweep Summit League Honors - University of Denver Athletics",
+        "url": "https://denverpioneers.com/news/2026/3/10/du-mens-tennis-robb-wilcox-coats-sweep-summit-league-honors.aspx",
+        "source": "Daybook: International Events",
+        "sourceId": "daybook_intl",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Tue, 10 Mar 2026 19:20:08 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdlBWNnU0X0tyYnJEMkVLcjdVOVVFa3p4ZkZBOUdOSllvY0Q1MkFVcnd2aHM2ZDd4QjFHRXhUNkhxaFlVUmRDWGJvLVhrdEhLajdXcmdwTE1DT0lBRjdqV1lscEcwRzMwcWhLSDR"
+      },
+      {
         "headline": "Denver Summit FC plays its first game this weekend. Here’s how to watch - Denverite",
         "url": "https://denverite.com/2026/03/11/denver-summit-fc-first-game/",
         "source": "Daybook: International Events",
@@ -1154,14 +1175,14 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9pUnN3WVJRdU15T0NNWVQzdUFTaFlxS0hsb1J0QWdLX1NXbEs0cFhMcTkzWnBLazY0Z3ZMNTBIMnIwRUZLc2Jkc3BEYnlVNzNzRWRaQjNMY2tGZGg1cHNwS0h1TUhDTXR3QVppdXB"
       },
       {
-        "headline": "Trump signals possible delay to Beijing summit as U.S. pressures China to help reopen Strait of Hormuz - CNBC",
-        "url": "https://www.cnbc.com/2026/03/16/trump-possible-delay-beijing-summit-china-iran-strait-of-hormuz-.html",
-        "source": "Daybook: International Events",
-        "sourceId": "daybook_intl",
+        "headline": "Key dates for 2025-26 NBA season - NBA",
+        "url": "chrome-error://chromewebdata/",
+        "source": "Daybook: Economic Calendar",
+        "sourceId": "daybook_econ",
         "category": "daybook",
         "priority": "reference",
-        "date": "Mon, 16 Mar 2026 01:29:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPOERKdmtBSDFBV3Jlc0ZfMjJPU2ZoSllsMnAyU2lPQ3d6dnkwTEJtV1BMQTdGVVJrdm9NZGJ1VUtxMzZZdWJMRXVEYk1pcFB3S2dCc3RQdEk5c2pPQUI4UXZQbF91ZUtUTzFUa0x"
+        "date": "Fri, 13 Mar 2026 07:00:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE4xNVlRRHFIc2c1RldBanIwV1hmaWk4QUcxU1hNSm1CLVpqck1jWkl6UXRRSTZWb2dybDdDaHdDS0hYN3Uxa0xOcERR?oc=5\" target=\"_blank\"&gt;Key dates for 2025-26"
       },
       {
         "headline": "Embedded | 2026 Trade Deadline - NHL.com",
@@ -1195,7 +1216,7 @@
       },
       {
         "headline": "‘It was a real happy day for us’ | Bandits GM Steve Dietrich talks trade deadline deals - Buffalo Bandits",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUTdDN3pUcVRtNXhMZVA5a2Fjd0FVc0U4NUIzdndwZGpob095NkgtYUVYdTB4RzFwYkJBYlQwWEdpMXJLcFBuWFhfRElzaWk0alJZS2t6MG03NUVxTEhHTGMxZ0RJamxjblUxZUhiOG5xdHJsV3NqQ1RVVWYwVktRamt0bmFVTVI4SHMyZmlSRVZhRlhpOXNGakNEbTFJR3ZENnB1WF9yUQ?oc=5",
+        "url": "https://bandits.com/it-was-a-real-happy-day-for-us-bandits-gm-steve-dietrich-talks-trade-deadline-deals/",
         "source": "Daybook: Economic Calendar",
         "sourceId": "daybook_econ",
         "category": "daybook",
@@ -1244,26 +1265,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb2ROYTUtM1NVaEhIV1JxUTJxVXY3bDRVZ0xkQXNsMVZBSFlRaWVzXzkzdzlrUUtGcWNzLVNUQjRmczRRTFRhRDVkVEJBVHpfTEJmWVRSOU9vblhzM3ppODl0dGl3VXV3Sm9pMUh"
       },
       {
-        "headline": "3 things homebuyers should avoid before the March Fed meeting - CBS News",
-        "url": "https://www.cbsnews.com/news/things-homebuyers-should-avoid-before-the-fed-march-2026-meeting/",
-        "source": "Daybook: Economic Calendar",
-        "sourceId": "daybook_econ",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Thu, 12 Mar 2026 17:57:25 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNdkNfTDVVbXltaVNSaktjbFNhRFB5REpkQTNYQ1VpSTA2OFhKaWN2MllwWEF1am1nVVlSTmI0NlhTazd4U1lfVDZpS29fVGJ5RjZ4OVdZQnFDYXRseUhRenk3ellQZk5RenNJS3N"
-      },
-      {
-        "headline": "On the Sidelines S2E5: NFL free agency, Kraken trade deadline - FOX 13 Seattle",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzMzRSU00wanE2NW5Vb1FsQ2IzeF9FWk52cTlvNWo0aVdGUndRci1kLW82VzU1SG1XVjVyUXhrY1dsSnlCSDYycmpqcnhkcEVmRTNKWDJrOXRjdERFeUJMekh2NXVhZ9IBa0FVX3lxTE9Tc1ZiSXFxQm94UFpQZDZmbW1ZalNwa001aXMxR2ttMDRaVGRhaUNnLVRUOWZMX3ppb3NqVlFITVJSQThxYWZ6S1VTWHloNDNaVFJ6QklFenY4M1ROZl9WWGNDNm00S2dUQ3VJ?oc=5",
-        "source": "Daybook: Economic Calendar",
-        "sourceId": "daybook_econ",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Wed, 11 Mar 2026 01:49:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzMzRSU00wanE2NW5Vb1FsQ2IzeF9FWk52cTlvNWo0aVdGUndRci1kLW82VzU1SG1XVjVyUXhrY1dsSnlCSDYycmpqcnhkcEVmRTNKWDJrOXRjdERFeUJMekh2NXVhZ9IBa0FVX3l"
-      },
-      {
         "headline": "2025-26 NHL Trade Tracker - NHL.com",
         "url": "https://www.nhl.com/news/2025-26-nhl-trades",
         "source": "Daybook: Economic Calendar",
@@ -1284,14 +1285,14 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPUDVZdkdsTmhWRnEzUmdFYWhHMHVaZjctcndNQi1qN1NpaEcwRUJ6dU84Ui02MmJ0dG83ZzNnbFdYeF84MU9Xeks5cTE2NnJBMXR2bENfcTMzV0FDS0R1V0ZzSTU4LUNfSHdCQzI"
       },
       {
-        "headline": "Lyft (LYFT) Down 4.9% Since Last Earnings Report: Can It Rebound? - Yahoo Finance",
-        "url": "https://finance.yahoo.com/news/lyft-lyft-down-4-9-153008313.html",
+        "headline": "Principal Financial (PFG) Down 4.2% Since Last Earnings Report: Can It Rebound? - Yahoo Finance",
+        "url": "https://finance.yahoo.com/news/principal-financial-pfg-down-4-153005132.html",
         "source": "Daybook: Economic Calendar",
         "sourceId": "daybook_econ",
         "category": "daybook",
         "priority": "reference",
-        "date": "Thu, 12 Mar 2026 15:30:08 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9mNmF2a3JzR290M3YxYnRwN055ZW5IY2RTeUtQaEp4ZE4wQi1nWi1RMTRGUktLVzAzcURQQi1QMU85TEctM1UyX0ZLMmdyS3ZSNFlFU1R0OFBuWEZMQzU3eFAyRE9lR2IyNmVJekh"
+        "date": "Wed, 11 Mar 2026 15:30:05 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPb3hLdmlfNVFJX3hrM0dhWUhsWkxiMzhOQmg0VkYyV1hSYTl5NTJaMDVSYVNkS0FaRXlFcXlWdk5ycXBsemZtQU9hbURVN1F3ZkN5LWVJRWtrR0ctNzl2Ym5LdVoyU002M0xmVXk"
       },
       {
         "headline": "MAMMOTH MONTHLY: Bill Armstrong Trade Deadline - NHL.com",
@@ -1312,6 +1313,16 @@
         "priority": "reference",
         "date": "Mon, 16 Mar 2026 12:45:03 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNUVQ0cENYYnhHUDB4blp6WVJLQ2x0ZDdxTzZtQk1Hd1BZSE9Jb09SeEEzcTZWbHBSMnFwWGhZLUF5UXlKbVRGa3VLNjFpYWVnYm1MVF9pX3FfMTZESnZUNm9zZWtUektLRjJOMEl"
+      },
+      {
+        "headline": "Lyft (LYFT) Down 4.9% Since Last Earnings Report: Can It Rebound? - Yahoo Finance",
+        "url": "https://finance.yahoo.com/news/lyft-lyft-down-4-9-153008313.html",
+        "source": "Daybook: Economic Calendar",
+        "sourceId": "daybook_econ",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Thu, 12 Mar 2026 15:30:08 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9mNmF2a3JzR290M3YxYnRwN055ZW5IY2RTeUtQaEp4ZE4wQi1nWi1RMTRGUktLVzAzcURQQi1QMU85TEctM1UyX0ZLMmdyS3ZSNFlFU1R0OFBuWEZMQzU3eFAyRE9lR2IyNmVJekh"
       },
       {
         "headline": "'The Last Of Us' Casts Jason Ritter &amp; Patrick Wilson; Promotes 3 - Deadline",
@@ -1344,16 +1355,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxObHVMbUZjY183c2dLZExoQ2xsNzJDeEd1VXJoNEJDZjVzV3gwSWduaXpCaXpOSnB5MHBUdzVqWEEzWnVEUUp5YW1rd29uc3hFQTV4R3psNklla1VBQTJXbkd4N1VZSTUtWG5nRHR"
       },
       {
-        "headline": "Closing arguments set to begin in Twitter shareholder trial accusing Musk of driving down stock - New Haven Register",
-        "url": "https://www.nhregister.com/business/article/closing-arguments-set-to-begin-in-twitter-22080861.php",
-        "source": "Daybook: Scheduled Events",
-        "sourceId": "daybook_scheduled",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Tue, 17 Mar 2026 05:11:15 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQVmF5WU9qcG5mMndFb3B4Wk9iTkwyQ2dTbzJmakN6aGREU3JVRjlCSXg5eGJCMXpPOV9iTVlaeHF4aWtvYm5CaFpkd1kzdFZlWmVvdnlMOUliellKcXlXdEJBZ0xRSHJIMWJJSFR"
-      },
-      {
         "headline": "Thousands of North Texas families have applied for school vouchers ahead of deadline - KERA News",
         "url": "https://www.keranews.org/education/2026-03-17/texas-school-voucher-applications-deadline-students",
         "source": "Daybook: Scheduled Events",
@@ -1374,6 +1375,16 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxNSVRSajljZVllcF9ySzQ3Q3ByNUlNMHNqR2FLeWlwdzdoM3BaSjZoUXg0RklkRnNzTHJVVTc4Qml2ZUdIR2o0SFBfVklSR0J4cWVYZW1zRDZsU0MzUG1nMlVZQWdzZklETFkyeXJ"
       },
       {
+        "headline": "St. Dominic's funding deadline to reopen high school passes - WGME",
+        "url": "https://wgme.com/news/local/st-dominics-funding-deadline-to-reopen-high-school-passes-maine-education-students-learning-closure-diocese-of-portland",
+        "source": "Daybook: Scheduled Events",
+        "sourceId": "daybook_scheduled",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Tue, 17 Mar 2026 10:35:03 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQR0VLLXBVNklwLW0tTWRBbDVjOW9vMXR0SmxVaXgxbnEzNDRmc2JJTlZzMzEtTXlwRDdQWXVQNDlWX3g1MXoxVlB4WU9acHlTakhLdmxRSEtuTFllR182cVJlZFFqcVRnTkFtVHR"
+      },
+      {
         "headline": "Texas school voucher program tops 200,000 applicants ahead of Tuesday deadline - KBTX News 3",
         "url": "https://www.kbtx.com/2026/03/17/texas-school-voucher-program-tops-200000-applicants-ahead-tuesday-deadline/",
         "source": "Daybook: Scheduled Events",
@@ -1382,6 +1393,26 @@
         "priority": "reference",
         "date": "Tue, 17 Mar 2026 03:36:00 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOanNfX1J4V3NxMF9nUTM5ZUxvdzdPUHBIZVZUSVZrZ0dVY1NFU3B6ZkN1UUNxS0JKU1B6S2twWUJTbUlYbWR2UzR2ZUl3ZHVoS3dJUzFmSVR3Tm5uVWNBb05nSklETTZJb0tOZVl"
+      },
+      {
+        "headline": "Selectis shareholders given May 11 deadline to accept Black Pearl tender offer - McKnight's Senior Living",
+        "url": "https://www.mcknightsseniorliving.com/news/selectis-shareholders-given-may-11-deadline-to-accept-black-pearl-tender-offer/",
+        "source": "Daybook: Scheduled Events",
+        "sourceId": "daybook_scheduled",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Tue, 17 Mar 2026 04:10:02 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQalV6blcwY2Z1RVNhMXlqOWRyS2ZJVDVJR1FZUGRiblEwT1h3SWM3bHMwdVJjNTg1blNVNmV6MVhMNjNWWlhGV3VscDE5UU8xa09Hd3RyUWFrMWo0b0lWaVktOHRGQm1scWR5RDF"
+      },
+      {
+        "headline": "Battle boys volleyball set to begin second season at Hy-Vee Arena Tournament - Columbia Missourian",
+        "url": "https://www.columbiamissourian.com/sports/prep_sports/battle/battle-boys-volleyball-set-to-begin-second-season-at-hy-vee-arena-tournament/article_dd27d401-116e-40bc-bafc-0a1f7bcaf893.html",
+        "source": "Daybook: Scheduled Events",
+        "sourceId": "daybook_scheduled",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Tue, 17 Mar 2026 11:00:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgJBVV95cUxOVUJDWWo5NW5SUmZiTlUxTTVZbzgyUDRyOWJncTZ1NUhVV2RrMm1KQXU2NmRvakxmWWtvcm1ONDFBZEUyNERGUzBUamhyU3hDWmZBSkJjdHhvT3BIWldLNmxZd3FqZHE0UUNSVXB"
       },
       {
         "headline": "Deadline to request absentee ballots for April 7 election is near - KSWO 7News",
@@ -1394,6 +1425,16 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQY3ctUllHd2JnbFBGajhqa0labWJ6YWNHU0d0dTl1Zm9JSHhRS2dxNVBVNXV4VHpqczQwWFoxYkgxVW5RZEVqZjlaS3hOZ1REUE11Rm5YRnNhNndRaEtpbFFva3ZiekhBZGZ5ZUQ"
       },
       {
+        "headline": "Closing arguments set to begin in Twitter shareholder trial accusing Musk of driving down stock - New Haven Register",
+        "url": "https://www.nhregister.com/business/article/closing-arguments-set-to-begin-in-twitter-22080861.php",
+        "source": "Daybook: Scheduled Events",
+        "sourceId": "daybook_scheduled",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Tue, 17 Mar 2026 05:11:15 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQVmF5WU9qcG5mMndFb3B4Wk9iTkwyQ2dTbzJmakN6aGREU3JVRjlCSXg5eGJCMXpPOV9iTVlaeHF4aWtvYm5CaFpkd1kzdFZlWmVvdnlMOUliellKcXlXdEJBZ0xRSHJIMWJJSFR"
+      },
+      {
         "headline": "When do March Madness brackets close? Here's the deadline to submit your picks - NBC Connecticut",
         "url": "https://www.nbcconnecticut.com/news/sports/ncaab/march-madness-brackets-deadlines-2026/3714366/",
         "source": "Daybook: Scheduled Events",
@@ -1402,26 +1443,6 @@
         "priority": "reference",
         "date": "Mon, 16 Mar 2026 17:56:27 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQcWFVRV9UalUyVjAwdEZHLUN6cEd5Z3JpNHZUb2Fndms0eU1IRnR1Z0V5cnRQV2x2NnhwOEVJWFdENy1GdWVMOGN3bG15MW5ITTJtcDh2ZzdnN2hiSENseUxudmdlRFBHQm0xUkJ"
-      },
-      {
-        "headline": "Average tax return up 10% from last year but fewer returns filed as April 15 nears - The Commercial Appeal",
-        "url": "https://www.commercialappeal.com/story/money/2026/03/17/when-taxes-due-2026-average-tax-returns-where-return/89184243007/",
-        "source": "Daybook: Scheduled Events",
-        "sourceId": "daybook_scheduled",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Tue, 17 Mar 2026 09:15:14 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOTDcydk5UU1FWMUJqWU5HX1RMbm5pUHNlcG5yTHktN29TdnV2eHg0QnF2VUZGUDlieS1PaWRGNWEtVE9OZ3RVOEdGZ1RPRnVPQ25SdGxUUGV6aVNwSURhbkV6eEE2R0VqSk8yODJ"
-      },
-      {
-        "headline": "Beyond deadline math: The Eleventh Circuit’s practical take on equitable tolling - JD Supra",
-        "url": "https://www.jdsupra.com/legalnews/beyond-deadline-math-the-eleventh-4960753/",
-        "source": "Daybook: Scheduled Events",
-        "sourceId": "daybook_scheduled",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Mon, 16 Mar 2026 19:27:14 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPRllZNDZ2VmVScmQyVTM1NXhDWWFiS0MtS3RvN0JLX1l2ejUtSWVxRVpqaG93RnpycTJoREh6ODIxWHhxVzBEdl83MTd4dklMZHBTT2thUjdxdHhaczZwTDQyT0FFdkViZVJkLV9"
       },
       {
         "headline": "‘Buffy’ Autopsy Report: The Inside Story Of How High-Profile Reboot Was Shockingly Slayed - Deadline",
@@ -1452,20 +1473,20 @@
         "priority": "reference",
         "date": "Mon, 16 Mar 2026 22:52:00 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPT1RwQTdRTEpNQllHY08tQXNKWjN2ZnNmd0hKR0piUU0wWDg5dEJON0NCaTVSQVJuOWJWZzZLQVNjOW0xNGVmak9XQ1RTdFFZYy01SF9ZMWdzN1gtbTQ0d1liRmg2NTJILXlMUUZ"
-      },
-      {
-        "headline": "Dana Walden Unveils Her Disney Entertainment Leadership Team - Deadline",
-        "url": "https://deadline.com/2026/03/dana-walden-disney-entertainment-leadership-debra-oconnell-1236756934/",
-        "source": "Daybook: Scheduled Events",
-        "sourceId": "daybook_scheduled",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Mon, 16 Mar 2026 20:45:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPN3ZVTmdsVXlTb3Bnb1JzLS10dXpJUUpiWk8zVDBwVDlrLWxKdkd0b19vMEpSaFdSVlg2cUdFU2NYMHpqYlF0TWRfcjBNbDJHS01xSzNSYW53ZUY2TFZvNktPSEZwanMxVlM2azV"
       }
     ],
     "byCategory": {
       "wire": [
+        {
+          "headline": "Illinois voters pick a new generation of Democrats for House, Senate after near-record retirements",
+          "url": "https://apnews.com/article/election-primary-illinois-democrats-senate-house-f9432112c459e87fdbfea0bdbcd4e492",
+          "source": "AP",
+          "sourceId": "ap_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Tue, 17 Mar 2026 10:53:02 +0000",
+          "description": ""
+        },
         {
           "headline": "Iran war pushes countries into energy triage as they conserve power and curb soaring prices",
           "url": "https://apnews.com/article/middle-east-wars-energy-asia-gas-oil-f22739369eb36ccaf87543459cfed320",
@@ -1564,14 +1585,24 @@
           "description": ""
         },
         {
-          "headline": "Afghanistan says 400 people killed in Pakistan strike on Kabul hospital treating drug users",
-          "url": "https://apnews.com/article/afghanistan-pakistan-border-clashes-children-killed-taliban-44c7bb28cdf68615b413a81eb4e4fe36",
-          "source": "AP",
-          "sourceId": "ap_world",
+          "headline": "Exclusive: Iran's new supreme leader rejects proposals for reducing tensions with US, senior official says - Reuters",
+          "url": "https://www.reuters.com/world/middle-east/irans-new-supreme-leader-rejects-proposals-reducing-tensions-with-us-senior-2026-03-17/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
           "category": "wire",
           "priority": "primary",
-          "date": "Tue, 17 Mar 2026 00:23:02 +0000",
-          "description": ""
+          "date": "Tue, 17 Mar 2026 09:54:45 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWWR3M2NPOGJKb2RWb3VLQVRrampGU0hlT0E5N1YwWGdsaDJkVW1mcVkxQnR0TDFWcWdTb2c1Tno3RHNWMnRndF9hQUlIVE5DZkRKRU9nVTBVU2FhOEdmZ1hicHNBeHh0ZVpHT0x"
+        },
+        {
+          "headline": "Israel says Iran's security chief Larijani is killed - Reuters",
+          "url": "https://www.reuters.com/world/middle-east/israel-says-irans-security-chief-larijani-is-killed-2026-03-17/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Tue, 17 Mar 2026 09:30:51 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSjhkeFE4SlZfRHV4VlZpbUlTNTQ3T1VsQ245MUpkV2xzMFA4bUZzVmZqd2NvbXY0eVNHcTFJYVNqeUMwbzUwU2dKd2V2LWdDa2pGbEtjY2d4MFNYcmliZkpUVFBhWHJNUWIxZDZ"
         },
         {
           "headline": "Exclusive: EU seeks diplomatic solution for Hormuz Strait, Kallas says - Reuters",
@@ -1594,6 +1625,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOWWRmYUdmdXdXYVRpZlBQQ3o4d0MzZ1BlODJWSlhGRGhiUy1Lc3pEQWJGemplWGw0Y3FhWDlsUTZTNDN4LUlUM041WUctaGZiWmRrUmNMbC05N2duYXZOM1VfQW9FT1lUeE9UUGF"
         },
         {
+          "headline": "Trump's summit delay casts pall over US-China trade truce - Reuters",
+          "url": "https://www.reuters.com/world/china/trumps-summit-delay-casts-pall-over-us-china-trade-truce-2026-03-17/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Tue, 17 Mar 2026 07:10:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQX2pHMVJYY2pieURiREZOX29FUktfaDBQWHVsRW5Wa0xjQ1VpNXE1Q1V5TXR4X1ZrOFlfRkxDSEwzQ0x5SFF3RVZpRG84aUR0bTdtNDY3UFdxSnAtTWkyRXQzT2o4UXBFaHB6QXU"
+        },
+        {
           "headline": "Iraq in talks with Iran to safeguard oil tanker traffic through Hormuz - Reuters",
           "url": "https://www.reuters.com/world/middle-east/iraq-talks-with-iran-safeguard-oil-tanker-traffic-through-hormuz-2026-03-17/",
           "source": "Reuters",
@@ -1602,16 +1643,6 @@
           "priority": "primary",
           "date": "Tue, 17 Mar 2026 08:10:05 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPLU9aSWNiOVoyOHdVZGtBVFFlaW9Zc3JzUnRhRExJRmh4emZTOU1VNTJFWU1LbnVlZThzZ0tRdS1fZDNTeXJ1VHVwa0Z6azhGUUZOVjBVWjNyd1daMm1FTXBhYU1XVzlIQ0xMRzN"
-        },
-        {
-          "headline": "Google in talks with China's Envicool, others to buy data centre cooling systems, sources say - Reuters",
-          "url": "https://www.reuters.com/world/china/google-talks-with-chinas-envicool-others-buy-data-centre-cooling-systems-sources-2026-03-17/",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Tue, 17 Mar 2026 06:05:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQWHpTb1FHQXpXdC0zaktIdkoxYzNRbE1FTFNCZmtGTUVHR202Qjhjam4wNkFfT283Y0JYU3l2T3ZhZFZ5c2Y5cmJWTGVSM0ZKOFE2aXUxRFpDUUdWM015WXlBamdST3hrMUdBR1k"
         },
         {
           "headline": "Exclusive: EU has adapted to US unpredictability, foreign policy chief says - Reuters",
@@ -1634,6 +1665,26 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOMGJpZjdQUGVVdnFJQkVVSGNrMFcxZnRJS0ZPSEc1cm9VbkQ5aXZnMGROX2RHNHp4TWZ0UUM5d01KazlVd2R5U0VhZTE3bGhjWHplNmdVeDNaSEkxRTlIUUNGY0d1bG5TNnFQaUt"
         },
         {
+          "headline": "Google in talks with China's Envicool, others to buy data centre cooling systems, sources say - Reuters",
+          "url": "https://www.reuters.com/world/china/google-talks-with-chinas-envicool-others-buy-data-centre-cooling-systems-sources-2026-03-17/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Tue, 17 Mar 2026 06:05:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQWHpTb1FHQXpXdC0zaktIdkoxYzNRbE1FTFNCZmtGTUVHR202Qjhjam4wNkFfT283Y0JYU3l2T3ZhZFZ5c2Y5cmJWTGVSM0ZKOFE2aXUxRFpDUUdWM015WXlBamdST3hrMUdBR1k"
+        },
+        {
+          "headline": "'It was like doomsday,' says Kabul hospital survivor after Pakistan air strike - Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/it-was-like-doomsday-says-kabul-hospital-survivor-after-pakistan-air-strike-2026-03-17/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Tue, 17 Mar 2026 06:28:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOSDlDWDd5ejA1VURYdkZqOE1sZEt1YWt2NlF0aU8xcFlVaHpfSUp0QXJNVzZGQXMzN3lLUHJ4UGpMTmFVMU5vN3RqTTd2c3A0OUZMMmNEZmNjMG45ZzJfbVZDM240RV9ybTJONVh"
+        },
+        {
           "headline": "Magnitude 6 earthquake strikes Cuba, EMSC says - Reuters",
           "url": "https://www.reuters.com/business/environment/magnitude-6-earthquake-strikes-cuba-emsc-says-2026-03-17/",
           "source": "Reuters",
@@ -1644,14 +1695,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQVlFMeW9wU3FzeDdrUlJlZlE4bkF0WTRMLTlMeUZjVkV6dXhsanFKNEVNTzNPd2UtTGRCc2cwQkpIbjNnRDViR2QyOC1PWkVNRlo3RHY3UWdwUGhYckRfNkNrc2pnRnhzakVvSVB"
         },
         {
-          "headline": "Trump's summit delay casts pall over US-China trade truce - Reuters",
-          "url": "https://www.reuters.com/world/china/trumps-summit-delay-casts-pall-over-us-china-trade-truce-2026-03-17/",
+          "headline": "Vietnam firms vie for crypto licences as Hanoi plans ban on overseas trading - Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/vietnam-firms-vie-crypto-licences-hanoi-plans-ban-overseas-trading-2026-03-17/",
           "source": "Reuters",
           "sourceId": "reuters_world",
           "category": "wire",
           "priority": "primary",
-          "date": "Tue, 17 Mar 2026 07:10:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQX2pHMVJYY2pieURiREZOX29FUktfaDBQWHVsRW5Wa0xjQ1VpNXE1Q1V5TXR4X1ZrOFlfRkxDSEwzQ0x5SFF3RVZpRG84aUR0bTdtNDY3UFdxSnAtTWkyRXQzT2o4UXBFaHB6QXU"
+          "date": "Tue, 17 Mar 2026 06:15:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOWWt6YTdkLXJIYlRvYWNlTkEtcGFJa1hwTUZHdTA2OTBOV3ZtNzlad2k1cTBjYUZza01ybFVuR3ZabUhhWDRtLVhLOHBXMmpzN2tZUDA3VmRSRzcxTEhnY3JqSWdfQk9pSEJkY2o"
         },
         {
           "headline": "Iran negotiating with FIFA to move World Cup games to Mexico from US - Reuters",
@@ -1674,16 +1725,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTVhHMjJPUHhnUVdGdEtLWTZ3MUgwanJydGkyZkJ5bWI3WnFKVS0zREVmRGF4RzBhU1FUT1VEWjJLUXZ5VFBRaUtzdGtONGY3MHdlZDV2SkU5Yzc4cWEwdmJuY2sxSVl5NEtITXp"
         },
         {
-          "headline": "'It was like doomsday,' says Kabul hospital survivor after Pakistan air strike - Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/it-was-like-doomsday-says-kabul-hospital-survivor-after-pakistan-air-strike-2026-03-17/",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Tue, 17 Mar 2026 06:28:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOSDlDWDd5ejA1VURYdkZqOE1sZEt1YWt2NlF0aU8xcFlVaHpfSUp0QXJNVzZGQXMzN3lLUHJ4UGpMTmFVMU5vN3RqTTd2c3A0OUZMMmNEZmNjMG45ZzJfbVZDM240RV9ybTJONVh"
-        },
-        {
           "headline": "Cheap drones are reshaping the war in the sky - Reuters",
           "url": "https://www.reuters.com/graphics/IRAN-CRISIS/DRONES/dwpkyamxqpm/",
           "source": "Reuters",
@@ -1694,34 +1735,85 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5fUzBLOGJoSkIwUVdfSm1uUHhsT2hEWmlXdEJFcE11YTBFZTRTcG1lRXRIRmJGTXpFOHBVSWxadG5Tb0VTcWhpWm81YkdUeG1hUnpKZl9jX2hZVWhURHVUR0R0T0R4ZlRtYjdBWFd"
         },
         {
-          "headline": "Ten foreign individuals arrested in Iran's northeast for spying, Tasnim reports - Reuters",
-          "url": "https://www.reuters.com/world/middle-east/ten-foreign-individuals-arrested-irans-northeast-spying-tasnim-reports-2026-03-17/",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
+          "headline": "French parties scramble to make alliances ahead of local election runoffs",
+          "url": "https://www.france24.com/en/video/20260317-french-parties-scramble-to-make-alliances-ahead-of-local-election-runoffs",
+          "source": "France24",
+          "sourceId": "france24",
           "category": "wire",
-          "priority": "primary",
-          "date": "Tue, 17 Mar 2026 05:49:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbU01aGozc3hyVzdLai1vX3hkNVRQUk9qYk9STVZLQVBqNzU2U0FhSkhYb04wRmx1YXBhdlAxOTlvcXItejdHaDNhRklRWVdKSjRqM2dvWkRoeW14TkFGckpVZWZXVFhBdEMzaHN"
+          "priority": "secondary",
+          "date": "Tue, 17 Mar 2026 11:07:00 GMT",
+          "description": "",
+          "watchCandidate": true,
+          "watchSignals": [
+            {
+              "category": "temporal",
+              "matched": "ahead of"
+            },
+            {
+              "category": "scheduled",
+              "matched": "election"
+            }
+          ]
         },
         {
-          "headline": "Trump was warned of likely Iranian retaliation on Gulf allies, sources say - Reuters",
-          "url": "https://www.reuters.com/world/middle-east/trump-was-warned-likely-iranian-retaliation-gulf-allies-sources-say-2026-03-17/",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
+          "headline": "The 'Bib Gourmand' - Michelin's award good food at great value",
+          "url": "https://www.france24.com/en/video/20260317-the-bib-gourmand-michelin-s-award-good-food-at-great-value",
+          "source": "France24",
+          "sourceId": "france24",
           "category": "wire",
-          "priority": "primary",
-          "date": "Tue, 17 Mar 2026 02:49:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOT1o3eDFZNnVCNk93VThlQl8zbTVfME1xVm5ad3VEOUpWNW9CZWU4MEdmZXlNWEppby1fQzZ5NFpEbjRTaWRlVmQ1QXU2bzhNcGJsSWxVUEdDeDM0Q0YzYkExbnFtcmJGZG5YV1c"
+          "priority": "secondary",
+          "date": "Tue, 17 Mar 2026 11:05:59 GMT",
+          "description": ""
         },
         {
-          "headline": "US government confirms Tesla and LG Energy Solution's $4.3 billion battery deal - Reuters",
-          "url": "https://www.reuters.com/business/energy/us-government-confirms-tesla-lg-energy-solutions-43-billion-battery-deal-2026-03-17/",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
+          "headline": "Gulf states seek to bypass Strait of Hormuz for oil exports via pipelines",
+          "url": "https://www.france24.com/en/tv-shows/business/20260317-gulf-states-seek-to-bypass-strait-of-hormuz-for-oil-exports-via-pipelines",
+          "source": "France24",
+          "sourceId": "france24",
           "category": "wire",
-          "priority": "primary",
-          "date": "Tue, 17 Mar 2026 03:24:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY0VBMUJ3X19leG43Nkp6NGNObTcwU2VVWkxXTkI4NmRDdVJCM2g4SUpNcGl5LTJjTC03YXVYQkNRU2pJY3FFeVpkTlVnNzdqaGFMRHVQenZsWHg3Sm9BcVNDTEt3eUxlZWdHR29"
+          "priority": "secondary",
+          "date": "Tue, 17 Mar 2026 11:00:43 GMT",
+          "description": ""
+        },
+        {
+          "headline": "Trump's call for help with Hormuz largely falls on deaf ears",
+          "url": "https://www.france24.com/en/video/20260317-trump-s-call-for-help-with-hormuz-largely-falls-on-deaf-ears",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Tue, 17 Mar 2026 10:56:17 GMT",
+          "description": ""
+        },
+        {
+          "headline": "Lava flow reaches ocean on France's Reunion island",
+          "url": "https://www.france24.com/en/video/20260317-lava-flow-reaches-ocean-on-france-s-reunion-island",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Tue, 17 Mar 2026 10:55:08 GMT",
+          "description": ""
+        },
+        {
+          "headline": "'Ready to fight' but lacking means, Iraqi Kurds targeted by Iran",
+          "url": "https://www.france24.com/en/video/20260317-ready-to-fight-but-lacking-means-iraqi-kurds-targeted-by-iran",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Tue, 17 Mar 2026 10:53:31 GMT",
+          "description": ""
+        },
+        {
+          "headline": "Israel says killed Iran national security chief Larijani",
+          "url": "https://www.france24.com/en/video/20260317-israel-says-killed-iran-national-security-chief-larijani",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Tue, 17 Mar 2026 10:52:21 GMT",
+          "description": ""
         },
         {
           "headline": "Israel hits Lebanon with fresh strikes as ground operation expands",
@@ -1809,76 +1901,6 @@
               "matched": "ahead of"
             }
           ]
-        },
-        {
-          "headline": "Iran 'negotiating' with FIFA over moving World Cup games from US to Mexico",
-          "url": "https://www.france24.com/en/sport/20260317-iran-negotiating-with-fifa-over-moving-world-cup-games-from-us-to-mexico",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Tue, 17 Mar 2026 05:03:14 GMT",
-          "description": ""
-        },
-        {
-          "headline": "Middle East war live: Israel killed Iran’s security chief Ali Larijani, Defence Minister Katz says",
-          "url": "https://www.france24.com/en/middle-east/20260317-uae-intercepts-iranian-fire-as-israel-strikes-tehran-and-lebanon",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Tue, 17 Mar 2026 03:13:41 GMT",
-          "description": ""
-        },
-        {
-          "headline": "Chile’s new president launches border barrier plan to curb illegal immigration",
-          "url": "https://www.france24.com/en/americas/20260316-chile-president-launches-border-barrier-illegal-immigration",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Mon, 16 Mar 2026 22:55:32 GMT",
-          "description": ""
-        },
-        {
-          "headline": "Cuba hit by massive islandwide blackout as power grid crisis deepens",
-          "url": "https://www.france24.com/en/americas/20260316-cuba-hit-by-blackout-power-grid-crisis",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Mon, 16 Mar 2026 22:38:27 GMT",
-          "description": ""
-        },
-        {
-          "headline": "Social media abuzz with viral rumours of Netanyahu's death",
-          "url": "https://www.france24.com/en/social-media-abuzz-with-viral-rumours-of-benjamin-netanyahu-s-death",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Mon, 16 Mar 2026 22:04:41 GMT",
-          "description": ""
-        },
-        {
-          "headline": "Oil eases amid signs Iran is allowing some tankers pass through Strait of Hormuz",
-          "url": "https://www.france24.com/en/tv-shows/business/20260316-oil-eases-amid-signs-iran-is-allowing-some-tankers-pass-through-strait-of-hormuz",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Mon, 16 Mar 2026 21:57:58 GMT",
-          "description": ""
-        },
-        {
-          "headline": "Kenyans will no longer be enlisted to fight for Russia in Ukraine",
-          "url": "https://www.france24.com/en/enyans-will-no-longer-be-enlisted-to-fight-for-russia-in-ukraine",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Mon, 16 Mar 2026 21:38:19 GMT",
-          "description": ""
         }
       ],
       "general": [
@@ -1889,7 +1911,7 @@
           "sourceId": "bbc_world",
           "category": "general",
           "priority": "primary",
-          "date": "Tue, 17 Mar 2026 07:52:40 GMT",
+          "date": "Tue, 17 Mar 2026 10:33:49 GMT",
           "description": "The escalating war in Iran has overshadowed many of the US' foreign policy objectives"
         },
         {
@@ -1903,14 +1925,14 @@
           "description": "The National Center for Learning Disabilities said it was \"disturbed\" by the president's remarks."
         },
         {
-          "headline": "Dozens killed in air strike on Kabul rehab centre blamed on Pakistan",
+          "headline": "Pakistan blamed after air strike on Kabul rehab centre kills at least 100",
           "url": "https://www.bbc.com/news/articles/c4g8n7e0l40o?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC",
           "sourceId": "bbc_world",
           "category": "general",
           "priority": "primary",
-          "date": "Tue, 17 Mar 2026 06:19:03 GMT",
-          "description": "The BBC visited the facility and saw more than 30 bodies being carried out on stretchers."
+          "date": "Tue, 17 Mar 2026 11:00:53 GMT",
+          "description": "Some of the bodies were injured beyond recognition, forensic laboratory sources told the BBC."
         },
         {
           "headline": "Utah bereavement author found guilty of fatally poisoning her husband",
@@ -1923,14 +1945,14 @@
           "description": "A jury found that Kouri Richins killed her husband in March 2022 by poisoning him with a fentanyl-laced drink."
         },
         {
-          "headline": "Columbia University protester released after one year in immigration custody",
-          "url": "https://www.bbc.com/news/articles/ckgzdkg0q9go?at_medium=RSS&amp;at_campaign=rss",
+          "headline": "Suspected suicide attacks kill at least 23 in north-east Nigeria",
+          "url": "https://www.bbc.com/news/articles/c4gqnjjy9edo?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC",
           "sourceId": "bbc_world",
           "category": "general",
           "priority": "primary",
-          "date": "Tue, 17 Mar 2026 01:08:24 GMT",
-          "description": "Federal officials say Leqaa Kordia overstayed her student visa. Her lawyer says she was targeted for pro-Palestinian activism."
+          "date": "Tue, 17 Mar 2026 10:24:29 GMT",
+          "description": "Multiple blasts struck some of the Maiduguri's busiest locations on Monday evening."
         },
         {
           "headline": "And the burger goes to... Michael B Jordan marks Oscars win at In-N-Out",
@@ -1941,6 +1963,16 @@
           "priority": "primary",
           "date": "Tue, 17 Mar 2026 04:41:58 GMT",
           "description": "Hours after winning best actor, Jordan joins an exclusive list of famous faces to celebrate an Oscar victory with a burger."
+        },
+        {
+          "headline": "Columbia University protester released after one year in immigration custody",
+          "url": "https://www.bbc.com/news/articles/ckgzdkg0q9go?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC",
+          "sourceId": "bbc_world",
+          "category": "general",
+          "priority": "primary",
+          "date": "Tue, 17 Mar 2026 01:08:24 GMT",
+          "description": "Federal officials say Leqaa Kordia overstayed her student visa. Her lawyer says she was targeted for pro-Palestinian activism."
         },
         {
           "headline": "From tornadoes to blizzards, severe weather batters parts of the US",
@@ -1969,7 +2001,7 @@
           "sourceId": "bbc_world",
           "category": "general",
           "priority": "primary",
-          "date": "Tue, 17 Mar 2026 03:46:22 GMT",
+          "date": "Tue, 17 Mar 2026 10:32:25 GMT",
           "description": "Cuba's chronic fuel shortages have been exacerbated by a US blockade on oil shipments to the island."
         },
         {
@@ -2001,16 +2033,6 @@
           "priority": "primary",
           "date": "Mon, 16 Mar 2026 12:36:51 GMT",
           "description": "Marius van der Merwe was shot dead three weeks after accusing police officers of killing a robbery suspect."
-        },
-        {
-          "headline": "Russia agrees to stop using Kenyan recruits in Ukraine conflict, Kenya says",
-          "url": "https://www.bbc.com/news/articles/cev7rdwmky9o?at_medium=RSS&amp;at_campaign=rss",
-          "source": "BBC",
-          "sourceId": "bbc_world",
-          "category": "general",
-          "priority": "primary",
-          "date": "Mon, 16 Mar 2026 14:09:58 GMT",
-          "description": "Some 1,000 Kenyans are believed to have recruited to fight in Ukraine - many say they were lured under false pretences."
         },
         {
           "headline": "Surge in US petrol prices deepens political peril for Trump over Iran",
@@ -2183,6 +2205,16 @@
           "description": "Israel says 91 hostages abducted on Oct. 7 remain in captivity, including the bodies of at least 34."
         },
         {
+          "headline": "‘These connections are overlooked’: how British companies profited from slavery in Brazil long after abolition",
+          "url": "https://www.theguardian.com/world/2026/mar/17/connections-overlooked-how-british-companies-profited-slavery-brazil-after-abolition",
+          "source": "Guardian",
+          "sourceId": "guardian_world",
+          "category": "general",
+          "priority": "primary",
+          "date": "Tue, 17 Mar 2026 11:00:44 GMT",
+          "description": "&lt;p&gt;Britons learn about the country’s involvement ‘almost as a self-congratulatory narrative’, says historian Joseph Mulhern &lt;/p&gt;&lt;p&gt;In 1845 British citizens and companies were already"
+        },
+        {
           "headline": "Africa particularly vulnerable as Iran conflict disrupts supply chains, say experts",
           "url": "https://www.theguardian.com/world/2026/mar/16/africa-particularly-vulnerable-iran-conflict-disrupts-supply-chains",
           "source": "Guardian",
@@ -2221,16 +2253,6 @@
           "priority": "primary",
           "date": "Thu, 12 Mar 2026 21:20:29 GMT",
           "description": "&lt;p&gt;Two deportees sent to Eswatini were from Somalia, one was from Sudan and another was from Tanzania&lt;/p&gt;&lt;p&gt;The government of &lt;a href=\"https://www.theguardian.com/world/eswatini\"&"
-        },
-        {
-          "headline": "UK government axes flagship global health project",
-          "url": "https://www.theguardian.com/global-development/2026/mar/12/uk-government-axes-flagship-global-health-project",
-          "source": "Guardian",
-          "sourceId": "guardian_world",
-          "category": "general",
-          "priority": "primary",
-          "date": "Thu, 12 Mar 2026 12:59:29 GMT",
-          "description": "&lt;p&gt;Programme which supports schemes in six African countries was previously hailed as vital protection for Britain against future pandemics&lt;/p&gt;&lt;p&gt;A flagship health project in Africa,"
         },
         {
           "headline": "Cuba’s electrical grid collapses amid US oil blockade",
@@ -2480,14 +2502,24 @@
           "description": "Six members of a Palestinian family went out for a ride in the car. Only two made it back home."
         },
         {
-          "headline": "Another Tanker Is Attacked Near the Strait of Hormuz",
-          "url": "https://www.nytimes.com/2026/03/17/world/middleeast/tanker-attack-iran-war-strait-hormuz-oil.html",
+          "headline": "What to Know About Ali Larijani, Iran’s Top Security Official",
+          "url": "https://www.nytimes.com/2026/03/17/world/middleeast/who-is-ali-larijani-iran.html",
           "source": "New York Times",
           "sourceId": "nyt_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Tue, 17 Mar 2026 09:35:07 +0000",
-          "description": "The ship was struck near an Emirati port, in the first such attack in five days. The United Arab Emirates also said it was intercepting Iranian drones and missiles."
+          "date": "Tue, 17 Mar 2026 10:45:06 +0000",
+          "description": "One of Ayatollah Ali Khamenei’s closest confidants, Mr. Larijani emerged as the face of the government after Mr. Khamenei was killed."
+        },
+        {
+          "headline": "Building burns in Israel after rocket attack from Lebanon",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/17/building-burns-in-israel-after-rocket-attack-from-lebanon?traffic_source=rss",
+          "source": "Al Jazeera",
+          "sourceId": "aljazeera",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Tue, 17 Mar 2026 10:36:18 +0000",
+          "description": "A building in the northern Israeli city of Nahariyya caught fire on Monday after a rocket attack launched from Lebanon."
         },
         {
           "headline": "Could the Iran war trigger a global recession?",
@@ -2520,14 +2552,14 @@
           "description": "Israel’s Defence Minister Israel Katz says Ali Larijani, Iran’s security chief, has been killed in an Israeli strike."
         },
         {
-          "headline": "Israel says it’s killed Larijani, Iran’s security chief and Basij commander",
+          "headline": "Israel says it’s killed Iran’s security chief Larijani and Basij commander",
           "url": "https://www.aljazeera.com/news/2026/3/17/israel-says-it-has-killed-ali-larijani-irans-top-security-official?traffic_source=rss",
           "source": "Al Jazeera",
           "sourceId": "aljazeera",
           "category": "general",
           "priority": "secondary",
           "date": "Tue, 17 Mar 2026 09:32:52 +0000",
-          "description": "Israel’s Defence Minister Katz has claimed that Iran’s security chief has been assassinated"
+          "description": "Israel’s Defence Minister Katz has claimed that Iran’s security chief has been assassinated."
         },
         {
           "headline": "Gulf economies suffer brunt of Iran war as recession risk looms",
@@ -2628,28 +2660,18 @@
           "priority": "secondary",
           "date": "Tue, 17 Mar 2026 07:00:12 +0000",
           "description": "Attacks hit three southern Beirut neighbourhoods, fighting in the south intensifies as Hezbollah engages Israeli army."
-        },
-        {
-          "headline": "Iran war: What is happening on day 18 of US-Israel attacks?",
-          "url": "https://www.aljazeera.com/news/2026/3/17/iran-war-what-is-happening-on-day-18-of-us-israel-attacks?traffic_source=rss",
-          "source": "Al Jazeera",
-          "sourceId": "aljazeera",
-          "category": "general",
-          "priority": "secondary",
-          "date": "Tue, 17 Mar 2026 06:52:53 +0000",
-          "description": "The US-Israeli attacks target Iranian cities as the conflict spreads to the region and causes a global energy crisis."
         }
       ],
       "business": [
         {
-          "headline": "Israel says it has killed Iran’s intelligence chief Ali Larijani",
+          "headline": "Israel says it has killed Iran’s top security official Ali Larijani",
           "url": "https://www.ft.com/content/3b4fd03c-e416-4cbd-bf5c-adca908e6911",
           "source": "Financial Times",
           "sourceId": "ft_home",
           "category": "business",
           "priority": "primary",
           "date": "Tue, 17 Mar 2026 09:37:15 GMT",
-          "description": "Regime veteran also headed the country’s Supreme National Security Council"
+          "description": "Regime veteran headed the country’s Supreme National Security Council"
         },
         {
           "headline": "Naval escorts will not guarantee safe passage through Strait of Hormuz, says IMO chief",
@@ -2998,7 +3020,7 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1xZm9WaDdxWW5EQ0hvZGlZQWhnNWRoRUpBT0prVWF1aU5LMW5uSEtIQmZ2dFNJX0JnRUgxaERBZUlyTEg0d3RUVmMyVGNBZWQ3ckVqZHFHSXY2X2dfXzl3RjJxTC1IVHpPUEpmNFZ"
         },
         {
-          "headline": "Ukraine updates: G7 rules out easing sanctions on Russia - DW.com",
+          "headline": "Ukraine updates: G7 rules out easing sanctions on Russia - dw.com",
           "url": "https://www.dw.com/en/ukraine-updates-g7-rules-out-easing-sanctions-on-russia/live-76302663",
           "source": "Daybook: International Events",
           "sourceId": "daybook_intl",
@@ -3058,6 +3080,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOaU8tZXN1VjNmWDZZUkc4UkZnWEZDS1JJcmgxekNNY0FpSHllQm5jLVdrUWF6TDFsZ0hTdjNmTXJHT21vVkwtZVZ0YTVtRzY1SXlxa3dxWDZkeTdLNTRMMGdKZEkxdTZiQktEQUt"
         },
         {
+          "headline": "DU Men’s Tennis’ Robb-Wilcox, Coats Sweep Summit League Honors - University of Denver Athletics",
+          "url": "https://denverpioneers.com/news/2026/3/10/du-mens-tennis-robb-wilcox-coats-sweep-summit-league-honors.aspx",
+          "source": "Daybook: International Events",
+          "sourceId": "daybook_intl",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Tue, 10 Mar 2026 19:20:08 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdlBWNnU0X0tyYnJEMkVLcjdVOVVFa3p4ZkZBOUdOSllvY0Q1MkFVcnd2aHM2ZDd4QjFHRXhUNkhxaFlVUmRDWGJvLVhrdEhLajdXcmdwTE1DT0lBRjdqV1lscEcwRzMwcWhLSDR"
+        },
+        {
           "headline": "Denver Summit FC plays its first game this weekend. Here’s how to watch - Denverite",
           "url": "https://denverite.com/2026/03/11/denver-summit-fc-first-game/",
           "source": "Daybook: International Events",
@@ -3068,14 +3100,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9pUnN3WVJRdU15T0NNWVQzdUFTaFlxS0hsb1J0QWdLX1NXbEs0cFhMcTkzWnBLazY0Z3ZMNTBIMnIwRUZLc2Jkc3BEYnlVNzNzRWRaQjNMY2tGZGg1cHNwS0h1TUhDTXR3QVppdXB"
         },
         {
-          "headline": "Trump signals possible delay to Beijing summit as U.S. pressures China to help reopen Strait of Hormuz - CNBC",
-          "url": "https://www.cnbc.com/2026/03/16/trump-possible-delay-beijing-summit-china-iran-strait-of-hormuz-.html",
-          "source": "Daybook: International Events",
-          "sourceId": "daybook_intl",
+          "headline": "Key dates for 2025-26 NBA season - NBA",
+          "url": "chrome-error://chromewebdata/",
+          "source": "Daybook: Economic Calendar",
+          "sourceId": "daybook_econ",
           "category": "daybook",
           "priority": "reference",
-          "date": "Mon, 16 Mar 2026 01:29:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPOERKdmtBSDFBV3Jlc0ZfMjJPU2ZoSllsMnAyU2lPQ3d6dnkwTEJtV1BMQTdGVVJrdm9NZGJ1VUtxMzZZdWJMRXVEYk1pcFB3S2dCc3RQdEk5c2pPQUI4UXZQbF91ZUtUTzFUa0x"
+          "date": "Fri, 13 Mar 2026 07:00:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE4xNVlRRHFIc2c1RldBanIwV1hmaWk4QUcxU1hNSm1CLVpqck1jWkl6UXRRSTZWb2dybDdDaHdDS0hYN3Uxa0xOcERR?oc=5\" target=\"_blank\"&gt;Key dates for 2025-26"
         },
         {
           "headline": "Embedded | 2026 Trade Deadline - NHL.com",
@@ -3109,7 +3141,7 @@
         },
         {
           "headline": "‘It was a real happy day for us’ | Bandits GM Steve Dietrich talks trade deadline deals - Buffalo Bandits",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUTdDN3pUcVRtNXhMZVA5a2Fjd0FVc0U4NUIzdndwZGpob095NkgtYUVYdTB4RzFwYkJBYlQwWEdpMXJLcFBuWFhfRElzaWk0alJZS2t6MG03NUVxTEhHTGMxZ0RJamxjblUxZUhiOG5xdHJsV3NqQ1RVVWYwVktRamt0bmFVTVI4SHMyZmlSRVZhRlhpOXNGakNEbTFJR3ZENnB1WF9yUQ?oc=5",
+          "url": "https://bandits.com/it-was-a-real-happy-day-for-us-bandits-gm-steve-dietrich-talks-trade-deadline-deals/",
           "source": "Daybook: Economic Calendar",
           "sourceId": "daybook_econ",
           "category": "daybook",
@@ -3158,26 +3190,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb2ROYTUtM1NVaEhIV1JxUTJxVXY3bDRVZ0xkQXNsMVZBSFlRaWVzXzkzdzlrUUtGcWNzLVNUQjRmczRRTFRhRDVkVEJBVHpfTEJmWVRSOU9vblhzM3ppODl0dGl3VXV3Sm9pMUh"
         },
         {
-          "headline": "3 things homebuyers should avoid before the March Fed meeting - CBS News",
-          "url": "https://www.cbsnews.com/news/things-homebuyers-should-avoid-before-the-fed-march-2026-meeting/",
-          "source": "Daybook: Economic Calendar",
-          "sourceId": "daybook_econ",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Thu, 12 Mar 2026 17:57:25 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNdkNfTDVVbXltaVNSaktjbFNhRFB5REpkQTNYQ1VpSTA2OFhKaWN2MllwWEF1am1nVVlSTmI0NlhTazd4U1lfVDZpS29fVGJ5RjZ4OVdZQnFDYXRseUhRenk3ellQZk5RenNJS3N"
-        },
-        {
-          "headline": "On the Sidelines S2E5: NFL free agency, Kraken trade deadline - FOX 13 Seattle",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzMzRSU00wanE2NW5Vb1FsQ2IzeF9FWk52cTlvNWo0aVdGUndRci1kLW82VzU1SG1XVjVyUXhrY1dsSnlCSDYycmpqcnhkcEVmRTNKWDJrOXRjdERFeUJMekh2NXVhZ9IBa0FVX3lxTE9Tc1ZiSXFxQm94UFpQZDZmbW1ZalNwa001aXMxR2ttMDRaVGRhaUNnLVRUOWZMX3ppb3NqVlFITVJSQThxYWZ6S1VTWHloNDNaVFJ6QklFenY4M1ROZl9WWGNDNm00S2dUQ3VJ?oc=5",
-          "source": "Daybook: Economic Calendar",
-          "sourceId": "daybook_econ",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Wed, 11 Mar 2026 01:49:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzMzRSU00wanE2NW5Vb1FsQ2IzeF9FWk52cTlvNWo0aVdGUndRci1kLW82VzU1SG1XVjVyUXhrY1dsSnlCSDYycmpqcnhkcEVmRTNKWDJrOXRjdERFeUJMekh2NXVhZ9IBa0FVX3l"
-        },
-        {
           "headline": "2025-26 NHL Trade Tracker - NHL.com",
           "url": "https://www.nhl.com/news/2025-26-nhl-trades",
           "source": "Daybook: Economic Calendar",
@@ -3198,14 +3210,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPUDVZdkdsTmhWRnEzUmdFYWhHMHVaZjctcndNQi1qN1NpaEcwRUJ6dU84Ui02MmJ0dG83ZzNnbFdYeF84MU9Xeks5cTE2NnJBMXR2bENfcTMzV0FDS0R1V0ZzSTU4LUNfSHdCQzI"
         },
         {
-          "headline": "Lyft (LYFT) Down 4.9% Since Last Earnings Report: Can It Rebound? - Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/lyft-lyft-down-4-9-153008313.html",
+          "headline": "Principal Financial (PFG) Down 4.2% Since Last Earnings Report: Can It Rebound? - Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/principal-financial-pfg-down-4-153005132.html",
           "source": "Daybook: Economic Calendar",
           "sourceId": "daybook_econ",
           "category": "daybook",
           "priority": "reference",
-          "date": "Thu, 12 Mar 2026 15:30:08 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9mNmF2a3JzR290M3YxYnRwN055ZW5IY2RTeUtQaEp4ZE4wQi1nWi1RMTRGUktLVzAzcURQQi1QMU85TEctM1UyX0ZLMmdyS3ZSNFlFU1R0OFBuWEZMQzU3eFAyRE9lR2IyNmVJekh"
+          "date": "Wed, 11 Mar 2026 15:30:05 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPb3hLdmlfNVFJX3hrM0dhWUhsWkxiMzhOQmg0VkYyV1hSYTl5NTJaMDVSYVNkS0FaRXlFcXlWdk5ycXBsemZtQU9hbURVN1F3ZkN5LWVJRWtrR0ctNzl2Ym5LdVoyU002M0xmVXk"
         },
         {
           "headline": "MAMMOTH MONTHLY: Bill Armstrong Trade Deadline - NHL.com",
@@ -3226,6 +3238,16 @@
           "priority": "reference",
           "date": "Mon, 16 Mar 2026 12:45:03 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNUVQ0cENYYnhHUDB4blp6WVJLQ2x0ZDdxTzZtQk1Hd1BZSE9Jb09SeEEzcTZWbHBSMnFwWGhZLUF5UXlKbVRGa3VLNjFpYWVnYm1MVF9pX3FfMTZESnZUNm9zZWtUektLRjJOMEl"
+        },
+        {
+          "headline": "Lyft (LYFT) Down 4.9% Since Last Earnings Report: Can It Rebound? - Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/lyft-lyft-down-4-9-153008313.html",
+          "source": "Daybook: Economic Calendar",
+          "sourceId": "daybook_econ",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Thu, 12 Mar 2026 15:30:08 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9mNmF2a3JzR290M3YxYnRwN055ZW5IY2RTeUtQaEp4ZE4wQi1nWi1RMTRGUktLVzAzcURQQi1QMU85TEctM1UyX0ZLMmdyS3ZSNFlFU1R0OFBuWEZMQzU3eFAyRE9lR2IyNmVJekh"
         },
         {
           "headline": "'The Last Of Us' Casts Jason Ritter &amp; Patrick Wilson; Promotes 3 - Deadline",
@@ -3258,16 +3280,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxObHVMbUZjY183c2dLZExoQ2xsNzJDeEd1VXJoNEJDZjVzV3gwSWduaXpCaXpOSnB5MHBUdzVqWEEzWnVEUUp5YW1rd29uc3hFQTV4R3psNklla1VBQTJXbkd4N1VZSTUtWG5nRHR"
         },
         {
-          "headline": "Closing arguments set to begin in Twitter shareholder trial accusing Musk of driving down stock - New Haven Register",
-          "url": "https://www.nhregister.com/business/article/closing-arguments-set-to-begin-in-twitter-22080861.php",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Tue, 17 Mar 2026 05:11:15 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQVmF5WU9qcG5mMndFb3B4Wk9iTkwyQ2dTbzJmakN6aGREU3JVRjlCSXg5eGJCMXpPOV9iTVlaeHF4aWtvYm5CaFpkd1kzdFZlWmVvdnlMOUliellKcXlXdEJBZ0xRSHJIMWJJSFR"
-        },
-        {
           "headline": "Thousands of North Texas families have applied for school vouchers ahead of deadline - KERA News",
           "url": "https://www.keranews.org/education/2026-03-17/texas-school-voucher-applications-deadline-students",
           "source": "Daybook: Scheduled Events",
@@ -3288,6 +3300,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxNSVRSajljZVllcF9ySzQ3Q3ByNUlNMHNqR2FLeWlwdzdoM3BaSjZoUXg0RklkRnNzTHJVVTc4Qml2ZUdIR2o0SFBfVklSR0J4cWVYZW1zRDZsU0MzUG1nMlVZQWdzZklETFkyeXJ"
         },
         {
+          "headline": "St. Dominic's funding deadline to reopen high school passes - WGME",
+          "url": "https://wgme.com/news/local/st-dominics-funding-deadline-to-reopen-high-school-passes-maine-education-students-learning-closure-diocese-of-portland",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Tue, 17 Mar 2026 10:35:03 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQR0VLLXBVNklwLW0tTWRBbDVjOW9vMXR0SmxVaXgxbnEzNDRmc2JJTlZzMzEtTXlwRDdQWXVQNDlWX3g1MXoxVlB4WU9acHlTakhLdmxRSEtuTFllR182cVJlZFFqcVRnTkFtVHR"
+        },
+        {
           "headline": "Texas school voucher program tops 200,000 applicants ahead of Tuesday deadline - KBTX News 3",
           "url": "https://www.kbtx.com/2026/03/17/texas-school-voucher-program-tops-200000-applicants-ahead-tuesday-deadline/",
           "source": "Daybook: Scheduled Events",
@@ -3296,6 +3318,26 @@
           "priority": "reference",
           "date": "Tue, 17 Mar 2026 03:36:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOanNfX1J4V3NxMF9nUTM5ZUxvdzdPUHBIZVZUSVZrZ0dVY1NFU3B6ZkN1UUNxS0JKU1B6S2twWUJTbUlYbWR2UzR2ZUl3ZHVoS3dJUzFmSVR3Tm5uVWNBb05nSklETTZJb0tOZVl"
+        },
+        {
+          "headline": "Selectis shareholders given May 11 deadline to accept Black Pearl tender offer - McKnight's Senior Living",
+          "url": "https://www.mcknightsseniorliving.com/news/selectis-shareholders-given-may-11-deadline-to-accept-black-pearl-tender-offer/",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Tue, 17 Mar 2026 04:10:02 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQalV6blcwY2Z1RVNhMXlqOWRyS2ZJVDVJR1FZUGRiblEwT1h3SWM3bHMwdVJjNTg1blNVNmV6MVhMNjNWWlhGV3VscDE5UU8xa09Hd3RyUWFrMWo0b0lWaVktOHRGQm1scWR5RDF"
+        },
+        {
+          "headline": "Battle boys volleyball set to begin second season at Hy-Vee Arena Tournament - Columbia Missourian",
+          "url": "https://www.columbiamissourian.com/sports/prep_sports/battle/battle-boys-volleyball-set-to-begin-second-season-at-hy-vee-arena-tournament/article_dd27d401-116e-40bc-bafc-0a1f7bcaf893.html",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Tue, 17 Mar 2026 11:00:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgJBVV95cUxOVUJDWWo5NW5SUmZiTlUxTTVZbzgyUDRyOWJncTZ1NUhVV2RrMm1KQXU2NmRvakxmWWtvcm1ONDFBZEUyNERGUzBUamhyU3hDWmZBSkJjdHhvT3BIWldLNmxZd3FqZHE0UUNSVXB"
         },
         {
           "headline": "Deadline to request absentee ballots for April 7 election is near - KSWO 7News",
@@ -3308,6 +3350,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQY3ctUllHd2JnbFBGajhqa0labWJ6YWNHU0d0dTl1Zm9JSHhRS2dxNVBVNXV4VHpqczQwWFoxYkgxVW5RZEVqZjlaS3hOZ1REUE11Rm5YRnNhNndRaEtpbFFva3ZiekhBZGZ5ZUQ"
         },
         {
+          "headline": "Closing arguments set to begin in Twitter shareholder trial accusing Musk of driving down stock - New Haven Register",
+          "url": "https://www.nhregister.com/business/article/closing-arguments-set-to-begin-in-twitter-22080861.php",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Tue, 17 Mar 2026 05:11:15 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQVmF5WU9qcG5mMndFb3B4Wk9iTkwyQ2dTbzJmakN6aGREU3JVRjlCSXg5eGJCMXpPOV9iTVlaeHF4aWtvYm5CaFpkd1kzdFZlWmVvdnlMOUliellKcXlXdEJBZ0xRSHJIMWJJSFR"
+        },
+        {
           "headline": "When do March Madness brackets close? Here's the deadline to submit your picks - NBC Connecticut",
           "url": "https://www.nbcconnecticut.com/news/sports/ncaab/march-madness-brackets-deadlines-2026/3714366/",
           "source": "Daybook: Scheduled Events",
@@ -3316,26 +3368,6 @@
           "priority": "reference",
           "date": "Mon, 16 Mar 2026 17:56:27 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQcWFVRV9UalUyVjAwdEZHLUN6cEd5Z3JpNHZUb2Fndms0eU1IRnR1Z0V5cnRQV2x2NnhwOEVJWFdENy1GdWVMOGN3bG15MW5ITTJtcDh2ZzdnN2hiSENseUxudmdlRFBHQm0xUkJ"
-        },
-        {
-          "headline": "Average tax return up 10% from last year but fewer returns filed as April 15 nears - The Commercial Appeal",
-          "url": "https://www.commercialappeal.com/story/money/2026/03/17/when-taxes-due-2026-average-tax-returns-where-return/89184243007/",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Tue, 17 Mar 2026 09:15:14 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOTDcydk5UU1FWMUJqWU5HX1RMbm5pUHNlcG5yTHktN29TdnV2eHg0QnF2VUZGUDlieS1PaWRGNWEtVE9OZ3RVOEdGZ1RPRnVPQ25SdGxUUGV6aVNwSURhbkV6eEE2R0VqSk8yODJ"
-        },
-        {
-          "headline": "Beyond deadline math: The Eleventh Circuit’s practical take on equitable tolling - JD Supra",
-          "url": "https://www.jdsupra.com/legalnews/beyond-deadline-math-the-eleventh-4960753/",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Mon, 16 Mar 2026 19:27:14 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPRllZNDZ2VmVScmQyVTM1NXhDWWFiS0MtS3RvN0JLX1l2ejUtSWVxRVpqaG93RnpycTJoREh6ODIxWHhxVzBEdl83MTd4dklMZHBTT2thUjdxdHhaczZwTDQyT0FFdkViZVJkLV9"
         },
         {
           "headline": "‘Buffy’ Autopsy Report: The Inside Story Of How High-Profile Reboot Was Shockingly Slayed - Deadline",
@@ -3366,21 +3398,21 @@
           "priority": "reference",
           "date": "Mon, 16 Mar 2026 22:52:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPT1RwQTdRTEpNQllHY08tQXNKWjN2ZnNmd0hKR0piUU0wWDg5dEJON0NCaTVSQVJuOWJWZzZLQVNjOW0xNGVmak9XQ1RTdFFZYy01SF9ZMWdzN1gtbTQ0d1liRmg2NTJILXlMUUZ"
-        },
-        {
-          "headline": "Dana Walden Unveils Her Disney Entertainment Leadership Team - Deadline",
-          "url": "https://deadline.com/2026/03/dana-walden-disney-entertainment-leadership-debra-oconnell-1236756934/",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Mon, 16 Mar 2026 20:45:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPN3ZVTmdsVXlTb3Bnb1JzLS10dXpJUUpiWk8zVDBwVDlrLWxKdkd0b19vMEpSaFdSVlg2cUdFU2NYMHpqYlF0TWRfcjBNbDJHS01xSzNSYW53ZUY2TFZvNktPSEZwanMxVlM2azV"
         }
       ]
     },
     "byPriority": {
       "primary": [
+        {
+          "headline": "Illinois voters pick a new generation of Democrats for House, Senate after near-record retirements",
+          "url": "https://apnews.com/article/election-primary-illinois-democrats-senate-house-f9432112c459e87fdbfea0bdbcd4e492",
+          "source": "AP",
+          "sourceId": "ap_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Tue, 17 Mar 2026 10:53:02 +0000",
+          "description": ""
+        },
         {
           "headline": "Iran war pushes countries into energy triage as they conserve power and curb soaring prices",
           "url": "https://apnews.com/article/middle-east-wars-energy-asia-gas-oil-f22739369eb36ccaf87543459cfed320",
@@ -3479,14 +3511,24 @@
           "description": ""
         },
         {
-          "headline": "Afghanistan says 400 people killed in Pakistan strike on Kabul hospital treating drug users",
-          "url": "https://apnews.com/article/afghanistan-pakistan-border-clashes-children-killed-taliban-44c7bb28cdf68615b413a81eb4e4fe36",
-          "source": "AP",
-          "sourceId": "ap_world",
+          "headline": "Exclusive: Iran's new supreme leader rejects proposals for reducing tensions with US, senior official says - Reuters",
+          "url": "https://www.reuters.com/world/middle-east/irans-new-supreme-leader-rejects-proposals-reducing-tensions-with-us-senior-2026-03-17/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
           "category": "wire",
           "priority": "primary",
-          "date": "Tue, 17 Mar 2026 00:23:02 +0000",
-          "description": ""
+          "date": "Tue, 17 Mar 2026 09:54:45 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWWR3M2NPOGJKb2RWb3VLQVRrampGU0hlT0E5N1YwWGdsaDJkVW1mcVkxQnR0TDFWcWdTb2c1Tno3RHNWMnRndF9hQUlIVE5DZkRKRU9nVTBVU2FhOEdmZ1hicHNBeHh0ZVpHT0x"
+        },
+        {
+          "headline": "Israel says Iran's security chief Larijani is killed - Reuters",
+          "url": "https://www.reuters.com/world/middle-east/israel-says-irans-security-chief-larijani-is-killed-2026-03-17/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Tue, 17 Mar 2026 09:30:51 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSjhkeFE4SlZfRHV4VlZpbUlTNTQ3T1VsQ245MUpkV2xzMFA4bUZzVmZqd2NvbXY0eVNHcTFJYVNqeUMwbzUwU2dKd2V2LWdDa2pGbEtjY2d4MFNYcmliZkpUVFBhWHJNUWIxZDZ"
         },
         {
           "headline": "Exclusive: EU seeks diplomatic solution for Hormuz Strait, Kallas says - Reuters",
@@ -3509,6 +3551,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOWWRmYUdmdXdXYVRpZlBQQ3o4d0MzZ1BlODJWSlhGRGhiUy1Lc3pEQWJGemplWGw0Y3FhWDlsUTZTNDN4LUlUM041WUctaGZiWmRrUmNMbC05N2duYXZOM1VfQW9FT1lUeE9UUGF"
         },
         {
+          "headline": "Trump's summit delay casts pall over US-China trade truce - Reuters",
+          "url": "https://www.reuters.com/world/china/trumps-summit-delay-casts-pall-over-us-china-trade-truce-2026-03-17/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Tue, 17 Mar 2026 07:10:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQX2pHMVJYY2pieURiREZOX29FUktfaDBQWHVsRW5Wa0xjQ1VpNXE1Q1V5TXR4X1ZrOFlfRkxDSEwzQ0x5SFF3RVZpRG84aUR0bTdtNDY3UFdxSnAtTWkyRXQzT2o4UXBFaHB6QXU"
+        },
+        {
           "headline": "Iraq in talks with Iran to safeguard oil tanker traffic through Hormuz - Reuters",
           "url": "https://www.reuters.com/world/middle-east/iraq-talks-with-iran-safeguard-oil-tanker-traffic-through-hormuz-2026-03-17/",
           "source": "Reuters",
@@ -3517,16 +3569,6 @@
           "priority": "primary",
           "date": "Tue, 17 Mar 2026 08:10:05 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPLU9aSWNiOVoyOHdVZGtBVFFlaW9Zc3JzUnRhRExJRmh4emZTOU1VNTJFWU1LbnVlZThzZ0tRdS1fZDNTeXJ1VHVwa0Z6azhGUUZOVjBVWjNyd1daMm1FTXBhYU1XVzlIQ0xMRzN"
-        },
-        {
-          "headline": "Google in talks with China's Envicool, others to buy data centre cooling systems, sources say - Reuters",
-          "url": "https://www.reuters.com/world/china/google-talks-with-chinas-envicool-others-buy-data-centre-cooling-systems-sources-2026-03-17/",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Tue, 17 Mar 2026 06:05:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQWHpTb1FHQXpXdC0zaktIdkoxYzNRbE1FTFNCZmtGTUVHR202Qjhjam4wNkFfT283Y0JYU3l2T3ZhZFZ5c2Y5cmJWTGVSM0ZKOFE2aXUxRFpDUUdWM015WXlBamdST3hrMUdBR1k"
         },
         {
           "headline": "Exclusive: EU has adapted to US unpredictability, foreign policy chief says - Reuters",
@@ -3549,6 +3591,26 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOMGJpZjdQUGVVdnFJQkVVSGNrMFcxZnRJS0ZPSEc1cm9VbkQ5aXZnMGROX2RHNHp4TWZ0UUM5d01KazlVd2R5U0VhZTE3bGhjWHplNmdVeDNaSEkxRTlIUUNGY0d1bG5TNnFQaUt"
         },
         {
+          "headline": "Google in talks with China's Envicool, others to buy data centre cooling systems, sources say - Reuters",
+          "url": "https://www.reuters.com/world/china/google-talks-with-chinas-envicool-others-buy-data-centre-cooling-systems-sources-2026-03-17/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Tue, 17 Mar 2026 06:05:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQWHpTb1FHQXpXdC0zaktIdkoxYzNRbE1FTFNCZmtGTUVHR202Qjhjam4wNkFfT283Y0JYU3l2T3ZhZFZ5c2Y5cmJWTGVSM0ZKOFE2aXUxRFpDUUdWM015WXlBamdST3hrMUdBR1k"
+        },
+        {
+          "headline": "'It was like doomsday,' says Kabul hospital survivor after Pakistan air strike - Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/it-was-like-doomsday-says-kabul-hospital-survivor-after-pakistan-air-strike-2026-03-17/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Tue, 17 Mar 2026 06:28:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOSDlDWDd5ejA1VURYdkZqOE1sZEt1YWt2NlF0aU8xcFlVaHpfSUp0QXJNVzZGQXMzN3lLUHJ4UGpMTmFVMU5vN3RqTTd2c3A0OUZMMmNEZmNjMG45ZzJfbVZDM240RV9ybTJONVh"
+        },
+        {
           "headline": "Magnitude 6 earthquake strikes Cuba, EMSC says - Reuters",
           "url": "https://www.reuters.com/business/environment/magnitude-6-earthquake-strikes-cuba-emsc-says-2026-03-17/",
           "source": "Reuters",
@@ -3559,14 +3621,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQVlFMeW9wU3FzeDdrUlJlZlE4bkF0WTRMLTlMeUZjVkV6dXhsanFKNEVNTzNPd2UtTGRCc2cwQkpIbjNnRDViR2QyOC1PWkVNRlo3RHY3UWdwUGhYckRfNkNrc2pnRnhzakVvSVB"
         },
         {
-          "headline": "Trump's summit delay casts pall over US-China trade truce - Reuters",
-          "url": "https://www.reuters.com/world/china/trumps-summit-delay-casts-pall-over-us-china-trade-truce-2026-03-17/",
+          "headline": "Vietnam firms vie for crypto licences as Hanoi plans ban on overseas trading - Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/vietnam-firms-vie-crypto-licences-hanoi-plans-ban-overseas-trading-2026-03-17/",
           "source": "Reuters",
           "sourceId": "reuters_world",
           "category": "wire",
           "priority": "primary",
-          "date": "Tue, 17 Mar 2026 07:10:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQX2pHMVJYY2pieURiREZOX29FUktfaDBQWHVsRW5Wa0xjQ1VpNXE1Q1V5TXR4X1ZrOFlfRkxDSEwzQ0x5SFF3RVZpRG84aUR0bTdtNDY3UFdxSnAtTWkyRXQzT2o4UXBFaHB6QXU"
+          "date": "Tue, 17 Mar 2026 06:15:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOWWt6YTdkLXJIYlRvYWNlTkEtcGFJa1hwTUZHdTA2OTBOV3ZtNzlad2k1cTBjYUZza01ybFVuR3ZabUhhWDRtLVhLOHBXMmpzN2tZUDA3VmRSRzcxTEhnY3JqSWdfQk9pSEJkY2o"
         },
         {
           "headline": "Iran negotiating with FIFA to move World Cup games to Mexico from US - Reuters",
@@ -3589,16 +3651,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTVhHMjJPUHhnUVdGdEtLWTZ3MUgwanJydGkyZkJ5bWI3WnFKVS0zREVmRGF4RzBhU1FUT1VEWjJLUXZ5VFBRaUtzdGtONGY3MHdlZDV2SkU5Yzc4cWEwdmJuY2sxSVl5NEtITXp"
         },
         {
-          "headline": "'It was like doomsday,' says Kabul hospital survivor after Pakistan air strike - Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/it-was-like-doomsday-says-kabul-hospital-survivor-after-pakistan-air-strike-2026-03-17/",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Tue, 17 Mar 2026 06:28:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOSDlDWDd5ejA1VURYdkZqOE1sZEt1YWt2NlF0aU8xcFlVaHpfSUp0QXJNVzZGQXMzN3lLUHJ4UGpMTmFVMU5vN3RqTTd2c3A0OUZMMmNEZmNjMG45ZzJfbVZDM240RV9ybTJONVh"
-        },
-        {
           "headline": "Cheap drones are reshaping the war in the sky - Reuters",
           "url": "https://www.reuters.com/graphics/IRAN-CRISIS/DRONES/dwpkyamxqpm/",
           "source": "Reuters",
@@ -3609,43 +3661,13 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5fUzBLOGJoSkIwUVdfSm1uUHhsT2hEWmlXdEJFcE11YTBFZTRTcG1lRXRIRmJGTXpFOHBVSWxadG5Tb0VTcWhpWm81YkdUeG1hUnpKZl9jX2hZVWhURHVUR0R0T0R4ZlRtYjdBWFd"
         },
         {
-          "headline": "Ten foreign individuals arrested in Iran's northeast for spying, Tasnim reports - Reuters",
-          "url": "https://www.reuters.com/world/middle-east/ten-foreign-individuals-arrested-irans-northeast-spying-tasnim-reports-2026-03-17/",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Tue, 17 Mar 2026 05:49:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbU01aGozc3hyVzdLai1vX3hkNVRQUk9qYk9STVZLQVBqNzU2U0FhSkhYb04wRmx1YXBhdlAxOTlvcXItejdHaDNhRklRWVdKSjRqM2dvWkRoeW14TkFGckpVZWZXVFhBdEMzaHN"
-        },
-        {
-          "headline": "Trump was warned of likely Iranian retaliation on Gulf allies, sources say - Reuters",
-          "url": "https://www.reuters.com/world/middle-east/trump-was-warned-likely-iranian-retaliation-gulf-allies-sources-say-2026-03-17/",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Tue, 17 Mar 2026 02:49:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOT1o3eDFZNnVCNk93VThlQl8zbTVfME1xVm5ad3VEOUpWNW9CZWU4MEdmZXlNWEppby1fQzZ5NFpEbjRTaWRlVmQ1QXU2bzhNcGJsSWxVUEdDeDM0Q0YzYkExbnFtcmJGZG5YV1c"
-        },
-        {
-          "headline": "US government confirms Tesla and LG Energy Solution's $4.3 billion battery deal - Reuters",
-          "url": "https://www.reuters.com/business/energy/us-government-confirms-tesla-lg-energy-solutions-43-billion-battery-deal-2026-03-17/",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Tue, 17 Mar 2026 03:24:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY0VBMUJ3X19leG43Nkp6NGNObTcwU2VVWkxXTkI4NmRDdVJCM2g4SUpNcGl5LTJjTC03YXVYQkNRU2pJY3FFeVpkTlVnNzdqaGFMRHVQenZsWHg3Sm9BcVNDTEt3eUxlZWdHR29"
-        },
-        {
           "headline": "Trump seeks to delay meeting with Xi in China",
           "url": "https://www.bbc.com/news/articles/cn9e0z7v3nxo?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC",
           "sourceId": "bbc_world",
           "category": "general",
           "priority": "primary",
-          "date": "Tue, 17 Mar 2026 07:52:40 GMT",
+          "date": "Tue, 17 Mar 2026 10:33:49 GMT",
           "description": "The escalating war in Iran has overshadowed many of the US' foreign policy objectives"
         },
         {
@@ -3659,14 +3681,14 @@
           "description": "The National Center for Learning Disabilities said it was \"disturbed\" by the president's remarks."
         },
         {
-          "headline": "Dozens killed in air strike on Kabul rehab centre blamed on Pakistan",
+          "headline": "Pakistan blamed after air strike on Kabul rehab centre kills at least 100",
           "url": "https://www.bbc.com/news/articles/c4g8n7e0l40o?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC",
           "sourceId": "bbc_world",
           "category": "general",
           "priority": "primary",
-          "date": "Tue, 17 Mar 2026 06:19:03 GMT",
-          "description": "The BBC visited the facility and saw more than 30 bodies being carried out on stretchers."
+          "date": "Tue, 17 Mar 2026 11:00:53 GMT",
+          "description": "Some of the bodies were injured beyond recognition, forensic laboratory sources told the BBC."
         },
         {
           "headline": "Utah bereavement author found guilty of fatally poisoning her husband",
@@ -3679,14 +3701,14 @@
           "description": "A jury found that Kouri Richins killed her husband in March 2022 by poisoning him with a fentanyl-laced drink."
         },
         {
-          "headline": "Columbia University protester released after one year in immigration custody",
-          "url": "https://www.bbc.com/news/articles/ckgzdkg0q9go?at_medium=RSS&amp;at_campaign=rss",
+          "headline": "Suspected suicide attacks kill at least 23 in north-east Nigeria",
+          "url": "https://www.bbc.com/news/articles/c4gqnjjy9edo?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC",
           "sourceId": "bbc_world",
           "category": "general",
           "priority": "primary",
-          "date": "Tue, 17 Mar 2026 01:08:24 GMT",
-          "description": "Federal officials say Leqaa Kordia overstayed her student visa. Her lawyer says she was targeted for pro-Palestinian activism."
+          "date": "Tue, 17 Mar 2026 10:24:29 GMT",
+          "description": "Multiple blasts struck some of the Maiduguri's busiest locations on Monday evening."
         },
         {
           "headline": "And the burger goes to... Michael B Jordan marks Oscars win at In-N-Out",
@@ -3697,6 +3719,16 @@
           "priority": "primary",
           "date": "Tue, 17 Mar 2026 04:41:58 GMT",
           "description": "Hours after winning best actor, Jordan joins an exclusive list of famous faces to celebrate an Oscar victory with a burger."
+        },
+        {
+          "headline": "Columbia University protester released after one year in immigration custody",
+          "url": "https://www.bbc.com/news/articles/ckgzdkg0q9go?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC",
+          "sourceId": "bbc_world",
+          "category": "general",
+          "priority": "primary",
+          "date": "Tue, 17 Mar 2026 01:08:24 GMT",
+          "description": "Federal officials say Leqaa Kordia overstayed her student visa. Her lawyer says she was targeted for pro-Palestinian activism."
         },
         {
           "headline": "From tornadoes to blizzards, severe weather batters parts of the US",
@@ -3725,7 +3757,7 @@
           "sourceId": "bbc_world",
           "category": "general",
           "priority": "primary",
-          "date": "Tue, 17 Mar 2026 03:46:22 GMT",
+          "date": "Tue, 17 Mar 2026 10:32:25 GMT",
           "description": "Cuba's chronic fuel shortages have been exacerbated by a US blockade on oil shipments to the island."
         },
         {
@@ -3757,16 +3789,6 @@
           "priority": "primary",
           "date": "Mon, 16 Mar 2026 12:36:51 GMT",
           "description": "Marius van der Merwe was shot dead three weeks after accusing police officers of killing a robbery suspect."
-        },
-        {
-          "headline": "Russia agrees to stop using Kenyan recruits in Ukraine conflict, Kenya says",
-          "url": "https://www.bbc.com/news/articles/cev7rdwmky9o?at_medium=RSS&amp;at_campaign=rss",
-          "source": "BBC",
-          "sourceId": "bbc_world",
-          "category": "general",
-          "priority": "primary",
-          "date": "Mon, 16 Mar 2026 14:09:58 GMT",
-          "description": "Some 1,000 Kenyans are believed to have recruited to fight in Ukraine - many say they were lured under false pretences."
         },
         {
           "headline": "Surge in US petrol prices deepens political peril for Trump over Iran",
@@ -3939,14 +3961,14 @@
           "description": "Israel says 91 hostages abducted on Oct. 7 remain in captivity, including the bodies of at least 34."
         },
         {
-          "headline": "Israel says it has killed Iran’s intelligence chief Ali Larijani",
+          "headline": "Israel says it has killed Iran’s top security official Ali Larijani",
           "url": "https://www.ft.com/content/3b4fd03c-e416-4cbd-bf5c-adca908e6911",
           "source": "Financial Times",
           "sourceId": "ft_home",
           "category": "business",
           "priority": "primary",
           "date": "Tue, 17 Mar 2026 09:37:15 GMT",
-          "description": "Regime veteran also headed the country’s Supreme National Security Council"
+          "description": "Regime veteran headed the country’s Supreme National Security Council"
         },
         {
           "headline": "Naval escorts will not guarantee safe passage through Strait of Hormuz, says IMO chief",
@@ -4073,6 +4095,16 @@
           "description": "‘Disconnection’ leaves 11mn without power in largest outage since US energy blockade began earlier this year"
         },
         {
+          "headline": "‘These connections are overlooked’: how British companies profited from slavery in Brazil long after abolition",
+          "url": "https://www.theguardian.com/world/2026/mar/17/connections-overlooked-how-british-companies-profited-slavery-brazil-after-abolition",
+          "source": "Guardian",
+          "sourceId": "guardian_world",
+          "category": "general",
+          "priority": "primary",
+          "date": "Tue, 17 Mar 2026 11:00:44 GMT",
+          "description": "&lt;p&gt;Britons learn about the country’s involvement ‘almost as a self-congratulatory narrative’, says historian Joseph Mulhern &lt;/p&gt;&lt;p&gt;In 1845 British citizens and companies were already"
+        },
+        {
           "headline": "Africa particularly vulnerable as Iran conflict disrupts supply chains, say experts",
           "url": "https://www.theguardian.com/world/2026/mar/16/africa-particularly-vulnerable-iran-conflict-disrupts-supply-chains",
           "source": "Guardian",
@@ -4111,16 +4143,6 @@
           "priority": "primary",
           "date": "Thu, 12 Mar 2026 21:20:29 GMT",
           "description": "&lt;p&gt;Two deportees sent to Eswatini were from Somalia, one was from Sudan and another was from Tanzania&lt;/p&gt;&lt;p&gt;The government of &lt;a href=\"https://www.theguardian.com/world/eswatini\"&"
-        },
-        {
-          "headline": "UK government axes flagship global health project",
-          "url": "https://www.theguardian.com/global-development/2026/mar/12/uk-government-axes-flagship-global-health-project",
-          "source": "Guardian",
-          "sourceId": "guardian_world",
-          "category": "general",
-          "priority": "primary",
-          "date": "Thu, 12 Mar 2026 12:59:29 GMT",
-          "description": "&lt;p&gt;Programme which supports schemes in six African countries was previously hailed as vital protection for Britain against future pandemics&lt;/p&gt;&lt;p&gt;A flagship health project in Africa,"
         },
         {
           "headline": "Cuba’s electrical grid collapses amid US oil blockade",
@@ -4372,14 +4394,14 @@
           "description": "Six members of a Palestinian family went out for a ride in the car. Only two made it back home."
         },
         {
-          "headline": "Another Tanker Is Attacked Near the Strait of Hormuz",
-          "url": "https://www.nytimes.com/2026/03/17/world/middleeast/tanker-attack-iran-war-strait-hormuz-oil.html",
+          "headline": "What to Know About Ali Larijani, Iran’s Top Security Official",
+          "url": "https://www.nytimes.com/2026/03/17/world/middleeast/who-is-ali-larijani-iran.html",
           "source": "New York Times",
           "sourceId": "nyt_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Tue, 17 Mar 2026 09:35:07 +0000",
-          "description": "The ship was struck near an Emirati port, in the first such attack in five days. The United Arab Emirates also said it was intercepting Iranian drones and missiles."
+          "date": "Tue, 17 Mar 2026 10:45:06 +0000",
+          "description": "One of Ayatollah Ali Khamenei’s closest confidants, Mr. Larijani emerged as the face of the government after Mr. Khamenei was killed."
         },
         {
           "headline": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
@@ -4532,6 +4554,16 @@
           "description": "Check out the stocks Heard on the Street writers favor in their eighth annual stock-picking contest."
         },
         {
+          "headline": "Building burns in Israel after rocket attack from Lebanon",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/17/building-burns-in-israel-after-rocket-attack-from-lebanon?traffic_source=rss",
+          "source": "Al Jazeera",
+          "sourceId": "aljazeera",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Tue, 17 Mar 2026 10:36:18 +0000",
+          "description": "A building in the northern Israeli city of Nahariyya caught fire on Monday after a rocket attack launched from Lebanon."
+        },
+        {
           "headline": "Could the Iran war trigger a global recession?",
           "url": "https://www.aljazeera.com/video/counting-the-cost/2026/3/17/could-the-iran-war-trigger-a-global-recession?traffic_source=rss",
           "source": "Al Jazeera",
@@ -4562,14 +4594,14 @@
           "description": "Israel’s Defence Minister Israel Katz says Ali Larijani, Iran’s security chief, has been killed in an Israeli strike."
         },
         {
-          "headline": "Israel says it’s killed Larijani, Iran’s security chief and Basij commander",
+          "headline": "Israel says it’s killed Iran’s security chief Larijani and Basij commander",
           "url": "https://www.aljazeera.com/news/2026/3/17/israel-says-it-has-killed-ali-larijani-irans-top-security-official?traffic_source=rss",
           "source": "Al Jazeera",
           "sourceId": "aljazeera",
           "category": "general",
           "priority": "secondary",
           "date": "Tue, 17 Mar 2026 09:32:52 +0000",
-          "description": "Israel’s Defence Minister Katz has claimed that Iran’s security chief has been assassinated"
+          "description": "Israel’s Defence Minister Katz has claimed that Iran’s security chief has been assassinated."
         },
         {
           "headline": "Gulf economies suffer brunt of Iran war as recession risk looms",
@@ -4672,14 +4704,85 @@
           "description": "Attacks hit three southern Beirut neighbourhoods, fighting in the south intensifies as Hezbollah engages Israeli army."
         },
         {
-          "headline": "Iran war: What is happening on day 18 of US-Israel attacks?",
-          "url": "https://www.aljazeera.com/news/2026/3/17/iran-war-what-is-happening-on-day-18-of-us-israel-attacks?traffic_source=rss",
-          "source": "Al Jazeera",
-          "sourceId": "aljazeera",
-          "category": "general",
+          "headline": "French parties scramble to make alliances ahead of local election runoffs",
+          "url": "https://www.france24.com/en/video/20260317-french-parties-scramble-to-make-alliances-ahead-of-local-election-runoffs",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
           "priority": "secondary",
-          "date": "Tue, 17 Mar 2026 06:52:53 +0000",
-          "description": "The US-Israeli attacks target Iranian cities as the conflict spreads to the region and causes a global energy crisis."
+          "date": "Tue, 17 Mar 2026 11:07:00 GMT",
+          "description": "",
+          "watchCandidate": true,
+          "watchSignals": [
+            {
+              "category": "temporal",
+              "matched": "ahead of"
+            },
+            {
+              "category": "scheduled",
+              "matched": "election"
+            }
+          ]
+        },
+        {
+          "headline": "The 'Bib Gourmand' - Michelin's award good food at great value",
+          "url": "https://www.france24.com/en/video/20260317-the-bib-gourmand-michelin-s-award-good-food-at-great-value",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Tue, 17 Mar 2026 11:05:59 GMT",
+          "description": ""
+        },
+        {
+          "headline": "Gulf states seek to bypass Strait of Hormuz for oil exports via pipelines",
+          "url": "https://www.france24.com/en/tv-shows/business/20260317-gulf-states-seek-to-bypass-strait-of-hormuz-for-oil-exports-via-pipelines",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Tue, 17 Mar 2026 11:00:43 GMT",
+          "description": ""
+        },
+        {
+          "headline": "Trump's call for help with Hormuz largely falls on deaf ears",
+          "url": "https://www.france24.com/en/video/20260317-trump-s-call-for-help-with-hormuz-largely-falls-on-deaf-ears",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Tue, 17 Mar 2026 10:56:17 GMT",
+          "description": ""
+        },
+        {
+          "headline": "Lava flow reaches ocean on France's Reunion island",
+          "url": "https://www.france24.com/en/video/20260317-lava-flow-reaches-ocean-on-france-s-reunion-island",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Tue, 17 Mar 2026 10:55:08 GMT",
+          "description": ""
+        },
+        {
+          "headline": "'Ready to fight' but lacking means, Iraqi Kurds targeted by Iran",
+          "url": "https://www.france24.com/en/video/20260317-ready-to-fight-but-lacking-means-iraqi-kurds-targeted-by-iran",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Tue, 17 Mar 2026 10:53:31 GMT",
+          "description": ""
+        },
+        {
+          "headline": "Israel says killed Iran national security chief Larijani",
+          "url": "https://www.france24.com/en/video/20260317-israel-says-killed-iran-national-security-chief-larijani",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Tue, 17 Mar 2026 10:52:21 GMT",
+          "description": ""
         },
         {
           "headline": "Israel hits Lebanon with fresh strikes as ground operation expands",
@@ -4767,76 +4870,6 @@
               "matched": "ahead of"
             }
           ]
-        },
-        {
-          "headline": "Iran 'negotiating' with FIFA over moving World Cup games from US to Mexico",
-          "url": "https://www.france24.com/en/sport/20260317-iran-negotiating-with-fifa-over-moving-world-cup-games-from-us-to-mexico",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Tue, 17 Mar 2026 05:03:14 GMT",
-          "description": ""
-        },
-        {
-          "headline": "Middle East war live: Israel killed Iran’s security chief Ali Larijani, Defence Minister Katz says",
-          "url": "https://www.france24.com/en/middle-east/20260317-uae-intercepts-iranian-fire-as-israel-strikes-tehran-and-lebanon",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Tue, 17 Mar 2026 03:13:41 GMT",
-          "description": ""
-        },
-        {
-          "headline": "Chile’s new president launches border barrier plan to curb illegal immigration",
-          "url": "https://www.france24.com/en/americas/20260316-chile-president-launches-border-barrier-illegal-immigration",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Mon, 16 Mar 2026 22:55:32 GMT",
-          "description": ""
-        },
-        {
-          "headline": "Cuba hit by massive islandwide blackout as power grid crisis deepens",
-          "url": "https://www.france24.com/en/americas/20260316-cuba-hit-by-blackout-power-grid-crisis",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Mon, 16 Mar 2026 22:38:27 GMT",
-          "description": ""
-        },
-        {
-          "headline": "Social media abuzz with viral rumours of Netanyahu's death",
-          "url": "https://www.france24.com/en/social-media-abuzz-with-viral-rumours-of-benjamin-netanyahu-s-death",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Mon, 16 Mar 2026 22:04:41 GMT",
-          "description": ""
-        },
-        {
-          "headline": "Oil eases amid signs Iran is allowing some tankers pass through Strait of Hormuz",
-          "url": "https://www.france24.com/en/tv-shows/business/20260316-oil-eases-amid-signs-iran-is-allowing-some-tankers-pass-through-strait-of-hormuz",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Mon, 16 Mar 2026 21:57:58 GMT",
-          "description": ""
-        },
-        {
-          "headline": "Kenyans will no longer be enlisted to fight for Russia in Ukraine",
-          "url": "https://www.france24.com/en/enyans-will-no-longer-be-enlisted-to-fight-for-russia-in-ukraine",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Mon, 16 Mar 2026 21:38:19 GMT",
-          "description": ""
         }
       ],
       "tertiary": [],
@@ -4912,7 +4945,7 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1xZm9WaDdxWW5EQ0hvZGlZQWhnNWRoRUpBT0prVWF1aU5LMW5uSEtIQmZ2dFNJX0JnRUgxaERBZUlyTEg0d3RUVmMyVGNBZWQ3ckVqZHFHSXY2X2dfXzl3RjJxTC1IVHpPUEpmNFZ"
         },
         {
-          "headline": "Ukraine updates: G7 rules out easing sanctions on Russia - DW.com",
+          "headline": "Ukraine updates: G7 rules out easing sanctions on Russia - dw.com",
           "url": "https://www.dw.com/en/ukraine-updates-g7-rules-out-easing-sanctions-on-russia/live-76302663",
           "source": "Daybook: International Events",
           "sourceId": "daybook_intl",
@@ -4972,6 +5005,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOaU8tZXN1VjNmWDZZUkc4UkZnWEZDS1JJcmgxekNNY0FpSHllQm5jLVdrUWF6TDFsZ0hTdjNmTXJHT21vVkwtZVZ0YTVtRzY1SXlxa3dxWDZkeTdLNTRMMGdKZEkxdTZiQktEQUt"
         },
         {
+          "headline": "DU Men’s Tennis’ Robb-Wilcox, Coats Sweep Summit League Honors - University of Denver Athletics",
+          "url": "https://denverpioneers.com/news/2026/3/10/du-mens-tennis-robb-wilcox-coats-sweep-summit-league-honors.aspx",
+          "source": "Daybook: International Events",
+          "sourceId": "daybook_intl",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Tue, 10 Mar 2026 19:20:08 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdlBWNnU0X0tyYnJEMkVLcjdVOVVFa3p4ZkZBOUdOSllvY0Q1MkFVcnd2aHM2ZDd4QjFHRXhUNkhxaFlVUmRDWGJvLVhrdEhLajdXcmdwTE1DT0lBRjdqV1lscEcwRzMwcWhLSDR"
+        },
+        {
           "headline": "Denver Summit FC plays its first game this weekend. Here’s how to watch - Denverite",
           "url": "https://denverite.com/2026/03/11/denver-summit-fc-first-game/",
           "source": "Daybook: International Events",
@@ -4982,14 +5025,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9pUnN3WVJRdU15T0NNWVQzdUFTaFlxS0hsb1J0QWdLX1NXbEs0cFhMcTkzWnBLazY0Z3ZMNTBIMnIwRUZLc2Jkc3BEYnlVNzNzRWRaQjNMY2tGZGg1cHNwS0h1TUhDTXR3QVppdXB"
         },
         {
-          "headline": "Trump signals possible delay to Beijing summit as U.S. pressures China to help reopen Strait of Hormuz - CNBC",
-          "url": "https://www.cnbc.com/2026/03/16/trump-possible-delay-beijing-summit-china-iran-strait-of-hormuz-.html",
-          "source": "Daybook: International Events",
-          "sourceId": "daybook_intl",
+          "headline": "Key dates for 2025-26 NBA season - NBA",
+          "url": "chrome-error://chromewebdata/",
+          "source": "Daybook: Economic Calendar",
+          "sourceId": "daybook_econ",
           "category": "daybook",
           "priority": "reference",
-          "date": "Mon, 16 Mar 2026 01:29:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPOERKdmtBSDFBV3Jlc0ZfMjJPU2ZoSllsMnAyU2lPQ3d6dnkwTEJtV1BMQTdGVVJrdm9NZGJ1VUtxMzZZdWJMRXVEYk1pcFB3S2dCc3RQdEk5c2pPQUI4UXZQbF91ZUtUTzFUa0x"
+          "date": "Fri, 13 Mar 2026 07:00:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE4xNVlRRHFIc2c1RldBanIwV1hmaWk4QUcxU1hNSm1CLVpqck1jWkl6UXRRSTZWb2dybDdDaHdDS0hYN3Uxa0xOcERR?oc=5\" target=\"_blank\"&gt;Key dates for 2025-26"
         },
         {
           "headline": "Embedded | 2026 Trade Deadline - NHL.com",
@@ -5023,7 +5066,7 @@
         },
         {
           "headline": "‘It was a real happy day for us’ | Bandits GM Steve Dietrich talks trade deadline deals - Buffalo Bandits",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUTdDN3pUcVRtNXhMZVA5a2Fjd0FVc0U4NUIzdndwZGpob095NkgtYUVYdTB4RzFwYkJBYlQwWEdpMXJLcFBuWFhfRElzaWk0alJZS2t6MG03NUVxTEhHTGMxZ0RJamxjblUxZUhiOG5xdHJsV3NqQ1RVVWYwVktRamt0bmFVTVI4SHMyZmlSRVZhRlhpOXNGakNEbTFJR3ZENnB1WF9yUQ?oc=5",
+          "url": "https://bandits.com/it-was-a-real-happy-day-for-us-bandits-gm-steve-dietrich-talks-trade-deadline-deals/",
           "source": "Daybook: Economic Calendar",
           "sourceId": "daybook_econ",
           "category": "daybook",
@@ -5072,26 +5115,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb2ROYTUtM1NVaEhIV1JxUTJxVXY3bDRVZ0xkQXNsMVZBSFlRaWVzXzkzdzlrUUtGcWNzLVNUQjRmczRRTFRhRDVkVEJBVHpfTEJmWVRSOU9vblhzM3ppODl0dGl3VXV3Sm9pMUh"
         },
         {
-          "headline": "3 things homebuyers should avoid before the March Fed meeting - CBS News",
-          "url": "https://www.cbsnews.com/news/things-homebuyers-should-avoid-before-the-fed-march-2026-meeting/",
-          "source": "Daybook: Economic Calendar",
-          "sourceId": "daybook_econ",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Thu, 12 Mar 2026 17:57:25 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNdkNfTDVVbXltaVNSaktjbFNhRFB5REpkQTNYQ1VpSTA2OFhKaWN2MllwWEF1am1nVVlSTmI0NlhTazd4U1lfVDZpS29fVGJ5RjZ4OVdZQnFDYXRseUhRenk3ellQZk5RenNJS3N"
-        },
-        {
-          "headline": "On the Sidelines S2E5: NFL free agency, Kraken trade deadline - FOX 13 Seattle",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzMzRSU00wanE2NW5Vb1FsQ2IzeF9FWk52cTlvNWo0aVdGUndRci1kLW82VzU1SG1XVjVyUXhrY1dsSnlCSDYycmpqcnhkcEVmRTNKWDJrOXRjdERFeUJMekh2NXVhZ9IBa0FVX3lxTE9Tc1ZiSXFxQm94UFpQZDZmbW1ZalNwa001aXMxR2ttMDRaVGRhaUNnLVRUOWZMX3ppb3NqVlFITVJSQThxYWZ6S1VTWHloNDNaVFJ6QklFenY4M1ROZl9WWGNDNm00S2dUQ3VJ?oc=5",
-          "source": "Daybook: Economic Calendar",
-          "sourceId": "daybook_econ",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Wed, 11 Mar 2026 01:49:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzMzRSU00wanE2NW5Vb1FsQ2IzeF9FWk52cTlvNWo0aVdGUndRci1kLW82VzU1SG1XVjVyUXhrY1dsSnlCSDYycmpqcnhkcEVmRTNKWDJrOXRjdERFeUJMekh2NXVhZ9IBa0FVX3l"
-        },
-        {
           "headline": "2025-26 NHL Trade Tracker - NHL.com",
           "url": "https://www.nhl.com/news/2025-26-nhl-trades",
           "source": "Daybook: Economic Calendar",
@@ -5112,14 +5135,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPUDVZdkdsTmhWRnEzUmdFYWhHMHVaZjctcndNQi1qN1NpaEcwRUJ6dU84Ui02MmJ0dG83ZzNnbFdYeF84MU9Xeks5cTE2NnJBMXR2bENfcTMzV0FDS0R1V0ZzSTU4LUNfSHdCQzI"
         },
         {
-          "headline": "Lyft (LYFT) Down 4.9% Since Last Earnings Report: Can It Rebound? - Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/lyft-lyft-down-4-9-153008313.html",
+          "headline": "Principal Financial (PFG) Down 4.2% Since Last Earnings Report: Can It Rebound? - Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/principal-financial-pfg-down-4-153005132.html",
           "source": "Daybook: Economic Calendar",
           "sourceId": "daybook_econ",
           "category": "daybook",
           "priority": "reference",
-          "date": "Thu, 12 Mar 2026 15:30:08 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9mNmF2a3JzR290M3YxYnRwN055ZW5IY2RTeUtQaEp4ZE4wQi1nWi1RMTRGUktLVzAzcURQQi1QMU85TEctM1UyX0ZLMmdyS3ZSNFlFU1R0OFBuWEZMQzU3eFAyRE9lR2IyNmVJekh"
+          "date": "Wed, 11 Mar 2026 15:30:05 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPb3hLdmlfNVFJX3hrM0dhWUhsWkxiMzhOQmg0VkYyV1hSYTl5NTJaMDVSYVNkS0FaRXlFcXlWdk5ycXBsemZtQU9hbURVN1F3ZkN5LWVJRWtrR0ctNzl2Ym5LdVoyU002M0xmVXk"
         },
         {
           "headline": "MAMMOTH MONTHLY: Bill Armstrong Trade Deadline - NHL.com",
@@ -5140,6 +5163,16 @@
           "priority": "reference",
           "date": "Mon, 16 Mar 2026 12:45:03 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNUVQ0cENYYnhHUDB4blp6WVJLQ2x0ZDdxTzZtQk1Hd1BZSE9Jb09SeEEzcTZWbHBSMnFwWGhZLUF5UXlKbVRGa3VLNjFpYWVnYm1MVF9pX3FfMTZESnZUNm9zZWtUektLRjJOMEl"
+        },
+        {
+          "headline": "Lyft (LYFT) Down 4.9% Since Last Earnings Report: Can It Rebound? - Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/lyft-lyft-down-4-9-153008313.html",
+          "source": "Daybook: Economic Calendar",
+          "sourceId": "daybook_econ",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Thu, 12 Mar 2026 15:30:08 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9mNmF2a3JzR290M3YxYnRwN055ZW5IY2RTeUtQaEp4ZE4wQi1nWi1RMTRGUktLVzAzcURQQi1QMU85TEctM1UyX0ZLMmdyS3ZSNFlFU1R0OFBuWEZMQzU3eFAyRE9lR2IyNmVJekh"
         },
         {
           "headline": "'The Last Of Us' Casts Jason Ritter &amp; Patrick Wilson; Promotes 3 - Deadline",
@@ -5172,16 +5205,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxObHVMbUZjY183c2dLZExoQ2xsNzJDeEd1VXJoNEJDZjVzV3gwSWduaXpCaXpOSnB5MHBUdzVqWEEzWnVEUUp5YW1rd29uc3hFQTV4R3psNklla1VBQTJXbkd4N1VZSTUtWG5nRHR"
         },
         {
-          "headline": "Closing arguments set to begin in Twitter shareholder trial accusing Musk of driving down stock - New Haven Register",
-          "url": "https://www.nhregister.com/business/article/closing-arguments-set-to-begin-in-twitter-22080861.php",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Tue, 17 Mar 2026 05:11:15 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQVmF5WU9qcG5mMndFb3B4Wk9iTkwyQ2dTbzJmakN6aGREU3JVRjlCSXg5eGJCMXpPOV9iTVlaeHF4aWtvYm5CaFpkd1kzdFZlWmVvdnlMOUliellKcXlXdEJBZ0xRSHJIMWJJSFR"
-        },
-        {
           "headline": "Thousands of North Texas families have applied for school vouchers ahead of deadline - KERA News",
           "url": "https://www.keranews.org/education/2026-03-17/texas-school-voucher-applications-deadline-students",
           "source": "Daybook: Scheduled Events",
@@ -5202,6 +5225,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxNSVRSajljZVllcF9ySzQ3Q3ByNUlNMHNqR2FLeWlwdzdoM3BaSjZoUXg0RklkRnNzTHJVVTc4Qml2ZUdIR2o0SFBfVklSR0J4cWVYZW1zRDZsU0MzUG1nMlVZQWdzZklETFkyeXJ"
         },
         {
+          "headline": "St. Dominic's funding deadline to reopen high school passes - WGME",
+          "url": "https://wgme.com/news/local/st-dominics-funding-deadline-to-reopen-high-school-passes-maine-education-students-learning-closure-diocese-of-portland",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Tue, 17 Mar 2026 10:35:03 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQR0VLLXBVNklwLW0tTWRBbDVjOW9vMXR0SmxVaXgxbnEzNDRmc2JJTlZzMzEtTXlwRDdQWXVQNDlWX3g1MXoxVlB4WU9acHlTakhLdmxRSEtuTFllR182cVJlZFFqcVRnTkFtVHR"
+        },
+        {
           "headline": "Texas school voucher program tops 200,000 applicants ahead of Tuesday deadline - KBTX News 3",
           "url": "https://www.kbtx.com/2026/03/17/texas-school-voucher-program-tops-200000-applicants-ahead-tuesday-deadline/",
           "source": "Daybook: Scheduled Events",
@@ -5210,6 +5243,26 @@
           "priority": "reference",
           "date": "Tue, 17 Mar 2026 03:36:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOanNfX1J4V3NxMF9nUTM5ZUxvdzdPUHBIZVZUSVZrZ0dVY1NFU3B6ZkN1UUNxS0JKU1B6S2twWUJTbUlYbWR2UzR2ZUl3ZHVoS3dJUzFmSVR3Tm5uVWNBb05nSklETTZJb0tOZVl"
+        },
+        {
+          "headline": "Selectis shareholders given May 11 deadline to accept Black Pearl tender offer - McKnight's Senior Living",
+          "url": "https://www.mcknightsseniorliving.com/news/selectis-shareholders-given-may-11-deadline-to-accept-black-pearl-tender-offer/",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Tue, 17 Mar 2026 04:10:02 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQalV6blcwY2Z1RVNhMXlqOWRyS2ZJVDVJR1FZUGRiblEwT1h3SWM3bHMwdVJjNTg1blNVNmV6MVhMNjNWWlhGV3VscDE5UU8xa09Hd3RyUWFrMWo0b0lWaVktOHRGQm1scWR5RDF"
+        },
+        {
+          "headline": "Battle boys volleyball set to begin second season at Hy-Vee Arena Tournament - Columbia Missourian",
+          "url": "https://www.columbiamissourian.com/sports/prep_sports/battle/battle-boys-volleyball-set-to-begin-second-season-at-hy-vee-arena-tournament/article_dd27d401-116e-40bc-bafc-0a1f7bcaf893.html",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Tue, 17 Mar 2026 11:00:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgJBVV95cUxOVUJDWWo5NW5SUmZiTlUxTTVZbzgyUDRyOWJncTZ1NUhVV2RrMm1KQXU2NmRvakxmWWtvcm1ONDFBZEUyNERGUzBUamhyU3hDWmZBSkJjdHhvT3BIWldLNmxZd3FqZHE0UUNSVXB"
         },
         {
           "headline": "Deadline to request absentee ballots for April 7 election is near - KSWO 7News",
@@ -5222,6 +5275,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQY3ctUllHd2JnbFBGajhqa0labWJ6YWNHU0d0dTl1Zm9JSHhRS2dxNVBVNXV4VHpqczQwWFoxYkgxVW5RZEVqZjlaS3hOZ1REUE11Rm5YRnNhNndRaEtpbFFva3ZiekhBZGZ5ZUQ"
         },
         {
+          "headline": "Closing arguments set to begin in Twitter shareholder trial accusing Musk of driving down stock - New Haven Register",
+          "url": "https://www.nhregister.com/business/article/closing-arguments-set-to-begin-in-twitter-22080861.php",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Tue, 17 Mar 2026 05:11:15 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQVmF5WU9qcG5mMndFb3B4Wk9iTkwyQ2dTbzJmakN6aGREU3JVRjlCSXg5eGJCMXpPOV9iTVlaeHF4aWtvYm5CaFpkd1kzdFZlWmVvdnlMOUliellKcXlXdEJBZ0xRSHJIMWJJSFR"
+        },
+        {
           "headline": "When do March Madness brackets close? Here's the deadline to submit your picks - NBC Connecticut",
           "url": "https://www.nbcconnecticut.com/news/sports/ncaab/march-madness-brackets-deadlines-2026/3714366/",
           "source": "Daybook: Scheduled Events",
@@ -5230,26 +5293,6 @@
           "priority": "reference",
           "date": "Mon, 16 Mar 2026 17:56:27 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQcWFVRV9UalUyVjAwdEZHLUN6cEd5Z3JpNHZUb2Fndms0eU1IRnR1Z0V5cnRQV2x2NnhwOEVJWFdENy1GdWVMOGN3bG15MW5ITTJtcDh2ZzdnN2hiSENseUxudmdlRFBHQm0xUkJ"
-        },
-        {
-          "headline": "Average tax return up 10% from last year but fewer returns filed as April 15 nears - The Commercial Appeal",
-          "url": "https://www.commercialappeal.com/story/money/2026/03/17/when-taxes-due-2026-average-tax-returns-where-return/89184243007/",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Tue, 17 Mar 2026 09:15:14 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOTDcydk5UU1FWMUJqWU5HX1RMbm5pUHNlcG5yTHktN29TdnV2eHg0QnF2VUZGUDlieS1PaWRGNWEtVE9OZ3RVOEdGZ1RPRnVPQ25SdGxUUGV6aVNwSURhbkV6eEE2R0VqSk8yODJ"
-        },
-        {
-          "headline": "Beyond deadline math: The Eleventh Circuit’s practical take on equitable tolling - JD Supra",
-          "url": "https://www.jdsupra.com/legalnews/beyond-deadline-math-the-eleventh-4960753/",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Mon, 16 Mar 2026 19:27:14 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPRllZNDZ2VmVScmQyVTM1NXhDWWFiS0MtS3RvN0JLX1l2ejUtSWVxRVpqaG93RnpycTJoREh6ODIxWHhxVzBEdl83MTd4dklMZHBTT2thUjdxdHhaczZwTDQyT0FFdkViZVJkLV9"
         },
         {
           "headline": "‘Buffy’ Autopsy Report: The Inside Story Of How High-Profile Reboot Was Shockingly Slayed - Deadline",
@@ -5280,16 +5323,6 @@
           "priority": "reference",
           "date": "Mon, 16 Mar 2026 22:52:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPT1RwQTdRTEpNQllHY08tQXNKWjN2ZnNmd0hKR0piUU0wWDg5dEJON0NCaTVSQVJuOWJWZzZLQVNjOW0xNGVmak9XQ1RTdFFZYy01SF9ZMWdzN1gtbTQ0d1liRmg2NTJILXlMUUZ"
-        },
-        {
-          "headline": "Dana Walden Unveils Her Disney Entertainment Leadership Team - Deadline",
-          "url": "https://deadline.com/2026/03/dana-walden-disney-entertainment-leadership-debra-oconnell-1236756934/",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Mon, 16 Mar 2026 20:45:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPN3ZVTmdsVXlTb3Bnb1JzLS10dXpJUUpiWk8zVDBwVDlrLWxKdkd0b19vMEpSaFdSVlg2cUdFU2NYMHpqYlF0TWRfcjBNbDJHS01xSzNSYW53ZUY2TFZvNktPSEZwanMxVlM2azV"
         }
       ]
     }
@@ -5366,7 +5399,7 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1xZm9WaDdxWW5EQ0hvZGlZQWhnNWRoRUpBT0prVWF1aU5LMW5uSEtIQmZ2dFNJX0JnRUgxaERBZUlyTEg0d3RUVmMyVGNBZWQ3ckVqZHFHSXY2X2dfXzl3RjJxTC1IVHpPUEpmNFZ"
     },
     {
-      "headline": "Ukraine updates: G7 rules out easing sanctions on Russia - DW.com",
+      "headline": "Ukraine updates: G7 rules out easing sanctions on Russia - dw.com",
       "url": "https://www.dw.com/en/ukraine-updates-g7-rules-out-easing-sanctions-on-russia/live-76302663",
       "source": "Daybook: International Events",
       "sourceId": "daybook_intl",
@@ -5426,6 +5459,16 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOaU8tZXN1VjNmWDZZUkc4UkZnWEZDS1JJcmgxekNNY0FpSHllQm5jLVdrUWF6TDFsZ0hTdjNmTXJHT21vVkwtZVZ0YTVtRzY1SXlxa3dxWDZkeTdLNTRMMGdKZEkxdTZiQktEQUt"
     },
     {
+      "headline": "DU Men’s Tennis’ Robb-Wilcox, Coats Sweep Summit League Honors - University of Denver Athletics",
+      "url": "https://denverpioneers.com/news/2026/3/10/du-mens-tennis-robb-wilcox-coats-sweep-summit-league-honors.aspx",
+      "source": "Daybook: International Events",
+      "sourceId": "daybook_intl",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Tue, 10 Mar 2026 19:20:08 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdlBWNnU0X0tyYnJEMkVLcjdVOVVFa3p4ZkZBOUdOSllvY0Q1MkFVcnd2aHM2ZDd4QjFHRXhUNkhxaFlVUmRDWGJvLVhrdEhLajdXcmdwTE1DT0lBRjdqV1lscEcwRzMwcWhLSDR"
+    },
+    {
       "headline": "Denver Summit FC plays its first game this weekend. Here’s how to watch - Denverite",
       "url": "https://denverite.com/2026/03/11/denver-summit-fc-first-game/",
       "source": "Daybook: International Events",
@@ -5436,14 +5479,14 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9pUnN3WVJRdU15T0NNWVQzdUFTaFlxS0hsb1J0QWdLX1NXbEs0cFhMcTkzWnBLazY0Z3ZMNTBIMnIwRUZLc2Jkc3BEYnlVNzNzRWRaQjNMY2tGZGg1cHNwS0h1TUhDTXR3QVppdXB"
     },
     {
-      "headline": "Trump signals possible delay to Beijing summit as U.S. pressures China to help reopen Strait of Hormuz - CNBC",
-      "url": "https://www.cnbc.com/2026/03/16/trump-possible-delay-beijing-summit-china-iran-strait-of-hormuz-.html",
-      "source": "Daybook: International Events",
-      "sourceId": "daybook_intl",
+      "headline": "Key dates for 2025-26 NBA season - NBA",
+      "url": "chrome-error://chromewebdata/",
+      "source": "Daybook: Economic Calendar",
+      "sourceId": "daybook_econ",
       "category": "daybook",
       "priority": "reference",
-      "date": "Mon, 16 Mar 2026 01:29:00 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPOERKdmtBSDFBV3Jlc0ZfMjJPU2ZoSllsMnAyU2lPQ3d6dnkwTEJtV1BMQTdGVVJrdm9NZGJ1VUtxMzZZdWJMRXVEYk1pcFB3S2dCc3RQdEk5c2pPQUI4UXZQbF91ZUtUTzFUa0x"
+      "date": "Fri, 13 Mar 2026 07:00:00 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE4xNVlRRHFIc2c1RldBanIwV1hmaWk4QUcxU1hNSm1CLVpqck1jWkl6UXRRSTZWb2dybDdDaHdDS0hYN3Uxa0xOcERR?oc=5\" target=\"_blank\"&gt;Key dates for 2025-26"
     },
     {
       "headline": "Embedded | 2026 Trade Deadline - NHL.com",
@@ -5477,7 +5520,7 @@
     },
     {
       "headline": "‘It was a real happy day for us’ | Bandits GM Steve Dietrich talks trade deadline deals - Buffalo Bandits",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUTdDN3pUcVRtNXhMZVA5a2Fjd0FVc0U4NUIzdndwZGpob095NkgtYUVYdTB4RzFwYkJBYlQwWEdpMXJLcFBuWFhfRElzaWk0alJZS2t6MG03NUVxTEhHTGMxZ0RJamxjblUxZUhiOG5xdHJsV3NqQ1RVVWYwVktRamt0bmFVTVI4SHMyZmlSRVZhRlhpOXNGakNEbTFJR3ZENnB1WF9yUQ?oc=5",
+      "url": "https://bandits.com/it-was-a-real-happy-day-for-us-bandits-gm-steve-dietrich-talks-trade-deadline-deals/",
       "source": "Daybook: Economic Calendar",
       "sourceId": "daybook_econ",
       "category": "daybook",
@@ -5526,26 +5569,6 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb2ROYTUtM1NVaEhIV1JxUTJxVXY3bDRVZ0xkQXNsMVZBSFlRaWVzXzkzdzlrUUtGcWNzLVNUQjRmczRRTFRhRDVkVEJBVHpfTEJmWVRSOU9vblhzM3ppODl0dGl3VXV3Sm9pMUh"
     },
     {
-      "headline": "3 things homebuyers should avoid before the March Fed meeting - CBS News",
-      "url": "https://www.cbsnews.com/news/things-homebuyers-should-avoid-before-the-fed-march-2026-meeting/",
-      "source": "Daybook: Economic Calendar",
-      "sourceId": "daybook_econ",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Thu, 12 Mar 2026 17:57:25 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNdkNfTDVVbXltaVNSaktjbFNhRFB5REpkQTNYQ1VpSTA2OFhKaWN2MllwWEF1am1nVVlSTmI0NlhTazd4U1lfVDZpS29fVGJ5RjZ4OVdZQnFDYXRseUhRenk3ellQZk5RenNJS3N"
-    },
-    {
-      "headline": "On the Sidelines S2E5: NFL free agency, Kraken trade deadline - FOX 13 Seattle",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzMzRSU00wanE2NW5Vb1FsQ2IzeF9FWk52cTlvNWo0aVdGUndRci1kLW82VzU1SG1XVjVyUXhrY1dsSnlCSDYycmpqcnhkcEVmRTNKWDJrOXRjdERFeUJMekh2NXVhZ9IBa0FVX3lxTE9Tc1ZiSXFxQm94UFpQZDZmbW1ZalNwa001aXMxR2ttMDRaVGRhaUNnLVRUOWZMX3ppb3NqVlFITVJSQThxYWZ6S1VTWHloNDNaVFJ6QklFenY4M1ROZl9WWGNDNm00S2dUQ3VJ?oc=5",
-      "source": "Daybook: Economic Calendar",
-      "sourceId": "daybook_econ",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Wed, 11 Mar 2026 01:49:00 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzMzRSU00wanE2NW5Vb1FsQ2IzeF9FWk52cTlvNWo0aVdGUndRci1kLW82VzU1SG1XVjVyUXhrY1dsSnlCSDYycmpqcnhkcEVmRTNKWDJrOXRjdERFeUJMekh2NXVhZ9IBa0FVX3l"
-    },
-    {
       "headline": "2025-26 NHL Trade Tracker - NHL.com",
       "url": "https://www.nhl.com/news/2025-26-nhl-trades",
       "source": "Daybook: Economic Calendar",
@@ -5566,14 +5589,14 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPUDVZdkdsTmhWRnEzUmdFYWhHMHVaZjctcndNQi1qN1NpaEcwRUJ6dU84Ui02MmJ0dG83ZzNnbFdYeF84MU9Xeks5cTE2NnJBMXR2bENfcTMzV0FDS0R1V0ZzSTU4LUNfSHdCQzI"
     },
     {
-      "headline": "Lyft (LYFT) Down 4.9% Since Last Earnings Report: Can It Rebound? - Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/lyft-lyft-down-4-9-153008313.html",
+      "headline": "Principal Financial (PFG) Down 4.2% Since Last Earnings Report: Can It Rebound? - Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/principal-financial-pfg-down-4-153005132.html",
       "source": "Daybook: Economic Calendar",
       "sourceId": "daybook_econ",
       "category": "daybook",
       "priority": "reference",
-      "date": "Thu, 12 Mar 2026 15:30:08 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9mNmF2a3JzR290M3YxYnRwN055ZW5IY2RTeUtQaEp4ZE4wQi1nWi1RMTRGUktLVzAzcURQQi1QMU85TEctM1UyX0ZLMmdyS3ZSNFlFU1R0OFBuWEZMQzU3eFAyRE9lR2IyNmVJekh"
+      "date": "Wed, 11 Mar 2026 15:30:05 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPb3hLdmlfNVFJX3hrM0dhWUhsWkxiMzhOQmg0VkYyV1hSYTl5NTJaMDVSYVNkS0FaRXlFcXlWdk5ycXBsemZtQU9hbURVN1F3ZkN5LWVJRWtrR0ctNzl2Ym5LdVoyU002M0xmVXk"
     },
     {
       "headline": "MAMMOTH MONTHLY: Bill Armstrong Trade Deadline - NHL.com",
@@ -5594,6 +5617,16 @@
       "priority": "reference",
       "date": "Mon, 16 Mar 2026 12:45:03 GMT",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNUVQ0cENYYnhHUDB4blp6WVJLQ2x0ZDdxTzZtQk1Hd1BZSE9Jb09SeEEzcTZWbHBSMnFwWGhZLUF5UXlKbVRGa3VLNjFpYWVnYm1MVF9pX3FfMTZESnZUNm9zZWtUektLRjJOMEl"
+    },
+    {
+      "headline": "Lyft (LYFT) Down 4.9% Since Last Earnings Report: Can It Rebound? - Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/lyft-lyft-down-4-9-153008313.html",
+      "source": "Daybook: Economic Calendar",
+      "sourceId": "daybook_econ",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Thu, 12 Mar 2026 15:30:08 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9mNmF2a3JzR290M3YxYnRwN055ZW5IY2RTeUtQaEp4ZE4wQi1nWi1RMTRGUktLVzAzcURQQi1QMU85TEctM1UyX0ZLMmdyS3ZSNFlFU1R0OFBuWEZMQzU3eFAyRE9lR2IyNmVJekh"
     },
     {
       "headline": "'The Last Of Us' Casts Jason Ritter &amp; Patrick Wilson; Promotes 3 - Deadline",
@@ -5626,16 +5659,6 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxObHVMbUZjY183c2dLZExoQ2xsNzJDeEd1VXJoNEJDZjVzV3gwSWduaXpCaXpOSnB5MHBUdzVqWEEzWnVEUUp5YW1rd29uc3hFQTV4R3psNklla1VBQTJXbkd4N1VZSTUtWG5nRHR"
     },
     {
-      "headline": "Closing arguments set to begin in Twitter shareholder trial accusing Musk of driving down stock - New Haven Register",
-      "url": "https://www.nhregister.com/business/article/closing-arguments-set-to-begin-in-twitter-22080861.php",
-      "source": "Daybook: Scheduled Events",
-      "sourceId": "daybook_scheduled",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Tue, 17 Mar 2026 05:11:15 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQVmF5WU9qcG5mMndFb3B4Wk9iTkwyQ2dTbzJmakN6aGREU3JVRjlCSXg5eGJCMXpPOV9iTVlaeHF4aWtvYm5CaFpkd1kzdFZlWmVvdnlMOUliellKcXlXdEJBZ0xRSHJIMWJJSFR"
-    },
-    {
       "headline": "Thousands of North Texas families have applied for school vouchers ahead of deadline - KERA News",
       "url": "https://www.keranews.org/education/2026-03-17/texas-school-voucher-applications-deadline-students",
       "source": "Daybook: Scheduled Events",
@@ -5656,6 +5679,16 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxNSVRSajljZVllcF9ySzQ3Q3ByNUlNMHNqR2FLeWlwdzdoM3BaSjZoUXg0RklkRnNzTHJVVTc4Qml2ZUdIR2o0SFBfVklSR0J4cWVYZW1zRDZsU0MzUG1nMlVZQWdzZklETFkyeXJ"
     },
     {
+      "headline": "St. Dominic's funding deadline to reopen high school passes - WGME",
+      "url": "https://wgme.com/news/local/st-dominics-funding-deadline-to-reopen-high-school-passes-maine-education-students-learning-closure-diocese-of-portland",
+      "source": "Daybook: Scheduled Events",
+      "sourceId": "daybook_scheduled",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Tue, 17 Mar 2026 10:35:03 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQR0VLLXBVNklwLW0tTWRBbDVjOW9vMXR0SmxVaXgxbnEzNDRmc2JJTlZzMzEtTXlwRDdQWXVQNDlWX3g1MXoxVlB4WU9acHlTakhLdmxRSEtuTFllR182cVJlZFFqcVRnTkFtVHR"
+    },
+    {
       "headline": "Texas school voucher program tops 200,000 applicants ahead of Tuesday deadline - KBTX News 3",
       "url": "https://www.kbtx.com/2026/03/17/texas-school-voucher-program-tops-200000-applicants-ahead-tuesday-deadline/",
       "source": "Daybook: Scheduled Events",
@@ -5664,6 +5697,26 @@
       "priority": "reference",
       "date": "Tue, 17 Mar 2026 03:36:00 GMT",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOanNfX1J4V3NxMF9nUTM5ZUxvdzdPUHBIZVZUSVZrZ0dVY1NFU3B6ZkN1UUNxS0JKU1B6S2twWUJTbUlYbWR2UzR2ZUl3ZHVoS3dJUzFmSVR3Tm5uVWNBb05nSklETTZJb0tOZVl"
+    },
+    {
+      "headline": "Selectis shareholders given May 11 deadline to accept Black Pearl tender offer - McKnight's Senior Living",
+      "url": "https://www.mcknightsseniorliving.com/news/selectis-shareholders-given-may-11-deadline-to-accept-black-pearl-tender-offer/",
+      "source": "Daybook: Scheduled Events",
+      "sourceId": "daybook_scheduled",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Tue, 17 Mar 2026 04:10:02 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQalV6blcwY2Z1RVNhMXlqOWRyS2ZJVDVJR1FZUGRiblEwT1h3SWM3bHMwdVJjNTg1blNVNmV6MVhMNjNWWlhGV3VscDE5UU8xa09Hd3RyUWFrMWo0b0lWaVktOHRGQm1scWR5RDF"
+    },
+    {
+      "headline": "Battle boys volleyball set to begin second season at Hy-Vee Arena Tournament - Columbia Missourian",
+      "url": "https://www.columbiamissourian.com/sports/prep_sports/battle/battle-boys-volleyball-set-to-begin-second-season-at-hy-vee-arena-tournament/article_dd27d401-116e-40bc-bafc-0a1f7bcaf893.html",
+      "source": "Daybook: Scheduled Events",
+      "sourceId": "daybook_scheduled",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Tue, 17 Mar 2026 11:00:00 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgJBVV95cUxOVUJDWWo5NW5SUmZiTlUxTTVZbzgyUDRyOWJncTZ1NUhVV2RrMm1KQXU2NmRvakxmWWtvcm1ONDFBZEUyNERGUzBUamhyU3hDWmZBSkJjdHhvT3BIWldLNmxZd3FqZHE0UUNSVXB"
     },
     {
       "headline": "Deadline to request absentee ballots for April 7 election is near - KSWO 7News",
@@ -5676,6 +5729,16 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQY3ctUllHd2JnbFBGajhqa0labWJ6YWNHU0d0dTl1Zm9JSHhRS2dxNVBVNXV4VHpqczQwWFoxYkgxVW5RZEVqZjlaS3hOZ1REUE11Rm5YRnNhNndRaEtpbFFva3ZiekhBZGZ5ZUQ"
     },
     {
+      "headline": "Closing arguments set to begin in Twitter shareholder trial accusing Musk of driving down stock - New Haven Register",
+      "url": "https://www.nhregister.com/business/article/closing-arguments-set-to-begin-in-twitter-22080861.php",
+      "source": "Daybook: Scheduled Events",
+      "sourceId": "daybook_scheduled",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Tue, 17 Mar 2026 05:11:15 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQVmF5WU9qcG5mMndFb3B4Wk9iTkwyQ2dTbzJmakN6aGREU3JVRjlCSXg5eGJCMXpPOV9iTVlaeHF4aWtvYm5CaFpkd1kzdFZlWmVvdnlMOUliellKcXlXdEJBZ0xRSHJIMWJJSFR"
+    },
+    {
       "headline": "When do March Madness brackets close? Here's the deadline to submit your picks - NBC Connecticut",
       "url": "https://www.nbcconnecticut.com/news/sports/ncaab/march-madness-brackets-deadlines-2026/3714366/",
       "source": "Daybook: Scheduled Events",
@@ -5684,26 +5747,6 @@
       "priority": "reference",
       "date": "Mon, 16 Mar 2026 17:56:27 GMT",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQcWFVRV9UalUyVjAwdEZHLUN6cEd5Z3JpNHZUb2Fndms0eU1IRnR1Z0V5cnRQV2x2NnhwOEVJWFdENy1GdWVMOGN3bG15MW5ITTJtcDh2ZzdnN2hiSENseUxudmdlRFBHQm0xUkJ"
-    },
-    {
-      "headline": "Average tax return up 10% from last year but fewer returns filed as April 15 nears - The Commercial Appeal",
-      "url": "https://www.commercialappeal.com/story/money/2026/03/17/when-taxes-due-2026-average-tax-returns-where-return/89184243007/",
-      "source": "Daybook: Scheduled Events",
-      "sourceId": "daybook_scheduled",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Tue, 17 Mar 2026 09:15:14 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOTDcydk5UU1FWMUJqWU5HX1RMbm5pUHNlcG5yTHktN29TdnV2eHg0QnF2VUZGUDlieS1PaWRGNWEtVE9OZ3RVOEdGZ1RPRnVPQ25SdGxUUGV6aVNwSURhbkV6eEE2R0VqSk8yODJ"
-    },
-    {
-      "headline": "Beyond deadline math: The Eleventh Circuit’s practical take on equitable tolling - JD Supra",
-      "url": "https://www.jdsupra.com/legalnews/beyond-deadline-math-the-eleventh-4960753/",
-      "source": "Daybook: Scheduled Events",
-      "sourceId": "daybook_scheduled",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Mon, 16 Mar 2026 19:27:14 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPRllZNDZ2VmVScmQyVTM1NXhDWWFiS0MtS3RvN0JLX1l2ejUtSWVxRVpqaG93RnpycTJoREh6ODIxWHhxVzBEdl83MTd4dklMZHBTT2thUjdxdHhaczZwTDQyT0FFdkViZVJkLV9"
     },
     {
       "headline": "‘Buffy’ Autopsy Report: The Inside Story Of How High-Profile Reboot Was Shockingly Slayed - Deadline",
@@ -5734,16 +5777,6 @@
       "priority": "reference",
       "date": "Mon, 16 Mar 2026 22:52:00 GMT",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPT1RwQTdRTEpNQllHY08tQXNKWjN2ZnNmd0hKR0piUU0wWDg5dEJON0NCaTVSQVJuOWJWZzZLQVNjOW0xNGVmak9XQ1RTdFFZYy01SF9ZMWdzN1gtbTQ0d1liRmg2NTJILXlMUUZ"
-    },
-    {
-      "headline": "Dana Walden Unveils Her Disney Entertainment Leadership Team - Deadline",
-      "url": "https://deadline.com/2026/03/dana-walden-disney-entertainment-leadership-debra-oconnell-1236756934/",
-      "source": "Daybook: Scheduled Events",
-      "sourceId": "daybook_scheduled",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Mon, 16 Mar 2026 20:45:00 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPN3ZVTmdsVXlTb3Bnb1JzLS10dXpJUUpiWk8zVDBwVDlrLWxKdkd0b19vMEpSaFdSVlg2cUdFU2NYMHpqYlF0TWRfcjBNbDJHS01xSzNSYW53ZUY2TFZvNktPSEZwanMxVlM2azV"
     }
   ],
   "watchCandidates": [
@@ -5816,6 +5849,27 @@
       ]
     },
     {
+      "headline": "French parties scramble to make alliances ahead of local election runoffs",
+      "url": "https://www.france24.com/en/video/20260317-french-parties-scramble-to-make-alliances-ahead-of-local-election-runoffs",
+      "source": "France24",
+      "sourceId": "france24",
+      "category": "wire",
+      "priority": "secondary",
+      "date": "Tue, 17 Mar 2026 11:07:00 GMT",
+      "description": "",
+      "watchCandidate": true,
+      "watchSignals": [
+        {
+          "category": "temporal",
+          "matched": "ahead of"
+        },
+        {
+          "category": "scheduled",
+          "matched": "election"
+        }
+      ]
+    },
+    {
       "headline": "Champions League: PSG remain cautious ahead of second leg against Chelsea",
       "url": "https://www.france24.com/en/tv-shows/sports/20260317-champions-league-psg-remain-cautious-ahead-of-second-leg-against-chelsea",
       "source": "France24",
@@ -5849,7 +5903,7 @@
         "Iranian women soccer players granted asylum in Australia are pictured training in Brisbane",
         "Iran war pushes countries into energy triage as they conserve power and curb soaring prices",
         "What’s in the voting bill that Republicans are pushing to the Senate floor",
-        "Child care costs enter the affordability fight as group plans to spend $50 million for Democrats",
+        "A $50 million push hopes to make child care a top issue in the midterm elections",
         "Illinois voters pick a new generation of Democrats for House, Senate after near-record retirements",
         "Trump’s homeland security pick Mullin is poised to inherit a department beset by challenges"
       ]
@@ -5873,14 +5927,14 @@
       "topHeadlines": [
         "Israel says Iran's security chief Ali Larijani has been killed in strike",
         "Surge in US petrol prices deepens political peril for Trump over Iran",
+        "Young Venezuelans voice hope and frustration as post-Maduro future unfolds",
         "Trump seeks to delay meeting with Xi in China",
-        "Mexico City breaks Guinness Record with giant football training session",
-        "Dozens killed in air strike on Kabul rehab centre blamed on Pakistan",
+        "Pakistan blamed after air strike on Kabul rehab centre kills at least 100",
         "And the burger goes to... Michael B Jordan marks Oscars win at In-N-Out",
         "Utah bereavement author found guilty of fatally poisoning her husband",
         "Coast Guard rescues snowmobile operator stranded on ice",
-        "Trump says presidents 'should not have learning disabilities' as he mocks Newsom's dyslexia",
-        "Teens sue Musk's xAI over Grok's pornographic images of them"
+        "Mexico City breaks Guinness Record with giant football training session",
+        "Trump says presidents 'should not have learning disabilities' as he mocks Newsom's dyslexia"
       ]
     },
     {
@@ -5908,8 +5962,8 @@
         "France holidays Menton, where the French and Italian rivieras meet",
         "Photography The absurdist photography of Yorgos Lanthimos",
         "Middle East crisis",
-        "Middle East crisis live Israel claims it has killed Iran’s security chief Ali Larijani",
-        "Full reportEuropean countries reject Trump’s call for help to reopen strait of Hormuz"
+        "Iran Iran’s security chief, Ali Larijani, killed in airstrike, Israel says",
+        "Middle East crisis liveIsrael claims it has killed Iran’s security chief Ali Larijani"
       ]
     },
     {
