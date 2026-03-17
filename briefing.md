@@ -2,44 +2,44 @@ Good morning, Russell! Here's what happened while you were sleeping.
 
 **Top Stories**
 
-- Iran [expanded attacks](https://apnews.com/article/iran-iraq-us-trump-march-16-2026-5f56cff945472db519d91dd5036ead9d) on Gulf neighbors and maintained its stranglehold on oil shipping, raising fears of a global energy crisis.
+- Israel claims it has [killed Iran's](https://www.ft.com/content/3b4fd03c-e416-4cbd-bf5c-adca908e6911) top security chief Ali Larijani, who also headed the Supreme National Security Council, according to the FT.
 
-- Oil prices [surged above](https://apnews.com/article/oil-stocks-markets-iran-trump-f982468f7ed277b058836387b04622b4) $100 per barrel as Iran hit more Gulf targets, while global stock markets traded mixed.
+- Another oil [tanker was](https://www.nytimes.com/2026/03/17/world/middleeast/tanker-attack-iran-war-strait-of-hormuz-oil.html) attacked near the Strait of Hormuz as the UAE intercepted Iranian drones and missiles targeting Emirati ports, the NYT reports.
 
-- Emirates [rerouted flights](https://www.ft.com/content/dcbf9a60-8662-4404-9d27-4f8b81f4bd57) from Manchester, Edinburgh and Dublin after a drone attack on Dubai's airport, according to the FT.
+- Trump [asked China](https://www.bbc.com/news/articles/cn9e0z7v3nxo?at_medium=RSS&amp;at_campaign=rss) to delay his planned Beijing summit by a month due to the Iran war, per the BBC.
 
-- Trump [suggested delaying](https://apnews.com/article/trump-china-iran-strait-hormuz-7ce3b6cd9ca6bd222dfe3236e10f8266) his planned China trip as he pressures Beijing for help reopening the Strait of Hormuz.
+- European leaders [rejected Trump's](https://www.france24.com/en/video/20260317-like-buying-a-ticket-to-the-titanic-eu-leaders-reject-trump-s-hormuz-demands) demand for military help to reopen the Strait of Hormuz, with the EU seeking diplomatic solutions instead, France24 reports.
 
-- EU foreign policy chief Kallas [proposed using](https://www.reuters.com/business/energy/eus-kallas-floats-black-sea-model-unblock-strait-hormuz-2026-03-16/) a Black Sea shipping model to unblock the Strait of Hormuz, Reuters reports.
+- Asian markets [traded mixed](https://apnews.com/article/stocks-markets-rates-oil-iran-trump-c206d3ca9d54f9cb2c0548eb6bb639d0) as Brent crude hovered above $100 per barrel following continued Middle East tensions, AP says.
 
-- Israel [claims it](https://www.reuters.com/world/middle-east/israel-says-it-destroyed-plane-used-by-irans-late-supreme-leader-khamenei-2026-03-16/) destroyed a plane once used by Iran's late Supreme Leader Khamenei, per Reuters.
+- Rescue crews [pulled bodies](https://apnews.com/article/afghanistan-pakistan-conflict-kabul-airstrike-hospital-596bfd6c30d879be09af4d7a039972fe) from a Kabul hospital hit in an airstrike that Afghanistan blames on Pakistan, according to AP.
 
 **Conflicts & Diplomacy**
 
-- Belgian Prime Minister Bart De Wever [called for](https://www.ft.com/content/4ce01938-a671-4433-83a7-dada2b3bac01) the EU to normalize ties with Russia to secure lower energy prices, challenging full support for Ukraine.
+- Iraq is [in talks](https://www.reuters.com/world/middle-east/iraq-talks-with-iran-safeguard-oil-tanker-traffic-through-hormuz-2026-03-17/) with Iran to safeguard oil tanker traffic through the Strait of Hormuz as regional tensions escalate, Reuters reports.
 
-- A South African police whistleblower [was murdered](https://www.bbc.com/news/articles/czr05nz3dp8o?at_medium=RSS&amp;at_campaign=rss) by a former elite officer in December last year, according to the BBC, after accusing colleagues of killing a robbery suspect.
+- Police in Nigeria [suspect suicide](https://apnews.com/article/nigeria-suicide-bombings-borno-maiduguri-3eaeb7f126866ab3c8b1d927a8bc7168) bombers killed at least 23 people in Maiduguri, the capital of Borno state, AP reports.
 
-- Myanmar's military-dominated parliament [convened for](https://www.aljazeera.com/news/2026/3/16/myanmar-parliament-dominated-by-pro-military-party-convenes-after-5-years?traffic_source=rss) the first time in five years following elections that excluded major opposition parties, Al Jazeera reports.
+- The EU has [adapted to](https://www.reuters.com/world/china/eu-has-adapted-us-unpredictability-foreign-policy-chief-says-2026-03-17/) US unpredictability under Trump, the bloc's foreign policy chief told Reuters in an exclusive interview.
 
 **Business & Markets**
 
-- Poland [has risen](https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa) from post-Communist wreckage to become one of the world's 20 largest economies.
+- Gulf economies are [suffering the](https://www.aljazeera.com/economy/2026/3/17/gulf-economies-suffer-brunt-of-iran-war-as-recession-risk-looms) brunt of the Iran war as recession risks mount for the region's energy-dependent nations, Al Jazeera reports.
 
-- Yale padlock maker Fortune Brands [agreed to](https://www.ft.com/content/f628ca01-1a88-455c-9d68-49cee70fd712) scrap a CEO appointment in a deal with activist investor Ed Garden, per the FT.
+- Dubai flights face [delays and](https://www.ft.com/content/cc256f74-fcc2-4b25-b4ba-1c5c5b6a4d23) cancellations after the latest drone and missile attacks, with Doha and Abu Dhabi travel hubs also constrained, the FT says.
 
-- Trade negotiations between the US, Mexico and Canada [began Monday](https://apnews.com/article/trump-usmca-mexico-canada-trade-tariffs-7a838812f96da25af9f7975461421ed2) to renew the USMCA pact.
+- Cuba is [ready to](https://www.nytimes.com/2026/03/16/world/americas/cuba-us-foreign-investment-businesses.html) accept outside investment following a nationwide blackout, a top official said as the island moves to open its economy, the NYT reports.
 
 **Also Notable**
 
-- Far-left and far-right parties [made major](https://www.bbc.com/news/articles/c8r17knnz5vo?at_medium=RSS&amp;at_campaign=rss) gains in France's mayoral elections, creating awkward choices for mainstream parties, the BBC reports.
+- Countries are [implementing energy](https://apnews.com/article/middle-east-wars-energy-asia-gas-oil-f22739369eb36ccaf87543459cfed320) triage measures to conserve power and curb soaring prices as the Iran war disrupts global supplies, AP reports.
 
-- "One Battle After Another" [swept the](https://www.bbc.com/news/articles/cp9mg90k78eo?at_medium=RSS&amp;at_campaign=rss) Oscars while Timothée Chalamet became the butt of jokes after his snub.
+- Hundreds of [migrants are](https://apnews.com/article/migrants-vanishing-missing-mediterranean-authorities-silent-ee527d91dc96550685c88e87c1ce4e6b) vanishing in the Mediterranean while authorities withhold information about the disappearances, according to AP.
 
 **What to Watch**
 
-- French mayors saw [far-right and left make major gains](https://www.france24.com/en/far-right-and-left-make-major-gains-across-france-in-mayoral-election) in the first round of municipal elections on March 15, according to France24.
+- Trump's team is [applying pressure](https://apnews.com/article/trump-media-hegseth-carr-fcc-first-amendment-d8bba1bcfa09bd47a9e1523616be480c) to media outlets to cover the Iran war according to the administration's narrative, AP reports.
 
-- Trump [may delay](https://apnews.com/article/trump-china-iran-strait-hormuz-7ce3b6cd9ca6bd222dfe3236e10f8266) his Beijing summit as tensions over Iran escalate.
+- The Pakistan-Afghanistan [conflict threatens](https://www.ft.com/content/da1d82c6-5939-4479-8e7d-71915ab7f520) to escalate further following the deadly hospital bombing in Kabul, which killed hundreds, per the FT.
 
-- Retail investors are [pulling billions](https://www.ft.com/content/3103e960-5e54-4cff-a439-b61a77ab21bd) from private credit funds, threatening Wall Street's growth engine, the FT reports.
+- Trump's [delayed summit](https://www.theguardian.com/world/2026/mar/16/china-us-trump-visit-strait-of-hormuz) with Xi Jinping casts uncertainty over US-China relations as Washington seeks Beijing's help with the Strait of Hormuz crisis, the Guardian says.
