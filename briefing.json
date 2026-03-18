@@ -4,17 +4,17 @@
     "owner": "Russell Goldman",
     "timezone": "America/New_York",
     "description": "Daily international news briefing — all bullets, ready by 6am ET",
-    "generated": "2026-03-18T10:32:18.163Z",
-    "generatedTimestamp": 1773829938163
+    "generated": "2026-03-18T11:15:36.901Z",
+    "generatedTimestamp": 1773832536901
   },
   "stats": {
     "sourceCount": 19,
     "successCount": 19,
-    "totalStories": 145,
+    "totalStories": 144,
     "totalScreenshots": 6,
     "daybookStories": 43,
-    "watchCandidateCount": 4,
-    "elapsed": "61.9s"
+    "watchCandidateCount": 3,
+    "elapsed": "61.0s"
   },
   "stories": {
     "all": [
@@ -119,6 +119,16 @@
         "description": ""
       },
       {
+        "headline": "Israel says Iranian Intelligence Minister Khatib killed overnight - Reuters",
+        "url": "https://www.reuters.com/world/middle-east/israel-says-iranian-intelligence-minister-khatib-killed-overnight-2026-03-18/",
+        "source": "Reuters",
+        "sourceId": "reuters_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Wed, 18 Mar 2026 10:25:46 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQODlIdWJGQzZNYUUyVUVKMG9OY3VySkdxSlRXSmpjSjFjNk9NRlcyTFYxMXBzbmdFSE5KT1J6RUNUelo3cGdGbHRnSU9fWENUYWNDSmZpU0lYZmxuMkEzVk00enZnNlp4MGNQbnh"
+      },
+      {
         "headline": "Turkey says NATO deploying more defences to guard southern base - Reuters",
         "url": "https://www.reuters.com/business/aerospace-defense/turkey-says-nato-deploying-more-defences-guard-southern-base-2026-03-18/",
         "source": "Reuters",
@@ -149,6 +159,16 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOZlZURTgxemtBSmxXSmJuSWh1TGZ1dFRSWGozNVJsMHE3QkFBa3ZRQzZnMjhZV3dMNjVMcWRRTVRaQ1ZRY0FrT2xxRVFLc0hXN1J3YnpPWUoyQjNWYUU2VVk4U0d5cEoyYVV2elh"
       },
       {
+        "headline": "Iran says nuclear doctrine unlikely to change, Hormuz Strait needs new protocol - Reuters",
+        "url": "https://www.reuters.com/world/middle-east/irans-nuclear-doctrine-not-likely-change-foreign-minister-says-2026-03-18/",
+        "source": "Reuters",
+        "sourceId": "reuters_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Wed, 18 Mar 2026 06:45:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPTGxiLTMyTWQ4YVkzc2REZXZiZ2UxUVg4MUJ5d21ObzZZUFNLNE5iVnJKazBYR1JJeFJoa0FzZG91NGJaeGJfYnZzMTRpR3RfVGxVNjFFZUNjRkNSVDdpbW9ROHJLTGFGb2dpdWF"
+      },
+      {
         "headline": "Chinese university tells students to 'fall in love' during spring break - Reuters",
         "url": "https://www.reuters.com/world/asia-pacific/chinese-university-tells-students-fall-love-during-spring-break-2026-03-18/",
         "source": "Reuters",
@@ -157,16 +177,6 @@
         "priority": "primary",
         "date": "Wed, 18 Mar 2026 06:43:00 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxORGNHd0VIQ0pVeEJLWXl1NEN4SGZYTTlGVlNIZG9wZDJEMVkwbVVsZjhHTTdic1VoR3BobHcwZmtYZGl4RnBZVlpIY3pqYm80LXZqODhDZXNWVWhVVUJWaUZFT2VVc2dwcTBYSWo"
-      },
-      {
-        "headline": "Iran says nuclear doctrine unlikely to change, Hormuz Strait needs new protocol - Reuters",
-        "url": "https://www.reuters.com/world/middle-east/irans-nuclear-doctrine-not-likely-change-foreign-minister-says-2026-03-18/",
-        "source": "Reuters",
-        "sourceId": "reuters_world",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Wed, 18 Mar 2026 06:45:36 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPTGxiLTMyTWQ4YVkzc2REZXZiZ2UxUVg4MUJ5d21ObzZZUFNLNE5iVnJKazBYR1JJeFJoa0FzZG91NGJaeGJfYnZzMTRpR3RfVGxVNjFFZUNjRkNSVDdpbW9ROHJLTGFGb2dpdWF"
       },
       {
         "headline": "Alibaba's AI strategy shift comes into focus with big bets on agents - Reuters",
@@ -195,7 +205,7 @@
         "sourceId": "reuters_world",
         "category": "wire",
         "priority": "primary",
-        "date": "Wed, 18 Mar 2026 05:46:35 GMT",
+        "date": "Wed, 18 Mar 2026 05:46:00 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVnpxUFNuZC0xdWNyMVB4Wk15cmtSczByRU5PVVdGVkR0M3hLb3Q2dWZOMWltY3Q1eURQeXk3SllqWnlySjFra0ZmWEY1Tjg2Znd4UWRJM1AxTXZtanVieUl0QXc1UkJZRjFNRDJ"
       },
       {
@@ -235,8 +245,18 @@
         "sourceId": "reuters_world",
         "category": "wire",
         "priority": "primary",
-        "date": "Wed, 18 Mar 2026 04:25:58 GMT",
+        "date": "Wed, 18 Mar 2026 04:25:00 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNRnpXQWpEV1pRTXJYb2hjcy1hMHAwNVlxMHE0b2JDM0F2cGVkeFdtUDFUeEd3TVp0M3lDcHpmNnNtVUp3bUFHbXNDM2w5azlsb3liVXNUc0dKTzVoUGloVjctaTZHQkluU3BPaTJ"
+      },
+      {
+        "headline": "Fed likely to hold rates steady as Iran war shocks policy debate - Reuters",
+        "url": "https://www.reuters.com/business/fed-likely-hold-rates-steady-iran-war-shocks-policy-debate-2026-03-18/",
+        "source": "Reuters",
+        "sourceId": "reuters_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Wed, 18 Mar 2026 05:05:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPeGFJZ2Nzck85cDFZYW9yY3g3SjNQd1dXdDlwZ3pKbGRPdUVSbXJ6RXZlV283aFpLdXhmWlRTX2RmODZwU2dqOFJwQW51Vkl4TFo0bzVyclVDcnd4WVcxNnBLMnhlYXBGaFd6U0d"
       },
       {
         "headline": "Iran executes man accused of spying for Israel, Mizan reports - Reuters",
@@ -247,26 +267,6 @@
         "priority": "primary",
         "date": "Wed, 18 Mar 2026 03:58:00 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVmJKaTliaUtKaG1vNXNuSkI0THZiT3BLdkxjMGNRMUkybTE5bFZiVGlGN3JxU3Ezb0RWNkMyaXhRM1huUlplUE1lUG5NU2UxdFZab01FMmVma2N3LU1oMHMzeFZBay1lSWVmTjR"
-      },
-      {
-        "headline": "A mystery AI model has developers buzzing: Is this DeepSeek's latest blockbuster? - Reuters",
-        "url": "https://www.reuters.com/business/media-telecom/mystery-ai-model-has-developers-buzzing-is-this-deepseeks-latest-blockbuster-2026-03-18/",
-        "source": "Reuters",
-        "sourceId": "reuters_world",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Wed, 18 Mar 2026 03:08:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNclBvcWpScEJkOUV5UXVrakVPTm00WHU0S1N1bkEzQ2NtLUNqQ0pwaTB5eWgxaXpHbDdfQ1Fsdzk1RG1EVkFCdkdFdHN2VWVqaklJQTFWeEYxUHRYc1dxNjh1dkdEcThielUtWWd"
-      },
-      {
-        "headline": "Oil falls after Iraq resumes oil exports via Turkey's Ceyhan port - Reuters",
-        "url": "https://www.reuters.com/business/energy/oil-prices-drop-us-crude-inventories-show-an-increase-2026-03-18/",
-        "source": "Reuters",
-        "sourceId": "reuters_world",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Wed, 18 Mar 2026 01:16:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxORnYzRWV4NHlwbUZucllJaWUxYXVxb2hDSjZhSVZDWFJjLVhfYTd6aUk1d2pneE1YNDdxSDlSRm9jWFRVaXJYQUIwOUxIdHpBYmRDZEJhRVJ5Vy02ZzlBNEJTX1dzbkFJa284QTZ"
       },
       {
         "headline": "Total repression and air strikes bring unrelenting dread for Iranians",
@@ -453,7 +453,7 @@
         "description": "Continued closure of the Strait of Hormuz threatens the movement of gas and fertilisers as well as oil"
       },
       {
-        "headline": "Trump’s Iran strikes blow open divisions in Maga base",
+        "headline": "Iran strikes blow open divisions in Maga base",
         "url": "https://www.ft.com/content/957e4ae5-9e03-4f62-948b-8e7663b0117d",
         "source": "Financial Times",
         "sourceId": "ft_home",
@@ -553,16 +553,6 @@
         "description": "&lt;p&gt;More than 100 others injured in bombings targeting post office, market areas and hospital in Maiduguri&lt;/p&gt;&lt;p&gt;At least 23 people have been killed and more than 100 others injured i"
       },
       {
-        "headline": "‘These connections are overlooked’: how British companies profited from slavery in Brazil long after abolition",
-        "url": "https://www.theguardian.com/world/2026/mar/17/connections-overlooked-how-british-companies-profited-slavery-brazil-after-abolition",
-        "source": "Guardian",
-        "sourceId": "guardian_world",
-        "category": "general",
-        "priority": "primary",
-        "date": "Tue, 17 Mar 2026 11:00:44 GMT",
-        "description": "&lt;p&gt;Britons learn about the country’s involvement ‘almost as a self-congratulatory narrative’, says historian Joseph Mulhern &lt;/p&gt;&lt;p&gt;In 1845 British citizens and companies were already"
-      },
-      {
         "headline": "Trump’s threats to ‘take’ Cuba signal rising US pressure as island grapples with power crisis",
         "url": "https://www.theguardian.com/world/2026/mar/17/trumps-explicit-threats-spark-fear-and-loathing-for-struggling-cubans",
         "source": "Guardian",
@@ -629,7 +619,7 @@
         "sourceId": "nyt_world",
         "category": "general",
         "priority": "secondary",
-        "date": "Wed, 18 Mar 2026 08:57:44 +0000",
+        "date": "Wed, 18 Mar 2026 10:54:11 +0000",
         "description": "Iranian state media confirmed the killings of Ali Larijani, who had served as Iran’s de facto leader recently, and a militia commander late Tuesday. Airstrikes rocked the Lebanese capital early Wednes"
       },
       {
@@ -750,14 +740,74 @@
         "description": "Three years ago, the Vatican’s criminal court convicted a cardinal for the first time in history. An appeals court has ruled there were irregularities in his prosecution."
       },
       {
-        "headline": "He Lost a Leg for Russia. Then, He Says, His Country Betrayed Him.",
-        "url": "https://www.nytimes.com/2026/03/18/world/europe/russia-ukraine-prisoner-benefits.html",
+        "headline": "Israel Intensifies Strikes on Beirut, Escalating Its Campaign Against Hezbollah",
+        "url": "https://www.nytimes.com/2026/03/18/world/middleeast/israel-strikes-beirut-lebanon-hezbollah.html",
         "source": "New York Times",
         "sourceId": "nyt_world",
         "category": "general",
         "priority": "secondary",
-        "date": "Wed, 18 Mar 2026 09:23:27 +0000",
-        "description": "Imprisoned for murder, Aleksandr Abbasov-Derskhan sought a new start in life and freedom by signing up to fight in Ukraine. But he says promised benefits proved illusory."
+        "date": "Wed, 18 Mar 2026 10:54:42 +0000",
+        "description": "The Israeli military widened its attacks to the districts in the center of the Lebanese capital, destroying buildings, forcing residents to flee and killing at least 10."
+      },
+      {
+        "headline": "Israel says it killed Iran intel minister in third assassination in 2 days",
+        "url": "https://www.aljazeera.com/news/2026/3/18/israel-says-it-killed-iran-intel-minister-in-third-assassination-in-2-days?traffic_source=rss",
+        "source": "Al Jazeera",
+        "sourceId": "aljazeera",
+        "category": "general",
+        "priority": "secondary",
+        "date": "Wed, 18 Mar 2026 10:33:12 +0000",
+        "description": "If the death of Esmaeil Khatib is confirmed, it would be the third major high-profile assassination in successive days."
+      },
+      {
+        "headline": "Senegal to appeal decision to award AFCON title to Morocco",
+        "url": "https://www.aljazeera.com/sports/2026/3/18/senegal-to-appeal-decision-to-award-afcon-title-to-morocco?traffic_source=rss",
+        "source": "Al Jazeera",
+        "sourceId": "aljazeera",
+        "category": "general",
+        "priority": "secondary",
+        "date": "Wed, 18 Mar 2026 10:25:44 +0000",
+        "description": "Morocco were awarded the 2025 AFCON title following an appeal to CAF regarding Senegal&#039;s walk-off protest in final."
+      },
+      {
+        "headline": "Iranian diaspora celebrates Persian festival wrapped in US, Israeli flags",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/18/iranian-diaspora-celebrates-persian-festival-wrapped-in-us-israeli-flags?traffic_source=rss",
+        "source": "Al Jazeera",
+        "sourceId": "aljazeera",
+        "category": "general",
+        "priority": "secondary",
+        "date": "Wed, 18 Mar 2026 10:22:55 +0000",
+        "description": "Dancing on a beach in Barcelona, members of the Iranian diaspora celebrated the Persian festival of Chaharshanbe Suri."
+      },
+      {
+        "headline": "Colombian president says Gaza was an ‘experiment’ for wider destruction",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/18/colombian-president-says-gaza-was-an-experiment-for-wider-destruction?traffic_source=rss",
+        "source": "Al Jazeera",
+        "sourceId": "aljazeera",
+        "category": "general",
+        "priority": "secondary",
+        "date": "Wed, 18 Mar 2026 10:20:51 +0000",
+        "description": "Colombian President Gustavo Petro says the war in Gaza was an “experiment” designed to intimidate the Global South."
+      },
+      {
+        "headline": "Rama in Lebanon",
+        "url": "https://www.aljazeera.com/video/on-the-ground/2026/3/18/rama-in-lebanon?traffic_source=rss",
+        "source": "Al Jazeera",
+        "sourceId": "aljazeera",
+        "category": "general",
+        "priority": "secondary",
+        "date": "Wed, 18 Mar 2026 10:17:20 +0000",
+        "description": "A video diary for Al Jazeera"
+      },
+      {
+        "headline": "The Kent warning: When truth escapes the war machine",
+        "url": "https://www.aljazeera.com/opinions/2026/3/18/the-kent-warning-when-truth-escapes-the-war-machine?traffic_source=rss",
+        "source": "Al Jazeera",
+        "sourceId": "aljazeera",
+        "category": "general",
+        "priority": "secondary",
+        "date": "Wed, 18 Mar 2026 10:12:59 +0000",
+        "description": "A US counterterrorism official’s resignation raises uncomfortable questions about a war few are willing to challenge"
       },
       {
         "headline": "‘US and Israel have taken majority of Iran’s ballistic missile capability’",
@@ -850,71 +900,34 @@
         "description": "As the conflict intensifies, Taliban drones challenge Pakistan’s security and response strategy, say experts."
       },
       {
-        "headline": "Aftermath of Iranian ‘revenge’ strikes on Israel, two killed",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/18/aftermath-of-iranian-revenge-strikes-on-israel-leaves-destruction-two-ki?traffic_source=rss",
-        "source": "Al Jazeera",
-        "sourceId": "aljazeera",
-        "category": "general",
+        "headline": "BTS fever grips Seoul as boy band return after four-year hiatus",
+        "url": "https://www.france24.com/en/tv-shows/business/20260318-bts-fever-grips-seoul-as-boy-band-return-after-four-year-hiatus",
+        "source": "France24",
+        "sourceId": "france24",
+        "category": "wire",
         "priority": "secondary",
-        "date": "Wed, 18 Mar 2026 08:13:25 +0000",
-        "description": "Widespread damage was left across areas near Tel Aviv after overnight Iranian missile strikes.",
-        "watchCandidate": true,
-        "watchSignals": [
-          {
-            "category": "consequence",
-            "matched": "Aftermath"
-          }
-        ]
+        "date": "Wed, 18 Mar 2026 11:01:36 GMT",
+        "description": ""
       },
       {
-        "headline": "‘US distraction in the Middle East is in China’s interest’",
-        "url": "https://www.aljazeera.com/video/quotable/2026/3/18/us-distraction-in-the-middle-east-is-in-chinas?traffic_source=rss",
-        "source": "Al Jazeera",
-        "sourceId": "aljazeera",
-        "category": "general",
+        "headline": "'Shield for Europe: We protect not only Ukraine, but the whole of Europe', says Dr Iryna Mudra",
+        "url": "https://www.france24.com/en/shield-for-europe-we-protect-not-only-ukraine-but-the-whole-of-europe-says-dr-iryna-mudra",
+        "source": "France24",
+        "sourceId": "france24",
+        "category": "wire",
         "priority": "secondary",
-        "date": "Wed, 18 Mar 2026 07:31:42 +0000",
-        "description": "‘US distraction in the Middle East is in China’s interest’"
+        "date": "Wed, 18 Mar 2026 10:59:58 GMT",
+        "description": ""
       },
       {
-        "headline": "Israel bombs central Beirut, strafes south, east Lebanon, killing over 20",
-        "url": "https://www.aljazeera.com/news/2026/3/18/israel-bombs-central-beirut-killing-6-strafes-south-east-lebanon?traffic_source=rss",
-        "source": "Al Jazeera",
-        "sourceId": "aljazeera",
-        "category": "general",
+        "headline": "Morocco taking AFCON title from Senegal dubbed 'joke of the century'",
+        "url": "https://www.france24.com/en/tv-shows/press-review/20260318-morocco-taking-afcon-title-from-senegal-dubbed-joke-of-the-century",
+        "source": "France24",
+        "sourceId": "france24",
+        "category": "wire",
         "priority": "secondary",
-        "date": "Wed, 18 Mar 2026 07:06:59 +0000",
-        "description": "Wave of Israeli air attacks launched as ground offensive widens in south where Hezbollah are fighting Israeli forces."
-      },
-      {
-        "headline": "Iran war: What is happening on day 19 of US-Israel attacks?",
-        "url": "https://www.aljazeera.com/news/2026/3/18/iran-war-what-is-happening-on-day-19-of-us-israel-attacks?traffic_source=rss",
-        "source": "Al Jazeera",
-        "sourceId": "aljazeera",
-        "category": "general",
-        "priority": "secondary",
-        "date": "Wed, 18 Mar 2026 07:06:24 +0000",
-        "description": "Iran vows revenge after Israeli strikes kill security chief Ali Larijani and Basij commander Gholamreza Soleimani."
-      },
-      {
-        "headline": "Iran launches ‘revenge’ missile attack on Israel after assassinations",
-        "url": "https://www.aljazeera.com/news/2026/3/18/iran-launches-revenge-missile-attack-on-israel-after-assassinations?traffic_source=rss",
-        "source": "Al Jazeera",
-        "sourceId": "aljazeera",
-        "category": "general",
-        "priority": "secondary",
-        "date": "Wed, 18 Mar 2026 07:04:58 +0000",
-        "description": "Iran continues to face a daily onslaught of US and Israeli air attacks in Tehran and across the country."
-      },
-      {
-        "headline": "Israeli air strike flattens residential building in Beirut",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/3/18/israeli-air-strike-flattens-residential-building-in-beirut?traffic_source=rss",
-        "source": "Al Jazeera",
-        "sourceId": "aljazeera",
-        "category": "general",
-        "priority": "secondary",
-        "date": "Wed, 18 Mar 2026 06:37:06 +0000",
-        "description": "Video shows the moment a residential building collapsed in Beirut after an Israeli air strike."
+        "date": "Wed, 18 Mar 2026 10:41:19 GMT",
+        "description": ""
       },
       {
         "headline": "Top US official resigns over Trump's war, says Iran posed no imminent threat",
@@ -937,7 +950,7 @@
         "description": ""
       },
       {
-        "headline": "Iran strikes Tel Aviv with cluster warheads in retaliation for killing of security chief",
+        "headline": "Iran missile fire kills two in central Israel",
         "url": "https://www.france24.com/en/video/20260318-iran-strikes-tel-aviv-with-cluster-warheads-in-retaliation-for-killing-of-security-chief",
         "source": "France24",
         "sourceId": "france24",
@@ -1037,38 +1050,8 @@
         "description": ""
       },
       {
-        "headline": "Iran using cluster munitions in retaliatory strikes on Israel",
-        "url": "https://www.france24.com/en/iran-using-cluster-munitions-in-retaliatory-strikes-on-israel",
-        "source": "France24",
-        "sourceId": "france24",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Tue, 17 Mar 2026 21:27:08 GMT",
-        "description": ""
-      },
-      {
-        "headline": "At least 23 killed in Nigeria suicide attacks",
-        "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260317-23-killed-in-nigeria-suicide-attack",
-        "source": "France24",
-        "sourceId": "france24",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Tue, 17 Mar 2026 21:22:27 GMT",
-        "description": ""
-      },
-      {
-        "headline": "Top Iranian officials killed in Israeli airstrike in wartime blow to country's leadership",
-        "url": "https://www.france24.com/en/top-iranian-officials-killed-in-israeli-airstrike-in-wartime-blow-to-country-s-leadership",
-        "source": "France24",
-        "sourceId": "france24",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Tue, 17 Mar 2026 21:18:05 GMT",
-        "description": ""
-      },
-      {
         "headline": "Global Leaders Affirm Central Role for Nuclear at 2026 Nuclear Energy Summit - International Atomic Energy Agency",
-        "url": "https://www.iaea.org/newscenter/news/global-leaders-affirm-central-role-for-nuclear-at-2026-nuclear-energy-summit",
+        "url": "http://www.iaea.org/newscenter/news/global-leaders-affirm-central-role-for-nuclear-at-2026-nuclear-energy-summit",
         "source": "Daybook: International Events",
         "sourceId": "daybook_intl",
         "category": "daybook",
@@ -1097,16 +1080,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPYm4yeVo4VlhYVHcyT2tuRkRhREJKZUxhNk5wY3VOSFZ4OTB4T3ZWNjF6cUxXV2FHRlR0bjZtRXVFTTdGZmt6ckxDS3lGbVFHVXNKbmpLX3V1eGxNc19qU3NkTThqUTlHNTlRajl"
       },
       {
-        "headline": "Reforming Cross-border payments: keynote speech at the FSB Payments Summit - Financial Stability Board",
-        "url": "https://www.fsb.org/2026/03/reforming-cross-border-payments-keynote-speech-at-the-fsb-payments-summit/",
-        "source": "Daybook: International Events",
-        "sourceId": "daybook_intl",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Thu, 12 Mar 2026 11:36:16 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNcklJWEpBMHUzTWVtWXJjdnhHM3NiTDVMRHdYYW9hZDZ5aTJfeGdrSm1WM095T0FwUUFBMldVWVVDMjcyMHNRazlGdjBOU2Y3aGNnLWJFeF9EdHBxdGV2cVV6NzJoQjhPYmJvdWl"
-      },
-      {
         "headline": "Match Preview: Bay FC Hosts Expansion Denver Summit FC in 2026 Opener - Bay FC",
         "url": "https://bayfc.com/articles/match-preview-vs-denver-summit-fc-20260313/",
         "source": "Daybook: International Events",
@@ -1115,26 +1088,6 @@
         "priority": "reference",
         "date": "Fri, 13 Mar 2026 22:00:00 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1HdUVEZXhPV0oxZGpkN01zS2VsRzhCeDNTZTlJWjYwWEgzeHZsV2FVZlRjYnJHUHVaaUhRaHJRZHdySFFKWFNFYlhPLXFIQ25MREdLM3ZuYnk1MlNaZUNQUnZBVGhhUGFoUGFQQlR"
-      },
-      {
-        "headline": "G7 Leaders’ Online Meeting - mofa.go.jp",
-        "url": "https://www.mofa.go.jp/ecm/epc/pageite_000001_01521.html",
-        "source": "Daybook: International Events",
-        "sourceId": "daybook_intl",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Thu, 12 Mar 2026 03:37:15 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rV1k5UEhmc01WWVZOSmJidTVIUk5uSVpxRTI0bHNPWUpaemhiMkJxTWJLbFgxN2hscDc3Qi1oQUxFbF9GaVB6QjlDdm50aldlV2JUWmV5OGpoT0FsaWpqQVBSU1dWZnM?oc=5\" t"
-      },
-      {
-        "headline": "A Trump-Xi Summit Nears, but China Doesn’t Know What Trump Wants - The New York Times",
-        "url": "https://www.nytimes.com/2026/03/11/world/asia/china-us-trump-ceos.html",
-        "source": "Daybook: International Events",
-        "sourceId": "daybook_intl",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Wed, 11 Mar 2026 11:06:58 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1xZm9WaDdxWW5EQ0hvZGlZQWhnNWRoRUpBT0prVWF1aU5LMW5uSEtIQmZ2dFNJX0JnRUgxaERBZUlyTEg0d3RUVmMyVGNBZWQ3ckVqZHFHSXY2X2dfXzl3RjJxTC1IVHpPUEpmNFZ"
       },
       {
         "headline": "Ukraine updates: G7 rules out easing sanctions on Russia - dw.com",
@@ -1157,14 +1110,14 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9CUkpmeTQ2cXhkMVBKYVpjUGo5R0xKajlYblJjMWRKQ2RHYmtrT0lQMWp2M3U1SXlweElSdTA4TW9hU21nSjNsNk51WWhPYjR6NERnVTE2OFZXaUk4bHBOaHlBZVdRelFocVBfYk9"
       },
       {
-        "headline": "Statement by the G7 Presidency. - elysee.fr",
-        "url": "https://www.elysee.fr/en/emmanuel-macron/2026/03/11/statement-by-the-g7-presidency",
+        "headline": "Trump-Xi China summit may be delayed if Trump wants to stay in Washington for Iran war: Bessent - CNBC",
+        "url": "https://www.cnbc.com/2026/03/16/bessent-trump-xi-china-iran-war.html",
         "source": "Daybook: International Events",
         "sourceId": "daybook_intl",
         "category": "daybook",
         "priority": "reference",
-        "date": "Thu, 12 Mar 2026 08:10:52 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxONXZ6bUJCN2xHb09KaWVaQ0czaHlqRFpRMlNKZzJia2pVazVjSXpabXBpdTJ3NHlCd1pLbThlYVc1WEp6NENqZy1sSGxjaE1CT29haTFMWWxsNVBydzNsN3RGVXFMT1NKX3pwakR"
+        "date": "Mon, 16 Mar 2026 11:39:15 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1CNTNBbVhqTVNuWml3UFZ1T2ZqTnlibkNxWkdnbnp1ejhsb2VuYVJabGFMbzcxd1lFcVN6cXRMS0kxLWh1cDk1eExrR2ZGcDJvMGRocmQ5Vi1vWjMwTmwtWl9FR0JOb0xEQkYtZHI"
       },
       {
         "headline": "Trump-Xi summit delayed as U.S. president pushes China to help open Hormuz - The Washington Post",
@@ -1175,16 +1128,6 @@
         "priority": "reference",
         "date": "Tue, 17 Mar 2026 05:09:26 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbDM1cFRzVTdadVJiZnpWNE9MRzlnUkpvWVc4Zm5DRnZMdjVnUzRUTTNqSHdpSDBjSVBIUzVRMEhtNXZ4M0NqdFhrZ0NHU2tDTWRqazZoZnI4bW5tWnE1Wmd1OERjRHFKRmdUa3V"
-      },
-      {
-        "headline": "Trump signals possible delay to Beijing summit as U.S. pressures China to help reopen Strait of Hormuz - CNBC",
-        "url": "https://www.cnbc.com/2026/03/16/trump-possible-delay-beijing-summit-china-iran-strait-of-hormuz-.html",
-        "source": "Daybook: International Events",
-        "sourceId": "daybook_intl",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Mon, 16 Mar 2026 01:29:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPOERKdmtBSDFBV3Jlc0ZfMjJPU2ZoSllsMnAyU2lPQ3d6dnkwTEJtV1BMQTdGVVJrdm9NZGJ1VUtxMzZZdWJMRXVEYk1pcFB3S2dCc3RQdEk5c2pPQUI4UXZQbF91ZUtUTzFUa0x"
       },
       {
         "headline": "6 takeaways from our “Growing Up in the Digital Age” Summit - blog.google",
@@ -1207,6 +1150,16 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9pUnN3WVJRdU15T0NNWVQzdUFTaFlxS0hsb1J0QWdLX1NXbEs0cFhMcTkzWnBLazY0Z3ZMNTBIMnIwRUZLc2Jkc3BEYnlVNzNzRWRaQjNMY2tGZGg1cHNwS0h1TUhDTXR3QVppdXB"
       },
       {
+        "headline": "China is Tight-Lipped on Trump’s Request to Delay His Xi Summit - The New York Times",
+        "url": "https://www.nytimes.com/2026/03/17/world/middleeast/trump-xi-china-summit.html",
+        "source": "Daybook: International Events",
+        "sourceId": "daybook_intl",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Tue, 17 Mar 2026 09:22:22 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPNjRySV9XMU91TUlLUnhmUGp1Q29hWnEwelNrektzdDBfRVFUZzM1emUzOFJVYjRpV3NjUVZlR0xkNHVQdFUwa2c5OFNhMFlYOUloVloxcE5YQ3Jxc0pjaDJCWnZSNURkcjNfZGJ"
+      },
+      {
         "headline": "Summit County Coroner identifies man killed in vehicle fire near Dillon Valley - SummitDaily.com",
         "url": "https://www.summitdaily.com/news/summit-county-coroner-identifies-man-killed-in-vehicle-fire-near-dillon-valley/",
         "source": "Daybook: International Events",
@@ -1215,6 +1168,36 @@
         "priority": "reference",
         "date": "Fri, 13 Mar 2026 23:17:54 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNWVBGRGlTaUpUQUxxbzVnTzF0WFczOXg1OENTT0R2bmtyeGdMTk9kVkNVcmRvT1hVYU1ENUJ5V1pTckw0Q0F1NE9SYkh0Zjh0dXFGTEFCV1NVcl9uTS1wTm00Qk9ILTEwRFZJeUx"
+      },
+      {
+        "headline": "Trump's summit delay casts pall over US-China trade truce - Reuters",
+        "url": "https://www.reuters.com/world/china/trumps-summit-delay-casts-pall-over-us-china-trade-truce-2026-03-17/",
+        "source": "Daybook: International Events",
+        "sourceId": "daybook_intl",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Tue, 17 Mar 2026 07:10:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQX2pHMVJYY2pieURiREZOX29FUktfaDBQWHVsRW5Wa0xjQ1VpNXE1Q1V5TXR4X1ZrOFlfRkxDSEwzQ0x5SFF3RVZpRG84aUR0bTdtNDY3UFdxSnAtTWkyRXQzT2o4UXBFaHB6QXU"
+      },
+      {
+        "headline": "Summit City Business Academy - City of Fort Wayne (.gov)",
+        "url": "https://www.cityoffortwayne.in.gov/428/Summit-City-Business-Academy",
+        "source": "Daybook: International Events",
+        "sourceId": "daybook_intl",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Sat, 14 Mar 2026 02:50:42 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9KSWlVcGJDREc2dmFka2JvSi1hdFluWWhSOFZ6a2QxY2JkREM3azVIMHo4Z2dfLUROSUpSdk9ZNmhnLWZyLXlIY1NvSWV2bFVWc01LVTYtZXFmenpyTWs2ekU3clpRejRPYnNVZkd"
+      },
+      {
+        "headline": "Registration open for fifth Michigan Veterans Leadership Summit - State of Michigan (.gov)",
+        "url": "https://www.michigan.gov/mvaa/news/2026/03/17/registration-open-for-fifth-michigan-veterans-leadership-summit",
+        "source": "Daybook: International Events",
+        "sourceId": "daybook_intl",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Tue, 17 Mar 2026 17:06:36 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOdkh0dG1iRjhzUUxmdy1XYlRrWmxjMWc2a2FhWlFHWU9OX3ZiU2kwMzNUMjN1QzhTSDFwd2lVcDkwNU5nTTMtd3BDUWVkOGlSQ2FDa2hsbzFobXBJOGk4b3BLQ1p5TzVhc1RZRkN"
       },
       {
         "headline": "Embedded | 2026 Trade Deadline - NHL.com",
@@ -1257,6 +1240,16 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOTVNINzFPb096Ynk4c0lQVFdkeC1EOGg1MTZodXhPTnNwLUFsd2JkMGxhUUlZaFNmR3dORm1OenBveENyQnBqaEZoYjJudDFHUzFMVFBzMEd3dEFUN1pKODBSajM3Q2EzNW1JY08"
       },
       {
+        "headline": "‘It was a real happy day for us’ | Bandits GM Steve Dietrich talks trade deadline deals - Buffalo Bandits",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUTdDN3pUcVRtNXhMZVA5a2Fjd0FVc0U4NUIzdndwZGpob095NkgtYUVYdTB4RzFwYkJBYlQwWEdpMXJLcFBuWFhfRElzaWk0alJZS2t6MG03NUVxTEhHTGMxZ0RJamxjblUxZUhiOG5xdHJsV3NqQ1RVVWYwVktRamt0bmFVTVI4SHMyZmlSRVZhRlhpOXNGakNEbTFJR3ZENnB1WF9yUQ?oc=5",
+        "source": "Daybook: Economic Calendar",
+        "sourceId": "daybook_econ",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Wed, 11 Mar 2026 23:54:25 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNUTdDN3pUcVRtNXhMZVA5a2Fjd0FVc0U4NUIzdndwZGpob095NkgtYUVYdTB4RzFwYkJBYlQwWEdpMXJLcFBuWFhfRElzaWk0alJZS2t6MG03NUVxTEhHTGMxZ0RJamxjblUxZUh"
+      },
+      {
         "headline": "NHL 2025-26 season predictions 3.0: How did the trade deadline impact our picks? - The Athletic - The New York Times",
         "url": "https://www.nytimes.com/athletic/7116375/2026/03/14/nhl-2025-26-season-predictions-trade-deadline/",
         "source": "Daybook: Economic Calendar",
@@ -1267,14 +1260,14 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPUDVZdkdsTmhWRnEzUmdFYWhHMHVaZjctcndNQi1qN1NpaEcwRUJ6dU84Ui02MmJ0dG83ZzNnbFdYeF84MU9Xeks5cTE2NnJBMXR2bENfcTMzV0FDS0R1V0ZzSTU4LUNfSHdCQzI"
       },
       {
-        "headline": "Why a mortgage rate lock before the March Fed meeting makes sense - CBS News",
-        "url": "https://www.cbsnews.com/news/why-mortgage-rate-lock-before-march-2026-fed-meeting-makes-sense/",
+        "headline": "Rangers finding success post NHL trade deadline behind new-look top line - SNY",
+        "url": "https://sny.tv/articles/rangers-finding-success-post-nhl-trade-deadline-new-top-line",
         "source": "Daybook: Economic Calendar",
         "sourceId": "daybook_econ",
         "category": "daybook",
         "priority": "reference",
-        "date": "Fri, 13 Mar 2026 13:21:10 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOVE9sT2RHOENmbjZRa09EVU4tVk0wb3hiMU9ucS12d3FXLThnY0VXM1J2VzlYQkstanRUUVdpelQxVWhhbzgtQnRIeW55djduMHFVMXVyVFRjZWtDdzZJeUJqWERkY1Q5bTFmYU9"
+        "date": "Wed, 11 Mar 2026 21:41:57 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNcmdtSmc2WHRNVVlDTnN0cDBaRU51TDUzY1dXaDBQSHpQcVVDOW9ZbW5kaGlETHFTRlozUGtKUWJzdEZHYi1SMEpKcEN5cTRQTTkxc1Q5S3E0UFFXMXp2a0NiOW41SEFZRHdfbk5"
       },
       {
         "headline": "MAMMOTH MONTHLY: Bill Armstrong Trade Deadline - NHL.com",
@@ -1307,8 +1300,18 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE12RzhMYl9yY293WFNOMS04R3R4RjBvWnFUWTVZSmw3cmkyMWVoUzlUQWpsWHUtVmdFRm9ONC15WEszdHNYbDBQWExWbHc2aF9TOEVsNjRVcXNyTGJCZmROSUFYM05GbExCdWZFSGN"
       },
       {
+        "headline": "Wild on 7th - Episode 136: Trade Deadline Recap - NHL.com",
+        "url": "https://www.nhl.com/wild/news/wild-on-7th-episode-136-trade-deadline-recap",
+        "source": "Daybook: Economic Calendar",
+        "sourceId": "daybook_econ",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Wed, 11 Mar 2026 23:02:31 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9JQXg2T0plWDlIOUQweVJfZEhRWnRtLWdab3lPbk1WNmdxQjBsWHlkOFEtRVhGcFduYi1Ic2ZhcTI5Q1JVaVFlSVVCNDR4bG9yb3hVMG1fT2lNcy1Rd0pvSTZLZ0QwbUkzMTNNbzl"
+      },
+      {
         "headline": "Gold price today, Tuesday, March 17: Gold opens higher ahead of Fed meeting - Yahoo Finance",
-        "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-tuesday-march-17-gold-opens-higher-ahead-of-fed-meeting-110052581.html",
+        "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-march-18-gold-remains-steady-ahead-of-fed-press-conference-110052646.html",
         "source": "Daybook: Economic Calendar",
         "sourceId": "daybook_econ",
         "category": "daybook",
@@ -1317,34 +1320,14 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcV8tVkpaTDRfSTVvLUNMeTRnX2lRWk9ycC00SVJEQ1d1RXh3ckdSS1pJUzdUTjhid29sS1N5QjZKMWhoRTYxUUtZdUJKVjVaRHUtYU1XaWVFZlRtUVpXMHlISHBTQTBWaFFzUTh"
       },
       {
-        "headline": "Bitcoin Price Rises. What the Fed Meeting Means for Cryptos. - Barron's",
-        "url": "https://www.barrons.com/articles/bitcoin-price-fed-cryptos-xrp-ethereum-eabec824?gaa_at=eafs&gaa_n=AWEtsqeQUkM2XO8ic6WW67owGEziLxCBCSRN8c6sjJrlyVPY0KQXtGu-SMG8&gaa_ts=69ba8278&gaa_sig=C4QhBHxVbs1wMX_LvDQ3BbjgfX-AYTiNLtZvxIX-WyA1kCckq9qmGM8lDo1zEwU2dKfS013USPlm0pNUlmwNKQ%3D%3D",
+        "headline": "Principal Financial (PFG) Down 4.2% Since Last Earnings Report: Can It Rebound? - Yahoo Finance",
+        "url": "https://finance.yahoo.com/news/principal-financial-pfg-down-4-153005132.html",
         "source": "Daybook: Economic Calendar",
         "sourceId": "daybook_econ",
         "category": "daybook",
         "priority": "reference",
-        "date": "Tue, 17 Mar 2026 11:41:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijANBVV95cUxNNEZhckdmSUhrbWV2X0M2UWE2a2ZlS0dNUHdQaU1Wc1JDOHBwazBJVFFJYzVrdzNIUnF2UVVkNmlRcFd5NzhaaWNUWjI4c0ZMRE5NQTRkbm14RGh2STk2RXdtaExjTjhhZ2ZsVEp"
-      },
-      {
-        "headline": "The Hawks are rising in the East after making trade-deadline splash. How high can they go? - Yahoo Sports",
-        "url": "https://sports.yahoo.com/nba/article/the-hawks-are-rising-in-the-east-after-making-trade-deadline-splash-how-high-can-they-go-213226272.html",
-        "source": "Daybook: Economic Calendar",
-        "sourceId": "daybook_econ",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Tue, 17 Mar 2026 21:32:26 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaVpEdEtkeGpaQ2d2amo2cmc3amlkWVVwRHplZFFBYXZnUHFNLXBuMFhGS3pVV3YyTVVNUTJwbGpIa1VQZ1FJdEh2Q0swblItdjhHZHNwLTRCT3pEbjY0em9NajhCTEJfV2tZbkZ"
-      },
-      {
-        "headline": "A critical Fed meeting, $100 oil, and Micron earnings: What to watch this week - Yahoo Finance",
-        "url": "https://finance.yahoo.com/news/a-critical-fed-meeting-100-oil-and-micron-earnings-what-to-watch-this-week-113002550.html",
-        "source": "Daybook: Economic Calendar",
-        "sourceId": "daybook_econ",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Sun, 15 Mar 2026 19:54:12 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOODV2Mmlyd2FsWjBPRWdpdi1ILXN6NWZqYWlNd3MtZFgtLUZaMTB5VGpxNXViMVhNbmg1clNHaUd4MWRwMzdDVW0zSFpZVGFSNi1XcEdURGQxNmp2QVlYNXVJNVhVd2x0dHNHMTR"
+        "date": "Wed, 11 Mar 2026 15:30:05 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPb3hLdmlfNVFJX3hrM0dhWUhsWkxiMzhOQmg0VkYyV1hSYTl5NTJaMDVSYVNkS0FaRXlFcXlWdk5ycXBsemZtQU9hbURVN1F3ZkN5LWVJRWtrR0ctNzl2Ym5LdVoyU002M0xmVXk"
       },
       {
         "headline": "Robert Pattinson Teases ‘The Batman Part II’ Is “Taking Some Big Swings” - Deadline",
@@ -1355,6 +1338,16 @@
         "priority": "reference",
         "date": "Wed, 18 Mar 2026 03:33:00 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNF8tSEZnRGJCRG8yVU1UNFFJemNwYW04dGJsN2lfZ2FmTU1HLWZVb0RTTHd1dDNRSXRkSEJZejdKbEhvdVFTenI1QUw0TmlZN1lJNW5kdXl5dHJBUWZfNXpFRFN5Sm9lMUNEZFh"
+      },
+      {
+        "headline": "San Antonio to host Deadline on Saturday, December 6 - WWE",
+        "url": "https://www.wwe.com/article/san-antonio-to-host-deadline-on-saturday-december-6",
+        "source": "Daybook: Scheduled Events",
+        "sourceId": "daybook_scheduled",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Wed, 18 Mar 2026 02:47:39 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQZHctYmVYa0pEUnl3bFlFNXhWcG5oZmF1aHFRR3FKUzgzczl1ME5zdzAtUXZiakRkV1JKU0NzdXFnUEpGYkttcTU4RkRZdWdtS0pJZTBuRm1GNzExYTh5d01SdGxXVkJkbVlXRDh"
       },
       {
         "headline": "Texas Republicans' Senate runoff moves forward as withdrawal deadline passes - NBC News",
@@ -1377,16 +1370,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa3k0STk5VkhFNzhnaENfOXFVYnJZNW5YZzA4cUxtMmpsa01vdlhVa08tZWEwaWlqc3ZMekg0UnNkNm1BN2JRSFUySTR6MG9ybklWWmFZMkhUTHpvVzBadjN0MlZkRHlWbEg4YTR"
       },
       {
-        "headline": "Texas runoff for GOP Senate nominee heats up after Trump misses dropout deadline - FOX 26 Houston",
-        "url": "https://www.fox26houston.com/news/trump-misses-deadline-nominate-texas-republican-nominee-us-senate",
-        "source": "Daybook: Scheduled Events",
-        "sourceId": "daybook_scheduled",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Wed, 18 Mar 2026 02:23:39 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPYmpDNTBXSmF6Z0FxRkE2V3ZsWklYdEtkTjl1bTlfdmVESDNoZmxXaGxUQTZnZVJpOXhlZUN5ZHJ0NU5hN0Mxd3BKenB2XzI3bEllUTRjMTcxWlE0NlRLdm1LOWlwSTJHNDBGMWd"
-      },
-      {
         "headline": "No Trump Endorsement for Cornyn or Paxton in Texas Senate Race as Deadline Passes - The New York Times",
         "url": "https://www.nytimes.com/2026/03/17/us/politics/texas-senate-trump-cornyn-paxton.html",
         "source": "Daybook: Scheduled Events",
@@ -1395,6 +1378,16 @@
         "priority": "reference",
         "date": "Tue, 17 Mar 2026 23:38:06 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQS0d1LWtKLWdrZU5faUw0OE94LUhGZkFEVGdnaDVJMFRqZXd2N09naVhHUVI4YXVuVG55bGxCaGtaeDdvVHRfZUZVXzVqdE82YjRjOWViajNDWUVIM0NDR0R0RVpqTlpkSDdPVE5"
+      },
+      {
+        "headline": "Texas runoff for GOP Senate nominee heats up after Trump misses dropout deadline - FOX 26 Houston",
+        "url": "https://www.fox26houston.com/news/trump-misses-deadline-nominate-texas-republican-nominee-us-senate",
+        "source": "Daybook: Scheduled Events",
+        "sourceId": "daybook_scheduled",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Wed, 18 Mar 2026 02:23:39 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPYmpDNTBXSmF6Z0FxRkE2V3ZsWklYdEtkTjl1bTlfdmVESDNoZmxXaGxUQTZnZVJpOXhlZUN5ZHJ0NU5hN0Mxd3BKenB2XzI3bEllUTRjMTcxWlE0NlRLdm1LOWlwSTJHNDBGMWd"
       },
       {
         "headline": "Trump said he wanted one of the Texas Senate candidates to drop out. Now he’s missed the deadline - CNN",
@@ -1407,16 +1400,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOb0Foc19aUGxneEswSmUtRi1LYWFrSk9wdEdzREdERGlPLUtBUWlOV0Qwd3VQOTNUXzJCZUZZRTM1aW9ia04yNlVjNUlpc0d5MDYtZi1zS0tRRWliQ1BQY2hVaHF0UFRxeWpsaXh"
       },
       {
-        "headline": "College Council discusses deadline for accessible-friendly online services - El Camino College The Union",
-        "url": "https://eccunion.com/news/2026/03/17/college-council-discusses-deadline-for-accessible-friendly-online-services/",
-        "source": "Daybook: Scheduled Events",
-        "sourceId": "daybook_scheduled",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Wed, 18 Mar 2026 05:34:28 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPQTN6SExMb09GZjFWWHd0S1VHM2REUFJJcnBWWTNsaWpzenc0MzlPaWZ1MDJuU2tVUW1tbWV4Y2c5RU9LNE5Cc3NqV3B2aF8tQzc1T1pJYkcybXN3VTROTXFxQkJvNWxpM3NRdUd"
-      },
-      {
         "headline": "Judge extends Texas school voucher deadline after lawsuits over exclusion of Islamic schools from TEFA program - CBS News",
         "url": "https://www.cbsnews.com/texas/news/federal-judge-texas-extend-deadline-texas-education-freedom-accounts-lawsuit-islamic-schools/",
         "source": "Daybook: Scheduled Events",
@@ -1427,14 +1410,24 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNcjRFYUZVbHF1Yl9KazV2NzVXMy1wNTdwcjNEc2Q1eGlzUExNWjU0TUNOVEk1ajVpSjBnZVVmQ1o1N0RNOGktemFuWWxZZXQxb0tlUm1EQnF1dHlkVTA2dUI5VW5IZVlqeW0yNWJ"
       },
       {
-        "headline": "Churchill Downs faces $2.4 million deadline for unpaid horse racing fees - WDRB",
-        "url": "https://www.wdrb.com/sports/churchill-downs-faces-2-4-million-deadline-for-unpaid-horse-racing-fees/article_9a70ceba-d28a-42af-b84c-77e6e977a40a.html",
+        "headline": "College Council discusses deadline for accessible-friendly online services - El Camino College The Union",
+        "url": "https://eccunion.com/news/2026/03/17/college-council-discusses-deadline-for-accessible-friendly-online-services/",
         "source": "Daybook: Scheduled Events",
         "sourceId": "daybook_scheduled",
         "category": "daybook",
         "priority": "reference",
-        "date": "Wed, 18 Mar 2026 09:06:02 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRVZvVElvTE1RWWRzMnBSTzBhU3hTdjl0SmpEN1VuX0NxYVAwQ1VnYmdxVm93bGhPaVZTaUZHdXBDNWxKYUpoNWFERXQ5M2xRYVFCSHFNdGYtMG5FaU1nOHROOU91WllzRHFqRWl"
+        "date": "Wed, 18 Mar 2026 05:34:28 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPQTN6SExMb09GZjFWWHd0S1VHM2REUFJJcnBWWTNsaWpzenc0MzlPaWZ1MDJuU2tVUW1tbWV4Y2c5RU9LNE5Cc3NqV3B2aF8tQzc1T1pJYkcybXN3VTROTXFxQkJvNWxpM3NRdUd"
+      },
+      {
+        "headline": "TEFA program application deadline extended following lawsuits - KBTX News 3",
+        "url": "https://www.kbtx.com/2026/03/18/tefa-program-application-deadline-extended-following-lawsuits/",
+        "source": "Daybook: Scheduled Events",
+        "sourceId": "daybook_scheduled",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Wed, 18 Mar 2026 03:43:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPdWRXdXZqdjNPY1FrazgyTnJ0VGVvRUliTnhxNHJoMV9fY01jeHo0SVp4MlFld3hQOGUweG1WUlRSMzFTb2tCTGs2bGlrU0JwQWZXTTRzRE5EbzVWU19zT2xEeGgyeDVDdmM3S3k"
       },
       {
         "headline": "Tuesday is the deadline for candidates to get off the Texas Senate GOP runoff ballot - KERA News",
@@ -1445,16 +1438,6 @@
         "priority": "reference",
         "date": "Tue, 17 Mar 2026 19:53:00 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxONzhucVNlRzEtY3RReEZtcDlWc3ZCUmJnQWk0MzREWjREZnNQVV9QbkJfMzNkTzlDX295UVRPWTl0Ql9wNVk4UjdScGJYSEtjbFhkLUJQbVRsTGlOejd1b3pYdkx1TFhfd3JUUGt"
-      },
-      {
-        "headline": "Deadline approaching to change party affiliation: What you need to know before Utah’s primary elections - ABC4 Utah",
-        "url": "https://www.abc4.com/news/politics/party-affiliation-primary-elections-what-to-know/",
-        "source": "Daybook: Scheduled Events",
-        "sourceId": "daybook_scheduled",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Wed, 18 Mar 2026 04:52:36 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOblJKSTVOejd3WXhOMjA5ajFONEdBTG1pTjk2ZGVzaWNtbkRvdkY0UlJhNUhvc0NuNHdEMk1fYnY2R25MdUdkMWhuOWI5UWdWNU9zamlaNGdfVmIyODZLOVZrd1BIN082UlBZVlJ"
       },
       {
         "headline": "Jesse Williams Joins Season 5 Of Apple TV’s ‘The Morning Show’ - Deadline",
@@ -1487,14 +1470,14 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBqR1prcXdSaFYyaXVtc21uV281M1VrWUZTR2RlVGNndHFzbmtUdWVabUM2UlJkc2xpR3J0OGI0OUE0eDQtUjZ0cnR6T3BzWkFxU2x3aHN6RFJxcEM3X3VBV1lJWFNtZlc1ZnRBYzE"
       },
       {
-        "headline": "'Dune: Part 3' Details Zendaya, Anya Taylor-Joy, Robert Pattinson - Deadline",
-        "url": "https://deadline.com/2026/03/dune-part-3-plot-details-zendaya-anya-taylor-joy-1236757421/",
+        "headline": "'The Lincoln Lawyer' Season 5 Begins Production; Casting &amp; Plot Drop - Deadline",
+        "url": "https://deadline.com/2026/03/the-lincoln-lawyer-production-season-5-plot-casting-1236757148/",
         "source": "Daybook: Scheduled Events",
         "sourceId": "daybook_scheduled",
         "category": "daybook",
         "priority": "reference",
-        "date": "Tue, 17 Mar 2026 16:30:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQNTRkdFVZdDBrWjZ3a0RNb0FRQTU5MjZhamRMcVJWa3B2eTA5TlV3SjNLNm00WGtfRlJLcDRwX3pTdTJSN3paSUp4cmFQeDBZa3VhQTFwYzNiTGR4YVBEUGFfY05XOC12Q1o2R0x"
+        "date": "Tue, 17 Mar 2026 18:00:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOOXNiRUhGZVd4MkVCRUNPLV9ORHVpa1NaaG1yajFJRmVORnllWS1sZ25JTEpYOEFZbk1rdk52aTJpNWZ3YWRlY3dRbE1RWUV4eDVCdTNxU0UwTDJWREF0LWNMb3hySk5SaXJYSXV"
       }
     ],
     "byCategory": {
@@ -1600,6 +1583,16 @@
           "description": ""
         },
         {
+          "headline": "Israel says Iranian Intelligence Minister Khatib killed overnight - Reuters",
+          "url": "https://www.reuters.com/world/middle-east/israel-says-iranian-intelligence-minister-khatib-killed-overnight-2026-03-18/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Wed, 18 Mar 2026 10:25:46 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQODlIdWJGQzZNYUUyVUVKMG9OY3VySkdxSlRXSmpjSjFjNk9NRlcyTFYxMXBzbmdFSE5KT1J6RUNUelo3cGdGbHRnSU9fWENUYWNDSmZpU0lYZmxuMkEzVk00enZnNlp4MGNQbnh"
+        },
+        {
           "headline": "Turkey says NATO deploying more defences to guard southern base - Reuters",
           "url": "https://www.reuters.com/business/aerospace-defense/turkey-says-nato-deploying-more-defences-guard-southern-base-2026-03-18/",
           "source": "Reuters",
@@ -1630,6 +1623,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOZlZURTgxemtBSmxXSmJuSWh1TGZ1dFRSWGozNVJsMHE3QkFBa3ZRQzZnMjhZV3dMNjVMcWRRTVRaQ1ZRY0FrT2xxRVFLc0hXN1J3YnpPWUoyQjNWYUU2VVk4U0d5cEoyYVV2elh"
         },
         {
+          "headline": "Iran says nuclear doctrine unlikely to change, Hormuz Strait needs new protocol - Reuters",
+          "url": "https://www.reuters.com/world/middle-east/irans-nuclear-doctrine-not-likely-change-foreign-minister-says-2026-03-18/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Wed, 18 Mar 2026 06:45:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPTGxiLTMyTWQ4YVkzc2REZXZiZ2UxUVg4MUJ5d21ObzZZUFNLNE5iVnJKazBYR1JJeFJoa0FzZG91NGJaeGJfYnZzMTRpR3RfVGxVNjFFZUNjRkNSVDdpbW9ROHJLTGFGb2dpdWF"
+        },
+        {
           "headline": "Chinese university tells students to 'fall in love' during spring break - Reuters",
           "url": "https://www.reuters.com/world/asia-pacific/chinese-university-tells-students-fall-love-during-spring-break-2026-03-18/",
           "source": "Reuters",
@@ -1638,16 +1641,6 @@
           "priority": "primary",
           "date": "Wed, 18 Mar 2026 06:43:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxORGNHd0VIQ0pVeEJLWXl1NEN4SGZYTTlGVlNIZG9wZDJEMVkwbVVsZjhHTTdic1VoR3BobHcwZmtYZGl4RnBZVlpIY3pqYm80LXZqODhDZXNWVWhVVUJWaUZFT2VVc2dwcTBYSWo"
-        },
-        {
-          "headline": "Iran says nuclear doctrine unlikely to change, Hormuz Strait needs new protocol - Reuters",
-          "url": "https://www.reuters.com/world/middle-east/irans-nuclear-doctrine-not-likely-change-foreign-minister-says-2026-03-18/",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Wed, 18 Mar 2026 06:45:36 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPTGxiLTMyTWQ4YVkzc2REZXZiZ2UxUVg4MUJ5d21ObzZZUFNLNE5iVnJKazBYR1JJeFJoa0FzZG91NGJaeGJfYnZzMTRpR3RfVGxVNjFFZUNjRkNSVDdpbW9ROHJLTGFGb2dpdWF"
         },
         {
           "headline": "Alibaba's AI strategy shift comes into focus with big bets on agents - Reuters",
@@ -1676,7 +1669,7 @@
           "sourceId": "reuters_world",
           "category": "wire",
           "priority": "primary",
-          "date": "Wed, 18 Mar 2026 05:46:35 GMT",
+          "date": "Wed, 18 Mar 2026 05:46:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVnpxUFNuZC0xdWNyMVB4Wk15cmtSczByRU5PVVdGVkR0M3hLb3Q2dWZOMWltY3Q1eURQeXk3SllqWnlySjFra0ZmWEY1Tjg2Znd4UWRJM1AxTXZtanVieUl0QXc1UkJZRjFNRDJ"
         },
         {
@@ -1716,8 +1709,18 @@
           "sourceId": "reuters_world",
           "category": "wire",
           "priority": "primary",
-          "date": "Wed, 18 Mar 2026 04:25:58 GMT",
+          "date": "Wed, 18 Mar 2026 04:25:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNRnpXQWpEV1pRTXJYb2hjcy1hMHAwNVlxMHE0b2JDM0F2cGVkeFdtUDFUeEd3TVp0M3lDcHpmNnNtVUp3bUFHbXNDM2w5azlsb3liVXNUc0dKTzVoUGloVjctaTZHQkluU3BPaTJ"
+        },
+        {
+          "headline": "Fed likely to hold rates steady as Iran war shocks policy debate - Reuters",
+          "url": "https://www.reuters.com/business/fed-likely-hold-rates-steady-iran-war-shocks-policy-debate-2026-03-18/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Wed, 18 Mar 2026 05:05:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPeGFJZ2Nzck85cDFZYW9yY3g3SjNQd1dXdDlwZ3pKbGRPdUVSbXJ6RXZlV283aFpLdXhmWlRTX2RmODZwU2dqOFJwQW51Vkl4TFo0bzVyclVDcnd4WVcxNnBLMnhlYXBGaFd6U0d"
         },
         {
           "headline": "Iran executes man accused of spying for Israel, Mizan reports - Reuters",
@@ -1730,24 +1733,34 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVmJKaTliaUtKaG1vNXNuSkI0THZiT3BLdkxjMGNRMUkybTE5bFZiVGlGN3JxU3Ezb0RWNkMyaXhRM1huUlplUE1lUG5NU2UxdFZab01FMmVma2N3LU1oMHMzeFZBay1lSWVmTjR"
         },
         {
-          "headline": "A mystery AI model has developers buzzing: Is this DeepSeek's latest blockbuster? - Reuters",
-          "url": "https://www.reuters.com/business/media-telecom/mystery-ai-model-has-developers-buzzing-is-this-deepseeks-latest-blockbuster-2026-03-18/",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
+          "headline": "BTS fever grips Seoul as boy band return after four-year hiatus",
+          "url": "https://www.france24.com/en/tv-shows/business/20260318-bts-fever-grips-seoul-as-boy-band-return-after-four-year-hiatus",
+          "source": "France24",
+          "sourceId": "france24",
           "category": "wire",
-          "priority": "primary",
-          "date": "Wed, 18 Mar 2026 03:08:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNclBvcWpScEJkOUV5UXVrakVPTm00WHU0S1N1bkEzQ2NtLUNqQ0pwaTB5eWgxaXpHbDdfQ1Fsdzk1RG1EVkFCdkdFdHN2VWVqaklJQTFWeEYxUHRYc1dxNjh1dkdEcThielUtWWd"
+          "priority": "secondary",
+          "date": "Wed, 18 Mar 2026 11:01:36 GMT",
+          "description": ""
         },
         {
-          "headline": "Oil falls after Iraq resumes oil exports via Turkey's Ceyhan port - Reuters",
-          "url": "https://www.reuters.com/business/energy/oil-prices-drop-us-crude-inventories-show-an-increase-2026-03-18/",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
+          "headline": "'Shield for Europe: We protect not only Ukraine, but the whole of Europe', says Dr Iryna Mudra",
+          "url": "https://www.france24.com/en/shield-for-europe-we-protect-not-only-ukraine-but-the-whole-of-europe-says-dr-iryna-mudra",
+          "source": "France24",
+          "sourceId": "france24",
           "category": "wire",
-          "priority": "primary",
-          "date": "Wed, 18 Mar 2026 01:16:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxORnYzRWV4NHlwbUZucllJaWUxYXVxb2hDSjZhSVZDWFJjLVhfYTd6aUk1d2pneE1YNDdxSDlSRm9jWFRVaXJYQUIwOUxIdHpBYmRDZEJhRVJ5Vy02ZzlBNEJTX1dzbkFJa284QTZ"
+          "priority": "secondary",
+          "date": "Wed, 18 Mar 2026 10:59:58 GMT",
+          "description": ""
+        },
+        {
+          "headline": "Morocco taking AFCON title from Senegal dubbed 'joke of the century'",
+          "url": "https://www.france24.com/en/tv-shows/press-review/20260318-morocco-taking-afcon-title-from-senegal-dubbed-joke-of-the-century",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Wed, 18 Mar 2026 10:41:19 GMT",
+          "description": ""
         },
         {
           "headline": "Top US official resigns over Trump's war, says Iran posed no imminent threat",
@@ -1770,7 +1783,7 @@
           "description": ""
         },
         {
-          "headline": "Iran strikes Tel Aviv with cluster warheads in retaliation for killing of security chief",
+          "headline": "Iran missile fire kills two in central Israel",
           "url": "https://www.france24.com/en/video/20260318-iran-strikes-tel-aviv-with-cluster-warheads-in-retaliation-for-killing-of-security-chief",
           "source": "France24",
           "sourceId": "france24",
@@ -1867,36 +1880,6 @@
           "category": "wire",
           "priority": "secondary",
           "date": "Tue, 17 Mar 2026 21:49:10 GMT",
-          "description": ""
-        },
-        {
-          "headline": "Iran using cluster munitions in retaliatory strikes on Israel",
-          "url": "https://www.france24.com/en/iran-using-cluster-munitions-in-retaliatory-strikes-on-israel",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Tue, 17 Mar 2026 21:27:08 GMT",
-          "description": ""
-        },
-        {
-          "headline": "At least 23 killed in Nigeria suicide attacks",
-          "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260317-23-killed-in-nigeria-suicide-attack",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Tue, 17 Mar 2026 21:22:27 GMT",
-          "description": ""
-        },
-        {
-          "headline": "Top Iranian officials killed in Israeli airstrike in wartime blow to country's leadership",
-          "url": "https://www.france24.com/en/top-iranian-officials-killed-in-israeli-airstrike-in-wartime-blow-to-country-s-leadership",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Tue, 17 Mar 2026 21:18:05 GMT",
           "description": ""
         }
       ],
@@ -2372,7 +2355,7 @@
           "sourceId": "nyt_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Wed, 18 Mar 2026 08:57:44 +0000",
+          "date": "Wed, 18 Mar 2026 10:54:11 +0000",
           "description": "Iranian state media confirmed the killings of Ali Larijani, who had served as Iran’s de facto leader recently, and a militia commander late Tuesday. Airstrikes rocked the Lebanese capital early Wednes"
         },
         {
@@ -2513,14 +2496,74 @@
           "description": "The weeklong fight over Iran’s next leader pitted the Revolutionary Guards against moderates. The generals won, but only over spirited resistance."
         },
         {
-          "headline": "He Lost a Leg for Russia. Then, He Says, His Country Betrayed Him.",
-          "url": "https://www.nytimes.com/2026/03/18/world/europe/russia-ukraine-prisoner-benefits.html",
+          "headline": "Israel Intensifies Strikes on Beirut, Escalating Its Campaign Against Hezbollah",
+          "url": "https://www.nytimes.com/2026/03/18/world/middleeast/israel-strikes-beirut-lebanon-hezbollah.html",
           "source": "New York Times",
           "sourceId": "nyt_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Wed, 18 Mar 2026 09:23:27 +0000",
-          "description": "Imprisoned for murder, Aleksandr Abbasov-Derskhan sought a new start in life and freedom by signing up to fight in Ukraine. But he says promised benefits proved illusory."
+          "date": "Wed, 18 Mar 2026 10:54:42 +0000",
+          "description": "The Israeli military widened its attacks to the districts in the center of the Lebanese capital, destroying buildings, forcing residents to flee and killing at least 10."
+        },
+        {
+          "headline": "Israel says it killed Iran intel minister in third assassination in 2 days",
+          "url": "https://www.aljazeera.com/news/2026/3/18/israel-says-it-killed-iran-intel-minister-in-third-assassination-in-2-days?traffic_source=rss",
+          "source": "Al Jazeera",
+          "sourceId": "aljazeera",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Wed, 18 Mar 2026 10:33:12 +0000",
+          "description": "If the death of Esmaeil Khatib is confirmed, it would be the third major high-profile assassination in successive days."
+        },
+        {
+          "headline": "Senegal to appeal decision to award AFCON title to Morocco",
+          "url": "https://www.aljazeera.com/sports/2026/3/18/senegal-to-appeal-decision-to-award-afcon-title-to-morocco?traffic_source=rss",
+          "source": "Al Jazeera",
+          "sourceId": "aljazeera",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Wed, 18 Mar 2026 10:25:44 +0000",
+          "description": "Morocco were awarded the 2025 AFCON title following an appeal to CAF regarding Senegal&#039;s walk-off protest in final."
+        },
+        {
+          "headline": "Iranian diaspora celebrates Persian festival wrapped in US, Israeli flags",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/18/iranian-diaspora-celebrates-persian-festival-wrapped-in-us-israeli-flags?traffic_source=rss",
+          "source": "Al Jazeera",
+          "sourceId": "aljazeera",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Wed, 18 Mar 2026 10:22:55 +0000",
+          "description": "Dancing on a beach in Barcelona, members of the Iranian diaspora celebrated the Persian festival of Chaharshanbe Suri."
+        },
+        {
+          "headline": "Colombian president says Gaza was an ‘experiment’ for wider destruction",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/18/colombian-president-says-gaza-was-an-experiment-for-wider-destruction?traffic_source=rss",
+          "source": "Al Jazeera",
+          "sourceId": "aljazeera",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Wed, 18 Mar 2026 10:20:51 +0000",
+          "description": "Colombian President Gustavo Petro says the war in Gaza was an “experiment” designed to intimidate the Global South."
+        },
+        {
+          "headline": "Rama in Lebanon",
+          "url": "https://www.aljazeera.com/video/on-the-ground/2026/3/18/rama-in-lebanon?traffic_source=rss",
+          "source": "Al Jazeera",
+          "sourceId": "aljazeera",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Wed, 18 Mar 2026 10:17:20 +0000",
+          "description": "A video diary for Al Jazeera"
+        },
+        {
+          "headline": "The Kent warning: When truth escapes the war machine",
+          "url": "https://www.aljazeera.com/opinions/2026/3/18/the-kent-warning-when-truth-escapes-the-war-machine?traffic_source=rss",
+          "source": "Al Jazeera",
+          "sourceId": "aljazeera",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Wed, 18 Mar 2026 10:12:59 +0000",
+          "description": "A US counterterrorism official’s resignation raises uncomfortable questions about a war few are willing to challenge"
         },
         {
           "headline": "‘US and Israel have taken majority of Iran’s ballistic missile capability’",
@@ -2611,73 +2654,6 @@
           "priority": "secondary",
           "date": "Wed, 18 Mar 2026 08:20:37 +0000",
           "description": "As the conflict intensifies, Taliban drones challenge Pakistan’s security and response strategy, say experts."
-        },
-        {
-          "headline": "Aftermath of Iranian ‘revenge’ strikes on Israel, two killed",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/18/aftermath-of-iranian-revenge-strikes-on-israel-leaves-destruction-two-ki?traffic_source=rss",
-          "source": "Al Jazeera",
-          "sourceId": "aljazeera",
-          "category": "general",
-          "priority": "secondary",
-          "date": "Wed, 18 Mar 2026 08:13:25 +0000",
-          "description": "Widespread damage was left across areas near Tel Aviv after overnight Iranian missile strikes.",
-          "watchCandidate": true,
-          "watchSignals": [
-            {
-              "category": "consequence",
-              "matched": "Aftermath"
-            }
-          ]
-        },
-        {
-          "headline": "‘US distraction in the Middle East is in China’s interest’",
-          "url": "https://www.aljazeera.com/video/quotable/2026/3/18/us-distraction-in-the-middle-east-is-in-chinas?traffic_source=rss",
-          "source": "Al Jazeera",
-          "sourceId": "aljazeera",
-          "category": "general",
-          "priority": "secondary",
-          "date": "Wed, 18 Mar 2026 07:31:42 +0000",
-          "description": "‘US distraction in the Middle East is in China’s interest’"
-        },
-        {
-          "headline": "Israel bombs central Beirut, strafes south, east Lebanon, killing over 20",
-          "url": "https://www.aljazeera.com/news/2026/3/18/israel-bombs-central-beirut-killing-6-strafes-south-east-lebanon?traffic_source=rss",
-          "source": "Al Jazeera",
-          "sourceId": "aljazeera",
-          "category": "general",
-          "priority": "secondary",
-          "date": "Wed, 18 Mar 2026 07:06:59 +0000",
-          "description": "Wave of Israeli air attacks launched as ground offensive widens in south where Hezbollah are fighting Israeli forces."
-        },
-        {
-          "headline": "Iran war: What is happening on day 19 of US-Israel attacks?",
-          "url": "https://www.aljazeera.com/news/2026/3/18/iran-war-what-is-happening-on-day-19-of-us-israel-attacks?traffic_source=rss",
-          "source": "Al Jazeera",
-          "sourceId": "aljazeera",
-          "category": "general",
-          "priority": "secondary",
-          "date": "Wed, 18 Mar 2026 07:06:24 +0000",
-          "description": "Iran vows revenge after Israeli strikes kill security chief Ali Larijani and Basij commander Gholamreza Soleimani."
-        },
-        {
-          "headline": "Iran launches ‘revenge’ missile attack on Israel after assassinations",
-          "url": "https://www.aljazeera.com/news/2026/3/18/iran-launches-revenge-missile-attack-on-israel-after-assassinations?traffic_source=rss",
-          "source": "Al Jazeera",
-          "sourceId": "aljazeera",
-          "category": "general",
-          "priority": "secondary",
-          "date": "Wed, 18 Mar 2026 07:04:58 +0000",
-          "description": "Iran continues to face a daily onslaught of US and Israeli air attacks in Tehran and across the country."
-        },
-        {
-          "headline": "Israeli air strike flattens residential building in Beirut",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/18/israeli-air-strike-flattens-residential-building-in-beirut?traffic_source=rss",
-          "source": "Al Jazeera",
-          "sourceId": "aljazeera",
-          "category": "general",
-          "priority": "secondary",
-          "date": "Wed, 18 Mar 2026 06:37:06 +0000",
-          "description": "Video shows the moment a residential building collapsed in Beirut after an Israeli air strike."
         }
       ],
       "business": [
@@ -2732,7 +2708,7 @@
           "description": "Continued closure of the Strait of Hormuz threatens the movement of gas and fertilisers as well as oil"
         },
         {
-          "headline": "Trump’s Iran strikes blow open divisions in Maga base",
+          "headline": "Iran strikes blow open divisions in Maga base",
           "url": "https://www.ft.com/content/957e4ae5-9e03-4f62-948b-8e7663b0117d",
           "source": "Financial Times",
           "sourceId": "ft_home",
@@ -2965,7 +2941,7 @@
       "daybook": [
         {
           "headline": "Global Leaders Affirm Central Role for Nuclear at 2026 Nuclear Energy Summit - International Atomic Energy Agency",
-          "url": "https://www.iaea.org/newscenter/news/global-leaders-affirm-central-role-for-nuclear-at-2026-nuclear-energy-summit",
+          "url": "http://www.iaea.org/newscenter/news/global-leaders-affirm-central-role-for-nuclear-at-2026-nuclear-energy-summit",
           "source": "Daybook: International Events",
           "sourceId": "daybook_intl",
           "category": "daybook",
@@ -2994,16 +2970,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPYm4yeVo4VlhYVHcyT2tuRkRhREJKZUxhNk5wY3VOSFZ4OTB4T3ZWNjF6cUxXV2FHRlR0bjZtRXVFTTdGZmt6ckxDS3lGbVFHVXNKbmpLX3V1eGxNc19qU3NkTThqUTlHNTlRajl"
         },
         {
-          "headline": "Reforming Cross-border payments: keynote speech at the FSB Payments Summit - Financial Stability Board",
-          "url": "https://www.fsb.org/2026/03/reforming-cross-border-payments-keynote-speech-at-the-fsb-payments-summit/",
-          "source": "Daybook: International Events",
-          "sourceId": "daybook_intl",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Thu, 12 Mar 2026 11:36:16 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNcklJWEpBMHUzTWVtWXJjdnhHM3NiTDVMRHdYYW9hZDZ5aTJfeGdrSm1WM095T0FwUUFBMldVWVVDMjcyMHNRazlGdjBOU2Y3aGNnLWJFeF9EdHBxdGV2cVV6NzJoQjhPYmJvdWl"
-        },
-        {
           "headline": "Match Preview: Bay FC Hosts Expansion Denver Summit FC in 2026 Opener - Bay FC",
           "url": "https://bayfc.com/articles/match-preview-vs-denver-summit-fc-20260313/",
           "source": "Daybook: International Events",
@@ -3012,26 +2978,6 @@
           "priority": "reference",
           "date": "Fri, 13 Mar 2026 22:00:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1HdUVEZXhPV0oxZGpkN01zS2VsRzhCeDNTZTlJWjYwWEgzeHZsV2FVZlRjYnJHUHVaaUhRaHJRZHdySFFKWFNFYlhPLXFIQ25MREdLM3ZuYnk1MlNaZUNQUnZBVGhhUGFoUGFQQlR"
-        },
-        {
-          "headline": "G7 Leaders’ Online Meeting - mofa.go.jp",
-          "url": "https://www.mofa.go.jp/ecm/epc/pageite_000001_01521.html",
-          "source": "Daybook: International Events",
-          "sourceId": "daybook_intl",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Thu, 12 Mar 2026 03:37:15 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rV1k5UEhmc01WWVZOSmJidTVIUk5uSVpxRTI0bHNPWUpaemhiMkJxTWJLbFgxN2hscDc3Qi1oQUxFbF9GaVB6QjlDdm50aldlV2JUWmV5OGpoT0FsaWpqQVBSU1dWZnM?oc=5\" t"
-        },
-        {
-          "headline": "A Trump-Xi Summit Nears, but China Doesn’t Know What Trump Wants - The New York Times",
-          "url": "https://www.nytimes.com/2026/03/11/world/asia/china-us-trump-ceos.html",
-          "source": "Daybook: International Events",
-          "sourceId": "daybook_intl",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Wed, 11 Mar 2026 11:06:58 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1xZm9WaDdxWW5EQ0hvZGlZQWhnNWRoRUpBT0prVWF1aU5LMW5uSEtIQmZ2dFNJX0JnRUgxaERBZUlyTEg0d3RUVmMyVGNBZWQ3ckVqZHFHSXY2X2dfXzl3RjJxTC1IVHpPUEpmNFZ"
         },
         {
           "headline": "Ukraine updates: G7 rules out easing sanctions on Russia - dw.com",
@@ -3054,14 +3000,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9CUkpmeTQ2cXhkMVBKYVpjUGo5R0xKajlYblJjMWRKQ2RHYmtrT0lQMWp2M3U1SXlweElSdTA4TW9hU21nSjNsNk51WWhPYjR6NERnVTE2OFZXaUk4bHBOaHlBZVdRelFocVBfYk9"
         },
         {
-          "headline": "Statement by the G7 Presidency. - elysee.fr",
-          "url": "https://www.elysee.fr/en/emmanuel-macron/2026/03/11/statement-by-the-g7-presidency",
+          "headline": "Trump-Xi China summit may be delayed if Trump wants to stay in Washington for Iran war: Bessent - CNBC",
+          "url": "https://www.cnbc.com/2026/03/16/bessent-trump-xi-china-iran-war.html",
           "source": "Daybook: International Events",
           "sourceId": "daybook_intl",
           "category": "daybook",
           "priority": "reference",
-          "date": "Thu, 12 Mar 2026 08:10:52 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxONXZ6bUJCN2xHb09KaWVaQ0czaHlqRFpRMlNKZzJia2pVazVjSXpabXBpdTJ3NHlCd1pLbThlYVc1WEp6NENqZy1sSGxjaE1CT29haTFMWWxsNVBydzNsN3RGVXFMT1NKX3pwakR"
+          "date": "Mon, 16 Mar 2026 11:39:15 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1CNTNBbVhqTVNuWml3UFZ1T2ZqTnlibkNxWkdnbnp1ejhsb2VuYVJabGFMbzcxd1lFcVN6cXRMS0kxLWh1cDk1eExrR2ZGcDJvMGRocmQ5Vi1vWjMwTmwtWl9FR0JOb0xEQkYtZHI"
         },
         {
           "headline": "Trump-Xi summit delayed as U.S. president pushes China to help open Hormuz - The Washington Post",
@@ -3072,16 +3018,6 @@
           "priority": "reference",
           "date": "Tue, 17 Mar 2026 05:09:26 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbDM1cFRzVTdadVJiZnpWNE9MRzlnUkpvWVc4Zm5DRnZMdjVnUzRUTTNqSHdpSDBjSVBIUzVRMEhtNXZ4M0NqdFhrZ0NHU2tDTWRqazZoZnI4bW5tWnE1Wmd1OERjRHFKRmdUa3V"
-        },
-        {
-          "headline": "Trump signals possible delay to Beijing summit as U.S. pressures China to help reopen Strait of Hormuz - CNBC",
-          "url": "https://www.cnbc.com/2026/03/16/trump-possible-delay-beijing-summit-china-iran-strait-of-hormuz-.html",
-          "source": "Daybook: International Events",
-          "sourceId": "daybook_intl",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Mon, 16 Mar 2026 01:29:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPOERKdmtBSDFBV3Jlc0ZfMjJPU2ZoSllsMnAyU2lPQ3d6dnkwTEJtV1BMQTdGVVJrdm9NZGJ1VUtxMzZZdWJMRXVEYk1pcFB3S2dCc3RQdEk5c2pPQUI4UXZQbF91ZUtUTzFUa0x"
         },
         {
           "headline": "6 takeaways from our “Growing Up in the Digital Age” Summit - blog.google",
@@ -3104,6 +3040,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9pUnN3WVJRdU15T0NNWVQzdUFTaFlxS0hsb1J0QWdLX1NXbEs0cFhMcTkzWnBLazY0Z3ZMNTBIMnIwRUZLc2Jkc3BEYnlVNzNzRWRaQjNMY2tGZGg1cHNwS0h1TUhDTXR3QVppdXB"
         },
         {
+          "headline": "China is Tight-Lipped on Trump’s Request to Delay His Xi Summit - The New York Times",
+          "url": "https://www.nytimes.com/2026/03/17/world/middleeast/trump-xi-china-summit.html",
+          "source": "Daybook: International Events",
+          "sourceId": "daybook_intl",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Tue, 17 Mar 2026 09:22:22 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPNjRySV9XMU91TUlLUnhmUGp1Q29hWnEwelNrektzdDBfRVFUZzM1emUzOFJVYjRpV3NjUVZlR0xkNHVQdFUwa2c5OFNhMFlYOUloVloxcE5YQ3Jxc0pjaDJCWnZSNURkcjNfZGJ"
+        },
+        {
           "headline": "Summit County Coroner identifies man killed in vehicle fire near Dillon Valley - SummitDaily.com",
           "url": "https://www.summitdaily.com/news/summit-county-coroner-identifies-man-killed-in-vehicle-fire-near-dillon-valley/",
           "source": "Daybook: International Events",
@@ -3112,6 +3058,36 @@
           "priority": "reference",
           "date": "Fri, 13 Mar 2026 23:17:54 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNWVBGRGlTaUpUQUxxbzVnTzF0WFczOXg1OENTT0R2bmtyeGdMTk9kVkNVcmRvT1hVYU1ENUJ5V1pTckw0Q0F1NE9SYkh0Zjh0dXFGTEFCV1NVcl9uTS1wTm00Qk9ILTEwRFZJeUx"
+        },
+        {
+          "headline": "Trump's summit delay casts pall over US-China trade truce - Reuters",
+          "url": "https://www.reuters.com/world/china/trumps-summit-delay-casts-pall-over-us-china-trade-truce-2026-03-17/",
+          "source": "Daybook: International Events",
+          "sourceId": "daybook_intl",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Tue, 17 Mar 2026 07:10:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQX2pHMVJYY2pieURiREZOX29FUktfaDBQWHVsRW5Wa0xjQ1VpNXE1Q1V5TXR4X1ZrOFlfRkxDSEwzQ0x5SFF3RVZpRG84aUR0bTdtNDY3UFdxSnAtTWkyRXQzT2o4UXBFaHB6QXU"
+        },
+        {
+          "headline": "Summit City Business Academy - City of Fort Wayne (.gov)",
+          "url": "https://www.cityoffortwayne.in.gov/428/Summit-City-Business-Academy",
+          "source": "Daybook: International Events",
+          "sourceId": "daybook_intl",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Sat, 14 Mar 2026 02:50:42 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9KSWlVcGJDREc2dmFka2JvSi1hdFluWWhSOFZ6a2QxY2JkREM3azVIMHo4Z2dfLUROSUpSdk9ZNmhnLWZyLXlIY1NvSWV2bFVWc01LVTYtZXFmenpyTWs2ekU3clpRejRPYnNVZkd"
+        },
+        {
+          "headline": "Registration open for fifth Michigan Veterans Leadership Summit - State of Michigan (.gov)",
+          "url": "https://www.michigan.gov/mvaa/news/2026/03/17/registration-open-for-fifth-michigan-veterans-leadership-summit",
+          "source": "Daybook: International Events",
+          "sourceId": "daybook_intl",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Tue, 17 Mar 2026 17:06:36 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOdkh0dG1iRjhzUUxmdy1XYlRrWmxjMWc2a2FhWlFHWU9OX3ZiU2kwMzNUMjN1QzhTSDFwd2lVcDkwNU5nTTMtd3BDUWVkOGlSQ2FDa2hsbzFobXBJOGk4b3BLQ1p5TzVhc1RZRkN"
         },
         {
           "headline": "Embedded | 2026 Trade Deadline - NHL.com",
@@ -3164,6 +3140,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOTVNINzFPb096Ynk4c0lQVFdkeC1EOGg1MTZodXhPTnNwLUFsd2JkMGxhUUlZaFNmR3dORm1OenBveENyQnBqaEZoYjJudDFHUzFMVFBzMEd3dEFUN1pKODBSajM3Q2EzNW1JY08"
         },
         {
+          "headline": "‘It was a real happy day for us’ | Bandits GM Steve Dietrich talks trade deadline deals - Buffalo Bandits",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUTdDN3pUcVRtNXhMZVA5a2Fjd0FVc0U4NUIzdndwZGpob095NkgtYUVYdTB4RzFwYkJBYlQwWEdpMXJLcFBuWFhfRElzaWk0alJZS2t6MG03NUVxTEhHTGMxZ0RJamxjblUxZUhiOG5xdHJsV3NqQ1RVVWYwVktRamt0bmFVTVI4SHMyZmlSRVZhRlhpOXNGakNEbTFJR3ZENnB1WF9yUQ?oc=5",
+          "source": "Daybook: Economic Calendar",
+          "sourceId": "daybook_econ",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Wed, 11 Mar 2026 23:54:25 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNUTdDN3pUcVRtNXhMZVA5a2Fjd0FVc0U4NUIzdndwZGpob095NkgtYUVYdTB4RzFwYkJBYlQwWEdpMXJLcFBuWFhfRElzaWk0alJZS2t6MG03NUVxTEhHTGMxZ0RJamxjblUxZUh"
+        },
+        {
           "headline": "NHL 2025-26 season predictions 3.0: How did the trade deadline impact our picks? - The Athletic - The New York Times",
           "url": "https://www.nytimes.com/athletic/7116375/2026/03/14/nhl-2025-26-season-predictions-trade-deadline/",
           "source": "Daybook: Economic Calendar",
@@ -3174,14 +3160,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPUDVZdkdsTmhWRnEzUmdFYWhHMHVaZjctcndNQi1qN1NpaEcwRUJ6dU84Ui02MmJ0dG83ZzNnbFdYeF84MU9Xeks5cTE2NnJBMXR2bENfcTMzV0FDS0R1V0ZzSTU4LUNfSHdCQzI"
         },
         {
-          "headline": "Why a mortgage rate lock before the March Fed meeting makes sense - CBS News",
-          "url": "https://www.cbsnews.com/news/why-mortgage-rate-lock-before-march-2026-fed-meeting-makes-sense/",
+          "headline": "Rangers finding success post NHL trade deadline behind new-look top line - SNY",
+          "url": "https://sny.tv/articles/rangers-finding-success-post-nhl-trade-deadline-new-top-line",
           "source": "Daybook: Economic Calendar",
           "sourceId": "daybook_econ",
           "category": "daybook",
           "priority": "reference",
-          "date": "Fri, 13 Mar 2026 13:21:10 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOVE9sT2RHOENmbjZRa09EVU4tVk0wb3hiMU9ucS12d3FXLThnY0VXM1J2VzlYQkstanRUUVdpelQxVWhhbzgtQnRIeW55djduMHFVMXVyVFRjZWtDdzZJeUJqWERkY1Q5bTFmYU9"
+          "date": "Wed, 11 Mar 2026 21:41:57 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNcmdtSmc2WHRNVVlDTnN0cDBaRU51TDUzY1dXaDBQSHpQcVVDOW9ZbW5kaGlETHFTRlozUGtKUWJzdEZHYi1SMEpKcEN5cTRQTTkxc1Q5S3E0UFFXMXp2a0NiOW41SEFZRHdfbk5"
         },
         {
           "headline": "MAMMOTH MONTHLY: Bill Armstrong Trade Deadline - NHL.com",
@@ -3224,8 +3210,18 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE12RzhMYl9yY293WFNOMS04R3R4RjBvWnFUWTVZSmw3cmkyMWVoUzlUQWpsWHUtVmdFRm9ONC15WEszdHNYbDBQWExWbHc2aF9TOEVsNjRVcXNyTGJCZmROSUFYM05GbExCdWZFSGN"
         },
         {
+          "headline": "Wild on 7th - Episode 136: Trade Deadline Recap - NHL.com",
+          "url": "https://www.nhl.com/wild/news/wild-on-7th-episode-136-trade-deadline-recap",
+          "source": "Daybook: Economic Calendar",
+          "sourceId": "daybook_econ",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Wed, 11 Mar 2026 23:02:31 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9JQXg2T0plWDlIOUQweVJfZEhRWnRtLWdab3lPbk1WNmdxQjBsWHlkOFEtRVhGcFduYi1Ic2ZhcTI5Q1JVaVFlSVVCNDR4bG9yb3hVMG1fT2lNcy1Rd0pvSTZLZ0QwbUkzMTNNbzl"
+        },
+        {
           "headline": "Gold price today, Tuesday, March 17: Gold opens higher ahead of Fed meeting - Yahoo Finance",
-          "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-tuesday-march-17-gold-opens-higher-ahead-of-fed-meeting-110052581.html",
+          "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-march-18-gold-remains-steady-ahead-of-fed-press-conference-110052646.html",
           "source": "Daybook: Economic Calendar",
           "sourceId": "daybook_econ",
           "category": "daybook",
@@ -3234,34 +3230,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcV8tVkpaTDRfSTVvLUNMeTRnX2lRWk9ycC00SVJEQ1d1RXh3ckdSS1pJUzdUTjhid29sS1N5QjZKMWhoRTYxUUtZdUJKVjVaRHUtYU1XaWVFZlRtUVpXMHlISHBTQTBWaFFzUTh"
         },
         {
-          "headline": "Bitcoin Price Rises. What the Fed Meeting Means for Cryptos. - Barron's",
-          "url": "https://www.barrons.com/articles/bitcoin-price-fed-cryptos-xrp-ethereum-eabec824?gaa_at=eafs&gaa_n=AWEtsqeQUkM2XO8ic6WW67owGEziLxCBCSRN8c6sjJrlyVPY0KQXtGu-SMG8&gaa_ts=69ba8278&gaa_sig=C4QhBHxVbs1wMX_LvDQ3BbjgfX-AYTiNLtZvxIX-WyA1kCckq9qmGM8lDo1zEwU2dKfS013USPlm0pNUlmwNKQ%3D%3D",
+          "headline": "Principal Financial (PFG) Down 4.2% Since Last Earnings Report: Can It Rebound? - Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/principal-financial-pfg-down-4-153005132.html",
           "source": "Daybook: Economic Calendar",
           "sourceId": "daybook_econ",
           "category": "daybook",
           "priority": "reference",
-          "date": "Tue, 17 Mar 2026 11:41:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijANBVV95cUxNNEZhckdmSUhrbWV2X0M2UWE2a2ZlS0dNUHdQaU1Wc1JDOHBwazBJVFFJYzVrdzNIUnF2UVVkNmlRcFd5NzhaaWNUWjI4c0ZMRE5NQTRkbm14RGh2STk2RXdtaExjTjhhZ2ZsVEp"
-        },
-        {
-          "headline": "The Hawks are rising in the East after making trade-deadline splash. How high can they go? - Yahoo Sports",
-          "url": "https://sports.yahoo.com/nba/article/the-hawks-are-rising-in-the-east-after-making-trade-deadline-splash-how-high-can-they-go-213226272.html",
-          "source": "Daybook: Economic Calendar",
-          "sourceId": "daybook_econ",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Tue, 17 Mar 2026 21:32:26 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaVpEdEtkeGpaQ2d2amo2cmc3amlkWVVwRHplZFFBYXZnUHFNLXBuMFhGS3pVV3YyTVVNUTJwbGpIa1VQZ1FJdEh2Q0swblItdjhHZHNwLTRCT3pEbjY0em9NajhCTEJfV2tZbkZ"
-        },
-        {
-          "headline": "A critical Fed meeting, $100 oil, and Micron earnings: What to watch this week - Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/a-critical-fed-meeting-100-oil-and-micron-earnings-what-to-watch-this-week-113002550.html",
-          "source": "Daybook: Economic Calendar",
-          "sourceId": "daybook_econ",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Sun, 15 Mar 2026 19:54:12 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOODV2Mmlyd2FsWjBPRWdpdi1ILXN6NWZqYWlNd3MtZFgtLUZaMTB5VGpxNXViMVhNbmg1clNHaUd4MWRwMzdDVW0zSFpZVGFSNi1XcEdURGQxNmp2QVlYNXVJNVhVd2x0dHNHMTR"
+          "date": "Wed, 11 Mar 2026 15:30:05 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPb3hLdmlfNVFJX3hrM0dhWUhsWkxiMzhOQmg0VkYyV1hSYTl5NTJaMDVSYVNkS0FaRXlFcXlWdk5ycXBsemZtQU9hbURVN1F3ZkN5LWVJRWtrR0ctNzl2Ym5LdVoyU002M0xmVXk"
         },
         {
           "headline": "Robert Pattinson Teases ‘The Batman Part II’ Is “Taking Some Big Swings” - Deadline",
@@ -3272,6 +3248,16 @@
           "priority": "reference",
           "date": "Wed, 18 Mar 2026 03:33:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNF8tSEZnRGJCRG8yVU1UNFFJemNwYW04dGJsN2lfZ2FmTU1HLWZVb0RTTHd1dDNRSXRkSEJZejdKbEhvdVFTenI1QUw0TmlZN1lJNW5kdXl5dHJBUWZfNXpFRFN5Sm9lMUNEZFh"
+        },
+        {
+          "headline": "San Antonio to host Deadline on Saturday, December 6 - WWE",
+          "url": "https://www.wwe.com/article/san-antonio-to-host-deadline-on-saturday-december-6",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Wed, 18 Mar 2026 02:47:39 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQZHctYmVYa0pEUnl3bFlFNXhWcG5oZmF1aHFRR3FKUzgzczl1ME5zdzAtUXZiakRkV1JKU0NzdXFnUEpGYkttcTU4RkRZdWdtS0pJZTBuRm1GNzExYTh5d01SdGxXVkJkbVlXRDh"
         },
         {
           "headline": "Texas Republicans' Senate runoff moves forward as withdrawal deadline passes - NBC News",
@@ -3294,16 +3280,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa3k0STk5VkhFNzhnaENfOXFVYnJZNW5YZzA4cUxtMmpsa01vdlhVa08tZWEwaWlqc3ZMekg0UnNkNm1BN2JRSFUySTR6MG9ybklWWmFZMkhUTHpvVzBadjN0MlZkRHlWbEg4YTR"
         },
         {
-          "headline": "Texas runoff for GOP Senate nominee heats up after Trump misses dropout deadline - FOX 26 Houston",
-          "url": "https://www.fox26houston.com/news/trump-misses-deadline-nominate-texas-republican-nominee-us-senate",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Wed, 18 Mar 2026 02:23:39 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPYmpDNTBXSmF6Z0FxRkE2V3ZsWklYdEtkTjl1bTlfdmVESDNoZmxXaGxUQTZnZVJpOXhlZUN5ZHJ0NU5hN0Mxd3BKenB2XzI3bEllUTRjMTcxWlE0NlRLdm1LOWlwSTJHNDBGMWd"
-        },
-        {
           "headline": "No Trump Endorsement for Cornyn or Paxton in Texas Senate Race as Deadline Passes - The New York Times",
           "url": "https://www.nytimes.com/2026/03/17/us/politics/texas-senate-trump-cornyn-paxton.html",
           "source": "Daybook: Scheduled Events",
@@ -3312,6 +3288,16 @@
           "priority": "reference",
           "date": "Tue, 17 Mar 2026 23:38:06 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQS0d1LWtKLWdrZU5faUw0OE94LUhGZkFEVGdnaDVJMFRqZXd2N09naVhHUVI4YXVuVG55bGxCaGtaeDdvVHRfZUZVXzVqdE82YjRjOWViajNDWUVIM0NDR0R0RVpqTlpkSDdPVE5"
+        },
+        {
+          "headline": "Texas runoff for GOP Senate nominee heats up after Trump misses dropout deadline - FOX 26 Houston",
+          "url": "https://www.fox26houston.com/news/trump-misses-deadline-nominate-texas-republican-nominee-us-senate",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Wed, 18 Mar 2026 02:23:39 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPYmpDNTBXSmF6Z0FxRkE2V3ZsWklYdEtkTjl1bTlfdmVESDNoZmxXaGxUQTZnZVJpOXhlZUN5ZHJ0NU5hN0Mxd3BKenB2XzI3bEllUTRjMTcxWlE0NlRLdm1LOWlwSTJHNDBGMWd"
         },
         {
           "headline": "Trump said he wanted one of the Texas Senate candidates to drop out. Now he’s missed the deadline - CNN",
@@ -3324,16 +3310,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOb0Foc19aUGxneEswSmUtRi1LYWFrSk9wdEdzREdERGlPLUtBUWlOV0Qwd3VQOTNUXzJCZUZZRTM1aW9ia04yNlVjNUlpc0d5MDYtZi1zS0tRRWliQ1BQY2hVaHF0UFRxeWpsaXh"
         },
         {
-          "headline": "College Council discusses deadline for accessible-friendly online services - El Camino College The Union",
-          "url": "https://eccunion.com/news/2026/03/17/college-council-discusses-deadline-for-accessible-friendly-online-services/",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Wed, 18 Mar 2026 05:34:28 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPQTN6SExMb09GZjFWWHd0S1VHM2REUFJJcnBWWTNsaWpzenc0MzlPaWZ1MDJuU2tVUW1tbWV4Y2c5RU9LNE5Cc3NqV3B2aF8tQzc1T1pJYkcybXN3VTROTXFxQkJvNWxpM3NRdUd"
-        },
-        {
           "headline": "Judge extends Texas school voucher deadline after lawsuits over exclusion of Islamic schools from TEFA program - CBS News",
           "url": "https://www.cbsnews.com/texas/news/federal-judge-texas-extend-deadline-texas-education-freedom-accounts-lawsuit-islamic-schools/",
           "source": "Daybook: Scheduled Events",
@@ -3344,14 +3320,24 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNcjRFYUZVbHF1Yl9KazV2NzVXMy1wNTdwcjNEc2Q1eGlzUExNWjU0TUNOVEk1ajVpSjBnZVVmQ1o1N0RNOGktemFuWWxZZXQxb0tlUm1EQnF1dHlkVTA2dUI5VW5IZVlqeW0yNWJ"
         },
         {
-          "headline": "Churchill Downs faces $2.4 million deadline for unpaid horse racing fees - WDRB",
-          "url": "https://www.wdrb.com/sports/churchill-downs-faces-2-4-million-deadline-for-unpaid-horse-racing-fees/article_9a70ceba-d28a-42af-b84c-77e6e977a40a.html",
+          "headline": "College Council discusses deadline for accessible-friendly online services - El Camino College The Union",
+          "url": "https://eccunion.com/news/2026/03/17/college-council-discusses-deadline-for-accessible-friendly-online-services/",
           "source": "Daybook: Scheduled Events",
           "sourceId": "daybook_scheduled",
           "category": "daybook",
           "priority": "reference",
-          "date": "Wed, 18 Mar 2026 09:06:02 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRVZvVElvTE1RWWRzMnBSTzBhU3hTdjl0SmpEN1VuX0NxYVAwQ1VnYmdxVm93bGhPaVZTaUZHdXBDNWxKYUpoNWFERXQ5M2xRYVFCSHFNdGYtMG5FaU1nOHROOU91WllzRHFqRWl"
+          "date": "Wed, 18 Mar 2026 05:34:28 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPQTN6SExMb09GZjFWWHd0S1VHM2REUFJJcnBWWTNsaWpzenc0MzlPaWZ1MDJuU2tVUW1tbWV4Y2c5RU9LNE5Cc3NqV3B2aF8tQzc1T1pJYkcybXN3VTROTXFxQkJvNWxpM3NRdUd"
+        },
+        {
+          "headline": "TEFA program application deadline extended following lawsuits - KBTX News 3",
+          "url": "https://www.kbtx.com/2026/03/18/tefa-program-application-deadline-extended-following-lawsuits/",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Wed, 18 Mar 2026 03:43:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPdWRXdXZqdjNPY1FrazgyTnJ0VGVvRUliTnhxNHJoMV9fY01jeHo0SVp4MlFld3hQOGUweG1WUlRSMzFTb2tCTGs2bGlrU0JwQWZXTTRzRE5EbzVWU19zT2xEeGgyeDVDdmM3S3k"
         },
         {
           "headline": "Tuesday is the deadline for candidates to get off the Texas Senate GOP runoff ballot - KERA News",
@@ -3362,16 +3348,6 @@
           "priority": "reference",
           "date": "Tue, 17 Mar 2026 19:53:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxONzhucVNlRzEtY3RReEZtcDlWc3ZCUmJnQWk0MzREWjREZnNQVV9QbkJfMzNkTzlDX295UVRPWTl0Ql9wNVk4UjdScGJYSEtjbFhkLUJQbVRsTGlOejd1b3pYdkx1TFhfd3JUUGt"
-        },
-        {
-          "headline": "Deadline approaching to change party affiliation: What you need to know before Utah’s primary elections - ABC4 Utah",
-          "url": "https://www.abc4.com/news/politics/party-affiliation-primary-elections-what-to-know/",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Wed, 18 Mar 2026 04:52:36 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOblJKSTVOejd3WXhOMjA5ajFONEdBTG1pTjk2ZGVzaWNtbkRvdkY0UlJhNUhvc0NuNHdEMk1fYnY2R25MdUdkMWhuOWI5UWdWNU9zamlaNGdfVmIyODZLOVZrd1BIN082UlBZVlJ"
         },
         {
           "headline": "Jesse Williams Joins Season 5 Of Apple TV’s ‘The Morning Show’ - Deadline",
@@ -3404,14 +3380,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBqR1prcXdSaFYyaXVtc21uV281M1VrWUZTR2RlVGNndHFzbmtUdWVabUM2UlJkc2xpR3J0OGI0OUE0eDQtUjZ0cnR6T3BzWkFxU2x3aHN6RFJxcEM3X3VBV1lJWFNtZlc1ZnRBYzE"
         },
         {
-          "headline": "'Dune: Part 3' Details Zendaya, Anya Taylor-Joy, Robert Pattinson - Deadline",
-          "url": "https://deadline.com/2026/03/dune-part-3-plot-details-zendaya-anya-taylor-joy-1236757421/",
+          "headline": "'The Lincoln Lawyer' Season 5 Begins Production; Casting &amp; Plot Drop - Deadline",
+          "url": "https://deadline.com/2026/03/the-lincoln-lawyer-production-season-5-plot-casting-1236757148/",
           "source": "Daybook: Scheduled Events",
           "sourceId": "daybook_scheduled",
           "category": "daybook",
           "priority": "reference",
-          "date": "Tue, 17 Mar 2026 16:30:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQNTRkdFVZdDBrWjZ3a0RNb0FRQTU5MjZhamRMcVJWa3B2eTA5TlV3SjNLNm00WGtfRlJLcDRwX3pTdTJSN3paSUp4cmFQeDBZa3VhQTFwYzNiTGR4YVBEUGFfY05XOC12Q1o2R0x"
+          "date": "Tue, 17 Mar 2026 18:00:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOOXNiRUhGZVd4MkVCRUNPLV9ORHVpa1NaaG1yajFJRmVORnllWS1sZ25JTEpYOEFZbk1rdk52aTJpNWZ3YWRlY3dRbE1RWUV4eDVCdTNxU0UwTDJWREF0LWNMb3hySk5SaXJYSXV"
         }
       ]
     },
@@ -3518,6 +3494,16 @@
           "description": ""
         },
         {
+          "headline": "Israel says Iranian Intelligence Minister Khatib killed overnight - Reuters",
+          "url": "https://www.reuters.com/world/middle-east/israel-says-iranian-intelligence-minister-khatib-killed-overnight-2026-03-18/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Wed, 18 Mar 2026 10:25:46 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQODlIdWJGQzZNYUUyVUVKMG9OY3VySkdxSlRXSmpjSjFjNk9NRlcyTFYxMXBzbmdFSE5KT1J6RUNUelo3cGdGbHRnSU9fWENUYWNDSmZpU0lYZmxuMkEzVk00enZnNlp4MGNQbnh"
+        },
+        {
           "headline": "Turkey says NATO deploying more defences to guard southern base - Reuters",
           "url": "https://www.reuters.com/business/aerospace-defense/turkey-says-nato-deploying-more-defences-guard-southern-base-2026-03-18/",
           "source": "Reuters",
@@ -3548,6 +3534,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOZlZURTgxemtBSmxXSmJuSWh1TGZ1dFRSWGozNVJsMHE3QkFBa3ZRQzZnMjhZV3dMNjVMcWRRTVRaQ1ZRY0FrT2xxRVFLc0hXN1J3YnpPWUoyQjNWYUU2VVk4U0d5cEoyYVV2elh"
         },
         {
+          "headline": "Iran says nuclear doctrine unlikely to change, Hormuz Strait needs new protocol - Reuters",
+          "url": "https://www.reuters.com/world/middle-east/irans-nuclear-doctrine-not-likely-change-foreign-minister-says-2026-03-18/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Wed, 18 Mar 2026 06:45:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPTGxiLTMyTWQ4YVkzc2REZXZiZ2UxUVg4MUJ5d21ObzZZUFNLNE5iVnJKazBYR1JJeFJoa0FzZG91NGJaeGJfYnZzMTRpR3RfVGxVNjFFZUNjRkNSVDdpbW9ROHJLTGFGb2dpdWF"
+        },
+        {
           "headline": "Chinese university tells students to 'fall in love' during spring break - Reuters",
           "url": "https://www.reuters.com/world/asia-pacific/chinese-university-tells-students-fall-love-during-spring-break-2026-03-18/",
           "source": "Reuters",
@@ -3556,16 +3552,6 @@
           "priority": "primary",
           "date": "Wed, 18 Mar 2026 06:43:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxORGNHd0VIQ0pVeEJLWXl1NEN4SGZYTTlGVlNIZG9wZDJEMVkwbVVsZjhHTTdic1VoR3BobHcwZmtYZGl4RnBZVlpIY3pqYm80LXZqODhDZXNWVWhVVUJWaUZFT2VVc2dwcTBYSWo"
-        },
-        {
-          "headline": "Iran says nuclear doctrine unlikely to change, Hormuz Strait needs new protocol - Reuters",
-          "url": "https://www.reuters.com/world/middle-east/irans-nuclear-doctrine-not-likely-change-foreign-minister-says-2026-03-18/",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Wed, 18 Mar 2026 06:45:36 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPTGxiLTMyTWQ4YVkzc2REZXZiZ2UxUVg4MUJ5d21ObzZZUFNLNE5iVnJKazBYR1JJeFJoa0FzZG91NGJaeGJfYnZzMTRpR3RfVGxVNjFFZUNjRkNSVDdpbW9ROHJLTGFGb2dpdWF"
         },
         {
           "headline": "Alibaba's AI strategy shift comes into focus with big bets on agents - Reuters",
@@ -3594,7 +3580,7 @@
           "sourceId": "reuters_world",
           "category": "wire",
           "priority": "primary",
-          "date": "Wed, 18 Mar 2026 05:46:35 GMT",
+          "date": "Wed, 18 Mar 2026 05:46:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVnpxUFNuZC0xdWNyMVB4Wk15cmtSczByRU5PVVdGVkR0M3hLb3Q2dWZOMWltY3Q1eURQeXk3SllqWnlySjFra0ZmWEY1Tjg2Znd4UWRJM1AxTXZtanVieUl0QXc1UkJZRjFNRDJ"
         },
         {
@@ -3634,8 +3620,18 @@
           "sourceId": "reuters_world",
           "category": "wire",
           "priority": "primary",
-          "date": "Wed, 18 Mar 2026 04:25:58 GMT",
+          "date": "Wed, 18 Mar 2026 04:25:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNRnpXQWpEV1pRTXJYb2hjcy1hMHAwNVlxMHE0b2JDM0F2cGVkeFdtUDFUeEd3TVp0M3lDcHpmNnNtVUp3bUFHbXNDM2w5azlsb3liVXNUc0dKTzVoUGloVjctaTZHQkluU3BPaTJ"
+        },
+        {
+          "headline": "Fed likely to hold rates steady as Iran war shocks policy debate - Reuters",
+          "url": "https://www.reuters.com/business/fed-likely-hold-rates-steady-iran-war-shocks-policy-debate-2026-03-18/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Wed, 18 Mar 2026 05:05:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPeGFJZ2Nzck85cDFZYW9yY3g3SjNQd1dXdDlwZ3pKbGRPdUVSbXJ6RXZlV283aFpLdXhmWlRTX2RmODZwU2dqOFJwQW51Vkl4TFo0bzVyclVDcnd4WVcxNnBLMnhlYXBGaFd6U0d"
         },
         {
           "headline": "Iran executes man accused of spying for Israel, Mizan reports - Reuters",
@@ -3646,26 +3642,6 @@
           "priority": "primary",
           "date": "Wed, 18 Mar 2026 03:58:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVmJKaTliaUtKaG1vNXNuSkI0THZiT3BLdkxjMGNRMUkybTE5bFZiVGlGN3JxU3Ezb0RWNkMyaXhRM1huUlplUE1lUG5NU2UxdFZab01FMmVma2N3LU1oMHMzeFZBay1lSWVmTjR"
-        },
-        {
-          "headline": "A mystery AI model has developers buzzing: Is this DeepSeek's latest blockbuster? - Reuters",
-          "url": "https://www.reuters.com/business/media-telecom/mystery-ai-model-has-developers-buzzing-is-this-deepseeks-latest-blockbuster-2026-03-18/",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Wed, 18 Mar 2026 03:08:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNclBvcWpScEJkOUV5UXVrakVPTm00WHU0S1N1bkEzQ2NtLUNqQ0pwaTB5eWgxaXpHbDdfQ1Fsdzk1RG1EVkFCdkdFdHN2VWVqaklJQTFWeEYxUHRYc1dxNjh1dkdEcThielUtWWd"
-        },
-        {
-          "headline": "Oil falls after Iraq resumes oil exports via Turkey's Ceyhan port - Reuters",
-          "url": "https://www.reuters.com/business/energy/oil-prices-drop-us-crude-inventories-show-an-increase-2026-03-18/",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Wed, 18 Mar 2026 01:16:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxORnYzRWV4NHlwbUZucllJaWUxYXVxb2hDSjZhSVZDWFJjLVhfYTd6aUk1d2pneE1YNDdxSDlSRm9jWFRVaXJYQUIwOUxIdHpBYmRDZEJhRVJ5Vy02ZzlBNEJTX1dzbkFJa284QTZ"
         },
         {
           "headline": "Total repression and air strikes bring unrelenting dread for Iranians",
@@ -4032,7 +4008,7 @@
           "description": "Continued closure of the Strait of Hormuz threatens the movement of gas and fertilisers as well as oil"
         },
         {
-          "headline": "Trump’s Iran strikes blow open divisions in Maga base",
+          "headline": "Iran strikes blow open divisions in Maga base",
           "url": "https://www.ft.com/content/957e4ae5-9e03-4f62-948b-8e7663b0117d",
           "source": "Financial Times",
           "sourceId": "ft_home",
@@ -4270,7 +4246,7 @@
           "sourceId": "nyt_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Wed, 18 Mar 2026 08:57:44 +0000",
+          "date": "Wed, 18 Mar 2026 10:54:11 +0000",
           "description": "Iranian state media confirmed the killings of Ali Larijani, who had served as Iran’s de facto leader recently, and a militia commander late Tuesday. Airstrikes rocked the Lebanese capital early Wednes"
         },
         {
@@ -4411,14 +4387,14 @@
           "description": "The weeklong fight over Iran’s next leader pitted the Revolutionary Guards against moderates. The generals won, but only over spirited resistance."
         },
         {
-          "headline": "He Lost a Leg for Russia. Then, He Says, His Country Betrayed Him.",
-          "url": "https://www.nytimes.com/2026/03/18/world/europe/russia-ukraine-prisoner-benefits.html",
+          "headline": "Israel Intensifies Strikes on Beirut, Escalating Its Campaign Against Hezbollah",
+          "url": "https://www.nytimes.com/2026/03/18/world/middleeast/israel-strikes-beirut-lebanon-hezbollah.html",
           "source": "New York Times",
           "sourceId": "nyt_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Wed, 18 Mar 2026 09:23:27 +0000",
-          "description": "Imprisoned for murder, Aleksandr Abbasov-Derskhan sought a new start in life and freedom by signing up to fight in Ukraine. But he says promised benefits proved illusory."
+          "date": "Wed, 18 Mar 2026 10:54:42 +0000",
+          "description": "The Israeli military widened its attacks to the districts in the center of the Lebanese capital, destroying buildings, forcing residents to flee and killing at least 10."
         },
         {
           "headline": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
@@ -4571,6 +4547,66 @@
           "description": "Check out the stocks Heard on the Street writers favor in their eighth annual stock-picking contest."
         },
         {
+          "headline": "Israel says it killed Iran intel minister in third assassination in 2 days",
+          "url": "https://www.aljazeera.com/news/2026/3/18/israel-says-it-killed-iran-intel-minister-in-third-assassination-in-2-days?traffic_source=rss",
+          "source": "Al Jazeera",
+          "sourceId": "aljazeera",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Wed, 18 Mar 2026 10:33:12 +0000",
+          "description": "If the death of Esmaeil Khatib is confirmed, it would be the third major high-profile assassination in successive days."
+        },
+        {
+          "headline": "Senegal to appeal decision to award AFCON title to Morocco",
+          "url": "https://www.aljazeera.com/sports/2026/3/18/senegal-to-appeal-decision-to-award-afcon-title-to-morocco?traffic_source=rss",
+          "source": "Al Jazeera",
+          "sourceId": "aljazeera",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Wed, 18 Mar 2026 10:25:44 +0000",
+          "description": "Morocco were awarded the 2025 AFCON title following an appeal to CAF regarding Senegal&#039;s walk-off protest in final."
+        },
+        {
+          "headline": "Iranian diaspora celebrates Persian festival wrapped in US, Israeli flags",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/18/iranian-diaspora-celebrates-persian-festival-wrapped-in-us-israeli-flags?traffic_source=rss",
+          "source": "Al Jazeera",
+          "sourceId": "aljazeera",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Wed, 18 Mar 2026 10:22:55 +0000",
+          "description": "Dancing on a beach in Barcelona, members of the Iranian diaspora celebrated the Persian festival of Chaharshanbe Suri."
+        },
+        {
+          "headline": "Colombian president says Gaza was an ‘experiment’ for wider destruction",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/18/colombian-president-says-gaza-was-an-experiment-for-wider-destruction?traffic_source=rss",
+          "source": "Al Jazeera",
+          "sourceId": "aljazeera",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Wed, 18 Mar 2026 10:20:51 +0000",
+          "description": "Colombian President Gustavo Petro says the war in Gaza was an “experiment” designed to intimidate the Global South."
+        },
+        {
+          "headline": "Rama in Lebanon",
+          "url": "https://www.aljazeera.com/video/on-the-ground/2026/3/18/rama-in-lebanon?traffic_source=rss",
+          "source": "Al Jazeera",
+          "sourceId": "aljazeera",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Wed, 18 Mar 2026 10:17:20 +0000",
+          "description": "A video diary for Al Jazeera"
+        },
+        {
+          "headline": "The Kent warning: When truth escapes the war machine",
+          "url": "https://www.aljazeera.com/opinions/2026/3/18/the-kent-warning-when-truth-escapes-the-war-machine?traffic_source=rss",
+          "source": "Al Jazeera",
+          "sourceId": "aljazeera",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Wed, 18 Mar 2026 10:12:59 +0000",
+          "description": "A US counterterrorism official’s resignation raises uncomfortable questions about a war few are willing to challenge"
+        },
+        {
           "headline": "‘US and Israel have taken majority of Iran’s ballistic missile capability’",
           "url": "https://www.aljazeera.com/video/quotable/2026/3/18/us-and-israel-have-taken-majority-of-irans-ballistic-missile-capability?traffic_source=rss",
           "source": "Al Jazeera",
@@ -4661,71 +4697,34 @@
           "description": "As the conflict intensifies, Taliban drones challenge Pakistan’s security and response strategy, say experts."
         },
         {
-          "headline": "Aftermath of Iranian ‘revenge’ strikes on Israel, two killed",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/18/aftermath-of-iranian-revenge-strikes-on-israel-leaves-destruction-two-ki?traffic_source=rss",
-          "source": "Al Jazeera",
-          "sourceId": "aljazeera",
-          "category": "general",
+          "headline": "BTS fever grips Seoul as boy band return after four-year hiatus",
+          "url": "https://www.france24.com/en/tv-shows/business/20260318-bts-fever-grips-seoul-as-boy-band-return-after-four-year-hiatus",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
           "priority": "secondary",
-          "date": "Wed, 18 Mar 2026 08:13:25 +0000",
-          "description": "Widespread damage was left across areas near Tel Aviv after overnight Iranian missile strikes.",
-          "watchCandidate": true,
-          "watchSignals": [
-            {
-              "category": "consequence",
-              "matched": "Aftermath"
-            }
-          ]
+          "date": "Wed, 18 Mar 2026 11:01:36 GMT",
+          "description": ""
         },
         {
-          "headline": "‘US distraction in the Middle East is in China’s interest’",
-          "url": "https://www.aljazeera.com/video/quotable/2026/3/18/us-distraction-in-the-middle-east-is-in-chinas?traffic_source=rss",
-          "source": "Al Jazeera",
-          "sourceId": "aljazeera",
-          "category": "general",
+          "headline": "'Shield for Europe: We protect not only Ukraine, but the whole of Europe', says Dr Iryna Mudra",
+          "url": "https://www.france24.com/en/shield-for-europe-we-protect-not-only-ukraine-but-the-whole-of-europe-says-dr-iryna-mudra",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
           "priority": "secondary",
-          "date": "Wed, 18 Mar 2026 07:31:42 +0000",
-          "description": "‘US distraction in the Middle East is in China’s interest’"
+          "date": "Wed, 18 Mar 2026 10:59:58 GMT",
+          "description": ""
         },
         {
-          "headline": "Israel bombs central Beirut, strafes south, east Lebanon, killing over 20",
-          "url": "https://www.aljazeera.com/news/2026/3/18/israel-bombs-central-beirut-killing-6-strafes-south-east-lebanon?traffic_source=rss",
-          "source": "Al Jazeera",
-          "sourceId": "aljazeera",
-          "category": "general",
+          "headline": "Morocco taking AFCON title from Senegal dubbed 'joke of the century'",
+          "url": "https://www.france24.com/en/tv-shows/press-review/20260318-morocco-taking-afcon-title-from-senegal-dubbed-joke-of-the-century",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
           "priority": "secondary",
-          "date": "Wed, 18 Mar 2026 07:06:59 +0000",
-          "description": "Wave of Israeli air attacks launched as ground offensive widens in south where Hezbollah are fighting Israeli forces."
-        },
-        {
-          "headline": "Iran war: What is happening on day 19 of US-Israel attacks?",
-          "url": "https://www.aljazeera.com/news/2026/3/18/iran-war-what-is-happening-on-day-19-of-us-israel-attacks?traffic_source=rss",
-          "source": "Al Jazeera",
-          "sourceId": "aljazeera",
-          "category": "general",
-          "priority": "secondary",
-          "date": "Wed, 18 Mar 2026 07:06:24 +0000",
-          "description": "Iran vows revenge after Israeli strikes kill security chief Ali Larijani and Basij commander Gholamreza Soleimani."
-        },
-        {
-          "headline": "Iran launches ‘revenge’ missile attack on Israel after assassinations",
-          "url": "https://www.aljazeera.com/news/2026/3/18/iran-launches-revenge-missile-attack-on-israel-after-assassinations?traffic_source=rss",
-          "source": "Al Jazeera",
-          "sourceId": "aljazeera",
-          "category": "general",
-          "priority": "secondary",
-          "date": "Wed, 18 Mar 2026 07:04:58 +0000",
-          "description": "Iran continues to face a daily onslaught of US and Israeli air attacks in Tehran and across the country."
-        },
-        {
-          "headline": "Israeli air strike flattens residential building in Beirut",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/18/israeli-air-strike-flattens-residential-building-in-beirut?traffic_source=rss",
-          "source": "Al Jazeera",
-          "sourceId": "aljazeera",
-          "category": "general",
-          "priority": "secondary",
-          "date": "Wed, 18 Mar 2026 06:37:06 +0000",
-          "description": "Video shows the moment a residential building collapsed in Beirut after an Israeli air strike."
+          "date": "Wed, 18 Mar 2026 10:41:19 GMT",
+          "description": ""
         },
         {
           "headline": "Top US official resigns over Trump's war, says Iran posed no imminent threat",
@@ -4748,7 +4747,7 @@
           "description": ""
         },
         {
-          "headline": "Iran strikes Tel Aviv with cluster warheads in retaliation for killing of security chief",
+          "headline": "Iran missile fire kills two in central Israel",
           "url": "https://www.france24.com/en/video/20260318-iran-strikes-tel-aviv-with-cluster-warheads-in-retaliation-for-killing-of-security-chief",
           "source": "France24",
           "sourceId": "france24",
@@ -4846,43 +4845,13 @@
           "priority": "secondary",
           "date": "Tue, 17 Mar 2026 21:49:10 GMT",
           "description": ""
-        },
-        {
-          "headline": "Iran using cluster munitions in retaliatory strikes on Israel",
-          "url": "https://www.france24.com/en/iran-using-cluster-munitions-in-retaliatory-strikes-on-israel",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Tue, 17 Mar 2026 21:27:08 GMT",
-          "description": ""
-        },
-        {
-          "headline": "At least 23 killed in Nigeria suicide attacks",
-          "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260317-23-killed-in-nigeria-suicide-attack",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Tue, 17 Mar 2026 21:22:27 GMT",
-          "description": ""
-        },
-        {
-          "headline": "Top Iranian officials killed in Israeli airstrike in wartime blow to country's leadership",
-          "url": "https://www.france24.com/en/top-iranian-officials-killed-in-israeli-airstrike-in-wartime-blow-to-country-s-leadership",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Tue, 17 Mar 2026 21:18:05 GMT",
-          "description": ""
         }
       ],
       "tertiary": [],
       "reference": [
         {
           "headline": "Global Leaders Affirm Central Role for Nuclear at 2026 Nuclear Energy Summit - International Atomic Energy Agency",
-          "url": "https://www.iaea.org/newscenter/news/global-leaders-affirm-central-role-for-nuclear-at-2026-nuclear-energy-summit",
+          "url": "http://www.iaea.org/newscenter/news/global-leaders-affirm-central-role-for-nuclear-at-2026-nuclear-energy-summit",
           "source": "Daybook: International Events",
           "sourceId": "daybook_intl",
           "category": "daybook",
@@ -4911,16 +4880,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPYm4yeVo4VlhYVHcyT2tuRkRhREJKZUxhNk5wY3VOSFZ4OTB4T3ZWNjF6cUxXV2FHRlR0bjZtRXVFTTdGZmt6ckxDS3lGbVFHVXNKbmpLX3V1eGxNc19qU3NkTThqUTlHNTlRajl"
         },
         {
-          "headline": "Reforming Cross-border payments: keynote speech at the FSB Payments Summit - Financial Stability Board",
-          "url": "https://www.fsb.org/2026/03/reforming-cross-border-payments-keynote-speech-at-the-fsb-payments-summit/",
-          "source": "Daybook: International Events",
-          "sourceId": "daybook_intl",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Thu, 12 Mar 2026 11:36:16 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNcklJWEpBMHUzTWVtWXJjdnhHM3NiTDVMRHdYYW9hZDZ5aTJfeGdrSm1WM095T0FwUUFBMldVWVVDMjcyMHNRazlGdjBOU2Y3aGNnLWJFeF9EdHBxdGV2cVV6NzJoQjhPYmJvdWl"
-        },
-        {
           "headline": "Match Preview: Bay FC Hosts Expansion Denver Summit FC in 2026 Opener - Bay FC",
           "url": "https://bayfc.com/articles/match-preview-vs-denver-summit-fc-20260313/",
           "source": "Daybook: International Events",
@@ -4929,26 +4888,6 @@
           "priority": "reference",
           "date": "Fri, 13 Mar 2026 22:00:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1HdUVEZXhPV0oxZGpkN01zS2VsRzhCeDNTZTlJWjYwWEgzeHZsV2FVZlRjYnJHUHVaaUhRaHJRZHdySFFKWFNFYlhPLXFIQ25MREdLM3ZuYnk1MlNaZUNQUnZBVGhhUGFoUGFQQlR"
-        },
-        {
-          "headline": "G7 Leaders’ Online Meeting - mofa.go.jp",
-          "url": "https://www.mofa.go.jp/ecm/epc/pageite_000001_01521.html",
-          "source": "Daybook: International Events",
-          "sourceId": "daybook_intl",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Thu, 12 Mar 2026 03:37:15 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rV1k5UEhmc01WWVZOSmJidTVIUk5uSVpxRTI0bHNPWUpaemhiMkJxTWJLbFgxN2hscDc3Qi1oQUxFbF9GaVB6QjlDdm50aldlV2JUWmV5OGpoT0FsaWpqQVBSU1dWZnM?oc=5\" t"
-        },
-        {
-          "headline": "A Trump-Xi Summit Nears, but China Doesn’t Know What Trump Wants - The New York Times",
-          "url": "https://www.nytimes.com/2026/03/11/world/asia/china-us-trump-ceos.html",
-          "source": "Daybook: International Events",
-          "sourceId": "daybook_intl",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Wed, 11 Mar 2026 11:06:58 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1xZm9WaDdxWW5EQ0hvZGlZQWhnNWRoRUpBT0prVWF1aU5LMW5uSEtIQmZ2dFNJX0JnRUgxaERBZUlyTEg0d3RUVmMyVGNBZWQ3ckVqZHFHSXY2X2dfXzl3RjJxTC1IVHpPUEpmNFZ"
         },
         {
           "headline": "Ukraine updates: G7 rules out easing sanctions on Russia - dw.com",
@@ -4971,14 +4910,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9CUkpmeTQ2cXhkMVBKYVpjUGo5R0xKajlYblJjMWRKQ2RHYmtrT0lQMWp2M3U1SXlweElSdTA4TW9hU21nSjNsNk51WWhPYjR6NERnVTE2OFZXaUk4bHBOaHlBZVdRelFocVBfYk9"
         },
         {
-          "headline": "Statement by the G7 Presidency. - elysee.fr",
-          "url": "https://www.elysee.fr/en/emmanuel-macron/2026/03/11/statement-by-the-g7-presidency",
+          "headline": "Trump-Xi China summit may be delayed if Trump wants to stay in Washington for Iran war: Bessent - CNBC",
+          "url": "https://www.cnbc.com/2026/03/16/bessent-trump-xi-china-iran-war.html",
           "source": "Daybook: International Events",
           "sourceId": "daybook_intl",
           "category": "daybook",
           "priority": "reference",
-          "date": "Thu, 12 Mar 2026 08:10:52 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxONXZ6bUJCN2xHb09KaWVaQ0czaHlqRFpRMlNKZzJia2pVazVjSXpabXBpdTJ3NHlCd1pLbThlYVc1WEp6NENqZy1sSGxjaE1CT29haTFMWWxsNVBydzNsN3RGVXFMT1NKX3pwakR"
+          "date": "Mon, 16 Mar 2026 11:39:15 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1CNTNBbVhqTVNuWml3UFZ1T2ZqTnlibkNxWkdnbnp1ejhsb2VuYVJabGFMbzcxd1lFcVN6cXRMS0kxLWh1cDk1eExrR2ZGcDJvMGRocmQ5Vi1vWjMwTmwtWl9FR0JOb0xEQkYtZHI"
         },
         {
           "headline": "Trump-Xi summit delayed as U.S. president pushes China to help open Hormuz - The Washington Post",
@@ -4989,16 +4928,6 @@
           "priority": "reference",
           "date": "Tue, 17 Mar 2026 05:09:26 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbDM1cFRzVTdadVJiZnpWNE9MRzlnUkpvWVc4Zm5DRnZMdjVnUzRUTTNqSHdpSDBjSVBIUzVRMEhtNXZ4M0NqdFhrZ0NHU2tDTWRqazZoZnI4bW5tWnE1Wmd1OERjRHFKRmdUa3V"
-        },
-        {
-          "headline": "Trump signals possible delay to Beijing summit as U.S. pressures China to help reopen Strait of Hormuz - CNBC",
-          "url": "https://www.cnbc.com/2026/03/16/trump-possible-delay-beijing-summit-china-iran-strait-of-hormuz-.html",
-          "source": "Daybook: International Events",
-          "sourceId": "daybook_intl",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Mon, 16 Mar 2026 01:29:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPOERKdmtBSDFBV3Jlc0ZfMjJPU2ZoSllsMnAyU2lPQ3d6dnkwTEJtV1BMQTdGVVJrdm9NZGJ1VUtxMzZZdWJMRXVEYk1pcFB3S2dCc3RQdEk5c2pPQUI4UXZQbF91ZUtUTzFUa0x"
         },
         {
           "headline": "6 takeaways from our “Growing Up in the Digital Age” Summit - blog.google",
@@ -5021,6 +4950,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9pUnN3WVJRdU15T0NNWVQzdUFTaFlxS0hsb1J0QWdLX1NXbEs0cFhMcTkzWnBLazY0Z3ZMNTBIMnIwRUZLc2Jkc3BEYnlVNzNzRWRaQjNMY2tGZGg1cHNwS0h1TUhDTXR3QVppdXB"
         },
         {
+          "headline": "China is Tight-Lipped on Trump’s Request to Delay His Xi Summit - The New York Times",
+          "url": "https://www.nytimes.com/2026/03/17/world/middleeast/trump-xi-china-summit.html",
+          "source": "Daybook: International Events",
+          "sourceId": "daybook_intl",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Tue, 17 Mar 2026 09:22:22 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPNjRySV9XMU91TUlLUnhmUGp1Q29hWnEwelNrektzdDBfRVFUZzM1emUzOFJVYjRpV3NjUVZlR0xkNHVQdFUwa2c5OFNhMFlYOUloVloxcE5YQ3Jxc0pjaDJCWnZSNURkcjNfZGJ"
+        },
+        {
           "headline": "Summit County Coroner identifies man killed in vehicle fire near Dillon Valley - SummitDaily.com",
           "url": "https://www.summitdaily.com/news/summit-county-coroner-identifies-man-killed-in-vehicle-fire-near-dillon-valley/",
           "source": "Daybook: International Events",
@@ -5029,6 +4968,36 @@
           "priority": "reference",
           "date": "Fri, 13 Mar 2026 23:17:54 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNWVBGRGlTaUpUQUxxbzVnTzF0WFczOXg1OENTT0R2bmtyeGdMTk9kVkNVcmRvT1hVYU1ENUJ5V1pTckw0Q0F1NE9SYkh0Zjh0dXFGTEFCV1NVcl9uTS1wTm00Qk9ILTEwRFZJeUx"
+        },
+        {
+          "headline": "Trump's summit delay casts pall over US-China trade truce - Reuters",
+          "url": "https://www.reuters.com/world/china/trumps-summit-delay-casts-pall-over-us-china-trade-truce-2026-03-17/",
+          "source": "Daybook: International Events",
+          "sourceId": "daybook_intl",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Tue, 17 Mar 2026 07:10:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQX2pHMVJYY2pieURiREZOX29FUktfaDBQWHVsRW5Wa0xjQ1VpNXE1Q1V5TXR4X1ZrOFlfRkxDSEwzQ0x5SFF3RVZpRG84aUR0bTdtNDY3UFdxSnAtTWkyRXQzT2o4UXBFaHB6QXU"
+        },
+        {
+          "headline": "Summit City Business Academy - City of Fort Wayne (.gov)",
+          "url": "https://www.cityoffortwayne.in.gov/428/Summit-City-Business-Academy",
+          "source": "Daybook: International Events",
+          "sourceId": "daybook_intl",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Sat, 14 Mar 2026 02:50:42 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9KSWlVcGJDREc2dmFka2JvSi1hdFluWWhSOFZ6a2QxY2JkREM3azVIMHo4Z2dfLUROSUpSdk9ZNmhnLWZyLXlIY1NvSWV2bFVWc01LVTYtZXFmenpyTWs2ekU3clpRejRPYnNVZkd"
+        },
+        {
+          "headline": "Registration open for fifth Michigan Veterans Leadership Summit - State of Michigan (.gov)",
+          "url": "https://www.michigan.gov/mvaa/news/2026/03/17/registration-open-for-fifth-michigan-veterans-leadership-summit",
+          "source": "Daybook: International Events",
+          "sourceId": "daybook_intl",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Tue, 17 Mar 2026 17:06:36 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOdkh0dG1iRjhzUUxmdy1XYlRrWmxjMWc2a2FhWlFHWU9OX3ZiU2kwMzNUMjN1QzhTSDFwd2lVcDkwNU5nTTMtd3BDUWVkOGlSQ2FDa2hsbzFobXBJOGk4b3BLQ1p5TzVhc1RZRkN"
         },
         {
           "headline": "Embedded | 2026 Trade Deadline - NHL.com",
@@ -5081,6 +5050,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOTVNINzFPb096Ynk4c0lQVFdkeC1EOGg1MTZodXhPTnNwLUFsd2JkMGxhUUlZaFNmR3dORm1OenBveENyQnBqaEZoYjJudDFHUzFMVFBzMEd3dEFUN1pKODBSajM3Q2EzNW1JY08"
         },
         {
+          "headline": "‘It was a real happy day for us’ | Bandits GM Steve Dietrich talks trade deadline deals - Buffalo Bandits",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUTdDN3pUcVRtNXhMZVA5a2Fjd0FVc0U4NUIzdndwZGpob095NkgtYUVYdTB4RzFwYkJBYlQwWEdpMXJLcFBuWFhfRElzaWk0alJZS2t6MG03NUVxTEhHTGMxZ0RJamxjblUxZUhiOG5xdHJsV3NqQ1RVVWYwVktRamt0bmFVTVI4SHMyZmlSRVZhRlhpOXNGakNEbTFJR3ZENnB1WF9yUQ?oc=5",
+          "source": "Daybook: Economic Calendar",
+          "sourceId": "daybook_econ",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Wed, 11 Mar 2026 23:54:25 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNUTdDN3pUcVRtNXhMZVA5a2Fjd0FVc0U4NUIzdndwZGpob095NkgtYUVYdTB4RzFwYkJBYlQwWEdpMXJLcFBuWFhfRElzaWk0alJZS2t6MG03NUVxTEhHTGMxZ0RJamxjblUxZUh"
+        },
+        {
           "headline": "NHL 2025-26 season predictions 3.0: How did the trade deadline impact our picks? - The Athletic - The New York Times",
           "url": "https://www.nytimes.com/athletic/7116375/2026/03/14/nhl-2025-26-season-predictions-trade-deadline/",
           "source": "Daybook: Economic Calendar",
@@ -5091,14 +5070,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPUDVZdkdsTmhWRnEzUmdFYWhHMHVaZjctcndNQi1qN1NpaEcwRUJ6dU84Ui02MmJ0dG83ZzNnbFdYeF84MU9Xeks5cTE2NnJBMXR2bENfcTMzV0FDS0R1V0ZzSTU4LUNfSHdCQzI"
         },
         {
-          "headline": "Why a mortgage rate lock before the March Fed meeting makes sense - CBS News",
-          "url": "https://www.cbsnews.com/news/why-mortgage-rate-lock-before-march-2026-fed-meeting-makes-sense/",
+          "headline": "Rangers finding success post NHL trade deadline behind new-look top line - SNY",
+          "url": "https://sny.tv/articles/rangers-finding-success-post-nhl-trade-deadline-new-top-line",
           "source": "Daybook: Economic Calendar",
           "sourceId": "daybook_econ",
           "category": "daybook",
           "priority": "reference",
-          "date": "Fri, 13 Mar 2026 13:21:10 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOVE9sT2RHOENmbjZRa09EVU4tVk0wb3hiMU9ucS12d3FXLThnY0VXM1J2VzlYQkstanRUUVdpelQxVWhhbzgtQnRIeW55djduMHFVMXVyVFRjZWtDdzZJeUJqWERkY1Q5bTFmYU9"
+          "date": "Wed, 11 Mar 2026 21:41:57 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNcmdtSmc2WHRNVVlDTnN0cDBaRU51TDUzY1dXaDBQSHpQcVVDOW9ZbW5kaGlETHFTRlozUGtKUWJzdEZHYi1SMEpKcEN5cTRQTTkxc1Q5S3E0UFFXMXp2a0NiOW41SEFZRHdfbk5"
         },
         {
           "headline": "MAMMOTH MONTHLY: Bill Armstrong Trade Deadline - NHL.com",
@@ -5141,8 +5120,18 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE12RzhMYl9yY293WFNOMS04R3R4RjBvWnFUWTVZSmw3cmkyMWVoUzlUQWpsWHUtVmdFRm9ONC15WEszdHNYbDBQWExWbHc2aF9TOEVsNjRVcXNyTGJCZmROSUFYM05GbExCdWZFSGN"
         },
         {
+          "headline": "Wild on 7th - Episode 136: Trade Deadline Recap - NHL.com",
+          "url": "https://www.nhl.com/wild/news/wild-on-7th-episode-136-trade-deadline-recap",
+          "source": "Daybook: Economic Calendar",
+          "sourceId": "daybook_econ",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Wed, 11 Mar 2026 23:02:31 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9JQXg2T0plWDlIOUQweVJfZEhRWnRtLWdab3lPbk1WNmdxQjBsWHlkOFEtRVhGcFduYi1Ic2ZhcTI5Q1JVaVFlSVVCNDR4bG9yb3hVMG1fT2lNcy1Rd0pvSTZLZ0QwbUkzMTNNbzl"
+        },
+        {
           "headline": "Gold price today, Tuesday, March 17: Gold opens higher ahead of Fed meeting - Yahoo Finance",
-          "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-tuesday-march-17-gold-opens-higher-ahead-of-fed-meeting-110052581.html",
+          "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-march-18-gold-remains-steady-ahead-of-fed-press-conference-110052646.html",
           "source": "Daybook: Economic Calendar",
           "sourceId": "daybook_econ",
           "category": "daybook",
@@ -5151,34 +5140,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcV8tVkpaTDRfSTVvLUNMeTRnX2lRWk9ycC00SVJEQ1d1RXh3ckdSS1pJUzdUTjhid29sS1N5QjZKMWhoRTYxUUtZdUJKVjVaRHUtYU1XaWVFZlRtUVpXMHlISHBTQTBWaFFzUTh"
         },
         {
-          "headline": "Bitcoin Price Rises. What the Fed Meeting Means for Cryptos. - Barron's",
-          "url": "https://www.barrons.com/articles/bitcoin-price-fed-cryptos-xrp-ethereum-eabec824?gaa_at=eafs&gaa_n=AWEtsqeQUkM2XO8ic6WW67owGEziLxCBCSRN8c6sjJrlyVPY0KQXtGu-SMG8&gaa_ts=69ba8278&gaa_sig=C4QhBHxVbs1wMX_LvDQ3BbjgfX-AYTiNLtZvxIX-WyA1kCckq9qmGM8lDo1zEwU2dKfS013USPlm0pNUlmwNKQ%3D%3D",
+          "headline": "Principal Financial (PFG) Down 4.2% Since Last Earnings Report: Can It Rebound? - Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/principal-financial-pfg-down-4-153005132.html",
           "source": "Daybook: Economic Calendar",
           "sourceId": "daybook_econ",
           "category": "daybook",
           "priority": "reference",
-          "date": "Tue, 17 Mar 2026 11:41:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijANBVV95cUxNNEZhckdmSUhrbWV2X0M2UWE2a2ZlS0dNUHdQaU1Wc1JDOHBwazBJVFFJYzVrdzNIUnF2UVVkNmlRcFd5NzhaaWNUWjI4c0ZMRE5NQTRkbm14RGh2STk2RXdtaExjTjhhZ2ZsVEp"
-        },
-        {
-          "headline": "The Hawks are rising in the East after making trade-deadline splash. How high can they go? - Yahoo Sports",
-          "url": "https://sports.yahoo.com/nba/article/the-hawks-are-rising-in-the-east-after-making-trade-deadline-splash-how-high-can-they-go-213226272.html",
-          "source": "Daybook: Economic Calendar",
-          "sourceId": "daybook_econ",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Tue, 17 Mar 2026 21:32:26 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaVpEdEtkeGpaQ2d2amo2cmc3amlkWVVwRHplZFFBYXZnUHFNLXBuMFhGS3pVV3YyTVVNUTJwbGpIa1VQZ1FJdEh2Q0swblItdjhHZHNwLTRCT3pEbjY0em9NajhCTEJfV2tZbkZ"
-        },
-        {
-          "headline": "A critical Fed meeting, $100 oil, and Micron earnings: What to watch this week - Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/a-critical-fed-meeting-100-oil-and-micron-earnings-what-to-watch-this-week-113002550.html",
-          "source": "Daybook: Economic Calendar",
-          "sourceId": "daybook_econ",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Sun, 15 Mar 2026 19:54:12 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOODV2Mmlyd2FsWjBPRWdpdi1ILXN6NWZqYWlNd3MtZFgtLUZaMTB5VGpxNXViMVhNbmg1clNHaUd4MWRwMzdDVW0zSFpZVGFSNi1XcEdURGQxNmp2QVlYNXVJNVhVd2x0dHNHMTR"
+          "date": "Wed, 11 Mar 2026 15:30:05 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPb3hLdmlfNVFJX3hrM0dhWUhsWkxiMzhOQmg0VkYyV1hSYTl5NTJaMDVSYVNkS0FaRXlFcXlWdk5ycXBsemZtQU9hbURVN1F3ZkN5LWVJRWtrR0ctNzl2Ym5LdVoyU002M0xmVXk"
         },
         {
           "headline": "Robert Pattinson Teases ‘The Batman Part II’ Is “Taking Some Big Swings” - Deadline",
@@ -5189,6 +5158,16 @@
           "priority": "reference",
           "date": "Wed, 18 Mar 2026 03:33:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNF8tSEZnRGJCRG8yVU1UNFFJemNwYW04dGJsN2lfZ2FmTU1HLWZVb0RTTHd1dDNRSXRkSEJZejdKbEhvdVFTenI1QUw0TmlZN1lJNW5kdXl5dHJBUWZfNXpFRFN5Sm9lMUNEZFh"
+        },
+        {
+          "headline": "San Antonio to host Deadline on Saturday, December 6 - WWE",
+          "url": "https://www.wwe.com/article/san-antonio-to-host-deadline-on-saturday-december-6",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Wed, 18 Mar 2026 02:47:39 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQZHctYmVYa0pEUnl3bFlFNXhWcG5oZmF1aHFRR3FKUzgzczl1ME5zdzAtUXZiakRkV1JKU0NzdXFnUEpGYkttcTU4RkRZdWdtS0pJZTBuRm1GNzExYTh5d01SdGxXVkJkbVlXRDh"
         },
         {
           "headline": "Texas Republicans' Senate runoff moves forward as withdrawal deadline passes - NBC News",
@@ -5211,16 +5190,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa3k0STk5VkhFNzhnaENfOXFVYnJZNW5YZzA4cUxtMmpsa01vdlhVa08tZWEwaWlqc3ZMekg0UnNkNm1BN2JRSFUySTR6MG9ybklWWmFZMkhUTHpvVzBadjN0MlZkRHlWbEg4YTR"
         },
         {
-          "headline": "Texas runoff for GOP Senate nominee heats up after Trump misses dropout deadline - FOX 26 Houston",
-          "url": "https://www.fox26houston.com/news/trump-misses-deadline-nominate-texas-republican-nominee-us-senate",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Wed, 18 Mar 2026 02:23:39 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPYmpDNTBXSmF6Z0FxRkE2V3ZsWklYdEtkTjl1bTlfdmVESDNoZmxXaGxUQTZnZVJpOXhlZUN5ZHJ0NU5hN0Mxd3BKenB2XzI3bEllUTRjMTcxWlE0NlRLdm1LOWlwSTJHNDBGMWd"
-        },
-        {
           "headline": "No Trump Endorsement for Cornyn or Paxton in Texas Senate Race as Deadline Passes - The New York Times",
           "url": "https://www.nytimes.com/2026/03/17/us/politics/texas-senate-trump-cornyn-paxton.html",
           "source": "Daybook: Scheduled Events",
@@ -5229,6 +5198,16 @@
           "priority": "reference",
           "date": "Tue, 17 Mar 2026 23:38:06 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQS0d1LWtKLWdrZU5faUw0OE94LUhGZkFEVGdnaDVJMFRqZXd2N09naVhHUVI4YXVuVG55bGxCaGtaeDdvVHRfZUZVXzVqdE82YjRjOWViajNDWUVIM0NDR0R0RVpqTlpkSDdPVE5"
+        },
+        {
+          "headline": "Texas runoff for GOP Senate nominee heats up after Trump misses dropout deadline - FOX 26 Houston",
+          "url": "https://www.fox26houston.com/news/trump-misses-deadline-nominate-texas-republican-nominee-us-senate",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Wed, 18 Mar 2026 02:23:39 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPYmpDNTBXSmF6Z0FxRkE2V3ZsWklYdEtkTjl1bTlfdmVESDNoZmxXaGxUQTZnZVJpOXhlZUN5ZHJ0NU5hN0Mxd3BKenB2XzI3bEllUTRjMTcxWlE0NlRLdm1LOWlwSTJHNDBGMWd"
         },
         {
           "headline": "Trump said he wanted one of the Texas Senate candidates to drop out. Now he’s missed the deadline - CNN",
@@ -5241,16 +5220,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOb0Foc19aUGxneEswSmUtRi1LYWFrSk9wdEdzREdERGlPLUtBUWlOV0Qwd3VQOTNUXzJCZUZZRTM1aW9ia04yNlVjNUlpc0d5MDYtZi1zS0tRRWliQ1BQY2hVaHF0UFRxeWpsaXh"
         },
         {
-          "headline": "College Council discusses deadline for accessible-friendly online services - El Camino College The Union",
-          "url": "https://eccunion.com/news/2026/03/17/college-council-discusses-deadline-for-accessible-friendly-online-services/",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Wed, 18 Mar 2026 05:34:28 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPQTN6SExMb09GZjFWWHd0S1VHM2REUFJJcnBWWTNsaWpzenc0MzlPaWZ1MDJuU2tVUW1tbWV4Y2c5RU9LNE5Cc3NqV3B2aF8tQzc1T1pJYkcybXN3VTROTXFxQkJvNWxpM3NRdUd"
-        },
-        {
           "headline": "Judge extends Texas school voucher deadline after lawsuits over exclusion of Islamic schools from TEFA program - CBS News",
           "url": "https://www.cbsnews.com/texas/news/federal-judge-texas-extend-deadline-texas-education-freedom-accounts-lawsuit-islamic-schools/",
           "source": "Daybook: Scheduled Events",
@@ -5261,14 +5230,24 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNcjRFYUZVbHF1Yl9KazV2NzVXMy1wNTdwcjNEc2Q1eGlzUExNWjU0TUNOVEk1ajVpSjBnZVVmQ1o1N0RNOGktemFuWWxZZXQxb0tlUm1EQnF1dHlkVTA2dUI5VW5IZVlqeW0yNWJ"
         },
         {
-          "headline": "Churchill Downs faces $2.4 million deadline for unpaid horse racing fees - WDRB",
-          "url": "https://www.wdrb.com/sports/churchill-downs-faces-2-4-million-deadline-for-unpaid-horse-racing-fees/article_9a70ceba-d28a-42af-b84c-77e6e977a40a.html",
+          "headline": "College Council discusses deadline for accessible-friendly online services - El Camino College The Union",
+          "url": "https://eccunion.com/news/2026/03/17/college-council-discusses-deadline-for-accessible-friendly-online-services/",
           "source": "Daybook: Scheduled Events",
           "sourceId": "daybook_scheduled",
           "category": "daybook",
           "priority": "reference",
-          "date": "Wed, 18 Mar 2026 09:06:02 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRVZvVElvTE1RWWRzMnBSTzBhU3hTdjl0SmpEN1VuX0NxYVAwQ1VnYmdxVm93bGhPaVZTaUZHdXBDNWxKYUpoNWFERXQ5M2xRYVFCSHFNdGYtMG5FaU1nOHROOU91WllzRHFqRWl"
+          "date": "Wed, 18 Mar 2026 05:34:28 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPQTN6SExMb09GZjFWWHd0S1VHM2REUFJJcnBWWTNsaWpzenc0MzlPaWZ1MDJuU2tVUW1tbWV4Y2c5RU9LNE5Cc3NqV3B2aF8tQzc1T1pJYkcybXN3VTROTXFxQkJvNWxpM3NRdUd"
+        },
+        {
+          "headline": "TEFA program application deadline extended following lawsuits - KBTX News 3",
+          "url": "https://www.kbtx.com/2026/03/18/tefa-program-application-deadline-extended-following-lawsuits/",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Wed, 18 Mar 2026 03:43:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPdWRXdXZqdjNPY1FrazgyTnJ0VGVvRUliTnhxNHJoMV9fY01jeHo0SVp4MlFld3hQOGUweG1WUlRSMzFTb2tCTGs2bGlrU0JwQWZXTTRzRE5EbzVWU19zT2xEeGgyeDVDdmM3S3k"
         },
         {
           "headline": "Tuesday is the deadline for candidates to get off the Texas Senate GOP runoff ballot - KERA News",
@@ -5279,16 +5258,6 @@
           "priority": "reference",
           "date": "Tue, 17 Mar 2026 19:53:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxONzhucVNlRzEtY3RReEZtcDlWc3ZCUmJnQWk0MzREWjREZnNQVV9QbkJfMzNkTzlDX295UVRPWTl0Ql9wNVk4UjdScGJYSEtjbFhkLUJQbVRsTGlOejd1b3pYdkx1TFhfd3JUUGt"
-        },
-        {
-          "headline": "Deadline approaching to change party affiliation: What you need to know before Utah’s primary elections - ABC4 Utah",
-          "url": "https://www.abc4.com/news/politics/party-affiliation-primary-elections-what-to-know/",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Wed, 18 Mar 2026 04:52:36 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOblJKSTVOejd3WXhOMjA5ajFONEdBTG1pTjk2ZGVzaWNtbkRvdkY0UlJhNUhvc0NuNHdEMk1fYnY2R25MdUdkMWhuOWI5UWdWNU9zamlaNGdfVmIyODZLOVZrd1BIN082UlBZVlJ"
         },
         {
           "headline": "Jesse Williams Joins Season 5 Of Apple TV’s ‘The Morning Show’ - Deadline",
@@ -5321,14 +5290,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBqR1prcXdSaFYyaXVtc21uV281M1VrWUZTR2RlVGNndHFzbmtUdWVabUM2UlJkc2xpR3J0OGI0OUE0eDQtUjZ0cnR6T3BzWkFxU2x3aHN6RFJxcEM3X3VBV1lJWFNtZlc1ZnRBYzE"
         },
         {
-          "headline": "'Dune: Part 3' Details Zendaya, Anya Taylor-Joy, Robert Pattinson - Deadline",
-          "url": "https://deadline.com/2026/03/dune-part-3-plot-details-zendaya-anya-taylor-joy-1236757421/",
+          "headline": "'The Lincoln Lawyer' Season 5 Begins Production; Casting &amp; Plot Drop - Deadline",
+          "url": "https://deadline.com/2026/03/the-lincoln-lawyer-production-season-5-plot-casting-1236757148/",
           "source": "Daybook: Scheduled Events",
           "sourceId": "daybook_scheduled",
           "category": "daybook",
           "priority": "reference",
-          "date": "Tue, 17 Mar 2026 16:30:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQNTRkdFVZdDBrWjZ3a0RNb0FRQTU5MjZhamRMcVJWa3B2eTA5TlV3SjNLNm00WGtfRlJLcDRwX3pTdTJSN3paSUp4cmFQeDBZa3VhQTFwYzNiTGR4YVBEUGFfY05XOC12Q1o2R0x"
+          "date": "Tue, 17 Mar 2026 18:00:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOOXNiRUhGZVd4MkVCRUNPLV9ORHVpa1NaaG1yajFJRmVORnllWS1sZ25JTEpYOEFZbk1rdk52aTJpNWZ3YWRlY3dRbE1RWUV4eDVCdTNxU0UwTDJWREF0LWNMb3hySk5SaXJYSXV"
         }
       ]
     }
@@ -5336,7 +5305,7 @@
   "daybook": [
     {
       "headline": "Global Leaders Affirm Central Role for Nuclear at 2026 Nuclear Energy Summit - International Atomic Energy Agency",
-      "url": "https://www.iaea.org/newscenter/news/global-leaders-affirm-central-role-for-nuclear-at-2026-nuclear-energy-summit",
+      "url": "http://www.iaea.org/newscenter/news/global-leaders-affirm-central-role-for-nuclear-at-2026-nuclear-energy-summit",
       "source": "Daybook: International Events",
       "sourceId": "daybook_intl",
       "category": "daybook",
@@ -5365,16 +5334,6 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPYm4yeVo4VlhYVHcyT2tuRkRhREJKZUxhNk5wY3VOSFZ4OTB4T3ZWNjF6cUxXV2FHRlR0bjZtRXVFTTdGZmt6ckxDS3lGbVFHVXNKbmpLX3V1eGxNc19qU3NkTThqUTlHNTlRajl"
     },
     {
-      "headline": "Reforming Cross-border payments: keynote speech at the FSB Payments Summit - Financial Stability Board",
-      "url": "https://www.fsb.org/2026/03/reforming-cross-border-payments-keynote-speech-at-the-fsb-payments-summit/",
-      "source": "Daybook: International Events",
-      "sourceId": "daybook_intl",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Thu, 12 Mar 2026 11:36:16 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNcklJWEpBMHUzTWVtWXJjdnhHM3NiTDVMRHdYYW9hZDZ5aTJfeGdrSm1WM095T0FwUUFBMldVWVVDMjcyMHNRazlGdjBOU2Y3aGNnLWJFeF9EdHBxdGV2cVV6NzJoQjhPYmJvdWl"
-    },
-    {
       "headline": "Match Preview: Bay FC Hosts Expansion Denver Summit FC in 2026 Opener - Bay FC",
       "url": "https://bayfc.com/articles/match-preview-vs-denver-summit-fc-20260313/",
       "source": "Daybook: International Events",
@@ -5383,26 +5342,6 @@
       "priority": "reference",
       "date": "Fri, 13 Mar 2026 22:00:00 GMT",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1HdUVEZXhPV0oxZGpkN01zS2VsRzhCeDNTZTlJWjYwWEgzeHZsV2FVZlRjYnJHUHVaaUhRaHJRZHdySFFKWFNFYlhPLXFIQ25MREdLM3ZuYnk1MlNaZUNQUnZBVGhhUGFoUGFQQlR"
-    },
-    {
-      "headline": "G7 Leaders’ Online Meeting - mofa.go.jp",
-      "url": "https://www.mofa.go.jp/ecm/epc/pageite_000001_01521.html",
-      "source": "Daybook: International Events",
-      "sourceId": "daybook_intl",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Thu, 12 Mar 2026 03:37:15 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rV1k5UEhmc01WWVZOSmJidTVIUk5uSVpxRTI0bHNPWUpaemhiMkJxTWJLbFgxN2hscDc3Qi1oQUxFbF9GaVB6QjlDdm50aldlV2JUWmV5OGpoT0FsaWpqQVBSU1dWZnM?oc=5\" t"
-    },
-    {
-      "headline": "A Trump-Xi Summit Nears, but China Doesn’t Know What Trump Wants - The New York Times",
-      "url": "https://www.nytimes.com/2026/03/11/world/asia/china-us-trump-ceos.html",
-      "source": "Daybook: International Events",
-      "sourceId": "daybook_intl",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Wed, 11 Mar 2026 11:06:58 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1xZm9WaDdxWW5EQ0hvZGlZQWhnNWRoRUpBT0prVWF1aU5LMW5uSEtIQmZ2dFNJX0JnRUgxaERBZUlyTEg0d3RUVmMyVGNBZWQ3ckVqZHFHSXY2X2dfXzl3RjJxTC1IVHpPUEpmNFZ"
     },
     {
       "headline": "Ukraine updates: G7 rules out easing sanctions on Russia - dw.com",
@@ -5425,14 +5364,14 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9CUkpmeTQ2cXhkMVBKYVpjUGo5R0xKajlYblJjMWRKQ2RHYmtrT0lQMWp2M3U1SXlweElSdTA4TW9hU21nSjNsNk51WWhPYjR6NERnVTE2OFZXaUk4bHBOaHlBZVdRelFocVBfYk9"
     },
     {
-      "headline": "Statement by the G7 Presidency. - elysee.fr",
-      "url": "https://www.elysee.fr/en/emmanuel-macron/2026/03/11/statement-by-the-g7-presidency",
+      "headline": "Trump-Xi China summit may be delayed if Trump wants to stay in Washington for Iran war: Bessent - CNBC",
+      "url": "https://www.cnbc.com/2026/03/16/bessent-trump-xi-china-iran-war.html",
       "source": "Daybook: International Events",
       "sourceId": "daybook_intl",
       "category": "daybook",
       "priority": "reference",
-      "date": "Thu, 12 Mar 2026 08:10:52 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxONXZ6bUJCN2xHb09KaWVaQ0czaHlqRFpRMlNKZzJia2pVazVjSXpabXBpdTJ3NHlCd1pLbThlYVc1WEp6NENqZy1sSGxjaE1CT29haTFMWWxsNVBydzNsN3RGVXFMT1NKX3pwakR"
+      "date": "Mon, 16 Mar 2026 11:39:15 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1CNTNBbVhqTVNuWml3UFZ1T2ZqTnlibkNxWkdnbnp1ejhsb2VuYVJabGFMbzcxd1lFcVN6cXRMS0kxLWh1cDk1eExrR2ZGcDJvMGRocmQ5Vi1vWjMwTmwtWl9FR0JOb0xEQkYtZHI"
     },
     {
       "headline": "Trump-Xi summit delayed as U.S. president pushes China to help open Hormuz - The Washington Post",
@@ -5443,16 +5382,6 @@
       "priority": "reference",
       "date": "Tue, 17 Mar 2026 05:09:26 GMT",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbDM1cFRzVTdadVJiZnpWNE9MRzlnUkpvWVc4Zm5DRnZMdjVnUzRUTTNqSHdpSDBjSVBIUzVRMEhtNXZ4M0NqdFhrZ0NHU2tDTWRqazZoZnI4bW5tWnE1Wmd1OERjRHFKRmdUa3V"
-    },
-    {
-      "headline": "Trump signals possible delay to Beijing summit as U.S. pressures China to help reopen Strait of Hormuz - CNBC",
-      "url": "https://www.cnbc.com/2026/03/16/trump-possible-delay-beijing-summit-china-iran-strait-of-hormuz-.html",
-      "source": "Daybook: International Events",
-      "sourceId": "daybook_intl",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Mon, 16 Mar 2026 01:29:00 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPOERKdmtBSDFBV3Jlc0ZfMjJPU2ZoSllsMnAyU2lPQ3d6dnkwTEJtV1BMQTdGVVJrdm9NZGJ1VUtxMzZZdWJMRXVEYk1pcFB3S2dCc3RQdEk5c2pPQUI4UXZQbF91ZUtUTzFUa0x"
     },
     {
       "headline": "6 takeaways from our “Growing Up in the Digital Age” Summit - blog.google",
@@ -5475,6 +5404,16 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9pUnN3WVJRdU15T0NNWVQzdUFTaFlxS0hsb1J0QWdLX1NXbEs0cFhMcTkzWnBLazY0Z3ZMNTBIMnIwRUZLc2Jkc3BEYnlVNzNzRWRaQjNMY2tGZGg1cHNwS0h1TUhDTXR3QVppdXB"
     },
     {
+      "headline": "China is Tight-Lipped on Trump’s Request to Delay His Xi Summit - The New York Times",
+      "url": "https://www.nytimes.com/2026/03/17/world/middleeast/trump-xi-china-summit.html",
+      "source": "Daybook: International Events",
+      "sourceId": "daybook_intl",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Tue, 17 Mar 2026 09:22:22 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPNjRySV9XMU91TUlLUnhmUGp1Q29hWnEwelNrektzdDBfRVFUZzM1emUzOFJVYjRpV3NjUVZlR0xkNHVQdFUwa2c5OFNhMFlYOUloVloxcE5YQ3Jxc0pjaDJCWnZSNURkcjNfZGJ"
+    },
+    {
       "headline": "Summit County Coroner identifies man killed in vehicle fire near Dillon Valley - SummitDaily.com",
       "url": "https://www.summitdaily.com/news/summit-county-coroner-identifies-man-killed-in-vehicle-fire-near-dillon-valley/",
       "source": "Daybook: International Events",
@@ -5483,6 +5422,36 @@
       "priority": "reference",
       "date": "Fri, 13 Mar 2026 23:17:54 GMT",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNWVBGRGlTaUpUQUxxbzVnTzF0WFczOXg1OENTT0R2bmtyeGdMTk9kVkNVcmRvT1hVYU1ENUJ5V1pTckw0Q0F1NE9SYkh0Zjh0dXFGTEFCV1NVcl9uTS1wTm00Qk9ILTEwRFZJeUx"
+    },
+    {
+      "headline": "Trump's summit delay casts pall over US-China trade truce - Reuters",
+      "url": "https://www.reuters.com/world/china/trumps-summit-delay-casts-pall-over-us-china-trade-truce-2026-03-17/",
+      "source": "Daybook: International Events",
+      "sourceId": "daybook_intl",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Tue, 17 Mar 2026 07:10:00 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQX2pHMVJYY2pieURiREZOX29FUktfaDBQWHVsRW5Wa0xjQ1VpNXE1Q1V5TXR4X1ZrOFlfRkxDSEwzQ0x5SFF3RVZpRG84aUR0bTdtNDY3UFdxSnAtTWkyRXQzT2o4UXBFaHB6QXU"
+    },
+    {
+      "headline": "Summit City Business Academy - City of Fort Wayne (.gov)",
+      "url": "https://www.cityoffortwayne.in.gov/428/Summit-City-Business-Academy",
+      "source": "Daybook: International Events",
+      "sourceId": "daybook_intl",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Sat, 14 Mar 2026 02:50:42 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9KSWlVcGJDREc2dmFka2JvSi1hdFluWWhSOFZ6a2QxY2JkREM3azVIMHo4Z2dfLUROSUpSdk9ZNmhnLWZyLXlIY1NvSWV2bFVWc01LVTYtZXFmenpyTWs2ekU3clpRejRPYnNVZkd"
+    },
+    {
+      "headline": "Registration open for fifth Michigan Veterans Leadership Summit - State of Michigan (.gov)",
+      "url": "https://www.michigan.gov/mvaa/news/2026/03/17/registration-open-for-fifth-michigan-veterans-leadership-summit",
+      "source": "Daybook: International Events",
+      "sourceId": "daybook_intl",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Tue, 17 Mar 2026 17:06:36 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOdkh0dG1iRjhzUUxmdy1XYlRrWmxjMWc2a2FhWlFHWU9OX3ZiU2kwMzNUMjN1QzhTSDFwd2lVcDkwNU5nTTMtd3BDUWVkOGlSQ2FDa2hsbzFobXBJOGk4b3BLQ1p5TzVhc1RZRkN"
     },
     {
       "headline": "Embedded | 2026 Trade Deadline - NHL.com",
@@ -5525,6 +5494,16 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOTVNINzFPb096Ynk4c0lQVFdkeC1EOGg1MTZodXhPTnNwLUFsd2JkMGxhUUlZaFNmR3dORm1OenBveENyQnBqaEZoYjJudDFHUzFMVFBzMEd3dEFUN1pKODBSajM3Q2EzNW1JY08"
     },
     {
+      "headline": "‘It was a real happy day for us’ | Bandits GM Steve Dietrich talks trade deadline deals - Buffalo Bandits",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUTdDN3pUcVRtNXhMZVA5a2Fjd0FVc0U4NUIzdndwZGpob095NkgtYUVYdTB4RzFwYkJBYlQwWEdpMXJLcFBuWFhfRElzaWk0alJZS2t6MG03NUVxTEhHTGMxZ0RJamxjblUxZUhiOG5xdHJsV3NqQ1RVVWYwVktRamt0bmFVTVI4SHMyZmlSRVZhRlhpOXNGakNEbTFJR3ZENnB1WF9yUQ?oc=5",
+      "source": "Daybook: Economic Calendar",
+      "sourceId": "daybook_econ",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Wed, 11 Mar 2026 23:54:25 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNUTdDN3pUcVRtNXhMZVA5a2Fjd0FVc0U4NUIzdndwZGpob095NkgtYUVYdTB4RzFwYkJBYlQwWEdpMXJLcFBuWFhfRElzaWk0alJZS2t6MG03NUVxTEhHTGMxZ0RJamxjblUxZUh"
+    },
+    {
       "headline": "NHL 2025-26 season predictions 3.0: How did the trade deadline impact our picks? - The Athletic - The New York Times",
       "url": "https://www.nytimes.com/athletic/7116375/2026/03/14/nhl-2025-26-season-predictions-trade-deadline/",
       "source": "Daybook: Economic Calendar",
@@ -5535,14 +5514,14 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPUDVZdkdsTmhWRnEzUmdFYWhHMHVaZjctcndNQi1qN1NpaEcwRUJ6dU84Ui02MmJ0dG83ZzNnbFdYeF84MU9Xeks5cTE2NnJBMXR2bENfcTMzV0FDS0R1V0ZzSTU4LUNfSHdCQzI"
     },
     {
-      "headline": "Why a mortgage rate lock before the March Fed meeting makes sense - CBS News",
-      "url": "https://www.cbsnews.com/news/why-mortgage-rate-lock-before-march-2026-fed-meeting-makes-sense/",
+      "headline": "Rangers finding success post NHL trade deadline behind new-look top line - SNY",
+      "url": "https://sny.tv/articles/rangers-finding-success-post-nhl-trade-deadline-new-top-line",
       "source": "Daybook: Economic Calendar",
       "sourceId": "daybook_econ",
       "category": "daybook",
       "priority": "reference",
-      "date": "Fri, 13 Mar 2026 13:21:10 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOVE9sT2RHOENmbjZRa09EVU4tVk0wb3hiMU9ucS12d3FXLThnY0VXM1J2VzlYQkstanRUUVdpelQxVWhhbzgtQnRIeW55djduMHFVMXVyVFRjZWtDdzZJeUJqWERkY1Q5bTFmYU9"
+      "date": "Wed, 11 Mar 2026 21:41:57 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNcmdtSmc2WHRNVVlDTnN0cDBaRU51TDUzY1dXaDBQSHpQcVVDOW9ZbW5kaGlETHFTRlozUGtKUWJzdEZHYi1SMEpKcEN5cTRQTTkxc1Q5S3E0UFFXMXp2a0NiOW41SEFZRHdfbk5"
     },
     {
       "headline": "MAMMOTH MONTHLY: Bill Armstrong Trade Deadline - NHL.com",
@@ -5575,8 +5554,18 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE12RzhMYl9yY293WFNOMS04R3R4RjBvWnFUWTVZSmw3cmkyMWVoUzlUQWpsWHUtVmdFRm9ONC15WEszdHNYbDBQWExWbHc2aF9TOEVsNjRVcXNyTGJCZmROSUFYM05GbExCdWZFSGN"
     },
     {
+      "headline": "Wild on 7th - Episode 136: Trade Deadline Recap - NHL.com",
+      "url": "https://www.nhl.com/wild/news/wild-on-7th-episode-136-trade-deadline-recap",
+      "source": "Daybook: Economic Calendar",
+      "sourceId": "daybook_econ",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Wed, 11 Mar 2026 23:02:31 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9JQXg2T0plWDlIOUQweVJfZEhRWnRtLWdab3lPbk1WNmdxQjBsWHlkOFEtRVhGcFduYi1Ic2ZhcTI5Q1JVaVFlSVVCNDR4bG9yb3hVMG1fT2lNcy1Rd0pvSTZLZ0QwbUkzMTNNbzl"
+    },
+    {
       "headline": "Gold price today, Tuesday, March 17: Gold opens higher ahead of Fed meeting - Yahoo Finance",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-tuesday-march-17-gold-opens-higher-ahead-of-fed-meeting-110052581.html",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-march-18-gold-remains-steady-ahead-of-fed-press-conference-110052646.html",
       "source": "Daybook: Economic Calendar",
       "sourceId": "daybook_econ",
       "category": "daybook",
@@ -5585,34 +5574,14 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcV8tVkpaTDRfSTVvLUNMeTRnX2lRWk9ycC00SVJEQ1d1RXh3ckdSS1pJUzdUTjhid29sS1N5QjZKMWhoRTYxUUtZdUJKVjVaRHUtYU1XaWVFZlRtUVpXMHlISHBTQTBWaFFzUTh"
     },
     {
-      "headline": "Bitcoin Price Rises. What the Fed Meeting Means for Cryptos. - Barron's",
-      "url": "https://www.barrons.com/articles/bitcoin-price-fed-cryptos-xrp-ethereum-eabec824?gaa_at=eafs&gaa_n=AWEtsqeQUkM2XO8ic6WW67owGEziLxCBCSRN8c6sjJrlyVPY0KQXtGu-SMG8&gaa_ts=69ba8278&gaa_sig=C4QhBHxVbs1wMX_LvDQ3BbjgfX-AYTiNLtZvxIX-WyA1kCckq9qmGM8lDo1zEwU2dKfS013USPlm0pNUlmwNKQ%3D%3D",
+      "headline": "Principal Financial (PFG) Down 4.2% Since Last Earnings Report: Can It Rebound? - Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/principal-financial-pfg-down-4-153005132.html",
       "source": "Daybook: Economic Calendar",
       "sourceId": "daybook_econ",
       "category": "daybook",
       "priority": "reference",
-      "date": "Tue, 17 Mar 2026 11:41:00 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijANBVV95cUxNNEZhckdmSUhrbWV2X0M2UWE2a2ZlS0dNUHdQaU1Wc1JDOHBwazBJVFFJYzVrdzNIUnF2UVVkNmlRcFd5NzhaaWNUWjI4c0ZMRE5NQTRkbm14RGh2STk2RXdtaExjTjhhZ2ZsVEp"
-    },
-    {
-      "headline": "The Hawks are rising in the East after making trade-deadline splash. How high can they go? - Yahoo Sports",
-      "url": "https://sports.yahoo.com/nba/article/the-hawks-are-rising-in-the-east-after-making-trade-deadline-splash-how-high-can-they-go-213226272.html",
-      "source": "Daybook: Economic Calendar",
-      "sourceId": "daybook_econ",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Tue, 17 Mar 2026 21:32:26 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaVpEdEtkeGpaQ2d2amo2cmc3amlkWVVwRHplZFFBYXZnUHFNLXBuMFhGS3pVV3YyTVVNUTJwbGpIa1VQZ1FJdEh2Q0swblItdjhHZHNwLTRCT3pEbjY0em9NajhCTEJfV2tZbkZ"
-    },
-    {
-      "headline": "A critical Fed meeting, $100 oil, and Micron earnings: What to watch this week - Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/a-critical-fed-meeting-100-oil-and-micron-earnings-what-to-watch-this-week-113002550.html",
-      "source": "Daybook: Economic Calendar",
-      "sourceId": "daybook_econ",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Sun, 15 Mar 2026 19:54:12 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOODV2Mmlyd2FsWjBPRWdpdi1ILXN6NWZqYWlNd3MtZFgtLUZaMTB5VGpxNXViMVhNbmg1clNHaUd4MWRwMzdDVW0zSFpZVGFSNi1XcEdURGQxNmp2QVlYNXVJNVhVd2x0dHNHMTR"
+      "date": "Wed, 11 Mar 2026 15:30:05 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPb3hLdmlfNVFJX3hrM0dhWUhsWkxiMzhOQmg0VkYyV1hSYTl5NTJaMDVSYVNkS0FaRXlFcXlWdk5ycXBsemZtQU9hbURVN1F3ZkN5LWVJRWtrR0ctNzl2Ym5LdVoyU002M0xmVXk"
     },
     {
       "headline": "Robert Pattinson Teases ‘The Batman Part II’ Is “Taking Some Big Swings” - Deadline",
@@ -5623,6 +5592,16 @@
       "priority": "reference",
       "date": "Wed, 18 Mar 2026 03:33:00 GMT",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNF8tSEZnRGJCRG8yVU1UNFFJemNwYW04dGJsN2lfZ2FmTU1HLWZVb0RTTHd1dDNRSXRkSEJZejdKbEhvdVFTenI1QUw0TmlZN1lJNW5kdXl5dHJBUWZfNXpFRFN5Sm9lMUNEZFh"
+    },
+    {
+      "headline": "San Antonio to host Deadline on Saturday, December 6 - WWE",
+      "url": "https://www.wwe.com/article/san-antonio-to-host-deadline-on-saturday-december-6",
+      "source": "Daybook: Scheduled Events",
+      "sourceId": "daybook_scheduled",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Wed, 18 Mar 2026 02:47:39 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQZHctYmVYa0pEUnl3bFlFNXhWcG5oZmF1aHFRR3FKUzgzczl1ME5zdzAtUXZiakRkV1JKU0NzdXFnUEpGYkttcTU4RkRZdWdtS0pJZTBuRm1GNzExYTh5d01SdGxXVkJkbVlXRDh"
     },
     {
       "headline": "Texas Republicans' Senate runoff moves forward as withdrawal deadline passes - NBC News",
@@ -5645,16 +5624,6 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa3k0STk5VkhFNzhnaENfOXFVYnJZNW5YZzA4cUxtMmpsa01vdlhVa08tZWEwaWlqc3ZMekg0UnNkNm1BN2JRSFUySTR6MG9ybklWWmFZMkhUTHpvVzBadjN0MlZkRHlWbEg4YTR"
     },
     {
-      "headline": "Texas runoff for GOP Senate nominee heats up after Trump misses dropout deadline - FOX 26 Houston",
-      "url": "https://www.fox26houston.com/news/trump-misses-deadline-nominate-texas-republican-nominee-us-senate",
-      "source": "Daybook: Scheduled Events",
-      "sourceId": "daybook_scheduled",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Wed, 18 Mar 2026 02:23:39 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPYmpDNTBXSmF6Z0FxRkE2V3ZsWklYdEtkTjl1bTlfdmVESDNoZmxXaGxUQTZnZVJpOXhlZUN5ZHJ0NU5hN0Mxd3BKenB2XzI3bEllUTRjMTcxWlE0NlRLdm1LOWlwSTJHNDBGMWd"
-    },
-    {
       "headline": "No Trump Endorsement for Cornyn or Paxton in Texas Senate Race as Deadline Passes - The New York Times",
       "url": "https://www.nytimes.com/2026/03/17/us/politics/texas-senate-trump-cornyn-paxton.html",
       "source": "Daybook: Scheduled Events",
@@ -5663,6 +5632,16 @@
       "priority": "reference",
       "date": "Tue, 17 Mar 2026 23:38:06 GMT",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQS0d1LWtKLWdrZU5faUw0OE94LUhGZkFEVGdnaDVJMFRqZXd2N09naVhHUVI4YXVuVG55bGxCaGtaeDdvVHRfZUZVXzVqdE82YjRjOWViajNDWUVIM0NDR0R0RVpqTlpkSDdPVE5"
+    },
+    {
+      "headline": "Texas runoff for GOP Senate nominee heats up after Trump misses dropout deadline - FOX 26 Houston",
+      "url": "https://www.fox26houston.com/news/trump-misses-deadline-nominate-texas-republican-nominee-us-senate",
+      "source": "Daybook: Scheduled Events",
+      "sourceId": "daybook_scheduled",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Wed, 18 Mar 2026 02:23:39 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPYmpDNTBXSmF6Z0FxRkE2V3ZsWklYdEtkTjl1bTlfdmVESDNoZmxXaGxUQTZnZVJpOXhlZUN5ZHJ0NU5hN0Mxd3BKenB2XzI3bEllUTRjMTcxWlE0NlRLdm1LOWlwSTJHNDBGMWd"
     },
     {
       "headline": "Trump said he wanted one of the Texas Senate candidates to drop out. Now he’s missed the deadline - CNN",
@@ -5675,16 +5654,6 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOb0Foc19aUGxneEswSmUtRi1LYWFrSk9wdEdzREdERGlPLUtBUWlOV0Qwd3VQOTNUXzJCZUZZRTM1aW9ia04yNlVjNUlpc0d5MDYtZi1zS0tRRWliQ1BQY2hVaHF0UFRxeWpsaXh"
     },
     {
-      "headline": "College Council discusses deadline for accessible-friendly online services - El Camino College The Union",
-      "url": "https://eccunion.com/news/2026/03/17/college-council-discusses-deadline-for-accessible-friendly-online-services/",
-      "source": "Daybook: Scheduled Events",
-      "sourceId": "daybook_scheduled",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Wed, 18 Mar 2026 05:34:28 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPQTN6SExMb09GZjFWWHd0S1VHM2REUFJJcnBWWTNsaWpzenc0MzlPaWZ1MDJuU2tVUW1tbWV4Y2c5RU9LNE5Cc3NqV3B2aF8tQzc1T1pJYkcybXN3VTROTXFxQkJvNWxpM3NRdUd"
-    },
-    {
       "headline": "Judge extends Texas school voucher deadline after lawsuits over exclusion of Islamic schools from TEFA program - CBS News",
       "url": "https://www.cbsnews.com/texas/news/federal-judge-texas-extend-deadline-texas-education-freedom-accounts-lawsuit-islamic-schools/",
       "source": "Daybook: Scheduled Events",
@@ -5695,14 +5664,24 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNcjRFYUZVbHF1Yl9KazV2NzVXMy1wNTdwcjNEc2Q1eGlzUExNWjU0TUNOVEk1ajVpSjBnZVVmQ1o1N0RNOGktemFuWWxZZXQxb0tlUm1EQnF1dHlkVTA2dUI5VW5IZVlqeW0yNWJ"
     },
     {
-      "headline": "Churchill Downs faces $2.4 million deadline for unpaid horse racing fees - WDRB",
-      "url": "https://www.wdrb.com/sports/churchill-downs-faces-2-4-million-deadline-for-unpaid-horse-racing-fees/article_9a70ceba-d28a-42af-b84c-77e6e977a40a.html",
+      "headline": "College Council discusses deadline for accessible-friendly online services - El Camino College The Union",
+      "url": "https://eccunion.com/news/2026/03/17/college-council-discusses-deadline-for-accessible-friendly-online-services/",
       "source": "Daybook: Scheduled Events",
       "sourceId": "daybook_scheduled",
       "category": "daybook",
       "priority": "reference",
-      "date": "Wed, 18 Mar 2026 09:06:02 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRVZvVElvTE1RWWRzMnBSTzBhU3hTdjl0SmpEN1VuX0NxYVAwQ1VnYmdxVm93bGhPaVZTaUZHdXBDNWxKYUpoNWFERXQ5M2xRYVFCSHFNdGYtMG5FaU1nOHROOU91WllzRHFqRWl"
+      "date": "Wed, 18 Mar 2026 05:34:28 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPQTN6SExMb09GZjFWWHd0S1VHM2REUFJJcnBWWTNsaWpzenc0MzlPaWZ1MDJuU2tVUW1tbWV4Y2c5RU9LNE5Cc3NqV3B2aF8tQzc1T1pJYkcybXN3VTROTXFxQkJvNWxpM3NRdUd"
+    },
+    {
+      "headline": "TEFA program application deadline extended following lawsuits - KBTX News 3",
+      "url": "https://www.kbtx.com/2026/03/18/tefa-program-application-deadline-extended-following-lawsuits/",
+      "source": "Daybook: Scheduled Events",
+      "sourceId": "daybook_scheduled",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Wed, 18 Mar 2026 03:43:00 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPdWRXdXZqdjNPY1FrazgyTnJ0VGVvRUliTnhxNHJoMV9fY01jeHo0SVp4MlFld3hQOGUweG1WUlRSMzFTb2tCTGs2bGlrU0JwQWZXTTRzRE5EbzVWU19zT2xEeGgyeDVDdmM3S3k"
     },
     {
       "headline": "Tuesday is the deadline for candidates to get off the Texas Senate GOP runoff ballot - KERA News",
@@ -5713,16 +5692,6 @@
       "priority": "reference",
       "date": "Tue, 17 Mar 2026 19:53:00 GMT",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxONzhucVNlRzEtY3RReEZtcDlWc3ZCUmJnQWk0MzREWjREZnNQVV9QbkJfMzNkTzlDX295UVRPWTl0Ql9wNVk4UjdScGJYSEtjbFhkLUJQbVRsTGlOejd1b3pYdkx1TFhfd3JUUGt"
-    },
-    {
-      "headline": "Deadline approaching to change party affiliation: What you need to know before Utah’s primary elections - ABC4 Utah",
-      "url": "https://www.abc4.com/news/politics/party-affiliation-primary-elections-what-to-know/",
-      "source": "Daybook: Scheduled Events",
-      "sourceId": "daybook_scheduled",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Wed, 18 Mar 2026 04:52:36 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOblJKSTVOejd3WXhOMjA5ajFONEdBTG1pTjk2ZGVzaWNtbkRvdkY0UlJhNUhvc0NuNHdEMk1fYnY2R25MdUdkMWhuOWI5UWdWNU9zamlaNGdfVmIyODZLOVZrd1BIN082UlBZVlJ"
     },
     {
       "headline": "Jesse Williams Joins Season 5 Of Apple TV’s ‘The Morning Show’ - Deadline",
@@ -5755,14 +5724,14 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBqR1prcXdSaFYyaXVtc21uV281M1VrWUZTR2RlVGNndHFzbmtUdWVabUM2UlJkc2xpR3J0OGI0OUE0eDQtUjZ0cnR6T3BzWkFxU2x3aHN6RFJxcEM3X3VBV1lJWFNtZlc1ZnRBYzE"
     },
     {
-      "headline": "'Dune: Part 3' Details Zendaya, Anya Taylor-Joy, Robert Pattinson - Deadline",
-      "url": "https://deadline.com/2026/03/dune-part-3-plot-details-zendaya-anya-taylor-joy-1236757421/",
+      "headline": "'The Lincoln Lawyer' Season 5 Begins Production; Casting &amp; Plot Drop - Deadline",
+      "url": "https://deadline.com/2026/03/the-lincoln-lawyer-production-season-5-plot-casting-1236757148/",
       "source": "Daybook: Scheduled Events",
       "sourceId": "daybook_scheduled",
       "category": "daybook",
       "priority": "reference",
-      "date": "Tue, 17 Mar 2026 16:30:00 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQNTRkdFVZdDBrWjZ3a0RNb0FRQTU5MjZhamRMcVJWa3B2eTA5TlV3SjNLNm00WGtfRlJLcDRwX3pTdTJSN3paSUp4cmFQeDBZa3VhQTFwYzNiTGR4YVBEUGFfY05XOC12Q1o2R0x"
+      "date": "Tue, 17 Mar 2026 18:00:00 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOOXNiRUhGZVd4MkVCRUNPLV9ORHVpa1NaaG1yajFJRmVORnllWS1sZ25JTEpYOEFZbk1rdk52aTJpNWZ3YWRlY3dRbE1RWUV4eDVCdTNxU0UwTDJWREF0LWNMb3hySk5SaXJYSXV"
     }
   ],
   "watchCandidates": [
@@ -5816,23 +5785,6 @@
           "matched": "uncertainty"
         }
       ]
-    },
-    {
-      "headline": "Aftermath of Iranian ‘revenge’ strikes on Israel, two killed",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/18/aftermath-of-iranian-revenge-strikes-on-israel-leaves-destruction-two-ki?traffic_source=rss",
-      "source": "Al Jazeera",
-      "sourceId": "aljazeera",
-      "category": "general",
-      "priority": "secondary",
-      "date": "Wed, 18 Mar 2026 08:13:25 +0000",
-      "description": "Widespread damage was left across areas near Tel Aviv after overnight Iranian missile strikes.",
-      "watchCandidate": true,
-      "watchSignals": [
-        {
-          "category": "consequence",
-          "matched": "Aftermath"
-        }
-      ]
     }
   ],
   "screenshots": [
@@ -5844,7 +5796,7 @@
       "category": "priority_signal",
       "priority": "primary",
       "topHeadlines": [
-        "Iran launches barrage of missiles after an Israeli strike kills its security chief",
+        "Iranian Intelligence Minister Esmail Khatib killed, Israel defense minister says",
         "About 90 ships cross the Strait of Hormuz as Iran exports millions of barrels of oil despite the war",
         "China ignores Trump’s Hormuz request as the Iran war deepens and his Beijing trip slips",
         "Watch: The moment an Israeli airstrike hits an apartment building in central Beirut",
@@ -5873,7 +5825,7 @@
       "category": "priority_signal",
       "priority": "primary",
       "topHeadlines": [
-        "Israel strikes central Beirut as US targets Iran's missile sites along the Strait of Hormuz",
+        "Israel says it has killed Iran's intelligence minister in overnight strike",
         "Death of Ali Larijani deepens crisis at heart of Iran's leadership",
         "Chinese national charged for trying to smuggle 2,000 ants from Kenya",
         "Trump's homeland security pick Mullin faces senators' questions",
@@ -5905,12 +5857,12 @@
         "The free press is under threat",
         "Today in Focus What Nigel Farage will say for money",
         "Ana Schnabl Why is Slovenia turning its back on liberalism?",
+        "The Guardian Investigates Off Duty: The Crime",
         "Happy Mondays Shaun Ryder: ‘Heroin isn’t a party drug’",
         "Isolated and exposed Can NZ’s fragile economic recovery withstand oil shock?",
         "‘Fear is good’ My scary journey into Robert Macfarlane's Underland",
-        "'Industrial-scale scams' What rise and fall of Prince Group means for Cambodia",
         "Middle East crisis",
-        "Middle East crisis live Israel strikes central Beirut as Iran vows revenge for killing of security chief",
+        "Middle East crisis live Israel strikes central Beirut and claims to have killed Iran’s intelligence minister overnight",
         "Full reportIran confirms death of Ali Larijani"
       ]
     },
