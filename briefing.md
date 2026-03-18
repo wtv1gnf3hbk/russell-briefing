@@ -1,39 +1,49 @@
 Good morning, Russell! Here's what happened while you were sleeping.
 
-**Top Stories**
+## **Top Stories**
 
-- Israel says it has [killed](https://www.ft.com/content/3b4fd03c-e416-4cbd-bf5c-adca908e6911) Iran's top security official Ali Larijani in an airstrike, according to the Financial Times.
+- Iran [launched missiles](https://apnews.com/article/iran-iraq-us-israel-trump-march-18-2026-d7ca062ba1bf99d1f8dc00c8073cf10f) at Tel Aviv overnight in retaliation for Israel's killing of Iranian Intelligence Minister Esmail Khatib, according to AP.
 
-- Pakistan is being [blamed](https://www.bbc.com/news/articles/c4g8n7e0l40o) for an airstrike on a Kabul rehabilitation center that killed at least 100 people, the BBC reports.
+- Israel [struck central](https://www.france24.com/en/video/20260318-on-the-ground-lebanon-says-israel-struck-without-warning-killing-at-least-10-in-beirut) Beirut without warning, killing at least 10 people, France24 reports.
 
-- Cuba's power [grid collapsed](https://www.bbc.com/news/articles/c07j40dyx53o), leaving millions without electricity as chronic fuel shortages worsen following a US blockade on oil shipments to the island, per the BBC.
+- Southeast Asian [governments introduced](https://www.theguardian.com/world/2026/mar/18/south-east-asia-nations-conserve-energy-oil-soaring-costs) fuel rationing and banned air conditioning to shield citizens from soaring oil costs following the Middle East war.
 
-- At least 23 people died in [suspected suicide](https://www.bbc.com/news/articles/c4gqnjjy9edo) attacks that struck busy locations in Nigeria's northeastern city of Maiduguri, the BBC reports.
+- China [offered energy](https://www.reuters.com/world/china/china-makes-energy-security-reunification-offer-taiwan-during-middle-east-war-2026-03-18/) security guarantees to Taiwan as part of reunification talks while the Middle East crisis drives global fuel shortages, Reuters reports.
 
-- Iran's new supreme leader [has rejected](https://www.reuters.com/world/middle-east/irans-new-supreme-leader-rejects-proposals-reducing-tensions-with-us-senior-2026-03-17/) proposals for reducing tensions with the US, a senior official told Reuters.
+- Sweden's security service [identified Russia](https://www.reuters.com/world/china/russia-china-iran-are-main-threats-sweden-security-service-says-2026-03-18/), China and Iran as the country's main threats in its annual assessment, according to Reuters.
 
-- Trump [seeks to](https://www.bbc.com/news/articles/cn9e0z7v3nxo) delay his meeting with Xi Jinping in China, citing the escalating war in Iran, the BBC reports.
+- Asian markets [advanced and](https://apnews.com/article/stocks-markets-oil-iran-trump-fddc46573a120d8235d0b696350b268d) oil prices slipped back despite Iran's overnight missile barrage, AP reports.
 
-- Dubai flights are being [delayed or](https://www.ft.com/content/cc256f74-fcc2-4b25-b4ba-1c5c5b6a4d23) cancelled following the latest drone and missile attacks, with regional hubs Doha and Abu Dhabi also severely constrained, according to the Financial Times.
+- Turkey says [NATO is](https://www.reuters.com/business/aerospace-defense/turkey-says-nato-deploying-more-defences-guard-southern-base-2026-03-18/) deploying additional defenses to guard a strategic southern base following regional escalation, Reuters reports.
 
-**Conflicts & Diplomacy**
+## **Conflicts & Diplomacy**
 
-- The EU [seeks a](https://www.reuters.com/world/eu-seeks-diplomatic-solution-hormuz-strait-kallas-says-2026-03-17/) diplomatic solution for the Strait of Hormuz, foreign policy chief Kaja Kallas told Reuters.
+- Iran's foreign minister said the country's [nuclear doctrine](https://www.reuters.com/world/middle-east/irans-nuclear-doctrine-not-likely-change-foreign-minister-says-2026-03-18/) is unlikely to change and called for new protocols governing the Strait of Hormuz, according to Reuters.
 
-- The EU has [adapted to](https://www.reuters.com/world/china/eu-has-adapted-us-unpredictability-foreign-policy-chief-says-2026-03-17/) US unpredictability under Trump, the bloc's foreign policy chief said in an exclusive interview with Reuters.
+- A top US [counterterrorism official](https://www.france24.com/en/video/20260318-top-us-official-resigns-over-trump-s-war-says-iran-posed-no-imminent-threat) resigned over Trump's Iran war, saying the country posed no imminent threat, France24 reports.
 
-- Gulf states are [seeking to](https://www.france24.com/en/tv-shows/business/20260317-gulf-states-seek-to-bypass-strait-of-hormuz-for-oil-exports-via-pipelines) bypass the Strait of Hormuz for oil exports via pipelines, France24 reports.
+- Iran [confirmed the](https://www.aljazeera.com/video/quotable/2026/3/18/us-and-israel-have-taken-majority-of-irans-ballistic-missile-capability?traffic_source=rss) death of Ali Larijani and vowed vengeance as it prepares funeral services for the slain security chief, according to Al Jazeera.
 
-**Business & Markets**
+## **Business & Markets**
 
-- Countries are entering [energy triage](https://apnews.com/article/middle-east-wars-energy-asia-gas-oil-f22739369eb36ccaf87543459cfed320) as they conserve power and curb soaring prices following the Iran war, AP reports.
+- Rising gasoline prices from the Iran war [could push](https://www.reuters.com/business/energy/gasoline-price-hike-iran-war-could-push-consumers-toward-evs-hybrids-2026-03-18/) consumers toward electric vehicles and hybrids, Reuters reports.
 
-- Energy prices [are surging](https://www.aljazeera.com/video/counting-the-cost/2026/3/17/could-the-iran-war-trigger-a-global-recession) as the Iran war disrupts supply, raising recession risks for the US, China and Europe, according to Al Jazeera.
+- Samsung's unionized workers in [South Korea](https://www.reuters.com/business/world-at-work/samsungs-unionised-workers-south-korea-approve-strike-plan-2026-03-18/) approved a strike plan following failed wage negotiations, according to Reuters.
 
-**What to Watch**
+- Alibaba's [AI strategy](https://www.reuters.com/world/china/alibabas-ai-strategy-shift-comes-into-focus-with-big-bets-agents-2026-03-18/) shift comes into focus with major investments in AI agents, Reuters reports.
 
-- French parties are [scrambling to](https://www.france24.com/en/video/20260317-french-parties-scramble-to-make-alliances-ahead-of-local-election-runoffs) make alliances ahead of this weekend's local election runoffs, France24 reports.
+- Meta [failed to](https://www.reuters.com/sustainability/boards-policy-regulation/meta-vowed-stop-illegal-financial-ads-britain-it-failed-1000-times-week-2026-03-18/) stop 1,000 illegal financial advertisements in Britain within one week despite previous commitments, according to a Reuters investigation.
 
-- The Trump administration is [applying pressure](https://apnews.com/article/trump-media-hegseth-carr-fcc-first-amendment-d8bba1bcfa09bd47a9e1523616be480c) to media outlets to cover the Iran war from the administration's perspective, AP reports.
+## **Also Notable**
 
-- Regional aviation continues facing major disruption as the Middle East conflict affects major travel hubs across the Gulf.
+- India's patent on semaglutide [expires March](https://www.bbc.com/news/articles/cx2g4411en3o?at_medium=RSS&at_campaign=rss) 20, with about 50 generic semaglutide drugs expected to enter the market and potentially reshape global obesity treatment.
+
+- A Chinese university [told students](https://www.reuters.com/world/asia-pacific/chinese-university-tells-students-fall-love-during-spring-break-2026-03-18/) to "fall in love" during spring break as part of efforts to address the country's declining birth rate, Reuters reports.
+
+## **What to Watch**
+
+- US intelligence [officials testify](https://apnews.com/article/fbi-iran-war-congress-gabbard-kash-patel-54efeb2ec50a7d31421dc1c36ea4ab5b) today before Congress about Iran war threats confronting the homeland, according to AP.
+
+- The Trump-Xi summit [faces delays](https://www.nytimes.com/2026/03/17/world/asia/iran-war-china-us-trump-xi.html) as tensions over the Iran war cast vital US-China issues into uncertainty, the New York Times reports.
+
+- Iran [fired missiles](https://www.france24.com/en/video/20260318-iran-to-hold-funeral-for-slain-security-chief-as-it-vows-vengeance) at Israel in retaliation as Tehran prepares funeral services for killed security chief Ali Larijani, France24 reports.
