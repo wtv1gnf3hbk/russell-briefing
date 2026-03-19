@@ -4,17 +4,17 @@
     "owner": "Russell Goldman",
     "timezone": "America/New_York",
     "description": "Daily international news briefing — all bullets, ready by 6am ET",
-    "generated": "2026-03-19T10:31:25.734Z",
-    "generatedTimestamp": 1773916285734
+    "generated": "2026-03-19T11:08:01.771Z",
+    "generatedTimestamp": 1773918481771
   },
   "stats": {
     "sourceCount": 19,
     "successCount": 19,
-    "totalStories": 145,
+    "totalStories": 144,
     "totalScreenshots": 6,
     "daybookStories": 42,
-    "watchCandidateCount": 6,
-    "elapsed": "60.1s"
+    "watchCandidateCount": 7,
+    "elapsed": "59.7s"
   },
   "stories": {
     "all": [
@@ -159,6 +159,26 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOSUg2OHRCQl9lMnJnd3Z4NnAxM3hpRm1lTEpRRGYtWU1EUVN2YzhBaFd1RkNRa0JiSU5sazFkZ0pvdGJJRUlaTkp2SFZpRWszYTBXQTlmWWw0YmdHUXY1bmRSNnM5R2FsbWFuemZ"
       },
       {
+        "headline": "Samsung Elec plans over $73 bln investment in 2026 to lead in AI chip sector - Reuters",
+        "url": "https://www.reuters.com/business/samsung-electronics-plans-over-73-bln-investment-lead-ai-chip-sector-2026-03-19/",
+        "source": "Reuters",
+        "sourceId": "reuters_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Thu, 19 Mar 2026 07:59:39 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNd25Qa1dITzBvWENPOTZadzY0cHo0MjRaQlVmZlRUTy05cU9vbl93RUFjTmxmVlF5V0U0MnEwLWFDMV9KSXNOUGdiUkVfa0tRNjJfNEZzLVlSbU1SWFRzRk5sazZhOHZLLXRiVnJ"
+      },
+      {
+        "headline": "EU leaders hunt for quick fixes to energy price spike amid Iran war - Reuters",
+        "url": "https://www.reuters.com/sustainability/boards-policy-regulation/eu-leaders-hunt-quick-fixes-energy-price-spike-amid-iran-war-2026-03-19/",
+        "source": "Reuters",
+        "sourceId": "reuters_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Thu, 19 Mar 2026 05:04:43 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTy1YWnRza1E4bXBEckhQX3FaQVhRazVUZW9mSnhXS0xGc18wMTFOSEJCdG9pNmZWQ19KVXVDV1cyUzhjdC1fYlJDOVJWcGxUaF9rZmx6bDVLcjRhd2puemhpckFjOXlkQm1IRXl"
+      },
+      {
         "headline": "Ukraine peace talks paused amid Iran war, Russia's Izvestia says - Reuters",
         "url": "https://www.reuters.com/world/europe/ukraine-peace-talks-paused-amid-iran-war-russias-izvestia-says-2026-03-19/",
         "source": "Reuters",
@@ -167,16 +187,6 @@
         "priority": "primary",
         "date": "Thu, 19 Mar 2026 05:28:00 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOVE5hSDl3TW01YmhCdEZ4UWlVYWpXUFdQTXRfd0ZkZ01sb3NLTmhNNFZZdmtwc2xFNzZNYzYtaGUwbkx3V1FwV29WbndpVktuZER6dTFkdW5LdGxYZWpMTkc0aHMzYk9PM25QeEt"
-      },
-      {
-        "headline": "Nepal investigating burning of Xi Jinping's book at university - Reuters",
-        "url": "https://www.reuters.com/world/asia-pacific/nepal-investigating-burning-xi-jinpings-book-university-2026-03-19/",
-        "source": "Reuters",
-        "sourceId": "reuters_world",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Thu, 19 Mar 2026 08:15:24 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQcy1Pb0l1Nm5NbmpOZXFEb3hJVWZQTUkyTTY0WHM3S2xjZl9LZmxrQWozSE5lb3ZKbVR5WEdwNVotLS14NXljNE1oRXBTNXlsQjBIenQwR2ZWWHRKTGlTelJFRzBKQ2lINHRGV21"
       },
       {
         "headline": "Investors face cloudier Fed rate view as Iran war grips markets - Reuters",
@@ -199,16 +209,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPSDA1bGlRbVZ6OENrX0FINVNCZEM0T0l6aWxkRjk1UnhmVjZ1UTdlYmVLX3hRak5XbDZVZ3RhVlBVVDVsMU5FejhEcGJKT2dNQzZGVlZIZ0hDdnpsT0JHWDZHRDctSlNtZWp6djA"
       },
       {
-        "headline": "EU leaders hunt for quick fixes to energy price spike amid Iran war - Reuters",
-        "url": "https://www.reuters.com/sustainability/boards-policy-regulation/eu-leaders-hunt-quick-fixes-energy-price-spike-amid-iran-war-2026-03-19/",
-        "source": "Reuters",
-        "sourceId": "reuters_world",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Thu, 19 Mar 2026 05:04:43 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTy1YWnRza1E4bXBEckhQX3FaQVhRazVUZW9mSnhXS0xGc18wMTFOSEJCdG9pNmZWQ19KVXVDV1cyUzhjdC1fYlJDOVJWcGxUaF9rZmx6bDVLcjRhd2puemhpckFjOXlkQm1IRXl"
-      },
-      {
         "headline": "US detects drones over base where Rubio, Hegseth live, Washington Post reports - Reuters",
         "url": "https://www.reuters.com/world/us/us-detects-drones-over-base-where-rubio-hegseth-live-washington-post-reports-2026-03-19/",
         "source": "Reuters",
@@ -217,6 +217,16 @@
         "priority": "primary",
         "date": "Thu, 19 Mar 2026 03:26:00 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPeHg5RzQxSjJ4MUtxdnJQanl1aTlpZDYweVRveDhTSU1mcW8weVRHSE5DbXhMT09Qby1wX3VLc2JtX2Rtb0I5cTMyOXdZYlQyaUNiX0xPSzZKVmdqWG5aaUM3blEwcFV0bkp0WU4"
+      },
+      {
+        "headline": "Nepal investigating burning of Xi Jinping's book at university - Reuters",
+        "url": "https://www.reuters.com/world/asia-pacific/nepal-investigating-burning-xi-jinpings-book-university-2026-03-19/",
+        "source": "Reuters",
+        "sourceId": "reuters_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Thu, 19 Mar 2026 08:15:24 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQcy1Pb0l1Nm5NbmpOZXFEb3hJVWZQTUkyTTY0WHM3S2xjZl9LZmxrQWozSE5lb3ZKbVR5WEdwNVotLS14NXljNE1oRXBTNXlsQjBIenQwR2ZWWHRKTGlTelJFRzBKQ2lINHRGV21"
       },
       {
         "headline": "Trump says Israel attacked Iran gas field without US and Qatari involvement, warns against attacks on Qatar - Reuters",
@@ -229,27 +239,17 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOaHlsV2txcHpXRmxvVlRDMkpiYk5ybktCdzlXOEFwdk9BUmtrSE9leUZEV3M4b2VBQl9KZWFhbjU4RXloeWRkR05UR3E3emZZOGpNYTZUck90bzN4c1N2OVk4dWt3MGZMaU9zOXp"
       },
       {
-        "headline": "Samsung Elec plans over $73 bln investment in 2026 to lead in AI chip sector - Reuters",
-        "url": "https://www.reuters.com/business/samsung-electronics-plans-over-73-bln-investment-lead-ai-chip-sector-2026-03-19/",
-        "source": "Reuters",
-        "sourceId": "reuters_world",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Thu, 19 Mar 2026 07:59:39 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNd25Qa1dITzBvWENPOTZadzY0cHo0MjRaQlVmZlRUTy05cU9vbl93RUFjTmxmVlF5V0U0MnEwLWFDMV9KSXNOUGdiUkVfa0tRNjJfNEZzLVlSbU1SWFRzRk5sazZhOHZLLXRiVnJ"
-      },
-      {
         "headline": "Gold falls to over one month low on hawkish Fed tone - Reuters",
         "url": "https://www.reuters.com/world/india/gold-rises-off-one-month-low-softer-dollar-hawkish-fed-caps-gains-2026-03-19/",
         "source": "Reuters",
         "sourceId": "reuters_world",
         "category": "wire",
         "priority": "primary",
-        "date": "Thu, 19 Mar 2026 02:59:00 GMT",
+        "date": "Thu, 19 Mar 2026 02:59:16 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOeU43eHJZa2tJVHhJUFA2U2lMb3EzS0hlT1BpMHNybzdaWHhsSDFfdFVuQXV4RWJvZi1teVNpSzdwVExoak9lNEd4Wk9DclRxSm9iTW8zTzlBUG5zbjlqaGdNd2dJcUo5Ry1aR3B"
       },
       {
-        "headline": "Oil jumps above $115/bbl after attacks on Mideast energy assets multiply - Reuters",
+        "headline": "Oil jumps above $119 a barrel on Middle East energy attacks - Reuters",
         "url": "https://www.reuters.com/business/energy/oil-rises-3-after-iran-strikes-middle-east-energy-facilities-2026-03-19/",
         "source": "Reuters",
         "sourceId": "reuters_world",
@@ -259,17 +259,24 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPNW5XVEI0MG5IVk1HbW1sLWZ4emdJaGVtakI3b2FDcGJmbXplU1VSMUpUc09xcGQ0NFZrUVc3bmxVRF9RTFFUYVY3MlNkVzRNZ1gyNm1leHV4SHFZMVZrRVh6aXRlNlpRQnhkcjJ"
       },
       {
-        "headline": "India's HDFC Bank says chairman exit may be over rift with management; stock falls - Reuters",
-        "url": "https://www.reuters.com/world/india/indias-hdfc-bank-shares-slide-after-chairman-exits-over-ethical-differences-2026-03-19/",
+        "headline": "Asia's Russian fuel imports poised to hit all-time high due to Middle East disruption - Reuters",
+        "url": "https://www.reuters.com/business/energy/asias-russian-fuel-imports-poised-hit-all-time-high-due-middle-east-disruption-2026-03-19/",
         "source": "Reuters",
         "sourceId": "reuters_world",
         "category": "wire",
         "priority": "primary",
-        "date": "Thu, 19 Mar 2026 03:42:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWEhqQkdMMHhoaU53WjZFYk0zY0hvUUtWVElzdVRPTER4bjhZblkyWmtweG5Mc2FtdHE0bjhQQjloQzdCanpIMWVmZDg5SFhCMU8zYkF3c1lxR09reXAxNW4tQk1CamJxbGNHeTE"
+        "date": "Thu, 19 Mar 2026 04:53:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQc1VCc2ZiVGdJVHNUVjk5c3dYZ1k5N01WczFKeUpFZk5ab29kaDQ4UWlETlJYVThzeEtiSDViVHI2RWNJanNYR2dvYmpRZGRVX3hpdkZldmFvaGVzRUNYempqazBMSi1zYU0teWt",
+        "watchCandidate": true,
+        "watchSignals": [
+          {
+            "category": "temporal",
+            "matched": "due to"
+          }
+        ]
       },
       {
-        "headline": "How the Iran war has left Europe facing yet another energy crisis",
+        "headline": "How Europe sleepwalked into yet another energy crisis",
         "url": "https://www.bbc.com/news/articles/c24de9e97vno?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC",
         "sourceId": "bbc_world",
@@ -319,6 +326,26 @@
         "description": "They were killed when shrapnel landed in Beit Awwa, while a Thai worked was also killed by shrapnel falling in Israel."
       },
       {
+        "headline": "Kevin Spacey and accusers settle before civil trial",
+        "url": "https://www.bbc.com/news/articles/c5ygyypy7pro?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC",
+        "sourceId": "bbc_world",
+        "category": "general",
+        "priority": "primary",
+        "date": "Thu, 19 Mar 2026 09:27:23 GMT",
+        "description": "The actor agrees an out-of-court settlement with three men who accused him of sexual assault."
+      },
+      {
+        "headline": "Japan PM to hold 'difficult' talks with Trump as Iran conflict looms large",
+        "url": "https://www.bbc.com/news/articles/cde4e2xyelpo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC",
+        "sourceId": "bbc_world",
+        "category": "general",
+        "priority": "primary",
+        "date": "Thu, 19 Mar 2026 10:30:42 GMT",
+        "description": "It comes days after Trump criticised Japan for not answering his demands for help in the Strait of Hormuz."
+      },
+      {
         "headline": "Sony removes 135,000 'deepfakes' of its artists' music",
         "url": "https://www.bbc.com/news/articles/cy57593gxe0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC",
@@ -327,6 +354,16 @@
         "priority": "primary",
         "date": "Wed, 18 Mar 2026 17:19:41 GMT",
         "description": "The company says the proliferation of AI has enabled people to upload fake songs to streaming sites."
+      },
+      {
+        "headline": "Cyprus leader calls for frank discussion on 'colonial' UK bases",
+        "url": "https://www.bbc.com/news/articles/cy7166denxeo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC",
+        "sourceId": "bbc_world",
+        "category": "general",
+        "priority": "primary",
+        "date": "Thu, 19 Mar 2026 11:05:55 GMT",
+        "description": "The UK's two military bases on Cyprus are a \"colonial consequence\" on the island, says President Nikos Christodoulides."
       },
       {
         "headline": "Ecuador gang leader wanted for murder of presidential candidate arrested",
@@ -367,36 +404,6 @@
         "priority": "primary",
         "date": "Thu, 19 Mar 2026 00:01:18 GMT",
         "description": "The film will combine live action and computer-generated animation and is in \"early development\"."
-      },
-      {
-        "headline": "US aircraft carrier to sail to Crete for repairs after fire on board",
-        "url": "https://www.bbc.com/news/articles/c0rjr28nxrwo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC",
-        "sourceId": "bbc_world",
-        "category": "general",
-        "priority": "primary",
-        "date": "Thu, 19 Mar 2026 00:44:57 GMT",
-        "description": "The USS Gerald R Ford has played a significant role in US operations during the war with Iran."
-      },
-      {
-        "headline": "Alberta seeks to set limits on use of medically assisted dying",
-        "url": "https://www.bbc.com/news/articles/c8d5d54glreo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC",
-        "sourceId": "bbc_world",
-        "category": "general",
-        "priority": "primary",
-        "date": "Wed, 18 Mar 2026 23:23:49 GMT",
-        "description": "The Canadian province has proposed legislation that will limit its use solely to end-of-life circumstances."
-      },
-      {
-        "headline": "Rhinos back in the wild in Uganda for the first time in 40 years",
-        "url": "https://www.bbc.com/news/articles/cn4g41n9j4lo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC",
-        "sourceId": "bbc_world",
-        "category": "general",
-        "priority": "primary",
-        "date": "Wed, 18 Mar 2026 17:36:05 GMT",
-        "description": "The return of southern white rhinos to the country comes after Ugandan poachers once wiped them out."
       },
       {
         "headline": "South Africans say criminal gangs are exploiting the water crisis",
@@ -569,16 +576,6 @@
         "description": "&lt;p&gt;Reform UK leader was paid to make remarks about imprisoned rapper and ex-Honduran president in Cameo videos&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"https://www.theguardian.com/uk-ne"
       },
       {
-        "headline": "Canada wants to build up its long-neglected Arctic. The hard question is how",
-        "url": "https://www.theguardian.com/world/2026/mar/18/canada-arctic-development-carney",
-        "source": "Guardian",
-        "sourceId": "guardian_world",
-        "category": "general",
-        "priority": "primary",
-        "date": "Wed, 18 Mar 2026 11:00:39 GMT",
-        "description": "&lt;p&gt;Ottawa wants to modernize a region in the north that’s about six times the size of Texas, ‘just like in the 1800s’&lt;/p&gt;&lt;p&gt;Picture an Arctic territory, marginalized by its own count"
-      },
-      {
         "headline": "Hong Kong apartment fires: hearings to begin into Wang Fuk blaze that killed 168 people",
         "url": "https://www.theguardian.com/news/2026/mar/19/hong-kong-apartment-fires-hearings-to-begin-into-wang-fuk-blaze-that-killed-168-people",
         "source": "Guardian",
@@ -622,7 +619,7 @@
         "sourceId": "nyt_world",
         "category": "general",
         "priority": "secondary",
-        "date": "Thu, 19 Mar 2026 10:25:21 +0000",
+        "date": "Thu, 19 Mar 2026 10:48:39 +0000",
         "description": "Refineries and gas facilities in Kuwait, Qatar and Saudi Arabia were struck, a day after Iran’s vast South Pars gas field was hit. The sustained attacks heightened fears over the war’s damage to the g"
       },
       {
@@ -777,6 +774,16 @@
         ]
       },
       {
+        "headline": "Gabbard says Pakistan missiles a future threat to US, but experts push back",
+        "url": "https://www.aljazeera.com/news/2026/3/19/gabbard-says-pakistan-missiles-a-future-threat-to-us-but-experts-push-back?traffic_source=rss",
+        "source": "Al Jazeera",
+        "sourceId": "aljazeera",
+        "category": "general",
+        "priority": "secondary",
+        "date": "Thu, 19 Mar 2026 10:29:39 +0000",
+        "description": "The US raises concerns but analysts say Pakistan’s missile programme focuses on India, which has longer-range missiles."
+      },
+      {
         "headline": "Iran hits Qatar gas operations in response to Israeli attack",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/3/19/iran-hits-qatar-gas-operations-in-response-to-israeli-attack?traffic_source=rss",
         "source": "Al Jazeera",
@@ -924,14 +931,121 @@
         "description": "Heavy social media use has contributed to &#039;worrying decline&#039; in wellbeing in Western countries, report says."
       },
       {
-        "headline": "US intelligence agencies not expecting China to invade Taiwan in 2027",
-        "url": "https://www.aljazeera.com/news/2026/3/19/us-intelligence-agencies-not-expecting-china-to-invade-taiwan-in-2027?traffic_source=rss",
-        "source": "Al Jazeera",
-        "sourceId": "aljazeera",
-        "category": "general",
+        "headline": "Central banks confront spectre of inflation as Iran war escalates",
+        "url": "https://www.france24.com/en/tv-shows/business/20260319-central-banks-confront-spectre-of-inflation-as-iran-war-escalates",
+        "source": "France24",
+        "sourceId": "france24",
+        "category": "wire",
         "priority": "secondary",
-        "date": "Thu, 19 Mar 2026 05:22:53 +0000",
-        "description": "US spy agencies says Chinese leadership still prefers to pursue unification with Taiwan &#039;without use of force&#039;."
+        "date": "Thu, 19 Mar 2026 10:45:59 GMT",
+        "description": ""
+      },
+      {
+        "headline": "EU leaders pile pressure on Hungary's Orban to lift block on Ukraine loan",
+        "url": "https://www.france24.com/en/video/20260319-eu-leaders-pile-pressure-on-hungary-s-orban-to-lift-block-on-ukraine-loan",
+        "source": "France24",
+        "sourceId": "france24",
+        "category": "wire",
+        "priority": "secondary",
+        "date": "Thu, 19 Mar 2026 10:35:47 GMT",
+        "description": ""
+      },
+      {
+        "headline": "Trump threatens to strike world's largest gas field if Iran attacks Qatar again",
+        "url": "https://www.france24.com/en/video/20260319-trump-threatens-to-strike-world-s-largest-gas-field-if-iran-attacks-qatar-again",
+        "source": "France24",
+        "sourceId": "france24",
+        "category": "wire",
+        "priority": "secondary",
+        "date": "Thu, 19 Mar 2026 10:34:19 GMT",
+        "description": "",
+        "watchCandidate": true,
+        "watchSignals": [
+          {
+            "category": "escalation",
+            "matched": "threatens to"
+          }
+        ]
+      },
+      {
+        "headline": "Who is running Iran? Top leadership decimated by US-Israeli strikes",
+        "url": "https://www.france24.com/en/video/20260319-who-is-running-iran-top-leadership-decimated-by-us-israeli-strikes",
+        "source": "France24",
+        "sourceId": "france24",
+        "category": "wire",
+        "priority": "secondary",
+        "date": "Thu, 19 Mar 2026 10:32:58 GMT",
+        "description": ""
+      },
+      {
+        "headline": "Iraq caught in crossfire of Middle East war",
+        "url": "https://www.france24.com/en/video/20260319-iraq-caught-in-crossfire-of-middle-east-war",
+        "source": "France24",
+        "sourceId": "france24",
+        "category": "wire",
+        "priority": "secondary",
+        "date": "Thu, 19 Mar 2026 10:32:21 GMT",
+        "description": ""
+      },
+      {
+        "headline": "Dozens arrested in Dubai for allegedly filming the war",
+        "url": "https://www.france24.com/en/video/20260319-dozens-arrested-in-dubai-for-allegedly-filming-the-war",
+        "source": "France24",
+        "sourceId": "france24",
+        "category": "wire",
+        "priority": "secondary",
+        "date": "Thu, 19 Mar 2026 10:31:09 GMT",
+        "description": ""
+      },
+      {
+        "headline": "French top diplomat to visit Beirut: Paris vows solidarity with Lebanon",
+        "url": "https://www.france24.com/en/video/20260319-french-top-diplomat-to-visit-beirut-paris-vows-solidarity-with-lebanon",
+        "source": "France24",
+        "sourceId": "france24",
+        "category": "wire",
+        "priority": "secondary",
+        "date": "Thu, 19 Mar 2026 10:29:50 GMT",
+        "description": ""
+      },
+      {
+        "headline": "EU summit to focus on wars in the Middle East and Ukraine",
+        "url": "https://www.france24.com/en/video/20260319-eu-summit-to-focus-on-wars-in-the-middle-east-and-ukraine",
+        "source": "France24",
+        "sourceId": "france24",
+        "category": "wire",
+        "priority": "secondary",
+        "date": "Thu, 19 Mar 2026 10:28:39 GMT",
+        "description": ""
+      },
+      {
+        "headline": "War in Ukraine: Kharkiv opera defies Russian bombardment",
+        "url": "https://www.france24.com/en/video/20260319-war-in-ukraine-kharkiv-opera-defies-russian-bombardment",
+        "source": "France24",
+        "sourceId": "france24",
+        "category": "wire",
+        "priority": "secondary",
+        "date": "Thu, 19 Mar 2026 10:27:27 GMT",
+        "description": ""
+      },
+      {
+        "headline": "Iran causes 'extensive' damage to Qatar gas hub, sparks Trump warning",
+        "url": "https://www.france24.com/en/video/20260319-iran-causes-extensive-damage-to-qatar-gas-hub-sparks-trump-warning",
+        "source": "France24",
+        "sourceId": "france24",
+        "category": "wire",
+        "priority": "secondary",
+        "date": "Thu, 19 Mar 2026 10:26:45 GMT",
+        "description": ""
+      },
+      {
+        "headline": "Inside Lebanon's emergency response as displacement crisis strains resources",
+        "url": "https://www.france24.com/en/video/20260319-inside-lebaon-s-emergency-response-as-displacement-crisis-strains-resources",
+        "source": "France24",
+        "sourceId": "france24",
+        "category": "wire",
+        "priority": "secondary",
+        "date": "Thu, 19 Mar 2026 10:25:42 GMT",
+        "description": ""
       },
       {
         "headline": "Paris appeals court rejects French govenment bid to suspend Shein",
@@ -971,123 +1085,6 @@
         "category": "wire",
         "priority": "secondary",
         "date": "Thu, 19 Mar 2026 07:22:18 GMT",
-        "description": ""
-      },
-      {
-        "headline": "Activists deliver medical aid to crisis-hit Cuba as US energy blockade continues",
-        "url": "https://www.france24.com/en/americas/20260319-activists-deliver-medical-aid-to-crisis-hit-cuba-as-us-energy-blockade-continues",
-        "source": "France24",
-        "sourceId": "france24",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Thu, 19 Mar 2026 07:15:52 GMT",
-        "description": ""
-      },
-      {
-        "headline": "Ayman Mhanna: 'Lebanon has become the theatre for a war between Israel and Iran'",
-        "url": "https://www.france24.com/en/ayman-mhanna-lebanon-has-become-the-theatre-for-a-war-between-israel-and-iran",
-        "source": "France24",
-        "sourceId": "france24",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Thu, 19 Mar 2026 07:04:00 GMT",
-        "description": ""
-      },
-      {
-        "headline": "France's FM to visit Lebanon in show of 'support and solidarity' amid Middle East war",
-        "url": "https://www.france24.com/en/middle-east/20260319-france-s-fm-to-visit-lebanon-in-show-of-support-and-solidarity-amid-middle-east-war",
-        "source": "France24",
-        "sourceId": "france24",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Thu, 19 Mar 2026 06:23:45 GMT",
-        "description": ""
-      },
-      {
-        "headline": "Liverpool set up PSG clash in Champions League quarter-finals",
-        "url": "https://www.france24.com/en/tv-shows/sports/20260319-liverpool-set-up-psg-clash-in-champions-league-quarter-finals",
-        "source": "France24",
-        "sourceId": "france24",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Thu, 19 Mar 2026 06:06:59 GMT",
-        "description": ""
-      },
-      {
-        "headline": "European leaders seek breakthrough on €90 billion Ukraine loan blocked by Viktor Orban",
-        "url": "https://www.france24.com/en/europe/20260319-european-leaders-seek-breakthrough-on-%E2%82%AC90bn-ukraine-loan-blocked-by-viktor-orban",
-        "source": "France24",
-        "sourceId": "france24",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Thu, 19 Mar 2026 04:09:49 GMT",
-        "description": ""
-      },
-      {
-        "headline": "Live: Oil prices soar as Iran intensifies strikes on Gulf energy plants",
-        "url": "https://www.france24.com/en/middle-east/20260319-live-trump-threatens-to-blow-up-major-iran-gas-field-if-strikes-on-gulf-energy-sites-continue",
-        "source": "France24",
-        "sourceId": "france24",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Thu, 19 Mar 2026 02:33:21 GMT",
-        "description": ""
-      },
-      {
-        "headline": "Trump Homeland Security nominee defends immigration stance in tense hearing",
-        "url": "https://www.france24.com/en/americas/20260319-trump-homeland-security-nominee-defends-immigration-stance-in-tense-hearing",
-        "source": "France24",
-        "sourceId": "france24",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Thu, 19 Mar 2026 00:34:32 GMT",
-        "description": "",
-        "watchCandidate": true,
-        "watchSignals": [
-          {
-            "category": "scheduled",
-            "matched": "hearing"
-          }
-        ]
-      },
-      {
-        "headline": "Liverpool to face PSG in Champions League quarter-finals after Galatasaray rout",
-        "url": "https://www.france24.com/en/sport/20260318-liverpool-to-face-psg-in-champions-league-quarter-finals-after-galatasaray-rout",
-        "source": "France24",
-        "sourceId": "france24",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Wed, 18 Mar 2026 23:11:49 GMT",
-        "description": ""
-      },
-      {
-        "headline": "International shipping 'chaos' as Strait of Hormuz closure sends ripple effects across the globe",
-        "url": "https://www.france24.com/en/tv-shows/a-propos/20260318-international-shipping-chaos-as-strait-of-hormuz-closure-sends-ripple-effects-across-the-globe",
-        "source": "France24",
-        "sourceId": "france24",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Wed, 18 Mar 2026 22:44:42 GMT",
-        "description": ""
-      },
-      {
-        "headline": "Qatar orders departure of two Iranian diplomats over gas facility attack",
-        "url": "https://www.france24.com/en/qatar-orders-departure-of-two-iranian-diplomats-over-gas-facility-attack",
-        "source": "France24",
-        "sourceId": "france24",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Wed, 18 Mar 2026 22:39:22 GMT",
-        "description": ""
-      },
-      {
-        "headline": "Are US soldiers really 'refusing orders' to fight in Iran war?",
-        "url": "https://www.france24.com/en/tv-shows/truth-or-fake/20260318-are-us-soldiers-really-refusing-orders-to-fight-in-iran-war",
-        "source": "France24",
-        "sourceId": "france24",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Wed, 18 Mar 2026 21:56:39 GMT",
         "description": ""
       },
       {
@@ -1132,7 +1129,7 @@
       },
       {
         "headline": "Reforming Cross-border payments: keynote speech at the FSB Payments Summit - Financial Stability Board",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcklJWEpBMHUzTWVtWXJjdnhHM3NiTDVMRHdYYW9hZDZ5aTJfeGdrSm1WM095T0FwUUFBMldVWVVDMjcyMHNRazlGdjBOU2Y3aGNnLWJFeF9EdHBxdGV2cVV6NzJoQjhPYmJvdWlxQXFsaDRneG9WaGdtb01IRTctR2lBdUhfa0hwZm5Ca3BEZVd1YU1ibTJvZ2xWUlh2QnBYa2RzSg?oc=5",
+        "url": "https://www.fsb.org/2026/03/reforming-cross-border-payments-keynote-speech-at-the-fsb-payments-summit/",
         "source": "Daybook: International Events",
         "sourceId": "daybook_intl",
         "category": "daybook",
@@ -1161,16 +1158,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9IYW10UEFKaXZCd2pHd2c1V3RHc05SLTJIWmlCMWc0TjlONXRmZUF3N1l1NjNXWnRHcm5FUHNtR1ktM1N3N29Dckt2WHdWdGtDd2t1NW9sWQ?oc=5\" target=\"_blank\"&gt;G20"
       },
       {
-        "headline": "Iran and oil imperil Trump-Japan summit - Politico",
-        "url": "https://www.politico.com/news/2026/03/18/from-cherry-blossoms-to-crisis-iran-imperils-trump-japan-summit-00834991",
-        "source": "Daybook: International Events",
-        "sourceId": "daybook_intl",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Wed, 18 Mar 2026 22:00:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPdnlkNkhLaXN4UU9tcUpjRVBFcTBHUHp5dGwwdjNGVVJNTVIta3hmaEJ2RGo0aEctV0hxbzRyTi03N3lxV082bmFvWVhqclFyczEyOU9acFR3ajhILW1xVzBjdDVPRFFvdUlPa1o"
-      },
-      {
         "headline": "Scoop: Trump claimed in G7 call that Iran is \"about to surrender\" - Axios",
         "url": "https://www.axios.com/2026/03/13/trump-iran-surrender-hormuz-oil",
         "source": "Daybook: International Events",
@@ -1189,6 +1176,16 @@
         "priority": "reference",
         "date": "Wed, 18 Mar 2026 11:05:17 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE83eW45M29EY2VkS2hxeUFiYVJtWFQ3aFVvYnlDNG5qYWg1OWNmOG9uTXpMUEVRQngycE1ERzNnRExXakJtOHpsLUkzWUxFM3RRMTZKVEVQbW04OGI3Wkl4WGJuWjFKMWZCcjJqOTh"
+      },
+      {
+        "headline": "Iran and oil imperil Trump-Japan summit - Politico",
+        "url": "https://www.politico.com/news/2026/03/18/from-cherry-blossoms-to-crisis-iran-imperils-trump-japan-summit-00834991",
+        "source": "Daybook: International Events",
+        "sourceId": "daybook_intl",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Wed, 18 Mar 2026 22:00:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPdnlkNkhLaXN4UU9tcUpjRVBFcTBHUHp5dGwwdjNGVVJNTVIta3hmaEJ2RGo0aEctV0hxbzRyTi03N3lxV082bmFvWVhqclFyczEyOU9acFR3ajhILW1xVzBjdDVPRFFvdUlPa1o"
       },
       {
         "headline": "6 takeaways from our “Growing Up in the Digital Age” Summit - blog.google",
@@ -1221,16 +1218,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPNjRySV9XMU91TUlLUnhmUGp1Q29hWnEwelNrektzdDBfRVFUZzM1emUzOFJVYjRpV3NjUVZlR0xkNHVQdFUwa2c5OFNhMFlYOUloVloxcE5YQ3Jxc0pjaDJCWnZSNURkcjNfZGJ"
       },
       {
-        "headline": "Trump-Xi summit delayed as U.S. president pushes China to help open Hormuz - The Washington Post",
-        "url": "chrome-error://chromewebdata/",
-        "source": "Daybook: International Events",
-        "sourceId": "daybook_intl",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Tue, 17 Mar 2026 05:09:26 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbDM1cFRzVTdadVJiZnpWNE9MRzlnUkpvWVc4Zm5DRnZMdjVnUzRUTTNqSHdpSDBjSVBIUzVRMEhtNXZ4M0NqdFhrZ0NHU2tDTWRqazZoZnI4bW5tWnE1Wmd1OERjRHFKRmdUa3V"
-      },
-      {
         "headline": "EU Leaders’ Summit Roundup: EPC experts highlight energy shocks, competitiveness, and security - European Policy Centre (EPC)",
         "url": "https://www.epc.eu/publication/eu-leaders-summit-roundup-epc-experts-highlight-energy-shocks-competitiveness-and-security/",
         "source": "Daybook: International Events",
@@ -1239,6 +1226,16 @@
         "priority": "reference",
         "date": "Wed, 18 Mar 2026 14:19:07 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOb1pyVk1sR1NkT2lVR3I1S2wwUi1OelZ1YUFyOXprVzlzN1Q5MHZHY2FpWGNmdXk5VG9PV1lfTHRJSTJtTFA4MkVfY3hwYUlNa0lNUWtmSkdjR3dUWkZNaW5oUnNjdTlEUm9lNV9"
+      },
+      {
+        "headline": "Trump-Xi summit delayed as U.S. president pushes China to help open Hormuz - The Washington Post",
+        "url": "chrome-error://chromewebdata/",
+        "source": "Daybook: International Events",
+        "sourceId": "daybook_intl",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Tue, 17 Mar 2026 05:09:26 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbDM1cFRzVTdadVJiZnpWNE9MRzlnUkpvWVc4Zm5DRnZMdjVnUzRUTTNqSHdpSDBjSVBIUzVRMEhtNXZ4M0NqdFhrZ0NHU2tDTWRqazZoZnI4bW5tWnE1Wmd1OERjRHFKRmdUa3V"
       },
       {
         "headline": "Embedded | 2026 Trade Deadline - NHL.com",
@@ -1301,16 +1298,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE8tN1dOWktQSFlYNHFWUnFTOS1jWXA2dnVTV3BsQy1HVVZtZlk3U0pua0xmRkc2cUI2R01IU2daMjNENEUydFFQY2FkRnExUDJaRU1GUXN5SU0zTzhTdHVXY1pJSUYzRjRUdm5tRUZ"
       },
       {
-        "headline": "Stock Market Today, March 17: Markets Edge Upwards as Fed Meeting Opens - Yahoo Finance",
-        "url": "https://finance.yahoo.com/news/stock-market-today-march-17-213428001.html",
-        "source": "Daybook: Economic Calendar",
-        "sourceId": "daybook_econ",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Tue, 17 Mar 2026 21:34:28 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBKcXYtT2dyc3ExTWFtc1ZSc3BpakpKZkotRHI2Z0VacEVVTWU3MGtBRmpGQTVWRzZHcllQTjFydGxwMUx1OTVxaFpNeFdUcjVtQVBhSFhBS0RFbzN6cmJaUm1iakZVMkdjYklVMEV"
-      },
-      {
         "headline": "Lululemon posts revenue, EPS beat in earnings report - CNBC",
         "url": "https://www.cnbc.com/video/2026/03/17/lululemon-posts-revenue-eps-beat-in-earnings-report.html",
         "source": "Daybook: Economic Calendar",
@@ -1331,8 +1318,18 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOVDh5UTlRaFpTaHBtYkhadGtUNjFrQWx3aklfLURSbEtXaDYwdlRYR3NGUGZ3SjJNcHVjQ1BIc096cHZiS0xWT2R1djZtaTFnSXdVUnJ0VDl3bHpFSmwzZkVQSWFJNV9IUWdDSC1"
       },
       {
+        "headline": "Stock Market Today, March 17: Markets Edge Upwards as Fed Meeting Opens - Yahoo Finance",
+        "url": "https://finance.yahoo.com/news/stock-market-today-march-17-213428001.html",
+        "source": "Daybook: Economic Calendar",
+        "sourceId": "daybook_econ",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Tue, 17 Mar 2026 21:34:28 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBKcXYtT2dyc3ExTWFtc1ZSc3BpakpKZkotRHI2Z0VacEVVTWU3MGtBRmpGQTVWRzZHcllQTjFydGxwMUx1OTVxaFpNeFdUcjVtQVBhSFhBS0RFbzN6cmJaUm1iakZVMkdjYklVMEV"
+      },
+      {
         "headline": "Rates Spark: Some calm ahead of the Fed meeting - ING THINK economic and financial analysis | ING THINK",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaW9QUHQtSklyNUZseC1CaXN6QjRYMTYwSDVfVUxqSEZqN0RLV1IxV0xnWUp4Ylg2VUpiX0JBb1JwazlFZERkVXRiOFlfMkdodnk3cHI1SDNkU2xJcDBrNndOVnNhTTNYWkZpUGNsWHBkWWJMTGlBdnVnU25FcjNjc3I1NlQ?oc=5",
+        "url": "https://think.ing.com/articles/rates-spark-some-calm-ahead-of-the-fed-meeting/",
         "source": "Daybook: Economic Calendar",
         "sourceId": "daybook_econ",
         "category": "daybook",
@@ -1351,14 +1348,14 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQbG5WemlPUURnamRaNmMzYy1NZnVuN2NSWFdfaTdnOXA5ZThrNlJKR3dMc2FCZDBod3dDQ1FMeEdxQktuVGNOMXFBQW1LeE9DNG5vMG9TMk9ORGJPQmo4SnEzTGVoQmlaY3gwRHZ"
       },
       {
-        "headline": "NHL 2025-26 season predictions 3.0: How did the trade deadline impact our picks? - The Athletic - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUDVZdkdsTmhWRnEzUmdFYWhHMHVaZjctcndNQi1qN1NpaEcwRUJ6dU84Ui02MmJ0dG83ZzNnbFdYeF84MU9Xeks5cTE2NnJBMXR2bENfcTMzV0FDS0R1V0ZzSTU4LUNfSHdCQzItM2ZnN18xck5ra3V2aV9OOGtqZXBfVVl5aHVkYUpFWVJDa2hjMDlFOGdOZlRqcTNpVGM?oc=5",
+        "headline": "Why Is Tenet (THC) Down 3.2% Since Last Earnings Report? - Yahoo Finance",
+        "url": "https://finance.yahoo.com/news/why-tenet-thc-down-3-153014199.html",
         "source": "Daybook: Economic Calendar",
         "sourceId": "daybook_econ",
         "category": "daybook",
         "priority": "reference",
-        "date": "Sat, 14 Mar 2026 11:00:43 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPUDVZdkdsTmhWRnEzUmdFYWhHMHVaZjctcndNQi1qN1NpaEcwRUJ6dU84Ui02MmJ0dG83ZzNnbFdYeF84MU9Xeks5cTE2NnJBMXR2bENfcTMzV0FDS0R1V0ZzSTU4LUNfSHdCQzI"
+        "date": "Fri, 13 Mar 2026 15:30:14 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1QUGZ0TDFlYmp0Z1hIWlQtbDNVa2NGLWtOc3RZOU9TWUh0NlIwTDhESjAtQUotR1FjSDBMZTc2Y2JWeW5oY0g5R253ZGs1dzJmcTBfWWdqdkRIRFdvdXZpdmZTS0pKc1NFYklzYzN"
       },
       {
         "headline": "Deadline to apply to A/P Council Scholarship is June 5 - Illinois State University News",
@@ -1422,13 +1419,23 @@
       },
       {
         "headline": "REMINDER – 2026 Congressional Art Competition Submission Deadline Approaching - Eli Crane (R-AZ) (.gov)",
-        "url": "https://crane.house.gov/2026/03/18/reminder-2026-congressional-art-competition-submission-deadline-approaching/",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOVU4OFU0QzEwVzJlMThGMkpRQzFnUkdFSHpBMldFVlZWNGtlbEZfRFltQW82Snl1TURucHRqN0xUc0ppZjRfb3pGclAzd3hMNnltdUR2M3JjRkpTeHg4TGNHLWJQeHQtdlRpSjc5alMtYk1LYVFxVWlPLVlGX05GNjgtNDlGcXBGcEsxdVd2cUp2WWg4TVZubncyZmFIX0l5VV9rV2dCWjhpV3JnZmw1cQ?oc=5",
         "source": "Daybook: Scheduled Events",
         "sourceId": "daybook_scheduled",
         "category": "daybook",
         "priority": "reference",
         "date": "Wed, 18 Mar 2026 16:54:40 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOOVU4OFU0QzEwVzJlMThGMkpRQzFnUkdFSHpBMldFVlZWNGtlbEZfRFltQW82Snl1TURucHRqN0xUc0ppZjRfb3pGclAzd3hMNnltdUR2M3JjRkpTeHg4TGNHLWJQeHQtdlRpSjc"
+      },
+      {
+        "headline": "Germany sets mid-April deadline for troubled fighter project with France - Reuters",
+        "url": "https://www.reuters.com/business/aerospace-defense/germany-sets-mid-april-deadline-troubled-fighter-project-with-france-2026-03-19/",
+        "source": "Daybook: Scheduled Events",
+        "sourceId": "daybook_scheduled",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Thu, 19 Mar 2026 08:25:24 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNN2UxMEt1N1NaaGlHZURfb0xDVy1mZmhmQy1VUnk0ZlpYWDBTYXZGWUdrTmp3U1MtS09nMTB1cFRYV0F0ZGxBQjhDUXZqZmV4VjgzaF9oVzJLLUs5Ry1fbmFHUHNpenlxWHNick1"
       },
       {
         "headline": "Community Parade Honoring Jacket Basketball Teams Scheduled for Tuesday, March 24 - Starkville Oktibbeha School District",
@@ -1451,14 +1458,14 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNUGJkbmdVNXNGcG9WYm84NUE5UHBCVG0yMExSQUZQNWZkZUpLRFRmRmN6ZzJnb1plcjlIMkRtTmVyTHI3V0I0SmpRVlB0MlhjMDJsWnRCR0M0VTNKeVhBVjBJNE52WTVJeHVfTnA"
       },
       {
-        "headline": "Feds agree to deadline for endangered species listing of rare NV toad - Nevada Current",
-        "url": "https://nevadacurrent.com/briefs/feds-agree-to-deadline-for-endangered-species-listing-of-rare-nv-toad/",
+        "headline": "Who will be back for Memphis basketball? Penny Hardaway will know soon - The Commercial Appeal",
+        "url": "https://www.commercialappeal.com/story/sports/college/memphis-tigers/2026/03/19/penny-hardaway-gives-memphis-basketball-players-transfer-deadline/89174454007/?gca-cat=p&gnt-cfr=1",
         "source": "Daybook: Scheduled Events",
         "sourceId": "daybook_scheduled",
         "category": "daybook",
         "priority": "reference",
-        "date": "Wed, 18 Mar 2026 22:15:49 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxONXJkbzRvaVB2NnJOWjRCZjFqcVlJU0otcXFYcERTSlRTU1I2b1dReTZ2c3FvZXZjUnJRWEo1dWtUVzRiNWcwbFVOZWpTa2IweTJTdzZCcF94MzBQdllKR2M5UWV0MjNUeHVLOXV"
+        "date": "Thu, 19 Mar 2026 10:21:41 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxQM2JlTkZPU1FfTXpJSE1RTWxKMzU2ZXh3c3djeDViWTlrRGptNTJ0TFZYSkw2VE9yeXh5THZkYldKMUhzWGh3QXV3NlhHb0gyLU1lREU4azNxZEFIWmpVWmE1UmVMLWRwOV9rRHp"
       },
       {
         "headline": "Crabby's Dockside restaurant owners face deadline to find new operator - Treasure Coast News",
@@ -1471,14 +1478,14 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxQdW1wQjVGajF3SmYxVDE5OFE3OWJDbkNuRXBwc25FR3EtdXFlSHFTcHY5UTZkMEFZTUo0Sm9pVWFUUXBReDRpbWZqNklJR3NTVjVhQzItanRkZzBaLXprLXlPcWViWW1uZlFtSzR"
       },
       {
-        "headline": "Who will be back for Memphis basketball? Penny Hardaway will know soon - The Commercial Appeal",
-        "url": "https://www.commercialappeal.com/story/sports/college/memphis-tigers/2026/03/19/penny-hardaway-gives-memphis-basketball-players-transfer-deadline/89174454007/?gca-cat=p&gnt-cfr=1",
+        "headline": "Feds agree to deadline for endangered species listing of rare NV toad - Nevada Current",
+        "url": "https://nevadacurrent.com/briefs/feds-agree-to-deadline-for-endangered-species-listing-of-rare-nv-toad/",
         "source": "Daybook: Scheduled Events",
         "sourceId": "daybook_scheduled",
         "category": "daybook",
         "priority": "reference",
-        "date": "Thu, 19 Mar 2026 10:21:41 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxQM2JlTkZPU1FfTXpJSE1RTWxKMzU2ZXh3c3djeDViWTlrRGptNTJ0TFZYSkw2VE9yeXh5THZkYldKMUhzWGh3QXV3NlhHb0gyLU1lREU4azNxZEFIWmpVWmE1UmVMLWRwOV9rRHp"
+        "date": "Wed, 18 Mar 2026 22:15:49 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxONXJkbzRvaVB2NnJOWjRCZjFqcVlJU0otcXFYcERTSlRTU1I2b1dReTZ2c3FvZXZjUnJRWEo1dWtUVzRiNWcwbFVOZWpTa2IweTJTdzZCcF94MzBQdllKR2M5UWV0MjNUeHVLOXV"
       },
       {
         "headline": "'The Correspondent' Movie Set Up At Lionsgate; Jane Fonda To Star - Deadline",
@@ -1491,24 +1498,14 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOTERDZGVFQTlNVXpDSkFDenFpTlRIRG9ZTVU2N25iUFh5a3haNENlQU03YjdqMERVcjFVaEx0NXVEQWFvX1NwTmZEdm1ZdFNPcFVFaHZ0SFV2REhVZkpHTFFkbGRxNFp1QXBLazd"
       },
       {
-        "headline": "A24 Sets Michaela Coel To Direct &amp; Write Fresh Take Of ‘Bloodsport’ - Deadline",
-        "url": "https://deadline.com/2026/03/a24-bloodsport-michaela-coel-1236758971/",
+        "headline": "Sony &amp; Pop Mart Make ‘Labubu’ Movie Official; Steven Levenson Joins As Co-Writer - Deadline",
+        "url": "https://deadline.com/2026/03/labubu-movie-1236759807/",
         "source": "Daybook: Scheduled Events",
         "sourceId": "daybook_scheduled",
         "category": "daybook",
         "priority": "reference",
-        "date": "Wed, 18 Mar 2026 14:00:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9RcDg3bk5GNUwwdTdwaG5TeXVHRjhndDdPZnRzZXdYZmJOTTU5UU91bUkwUmJCZHdjSVROak92RWdIWkhsRzFNc19aUW1NUDNiaWIyTm1VTnZCVUxwZzJXdC1ZcFVGOFVZSUZsbFl"
-      },
-      {
-        "headline": "Netflix's Scooby-Doo Live-Action Series Casts Shaggy, Velma &amp; Fred - Deadline",
-        "url": "https://deadline.com/2026/03/netflix-scooby-doo-series-cast-shaggy-velma-fred-1236759331/",
-        "source": "Daybook: Scheduled Events",
-        "sourceId": "daybook_scheduled",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Wed, 18 Mar 2026 18:30:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNQkFBRFpIampkdkFtUXJ0WEZWdW51ckhUWG85RlVnTl9MeUQ0bC1KN09pYVpxVG9pSndVYTd5cVN5SEEzWHRYQ3F5NWJBOXdmMTdISzk0Rnp3dnBpWGZ3eUxTNi1GSzhrT2xKS2d"
+        "date": "Thu, 19 Mar 2026 00:00:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Kc095aDZvV0VJTnFJYkhFNUtuZzdmalk3Rm5JOHZUMEM3VThWaVAwbVh3OVJ0UjBFNFdOVy1MMXRqS3JEdERFZ3ZGeDl4bzRQU08yaThJSHFLTkNURzR2dnFuSQ?oc=5\" target"
       }
     ],
     "byCategory": {
@@ -1654,6 +1651,26 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOSUg2OHRCQl9lMnJnd3Z4NnAxM3hpRm1lTEpRRGYtWU1EUVN2YzhBaFd1RkNRa0JiSU5sazFkZ0pvdGJJRUlaTkp2SFZpRWszYTBXQTlmWWw0YmdHUXY1bmRSNnM5R2FsbWFuemZ"
         },
         {
+          "headline": "Samsung Elec plans over $73 bln investment in 2026 to lead in AI chip sector - Reuters",
+          "url": "https://www.reuters.com/business/samsung-electronics-plans-over-73-bln-investment-lead-ai-chip-sector-2026-03-19/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Thu, 19 Mar 2026 07:59:39 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNd25Qa1dITzBvWENPOTZadzY0cHo0MjRaQlVmZlRUTy05cU9vbl93RUFjTmxmVlF5V0U0MnEwLWFDMV9KSXNOUGdiUkVfa0tRNjJfNEZzLVlSbU1SWFRzRk5sazZhOHZLLXRiVnJ"
+        },
+        {
+          "headline": "EU leaders hunt for quick fixes to energy price spike amid Iran war - Reuters",
+          "url": "https://www.reuters.com/sustainability/boards-policy-regulation/eu-leaders-hunt-quick-fixes-energy-price-spike-amid-iran-war-2026-03-19/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Thu, 19 Mar 2026 05:04:43 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTy1YWnRza1E4bXBEckhQX3FaQVhRazVUZW9mSnhXS0xGc18wMTFOSEJCdG9pNmZWQ19KVXVDV1cyUzhjdC1fYlJDOVJWcGxUaF9rZmx6bDVLcjRhd2puemhpckFjOXlkQm1IRXl"
+        },
+        {
           "headline": "Ukraine peace talks paused amid Iran war, Russia's Izvestia says - Reuters",
           "url": "https://www.reuters.com/world/europe/ukraine-peace-talks-paused-amid-iran-war-russias-izvestia-says-2026-03-19/",
           "source": "Reuters",
@@ -1662,16 +1679,6 @@
           "priority": "primary",
           "date": "Thu, 19 Mar 2026 05:28:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOVE5hSDl3TW01YmhCdEZ4UWlVYWpXUFdQTXRfd0ZkZ01sb3NLTmhNNFZZdmtwc2xFNzZNYzYtaGUwbkx3V1FwV29WbndpVktuZER6dTFkdW5LdGxYZWpMTkc0aHMzYk9PM25QeEt"
-        },
-        {
-          "headline": "Nepal investigating burning of Xi Jinping's book at university - Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/nepal-investigating-burning-xi-jinpings-book-university-2026-03-19/",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Thu, 19 Mar 2026 08:15:24 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQcy1Pb0l1Nm5NbmpOZXFEb3hJVWZQTUkyTTY0WHM3S2xjZl9LZmxrQWozSE5lb3ZKbVR5WEdwNVotLS14NXljNE1oRXBTNXlsQjBIenQwR2ZWWHRKTGlTelJFRzBKQ2lINHRGV21"
         },
         {
           "headline": "Investors face cloudier Fed rate view as Iran war grips markets - Reuters",
@@ -1694,16 +1701,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPSDA1bGlRbVZ6OENrX0FINVNCZEM0T0l6aWxkRjk1UnhmVjZ1UTdlYmVLX3hRak5XbDZVZ3RhVlBVVDVsMU5FejhEcGJKT2dNQzZGVlZIZ0hDdnpsT0JHWDZHRDctSlNtZWp6djA"
         },
         {
-          "headline": "EU leaders hunt for quick fixes to energy price spike amid Iran war - Reuters",
-          "url": "https://www.reuters.com/sustainability/boards-policy-regulation/eu-leaders-hunt-quick-fixes-energy-price-spike-amid-iran-war-2026-03-19/",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Thu, 19 Mar 2026 05:04:43 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTy1YWnRza1E4bXBEckhQX3FaQVhRazVUZW9mSnhXS0xGc18wMTFOSEJCdG9pNmZWQ19KVXVDV1cyUzhjdC1fYlJDOVJWcGxUaF9rZmx6bDVLcjRhd2puemhpckFjOXlkQm1IRXl"
-        },
-        {
           "headline": "US detects drones over base where Rubio, Hegseth live, Washington Post reports - Reuters",
           "url": "https://www.reuters.com/world/us/us-detects-drones-over-base-where-rubio-hegseth-live-washington-post-reports-2026-03-19/",
           "source": "Reuters",
@@ -1712,6 +1709,16 @@
           "priority": "primary",
           "date": "Thu, 19 Mar 2026 03:26:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPeHg5RzQxSjJ4MUtxdnJQanl1aTlpZDYweVRveDhTSU1mcW8weVRHSE5DbXhMT09Qby1wX3VLc2JtX2Rtb0I5cTMyOXdZYlQyaUNiX0xPSzZKVmdqWG5aaUM3blEwcFV0bkp0WU4"
+        },
+        {
+          "headline": "Nepal investigating burning of Xi Jinping's book at university - Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/nepal-investigating-burning-xi-jinpings-book-university-2026-03-19/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Thu, 19 Mar 2026 08:15:24 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQcy1Pb0l1Nm5NbmpOZXFEb3hJVWZQTUkyTTY0WHM3S2xjZl9LZmxrQWozSE5lb3ZKbVR5WEdwNVotLS14NXljNE1oRXBTNXlsQjBIenQwR2ZWWHRKTGlTelJFRzBKQ2lINHRGV21"
         },
         {
           "headline": "Trump says Israel attacked Iran gas field without US and Qatari involvement, warns against attacks on Qatar - Reuters",
@@ -1724,27 +1731,17 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOaHlsV2txcHpXRmxvVlRDMkpiYk5ybktCdzlXOEFwdk9BUmtrSE9leUZEV3M4b2VBQl9KZWFhbjU4RXloeWRkR05UR3E3emZZOGpNYTZUck90bzN4c1N2OVk4dWt3MGZMaU9zOXp"
         },
         {
-          "headline": "Samsung Elec plans over $73 bln investment in 2026 to lead in AI chip sector - Reuters",
-          "url": "https://www.reuters.com/business/samsung-electronics-plans-over-73-bln-investment-lead-ai-chip-sector-2026-03-19/",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Thu, 19 Mar 2026 07:59:39 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNd25Qa1dITzBvWENPOTZadzY0cHo0MjRaQlVmZlRUTy05cU9vbl93RUFjTmxmVlF5V0U0MnEwLWFDMV9KSXNOUGdiUkVfa0tRNjJfNEZzLVlSbU1SWFRzRk5sazZhOHZLLXRiVnJ"
-        },
-        {
           "headline": "Gold falls to over one month low on hawkish Fed tone - Reuters",
           "url": "https://www.reuters.com/world/india/gold-rises-off-one-month-low-softer-dollar-hawkish-fed-caps-gains-2026-03-19/",
           "source": "Reuters",
           "sourceId": "reuters_world",
           "category": "wire",
           "priority": "primary",
-          "date": "Thu, 19 Mar 2026 02:59:00 GMT",
+          "date": "Thu, 19 Mar 2026 02:59:16 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOeU43eHJZa2tJVHhJUFA2U2lMb3EzS0hlT1BpMHNybzdaWHhsSDFfdFVuQXV4RWJvZi1teVNpSzdwVExoak9lNEd4Wk9DclRxSm9iTW8zTzlBUG5zbjlqaGdNd2dJcUo5Ry1aR3B"
         },
         {
-          "headline": "Oil jumps above $115/bbl after attacks on Mideast energy assets multiply - Reuters",
+          "headline": "Oil jumps above $119 a barrel on Middle East energy attacks - Reuters",
           "url": "https://www.reuters.com/business/energy/oil-rises-3-after-iran-strikes-middle-east-energy-facilities-2026-03-19/",
           "source": "Reuters",
           "sourceId": "reuters_world",
@@ -1754,14 +1751,138 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPNW5XVEI0MG5IVk1HbW1sLWZ4emdJaGVtakI3b2FDcGJmbXplU1VSMUpUc09xcGQ0NFZrUVc3bmxVRF9RTFFUYVY3MlNkVzRNZ1gyNm1leHV4SHFZMVZrRVh6aXRlNlpRQnhkcjJ"
         },
         {
-          "headline": "India's HDFC Bank says chairman exit may be over rift with management; stock falls - Reuters",
-          "url": "https://www.reuters.com/world/india/indias-hdfc-bank-shares-slide-after-chairman-exits-over-ethical-differences-2026-03-19/",
+          "headline": "Asia's Russian fuel imports poised to hit all-time high due to Middle East disruption - Reuters",
+          "url": "https://www.reuters.com/business/energy/asias-russian-fuel-imports-poised-hit-all-time-high-due-middle-east-disruption-2026-03-19/",
           "source": "Reuters",
           "sourceId": "reuters_world",
           "category": "wire",
           "priority": "primary",
-          "date": "Thu, 19 Mar 2026 03:42:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWEhqQkdMMHhoaU53WjZFYk0zY0hvUUtWVElzdVRPTER4bjhZblkyWmtweG5Mc2FtdHE0bjhQQjloQzdCanpIMWVmZDg5SFhCMU8zYkF3c1lxR09reXAxNW4tQk1CamJxbGNHeTE"
+          "date": "Thu, 19 Mar 2026 04:53:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQc1VCc2ZiVGdJVHNUVjk5c3dYZ1k5N01WczFKeUpFZk5ab29kaDQ4UWlETlJYVThzeEtiSDViVHI2RWNJanNYR2dvYmpRZGRVX3hpdkZldmFvaGVzRUNYempqazBMSi1zYU0teWt",
+          "watchCandidate": true,
+          "watchSignals": [
+            {
+              "category": "temporal",
+              "matched": "due to"
+            }
+          ]
+        },
+        {
+          "headline": "Central banks confront spectre of inflation as Iran war escalates",
+          "url": "https://www.france24.com/en/tv-shows/business/20260319-central-banks-confront-spectre-of-inflation-as-iran-war-escalates",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Thu, 19 Mar 2026 10:45:59 GMT",
+          "description": ""
+        },
+        {
+          "headline": "EU leaders pile pressure on Hungary's Orban to lift block on Ukraine loan",
+          "url": "https://www.france24.com/en/video/20260319-eu-leaders-pile-pressure-on-hungary-s-orban-to-lift-block-on-ukraine-loan",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Thu, 19 Mar 2026 10:35:47 GMT",
+          "description": ""
+        },
+        {
+          "headline": "Trump threatens to strike world's largest gas field if Iran attacks Qatar again",
+          "url": "https://www.france24.com/en/video/20260319-trump-threatens-to-strike-world-s-largest-gas-field-if-iran-attacks-qatar-again",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Thu, 19 Mar 2026 10:34:19 GMT",
+          "description": "",
+          "watchCandidate": true,
+          "watchSignals": [
+            {
+              "category": "escalation",
+              "matched": "threatens to"
+            }
+          ]
+        },
+        {
+          "headline": "Who is running Iran? Top leadership decimated by US-Israeli strikes",
+          "url": "https://www.france24.com/en/video/20260319-who-is-running-iran-top-leadership-decimated-by-us-israeli-strikes",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Thu, 19 Mar 2026 10:32:58 GMT",
+          "description": ""
+        },
+        {
+          "headline": "Iraq caught in crossfire of Middle East war",
+          "url": "https://www.france24.com/en/video/20260319-iraq-caught-in-crossfire-of-middle-east-war",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Thu, 19 Mar 2026 10:32:21 GMT",
+          "description": ""
+        },
+        {
+          "headline": "Dozens arrested in Dubai for allegedly filming the war",
+          "url": "https://www.france24.com/en/video/20260319-dozens-arrested-in-dubai-for-allegedly-filming-the-war",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Thu, 19 Mar 2026 10:31:09 GMT",
+          "description": ""
+        },
+        {
+          "headline": "French top diplomat to visit Beirut: Paris vows solidarity with Lebanon",
+          "url": "https://www.france24.com/en/video/20260319-french-top-diplomat-to-visit-beirut-paris-vows-solidarity-with-lebanon",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Thu, 19 Mar 2026 10:29:50 GMT",
+          "description": ""
+        },
+        {
+          "headline": "EU summit to focus on wars in the Middle East and Ukraine",
+          "url": "https://www.france24.com/en/video/20260319-eu-summit-to-focus-on-wars-in-the-middle-east-and-ukraine",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Thu, 19 Mar 2026 10:28:39 GMT",
+          "description": ""
+        },
+        {
+          "headline": "War in Ukraine: Kharkiv opera defies Russian bombardment",
+          "url": "https://www.france24.com/en/video/20260319-war-in-ukraine-kharkiv-opera-defies-russian-bombardment",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Thu, 19 Mar 2026 10:27:27 GMT",
+          "description": ""
+        },
+        {
+          "headline": "Iran causes 'extensive' damage to Qatar gas hub, sparks Trump warning",
+          "url": "https://www.france24.com/en/video/20260319-iran-causes-extensive-damage-to-qatar-gas-hub-sparks-trump-warning",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Thu, 19 Mar 2026 10:26:45 GMT",
+          "description": ""
+        },
+        {
+          "headline": "Inside Lebanon's emergency response as displacement crisis strains resources",
+          "url": "https://www.france24.com/en/video/20260319-inside-lebaon-s-emergency-response-as-displacement-crisis-strains-resources",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Thu, 19 Mar 2026 10:25:42 GMT",
+          "description": ""
         },
         {
           "headline": "Paris appeals court rejects French govenment bid to suspend Shein",
@@ -1802,128 +1923,11 @@
           "priority": "secondary",
           "date": "Thu, 19 Mar 2026 07:22:18 GMT",
           "description": ""
-        },
-        {
-          "headline": "Activists deliver medical aid to crisis-hit Cuba as US energy blockade continues",
-          "url": "https://www.france24.com/en/americas/20260319-activists-deliver-medical-aid-to-crisis-hit-cuba-as-us-energy-blockade-continues",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Thu, 19 Mar 2026 07:15:52 GMT",
-          "description": ""
-        },
-        {
-          "headline": "Ayman Mhanna: 'Lebanon has become the theatre for a war between Israel and Iran'",
-          "url": "https://www.france24.com/en/ayman-mhanna-lebanon-has-become-the-theatre-for-a-war-between-israel-and-iran",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Thu, 19 Mar 2026 07:04:00 GMT",
-          "description": ""
-        },
-        {
-          "headline": "France's FM to visit Lebanon in show of 'support and solidarity' amid Middle East war",
-          "url": "https://www.france24.com/en/middle-east/20260319-france-s-fm-to-visit-lebanon-in-show-of-support-and-solidarity-amid-middle-east-war",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Thu, 19 Mar 2026 06:23:45 GMT",
-          "description": ""
-        },
-        {
-          "headline": "Liverpool set up PSG clash in Champions League quarter-finals",
-          "url": "https://www.france24.com/en/tv-shows/sports/20260319-liverpool-set-up-psg-clash-in-champions-league-quarter-finals",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Thu, 19 Mar 2026 06:06:59 GMT",
-          "description": ""
-        },
-        {
-          "headline": "European leaders seek breakthrough on €90 billion Ukraine loan blocked by Viktor Orban",
-          "url": "https://www.france24.com/en/europe/20260319-european-leaders-seek-breakthrough-on-%E2%82%AC90bn-ukraine-loan-blocked-by-viktor-orban",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Thu, 19 Mar 2026 04:09:49 GMT",
-          "description": ""
-        },
-        {
-          "headline": "Live: Oil prices soar as Iran intensifies strikes on Gulf energy plants",
-          "url": "https://www.france24.com/en/middle-east/20260319-live-trump-threatens-to-blow-up-major-iran-gas-field-if-strikes-on-gulf-energy-sites-continue",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Thu, 19 Mar 2026 02:33:21 GMT",
-          "description": ""
-        },
-        {
-          "headline": "Trump Homeland Security nominee defends immigration stance in tense hearing",
-          "url": "https://www.france24.com/en/americas/20260319-trump-homeland-security-nominee-defends-immigration-stance-in-tense-hearing",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Thu, 19 Mar 2026 00:34:32 GMT",
-          "description": "",
-          "watchCandidate": true,
-          "watchSignals": [
-            {
-              "category": "scheduled",
-              "matched": "hearing"
-            }
-          ]
-        },
-        {
-          "headline": "Liverpool to face PSG in Champions League quarter-finals after Galatasaray rout",
-          "url": "https://www.france24.com/en/sport/20260318-liverpool-to-face-psg-in-champions-league-quarter-finals-after-galatasaray-rout",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Wed, 18 Mar 2026 23:11:49 GMT",
-          "description": ""
-        },
-        {
-          "headline": "International shipping 'chaos' as Strait of Hormuz closure sends ripple effects across the globe",
-          "url": "https://www.france24.com/en/tv-shows/a-propos/20260318-international-shipping-chaos-as-strait-of-hormuz-closure-sends-ripple-effects-across-the-globe",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Wed, 18 Mar 2026 22:44:42 GMT",
-          "description": ""
-        },
-        {
-          "headline": "Qatar orders departure of two Iranian diplomats over gas facility attack",
-          "url": "https://www.france24.com/en/qatar-orders-departure-of-two-iranian-diplomats-over-gas-facility-attack",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Wed, 18 Mar 2026 22:39:22 GMT",
-          "description": ""
-        },
-        {
-          "headline": "Are US soldiers really 'refusing orders' to fight in Iran war?",
-          "url": "https://www.france24.com/en/tv-shows/truth-or-fake/20260318-are-us-soldiers-really-refusing-orders-to-fight-in-iran-war",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Wed, 18 Mar 2026 21:56:39 GMT",
-          "description": ""
         }
       ],
       "general": [
         {
-          "headline": "How the Iran war has left Europe facing yet another energy crisis",
+          "headline": "How Europe sleepwalked into yet another energy crisis",
           "url": "https://www.bbc.com/news/articles/c24de9e97vno?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC",
           "sourceId": "bbc_world",
@@ -1973,6 +1977,26 @@
           "description": "They were killed when shrapnel landed in Beit Awwa, while a Thai worked was also killed by shrapnel falling in Israel."
         },
         {
+          "headline": "Kevin Spacey and accusers settle before civil trial",
+          "url": "https://www.bbc.com/news/articles/c5ygyypy7pro?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC",
+          "sourceId": "bbc_world",
+          "category": "general",
+          "priority": "primary",
+          "date": "Thu, 19 Mar 2026 09:27:23 GMT",
+          "description": "The actor agrees an out-of-court settlement with three men who accused him of sexual assault."
+        },
+        {
+          "headline": "Japan PM to hold 'difficult' talks with Trump as Iran conflict looms large",
+          "url": "https://www.bbc.com/news/articles/cde4e2xyelpo?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC",
+          "sourceId": "bbc_world",
+          "category": "general",
+          "priority": "primary",
+          "date": "Thu, 19 Mar 2026 10:30:42 GMT",
+          "description": "It comes days after Trump criticised Japan for not answering his demands for help in the Strait of Hormuz."
+        },
+        {
           "headline": "Sony removes 135,000 'deepfakes' of its artists' music",
           "url": "https://www.bbc.com/news/articles/cy57593gxe0o?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC",
@@ -1981,6 +2005,16 @@
           "priority": "primary",
           "date": "Wed, 18 Mar 2026 17:19:41 GMT",
           "description": "The company says the proliferation of AI has enabled people to upload fake songs to streaming sites."
+        },
+        {
+          "headline": "Cyprus leader calls for frank discussion on 'colonial' UK bases",
+          "url": "https://www.bbc.com/news/articles/cy7166denxeo?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC",
+          "sourceId": "bbc_world",
+          "category": "general",
+          "priority": "primary",
+          "date": "Thu, 19 Mar 2026 11:05:55 GMT",
+          "description": "The UK's two military bases on Cyprus are a \"colonial consequence\" on the island, says President Nikos Christodoulides."
         },
         {
           "headline": "Ecuador gang leader wanted for murder of presidential candidate arrested",
@@ -2021,36 +2055,6 @@
           "priority": "primary",
           "date": "Thu, 19 Mar 2026 00:01:18 GMT",
           "description": "The film will combine live action and computer-generated animation and is in \"early development\"."
-        },
-        {
-          "headline": "US aircraft carrier to sail to Crete for repairs after fire on board",
-          "url": "https://www.bbc.com/news/articles/c0rjr28nxrwo?at_medium=RSS&amp;at_campaign=rss",
-          "source": "BBC",
-          "sourceId": "bbc_world",
-          "category": "general",
-          "priority": "primary",
-          "date": "Thu, 19 Mar 2026 00:44:57 GMT",
-          "description": "The USS Gerald R Ford has played a significant role in US operations during the war with Iran."
-        },
-        {
-          "headline": "Alberta seeks to set limits on use of medically assisted dying",
-          "url": "https://www.bbc.com/news/articles/c8d5d54glreo?at_medium=RSS&amp;at_campaign=rss",
-          "source": "BBC",
-          "sourceId": "bbc_world",
-          "category": "general",
-          "priority": "primary",
-          "date": "Wed, 18 Mar 2026 23:23:49 GMT",
-          "description": "The Canadian province has proposed legislation that will limit its use solely to end-of-life circumstances."
-        },
-        {
-          "headline": "Rhinos back in the wild in Uganda for the first time in 40 years",
-          "url": "https://www.bbc.com/news/articles/cn4g41n9j4lo?at_medium=RSS&amp;at_campaign=rss",
-          "source": "BBC",
-          "sourceId": "bbc_world",
-          "category": "general",
-          "priority": "primary",
-          "date": "Wed, 18 Mar 2026 17:36:05 GMT",
-          "description": "The return of southern white rhinos to the country comes after Ugandan poachers once wiped them out."
         },
         {
           "headline": "South Africans say criminal gangs are exploiting the water crisis",
@@ -2386,7 +2390,7 @@
           "sourceId": "nyt_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Thu, 19 Mar 2026 10:25:21 +0000",
+          "date": "Thu, 19 Mar 2026 10:48:39 +0000",
           "description": "Refineries and gas facilities in Kuwait, Qatar and Saudi Arabia were struck, a day after Iran’s vast South Pars gas field was hit. The sustained attacks heightened fears over the war’s damage to the g"
         },
         {
@@ -2551,6 +2555,16 @@
           ]
         },
         {
+          "headline": "Gabbard says Pakistan missiles a future threat to US, but experts push back",
+          "url": "https://www.aljazeera.com/news/2026/3/19/gabbard-says-pakistan-missiles-a-future-threat-to-us-but-experts-push-back?traffic_source=rss",
+          "source": "Al Jazeera",
+          "sourceId": "aljazeera",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Thu, 19 Mar 2026 10:29:39 +0000",
+          "description": "The US raises concerns but analysts say Pakistan’s missile programme focuses on India, which has longer-range missiles."
+        },
+        {
           "headline": "Iran hits Qatar gas operations in response to Israeli attack",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/3/19/iran-hits-qatar-gas-operations-in-response-to-israeli-attack?traffic_source=rss",
           "source": "Al Jazeera",
@@ -2696,16 +2710,6 @@
           "priority": "secondary",
           "date": "Thu, 19 Mar 2026 06:15:14 +0000",
           "description": "Heavy social media use has contributed to &#039;worrying decline&#039; in wellbeing in Western countries, report says."
-        },
-        {
-          "headline": "US intelligence agencies not expecting China to invade Taiwan in 2027",
-          "url": "https://www.aljazeera.com/news/2026/3/19/us-intelligence-agencies-not-expecting-china-to-invade-taiwan-in-2027?traffic_source=rss",
-          "source": "Al Jazeera",
-          "sourceId": "aljazeera",
-          "category": "general",
-          "priority": "secondary",
-          "date": "Thu, 19 Mar 2026 05:22:53 +0000",
-          "description": "US spy agencies says Chinese leadership still prefers to pursue unification with Taiwan &#039;without use of force&#039;."
         }
       ],
       "business": [
@@ -3013,7 +3017,7 @@
         },
         {
           "headline": "Reforming Cross-border payments: keynote speech at the FSB Payments Summit - Financial Stability Board",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcklJWEpBMHUzTWVtWXJjdnhHM3NiTDVMRHdYYW9hZDZ5aTJfeGdrSm1WM095T0FwUUFBMldVWVVDMjcyMHNRazlGdjBOU2Y3aGNnLWJFeF9EdHBxdGV2cVV6NzJoQjhPYmJvdWlxQXFsaDRneG9WaGdtb01IRTctR2lBdUhfa0hwZm5Ca3BEZVd1YU1ibTJvZ2xWUlh2QnBYa2RzSg?oc=5",
+          "url": "https://www.fsb.org/2026/03/reforming-cross-border-payments-keynote-speech-at-the-fsb-payments-summit/",
           "source": "Daybook: International Events",
           "sourceId": "daybook_intl",
           "category": "daybook",
@@ -3042,16 +3046,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9IYW10UEFKaXZCd2pHd2c1V3RHc05SLTJIWmlCMWc0TjlONXRmZUF3N1l1NjNXWnRHcm5FUHNtR1ktM1N3N29Dckt2WHdWdGtDd2t1NW9sWQ?oc=5\" target=\"_blank\"&gt;G20"
         },
         {
-          "headline": "Iran and oil imperil Trump-Japan summit - Politico",
-          "url": "https://www.politico.com/news/2026/03/18/from-cherry-blossoms-to-crisis-iran-imperils-trump-japan-summit-00834991",
-          "source": "Daybook: International Events",
-          "sourceId": "daybook_intl",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Wed, 18 Mar 2026 22:00:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPdnlkNkhLaXN4UU9tcUpjRVBFcTBHUHp5dGwwdjNGVVJNTVIta3hmaEJ2RGo0aEctV0hxbzRyTi03N3lxV082bmFvWVhqclFyczEyOU9acFR3ajhILW1xVzBjdDVPRFFvdUlPa1o"
-        },
-        {
           "headline": "Scoop: Trump claimed in G7 call that Iran is \"about to surrender\" - Axios",
           "url": "https://www.axios.com/2026/03/13/trump-iran-surrender-hormuz-oil",
           "source": "Daybook: International Events",
@@ -3070,6 +3064,16 @@
           "priority": "reference",
           "date": "Wed, 18 Mar 2026 11:05:17 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE83eW45M29EY2VkS2hxeUFiYVJtWFQ3aFVvYnlDNG5qYWg1OWNmOG9uTXpMUEVRQngycE1ERzNnRExXakJtOHpsLUkzWUxFM3RRMTZKVEVQbW04OGI3Wkl4WGJuWjFKMWZCcjJqOTh"
+        },
+        {
+          "headline": "Iran and oil imperil Trump-Japan summit - Politico",
+          "url": "https://www.politico.com/news/2026/03/18/from-cherry-blossoms-to-crisis-iran-imperils-trump-japan-summit-00834991",
+          "source": "Daybook: International Events",
+          "sourceId": "daybook_intl",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Wed, 18 Mar 2026 22:00:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPdnlkNkhLaXN4UU9tcUpjRVBFcTBHUHp5dGwwdjNGVVJNTVIta3hmaEJ2RGo0aEctV0hxbzRyTi03N3lxV082bmFvWVhqclFyczEyOU9acFR3ajhILW1xVzBjdDVPRFFvdUlPa1o"
         },
         {
           "headline": "6 takeaways from our “Growing Up in the Digital Age” Summit - blog.google",
@@ -3102,16 +3106,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPNjRySV9XMU91TUlLUnhmUGp1Q29hWnEwelNrektzdDBfRVFUZzM1emUzOFJVYjRpV3NjUVZlR0xkNHVQdFUwa2c5OFNhMFlYOUloVloxcE5YQ3Jxc0pjaDJCWnZSNURkcjNfZGJ"
         },
         {
-          "headline": "Trump-Xi summit delayed as U.S. president pushes China to help open Hormuz - The Washington Post",
-          "url": "chrome-error://chromewebdata/",
-          "source": "Daybook: International Events",
-          "sourceId": "daybook_intl",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Tue, 17 Mar 2026 05:09:26 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbDM1cFRzVTdadVJiZnpWNE9MRzlnUkpvWVc4Zm5DRnZMdjVnUzRUTTNqSHdpSDBjSVBIUzVRMEhtNXZ4M0NqdFhrZ0NHU2tDTWRqazZoZnI4bW5tWnE1Wmd1OERjRHFKRmdUa3V"
-        },
-        {
           "headline": "EU Leaders’ Summit Roundup: EPC experts highlight energy shocks, competitiveness, and security - European Policy Centre (EPC)",
           "url": "https://www.epc.eu/publication/eu-leaders-summit-roundup-epc-experts-highlight-energy-shocks-competitiveness-and-security/",
           "source": "Daybook: International Events",
@@ -3120,6 +3114,16 @@
           "priority": "reference",
           "date": "Wed, 18 Mar 2026 14:19:07 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOb1pyVk1sR1NkT2lVR3I1S2wwUi1OelZ1YUFyOXprVzlzN1Q5MHZHY2FpWGNmdXk5VG9PV1lfTHRJSTJtTFA4MkVfY3hwYUlNa0lNUWtmSkdjR3dUWkZNaW5oUnNjdTlEUm9lNV9"
+        },
+        {
+          "headline": "Trump-Xi summit delayed as U.S. president pushes China to help open Hormuz - The Washington Post",
+          "url": "chrome-error://chromewebdata/",
+          "source": "Daybook: International Events",
+          "sourceId": "daybook_intl",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Tue, 17 Mar 2026 05:09:26 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbDM1cFRzVTdadVJiZnpWNE9MRzlnUkpvWVc4Zm5DRnZMdjVnUzRUTTNqSHdpSDBjSVBIUzVRMEhtNXZ4M0NqdFhrZ0NHU2tDTWRqazZoZnI4bW5tWnE1Wmd1OERjRHFKRmdUa3V"
         },
         {
           "headline": "Embedded | 2026 Trade Deadline - NHL.com",
@@ -3142,16 +3146,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOTW93UnBleWM5TGFiODl3NEN1NlNsb2xTUzd2ek9COGg2aUdOQVY0cGc3dXJuRVBnc3N3VHBkdUhoWExqN2hXTHNlekRLX2ZFWmd6MTc4Z2toWkotek5Xc1FMNmZwUW5zTENSR3N"
         },
         {
-          "headline": "Equities extend rebound as Fed meeting begins. - CME Group",
-          "url": "chrome-error://chromewebdata/",
-          "source": "Daybook: Economic Calendar",
-          "sourceId": "daybook_econ",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Tue, 17 Mar 2026 22:28:20 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOSUNyQUJUQUFkZUNkN1Jhd2UtUFVzTEJfV0hWakxnLVV6X0lKVktab1RVSl9ESDF2V1hRYlgxa2tOdEhlb1JMNVdfYVl1WS15RW45MUJZa0V0RHdjVGFjMDVCX21XMWJaNFZUQUF"
-        },
-        {
           "headline": "WATCH: Fed Chair Powell holds news briefing after interest rate left unchanged - PBS",
           "url": "https://www.pbs.org/newshour/economy/watch-live-fed-chair-powell-holds-news-briefing-after-latest-interest-rate-decision",
           "source": "Daybook: Economic Calendar",
@@ -3160,6 +3154,16 @@
           "priority": "reference",
           "date": "Wed, 18 Mar 2026 14:23:50 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxObmE2Rm5TNnFlVmNSODAwcFBnekVlTWJHekl5VWEwRzB5UTlxSXNMYUlOTnozX2ZjZ01hZENCTkZPc0ZmOTA2NDVxelFYRVd0Q1BkQ29QeUpHM3YtbTU5aHY1Y2o3M0tmcjdRNTZ"
+        },
+        {
+          "headline": "Equities extend rebound as Fed meeting begins. - CME Group",
+          "url": "chrome-error://chromewebdata/",
+          "source": "Daybook: Economic Calendar",
+          "sourceId": "daybook_econ",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Tue, 17 Mar 2026 22:28:20 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOSUNyQUJUQUFkZUNkN1Jhd2UtUFVzTEJfV0hWakxnLVV6X0lKVktab1RVSl9ESDF2V1hRYlgxa2tOdEhlb1JMNVdfYVl1WS15RW45MUJZa0V0RHdjVGFjMDVCX21XMWJaNFZUQUF"
         },
         {
           "headline": "Federal Reserve holds firm with decision not to cut interest rate - NewsNation",
@@ -3212,16 +3216,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE8tN1dOWktQSFlYNHFWUnFTOS1jWXA2dnVTV3BsQy1HVVZtZlk3U0pua0xmRkc2cUI2R01IU2daMjNENEUydFFQY2FkRnExUDJaRU1GUXN5SU0zTzhTdHVXY1pJSUYzRjRUdm5tRUZ"
         },
         {
-          "headline": "Stock Market Today, March 17: Markets Edge Upwards as Fed Meeting Opens - Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/stock-market-today-march-17-213428001.html",
-          "source": "Daybook: Economic Calendar",
-          "sourceId": "daybook_econ",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Tue, 17 Mar 2026 21:34:28 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBKcXYtT2dyc3ExTWFtc1ZSc3BpakpKZkotRHI2Z0VacEVVTWU3MGtBRmpGQTVWRzZHcllQTjFydGxwMUx1OTVxaFpNeFdUcjVtQVBhSFhBS0RFbzN6cmJaUm1iakZVMkdjYklVMEV"
-        },
-        {
           "headline": "Lululemon posts revenue, EPS beat in earnings report - CNBC",
           "url": "https://www.cnbc.com/video/2026/03/17/lululemon-posts-revenue-eps-beat-in-earnings-report.html",
           "source": "Daybook: Economic Calendar",
@@ -3242,8 +3236,18 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOVDh5UTlRaFpTaHBtYkhadGtUNjFrQWx3aklfLURSbEtXaDYwdlRYR3NGUGZ3SjJNcHVjQ1BIc096cHZiS0xWT2R1djZtaTFnSXdVUnJ0VDl3bHpFSmwzZkVQSWFJNV9IUWdDSC1"
         },
         {
+          "headline": "Stock Market Today, March 17: Markets Edge Upwards as Fed Meeting Opens - Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/stock-market-today-march-17-213428001.html",
+          "source": "Daybook: Economic Calendar",
+          "sourceId": "daybook_econ",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Tue, 17 Mar 2026 21:34:28 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBKcXYtT2dyc3ExTWFtc1ZSc3BpakpKZkotRHI2Z0VacEVVTWU3MGtBRmpGQTVWRzZHcllQTjFydGxwMUx1OTVxaFpNeFdUcjVtQVBhSFhBS0RFbzN6cmJaUm1iakZVMkdjYklVMEV"
+        },
+        {
           "headline": "Rates Spark: Some calm ahead of the Fed meeting - ING THINK economic and financial analysis | ING THINK",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaW9QUHQtSklyNUZseC1CaXN6QjRYMTYwSDVfVUxqSEZqN0RLV1IxV0xnWUp4Ylg2VUpiX0JBb1JwazlFZERkVXRiOFlfMkdodnk3cHI1SDNkU2xJcDBrNndOVnNhTTNYWkZpUGNsWHBkWWJMTGlBdnVnU25FcjNjc3I1NlQ?oc=5",
+          "url": "https://think.ing.com/articles/rates-spark-some-calm-ahead-of-the-fed-meeting/",
           "source": "Daybook: Economic Calendar",
           "sourceId": "daybook_econ",
           "category": "daybook",
@@ -3262,14 +3266,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQbG5WemlPUURnamRaNmMzYy1NZnVuN2NSWFdfaTdnOXA5ZThrNlJKR3dMc2FCZDBod3dDQ1FMeEdxQktuVGNOMXFBQW1LeE9DNG5vMG9TMk9ORGJPQmo4SnEzTGVoQmlaY3gwRHZ"
         },
         {
-          "headline": "NHL 2025-26 season predictions 3.0: How did the trade deadline impact our picks? - The Athletic - The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUDVZdkdsTmhWRnEzUmdFYWhHMHVaZjctcndNQi1qN1NpaEcwRUJ6dU84Ui02MmJ0dG83ZzNnbFdYeF84MU9Xeks5cTE2NnJBMXR2bENfcTMzV0FDS0R1V0ZzSTU4LUNfSHdCQzItM2ZnN18xck5ra3V2aV9OOGtqZXBfVVl5aHVkYUpFWVJDa2hjMDlFOGdOZlRqcTNpVGM?oc=5",
+          "headline": "Why Is Tenet (THC) Down 3.2% Since Last Earnings Report? - Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/why-tenet-thc-down-3-153014199.html",
           "source": "Daybook: Economic Calendar",
           "sourceId": "daybook_econ",
           "category": "daybook",
           "priority": "reference",
-          "date": "Sat, 14 Mar 2026 11:00:43 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPUDVZdkdsTmhWRnEzUmdFYWhHMHVaZjctcndNQi1qN1NpaEcwRUJ6dU84Ui02MmJ0dG83ZzNnbFdYeF84MU9Xeks5cTE2NnJBMXR2bENfcTMzV0FDS0R1V0ZzSTU4LUNfSHdCQzI"
+          "date": "Fri, 13 Mar 2026 15:30:14 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1QUGZ0TDFlYmp0Z1hIWlQtbDNVa2NGLWtOc3RZOU9TWUh0NlIwTDhESjAtQUotR1FjSDBMZTc2Y2JWeW5oY0g5R253ZGs1dzJmcTBfWWdqdkRIRFdvdXZpdmZTS0pKc1NFYklzYzN"
         },
         {
           "headline": "Deadline to apply to A/P Council Scholarship is June 5 - Illinois State University News",
@@ -3333,13 +3337,23 @@
         },
         {
           "headline": "REMINDER – 2026 Congressional Art Competition Submission Deadline Approaching - Eli Crane (R-AZ) (.gov)",
-          "url": "https://crane.house.gov/2026/03/18/reminder-2026-congressional-art-competition-submission-deadline-approaching/",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOVU4OFU0QzEwVzJlMThGMkpRQzFnUkdFSHpBMldFVlZWNGtlbEZfRFltQW82Snl1TURucHRqN0xUc0ppZjRfb3pGclAzd3hMNnltdUR2M3JjRkpTeHg4TGNHLWJQeHQtdlRpSjc5alMtYk1LYVFxVWlPLVlGX05GNjgtNDlGcXBGcEsxdVd2cUp2WWg4TVZubncyZmFIX0l5VV9rV2dCWjhpV3JnZmw1cQ?oc=5",
           "source": "Daybook: Scheduled Events",
           "sourceId": "daybook_scheduled",
           "category": "daybook",
           "priority": "reference",
           "date": "Wed, 18 Mar 2026 16:54:40 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOOVU4OFU0QzEwVzJlMThGMkpRQzFnUkdFSHpBMldFVlZWNGtlbEZfRFltQW82Snl1TURucHRqN0xUc0ppZjRfb3pGclAzd3hMNnltdUR2M3JjRkpTeHg4TGNHLWJQeHQtdlRpSjc"
+        },
+        {
+          "headline": "Germany sets mid-April deadline for troubled fighter project with France - Reuters",
+          "url": "https://www.reuters.com/business/aerospace-defense/germany-sets-mid-april-deadline-troubled-fighter-project-with-france-2026-03-19/",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Thu, 19 Mar 2026 08:25:24 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNN2UxMEt1N1NaaGlHZURfb0xDVy1mZmhmQy1VUnk0ZlpYWDBTYXZGWUdrTmp3U1MtS09nMTB1cFRYV0F0ZGxBQjhDUXZqZmV4VjgzaF9oVzJLLUs5Ry1fbmFHUHNpenlxWHNick1"
         },
         {
           "headline": "Community Parade Honoring Jacket Basketball Teams Scheduled for Tuesday, March 24 - Starkville Oktibbeha School District",
@@ -3362,14 +3376,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNUGJkbmdVNXNGcG9WYm84NUE5UHBCVG0yMExSQUZQNWZkZUpLRFRmRmN6ZzJnb1plcjlIMkRtTmVyTHI3V0I0SmpRVlB0MlhjMDJsWnRCR0M0VTNKeVhBVjBJNE52WTVJeHVfTnA"
         },
         {
-          "headline": "Feds agree to deadline for endangered species listing of rare NV toad - Nevada Current",
-          "url": "https://nevadacurrent.com/briefs/feds-agree-to-deadline-for-endangered-species-listing-of-rare-nv-toad/",
+          "headline": "Who will be back for Memphis basketball? Penny Hardaway will know soon - The Commercial Appeal",
+          "url": "https://www.commercialappeal.com/story/sports/college/memphis-tigers/2026/03/19/penny-hardaway-gives-memphis-basketball-players-transfer-deadline/89174454007/?gca-cat=p&gnt-cfr=1",
           "source": "Daybook: Scheduled Events",
           "sourceId": "daybook_scheduled",
           "category": "daybook",
           "priority": "reference",
-          "date": "Wed, 18 Mar 2026 22:15:49 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxONXJkbzRvaVB2NnJOWjRCZjFqcVlJU0otcXFYcERTSlRTU1I2b1dReTZ2c3FvZXZjUnJRWEo1dWtUVzRiNWcwbFVOZWpTa2IweTJTdzZCcF94MzBQdllKR2M5UWV0MjNUeHVLOXV"
+          "date": "Thu, 19 Mar 2026 10:21:41 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxQM2JlTkZPU1FfTXpJSE1RTWxKMzU2ZXh3c3djeDViWTlrRGptNTJ0TFZYSkw2VE9yeXh5THZkYldKMUhzWGh3QXV3NlhHb0gyLU1lREU4azNxZEFIWmpVWmE1UmVMLWRwOV9rRHp"
         },
         {
           "headline": "Crabby's Dockside restaurant owners face deadline to find new operator - Treasure Coast News",
@@ -3382,14 +3396,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxQdW1wQjVGajF3SmYxVDE5OFE3OWJDbkNuRXBwc25FR3EtdXFlSHFTcHY5UTZkMEFZTUo0Sm9pVWFUUXBReDRpbWZqNklJR3NTVjVhQzItanRkZzBaLXprLXlPcWViWW1uZlFtSzR"
         },
         {
-          "headline": "Who will be back for Memphis basketball? Penny Hardaway will know soon - The Commercial Appeal",
-          "url": "https://www.commercialappeal.com/story/sports/college/memphis-tigers/2026/03/19/penny-hardaway-gives-memphis-basketball-players-transfer-deadline/89174454007/?gca-cat=p&gnt-cfr=1",
+          "headline": "Feds agree to deadline for endangered species listing of rare NV toad - Nevada Current",
+          "url": "https://nevadacurrent.com/briefs/feds-agree-to-deadline-for-endangered-species-listing-of-rare-nv-toad/",
           "source": "Daybook: Scheduled Events",
           "sourceId": "daybook_scheduled",
           "category": "daybook",
           "priority": "reference",
-          "date": "Thu, 19 Mar 2026 10:21:41 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxQM2JlTkZPU1FfTXpJSE1RTWxKMzU2ZXh3c3djeDViWTlrRGptNTJ0TFZYSkw2VE9yeXh5THZkYldKMUhzWGh3QXV3NlhHb0gyLU1lREU4azNxZEFIWmpVWmE1UmVMLWRwOV9rRHp"
+          "date": "Wed, 18 Mar 2026 22:15:49 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxONXJkbzRvaVB2NnJOWjRCZjFqcVlJU0otcXFYcERTSlRTU1I2b1dReTZ2c3FvZXZjUnJRWEo1dWtUVzRiNWcwbFVOZWpTa2IweTJTdzZCcF94MzBQdllKR2M5UWV0MjNUeHVLOXV"
         },
         {
           "headline": "'The Correspondent' Movie Set Up At Lionsgate; Jane Fonda To Star - Deadline",
@@ -3402,24 +3416,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOTERDZGVFQTlNVXpDSkFDenFpTlRIRG9ZTVU2N25iUFh5a3haNENlQU03YjdqMERVcjFVaEx0NXVEQWFvX1NwTmZEdm1ZdFNPcFVFaHZ0SFV2REhVZkpHTFFkbGRxNFp1QXBLazd"
         },
         {
-          "headline": "A24 Sets Michaela Coel To Direct &amp; Write Fresh Take Of ‘Bloodsport’ - Deadline",
-          "url": "https://deadline.com/2026/03/a24-bloodsport-michaela-coel-1236758971/",
+          "headline": "Sony &amp; Pop Mart Make ‘Labubu’ Movie Official; Steven Levenson Joins As Co-Writer - Deadline",
+          "url": "https://deadline.com/2026/03/labubu-movie-1236759807/",
           "source": "Daybook: Scheduled Events",
           "sourceId": "daybook_scheduled",
           "category": "daybook",
           "priority": "reference",
-          "date": "Wed, 18 Mar 2026 14:00:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9RcDg3bk5GNUwwdTdwaG5TeXVHRjhndDdPZnRzZXdYZmJOTTU5UU91bUkwUmJCZHdjSVROak92RWdIWkhsRzFNc19aUW1NUDNiaWIyTm1VTnZCVUxwZzJXdC1ZcFVGOFVZSUZsbFl"
-        },
-        {
-          "headline": "Netflix's Scooby-Doo Live-Action Series Casts Shaggy, Velma &amp; Fred - Deadline",
-          "url": "https://deadline.com/2026/03/netflix-scooby-doo-series-cast-shaggy-velma-fred-1236759331/",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Wed, 18 Mar 2026 18:30:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNQkFBRFpIampkdkFtUXJ0WEZWdW51ckhUWG85RlVnTl9MeUQ0bC1KN09pYVpxVG9pSndVYTd5cVN5SEEzWHRYQ3F5NWJBOXdmMTdISzk0Rnp3dnBpWGZ3eUxTNi1GSzhrT2xKS2d"
+          "date": "Thu, 19 Mar 2026 00:00:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Kc095aDZvV0VJTnFJYkhFNUtuZzdmalk3Rm5JOHZUMEM3VThWaVAwbVh3OVJ0UjBFNFdOVy1MMXRqS3JEdERFZ3ZGeDl4bzRQU08yaThJSHFLTkNURzR2dnFuSQ?oc=5\" target"
         }
       ]
     },
@@ -3566,6 +3570,26 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOSUg2OHRCQl9lMnJnd3Z4NnAxM3hpRm1lTEpRRGYtWU1EUVN2YzhBaFd1RkNRa0JiSU5sazFkZ0pvdGJJRUlaTkp2SFZpRWszYTBXQTlmWWw0YmdHUXY1bmRSNnM5R2FsbWFuemZ"
         },
         {
+          "headline": "Samsung Elec plans over $73 bln investment in 2026 to lead in AI chip sector - Reuters",
+          "url": "https://www.reuters.com/business/samsung-electronics-plans-over-73-bln-investment-lead-ai-chip-sector-2026-03-19/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Thu, 19 Mar 2026 07:59:39 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNd25Qa1dITzBvWENPOTZadzY0cHo0MjRaQlVmZlRUTy05cU9vbl93RUFjTmxmVlF5V0U0MnEwLWFDMV9KSXNOUGdiUkVfa0tRNjJfNEZzLVlSbU1SWFRzRk5sazZhOHZLLXRiVnJ"
+        },
+        {
+          "headline": "EU leaders hunt for quick fixes to energy price spike amid Iran war - Reuters",
+          "url": "https://www.reuters.com/sustainability/boards-policy-regulation/eu-leaders-hunt-quick-fixes-energy-price-spike-amid-iran-war-2026-03-19/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Thu, 19 Mar 2026 05:04:43 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTy1YWnRza1E4bXBEckhQX3FaQVhRazVUZW9mSnhXS0xGc18wMTFOSEJCdG9pNmZWQ19KVXVDV1cyUzhjdC1fYlJDOVJWcGxUaF9rZmx6bDVLcjRhd2puemhpckFjOXlkQm1IRXl"
+        },
+        {
           "headline": "Ukraine peace talks paused amid Iran war, Russia's Izvestia says - Reuters",
           "url": "https://www.reuters.com/world/europe/ukraine-peace-talks-paused-amid-iran-war-russias-izvestia-says-2026-03-19/",
           "source": "Reuters",
@@ -3574,16 +3598,6 @@
           "priority": "primary",
           "date": "Thu, 19 Mar 2026 05:28:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOVE5hSDl3TW01YmhCdEZ4UWlVYWpXUFdQTXRfd0ZkZ01sb3NLTmhNNFZZdmtwc2xFNzZNYzYtaGUwbkx3V1FwV29WbndpVktuZER6dTFkdW5LdGxYZWpMTkc0aHMzYk9PM25QeEt"
-        },
-        {
-          "headline": "Nepal investigating burning of Xi Jinping's book at university - Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/nepal-investigating-burning-xi-jinpings-book-university-2026-03-19/",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Thu, 19 Mar 2026 08:15:24 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQcy1Pb0l1Nm5NbmpOZXFEb3hJVWZQTUkyTTY0WHM3S2xjZl9LZmxrQWozSE5lb3ZKbVR5WEdwNVotLS14NXljNE1oRXBTNXlsQjBIenQwR2ZWWHRKTGlTelJFRzBKQ2lINHRGV21"
         },
         {
           "headline": "Investors face cloudier Fed rate view as Iran war grips markets - Reuters",
@@ -3606,16 +3620,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPSDA1bGlRbVZ6OENrX0FINVNCZEM0T0l6aWxkRjk1UnhmVjZ1UTdlYmVLX3hRak5XbDZVZ3RhVlBVVDVsMU5FejhEcGJKT2dNQzZGVlZIZ0hDdnpsT0JHWDZHRDctSlNtZWp6djA"
         },
         {
-          "headline": "EU leaders hunt for quick fixes to energy price spike amid Iran war - Reuters",
-          "url": "https://www.reuters.com/sustainability/boards-policy-regulation/eu-leaders-hunt-quick-fixes-energy-price-spike-amid-iran-war-2026-03-19/",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Thu, 19 Mar 2026 05:04:43 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTy1YWnRza1E4bXBEckhQX3FaQVhRazVUZW9mSnhXS0xGc18wMTFOSEJCdG9pNmZWQ19KVXVDV1cyUzhjdC1fYlJDOVJWcGxUaF9rZmx6bDVLcjRhd2puemhpckFjOXlkQm1IRXl"
-        },
-        {
           "headline": "US detects drones over base where Rubio, Hegseth live, Washington Post reports - Reuters",
           "url": "https://www.reuters.com/world/us/us-detects-drones-over-base-where-rubio-hegseth-live-washington-post-reports-2026-03-19/",
           "source": "Reuters",
@@ -3624,6 +3628,16 @@
           "priority": "primary",
           "date": "Thu, 19 Mar 2026 03:26:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPeHg5RzQxSjJ4MUtxdnJQanl1aTlpZDYweVRveDhTSU1mcW8weVRHSE5DbXhMT09Qby1wX3VLc2JtX2Rtb0I5cTMyOXdZYlQyaUNiX0xPSzZKVmdqWG5aaUM3blEwcFV0bkp0WU4"
+        },
+        {
+          "headline": "Nepal investigating burning of Xi Jinping's book at university - Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/nepal-investigating-burning-xi-jinpings-book-university-2026-03-19/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Thu, 19 Mar 2026 08:15:24 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQcy1Pb0l1Nm5NbmpOZXFEb3hJVWZQTUkyTTY0WHM3S2xjZl9LZmxrQWozSE5lb3ZKbVR5WEdwNVotLS14NXljNE1oRXBTNXlsQjBIenQwR2ZWWHRKTGlTelJFRzBKQ2lINHRGV21"
         },
         {
           "headline": "Trump says Israel attacked Iran gas field without US and Qatari involvement, warns against attacks on Qatar - Reuters",
@@ -3636,27 +3650,17 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOaHlsV2txcHpXRmxvVlRDMkpiYk5ybktCdzlXOEFwdk9BUmtrSE9leUZEV3M4b2VBQl9KZWFhbjU4RXloeWRkR05UR3E3emZZOGpNYTZUck90bzN4c1N2OVk4dWt3MGZMaU9zOXp"
         },
         {
-          "headline": "Samsung Elec plans over $73 bln investment in 2026 to lead in AI chip sector - Reuters",
-          "url": "https://www.reuters.com/business/samsung-electronics-plans-over-73-bln-investment-lead-ai-chip-sector-2026-03-19/",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Thu, 19 Mar 2026 07:59:39 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNd25Qa1dITzBvWENPOTZadzY0cHo0MjRaQlVmZlRUTy05cU9vbl93RUFjTmxmVlF5V0U0MnEwLWFDMV9KSXNOUGdiUkVfa0tRNjJfNEZzLVlSbU1SWFRzRk5sazZhOHZLLXRiVnJ"
-        },
-        {
           "headline": "Gold falls to over one month low on hawkish Fed tone - Reuters",
           "url": "https://www.reuters.com/world/india/gold-rises-off-one-month-low-softer-dollar-hawkish-fed-caps-gains-2026-03-19/",
           "source": "Reuters",
           "sourceId": "reuters_world",
           "category": "wire",
           "priority": "primary",
-          "date": "Thu, 19 Mar 2026 02:59:00 GMT",
+          "date": "Thu, 19 Mar 2026 02:59:16 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOeU43eHJZa2tJVHhJUFA2U2lMb3EzS0hlT1BpMHNybzdaWHhsSDFfdFVuQXV4RWJvZi1teVNpSzdwVExoak9lNEd4Wk9DclRxSm9iTW8zTzlBUG5zbjlqaGdNd2dJcUo5Ry1aR3B"
         },
         {
-          "headline": "Oil jumps above $115/bbl after attacks on Mideast energy assets multiply - Reuters",
+          "headline": "Oil jumps above $119 a barrel on Middle East energy attacks - Reuters",
           "url": "https://www.reuters.com/business/energy/oil-rises-3-after-iran-strikes-middle-east-energy-facilities-2026-03-19/",
           "source": "Reuters",
           "sourceId": "reuters_world",
@@ -3666,17 +3670,24 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPNW5XVEI0MG5IVk1HbW1sLWZ4emdJaGVtakI3b2FDcGJmbXplU1VSMUpUc09xcGQ0NFZrUVc3bmxVRF9RTFFUYVY3MlNkVzRNZ1gyNm1leHV4SHFZMVZrRVh6aXRlNlpRQnhkcjJ"
         },
         {
-          "headline": "India's HDFC Bank says chairman exit may be over rift with management; stock falls - Reuters",
-          "url": "https://www.reuters.com/world/india/indias-hdfc-bank-shares-slide-after-chairman-exits-over-ethical-differences-2026-03-19/",
+          "headline": "Asia's Russian fuel imports poised to hit all-time high due to Middle East disruption - Reuters",
+          "url": "https://www.reuters.com/business/energy/asias-russian-fuel-imports-poised-hit-all-time-high-due-middle-east-disruption-2026-03-19/",
           "source": "Reuters",
           "sourceId": "reuters_world",
           "category": "wire",
           "priority": "primary",
-          "date": "Thu, 19 Mar 2026 03:42:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWEhqQkdMMHhoaU53WjZFYk0zY0hvUUtWVElzdVRPTER4bjhZblkyWmtweG5Mc2FtdHE0bjhQQjloQzdCanpIMWVmZDg5SFhCMU8zYkF3c1lxR09reXAxNW4tQk1CamJxbGNHeTE"
+          "date": "Thu, 19 Mar 2026 04:53:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQc1VCc2ZiVGdJVHNUVjk5c3dYZ1k5N01WczFKeUpFZk5ab29kaDQ4UWlETlJYVThzeEtiSDViVHI2RWNJanNYR2dvYmpRZGRVX3hpdkZldmFvaGVzRUNYempqazBMSi1zYU0teWt",
+          "watchCandidate": true,
+          "watchSignals": [
+            {
+              "category": "temporal",
+              "matched": "due to"
+            }
+          ]
         },
         {
-          "headline": "How the Iran war has left Europe facing yet another energy crisis",
+          "headline": "How Europe sleepwalked into yet another energy crisis",
           "url": "https://www.bbc.com/news/articles/c24de9e97vno?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC",
           "sourceId": "bbc_world",
@@ -3726,6 +3737,26 @@
           "description": "They were killed when shrapnel landed in Beit Awwa, while a Thai worked was also killed by shrapnel falling in Israel."
         },
         {
+          "headline": "Kevin Spacey and accusers settle before civil trial",
+          "url": "https://www.bbc.com/news/articles/c5ygyypy7pro?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC",
+          "sourceId": "bbc_world",
+          "category": "general",
+          "priority": "primary",
+          "date": "Thu, 19 Mar 2026 09:27:23 GMT",
+          "description": "The actor agrees an out-of-court settlement with three men who accused him of sexual assault."
+        },
+        {
+          "headline": "Japan PM to hold 'difficult' talks with Trump as Iran conflict looms large",
+          "url": "https://www.bbc.com/news/articles/cde4e2xyelpo?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC",
+          "sourceId": "bbc_world",
+          "category": "general",
+          "priority": "primary",
+          "date": "Thu, 19 Mar 2026 10:30:42 GMT",
+          "description": "It comes days after Trump criticised Japan for not answering his demands for help in the Strait of Hormuz."
+        },
+        {
           "headline": "Sony removes 135,000 'deepfakes' of its artists' music",
           "url": "https://www.bbc.com/news/articles/cy57593gxe0o?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC",
@@ -3734,6 +3765,16 @@
           "priority": "primary",
           "date": "Wed, 18 Mar 2026 17:19:41 GMT",
           "description": "The company says the proliferation of AI has enabled people to upload fake songs to streaming sites."
+        },
+        {
+          "headline": "Cyprus leader calls for frank discussion on 'colonial' UK bases",
+          "url": "https://www.bbc.com/news/articles/cy7166denxeo?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC",
+          "sourceId": "bbc_world",
+          "category": "general",
+          "priority": "primary",
+          "date": "Thu, 19 Mar 2026 11:05:55 GMT",
+          "description": "The UK's two military bases on Cyprus are a \"colonial consequence\" on the island, says President Nikos Christodoulides."
         },
         {
           "headline": "Ecuador gang leader wanted for murder of presidential candidate arrested",
@@ -3774,36 +3815,6 @@
           "priority": "primary",
           "date": "Thu, 19 Mar 2026 00:01:18 GMT",
           "description": "The film will combine live action and computer-generated animation and is in \"early development\"."
-        },
-        {
-          "headline": "US aircraft carrier to sail to Crete for repairs after fire on board",
-          "url": "https://www.bbc.com/news/articles/c0rjr28nxrwo?at_medium=RSS&amp;at_campaign=rss",
-          "source": "BBC",
-          "sourceId": "bbc_world",
-          "category": "general",
-          "priority": "primary",
-          "date": "Thu, 19 Mar 2026 00:44:57 GMT",
-          "description": "The USS Gerald R Ford has played a significant role in US operations during the war with Iran."
-        },
-        {
-          "headline": "Alberta seeks to set limits on use of medically assisted dying",
-          "url": "https://www.bbc.com/news/articles/c8d5d54glreo?at_medium=RSS&amp;at_campaign=rss",
-          "source": "BBC",
-          "sourceId": "bbc_world",
-          "category": "general",
-          "priority": "primary",
-          "date": "Wed, 18 Mar 2026 23:23:49 GMT",
-          "description": "The Canadian province has proposed legislation that will limit its use solely to end-of-life circumstances."
-        },
-        {
-          "headline": "Rhinos back in the wild in Uganda for the first time in 40 years",
-          "url": "https://www.bbc.com/news/articles/cn4g41n9j4lo?at_medium=RSS&amp;at_campaign=rss",
-          "source": "BBC",
-          "sourceId": "bbc_world",
-          "category": "general",
-          "priority": "primary",
-          "date": "Wed, 18 Mar 2026 17:36:05 GMT",
-          "description": "The return of southern white rhinos to the country comes after Ugandan poachers once wiped them out."
         },
         {
           "headline": "South Africans say criminal gangs are exploiting the water crisis",
@@ -4251,7 +4262,7 @@
           "sourceId": "nyt_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Thu, 19 Mar 2026 10:25:21 +0000",
+          "date": "Thu, 19 Mar 2026 10:48:39 +0000",
           "description": "Refineries and gas facilities in Kuwait, Qatar and Saudi Arabia were struck, a day after Iran’s vast South Pars gas field was hit. The sustained attacks heightened fears over the war’s damage to the g"
         },
         {
@@ -4566,6 +4577,16 @@
           "description": "Check out the stocks Heard on the Street writers favor in their eighth annual stock-picking contest."
         },
         {
+          "headline": "Gabbard says Pakistan missiles a future threat to US, but experts push back",
+          "url": "https://www.aljazeera.com/news/2026/3/19/gabbard-says-pakistan-missiles-a-future-threat-to-us-but-experts-push-back?traffic_source=rss",
+          "source": "Al Jazeera",
+          "sourceId": "aljazeera",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Thu, 19 Mar 2026 10:29:39 +0000",
+          "description": "The US raises concerns but analysts say Pakistan’s missile programme focuses on India, which has longer-range missiles."
+        },
+        {
           "headline": "Iran hits Qatar gas operations in response to Israeli attack",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/3/19/iran-hits-qatar-gas-operations-in-response-to-israeli-attack?traffic_source=rss",
           "source": "Al Jazeera",
@@ -4713,14 +4734,121 @@
           "description": "Heavy social media use has contributed to &#039;worrying decline&#039; in wellbeing in Western countries, report says."
         },
         {
-          "headline": "US intelligence agencies not expecting China to invade Taiwan in 2027",
-          "url": "https://www.aljazeera.com/news/2026/3/19/us-intelligence-agencies-not-expecting-china-to-invade-taiwan-in-2027?traffic_source=rss",
-          "source": "Al Jazeera",
-          "sourceId": "aljazeera",
-          "category": "general",
+          "headline": "Central banks confront spectre of inflation as Iran war escalates",
+          "url": "https://www.france24.com/en/tv-shows/business/20260319-central-banks-confront-spectre-of-inflation-as-iran-war-escalates",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
           "priority": "secondary",
-          "date": "Thu, 19 Mar 2026 05:22:53 +0000",
-          "description": "US spy agencies says Chinese leadership still prefers to pursue unification with Taiwan &#039;without use of force&#039;."
+          "date": "Thu, 19 Mar 2026 10:45:59 GMT",
+          "description": ""
+        },
+        {
+          "headline": "EU leaders pile pressure on Hungary's Orban to lift block on Ukraine loan",
+          "url": "https://www.france24.com/en/video/20260319-eu-leaders-pile-pressure-on-hungary-s-orban-to-lift-block-on-ukraine-loan",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Thu, 19 Mar 2026 10:35:47 GMT",
+          "description": ""
+        },
+        {
+          "headline": "Trump threatens to strike world's largest gas field if Iran attacks Qatar again",
+          "url": "https://www.france24.com/en/video/20260319-trump-threatens-to-strike-world-s-largest-gas-field-if-iran-attacks-qatar-again",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Thu, 19 Mar 2026 10:34:19 GMT",
+          "description": "",
+          "watchCandidate": true,
+          "watchSignals": [
+            {
+              "category": "escalation",
+              "matched": "threatens to"
+            }
+          ]
+        },
+        {
+          "headline": "Who is running Iran? Top leadership decimated by US-Israeli strikes",
+          "url": "https://www.france24.com/en/video/20260319-who-is-running-iran-top-leadership-decimated-by-us-israeli-strikes",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Thu, 19 Mar 2026 10:32:58 GMT",
+          "description": ""
+        },
+        {
+          "headline": "Iraq caught in crossfire of Middle East war",
+          "url": "https://www.france24.com/en/video/20260319-iraq-caught-in-crossfire-of-middle-east-war",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Thu, 19 Mar 2026 10:32:21 GMT",
+          "description": ""
+        },
+        {
+          "headline": "Dozens arrested in Dubai for allegedly filming the war",
+          "url": "https://www.france24.com/en/video/20260319-dozens-arrested-in-dubai-for-allegedly-filming-the-war",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Thu, 19 Mar 2026 10:31:09 GMT",
+          "description": ""
+        },
+        {
+          "headline": "French top diplomat to visit Beirut: Paris vows solidarity with Lebanon",
+          "url": "https://www.france24.com/en/video/20260319-french-top-diplomat-to-visit-beirut-paris-vows-solidarity-with-lebanon",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Thu, 19 Mar 2026 10:29:50 GMT",
+          "description": ""
+        },
+        {
+          "headline": "EU summit to focus on wars in the Middle East and Ukraine",
+          "url": "https://www.france24.com/en/video/20260319-eu-summit-to-focus-on-wars-in-the-middle-east-and-ukraine",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Thu, 19 Mar 2026 10:28:39 GMT",
+          "description": ""
+        },
+        {
+          "headline": "War in Ukraine: Kharkiv opera defies Russian bombardment",
+          "url": "https://www.france24.com/en/video/20260319-war-in-ukraine-kharkiv-opera-defies-russian-bombardment",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Thu, 19 Mar 2026 10:27:27 GMT",
+          "description": ""
+        },
+        {
+          "headline": "Iran causes 'extensive' damage to Qatar gas hub, sparks Trump warning",
+          "url": "https://www.france24.com/en/video/20260319-iran-causes-extensive-damage-to-qatar-gas-hub-sparks-trump-warning",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Thu, 19 Mar 2026 10:26:45 GMT",
+          "description": ""
+        },
+        {
+          "headline": "Inside Lebanon's emergency response as displacement crisis strains resources",
+          "url": "https://www.france24.com/en/video/20260319-inside-lebaon-s-emergency-response-as-displacement-crisis-strains-resources",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Thu, 19 Mar 2026 10:25:42 GMT",
+          "description": ""
         },
         {
           "headline": "Paris appeals court rejects French govenment bid to suspend Shein",
@@ -4760,123 +4888,6 @@
           "category": "wire",
           "priority": "secondary",
           "date": "Thu, 19 Mar 2026 07:22:18 GMT",
-          "description": ""
-        },
-        {
-          "headline": "Activists deliver medical aid to crisis-hit Cuba as US energy blockade continues",
-          "url": "https://www.france24.com/en/americas/20260319-activists-deliver-medical-aid-to-crisis-hit-cuba-as-us-energy-blockade-continues",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Thu, 19 Mar 2026 07:15:52 GMT",
-          "description": ""
-        },
-        {
-          "headline": "Ayman Mhanna: 'Lebanon has become the theatre for a war between Israel and Iran'",
-          "url": "https://www.france24.com/en/ayman-mhanna-lebanon-has-become-the-theatre-for-a-war-between-israel-and-iran",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Thu, 19 Mar 2026 07:04:00 GMT",
-          "description": ""
-        },
-        {
-          "headline": "France's FM to visit Lebanon in show of 'support and solidarity' amid Middle East war",
-          "url": "https://www.france24.com/en/middle-east/20260319-france-s-fm-to-visit-lebanon-in-show-of-support-and-solidarity-amid-middle-east-war",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Thu, 19 Mar 2026 06:23:45 GMT",
-          "description": ""
-        },
-        {
-          "headline": "Liverpool set up PSG clash in Champions League quarter-finals",
-          "url": "https://www.france24.com/en/tv-shows/sports/20260319-liverpool-set-up-psg-clash-in-champions-league-quarter-finals",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Thu, 19 Mar 2026 06:06:59 GMT",
-          "description": ""
-        },
-        {
-          "headline": "European leaders seek breakthrough on €90 billion Ukraine loan blocked by Viktor Orban",
-          "url": "https://www.france24.com/en/europe/20260319-european-leaders-seek-breakthrough-on-%E2%82%AC90bn-ukraine-loan-blocked-by-viktor-orban",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Thu, 19 Mar 2026 04:09:49 GMT",
-          "description": ""
-        },
-        {
-          "headline": "Live: Oil prices soar as Iran intensifies strikes on Gulf energy plants",
-          "url": "https://www.france24.com/en/middle-east/20260319-live-trump-threatens-to-blow-up-major-iran-gas-field-if-strikes-on-gulf-energy-sites-continue",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Thu, 19 Mar 2026 02:33:21 GMT",
-          "description": ""
-        },
-        {
-          "headline": "Trump Homeland Security nominee defends immigration stance in tense hearing",
-          "url": "https://www.france24.com/en/americas/20260319-trump-homeland-security-nominee-defends-immigration-stance-in-tense-hearing",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Thu, 19 Mar 2026 00:34:32 GMT",
-          "description": "",
-          "watchCandidate": true,
-          "watchSignals": [
-            {
-              "category": "scheduled",
-              "matched": "hearing"
-            }
-          ]
-        },
-        {
-          "headline": "Liverpool to face PSG in Champions League quarter-finals after Galatasaray rout",
-          "url": "https://www.france24.com/en/sport/20260318-liverpool-to-face-psg-in-champions-league-quarter-finals-after-galatasaray-rout",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Wed, 18 Mar 2026 23:11:49 GMT",
-          "description": ""
-        },
-        {
-          "headline": "International shipping 'chaos' as Strait of Hormuz closure sends ripple effects across the globe",
-          "url": "https://www.france24.com/en/tv-shows/a-propos/20260318-international-shipping-chaos-as-strait-of-hormuz-closure-sends-ripple-effects-across-the-globe",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Wed, 18 Mar 2026 22:44:42 GMT",
-          "description": ""
-        },
-        {
-          "headline": "Qatar orders departure of two Iranian diplomats over gas facility attack",
-          "url": "https://www.france24.com/en/qatar-orders-departure-of-two-iranian-diplomats-over-gas-facility-attack",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Wed, 18 Mar 2026 22:39:22 GMT",
-          "description": ""
-        },
-        {
-          "headline": "Are US soldiers really 'refusing orders' to fight in Iran war?",
-          "url": "https://www.france24.com/en/tv-shows/truth-or-fake/20260318-are-us-soldiers-really-refusing-orders-to-fight-in-iran-war",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Wed, 18 Mar 2026 21:56:39 GMT",
           "description": ""
         }
       ],
@@ -4924,7 +4935,7 @@
         },
         {
           "headline": "Reforming Cross-border payments: keynote speech at the FSB Payments Summit - Financial Stability Board",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcklJWEpBMHUzTWVtWXJjdnhHM3NiTDVMRHdYYW9hZDZ5aTJfeGdrSm1WM095T0FwUUFBMldVWVVDMjcyMHNRazlGdjBOU2Y3aGNnLWJFeF9EdHBxdGV2cVV6NzJoQjhPYmJvdWlxQXFsaDRneG9WaGdtb01IRTctR2lBdUhfa0hwZm5Ca3BEZVd1YU1ibTJvZ2xWUlh2QnBYa2RzSg?oc=5",
+          "url": "https://www.fsb.org/2026/03/reforming-cross-border-payments-keynote-speech-at-the-fsb-payments-summit/",
           "source": "Daybook: International Events",
           "sourceId": "daybook_intl",
           "category": "daybook",
@@ -4953,16 +4964,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9IYW10UEFKaXZCd2pHd2c1V3RHc05SLTJIWmlCMWc0TjlONXRmZUF3N1l1NjNXWnRHcm5FUHNtR1ktM1N3N29Dckt2WHdWdGtDd2t1NW9sWQ?oc=5\" target=\"_blank\"&gt;G20"
         },
         {
-          "headline": "Iran and oil imperil Trump-Japan summit - Politico",
-          "url": "https://www.politico.com/news/2026/03/18/from-cherry-blossoms-to-crisis-iran-imperils-trump-japan-summit-00834991",
-          "source": "Daybook: International Events",
-          "sourceId": "daybook_intl",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Wed, 18 Mar 2026 22:00:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPdnlkNkhLaXN4UU9tcUpjRVBFcTBHUHp5dGwwdjNGVVJNTVIta3hmaEJ2RGo0aEctV0hxbzRyTi03N3lxV082bmFvWVhqclFyczEyOU9acFR3ajhILW1xVzBjdDVPRFFvdUlPa1o"
-        },
-        {
           "headline": "Scoop: Trump claimed in G7 call that Iran is \"about to surrender\" - Axios",
           "url": "https://www.axios.com/2026/03/13/trump-iran-surrender-hormuz-oil",
           "source": "Daybook: International Events",
@@ -4981,6 +4982,16 @@
           "priority": "reference",
           "date": "Wed, 18 Mar 2026 11:05:17 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE83eW45M29EY2VkS2hxeUFiYVJtWFQ3aFVvYnlDNG5qYWg1OWNmOG9uTXpMUEVRQngycE1ERzNnRExXakJtOHpsLUkzWUxFM3RRMTZKVEVQbW04OGI3Wkl4WGJuWjFKMWZCcjJqOTh"
+        },
+        {
+          "headline": "Iran and oil imperil Trump-Japan summit - Politico",
+          "url": "https://www.politico.com/news/2026/03/18/from-cherry-blossoms-to-crisis-iran-imperils-trump-japan-summit-00834991",
+          "source": "Daybook: International Events",
+          "sourceId": "daybook_intl",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Wed, 18 Mar 2026 22:00:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPdnlkNkhLaXN4UU9tcUpjRVBFcTBHUHp5dGwwdjNGVVJNTVIta3hmaEJ2RGo0aEctV0hxbzRyTi03N3lxV082bmFvWVhqclFyczEyOU9acFR3ajhILW1xVzBjdDVPRFFvdUlPa1o"
         },
         {
           "headline": "6 takeaways from our “Growing Up in the Digital Age” Summit - blog.google",
@@ -5013,16 +5024,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPNjRySV9XMU91TUlLUnhmUGp1Q29hWnEwelNrektzdDBfRVFUZzM1emUzOFJVYjRpV3NjUVZlR0xkNHVQdFUwa2c5OFNhMFlYOUloVloxcE5YQ3Jxc0pjaDJCWnZSNURkcjNfZGJ"
         },
         {
-          "headline": "Trump-Xi summit delayed as U.S. president pushes China to help open Hormuz - The Washington Post",
-          "url": "chrome-error://chromewebdata/",
-          "source": "Daybook: International Events",
-          "sourceId": "daybook_intl",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Tue, 17 Mar 2026 05:09:26 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbDM1cFRzVTdadVJiZnpWNE9MRzlnUkpvWVc4Zm5DRnZMdjVnUzRUTTNqSHdpSDBjSVBIUzVRMEhtNXZ4M0NqdFhrZ0NHU2tDTWRqazZoZnI4bW5tWnE1Wmd1OERjRHFKRmdUa3V"
-        },
-        {
           "headline": "EU Leaders’ Summit Roundup: EPC experts highlight energy shocks, competitiveness, and security - European Policy Centre (EPC)",
           "url": "https://www.epc.eu/publication/eu-leaders-summit-roundup-epc-experts-highlight-energy-shocks-competitiveness-and-security/",
           "source": "Daybook: International Events",
@@ -5031,6 +5032,16 @@
           "priority": "reference",
           "date": "Wed, 18 Mar 2026 14:19:07 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOb1pyVk1sR1NkT2lVR3I1S2wwUi1OelZ1YUFyOXprVzlzN1Q5MHZHY2FpWGNmdXk5VG9PV1lfTHRJSTJtTFA4MkVfY3hwYUlNa0lNUWtmSkdjR3dUWkZNaW5oUnNjdTlEUm9lNV9"
+        },
+        {
+          "headline": "Trump-Xi summit delayed as U.S. president pushes China to help open Hormuz - The Washington Post",
+          "url": "chrome-error://chromewebdata/",
+          "source": "Daybook: International Events",
+          "sourceId": "daybook_intl",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Tue, 17 Mar 2026 05:09:26 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbDM1cFRzVTdadVJiZnpWNE9MRzlnUkpvWVc4Zm5DRnZMdjVnUzRUTTNqSHdpSDBjSVBIUzVRMEhtNXZ4M0NqdFhrZ0NHU2tDTWRqazZoZnI4bW5tWnE1Wmd1OERjRHFKRmdUa3V"
         },
         {
           "headline": "Embedded | 2026 Trade Deadline - NHL.com",
@@ -5053,16 +5064,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOTW93UnBleWM5TGFiODl3NEN1NlNsb2xTUzd2ek9COGg2aUdOQVY0cGc3dXJuRVBnc3N3VHBkdUhoWExqN2hXTHNlekRLX2ZFWmd6MTc4Z2toWkotek5Xc1FMNmZwUW5zTENSR3N"
         },
         {
-          "headline": "Equities extend rebound as Fed meeting begins. - CME Group",
-          "url": "chrome-error://chromewebdata/",
-          "source": "Daybook: Economic Calendar",
-          "sourceId": "daybook_econ",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Tue, 17 Mar 2026 22:28:20 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOSUNyQUJUQUFkZUNkN1Jhd2UtUFVzTEJfV0hWakxnLVV6X0lKVktab1RVSl9ESDF2V1hRYlgxa2tOdEhlb1JMNVdfYVl1WS15RW45MUJZa0V0RHdjVGFjMDVCX21XMWJaNFZUQUF"
-        },
-        {
           "headline": "WATCH: Fed Chair Powell holds news briefing after interest rate left unchanged - PBS",
           "url": "https://www.pbs.org/newshour/economy/watch-live-fed-chair-powell-holds-news-briefing-after-latest-interest-rate-decision",
           "source": "Daybook: Economic Calendar",
@@ -5071,6 +5072,16 @@
           "priority": "reference",
           "date": "Wed, 18 Mar 2026 14:23:50 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxObmE2Rm5TNnFlVmNSODAwcFBnekVlTWJHekl5VWEwRzB5UTlxSXNMYUlOTnozX2ZjZ01hZENCTkZPc0ZmOTA2NDVxelFYRVd0Q1BkQ29QeUpHM3YtbTU5aHY1Y2o3M0tmcjdRNTZ"
+        },
+        {
+          "headline": "Equities extend rebound as Fed meeting begins. - CME Group",
+          "url": "chrome-error://chromewebdata/",
+          "source": "Daybook: Economic Calendar",
+          "sourceId": "daybook_econ",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Tue, 17 Mar 2026 22:28:20 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOSUNyQUJUQUFkZUNkN1Jhd2UtUFVzTEJfV0hWakxnLVV6X0lKVktab1RVSl9ESDF2V1hRYlgxa2tOdEhlb1JMNVdfYVl1WS15RW45MUJZa0V0RHdjVGFjMDVCX21XMWJaNFZUQUF"
         },
         {
           "headline": "Federal Reserve holds firm with decision not to cut interest rate - NewsNation",
@@ -5123,16 +5134,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE8tN1dOWktQSFlYNHFWUnFTOS1jWXA2dnVTV3BsQy1HVVZtZlk3U0pua0xmRkc2cUI2R01IU2daMjNENEUydFFQY2FkRnExUDJaRU1GUXN5SU0zTzhTdHVXY1pJSUYzRjRUdm5tRUZ"
         },
         {
-          "headline": "Stock Market Today, March 17: Markets Edge Upwards as Fed Meeting Opens - Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/stock-market-today-march-17-213428001.html",
-          "source": "Daybook: Economic Calendar",
-          "sourceId": "daybook_econ",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Tue, 17 Mar 2026 21:34:28 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBKcXYtT2dyc3ExTWFtc1ZSc3BpakpKZkotRHI2Z0VacEVVTWU3MGtBRmpGQTVWRzZHcllQTjFydGxwMUx1OTVxaFpNeFdUcjVtQVBhSFhBS0RFbzN6cmJaUm1iakZVMkdjYklVMEV"
-        },
-        {
           "headline": "Lululemon posts revenue, EPS beat in earnings report - CNBC",
           "url": "https://www.cnbc.com/video/2026/03/17/lululemon-posts-revenue-eps-beat-in-earnings-report.html",
           "source": "Daybook: Economic Calendar",
@@ -5153,8 +5154,18 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOVDh5UTlRaFpTaHBtYkhadGtUNjFrQWx3aklfLURSbEtXaDYwdlRYR3NGUGZ3SjJNcHVjQ1BIc096cHZiS0xWT2R1djZtaTFnSXdVUnJ0VDl3bHpFSmwzZkVQSWFJNV9IUWdDSC1"
         },
         {
+          "headline": "Stock Market Today, March 17: Markets Edge Upwards as Fed Meeting Opens - Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/stock-market-today-march-17-213428001.html",
+          "source": "Daybook: Economic Calendar",
+          "sourceId": "daybook_econ",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Tue, 17 Mar 2026 21:34:28 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBKcXYtT2dyc3ExTWFtc1ZSc3BpakpKZkotRHI2Z0VacEVVTWU3MGtBRmpGQTVWRzZHcllQTjFydGxwMUx1OTVxaFpNeFdUcjVtQVBhSFhBS0RFbzN6cmJaUm1iakZVMkdjYklVMEV"
+        },
+        {
           "headline": "Rates Spark: Some calm ahead of the Fed meeting - ING THINK economic and financial analysis | ING THINK",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaW9QUHQtSklyNUZseC1CaXN6QjRYMTYwSDVfVUxqSEZqN0RLV1IxV0xnWUp4Ylg2VUpiX0JBb1JwazlFZERkVXRiOFlfMkdodnk3cHI1SDNkU2xJcDBrNndOVnNhTTNYWkZpUGNsWHBkWWJMTGlBdnVnU25FcjNjc3I1NlQ?oc=5",
+          "url": "https://think.ing.com/articles/rates-spark-some-calm-ahead-of-the-fed-meeting/",
           "source": "Daybook: Economic Calendar",
           "sourceId": "daybook_econ",
           "category": "daybook",
@@ -5173,14 +5184,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQbG5WemlPUURnamRaNmMzYy1NZnVuN2NSWFdfaTdnOXA5ZThrNlJKR3dMc2FCZDBod3dDQ1FMeEdxQktuVGNOMXFBQW1LeE9DNG5vMG9TMk9ORGJPQmo4SnEzTGVoQmlaY3gwRHZ"
         },
         {
-          "headline": "NHL 2025-26 season predictions 3.0: How did the trade deadline impact our picks? - The Athletic - The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUDVZdkdsTmhWRnEzUmdFYWhHMHVaZjctcndNQi1qN1NpaEcwRUJ6dU84Ui02MmJ0dG83ZzNnbFdYeF84MU9Xeks5cTE2NnJBMXR2bENfcTMzV0FDS0R1V0ZzSTU4LUNfSHdCQzItM2ZnN18xck5ra3V2aV9OOGtqZXBfVVl5aHVkYUpFWVJDa2hjMDlFOGdOZlRqcTNpVGM?oc=5",
+          "headline": "Why Is Tenet (THC) Down 3.2% Since Last Earnings Report? - Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/why-tenet-thc-down-3-153014199.html",
           "source": "Daybook: Economic Calendar",
           "sourceId": "daybook_econ",
           "category": "daybook",
           "priority": "reference",
-          "date": "Sat, 14 Mar 2026 11:00:43 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPUDVZdkdsTmhWRnEzUmdFYWhHMHVaZjctcndNQi1qN1NpaEcwRUJ6dU84Ui02MmJ0dG83ZzNnbFdYeF84MU9Xeks5cTE2NnJBMXR2bENfcTMzV0FDS0R1V0ZzSTU4LUNfSHdCQzI"
+          "date": "Fri, 13 Mar 2026 15:30:14 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1QUGZ0TDFlYmp0Z1hIWlQtbDNVa2NGLWtOc3RZOU9TWUh0NlIwTDhESjAtQUotR1FjSDBMZTc2Y2JWeW5oY0g5R253ZGs1dzJmcTBfWWdqdkRIRFdvdXZpdmZTS0pKc1NFYklzYzN"
         },
         {
           "headline": "Deadline to apply to A/P Council Scholarship is June 5 - Illinois State University News",
@@ -5244,13 +5255,23 @@
         },
         {
           "headline": "REMINDER – 2026 Congressional Art Competition Submission Deadline Approaching - Eli Crane (R-AZ) (.gov)",
-          "url": "https://crane.house.gov/2026/03/18/reminder-2026-congressional-art-competition-submission-deadline-approaching/",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOVU4OFU0QzEwVzJlMThGMkpRQzFnUkdFSHpBMldFVlZWNGtlbEZfRFltQW82Snl1TURucHRqN0xUc0ppZjRfb3pGclAzd3hMNnltdUR2M3JjRkpTeHg4TGNHLWJQeHQtdlRpSjc5alMtYk1LYVFxVWlPLVlGX05GNjgtNDlGcXBGcEsxdVd2cUp2WWg4TVZubncyZmFIX0l5VV9rV2dCWjhpV3JnZmw1cQ?oc=5",
           "source": "Daybook: Scheduled Events",
           "sourceId": "daybook_scheduled",
           "category": "daybook",
           "priority": "reference",
           "date": "Wed, 18 Mar 2026 16:54:40 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOOVU4OFU0QzEwVzJlMThGMkpRQzFnUkdFSHpBMldFVlZWNGtlbEZfRFltQW82Snl1TURucHRqN0xUc0ppZjRfb3pGclAzd3hMNnltdUR2M3JjRkpTeHg4TGNHLWJQeHQtdlRpSjc"
+        },
+        {
+          "headline": "Germany sets mid-April deadline for troubled fighter project with France - Reuters",
+          "url": "https://www.reuters.com/business/aerospace-defense/germany-sets-mid-april-deadline-troubled-fighter-project-with-france-2026-03-19/",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Thu, 19 Mar 2026 08:25:24 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNN2UxMEt1N1NaaGlHZURfb0xDVy1mZmhmQy1VUnk0ZlpYWDBTYXZGWUdrTmp3U1MtS09nMTB1cFRYV0F0ZGxBQjhDUXZqZmV4VjgzaF9oVzJLLUs5Ry1fbmFHUHNpenlxWHNick1"
         },
         {
           "headline": "Community Parade Honoring Jacket Basketball Teams Scheduled for Tuesday, March 24 - Starkville Oktibbeha School District",
@@ -5273,14 +5294,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNUGJkbmdVNXNGcG9WYm84NUE5UHBCVG0yMExSQUZQNWZkZUpLRFRmRmN6ZzJnb1plcjlIMkRtTmVyTHI3V0I0SmpRVlB0MlhjMDJsWnRCR0M0VTNKeVhBVjBJNE52WTVJeHVfTnA"
         },
         {
-          "headline": "Feds agree to deadline for endangered species listing of rare NV toad - Nevada Current",
-          "url": "https://nevadacurrent.com/briefs/feds-agree-to-deadline-for-endangered-species-listing-of-rare-nv-toad/",
+          "headline": "Who will be back for Memphis basketball? Penny Hardaway will know soon - The Commercial Appeal",
+          "url": "https://www.commercialappeal.com/story/sports/college/memphis-tigers/2026/03/19/penny-hardaway-gives-memphis-basketball-players-transfer-deadline/89174454007/?gca-cat=p&gnt-cfr=1",
           "source": "Daybook: Scheduled Events",
           "sourceId": "daybook_scheduled",
           "category": "daybook",
           "priority": "reference",
-          "date": "Wed, 18 Mar 2026 22:15:49 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxONXJkbzRvaVB2NnJOWjRCZjFqcVlJU0otcXFYcERTSlRTU1I2b1dReTZ2c3FvZXZjUnJRWEo1dWtUVzRiNWcwbFVOZWpTa2IweTJTdzZCcF94MzBQdllKR2M5UWV0MjNUeHVLOXV"
+          "date": "Thu, 19 Mar 2026 10:21:41 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxQM2JlTkZPU1FfTXpJSE1RTWxKMzU2ZXh3c3djeDViWTlrRGptNTJ0TFZYSkw2VE9yeXh5THZkYldKMUhzWGh3QXV3NlhHb0gyLU1lREU4azNxZEFIWmpVWmE1UmVMLWRwOV9rRHp"
         },
         {
           "headline": "Crabby's Dockside restaurant owners face deadline to find new operator - Treasure Coast News",
@@ -5293,14 +5314,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxQdW1wQjVGajF3SmYxVDE5OFE3OWJDbkNuRXBwc25FR3EtdXFlSHFTcHY5UTZkMEFZTUo0Sm9pVWFUUXBReDRpbWZqNklJR3NTVjVhQzItanRkZzBaLXprLXlPcWViWW1uZlFtSzR"
         },
         {
-          "headline": "Who will be back for Memphis basketball? Penny Hardaway will know soon - The Commercial Appeal",
-          "url": "https://www.commercialappeal.com/story/sports/college/memphis-tigers/2026/03/19/penny-hardaway-gives-memphis-basketball-players-transfer-deadline/89174454007/?gca-cat=p&gnt-cfr=1",
+          "headline": "Feds agree to deadline for endangered species listing of rare NV toad - Nevada Current",
+          "url": "https://nevadacurrent.com/briefs/feds-agree-to-deadline-for-endangered-species-listing-of-rare-nv-toad/",
           "source": "Daybook: Scheduled Events",
           "sourceId": "daybook_scheduled",
           "category": "daybook",
           "priority": "reference",
-          "date": "Thu, 19 Mar 2026 10:21:41 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxQM2JlTkZPU1FfTXpJSE1RTWxKMzU2ZXh3c3djeDViWTlrRGptNTJ0TFZYSkw2VE9yeXh5THZkYldKMUhzWGh3QXV3NlhHb0gyLU1lREU4azNxZEFIWmpVWmE1UmVMLWRwOV9rRHp"
+          "date": "Wed, 18 Mar 2026 22:15:49 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxONXJkbzRvaVB2NnJOWjRCZjFqcVlJU0otcXFYcERTSlRTU1I2b1dReTZ2c3FvZXZjUnJRWEo1dWtUVzRiNWcwbFVOZWpTa2IweTJTdzZCcF94MzBQdllKR2M5UWV0MjNUeHVLOXV"
         },
         {
           "headline": "'The Correspondent' Movie Set Up At Lionsgate; Jane Fonda To Star - Deadline",
@@ -5313,24 +5334,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOTERDZGVFQTlNVXpDSkFDenFpTlRIRG9ZTVU2N25iUFh5a3haNENlQU03YjdqMERVcjFVaEx0NXVEQWFvX1NwTmZEdm1ZdFNPcFVFaHZ0SFV2REhVZkpHTFFkbGRxNFp1QXBLazd"
         },
         {
-          "headline": "A24 Sets Michaela Coel To Direct &amp; Write Fresh Take Of ‘Bloodsport’ - Deadline",
-          "url": "https://deadline.com/2026/03/a24-bloodsport-michaela-coel-1236758971/",
+          "headline": "Sony &amp; Pop Mart Make ‘Labubu’ Movie Official; Steven Levenson Joins As Co-Writer - Deadline",
+          "url": "https://deadline.com/2026/03/labubu-movie-1236759807/",
           "source": "Daybook: Scheduled Events",
           "sourceId": "daybook_scheduled",
           "category": "daybook",
           "priority": "reference",
-          "date": "Wed, 18 Mar 2026 14:00:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9RcDg3bk5GNUwwdTdwaG5TeXVHRjhndDdPZnRzZXdYZmJOTTU5UU91bUkwUmJCZHdjSVROak92RWdIWkhsRzFNc19aUW1NUDNiaWIyTm1VTnZCVUxwZzJXdC1ZcFVGOFVZSUZsbFl"
-        },
-        {
-          "headline": "Netflix's Scooby-Doo Live-Action Series Casts Shaggy, Velma &amp; Fred - Deadline",
-          "url": "https://deadline.com/2026/03/netflix-scooby-doo-series-cast-shaggy-velma-fred-1236759331/",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Wed, 18 Mar 2026 18:30:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNQkFBRFpIampkdkFtUXJ0WEZWdW51ckhUWG85RlVnTl9MeUQ0bC1KN09pYVpxVG9pSndVYTd5cVN5SEEzWHRYQ3F5NWJBOXdmMTdISzk0Rnp3dnBpWGZ3eUxTNi1GSzhrT2xKS2d"
+          "date": "Thu, 19 Mar 2026 00:00:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Kc095aDZvV0VJTnFJYkhFNUtuZzdmalk3Rm5JOHZUMEM3VThWaVAwbVh3OVJ0UjBFNFdOVy1MMXRqS3JEdERFZ3ZGeDl4bzRQU08yaThJSHFLTkNURzR2dnFuSQ?oc=5\" target"
         }
       ]
     }
@@ -5378,7 +5389,7 @@
     },
     {
       "headline": "Reforming Cross-border payments: keynote speech at the FSB Payments Summit - Financial Stability Board",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcklJWEpBMHUzTWVtWXJjdnhHM3NiTDVMRHdYYW9hZDZ5aTJfeGdrSm1WM095T0FwUUFBMldVWVVDMjcyMHNRazlGdjBOU2Y3aGNnLWJFeF9EdHBxdGV2cVV6NzJoQjhPYmJvdWlxQXFsaDRneG9WaGdtb01IRTctR2lBdUhfa0hwZm5Ca3BEZVd1YU1ibTJvZ2xWUlh2QnBYa2RzSg?oc=5",
+      "url": "https://www.fsb.org/2026/03/reforming-cross-border-payments-keynote-speech-at-the-fsb-payments-summit/",
       "source": "Daybook: International Events",
       "sourceId": "daybook_intl",
       "category": "daybook",
@@ -5407,16 +5418,6 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9IYW10UEFKaXZCd2pHd2c1V3RHc05SLTJIWmlCMWc0TjlONXRmZUF3N1l1NjNXWnRHcm5FUHNtR1ktM1N3N29Dckt2WHdWdGtDd2t1NW9sWQ?oc=5\" target=\"_blank\"&gt;G20"
     },
     {
-      "headline": "Iran and oil imperil Trump-Japan summit - Politico",
-      "url": "https://www.politico.com/news/2026/03/18/from-cherry-blossoms-to-crisis-iran-imperils-trump-japan-summit-00834991",
-      "source": "Daybook: International Events",
-      "sourceId": "daybook_intl",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Wed, 18 Mar 2026 22:00:00 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPdnlkNkhLaXN4UU9tcUpjRVBFcTBHUHp5dGwwdjNGVVJNTVIta3hmaEJ2RGo0aEctV0hxbzRyTi03N3lxV082bmFvWVhqclFyczEyOU9acFR3ajhILW1xVzBjdDVPRFFvdUlPa1o"
-    },
-    {
       "headline": "Scoop: Trump claimed in G7 call that Iran is \"about to surrender\" - Axios",
       "url": "https://www.axios.com/2026/03/13/trump-iran-surrender-hormuz-oil",
       "source": "Daybook: International Events",
@@ -5435,6 +5436,16 @@
       "priority": "reference",
       "date": "Wed, 18 Mar 2026 11:05:17 GMT",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE83eW45M29EY2VkS2hxeUFiYVJtWFQ3aFVvYnlDNG5qYWg1OWNmOG9uTXpMUEVRQngycE1ERzNnRExXakJtOHpsLUkzWUxFM3RRMTZKVEVQbW04OGI3Wkl4WGJuWjFKMWZCcjJqOTh"
+    },
+    {
+      "headline": "Iran and oil imperil Trump-Japan summit - Politico",
+      "url": "https://www.politico.com/news/2026/03/18/from-cherry-blossoms-to-crisis-iran-imperils-trump-japan-summit-00834991",
+      "source": "Daybook: International Events",
+      "sourceId": "daybook_intl",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Wed, 18 Mar 2026 22:00:00 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPdnlkNkhLaXN4UU9tcUpjRVBFcTBHUHp5dGwwdjNGVVJNTVIta3hmaEJ2RGo0aEctV0hxbzRyTi03N3lxV082bmFvWVhqclFyczEyOU9acFR3ajhILW1xVzBjdDVPRFFvdUlPa1o"
     },
     {
       "headline": "6 takeaways from our “Growing Up in the Digital Age” Summit - blog.google",
@@ -5467,16 +5478,6 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPNjRySV9XMU91TUlLUnhmUGp1Q29hWnEwelNrektzdDBfRVFUZzM1emUzOFJVYjRpV3NjUVZlR0xkNHVQdFUwa2c5OFNhMFlYOUloVloxcE5YQ3Jxc0pjaDJCWnZSNURkcjNfZGJ"
     },
     {
-      "headline": "Trump-Xi summit delayed as U.S. president pushes China to help open Hormuz - The Washington Post",
-      "url": "chrome-error://chromewebdata/",
-      "source": "Daybook: International Events",
-      "sourceId": "daybook_intl",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Tue, 17 Mar 2026 05:09:26 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbDM1cFRzVTdadVJiZnpWNE9MRzlnUkpvWVc4Zm5DRnZMdjVnUzRUTTNqSHdpSDBjSVBIUzVRMEhtNXZ4M0NqdFhrZ0NHU2tDTWRqazZoZnI4bW5tWnE1Wmd1OERjRHFKRmdUa3V"
-    },
-    {
       "headline": "EU Leaders’ Summit Roundup: EPC experts highlight energy shocks, competitiveness, and security - European Policy Centre (EPC)",
       "url": "https://www.epc.eu/publication/eu-leaders-summit-roundup-epc-experts-highlight-energy-shocks-competitiveness-and-security/",
       "source": "Daybook: International Events",
@@ -5485,6 +5486,16 @@
       "priority": "reference",
       "date": "Wed, 18 Mar 2026 14:19:07 GMT",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOb1pyVk1sR1NkT2lVR3I1S2wwUi1OelZ1YUFyOXprVzlzN1Q5MHZHY2FpWGNmdXk5VG9PV1lfTHRJSTJtTFA4MkVfY3hwYUlNa0lNUWtmSkdjR3dUWkZNaW5oUnNjdTlEUm9lNV9"
+    },
+    {
+      "headline": "Trump-Xi summit delayed as U.S. president pushes China to help open Hormuz - The Washington Post",
+      "url": "chrome-error://chromewebdata/",
+      "source": "Daybook: International Events",
+      "sourceId": "daybook_intl",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Tue, 17 Mar 2026 05:09:26 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbDM1cFRzVTdadVJiZnpWNE9MRzlnUkpvWVc4Zm5DRnZMdjVnUzRUTTNqSHdpSDBjSVBIUzVRMEhtNXZ4M0NqdFhrZ0NHU2tDTWRqazZoZnI4bW5tWnE1Wmd1OERjRHFKRmdUa3V"
     },
     {
       "headline": "Embedded | 2026 Trade Deadline - NHL.com",
@@ -5547,16 +5558,6 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE8tN1dOWktQSFlYNHFWUnFTOS1jWXA2dnVTV3BsQy1HVVZtZlk3U0pua0xmRkc2cUI2R01IU2daMjNENEUydFFQY2FkRnExUDJaRU1GUXN5SU0zTzhTdHVXY1pJSUYzRjRUdm5tRUZ"
     },
     {
-      "headline": "Stock Market Today, March 17: Markets Edge Upwards as Fed Meeting Opens - Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/stock-market-today-march-17-213428001.html",
-      "source": "Daybook: Economic Calendar",
-      "sourceId": "daybook_econ",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Tue, 17 Mar 2026 21:34:28 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBKcXYtT2dyc3ExTWFtc1ZSc3BpakpKZkotRHI2Z0VacEVVTWU3MGtBRmpGQTVWRzZHcllQTjFydGxwMUx1OTVxaFpNeFdUcjVtQVBhSFhBS0RFbzN6cmJaUm1iakZVMkdjYklVMEV"
-    },
-    {
       "headline": "Lululemon posts revenue, EPS beat in earnings report - CNBC",
       "url": "https://www.cnbc.com/video/2026/03/17/lululemon-posts-revenue-eps-beat-in-earnings-report.html",
       "source": "Daybook: Economic Calendar",
@@ -5577,8 +5578,18 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOVDh5UTlRaFpTaHBtYkhadGtUNjFrQWx3aklfLURSbEtXaDYwdlRYR3NGUGZ3SjJNcHVjQ1BIc096cHZiS0xWT2R1djZtaTFnSXdVUnJ0VDl3bHpFSmwzZkVQSWFJNV9IUWdDSC1"
     },
     {
+      "headline": "Stock Market Today, March 17: Markets Edge Upwards as Fed Meeting Opens - Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/stock-market-today-march-17-213428001.html",
+      "source": "Daybook: Economic Calendar",
+      "sourceId": "daybook_econ",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Tue, 17 Mar 2026 21:34:28 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBKcXYtT2dyc3ExTWFtc1ZSc3BpakpKZkotRHI2Z0VacEVVTWU3MGtBRmpGQTVWRzZHcllQTjFydGxwMUx1OTVxaFpNeFdUcjVtQVBhSFhBS0RFbzN6cmJaUm1iakZVMkdjYklVMEV"
+    },
+    {
       "headline": "Rates Spark: Some calm ahead of the Fed meeting - ING THINK economic and financial analysis | ING THINK",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaW9QUHQtSklyNUZseC1CaXN6QjRYMTYwSDVfVUxqSEZqN0RLV1IxV0xnWUp4Ylg2VUpiX0JBb1JwazlFZERkVXRiOFlfMkdodnk3cHI1SDNkU2xJcDBrNndOVnNhTTNYWkZpUGNsWHBkWWJMTGlBdnVnU25FcjNjc3I1NlQ?oc=5",
+      "url": "https://think.ing.com/articles/rates-spark-some-calm-ahead-of-the-fed-meeting/",
       "source": "Daybook: Economic Calendar",
       "sourceId": "daybook_econ",
       "category": "daybook",
@@ -5597,14 +5608,14 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQbG5WemlPUURnamRaNmMzYy1NZnVuN2NSWFdfaTdnOXA5ZThrNlJKR3dMc2FCZDBod3dDQ1FMeEdxQktuVGNOMXFBQW1LeE9DNG5vMG9TMk9ORGJPQmo4SnEzTGVoQmlaY3gwRHZ"
     },
     {
-      "headline": "NHL 2025-26 season predictions 3.0: How did the trade deadline impact our picks? - The Athletic - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUDVZdkdsTmhWRnEzUmdFYWhHMHVaZjctcndNQi1qN1NpaEcwRUJ6dU84Ui02MmJ0dG83ZzNnbFdYeF84MU9Xeks5cTE2NnJBMXR2bENfcTMzV0FDS0R1V0ZzSTU4LUNfSHdCQzItM2ZnN18xck5ra3V2aV9OOGtqZXBfVVl5aHVkYUpFWVJDa2hjMDlFOGdOZlRqcTNpVGM?oc=5",
+      "headline": "Why Is Tenet (THC) Down 3.2% Since Last Earnings Report? - Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/why-tenet-thc-down-3-153014199.html",
       "source": "Daybook: Economic Calendar",
       "sourceId": "daybook_econ",
       "category": "daybook",
       "priority": "reference",
-      "date": "Sat, 14 Mar 2026 11:00:43 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPUDVZdkdsTmhWRnEzUmdFYWhHMHVaZjctcndNQi1qN1NpaEcwRUJ6dU84Ui02MmJ0dG83ZzNnbFdYeF84MU9Xeks5cTE2NnJBMXR2bENfcTMzV0FDS0R1V0ZzSTU4LUNfSHdCQzI"
+      "date": "Fri, 13 Mar 2026 15:30:14 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1QUGZ0TDFlYmp0Z1hIWlQtbDNVa2NGLWtOc3RZOU9TWUh0NlIwTDhESjAtQUotR1FjSDBMZTc2Y2JWeW5oY0g5R253ZGs1dzJmcTBfWWdqdkRIRFdvdXZpdmZTS0pKc1NFYklzYzN"
     },
     {
       "headline": "Deadline to apply to A/P Council Scholarship is June 5 - Illinois State University News",
@@ -5668,13 +5679,23 @@
     },
     {
       "headline": "REMINDER – 2026 Congressional Art Competition Submission Deadline Approaching - Eli Crane (R-AZ) (.gov)",
-      "url": "https://crane.house.gov/2026/03/18/reminder-2026-congressional-art-competition-submission-deadline-approaching/",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOVU4OFU0QzEwVzJlMThGMkpRQzFnUkdFSHpBMldFVlZWNGtlbEZfRFltQW82Snl1TURucHRqN0xUc0ppZjRfb3pGclAzd3hMNnltdUR2M3JjRkpTeHg4TGNHLWJQeHQtdlRpSjc5alMtYk1LYVFxVWlPLVlGX05GNjgtNDlGcXBGcEsxdVd2cUp2WWg4TVZubncyZmFIX0l5VV9rV2dCWjhpV3JnZmw1cQ?oc=5",
       "source": "Daybook: Scheduled Events",
       "sourceId": "daybook_scheduled",
       "category": "daybook",
       "priority": "reference",
       "date": "Wed, 18 Mar 2026 16:54:40 GMT",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOOVU4OFU0QzEwVzJlMThGMkpRQzFnUkdFSHpBMldFVlZWNGtlbEZfRFltQW82Snl1TURucHRqN0xUc0ppZjRfb3pGclAzd3hMNnltdUR2M3JjRkpTeHg4TGNHLWJQeHQtdlRpSjc"
+    },
+    {
+      "headline": "Germany sets mid-April deadline for troubled fighter project with France - Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/germany-sets-mid-april-deadline-troubled-fighter-project-with-france-2026-03-19/",
+      "source": "Daybook: Scheduled Events",
+      "sourceId": "daybook_scheduled",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Thu, 19 Mar 2026 08:25:24 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNN2UxMEt1N1NaaGlHZURfb0xDVy1mZmhmQy1VUnk0ZlpYWDBTYXZGWUdrTmp3U1MtS09nMTB1cFRYV0F0ZGxBQjhDUXZqZmV4VjgzaF9oVzJLLUs5Ry1fbmFHUHNpenlxWHNick1"
     },
     {
       "headline": "Community Parade Honoring Jacket Basketball Teams Scheduled for Tuesday, March 24 - Starkville Oktibbeha School District",
@@ -5697,14 +5718,14 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNUGJkbmdVNXNGcG9WYm84NUE5UHBCVG0yMExSQUZQNWZkZUpLRFRmRmN6ZzJnb1plcjlIMkRtTmVyTHI3V0I0SmpRVlB0MlhjMDJsWnRCR0M0VTNKeVhBVjBJNE52WTVJeHVfTnA"
     },
     {
-      "headline": "Feds agree to deadline for endangered species listing of rare NV toad - Nevada Current",
-      "url": "https://nevadacurrent.com/briefs/feds-agree-to-deadline-for-endangered-species-listing-of-rare-nv-toad/",
+      "headline": "Who will be back for Memphis basketball? Penny Hardaway will know soon - The Commercial Appeal",
+      "url": "https://www.commercialappeal.com/story/sports/college/memphis-tigers/2026/03/19/penny-hardaway-gives-memphis-basketball-players-transfer-deadline/89174454007/?gca-cat=p&gnt-cfr=1",
       "source": "Daybook: Scheduled Events",
       "sourceId": "daybook_scheduled",
       "category": "daybook",
       "priority": "reference",
-      "date": "Wed, 18 Mar 2026 22:15:49 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxONXJkbzRvaVB2NnJOWjRCZjFqcVlJU0otcXFYcERTSlRTU1I2b1dReTZ2c3FvZXZjUnJRWEo1dWtUVzRiNWcwbFVOZWpTa2IweTJTdzZCcF94MzBQdllKR2M5UWV0MjNUeHVLOXV"
+      "date": "Thu, 19 Mar 2026 10:21:41 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxQM2JlTkZPU1FfTXpJSE1RTWxKMzU2ZXh3c3djeDViWTlrRGptNTJ0TFZYSkw2VE9yeXh5THZkYldKMUhzWGh3QXV3NlhHb0gyLU1lREU4azNxZEFIWmpVWmE1UmVMLWRwOV9rRHp"
     },
     {
       "headline": "Crabby's Dockside restaurant owners face deadline to find new operator - Treasure Coast News",
@@ -5717,14 +5738,14 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxQdW1wQjVGajF3SmYxVDE5OFE3OWJDbkNuRXBwc25FR3EtdXFlSHFTcHY5UTZkMEFZTUo0Sm9pVWFUUXBReDRpbWZqNklJR3NTVjVhQzItanRkZzBaLXprLXlPcWViWW1uZlFtSzR"
     },
     {
-      "headline": "Who will be back for Memphis basketball? Penny Hardaway will know soon - The Commercial Appeal",
-      "url": "https://www.commercialappeal.com/story/sports/college/memphis-tigers/2026/03/19/penny-hardaway-gives-memphis-basketball-players-transfer-deadline/89174454007/?gca-cat=p&gnt-cfr=1",
+      "headline": "Feds agree to deadline for endangered species listing of rare NV toad - Nevada Current",
+      "url": "https://nevadacurrent.com/briefs/feds-agree-to-deadline-for-endangered-species-listing-of-rare-nv-toad/",
       "source": "Daybook: Scheduled Events",
       "sourceId": "daybook_scheduled",
       "category": "daybook",
       "priority": "reference",
-      "date": "Thu, 19 Mar 2026 10:21:41 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxQM2JlTkZPU1FfTXpJSE1RTWxKMzU2ZXh3c3djeDViWTlrRGptNTJ0TFZYSkw2VE9yeXh5THZkYldKMUhzWGh3QXV3NlhHb0gyLU1lREU4azNxZEFIWmpVWmE1UmVMLWRwOV9rRHp"
+      "date": "Wed, 18 Mar 2026 22:15:49 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxONXJkbzRvaVB2NnJOWjRCZjFqcVlJU0otcXFYcERTSlRTU1I2b1dReTZ2c3FvZXZjUnJRWEo1dWtUVzRiNWcwbFVOZWpTa2IweTJTdzZCcF94MzBQdllKR2M5UWV0MjNUeHVLOXV"
     },
     {
       "headline": "'The Correspondent' Movie Set Up At Lionsgate; Jane Fonda To Star - Deadline",
@@ -5737,27 +5758,34 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOTERDZGVFQTlNVXpDSkFDenFpTlRIRG9ZTVU2N25iUFh5a3haNENlQU03YjdqMERVcjFVaEx0NXVEQWFvX1NwTmZEdm1ZdFNPcFVFaHZ0SFV2REhVZkpHTFFkbGRxNFp1QXBLazd"
     },
     {
-      "headline": "A24 Sets Michaela Coel To Direct &amp; Write Fresh Take Of ‘Bloodsport’ - Deadline",
-      "url": "https://deadline.com/2026/03/a24-bloodsport-michaela-coel-1236758971/",
+      "headline": "Sony &amp; Pop Mart Make ‘Labubu’ Movie Official; Steven Levenson Joins As Co-Writer - Deadline",
+      "url": "https://deadline.com/2026/03/labubu-movie-1236759807/",
       "source": "Daybook: Scheduled Events",
       "sourceId": "daybook_scheduled",
       "category": "daybook",
       "priority": "reference",
-      "date": "Wed, 18 Mar 2026 14:00:00 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9RcDg3bk5GNUwwdTdwaG5TeXVHRjhndDdPZnRzZXdYZmJOTTU5UU91bUkwUmJCZHdjSVROak92RWdIWkhsRzFNc19aUW1NUDNiaWIyTm1VTnZCVUxwZzJXdC1ZcFVGOFVZSUZsbFl"
-    },
-    {
-      "headline": "Netflix's Scooby-Doo Live-Action Series Casts Shaggy, Velma &amp; Fred - Deadline",
-      "url": "https://deadline.com/2026/03/netflix-scooby-doo-series-cast-shaggy-velma-fred-1236759331/",
-      "source": "Daybook: Scheduled Events",
-      "sourceId": "daybook_scheduled",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Wed, 18 Mar 2026 18:30:00 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNQkFBRFpIampkdkFtUXJ0WEZWdW51ckhUWG85RlVnTl9MeUQ0bC1KN09pYVpxVG9pSndVYTd5cVN5SEEzWHRYQ3F5NWJBOXdmMTdISzk0Rnp3dnBpWGZ3eUxTNi1GSzhrT2xKS2d"
+      "date": "Thu, 19 Mar 2026 00:00:00 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Kc095aDZvV0VJTnFJYkhFNUtuZzdmalk3Rm5JOHZUMEM3VThWaVAwbVh3OVJ0UjBFNFdOVy1MMXRqS3JEdERFZ3ZGeDl4bzRQU08yaThJSHFLTkNURzR2dnFuSQ?oc=5\" target"
     }
   ],
   "watchCandidates": [
+    {
+      "headline": "Asia's Russian fuel imports poised to hit all-time high due to Middle East disruption - Reuters",
+      "url": "https://www.reuters.com/business/energy/asias-russian-fuel-imports-poised-hit-all-time-high-due-middle-east-disruption-2026-03-19/",
+      "source": "Reuters",
+      "sourceId": "reuters_world",
+      "category": "wire",
+      "priority": "primary",
+      "date": "Thu, 19 Mar 2026 04:53:00 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQc1VCc2ZiVGdJVHNUVjk5c3dYZ1k5N01WczFKeUpFZk5ab29kaDQ4UWlETlJYVThzeEtiSDViVHI2RWNJanNYR2dvYmpRZGRVX3hpdkZldmFvaGVzRUNYempqazBMSi1zYU0teWt",
+      "watchCandidate": true,
+      "watchSignals": [
+        {
+          "category": "temporal",
+          "matched": "due to"
+        }
+      ]
+    },
     {
       "headline": "Seoul raises terror alert as it prepares to host BTS comeback concert",
       "url": "https://www.theguardian.com/music/2026/mar/19/bts-comeback-concert-seoul-terror-alert-level",
@@ -5844,19 +5872,19 @@
       ]
     },
     {
-      "headline": "Trump Homeland Security nominee defends immigration stance in tense hearing",
-      "url": "https://www.france24.com/en/americas/20260319-trump-homeland-security-nominee-defends-immigration-stance-in-tense-hearing",
+      "headline": "Trump threatens to strike world's largest gas field if Iran attacks Qatar again",
+      "url": "https://www.france24.com/en/video/20260319-trump-threatens-to-strike-world-s-largest-gas-field-if-iran-attacks-qatar-again",
       "source": "France24",
       "sourceId": "france24",
       "category": "wire",
       "priority": "secondary",
-      "date": "Thu, 19 Mar 2026 00:34:32 GMT",
+      "date": "Thu, 19 Mar 2026 10:34:19 GMT",
       "description": "",
       "watchCandidate": true,
       "watchSignals": [
         {
-          "category": "scheduled",
-          "matched": "hearing"
+          "category": "escalation",
+          "matched": "threatens to"
         }
       ]
     }
@@ -5874,12 +5902,12 @@
         "South Pars natural gas field is an energy lifeline for Iran",
         "Joe Kent’s resignation over Iran war reignites antisemitism fears and debate over Israeli influence",
         "Israel is rapidly killing Iran’s top leaders. Experts warn the strategy could backfire",
-        "Oil and gas prices soar as Iran attacks Gulf energy facilities",
+        "Brent crude nears $115 as energy prices surge after Iran attacks Gulf energy facilities",
         "Tulsi Gabbard says Iran’s government still intact but refuses to discuss talks with Trump about war",
-        "Mullin presents a different vision for FEMA, sparking cautious hope",
         "One ‘freaking snake’ and no apologies: How the Mullin hearing went off the rails",
-        "Fed keeps key rate unchanged as Powell vows to stay until DOJ investigation is finished",
-        "State Department cut jobs with deep expertise in Middle East as Iran crisis escalates"
+        "Mullin presents a different vision for FEMA, sparking cautious hope",
+        "State Department cut jobs with deep expertise in Middle East as Iran crisis escalates",
+        "FBI investigating whether departed counterterrorism official leaked classified info, AP source says"
       ]
     },
     {
@@ -5900,15 +5928,15 @@
       "priority": "primary",
       "topHeadlines": [
         "Gas prices in UK and Europe soar after strikes on energy facilities in Qatar and Iran",
-        "The Iran war is causing a global energy crisis - can China withstand it?",
+        "Trump threatens to blow up 'entirety' of major Iran gas field if it attacks Qatar again",
         "Kevin Spacey and accusers settle before civil trial",
-        "Five takeaways from Markwayne Mullin's Homeland Security confirmation hearing",
-        "US intelligence chief says Iran's regime 'intact' but 'degraded'",
+        "Japan PM to hold 'difficult' talks with Trump as Iran conflict looms large",
+        "The Iran war is causing a global energy crisis - can China withstand it?",
         "Afghan evacuees in limbo in Qatar camp accuse US of betrayal",
         "Stretching 2,689 miles, the world's longest coastal path opens in England",
         "As Cuba struggles with power cuts, how is the island holding up?",
-        "Sony removes 135,000 'deepfakes' of its artists' music",
-        "Famous Iditarod dog sled race ends in repeat win for Jessie Holmes"
+        "Five takeaways from Markwayne Mullin's Homeland Security confirmation hearing",
+        "Sony removes 135,000 'deepfakes' of its artists' music"
       ]
     },
     {
@@ -5929,12 +5957,12 @@
       "priority": "primary",
       "topHeadlines": [
         "Support the Guardian",
-        "The long read Inside China’s robotics revolution",
+        "The long read Inside China's race to build AI-powered robots",
         "George Monbiot Let's be honest about Iran and our rampant greed for oil",
+        "‘One breakdown a week’ The art school keeping a forgotten style alive",
         "Self-driving cars My ride in a self-driving taxi",
         "Zendaya and Tom Nine things you need to know about the power couple",
         "New York How snow fight provoked Mamdani’s schism with NYPD",
-        "Music The Twilight Sad on birth, death and breakdown",
         "Middle East crisis",
         "Middle East crisis live Trump threatens to ‘blow up’ entire South Pars gasfield if Iran strikes Qatar",
         "Business liveGas prices surge 25% as Middle East conflict ‘spooks the markets’; airlines warn of higher fares as oil jumps 10%"
@@ -5947,18 +5975,7 @@
       "filename": "ft_homepage.png",
       "category": "priority_signal",
       "priority": "primary",
-      "topHeadlines": [
-        "Popular Searches",
-        "Financial Times Home",
-        "Monetary Policy Radar – Special Edition",
-        "MONETARY POLICY RADAR",
-        "Monetary Policy Radar – Exclusive Insights Into Central Bank Policy",
-        "Must-reads you missed",
-        "More markets news",
-        "EXPLORE MORE EVENTS FROM THE FT",
-        "Community & Events",
-        "More from the FT Group"
-      ]
+      "topHeadlines": []
     }
   ],
   "sleepFilter": null,
