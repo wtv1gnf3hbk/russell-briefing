@@ -1,55 +1,47 @@
 Good morning, Russell! Here's what happened while you were sleeping.
 
-## **Top Stories**
+**Top Stories**
 
-- Israel says it [killed Iranian](https://www.reuters.com/world/middle-east/israel-says-iranian-intelligence-minister-khatib-killed-overnight-2026-03-18/) Intelligence Minister Esmail Khatib in an overnight strike, according to Reuters, marking the third high-profile assassination in two days.
+- Gas prices [soared 25%](https://www.bbc.com/news/articles/c78x83lpgngo?at_medium=RSS&amp;at_campaign=rss) after Iran struck Qatar's energy facility, according to the BBC, following Israel's attack on Iran's South Pars gas field.
 
-- Israel claims to have [killed Iran's intelligence minister](https://www.aljazeera.com/news/2026/3/18/israel-says-it-killed-iran-intel-minister-in-third-assassination-in-2-days?traffic_source=rss) Esmaeil Khatib, which would be the third major assassination of Iranian leaders in two days, per Al Jazeera.
+- Oil prices [jumped to](https://apnews.com/article/stocks-markets-oil-iran-trump-1abeddf7c4bf19d1dc96b3f23c1de402) $114 per barrel for Brent crude as Iran attacked Gulf energy facilities, AP reports.
 
-- Israel [intensified strikes](https://www.nytimes.com/2026/03/18/world/middleeast/israel-strikes-beirut-lebanon-hezbollah.html) on central Beirut, destroying buildings and killing at least 10 people as it widened its campaign against Hezbollah.
+- Three Palestinian women [were killed](https://www.bbc.com/news/articles/c0ljl23plpzo?at_medium=RSS&amp;at_campaign=rss) when missile debris hit a West Bank beauty salon in Beit Awwa, while a Thai worker also died from falling shrapnel in Israel, the BBC reports.
 
-- Southeast Asian nations are [introducing fuel](https://www.theguardian.com/world/2026/mar/18/south-east-asia-nations-conserve-energy-oil-soaring-costs) rationing and turning off air conditioning to shield citizens from soaring oil costs following the Iran conflict, the Guardian reports.
+- At least 16 people [died in](https://apnews.com/article/pakistan-rains-strong-winds-killed-people-karachi-fece6096b73d4b058cedb348de686b0a) overnight storms that hit Karachi, Pakistan's largest city, AP reports, with several others injured by strong winds and heavy rains.
 
-- China made an [energy security](https://www.reuters.com/world/china/china-makes-energy-security-reunification-offer-taiwan-during-middle-east-war-2026-03-18/) "reunification" offer to Taiwan as Middle East war disrupts global oil supplies, Reuters reports.
+- Ecuador police [arrested a](https://www.bbc.com/news/articles/cy8g81k5xzgo?at_medium=RSS&amp;at_campaign=rss) gang leader known as Lobo Menor who officials believe is linked to the 2023 assassination of presidential candidate Fernando Villavicencio.
 
-- NATO is [deploying additional](https://www.reuters.com/business/aerospace-defense/turkey-says-nato-deploying-more-defences-guard-southern-base-2026-03-18/) defenses to guard a strategic Turkish air base, according to Reuters.
+- A Tanzanian court [quashed the](https://www.theguardian.com/global-development/2026/mar/19/tanzania-lemi-limbu-freed-woman-learning-disabilities-death-row) sentence of Lemi Limbu, a woman with severe intellectual disabilities who spent over a decade on death row, per the Guardian. She remains in prison awaiting retrial for her daughter's murder.
 
-- Asian markets [advanced despite](https://apnews.com/article/stocks-markets-oil-iran-trump-fddc46573a120d8235d0b696350b268d) Iran's overnight missile barrage, while oil prices pulled back from earlier highs, AP reports.
+**Conflicts & Diplomacy**
 
-## **Conflicts & Diplomacy**
+- Two PMF fighters [were killed](https://www.aljazeera.com/news/2026/3/19/strikes-kill-two-pmf-fighters-in-northern-iraq-during-wider-war-group-says?traffic_source=rss) in strikes on northern Iraq, Al Jazeera reports, hours after pro-Iran group Kataib Hezbollah announced a conditional suspension of US embassy attacks.
 
-- Iran says its [nuclear doctrine](https://www.reuters.com/world/middle-east/irans-nuclear-doctrine-not-likely-change-foreign-minister-says-2026-03-18/) is unlikely to change and called for new protocols for the Strait of Hormuz, per Reuters.
+- The UAE [closed an](https://www.ft.com/content/e97dabef-2494-4da1-8138-c4c94f8021e3) Iranian hospital in Dubai as part of a wider crackdown on Tehran-linked institutions during the third week of regional attacks, according to the FT.
 
-- A projectile reportedly [hit Iran's](https://apnews.com/article/iran-bushehr-nuclear-power-plant-war-us-israel-38ad4e7ae4c934a499cae9c0b16f8fd2) Bushehr nuclear power plant complex, though the facility continues operating normally, AP reports.
+- European Union leaders are [scrambling to](https://apnews.com/article/brussels-energy-eu-middle-east-iran-war-4148c8bdeeef440de372ab9154677127) contain energy costs from the Middle East war, AP reports, as the bloc faces mounting economic pressure from disrupted Gulf supplies.
 
-- Sweden's security service named [Russia, China](https://www.reuters.com/world/china/russia-china-iran-are-main-threats-sweden-security-service-says-2026-03-18/) and Iran as the country's main national security threats, according to Reuters.
+- Japanese Prime Minister Takaichi [met with](https://apnews.com/article/trump-takaichi-japan-iran-strait-of-hormuz-0006b848118381786baa837c403e5e13) Trump seeking help securing the Strait of Hormuz, according to AP, as US East Asian allies face legal constraints on military involvement in the Middle East.
 
-- Iran [attacked multiple](https://apnews.com/article/iran-iraq-us-israel-trump-march-18-2026-d7ca062ba1bf99d1f8dc00c8073cf10f) targets including Israel, with missile strikes killing 2 people near Tel Aviv, per AP.
+**Business & Markets**
 
-## **Business & Markets**
+- A Paris appeals court [rejected the](https://www.france24.com/en/france/20260319-paris-appeals-court-rejects-french-govenment-bid-to-suspend-shein) French government's bid to suspend Chinese fast-fashion retailer Shein, France24 reports.
 
-- Trump's tariffs are [hurting rather](https://apnews.com/article/trump-tariffs-manufacturing-china-030d58f482ce2505721a3ce86820d1da) than helping US manufacturers, with many facing higher costs for imported materials, AP reports.
+- Iran [announced plans](https://www.aljazeera.com/sports/2026/3/19/iran-to-boycott-world-cup-games-in-us-but-will-not-withdraw-from-2026-event?traffic_source=rss) to "boycott" its World Cup games scheduled in the US but will not withdraw from the 2026 tournament, Al Jazeera reports, with Mexico as a potential alternative venue.
 
-- Gasoline price increases [could accelerate](https://www.reuters.com/business/energy/gasoline-price-hike-iran-war-could-push-consumers-toward-evs-hybrids-2026-03-18/) consumer shift toward electric vehicles and hybrids, Reuters reports.
+**Also Notable**
 
-- Alibaba is [shifting its](https://www.reuters.com/world/china/alibabas-ai-strategy-shift-comes-into-focus-with-big-bets-agents-2026-03-18/) AI strategy with major investments in AI agents as competition intensifies, according to Reuters.
+- Greek authorities [launched an](https://www.france24.com/en/europe/20260319-greek-animal-airlift-evacuates-pets-and-owners-from-middle-east-war) animal airlift to evacuate pets and their owners from the Middle East war zone, according to France24.
 
-- Meta [failed to](https://www.reuters.com/sustainability/boards-policy-regulation/meta-vowed-stop-illegal-financial-ads-britain-it-failed-1000-times-week-2026-03-18/) stop over 1,000 illegal financial ads in Britain during one week despite promising to crack down on such content, Reuters reports.
+- European Union leaders [will focus](https://apnews.com/article/european-union-summit-iran-war-ukraine-loan-014cc7de7f00a52c272c07937117db51) on the Iran war and Hungary blocking a loan to Ukraine at today's summit, AP reports.
 
-## **Also Notable**
+**What to Watch**
 
-- Morocco was [awarded the](https://www.aljazeera.com/sports/2026/3/18/senegal-to-appeal-decision-to-award-afcon-title-to-morocco?traffic_source=rss) 2025 AFCON title in March 2026 after an appeal regarding Senegal's walk-off protest in the final, though Senegal plans to appeal, Al Jazeera reports.
+- European Union leaders [will focus](https://apnews.com/article/european-union-summit-iran-war-ukraine-loan-014cc7de7f00a52c272c07937117db51) on the Iran war and Hungary blocking a €90 billion loan to Ukraine at today's summit, AP reports.
 
-- A Chinese university [encouraged students](https://www.reuters.com/world/asia-pacific/chinese-university-tells-students-fall-love-during-spring-break-2026-03-18/) to "fall in love" during spring break as part of efforts to address demographic concerns, per Reuters.
+- Seoul has [raised its](https://www.theguardian.com/music/2026/mar/19/bts-comeback-concert-seoul-terror-alert-level) terror alert level as thousands of police prepare to deploy ahead of BTS comeback concert, according to the Guardian.
 
-- BTS [returned after](https://www.france24.com/en/tv-shows/business/20260318-bts-fever-grips-seoul-as-boy-band-return-after-four-year-hiatus) a four-year hiatus, creating massive excitement in Seoul, France24 reports.
+- Hungary's parliamentary elections [on April 12](https://www.nytimes.com/2026/03/19/world/europe/ukraine-hungary-orban-elections.html) are becoming a referendum on EU-Ukraine support, the New York Times reports, as Prime Minister Orban uses the loan blockade as campaign leverage.
 
-## **What to Watch**
-
-- Top US intelligence officials are [set to](https://apnews.com/article/fbi-iran-war-congress-gabbard-kash-patel-54efeb2ec50a7d31421dc1c36ea4ab5b) testify before Congress about the Iran war and homeland security threats, AP reports.
-
-- India's semaglutide patent [expires on](https://www.bbc.com/news/articles/cx2g4411en3o?at_medium=RSS&at_campaign=rss) March 20, with about 50 generic weight-loss drugs expected to enter the market and potentially reshape global obesity treatment, the BBC reports.
-
-- The Trump-Xi China summit [remains delayed](https://www.nytimes.com/2026/03/17/world/asia/iran-war-china-us-trump-xi.html) as the Iran war complicates diplomatic scheduling and broader US-China relations, according to the New York Times.
-
-- National Counterterrorism Center Director Joe Kent's [resignation over](https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&at_campaign=rss) the Iran war could prompt further scrutiny of the conflict's justification, the BBC reports.
+- French municipal elections [conclude Sunday](https://www.aljazeera.com/news/2026/3/19/unpleasant-surprises-will-key-french-cities-elect-far-right-mayors?traffic_source=rss) with far-right candidates potentially winning mayorships in key cities, Al Jazeera reports.
