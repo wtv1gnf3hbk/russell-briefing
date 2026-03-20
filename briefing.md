@@ -2,50 +2,40 @@ Good morning, Russell! Here's what happened while you were sleeping.
 
 **Top Stories**
 
-- Gas prices [soared 25%](https://www.bbc.com/news/articles/c78x83lpgngo?at_medium=RSS&amp;at_campaign=rss) across Europe and the UK after Iran struck energy facilities in Qatar, according to the BBC.
+- Iranian drone attacks [struck Kuwait's](https://apnews.com/article/iran-war-isreal-us-kuwait-d052e93613dac59e4164194f4df52c88) Mina Al-Ahmadi refinery for the second time, starting a fire as Kuwait marked Eid al-Fitr.
 
-- Trump [threatened to](https://www.france24.com/en/video/20260319-trump-threatens-to-strike-world-s-largest-gas-field-if-iran-attacks-qatar-again) "massively blow up the entirety" of Iran's South Pars gas field if Tehran attacks Qatar again, France24 reports.
+- Venezuela's interim president [replaced top](https://www.theguardian.com/world/2026/mar/20/delcy-rodriguez-replaces-venezuelas-top-military-commanders) military commanders after firing the defense minister who was close to ousted leader Maduro.
 
-- Japan's Prime Minister Sanae Takaichi is holding ["difficult" talks](https://www.bbc.com/news/articles/cde4e2xyelpo?at_medium=RSS&amp;at_campaign=rss) with Trump after the U.S. president's calls for allies to help secure the Strait of Hormuz went largely unanswered.
+- A spokesperson for Iran's Revolutionary Guards [was killed](https://www.reuters.com/world/middle-east/spokesperson-irans-revolutionary-guards-killed-strike-state-tv-says-2026-03-20/) in Israeli strikes, according to Reuters citing state television.
 
-- Three Palestinian women [were killed](https://www.bbc.com/news/articles/c0ljl23plpzo?at_medium=RSS&amp;at_campaign=rss) when missile debris hit a West Bank beauty salon, while a Thai worker died from shrapnel in Israel, the BBC reports.
+- Global food prices face fresh shocks as the Iran war threatens supply chains across the developing world, [Reuters reports](https://www.reuters.com/world/middle-east/war-iran-threatens-fresh-food-price-shock-across-developing-world-2026-03-20/).
 
-- The UAE [closed an](https://www.ft.com/content/e97dabef-2494-4da1-8138-c4c94f8021e3) Iranian hospital in Dubai as part of a wider crackdown on Tehran-linked institutions following three weeks of attacks, per the FT.
+- Oil prices eased and Asian shares traded mixed as energy supply concerns from the Iran conflict persist, [AP reports](https://apnews.com/article/stocks-markets-oil-iran-trump-gas-b797f3819f7caac46893afb5b770f44c).
 
-- A Tanzanian court [quashed the](https://www.theguardian.com/global-development/2026/mar/19/tanzania-lemi-limbu-freed-woman-learning-disabilities-death-row) death sentence of a woman with severe intellectual disabilities who spent over a decade on death row, the Guardian reports.
-
-- Ecuador arrested a gang leader [known as](https://www.bbc.com/news/articles/cy8g81k5xzgo?at_medium=RSS&amp;at_campaign=rss) "Lobo Menor" who officials believe is linked to the 2023 assassination of presidential candidate Fernando Villavicencio.
+- A fire at a South Korean auto parts factory [injured at least](https://apnews.com/article/south-korea-fire-factory-daejeon-227bcb17b76920a2fe543f599c09a05d) 55 people in Daejeon.
 
 **Conflicts & Diplomacy**
 
-- European Union leaders [will focus](https://apnews.com/article/european-union-summit-iran-war-ukraine-loan-014cc7de7f00a52c272c07937117db51) on the Iran war and an enormous loan to Ukraine that Hungary is blocking, AP reports.
+- Ukraine faces growing pressure because of the war in Iran as Russia prepares a new offensive, [AP reports](https://apnews.com/article/russia-ukraine-iran-war-putin-trump-zelenskyy-2b863bc22e97006846e7351e19401f9f).
 
-- Cyprus President Nikos Christodoulides called for ["frank discussion"](https://www.bbc.com/news/articles/cy7166denxeo?at_medium=RSS&amp;at_campaign=rss) about the UK's two military bases on the island, describing them as a "colonial consequence."
+- EU leaders expressed outrage after Hungary's Orbán reversed his position on a Ukraine loan, [per France24](https://www.france24.com/en/video/20260320-outrage-among-eu-leaders-as-hungary-s-orban-u-turns-on-ukraine-loan).
 
-- France's top diplomat [will visit](https://www.france24.com/en/video/20260319-french-top-diplomat-to-visit-beirut-paris-vows-solidarity-with-lebanon) Beirut as Paris vows solidarity with Lebanon, France24 reports.
-
-- Met Police are investigating whether former Labour minister Peter Mandelson leaked classified information to Jeffrey Epstein regarding [euro bailout](https://www.ft.com/content/90da31f3-39de-4a9f-980b-17d2827d0448) discussions, the FT reports.
+- French Foreign Minister Barrot is heading to Israel after visiting Lebanon as diplomatic efforts continue, [France24 reports](https://www.france24.com/en/video/20260320-french-foreign-minister-barrot-heads-to-israel-after-lebanon-visit).
 
 **Business & Markets**
 
-- The EU [is scrambling](https://apnews.com/article/brussels-energy-eu-middle-east-iran-war-4148c8bdeeef440de372ab9154677127) to contain energy costs as the Middle East war disrupts global supply chains, according to AP.
+- Unilever is in talks to sell its food division to US spice maker McCormick in a deal worth tens of billions of dollars, [the FT reports](https://www.ft.com/content/ca1c92f1-30b3-48c9-942a-61a3a08c751e).
 
-- Central banks [are confronting](https://www.france24.com/en/tv-shows/business/20260319-central-banks-confront-spectre-of-inflation-as-iran-war-escalates) the specter of inflation as the Iran conflict escalates energy prices, France24 reports.
-
-- A Paris appeals court [rejected the](https://www.france24.com/en/france/20260319-paris-appeals-court-rejects-french-govenment-bid-to-suspend-shein) French government's bid to suspend Chinese fast-fashion retailer Shein, per France24.
+- French consumers are stocking up on essentials as the Iran war triggers fears of price increases, [according to France24](https://www.france24.com/en/video/20260320-french-stock-up-on-essentials-as-war-triggers-price-fears).
 
 **Also Notable**
 
-- A severe storm in Pakistan's largest city Karachi [killed at](https://apnews.com/article/pakistan-rains-strong-winds-killed-people-karachi-fece6096b73d4b058cedb348de686b0a) least 16 people and injured several others overnight, AP reports.
+- Drone footage from inside a Fukushima reactor revealed a hole in the pressure vessel, likely showing fuel debris from the 2011 meltdown, [AP reports](https://apnews.com/article/japan-fukushima-nuclear-drone-meltdown-4075881d2ec92ca260e33c044e976748).
 
-- Kevin Spacey and his accusers [reached an](https://www.bbc.com/news/articles/c5ygyypy7pro?at_medium=RSS&amp;at_campaign=rss) out-of-court settlement before his civil trial for sexual assault allegations was set to begin.
+- Muslims across the world celebrated Eid al-Fitr in the shadow of Middle East conflicts, [per France24](https://www.france24.com/en/culture/20260320-in-pictures-muslims-celebrate-eid-al-fitr-across-the-world-in-shadow-of-middle-east-war).
 
 **What to Watch**
 
-- EU leaders [will meet](https://www.consilium.europa.eu/en/meetings/euro-summit/2026/03/19/) today for a Euro Summit focused on energy security and Ukraine financing as Hungary continues blocking the €90 billion loan.
+- BTS released their new album Arirang ahead of their comeback concert in Seoul on Saturday night, [the Guardian reports](https://www.theguardian.com/music/2026/mar/20/bts-arirang-new-album-comeback-concert-kpop).
 
-- Asian imports of Russian fuel [are poised](https://www.reuters.com/business/energy/asias-russian-fuel-imports-poised-hit-all-time-high-due-middle-east-disruption-2026-03-19/) to hit an all-time high due to Middle East supply disruptions, Reuters reports.
-
-- Hungary's elections [are set](https://www.nytimes.com/2026/03/19/world/europe/ukraine-hungary-orban-elections.html) for April 12, where Prime Minister Viktor Orban is using the blocked Ukraine loan as campaign leverage in close polls.
-
-- Seoul has [raised its](https://www.theguardian.com/music/2026/mar/19/bts-comeback-concert-seoul-terror-alert-level) terror alert level ahead of BTS comeback concert, with thousands of police preparing to deploy.
+- Norway's crown princess is scheduled to give an interview Friday addressing her Epstein links as her son's rape trial closes, [the BBC reports](https://www.bbc.com/news/articles/cvge3mxgvwwo?at_medium=RSS&at_campaign=rss).
