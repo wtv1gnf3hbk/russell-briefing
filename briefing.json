@@ -4,20 +4,30 @@
     "owner": "Russell Goldman",
     "timezone": "America/New_York",
     "description": "Daily international news briefing — all bullets, ready by 6am ET",
-    "generated": "2026-03-20T10:32:01.272Z",
-    "generatedTimestamp": 1774002721272
+    "generated": "2026-03-20T11:04:47.342Z",
+    "generatedTimestamp": 1774004687342
   },
   "stats": {
     "sourceCount": 19,
     "successCount": 19,
-    "totalStories": 145,
+    "totalStories": 146,
     "totalScreenshots": 6,
     "daybookStories": 43,
-    "watchCandidateCount": 5,
-    "elapsed": "60.6s"
+    "watchCandidateCount": 4,
+    "elapsed": "63.3s"
   },
   "stories": {
     "all": [
+      {
+        "headline": "Exiled Iranian Kurds in Iraq say they will return only if Iran’s theocracy falls",
+        "url": "https://apnews.com/article/iran-war-kurds-iraq-b330da59ccef665fc0db18d33b106083",
+        "source": "AP",
+        "sourceId": "ap_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Fri, 20 Mar 2026 10:53:01 +0000",
+        "description": ""
+      },
       {
         "headline": "Jurors wade through daunting evidence in high-stakes Meta trial about social media risks to children",
         "url": "https://apnews.com/article/meta-new-mexico-lawsuit-a7374a4dbf19c885f0239431b2341e60",
@@ -109,16 +119,6 @@
         "description": ""
       },
       {
-        "headline": "Ukraine faces growing pressure because of the war in Iran as Russia readies a new offensive",
-        "url": "https://apnews.com/article/russia-ukraine-iran-war-putin-trump-zelenskyy-2b863bc22e97006846e7351e19401f9f",
-        "source": "AP",
-        "sourceId": "ap_world",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Fri, 20 Mar 2026 07:53:02 +0000",
-        "description": ""
-      },
-      {
         "headline": "Spokesperson for Iran's Revolutionary Guards killed in strike, state TV says - Reuters",
         "url": "https://www.reuters.com/world/middle-east/spokesperson-irans-revolutionary-guards-killed-strike-state-tv-says-2026-03-20/",
         "source": "Reuters",
@@ -167,6 +167,16 @@
         "priority": "primary",
         "date": "Fri, 20 Mar 2026 05:01:00 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOV3pLM0wwRUw4d0JUUXFLekhUODdaY3ppbEpna2RQQ0hwdHBGX0o4aXE0VEppNkxjZllmSVl1ZnJQaDV2aktFaWlFdHhCS1JiZHo2TXBqQW1PZ0x1T3JYOUNva3dRY0l4eUNodDJ"
+      },
+      {
+        "headline": "Israeli military says it struck Syrian government targets after attacks on Druze civilians - Reuters",
+        "url": "https://www.reuters.com/world/israeli-military-says-it-struck-syrian-government-targets-after-attacks-druze-2026-03-20/",
+        "source": "Reuters",
+        "sourceId": "reuters_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Fri, 20 Mar 2026 06:30:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSy1EUDQwdUtha2FvRG9ablpFT0Q1YUprdk9KdWFXTmpmQzM3T0wtLXZ2dXRFNGViSERKNFhOeUFmc3FQTWEtc3BlOXlMTnR5cU9OZ2lDVkdPRXE3R210RjFSZE1rUmRSOV9lZEh"
       },
       {
         "headline": "Work from home, avoid air travel to deal with higher energy prices, IEA says - Reuters",
@@ -219,14 +229,14 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNU09SMVhxcDIxc1NPcXRzb3BDXzYwUnZTak1qTEQ5R0s2XzhCYjAxUFJ3TklocDExX2dzRGxQS3RId0dXcjNObWY3OF9mRi0tb2U1Yi1jQVJMLWFlbVZXV2p4SjlHT1JUT0ZaWXp"
       },
       {
-        "headline": "Israeli military says it struck Syrian government targets after attacks on Druze civilians - Reuters",
-        "url": "https://www.reuters.com/world/israeli-military-says-it-struck-syrian-government-targets-after-attacks-druze-2026-03-20/",
+        "headline": "Spain to reduce VAT on fuel to 10% over Iran war, SER reports - Reuters",
+        "url": "https://www.reuters.com/business/energy/spain-reduce-vat-fuel-10-over-iran-war-ser-reports-2026-03-20/",
         "source": "Reuters",
         "sourceId": "reuters_world",
         "category": "wire",
         "priority": "primary",
-        "date": "Fri, 20 Mar 2026 06:30:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSy1EUDQwdUtha2FvRG9ablpFT0Q1YUprdk9KdWFXTmpmQzM3T0wtLXZ2dXRFNGViSERKNFhOeUFmc3FQTWEtc3BlOXlMTnR5cU9OZ2lDVkdPRXE3R210RjFSZE1rUmRSOV9lZEh"
+        "date": "Fri, 20 Mar 2026 08:24:38 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPbllRZ0FrRHpsZ0VkbEs1dDZCSnMzam1lSGR3alRaMlVoX01GX2ptMm1PaTZMMDZvbVRrc1FubkFwTHo2SHNuamhmQk9ZeHU5bDExZXNUcVFMUnJEdGJ1SDZKbUNHb0hTZHEzNGV"
       },
       {
         "headline": "Exclusive: Tesla in talks with Chinese firms to buy $2.9 billion worth of solar equipment, sources say - Reuters",
@@ -259,16 +269,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcE0wcC1tNGtBQVBsOTRxZnJyYVVjS29sNU9adThGTHNfU1c0dmw1OFJkemZ6QWcxeEhOdERCQlE3SHY3c0ZQelFvaWZvVVFyQUEzeDdOb1R0aFhJcDE3ZXBmSGwxMlVESVY3N0V"
       },
       {
-        "headline": "Oil retreats as US and allies look to boost supply, unchoke Strait of Hormuz - Reuters",
-        "url": "https://www.reuters.com/business/energy/oil-falls-us-allies-look-boost-supply-unchoke-strait-hormuz-2026-03-20/",
-        "source": "Reuters",
-        "sourceId": "reuters_world",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Fri, 20 Mar 2026 01:32:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNd2Rpc2pia3d3NWVCUWNYTGo0b281N0RpbEx1MHVNR0JRbERGZnFsVGQxbHV6ZElVQ1dDNDhmRzJPVDNFWUJoLXVPT3VPZVh0eVBUOVNyZWtSV2NLeHZRaFJmQ003OGo1bU5Sb3p"
-      },
-      {
         "headline": "Russia, China and the US – the global winners and losers of the Iran war",
         "url": "https://www.bbc.com/news/articles/c3wlwnn05zqo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC",
@@ -277,16 +277,6 @@
         "priority": "primary",
         "date": "Fri, 20 Mar 2026 00:08:53 GMT",
         "description": "As the conflict triggers economic disruption some risk being hit hard, while others stand to benefit."
-      },
-      {
-        "headline": "Trump compares attack on Iran to Pearl Harbor in meeting with Japanese PM",
-        "url": "https://www.bbc.com/news/videos/cx248jvgwj8o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC",
-        "sourceId": "bbc_world",
-        "category": "general",
-        "priority": "primary",
-        "date": "Thu, 19 Mar 2026 17:50:38 GMT",
-        "description": "In a meeting with Japanese Prime Minister, US President Donald Trump was asked why he didn't inform allies about his plan to attack Iran."
       },
       {
         "headline": "Several injured as turbulence hits Delta flight into Sydney",
@@ -299,14 +289,44 @@
         "description": "Three flight attendants were taken to hospital after the Airbus A350 experienced turbulence during its descent into Sydney Airport."
       },
       {
-        "headline": "Denmark planned to blow up Greenland runways if US invaded, reports say",
-        "url": "https://www.bbc.com/news/articles/c33ln4mp1p2o?at_medium=RSS&amp;at_campaign=rss",
+        "headline": "Norway's crown princess breaks silence on Epstein links: 'I was manipulated and deceived'",
+        "url": "https://www.bbc.com/news/articles/cde5y63y3n7o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC",
         "sourceId": "bbc_world",
         "category": "general",
         "priority": "primary",
-        "date": "Thu, 19 Mar 2026 21:52:36 GMT",
-        "description": "Denmark's public broadcaster reports that the US operation to seize Venezuela's leader sparked fears it would act against Greenland."
+        "date": "Fri, 20 Mar 2026 10:43:00 GMT",
+        "description": "Crown Princess Mette Marit tells Norwegian TV she wishes she had never met the late sex offender."
+      },
+      {
+        "headline": "Mexican teen dies while being held in US immigration custody",
+        "url": "https://www.bbc.com/news/articles/cp84n0kn902o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC",
+        "sourceId": "bbc_world",
+        "category": "general",
+        "priority": "primary",
+        "date": "Fri, 20 Mar 2026 10:57:38 GMT",
+        "description": "Royer Perez-Jimenez died amid a surge of migrant deaths under Donald Trump's immigration crackdown."
+      },
+      {
+        "headline": "BTS return from military service - but does their album live up to the hype?",
+        "url": "https://www.bbc.com/news/articles/c070eg32dryo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC",
+        "sourceId": "bbc_world",
+        "category": "general",
+        "priority": "primary",
+        "date": "Fri, 20 Mar 2026 04:04:50 GMT",
+        "description": "The band's 10th album sees them return to the rebellious, rap-heavy sound of their early days."
+      },
+      {
+        "headline": "Trump makes Pearl Harbor remark in meeting with Japan's PM",
+        "url": "https://www.bbc.com/news/articles/c8dlpr074q3o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC",
+        "sourceId": "bbc_world",
+        "category": "general",
+        "priority": "primary",
+        "date": "Fri, 20 Mar 2026 09:55:19 GMT",
+        "description": "President Trump compared US strikes on Iran to the deadly 1941 Japanese attack and declaration of war as part of World War Two."
       },
       {
         "headline": "Australia PM heckled at Sydney mosque Ramadan event",
@@ -317,6 +337,16 @@
         "priority": "primary",
         "date": "Fri, 20 Mar 2026 02:54:21 GMT",
         "description": "The government's response to the Israel-Gaza war and rising Islamophobia has angered many Muslim Australians."
+      },
+      {
+        "headline": "Denmark planned to blow up Greenland runways if US invaded, reports say",
+        "url": "https://www.bbc.com/news/articles/c33ln4mp1p2o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC",
+        "sourceId": "bbc_world",
+        "category": "general",
+        "priority": "primary",
+        "date": "Thu, 19 Mar 2026 21:52:36 GMT",
+        "description": "Denmark's public broadcaster reports that the US operation to seize Venezuela's leader sparked fears it would act against Greenland."
       },
       {
         "headline": "Bachelorette's new season pulled after Taylor Frankie Paul abuse allegations",
@@ -369,23 +399,6 @@
         "description": "Nasa is preparing a mission to send astronauts around the Moon for the first time in more than 50 years."
       },
       {
-        "headline": "Norway crown princess to address Epstein links as son's rape trial closes",
-        "url": "https://www.bbc.com/news/articles/cvge3mxgvwwo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC",
-        "sourceId": "bbc_world",
-        "category": "general",
-        "priority": "primary",
-        "date": "Thu, 19 Mar 2026 20:14:30 GMT",
-        "description": "Mette-Marit gives a much-anticipated interview, due to be broadcast on Friday.",
-        "watchCandidate": true,
-        "watchSignals": [
-          {
-            "category": "temporal",
-            "matched": "due to"
-          }
-        ]
-      },
-      {
         "headline": "'You can't smell Nowruz in the air': Iran marks Persian new year under threat of strikes",
         "url": "https://www.bbc.com/news/articles/cvgkg8p7zlko?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC",
@@ -406,44 +419,24 @@
         "description": "RM, Jin, Suga, J-Hope, Jimin, V and Jung Kook will perform together for the first time since October 2022."
       },
       {
-        "headline": "Gas shortage caused by Iran war may push India back to dirtier fuels",
-        "url": "https://www.bbc.com/news/articles/c1d6vyy9v61o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC",
-        "sourceId": "bbc_world",
-        "category": "general",
-        "priority": "primary",
-        "date": "Fri, 20 Mar 2026 00:59:29 GMT",
-        "description": "Reports from across India point to rising sales of biomass fuels like firewood and cow dung cakes."
-      },
-      {
-        "headline": "Why UK governing Labour's Brexit focus has shifted from Leavers to Remainers",
-        "url": "https://www.bbc.com/news/articles/c4gjn1d74jlo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC",
-        "sourceId": "bbc_world",
-        "category": "general",
-        "priority": "primary",
-        "date": "Fri, 20 Mar 2026 00:01:51 GMT",
-        "description": "Will the pursuit of a closer relationship with the EU risk courting electoral disaster by alienating Brexit-backing voters?"
-      },
-      {
-        "headline": "Iran renews Gulf strikes as oil steadies",
+        "headline": "Iran renews strikes on Gulf as Israel attacks Tehran",
         "url": "https://www.ft.com/content/a2b593db-93c2-47d6-9d1d-60f56f8cd61f",
         "source": "Financial Times",
         "sourceId": "ft_home",
         "category": "business",
         "priority": "primary",
         "date": "Thu, 19 Mar 2026 23:30:02 GMT",
-        "description": "Energy prices ease after Israeli PM says war will end sooner than people think"
+        "description": "Oil rose to $110 a barrel but was down from a high of $119 touched in volatile trading on Thursday"
       },
       {
-        "headline": "Qatar’s gas empire comes under fire",
-        "url": "https://www.ft.com/content/25f1a787-29e1-40f3-afa1-f7edd00500f8",
+        "headline": "IEA calls for driving slower and flying less to weather energy crisis",
+        "url": "https://www.ft.com/content/f6ebd241-b2a6-4d56-ac8a-ef186203c1af",
         "source": "Financial Times",
         "sourceId": "ft_home",
         "category": "business",
         "priority": "primary",
-        "date": "Fri, 20 Mar 2026 05:00:13 GMT",
-        "description": "Iranian strikes on world’s largest LNG facility deal shock to state that has carved out role as a mediator of conflicts"
+        "date": "Fri, 20 Mar 2026 10:03:54 GMT",
+        "description": "International Energy Agency says consumer demand measures needed to tackle Iran war disruptions"
       },
       {
         "headline": "Desperation, thy name is Scott Bessent",
@@ -522,7 +515,7 @@
         "sourceId": "ft_home",
         "category": "business",
         "priority": "primary",
-        "date": "Fri, 20 Mar 2026 08:00:58 GMT",
+        "date": "Fri, 20 Mar 2026 10:35:38 GMT",
         "description": "Consumer goods giant considers offloading unit worth tens of billions of dollars as it pivots to beauty and personal care"
       },
       {
@@ -544,6 +537,16 @@
         "priority": "primary",
         "date": "Fri, 20 Mar 2026 05:00:22 GMT",
         "description": "Clients will want human insights even as new technology shakes up investing, according to chief executive Penny Pennington"
+      },
+      {
+        "headline": "Madagascar’s military ruler decrees that ministers must pass lie detector tests",
+        "url": "https://www.theguardian.com/world/2026/mar/20/madagascar-military-ruler-new-ministers-lie-detector-tests",
+        "source": "Guardian",
+        "sourceId": "guardian_world",
+        "category": "general",
+        "priority": "primary",
+        "date": "Fri, 20 Mar 2026 10:26:47 GMT",
+        "description": "&lt;p&gt;Michael Randrianirina, who sacked PM and cabinet without explanation, claims measure is to root out corruption&lt;/p&gt;&lt;p&gt;Madagascar’s military president has said new ministers will ha"
       },
       {
         "headline": "Some of the world’s poorest countries to lose UK aid due to 56% budget cut",
@@ -767,6 +770,26 @@
         "description": "The K-pop supergroup’s first show in over three years will stream live on Netflix at 7 a.m. Eastern time on Saturday. The New York Times will cover it live from Seoul."
       },
       {
+        "headline": "Iran developing a ‘vetting system’ for Strait of Hormuz transit: Report",
+        "url": "https://www.aljazeera.com/news/2026/3/20/iran-developing-a-vetting-system-for-strait-of-hormuz-transit-report?traffic_source=rss",
+        "source": "Al Jazeera",
+        "sourceId": "aljazeera",
+        "category": "general",
+        "priority": "secondary",
+        "date": "Fri, 20 Mar 2026 10:13:07 +0000",
+        "description": "Lloyd&#039;s List reports that ships could be allowed to pass through &#039;safe corridor&#039; once they are approved by IRGC."
+      },
+      {
+        "headline": "Muslims celebrate Eid al-Fitr around the world amid shadow of war",
+        "url": "https://www.aljazeera.com/gallery/2026/3/20/photos-muslims-celebrate-eid-al-fitr-around-the-world-amid-shadow-of-war?traffic_source=rss",
+        "source": "Al Jazeera",
+        "sourceId": "aljazeera",
+        "category": "general",
+        "priority": "secondary",
+        "date": "Fri, 20 Mar 2026 10:11:30 +0000",
+        "description": "People gather with family and for congregational prayers to mark the end of the holy fasting month."
+      },
+      {
         "headline": "Eid celebrations dimmed by war and displacement across Middle East",
         "url": "https://www.aljazeera.com/news/2026/3/20/eid-celebrations-dimmed-by-war-and-displacement-across-middle-east?traffic_source=rss",
         "source": "Al Jazeera",
@@ -895,26 +918,6 @@
         "priority": "secondary",
         "date": "Fri, 20 Mar 2026 04:59:37 +0000",
         "description": "Reports say Sardar Azmoun, who plays for UAE club Shabab Al-Ahli, was expelled for Instagram post with Dubai&#039;s ‌ruler."
-      },
-      {
-        "headline": "Japan vs Australia: Women’s Asian Cup final – team news, start and lineups",
-        "url": "https://www.aljazeera.com/sports/2026/3/20/japan-vs-australia-womens-asian-cup-final-team-news-start-and-lineups?traffic_source=rss",
-        "source": "Al Jazeera",
-        "sourceId": "aljazeera",
-        "category": "general",
-        "priority": "secondary",
-        "date": "Fri, 20 Mar 2026 04:45:40 +0000",
-        "description": "Hosts Australia will be hoping to turn the tables on Japan as they meet for a third time in the Asian Cup final."
-      },
-      {
-        "headline": "Why Pakistani farmers are suing two German companies for deadly 2022 floods",
-        "url": "https://www.aljazeera.com/features/2026/3/20/why-pakistani-farmers-are-suing-two-german-companies-for-deadly-2022-floods?traffic_source=rss",
-        "source": "Al Jazeera",
-        "sourceId": "aljazeera",
-        "category": "general",
-        "priority": "secondary",
-        "date": "Fri, 20 Mar 2026 04:22:09 +0000",
-        "description": "Case relates to RWE and Heidelberg Materials, accused of emissions that intensified historic floods and destroyed farms."
       },
       {
         "headline": "In pictures: Muslims celebrate Eid al-Fitr across the world in shadow of Middle East war",
@@ -1084,6 +1087,16 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQMzdsR3NjZ25Ha19GR21FMFVyYnZSR3RjOGliZFYzYl9NMUdwN1htdGZ6X3RPMXg3YlQwQlhqamtDNnV3UE5sbTk1U2RUUmk2ZUx4WHBuazNFM3NVYU1WN0dRM3l1NWJHX0pWRHl"
       },
       {
+        "headline": "Match Preview: Bay FC Hosts Expansion Denver Summit FC in 2026 Opener - Bay FC",
+        "url": "https://bayfc.com/articles/match-preview-vs-denver-summit-fc-20260313/",
+        "source": "Daybook: International Events",
+        "sourceId": "daybook_intl",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Fri, 13 Mar 2026 22:00:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1HdUVEZXhPV0oxZGpkN01zS2VsRzhCeDNTZTlJWjYwWEgzeHZsV2FVZlRjYnJHUHVaaUhRaHJRZHdySFFKWFNFYlhPLXFIQ25MREdLM3ZuYnk1MlNaZUNQUnZBVGhhUGFoUGFQQlR"
+      },
+      {
         "headline": "U.S. Remarks at the Global Fraud Summit - March 2026 - U.S. Mission to International Organizations in Vienna (.gov)",
         "url": "https://vienna.usmission.gov/u-s-remarks-at-the-global-fraud-summit-march-2026/",
         "source": "Daybook: International Events",
@@ -1092,16 +1105,6 @@
         "priority": "reference",
         "date": "Tue, 17 Mar 2026 08:05:46 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQa2dXc0ZuVktQV1VXZHFQbDRZOVNXaXRNc1IzSFROZUNzLXItX3NYRi0zWmhZSmk4ajJLVE0xX2hLal9rUG1pWjU4N3AxX3JQbDZoVVdIdjhXUE5RQkNWcjVpT0NkZUNaSnJCMlR"
-      },
-      {
-        "headline": "Match Recap: Bay FC Best Denver Summit FC 2-1 in 2026 Opener at PayPal Park - Bay FC",
-        "url": "https://bayfc.com/press-releases/match-recap-vs-denver-summit-fc-03142026/",
-        "source": "Daybook: International Events",
-        "sourceId": "daybook_intl",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Sun, 15 Mar 2026 02:28:40 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9qd3VvSDdtLThUYXdpLXdBRkJGVks5QnR3bkZWT2QyZWdneS1BS1M1YlY1UXBpbVVBRlBsc3loZ1RWS3oxczFCRDVFVDBhbUlzeThnS1lkMWNMRm5ucEtmRnoybTdKcHlxWGpNMml"
       },
       {
         "headline": "G20 (Group of 20) | History &amp; Members - Britannica",
@@ -1124,6 +1127,16 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOSy1DaTJGc3RPbU9TN3dNLTF1bGdTY1U0Q045OTF4bjFPdk4xd3VnUVBpNjZxUVU0ZElJZkwybGNNMnBpeEY3ZVZ0UkdwaEZHRFRKWlBUOEg0WEFfd2oyYnFFb21rdWNTRXRjRVZ"
       },
       {
+        "headline": "Japan-U.S. Summit Meeting and Dinner Reception - mofa.go.jp",
+        "url": "https://www.mofa.go.jp/na/na1/us/pageite_000001_00007.html",
+        "source": "Daybook: International Events",
+        "sourceId": "daybook_intl",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Fri, 20 Mar 2026 04:15:23 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5jNmhTQ3JZbjR2LVZmaXo1OG9HT1VQVDNzVWRwVVg5cXV3VnZKb3ZOX0ZucU93aWN4VnZRSjQ4aVhUaXhMZjZJTEVvNXIwbVFDaE1NMmdHWnQ3TWNJMTNrRzBiUTFpdmNSZmc?oc="
+      },
+      {
         "headline": "INTERPOL-UNODC global summit ends with call to action against fraud surge - Interpol",
         "url": "https://www.interpol.int/News-and-Events/News/2026/INTERPOL-UNODC-global-summit-ends-with-call-to-action-against-fraud-surge",
         "source": "Daybook: International Events",
@@ -1142,16 +1155,6 @@
         "priority": "reference",
         "date": "Thu, 19 Mar 2026 11:43:24 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE83eW45M29EY2VkS2hxeUFiYVJtWFQ3aFVvYnlDNG5qYWg1OWNmOG9uTXpMUEVRQngycE1ERzNnRExXakJtOHpsLUkzWUxFM3RRMTZKVEVQbW04OGI3Wkl4WGJuWjFKMWZCcjJqOTh"
-      },
-      {
-        "headline": "Japan-U.S. Summit Meeting and Dinner Reception - mofa.go.jp",
-        "url": "https://www.mofa.go.jp/na/na1/us/pageite_000001_00007.html",
-        "source": "Daybook: International Events",
-        "sourceId": "daybook_intl",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Fri, 20 Mar 2026 04:15:23 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5jNmhTQ3JZbjR2LVZmaXo1OG9HT1VQVDNzVWRwVVg5cXV3VnZKb3ZOX0ZucU93aWN4VnZRSjQ4aVhUaXhMZjZJTEVvNXIwbVFDaE1NMmdHWnQ3TWNJMTNrRzBiUTFpdmNSZmc?oc="
       },
       {
         "headline": "Scoop: Trump claimed in G7 call that Iran is \"about to surrender\" - Axios",
@@ -1414,6 +1417,16 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUzFnSGthTGlJcGdWTnd4LUE5dDdvVW5UVnhrRS14LWktSWNFWE5VMGllWG9EemxEdktKZ0JaYl9FZUc4TkJmTWNsc2dLbEh3NnZrYW5BYWtGdFhGZXNOTDdFZ2Rtd1NrLVBYWVJ"
       },
       {
+        "headline": "$9 Million Beaver Ranch Park Improvements Set to Begin May 2026 - Jefferson County",
+        "url": "https://www.jeffco.us/m/newsflash/home/detail/2571",
+        "source": "Daybook: Scheduled Events",
+        "sourceId": "daybook_scheduled",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Thu, 19 Mar 2026 17:54:21 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YV3lVYTFwRC1sUS03cW5nM0V6aUxZYmVXVElWTlhTWUtpTUZVT0Q1Szh3czEzSmh1ZTlEeGRZS2dlM2xYbi1HWU1LcVlBRkJmVnFoVHpmaEhCN2s?oc=5\" target=\"_blank\"&g"
+      },
+      {
         "headline": "New DOJ blunder: Voter roll case in chaos after missed deadline, false claims allegation - Democracy Docket",
         "url": "https://www.democracydocket.com/news-alerts/new-doj-blunder-voter-roll-case-in-chaos/",
         "source": "Daybook: Scheduled Events",
@@ -1464,16 +1477,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNTU51MHBORS1Wb3NwQTJteW1rUjdMdjB5MDg1R1JuZUhyTUdvNWQ4QTl3SjFJM0o4UU1xaE9SbVBmcGw4RDhaeEJVdVdYRGVFXzFjZnVCY3BaclFfNXNKYVZxMjRjLTFPNTJhdjZ"
       },
       {
-        "headline": "$9 Million Beaver Ranch Park Improvements Set to Begin May 2026 - Jefferson County",
-        "url": "https://www.jeffco.us/m/newsflash/Home/Detail/2571",
-        "source": "Daybook: Scheduled Events",
-        "sourceId": "daybook_scheduled",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Thu, 19 Mar 2026 17:54:21 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NcUdxUnBvaTItWGRYZmwxQ0JsYjFmR2V6TkwyU0NsdnhqWE9hZmZsUVhqZ1lDSk5jcDFud01MbmFEekd3TXJuRzdOOGd3WlJSbG52aWwyWDE4QzE5RDNZ?oc=5\" target=\"_bla"
-      },
-      {
         "headline": "Reneé Rapp Returns To Acting, Joins ‘The Morning Show’ For Season 5 - deadline.com",
         "url": "https://deadline.com/2026/03/renee-rapp-the-morning-show-season-5-1236760701/",
         "source": "Daybook: Scheduled Events",
@@ -1484,6 +1487,16 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOa1I4Y1paLXlxSWNVczJoN2lRSkloc216cTFYcWhOTmJsQmpMR0JZWFBka2F0UGF2V2RhYnJRVUFaYmVsdkNRcldzcEdiYzJQU2RJS19PSVV1ZHRGeGxQb0NPTHR4UDhqTHRTOVQ"
       },
       {
+        "headline": "‘Project Hail Mary’ Blasts Off To $11M+ In Previews, Best YTD - deadline.com",
+        "url": "https://deadline.com/2026/03/box-office-project-hail-mary-ready-or-not-2-1236761181/",
+        "source": "Daybook: Scheduled Events",
+        "sourceId": "daybook_scheduled",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Fri, 20 Mar 2026 06:13:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQRG9GZ0JDSjhldXVjVk5BbVJxdS1FZy1QRGxzTklJVTBUZkp1Ri1DNEk2S20wbjFndHdGWjF2V09OajZDZmZFWVZmYmpIRnBqSU9qZ0I1OFMwamdJNm11QU5WMWw3S3ZfTE1JTWd"
+      },
+      {
         "headline": "Nexstar Says It Has Closed Merger With Tegna After Greenlight From FCC And Justice Department - deadline.com",
         "url": "https://deadline.com/2026/03/fcc-approves-nexstar-tegna-merger-1236760998/",
         "source": "Daybook: Scheduled Events",
@@ -1492,20 +1505,20 @@
         "priority": "reference",
         "date": "Thu, 19 Mar 2026 23:01:00 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9pcmxKd2JQZ2NWbWVraEZYMW8xREdETmlhaVZOOTk4UnZ1TDhNelFlRXZNS2I3VG9SYTM3cDdUVlk2ZnJiTEs3TUNLWlF5ZXhUb1ZoWWpnQXJqVmFUU3J1Mi1uMmg2QkxTcnREN3A"
-      },
-      {
-        "headline": "Kristen Stewart’s ‘The Challenger’ Series Lands Greenlight At Amazon - deadline.com",
-        "url": "https://deadline.com/2026/03/kristen-stewart-the-challenger-greenlight-amazon-1236760505/",
-        "source": "Daybook: Scheduled Events",
-        "sourceId": "daybook_scheduled",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Thu, 19 Mar 2026 17:00:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPVEpNNHo5YXJwc04tekswQzVvS2IxZzN5bmZJOWVfUUYtZXRpYjNXZ0NLMzFYSTItQ09hdWk3c1hfRE5XMzBIR3NuZzFZMDdMMjFTcUFBNy1xaUs0dGV1MEZ3S0F5UDZ6NGlRRUZ"
       }
     ],
     "byCategory": {
       "wire": [
+        {
+          "headline": "Exiled Iranian Kurds in Iraq say they will return only if Iran’s theocracy falls",
+          "url": "https://apnews.com/article/iran-war-kurds-iraq-b330da59ccef665fc0db18d33b106083",
+          "source": "AP",
+          "sourceId": "ap_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Fri, 20 Mar 2026 10:53:01 +0000",
+          "description": ""
+        },
         {
           "headline": "Jurors wade through daunting evidence in high-stakes Meta trial about social media risks to children",
           "url": "https://apnews.com/article/meta-new-mexico-lawsuit-a7374a4dbf19c885f0239431b2341e60",
@@ -1597,16 +1610,6 @@
           "description": ""
         },
         {
-          "headline": "Ukraine faces growing pressure because of the war in Iran as Russia readies a new offensive",
-          "url": "https://apnews.com/article/russia-ukraine-iran-war-putin-trump-zelenskyy-2b863bc22e97006846e7351e19401f9f",
-          "source": "AP",
-          "sourceId": "ap_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Fri, 20 Mar 2026 07:53:02 +0000",
-          "description": ""
-        },
-        {
           "headline": "Spokesperson for Iran's Revolutionary Guards killed in strike, state TV says - Reuters",
           "url": "https://www.reuters.com/world/middle-east/spokesperson-irans-revolutionary-guards-killed-strike-state-tv-says-2026-03-20/",
           "source": "Reuters",
@@ -1655,6 +1658,16 @@
           "priority": "primary",
           "date": "Fri, 20 Mar 2026 05:01:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOV3pLM0wwRUw4d0JUUXFLekhUODdaY3ppbEpna2RQQ0hwdHBGX0o4aXE0VEppNkxjZllmSVl1ZnJQaDV2aktFaWlFdHhCS1JiZHo2TXBqQW1PZ0x1T3JYOUNva3dRY0l4eUNodDJ"
+        },
+        {
+          "headline": "Israeli military says it struck Syrian government targets after attacks on Druze civilians - Reuters",
+          "url": "https://www.reuters.com/world/israeli-military-says-it-struck-syrian-government-targets-after-attacks-druze-2026-03-20/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Fri, 20 Mar 2026 06:30:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSy1EUDQwdUtha2FvRG9ablpFT0Q1YUprdk9KdWFXTmpmQzM3T0wtLXZ2dXRFNGViSERKNFhOeUFmc3FQTWEtc3BlOXlMTnR5cU9OZ2lDVkdPRXE3R210RjFSZE1rUmRSOV9lZEh"
         },
         {
           "headline": "Work from home, avoid air travel to deal with higher energy prices, IEA says - Reuters",
@@ -1707,14 +1720,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNU09SMVhxcDIxc1NPcXRzb3BDXzYwUnZTak1qTEQ5R0s2XzhCYjAxUFJ3TklocDExX2dzRGxQS3RId0dXcjNObWY3OF9mRi0tb2U1Yi1jQVJMLWFlbVZXV2p4SjlHT1JUT0ZaWXp"
         },
         {
-          "headline": "Israeli military says it struck Syrian government targets after attacks on Druze civilians - Reuters",
-          "url": "https://www.reuters.com/world/israeli-military-says-it-struck-syrian-government-targets-after-attacks-druze-2026-03-20/",
+          "headline": "Spain to reduce VAT on fuel to 10% over Iran war, SER reports - Reuters",
+          "url": "https://www.reuters.com/business/energy/spain-reduce-vat-fuel-10-over-iran-war-ser-reports-2026-03-20/",
           "source": "Reuters",
           "sourceId": "reuters_world",
           "category": "wire",
           "priority": "primary",
-          "date": "Fri, 20 Mar 2026 06:30:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSy1EUDQwdUtha2FvRG9ablpFT0Q1YUprdk9KdWFXTmpmQzM3T0wtLXZ2dXRFNGViSERKNFhOeUFmc3FQTWEtc3BlOXlMTnR5cU9OZ2lDVkdPRXE3R210RjFSZE1rUmRSOV9lZEh"
+          "date": "Fri, 20 Mar 2026 08:24:38 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPbllRZ0FrRHpsZ0VkbEs1dDZCSnMzam1lSGR3alRaMlVoX01GX2ptMm1PaTZMMDZvbVRrc1FubkFwTHo2SHNuamhmQk9ZeHU5bDExZXNUcVFMUnJEdGJ1SDZKbUNHb0hTZHEzNGV"
         },
         {
           "headline": "Exclusive: Tesla in talks with Chinese firms to buy $2.9 billion worth of solar equipment, sources say - Reuters",
@@ -1745,16 +1758,6 @@
           "priority": "primary",
           "date": "Fri, 20 Mar 2026 02:36:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcE0wcC1tNGtBQVBsOTRxZnJyYVVjS29sNU9adThGTHNfU1c0dmw1OFJkemZ6QWcxeEhOdERCQlE3SHY3c0ZQelFvaWZvVVFyQUEzeDdOb1R0aFhJcDE3ZXBmSGwxMlVESVY3N0V"
-        },
-        {
-          "headline": "Oil retreats as US and allies look to boost supply, unchoke Strait of Hormuz - Reuters",
-          "url": "https://www.reuters.com/business/energy/oil-falls-us-allies-look-boost-supply-unchoke-strait-hormuz-2026-03-20/",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Fri, 20 Mar 2026 01:32:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNd2Rpc2pia3d3NWVCUWNYTGo0b281N0RpbEx1MHVNR0JRbERGZnFsVGQxbHV6ZElVQ1dDNDhmRzJPVDNFWUJoLXVPT3VPZVh0eVBUOVNyZWtSV2NLeHZRaFJmQ003OGo1bU5Sb3p"
         },
         {
           "headline": "In pictures: Muslims celebrate Eid al-Fitr across the world in shadow of Middle East war",
@@ -1926,16 +1929,6 @@
           "description": "As the conflict triggers economic disruption some risk being hit hard, while others stand to benefit."
         },
         {
-          "headline": "Trump compares attack on Iran to Pearl Harbor in meeting with Japanese PM",
-          "url": "https://www.bbc.com/news/videos/cx248jvgwj8o?at_medium=RSS&amp;at_campaign=rss",
-          "source": "BBC",
-          "sourceId": "bbc_world",
-          "category": "general",
-          "priority": "primary",
-          "date": "Thu, 19 Mar 2026 17:50:38 GMT",
-          "description": "In a meeting with Japanese Prime Minister, US President Donald Trump was asked why he didn't inform allies about his plan to attack Iran."
-        },
-        {
           "headline": "Several injured as turbulence hits Delta flight into Sydney",
           "url": "https://www.bbc.com/news/articles/c78l572p4n7o?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC",
@@ -1946,14 +1939,44 @@
           "description": "Three flight attendants were taken to hospital after the Airbus A350 experienced turbulence during its descent into Sydney Airport."
         },
         {
-          "headline": "Denmark planned to blow up Greenland runways if US invaded, reports say",
-          "url": "https://www.bbc.com/news/articles/c33ln4mp1p2o?at_medium=RSS&amp;at_campaign=rss",
+          "headline": "Norway's crown princess breaks silence on Epstein links: 'I was manipulated and deceived'",
+          "url": "https://www.bbc.com/news/articles/cde5y63y3n7o?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC",
           "sourceId": "bbc_world",
           "category": "general",
           "priority": "primary",
-          "date": "Thu, 19 Mar 2026 21:52:36 GMT",
-          "description": "Denmark's public broadcaster reports that the US operation to seize Venezuela's leader sparked fears it would act against Greenland."
+          "date": "Fri, 20 Mar 2026 10:43:00 GMT",
+          "description": "Crown Princess Mette Marit tells Norwegian TV she wishes she had never met the late sex offender."
+        },
+        {
+          "headline": "Mexican teen dies while being held in US immigration custody",
+          "url": "https://www.bbc.com/news/articles/cp84n0kn902o?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC",
+          "sourceId": "bbc_world",
+          "category": "general",
+          "priority": "primary",
+          "date": "Fri, 20 Mar 2026 10:57:38 GMT",
+          "description": "Royer Perez-Jimenez died amid a surge of migrant deaths under Donald Trump's immigration crackdown."
+        },
+        {
+          "headline": "BTS return from military service - but does their album live up to the hype?",
+          "url": "https://www.bbc.com/news/articles/c070eg32dryo?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC",
+          "sourceId": "bbc_world",
+          "category": "general",
+          "priority": "primary",
+          "date": "Fri, 20 Mar 2026 04:04:50 GMT",
+          "description": "The band's 10th album sees them return to the rebellious, rap-heavy sound of their early days."
+        },
+        {
+          "headline": "Trump makes Pearl Harbor remark in meeting with Japan's PM",
+          "url": "https://www.bbc.com/news/articles/c8dlpr074q3o?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC",
+          "sourceId": "bbc_world",
+          "category": "general",
+          "priority": "primary",
+          "date": "Fri, 20 Mar 2026 09:55:19 GMT",
+          "description": "President Trump compared US strikes on Iran to the deadly 1941 Japanese attack and declaration of war as part of World War Two."
         },
         {
           "headline": "Australia PM heckled at Sydney mosque Ramadan event",
@@ -1964,6 +1987,16 @@
           "priority": "primary",
           "date": "Fri, 20 Mar 2026 02:54:21 GMT",
           "description": "The government's response to the Israel-Gaza war and rising Islamophobia has angered many Muslim Australians."
+        },
+        {
+          "headline": "Denmark planned to blow up Greenland runways if US invaded, reports say",
+          "url": "https://www.bbc.com/news/articles/c33ln4mp1p2o?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC",
+          "sourceId": "bbc_world",
+          "category": "general",
+          "priority": "primary",
+          "date": "Thu, 19 Mar 2026 21:52:36 GMT",
+          "description": "Denmark's public broadcaster reports that the US operation to seize Venezuela's leader sparked fears it would act against Greenland."
         },
         {
           "headline": "Bachelorette's new season pulled after Taylor Frankie Paul abuse allegations",
@@ -2016,23 +2049,6 @@
           "description": "Nasa is preparing a mission to send astronauts around the Moon for the first time in more than 50 years."
         },
         {
-          "headline": "Norway crown princess to address Epstein links as son's rape trial closes",
-          "url": "https://www.bbc.com/news/articles/cvge3mxgvwwo?at_medium=RSS&amp;at_campaign=rss",
-          "source": "BBC",
-          "sourceId": "bbc_world",
-          "category": "general",
-          "priority": "primary",
-          "date": "Thu, 19 Mar 2026 20:14:30 GMT",
-          "description": "Mette-Marit gives a much-anticipated interview, due to be broadcast on Friday.",
-          "watchCandidate": true,
-          "watchSignals": [
-            {
-              "category": "temporal",
-              "matched": "due to"
-            }
-          ]
-        },
-        {
           "headline": "'You can't smell Nowruz in the air': Iran marks Persian new year under threat of strikes",
           "url": "https://www.bbc.com/news/articles/cvgkg8p7zlko?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC",
@@ -2051,26 +2067,6 @@
           "priority": "primary",
           "date": "Thu, 19 Mar 2026 23:03:53 GMT",
           "description": "RM, Jin, Suga, J-Hope, Jimin, V and Jung Kook will perform together for the first time since October 2022."
-        },
-        {
-          "headline": "Gas shortage caused by Iran war may push India back to dirtier fuels",
-          "url": "https://www.bbc.com/news/articles/c1d6vyy9v61o?at_medium=RSS&amp;at_campaign=rss",
-          "source": "BBC",
-          "sourceId": "bbc_world",
-          "category": "general",
-          "priority": "primary",
-          "date": "Fri, 20 Mar 2026 00:59:29 GMT",
-          "description": "Reports from across India point to rising sales of biomass fuels like firewood and cow dung cakes."
-        },
-        {
-          "headline": "Why UK governing Labour's Brexit focus has shifted from Leavers to Remainers",
-          "url": "https://www.bbc.com/news/articles/c4gjn1d74jlo?at_medium=RSS&amp;at_campaign=rss",
-          "source": "BBC",
-          "sourceId": "bbc_world",
-          "category": "general",
-          "priority": "primary",
-          "date": "Fri, 20 Mar 2026 00:01:51 GMT",
-          "description": "Will the pursuit of a closer relationship with the EU risk courting electoral disaster by alienating Brexit-backing voters?"
         },
         {
           "headline": "Palestinians Stream Back to Northern Gaza on Foot",
@@ -2223,6 +2219,16 @@
           "description": "Israel says 91 hostages abducted on Oct. 7 remain in captivity, including the bodies of at least 34."
         },
         {
+          "headline": "Madagascar’s military ruler decrees that ministers must pass lie detector tests",
+          "url": "https://www.theguardian.com/world/2026/mar/20/madagascar-military-ruler-new-ministers-lie-detector-tests",
+          "source": "Guardian",
+          "sourceId": "guardian_world",
+          "category": "general",
+          "priority": "primary",
+          "date": "Fri, 20 Mar 2026 10:26:47 GMT",
+          "description": "&lt;p&gt;Michael Randrianirina, who sacked PM and cabinet without explanation, claims measure is to root out corruption&lt;/p&gt;&lt;p&gt;Madagascar’s military president has said new ministers will ha"
+        },
+        {
           "headline": "Some of the world’s poorest countries to lose UK aid due to 56% budget cut",
           "url": "https://www.theguardian.com/global-development/2026/mar/19/poorest-countries-lose-uk-aid-56-per-cent-budget-cut",
           "source": "Guardian",
@@ -2268,16 +2274,6 @@
           "priority": "primary",
           "date": "Tue, 17 Mar 2026 18:03:45 GMT",
           "description": "&lt;p&gt;Family of then PM, Patrice Lumumba, welcome decision to charge Étienne Davignon as ‘beginning of a reckoning’ &lt;/p&gt;&lt;p&gt;A former Belgian diplomat, 93, should stand trial over alleged"
-        },
-        {
-          "headline": "At least 23 people killed in suspected suicide attacks in north-eastern Nigeria",
-          "url": "https://www.theguardian.com/world/2026/mar/17/bombings-north-eastern-nigeria-maiduguri",
-          "source": "Guardian",
-          "sourceId": "guardian_world",
-          "category": "general",
-          "priority": "primary",
-          "date": "Tue, 17 Mar 2026 11:28:01 GMT",
-          "description": "&lt;p&gt;More than 100 others injured in bombings targeting post office, market areas and hospital in Maiduguri&lt;/p&gt;&lt;p&gt;At least 23 people have been killed and more than 100 others injured i"
         },
         {
           "headline": "Delcy Rodríguez replaces Venezuela’s top military commanders",
@@ -2544,6 +2540,26 @@
           "description": "The K-pop supergroup’s first show in over three years will stream live on Netflix at 7 a.m. Eastern time on Saturday. The New York Times will cover it live from Seoul."
         },
         {
+          "headline": "Iran developing a ‘vetting system’ for Strait of Hormuz transit: Report",
+          "url": "https://www.aljazeera.com/news/2026/3/20/iran-developing-a-vetting-system-for-strait-of-hormuz-transit-report?traffic_source=rss",
+          "source": "Al Jazeera",
+          "sourceId": "aljazeera",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Fri, 20 Mar 2026 10:13:07 +0000",
+          "description": "Lloyd&#039;s List reports that ships could be allowed to pass through &#039;safe corridor&#039; once they are approved by IRGC."
+        },
+        {
+          "headline": "Muslims celebrate Eid al-Fitr around the world amid shadow of war",
+          "url": "https://www.aljazeera.com/gallery/2026/3/20/photos-muslims-celebrate-eid-al-fitr-around-the-world-amid-shadow-of-war?traffic_source=rss",
+          "source": "Al Jazeera",
+          "sourceId": "aljazeera",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Fri, 20 Mar 2026 10:11:30 +0000",
+          "description": "People gather with family and for congregational prayers to mark the end of the holy fasting month."
+        },
+        {
           "headline": "Eid celebrations dimmed by war and displacement across Middle East",
           "url": "https://www.aljazeera.com/news/2026/3/20/eid-celebrations-dimmed-by-war-and-displacement-across-middle-east?traffic_source=rss",
           "source": "Al Jazeera",
@@ -2672,48 +2688,28 @@
           "priority": "secondary",
           "date": "Fri, 20 Mar 2026 04:59:37 +0000",
           "description": "Reports say Sardar Azmoun, who plays for UAE club Shabab Al-Ahli, was expelled for Instagram post with Dubai&#039;s ‌ruler."
-        },
-        {
-          "headline": "Japan vs Australia: Women’s Asian Cup final – team news, start and lineups",
-          "url": "https://www.aljazeera.com/sports/2026/3/20/japan-vs-australia-womens-asian-cup-final-team-news-start-and-lineups?traffic_source=rss",
-          "source": "Al Jazeera",
-          "sourceId": "aljazeera",
-          "category": "general",
-          "priority": "secondary",
-          "date": "Fri, 20 Mar 2026 04:45:40 +0000",
-          "description": "Hosts Australia will be hoping to turn the tables on Japan as they meet for a third time in the Asian Cup final."
-        },
-        {
-          "headline": "Why Pakistani farmers are suing two German companies for deadly 2022 floods",
-          "url": "https://www.aljazeera.com/features/2026/3/20/why-pakistani-farmers-are-suing-two-german-companies-for-deadly-2022-floods?traffic_source=rss",
-          "source": "Al Jazeera",
-          "sourceId": "aljazeera",
-          "category": "general",
-          "priority": "secondary",
-          "date": "Fri, 20 Mar 2026 04:22:09 +0000",
-          "description": "Case relates to RWE and Heidelberg Materials, accused of emissions that intensified historic floods and destroyed farms."
         }
       ],
       "business": [
         {
-          "headline": "Iran renews Gulf strikes as oil steadies",
+          "headline": "Iran renews strikes on Gulf as Israel attacks Tehran",
           "url": "https://www.ft.com/content/a2b593db-93c2-47d6-9d1d-60f56f8cd61f",
           "source": "Financial Times",
           "sourceId": "ft_home",
           "category": "business",
           "priority": "primary",
           "date": "Thu, 19 Mar 2026 23:30:02 GMT",
-          "description": "Energy prices ease after Israeli PM says war will end sooner than people think"
+          "description": "Oil rose to $110 a barrel but was down from a high of $119 touched in volatile trading on Thursday"
         },
         {
-          "headline": "Qatar’s gas empire comes under fire",
-          "url": "https://www.ft.com/content/25f1a787-29e1-40f3-afa1-f7edd00500f8",
+          "headline": "IEA calls for driving slower and flying less to weather energy crisis",
+          "url": "https://www.ft.com/content/f6ebd241-b2a6-4d56-ac8a-ef186203c1af",
           "source": "Financial Times",
           "sourceId": "ft_home",
           "category": "business",
           "priority": "primary",
-          "date": "Fri, 20 Mar 2026 05:00:13 GMT",
-          "description": "Iranian strikes on world’s largest LNG facility deal shock to state that has carved out role as a mediator of conflicts"
+          "date": "Fri, 20 Mar 2026 10:03:54 GMT",
+          "description": "International Energy Agency says consumer demand measures needed to tackle Iran war disruptions"
         },
         {
           "headline": "Desperation, thy name is Scott Bessent",
@@ -2792,7 +2788,7 @@
           "sourceId": "ft_home",
           "category": "business",
           "priority": "primary",
-          "date": "Fri, 20 Mar 2026 08:00:58 GMT",
+          "date": "Fri, 20 Mar 2026 10:35:38 GMT",
           "description": "Consumer goods giant considers offloading unit worth tens of billions of dollars as it pivots to beauty and personal care"
         },
         {
@@ -2978,6 +2974,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQMzdsR3NjZ25Ha19GR21FMFVyYnZSR3RjOGliZFYzYl9NMUdwN1htdGZ6X3RPMXg3YlQwQlhqamtDNnV3UE5sbTk1U2RUUmk2ZUx4WHBuazNFM3NVYU1WN0dRM3l1NWJHX0pWRHl"
         },
         {
+          "headline": "Match Preview: Bay FC Hosts Expansion Denver Summit FC in 2026 Opener - Bay FC",
+          "url": "https://bayfc.com/articles/match-preview-vs-denver-summit-fc-20260313/",
+          "source": "Daybook: International Events",
+          "sourceId": "daybook_intl",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Fri, 13 Mar 2026 22:00:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1HdUVEZXhPV0oxZGpkN01zS2VsRzhCeDNTZTlJWjYwWEgzeHZsV2FVZlRjYnJHUHVaaUhRaHJRZHdySFFKWFNFYlhPLXFIQ25MREdLM3ZuYnk1MlNaZUNQUnZBVGhhUGFoUGFQQlR"
+        },
+        {
           "headline": "U.S. Remarks at the Global Fraud Summit - March 2026 - U.S. Mission to International Organizations in Vienna (.gov)",
           "url": "https://vienna.usmission.gov/u-s-remarks-at-the-global-fraud-summit-march-2026/",
           "source": "Daybook: International Events",
@@ -2986,16 +2992,6 @@
           "priority": "reference",
           "date": "Tue, 17 Mar 2026 08:05:46 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQa2dXc0ZuVktQV1VXZHFQbDRZOVNXaXRNc1IzSFROZUNzLXItX3NYRi0zWmhZSmk4ajJLVE0xX2hLal9rUG1pWjU4N3AxX3JQbDZoVVdIdjhXUE5RQkNWcjVpT0NkZUNaSnJCMlR"
-        },
-        {
-          "headline": "Match Recap: Bay FC Best Denver Summit FC 2-1 in 2026 Opener at PayPal Park - Bay FC",
-          "url": "https://bayfc.com/press-releases/match-recap-vs-denver-summit-fc-03142026/",
-          "source": "Daybook: International Events",
-          "sourceId": "daybook_intl",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Sun, 15 Mar 2026 02:28:40 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9qd3VvSDdtLThUYXdpLXdBRkJGVks5QnR3bkZWT2QyZWdneS1BS1M1YlY1UXBpbVVBRlBsc3loZ1RWS3oxczFCRDVFVDBhbUlzeThnS1lkMWNMRm5ucEtmRnoybTdKcHlxWGpNMml"
         },
         {
           "headline": "G20 (Group of 20) | History &amp; Members - Britannica",
@@ -3018,6 +3014,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOSy1DaTJGc3RPbU9TN3dNLTF1bGdTY1U0Q045OTF4bjFPdk4xd3VnUVBpNjZxUVU0ZElJZkwybGNNMnBpeEY3ZVZ0UkdwaEZHRFRKWlBUOEg0WEFfd2oyYnFFb21rdWNTRXRjRVZ"
         },
         {
+          "headline": "Japan-U.S. Summit Meeting and Dinner Reception - mofa.go.jp",
+          "url": "https://www.mofa.go.jp/na/na1/us/pageite_000001_00007.html",
+          "source": "Daybook: International Events",
+          "sourceId": "daybook_intl",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Fri, 20 Mar 2026 04:15:23 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5jNmhTQ3JZbjR2LVZmaXo1OG9HT1VQVDNzVWRwVVg5cXV3VnZKb3ZOX0ZucU93aWN4VnZRSjQ4aVhUaXhMZjZJTEVvNXIwbVFDaE1NMmdHWnQ3TWNJMTNrRzBiUTFpdmNSZmc?oc="
+        },
+        {
           "headline": "INTERPOL-UNODC global summit ends with call to action against fraud surge - Interpol",
           "url": "https://www.interpol.int/News-and-Events/News/2026/INTERPOL-UNODC-global-summit-ends-with-call-to-action-against-fraud-surge",
           "source": "Daybook: International Events",
@@ -3036,16 +3042,6 @@
           "priority": "reference",
           "date": "Thu, 19 Mar 2026 11:43:24 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE83eW45M29EY2VkS2hxeUFiYVJtWFQ3aFVvYnlDNG5qYWg1OWNmOG9uTXpMUEVRQngycE1ERzNnRExXakJtOHpsLUkzWUxFM3RRMTZKVEVQbW04OGI3Wkl4WGJuWjFKMWZCcjJqOTh"
-        },
-        {
-          "headline": "Japan-U.S. Summit Meeting and Dinner Reception - mofa.go.jp",
-          "url": "https://www.mofa.go.jp/na/na1/us/pageite_000001_00007.html",
-          "source": "Daybook: International Events",
-          "sourceId": "daybook_intl",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Fri, 20 Mar 2026 04:15:23 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5jNmhTQ3JZbjR2LVZmaXo1OG9HT1VQVDNzVWRwVVg5cXV3VnZKb3ZOX0ZucU93aWN4VnZRSjQ4aVhUaXhMZjZJTEVvNXIwbVFDaE1NMmdHWnQ3TWNJMTNrRzBiUTFpdmNSZmc?oc="
         },
         {
           "headline": "Scoop: Trump claimed in G7 call that Iran is \"about to surrender\" - Axios",
@@ -3328,6 +3324,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUzFnSGthTGlJcGdWTnd4LUE5dDdvVW5UVnhrRS14LWktSWNFWE5VMGllWG9EemxEdktKZ0JaYl9FZUc4TkJmTWNsc2dLbEh3NnZrYW5BYWtGdFhGZXNOTDdFZ2Rtd1NrLVBYWVJ"
         },
         {
+          "headline": "$9 Million Beaver Ranch Park Improvements Set to Begin May 2026 - Jefferson County",
+          "url": "https://www.jeffco.us/m/newsflash/home/detail/2571",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Thu, 19 Mar 2026 17:54:21 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YV3lVYTFwRC1sUS03cW5nM0V6aUxZYmVXVElWTlhTWUtpTUZVT0Q1Szh3czEzSmh1ZTlEeGRZS2dlM2xYbi1HWU1LcVlBRkJmVnFoVHpmaEhCN2s?oc=5\" target=\"_blank\"&g"
+        },
+        {
           "headline": "New DOJ blunder: Voter roll case in chaos after missed deadline, false claims allegation - Democracy Docket",
           "url": "https://www.democracydocket.com/news-alerts/new-doj-blunder-voter-roll-case-in-chaos/",
           "source": "Daybook: Scheduled Events",
@@ -3378,16 +3384,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNTU51MHBORS1Wb3NwQTJteW1rUjdMdjB5MDg1R1JuZUhyTUdvNWQ4QTl3SjFJM0o4UU1xaE9SbVBmcGw4RDhaeEJVdVdYRGVFXzFjZnVCY3BaclFfNXNKYVZxMjRjLTFPNTJhdjZ"
         },
         {
-          "headline": "$9 Million Beaver Ranch Park Improvements Set to Begin May 2026 - Jefferson County",
-          "url": "https://www.jeffco.us/m/newsflash/Home/Detail/2571",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Thu, 19 Mar 2026 17:54:21 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NcUdxUnBvaTItWGRYZmwxQ0JsYjFmR2V6TkwyU0NsdnhqWE9hZmZsUVhqZ1lDSk5jcDFud01MbmFEekd3TXJuRzdOOGd3WlJSbG52aWwyWDE4QzE5RDNZ?oc=5\" target=\"_bla"
-        },
-        {
           "headline": "Reneé Rapp Returns To Acting, Joins ‘The Morning Show’ For Season 5 - deadline.com",
           "url": "https://deadline.com/2026/03/renee-rapp-the-morning-show-season-5-1236760701/",
           "source": "Daybook: Scheduled Events",
@@ -3398,6 +3394,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOa1I4Y1paLXlxSWNVczJoN2lRSkloc216cTFYcWhOTmJsQmpMR0JZWFBka2F0UGF2V2RhYnJRVUFaYmVsdkNRcldzcEdiYzJQU2RJS19PSVV1ZHRGeGxQb0NPTHR4UDhqTHRTOVQ"
         },
         {
+          "headline": "‘Project Hail Mary’ Blasts Off To $11M+ In Previews, Best YTD - deadline.com",
+          "url": "https://deadline.com/2026/03/box-office-project-hail-mary-ready-or-not-2-1236761181/",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Fri, 20 Mar 2026 06:13:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQRG9GZ0JDSjhldXVjVk5BbVJxdS1FZy1QRGxzTklJVTBUZkp1Ri1DNEk2S20wbjFndHdGWjF2V09OajZDZmZFWVZmYmpIRnBqSU9qZ0I1OFMwamdJNm11QU5WMWw3S3ZfTE1JTWd"
+        },
+        {
           "headline": "Nexstar Says It Has Closed Merger With Tegna After Greenlight From FCC And Justice Department - deadline.com",
           "url": "https://deadline.com/2026/03/fcc-approves-nexstar-tegna-merger-1236760998/",
           "source": "Daybook: Scheduled Events",
@@ -3406,21 +3412,21 @@
           "priority": "reference",
           "date": "Thu, 19 Mar 2026 23:01:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9pcmxKd2JQZ2NWbWVraEZYMW8xREdETmlhaVZOOTk4UnZ1TDhNelFlRXZNS2I3VG9SYTM3cDdUVlk2ZnJiTEs3TUNLWlF5ZXhUb1ZoWWpnQXJqVmFUU3J1Mi1uMmg2QkxTcnREN3A"
-        },
-        {
-          "headline": "Kristen Stewart’s ‘The Challenger’ Series Lands Greenlight At Amazon - deadline.com",
-          "url": "https://deadline.com/2026/03/kristen-stewart-the-challenger-greenlight-amazon-1236760505/",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Thu, 19 Mar 2026 17:00:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPVEpNNHo5YXJwc04tekswQzVvS2IxZzN5bmZJOWVfUUYtZXRpYjNXZ0NLMzFYSTItQ09hdWk3c1hfRE5XMzBIR3NuZzFZMDdMMjFTcUFBNy1xaUs0dGV1MEZ3S0F5UDZ6NGlRRUZ"
         }
       ]
     },
     "byPriority": {
       "primary": [
+        {
+          "headline": "Exiled Iranian Kurds in Iraq say they will return only if Iran’s theocracy falls",
+          "url": "https://apnews.com/article/iran-war-kurds-iraq-b330da59ccef665fc0db18d33b106083",
+          "source": "AP",
+          "sourceId": "ap_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Fri, 20 Mar 2026 10:53:01 +0000",
+          "description": ""
+        },
         {
           "headline": "Jurors wade through daunting evidence in high-stakes Meta trial about social media risks to children",
           "url": "https://apnews.com/article/meta-new-mexico-lawsuit-a7374a4dbf19c885f0239431b2341e60",
@@ -3512,16 +3518,6 @@
           "description": ""
         },
         {
-          "headline": "Ukraine faces growing pressure because of the war in Iran as Russia readies a new offensive",
-          "url": "https://apnews.com/article/russia-ukraine-iran-war-putin-trump-zelenskyy-2b863bc22e97006846e7351e19401f9f",
-          "source": "AP",
-          "sourceId": "ap_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Fri, 20 Mar 2026 07:53:02 +0000",
-          "description": ""
-        },
-        {
           "headline": "Spokesperson for Iran's Revolutionary Guards killed in strike, state TV says - Reuters",
           "url": "https://www.reuters.com/world/middle-east/spokesperson-irans-revolutionary-guards-killed-strike-state-tv-says-2026-03-20/",
           "source": "Reuters",
@@ -3570,6 +3566,16 @@
           "priority": "primary",
           "date": "Fri, 20 Mar 2026 05:01:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOV3pLM0wwRUw4d0JUUXFLekhUODdaY3ppbEpna2RQQ0hwdHBGX0o4aXE0VEppNkxjZllmSVl1ZnJQaDV2aktFaWlFdHhCS1JiZHo2TXBqQW1PZ0x1T3JYOUNva3dRY0l4eUNodDJ"
+        },
+        {
+          "headline": "Israeli military says it struck Syrian government targets after attacks on Druze civilians - Reuters",
+          "url": "https://www.reuters.com/world/israeli-military-says-it-struck-syrian-government-targets-after-attacks-druze-2026-03-20/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Fri, 20 Mar 2026 06:30:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSy1EUDQwdUtha2FvRG9ablpFT0Q1YUprdk9KdWFXTmpmQzM3T0wtLXZ2dXRFNGViSERKNFhOeUFmc3FQTWEtc3BlOXlMTnR5cU9OZ2lDVkdPRXE3R210RjFSZE1rUmRSOV9lZEh"
         },
         {
           "headline": "Work from home, avoid air travel to deal with higher energy prices, IEA says - Reuters",
@@ -3622,14 +3628,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNU09SMVhxcDIxc1NPcXRzb3BDXzYwUnZTak1qTEQ5R0s2XzhCYjAxUFJ3TklocDExX2dzRGxQS3RId0dXcjNObWY3OF9mRi0tb2U1Yi1jQVJMLWFlbVZXV2p4SjlHT1JUT0ZaWXp"
         },
         {
-          "headline": "Israeli military says it struck Syrian government targets after attacks on Druze civilians - Reuters",
-          "url": "https://www.reuters.com/world/israeli-military-says-it-struck-syrian-government-targets-after-attacks-druze-2026-03-20/",
+          "headline": "Spain to reduce VAT on fuel to 10% over Iran war, SER reports - Reuters",
+          "url": "https://www.reuters.com/business/energy/spain-reduce-vat-fuel-10-over-iran-war-ser-reports-2026-03-20/",
           "source": "Reuters",
           "sourceId": "reuters_world",
           "category": "wire",
           "priority": "primary",
-          "date": "Fri, 20 Mar 2026 06:30:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSy1EUDQwdUtha2FvRG9ablpFT0Q1YUprdk9KdWFXTmpmQzM3T0wtLXZ2dXRFNGViSERKNFhOeUFmc3FQTWEtc3BlOXlMTnR5cU9OZ2lDVkdPRXE3R210RjFSZE1rUmRSOV9lZEh"
+          "date": "Fri, 20 Mar 2026 08:24:38 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPbllRZ0FrRHpsZ0VkbEs1dDZCSnMzam1lSGR3alRaMlVoX01GX2ptMm1PaTZMMDZvbVRrc1FubkFwTHo2SHNuamhmQk9ZeHU5bDExZXNUcVFMUnJEdGJ1SDZKbUNHb0hTZHEzNGV"
         },
         {
           "headline": "Exclusive: Tesla in talks with Chinese firms to buy $2.9 billion worth of solar equipment, sources say - Reuters",
@@ -3662,16 +3668,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcE0wcC1tNGtBQVBsOTRxZnJyYVVjS29sNU9adThGTHNfU1c0dmw1OFJkemZ6QWcxeEhOdERCQlE3SHY3c0ZQelFvaWZvVVFyQUEzeDdOb1R0aFhJcDE3ZXBmSGwxMlVESVY3N0V"
         },
         {
-          "headline": "Oil retreats as US and allies look to boost supply, unchoke Strait of Hormuz - Reuters",
-          "url": "https://www.reuters.com/business/energy/oil-falls-us-allies-look-boost-supply-unchoke-strait-hormuz-2026-03-20/",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Fri, 20 Mar 2026 01:32:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNd2Rpc2pia3d3NWVCUWNYTGo0b281N0RpbEx1MHVNR0JRbERGZnFsVGQxbHV6ZElVQ1dDNDhmRzJPVDNFWUJoLXVPT3VPZVh0eVBUOVNyZWtSV2NLeHZRaFJmQ003OGo1bU5Sb3p"
-        },
-        {
           "headline": "Russia, China and the US – the global winners and losers of the Iran war",
           "url": "https://www.bbc.com/news/articles/c3wlwnn05zqo?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC",
@@ -3680,16 +3676,6 @@
           "priority": "primary",
           "date": "Fri, 20 Mar 2026 00:08:53 GMT",
           "description": "As the conflict triggers economic disruption some risk being hit hard, while others stand to benefit."
-        },
-        {
-          "headline": "Trump compares attack on Iran to Pearl Harbor in meeting with Japanese PM",
-          "url": "https://www.bbc.com/news/videos/cx248jvgwj8o?at_medium=RSS&amp;at_campaign=rss",
-          "source": "BBC",
-          "sourceId": "bbc_world",
-          "category": "general",
-          "priority": "primary",
-          "date": "Thu, 19 Mar 2026 17:50:38 GMT",
-          "description": "In a meeting with Japanese Prime Minister, US President Donald Trump was asked why he didn't inform allies about his plan to attack Iran."
         },
         {
           "headline": "Several injured as turbulence hits Delta flight into Sydney",
@@ -3702,14 +3688,44 @@
           "description": "Three flight attendants were taken to hospital after the Airbus A350 experienced turbulence during its descent into Sydney Airport."
         },
         {
-          "headline": "Denmark planned to blow up Greenland runways if US invaded, reports say",
-          "url": "https://www.bbc.com/news/articles/c33ln4mp1p2o?at_medium=RSS&amp;at_campaign=rss",
+          "headline": "Norway's crown princess breaks silence on Epstein links: 'I was manipulated and deceived'",
+          "url": "https://www.bbc.com/news/articles/cde5y63y3n7o?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC",
           "sourceId": "bbc_world",
           "category": "general",
           "priority": "primary",
-          "date": "Thu, 19 Mar 2026 21:52:36 GMT",
-          "description": "Denmark's public broadcaster reports that the US operation to seize Venezuela's leader sparked fears it would act against Greenland."
+          "date": "Fri, 20 Mar 2026 10:43:00 GMT",
+          "description": "Crown Princess Mette Marit tells Norwegian TV she wishes she had never met the late sex offender."
+        },
+        {
+          "headline": "Mexican teen dies while being held in US immigration custody",
+          "url": "https://www.bbc.com/news/articles/cp84n0kn902o?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC",
+          "sourceId": "bbc_world",
+          "category": "general",
+          "priority": "primary",
+          "date": "Fri, 20 Mar 2026 10:57:38 GMT",
+          "description": "Royer Perez-Jimenez died amid a surge of migrant deaths under Donald Trump's immigration crackdown."
+        },
+        {
+          "headline": "BTS return from military service - but does their album live up to the hype?",
+          "url": "https://www.bbc.com/news/articles/c070eg32dryo?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC",
+          "sourceId": "bbc_world",
+          "category": "general",
+          "priority": "primary",
+          "date": "Fri, 20 Mar 2026 04:04:50 GMT",
+          "description": "The band's 10th album sees them return to the rebellious, rap-heavy sound of their early days."
+        },
+        {
+          "headline": "Trump makes Pearl Harbor remark in meeting with Japan's PM",
+          "url": "https://www.bbc.com/news/articles/c8dlpr074q3o?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC",
+          "sourceId": "bbc_world",
+          "category": "general",
+          "priority": "primary",
+          "date": "Fri, 20 Mar 2026 09:55:19 GMT",
+          "description": "President Trump compared US strikes on Iran to the deadly 1941 Japanese attack and declaration of war as part of World War Two."
         },
         {
           "headline": "Australia PM heckled at Sydney mosque Ramadan event",
@@ -3720,6 +3736,16 @@
           "priority": "primary",
           "date": "Fri, 20 Mar 2026 02:54:21 GMT",
           "description": "The government's response to the Israel-Gaza war and rising Islamophobia has angered many Muslim Australians."
+        },
+        {
+          "headline": "Denmark planned to blow up Greenland runways if US invaded, reports say",
+          "url": "https://www.bbc.com/news/articles/c33ln4mp1p2o?at_medium=RSS&amp;at_campaign=rss",
+          "source": "BBC",
+          "sourceId": "bbc_world",
+          "category": "general",
+          "priority": "primary",
+          "date": "Thu, 19 Mar 2026 21:52:36 GMT",
+          "description": "Denmark's public broadcaster reports that the US operation to seize Venezuela's leader sparked fears it would act against Greenland."
         },
         {
           "headline": "Bachelorette's new season pulled after Taylor Frankie Paul abuse allegations",
@@ -3772,23 +3798,6 @@
           "description": "Nasa is preparing a mission to send astronauts around the Moon for the first time in more than 50 years."
         },
         {
-          "headline": "Norway crown princess to address Epstein links as son's rape trial closes",
-          "url": "https://www.bbc.com/news/articles/cvge3mxgvwwo?at_medium=RSS&amp;at_campaign=rss",
-          "source": "BBC",
-          "sourceId": "bbc_world",
-          "category": "general",
-          "priority": "primary",
-          "date": "Thu, 19 Mar 2026 20:14:30 GMT",
-          "description": "Mette-Marit gives a much-anticipated interview, due to be broadcast on Friday.",
-          "watchCandidate": true,
-          "watchSignals": [
-            {
-              "category": "temporal",
-              "matched": "due to"
-            }
-          ]
-        },
-        {
           "headline": "'You can't smell Nowruz in the air': Iran marks Persian new year under threat of strikes",
           "url": "https://www.bbc.com/news/articles/cvgkg8p7zlko?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC",
@@ -3807,26 +3816,6 @@
           "priority": "primary",
           "date": "Thu, 19 Mar 2026 23:03:53 GMT",
           "description": "RM, Jin, Suga, J-Hope, Jimin, V and Jung Kook will perform together for the first time since October 2022."
-        },
-        {
-          "headline": "Gas shortage caused by Iran war may push India back to dirtier fuels",
-          "url": "https://www.bbc.com/news/articles/c1d6vyy9v61o?at_medium=RSS&amp;at_campaign=rss",
-          "source": "BBC",
-          "sourceId": "bbc_world",
-          "category": "general",
-          "priority": "primary",
-          "date": "Fri, 20 Mar 2026 00:59:29 GMT",
-          "description": "Reports from across India point to rising sales of biomass fuels like firewood and cow dung cakes."
-        },
-        {
-          "headline": "Why UK governing Labour's Brexit focus has shifted from Leavers to Remainers",
-          "url": "https://www.bbc.com/news/articles/c4gjn1d74jlo?at_medium=RSS&amp;at_campaign=rss",
-          "source": "BBC",
-          "sourceId": "bbc_world",
-          "category": "general",
-          "priority": "primary",
-          "date": "Fri, 20 Mar 2026 00:01:51 GMT",
-          "description": "Will the pursuit of a closer relationship with the EU risk courting electoral disaster by alienating Brexit-backing voters?"
         },
         {
           "headline": "Palestinians Stream Back to Northern Gaza on Foot",
@@ -3979,24 +3968,24 @@
           "description": "Israel says 91 hostages abducted on Oct. 7 remain in captivity, including the bodies of at least 34."
         },
         {
-          "headline": "Iran renews Gulf strikes as oil steadies",
+          "headline": "Iran renews strikes on Gulf as Israel attacks Tehran",
           "url": "https://www.ft.com/content/a2b593db-93c2-47d6-9d1d-60f56f8cd61f",
           "source": "Financial Times",
           "sourceId": "ft_home",
           "category": "business",
           "priority": "primary",
           "date": "Thu, 19 Mar 2026 23:30:02 GMT",
-          "description": "Energy prices ease after Israeli PM says war will end sooner than people think"
+          "description": "Oil rose to $110 a barrel but was down from a high of $119 touched in volatile trading on Thursday"
         },
         {
-          "headline": "Qatar’s gas empire comes under fire",
-          "url": "https://www.ft.com/content/25f1a787-29e1-40f3-afa1-f7edd00500f8",
+          "headline": "IEA calls for driving slower and flying less to weather energy crisis",
+          "url": "https://www.ft.com/content/f6ebd241-b2a6-4d56-ac8a-ef186203c1af",
           "source": "Financial Times",
           "sourceId": "ft_home",
           "category": "business",
           "priority": "primary",
-          "date": "Fri, 20 Mar 2026 05:00:13 GMT",
-          "description": "Iranian strikes on world’s largest LNG facility deal shock to state that has carved out role as a mediator of conflicts"
+          "date": "Fri, 20 Mar 2026 10:03:54 GMT",
+          "description": "International Energy Agency says consumer demand measures needed to tackle Iran war disruptions"
         },
         {
           "headline": "Desperation, thy name is Scott Bessent",
@@ -4075,7 +4064,7 @@
           "sourceId": "ft_home",
           "category": "business",
           "priority": "primary",
-          "date": "Fri, 20 Mar 2026 08:00:58 GMT",
+          "date": "Fri, 20 Mar 2026 10:35:38 GMT",
           "description": "Consumer goods giant considers offloading unit worth tens of billions of dollars as it pivots to beauty and personal care"
         },
         {
@@ -4097,6 +4086,16 @@
           "priority": "primary",
           "date": "Fri, 20 Mar 2026 05:00:22 GMT",
           "description": "Clients will want human insights even as new technology shakes up investing, according to chief executive Penny Pennington"
+        },
+        {
+          "headline": "Madagascar’s military ruler decrees that ministers must pass lie detector tests",
+          "url": "https://www.theguardian.com/world/2026/mar/20/madagascar-military-ruler-new-ministers-lie-detector-tests",
+          "source": "Guardian",
+          "sourceId": "guardian_world",
+          "category": "general",
+          "priority": "primary",
+          "date": "Fri, 20 Mar 2026 10:26:47 GMT",
+          "description": "&lt;p&gt;Michael Randrianirina, who sacked PM and cabinet without explanation, claims measure is to root out corruption&lt;/p&gt;&lt;p&gt;Madagascar’s military president has said new ministers will ha"
         },
         {
           "headline": "Some of the world’s poorest countries to lose UK aid due to 56% budget cut",
@@ -4144,16 +4143,6 @@
           "priority": "primary",
           "date": "Tue, 17 Mar 2026 18:03:45 GMT",
           "description": "&lt;p&gt;Family of then PM, Patrice Lumumba, welcome decision to charge Étienne Davignon as ‘beginning of a reckoning’ &lt;/p&gt;&lt;p&gt;A former Belgian diplomat, 93, should stand trial over alleged"
-        },
-        {
-          "headline": "At least 23 people killed in suspected suicide attacks in north-eastern Nigeria",
-          "url": "https://www.theguardian.com/world/2026/mar/17/bombings-north-eastern-nigeria-maiduguri",
-          "source": "Guardian",
-          "sourceId": "guardian_world",
-          "category": "general",
-          "priority": "primary",
-          "date": "Tue, 17 Mar 2026 11:28:01 GMT",
-          "description": "&lt;p&gt;More than 100 others injured in bombings targeting post office, market areas and hospital in Maiduguri&lt;/p&gt;&lt;p&gt;At least 23 people have been killed and more than 100 others injured i"
         },
         {
           "headline": "Delcy Rodríguez replaces Venezuela’s top military commanders",
@@ -4572,6 +4561,26 @@
           "description": "Check out the stocks Heard on the Street writers favor in their eighth annual stock-picking contest."
         },
         {
+          "headline": "Iran developing a ‘vetting system’ for Strait of Hormuz transit: Report",
+          "url": "https://www.aljazeera.com/news/2026/3/20/iran-developing-a-vetting-system-for-strait-of-hormuz-transit-report?traffic_source=rss",
+          "source": "Al Jazeera",
+          "sourceId": "aljazeera",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Fri, 20 Mar 2026 10:13:07 +0000",
+          "description": "Lloyd&#039;s List reports that ships could be allowed to pass through &#039;safe corridor&#039; once they are approved by IRGC."
+        },
+        {
+          "headline": "Muslims celebrate Eid al-Fitr around the world amid shadow of war",
+          "url": "https://www.aljazeera.com/gallery/2026/3/20/photos-muslims-celebrate-eid-al-fitr-around-the-world-amid-shadow-of-war?traffic_source=rss",
+          "source": "Al Jazeera",
+          "sourceId": "aljazeera",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Fri, 20 Mar 2026 10:11:30 +0000",
+          "description": "People gather with family and for congregational prayers to mark the end of the holy fasting month."
+        },
+        {
           "headline": "Eid celebrations dimmed by war and displacement across Middle East",
           "url": "https://www.aljazeera.com/news/2026/3/20/eid-celebrations-dimmed-by-war-and-displacement-across-middle-east?traffic_source=rss",
           "source": "Al Jazeera",
@@ -4700,26 +4709,6 @@
           "priority": "secondary",
           "date": "Fri, 20 Mar 2026 04:59:37 +0000",
           "description": "Reports say Sardar Azmoun, who plays for UAE club Shabab Al-Ahli, was expelled for Instagram post with Dubai&#039;s ‌ruler."
-        },
-        {
-          "headline": "Japan vs Australia: Women’s Asian Cup final – team news, start and lineups",
-          "url": "https://www.aljazeera.com/sports/2026/3/20/japan-vs-australia-womens-asian-cup-final-team-news-start-and-lineups?traffic_source=rss",
-          "source": "Al Jazeera",
-          "sourceId": "aljazeera",
-          "category": "general",
-          "priority": "secondary",
-          "date": "Fri, 20 Mar 2026 04:45:40 +0000",
-          "description": "Hosts Australia will be hoping to turn the tables on Japan as they meet for a third time in the Asian Cup final."
-        },
-        {
-          "headline": "Why Pakistani farmers are suing two German companies for deadly 2022 floods",
-          "url": "https://www.aljazeera.com/features/2026/3/20/why-pakistani-farmers-are-suing-two-german-companies-for-deadly-2022-floods?traffic_source=rss",
-          "source": "Al Jazeera",
-          "sourceId": "aljazeera",
-          "category": "general",
-          "priority": "secondary",
-          "date": "Fri, 20 Mar 2026 04:22:09 +0000",
-          "description": "Case relates to RWE and Heidelberg Materials, accused of emissions that intensified historic floods and destroyed farms."
         },
         {
           "headline": "In pictures: Muslims celebrate Eid al-Fitr across the world in shadow of Middle East war",
@@ -4892,6 +4881,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQMzdsR3NjZ25Ha19GR21FMFVyYnZSR3RjOGliZFYzYl9NMUdwN1htdGZ6X3RPMXg3YlQwQlhqamtDNnV3UE5sbTk1U2RUUmk2ZUx4WHBuazNFM3NVYU1WN0dRM3l1NWJHX0pWRHl"
         },
         {
+          "headline": "Match Preview: Bay FC Hosts Expansion Denver Summit FC in 2026 Opener - Bay FC",
+          "url": "https://bayfc.com/articles/match-preview-vs-denver-summit-fc-20260313/",
+          "source": "Daybook: International Events",
+          "sourceId": "daybook_intl",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Fri, 13 Mar 2026 22:00:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1HdUVEZXhPV0oxZGpkN01zS2VsRzhCeDNTZTlJWjYwWEgzeHZsV2FVZlRjYnJHUHVaaUhRaHJRZHdySFFKWFNFYlhPLXFIQ25MREdLM3ZuYnk1MlNaZUNQUnZBVGhhUGFoUGFQQlR"
+        },
+        {
           "headline": "U.S. Remarks at the Global Fraud Summit - March 2026 - U.S. Mission to International Organizations in Vienna (.gov)",
           "url": "https://vienna.usmission.gov/u-s-remarks-at-the-global-fraud-summit-march-2026/",
           "source": "Daybook: International Events",
@@ -4900,16 +4899,6 @@
           "priority": "reference",
           "date": "Tue, 17 Mar 2026 08:05:46 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQa2dXc0ZuVktQV1VXZHFQbDRZOVNXaXRNc1IzSFROZUNzLXItX3NYRi0zWmhZSmk4ajJLVE0xX2hLal9rUG1pWjU4N3AxX3JQbDZoVVdIdjhXUE5RQkNWcjVpT0NkZUNaSnJCMlR"
-        },
-        {
-          "headline": "Match Recap: Bay FC Best Denver Summit FC 2-1 in 2026 Opener at PayPal Park - Bay FC",
-          "url": "https://bayfc.com/press-releases/match-recap-vs-denver-summit-fc-03142026/",
-          "source": "Daybook: International Events",
-          "sourceId": "daybook_intl",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Sun, 15 Mar 2026 02:28:40 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9qd3VvSDdtLThUYXdpLXdBRkJGVks5QnR3bkZWT2QyZWdneS1BS1M1YlY1UXBpbVVBRlBsc3loZ1RWS3oxczFCRDVFVDBhbUlzeThnS1lkMWNMRm5ucEtmRnoybTdKcHlxWGpNMml"
         },
         {
           "headline": "G20 (Group of 20) | History &amp; Members - Britannica",
@@ -4932,6 +4921,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOSy1DaTJGc3RPbU9TN3dNLTF1bGdTY1U0Q045OTF4bjFPdk4xd3VnUVBpNjZxUVU0ZElJZkwybGNNMnBpeEY3ZVZ0UkdwaEZHRFRKWlBUOEg0WEFfd2oyYnFFb21rdWNTRXRjRVZ"
         },
         {
+          "headline": "Japan-U.S. Summit Meeting and Dinner Reception - mofa.go.jp",
+          "url": "https://www.mofa.go.jp/na/na1/us/pageite_000001_00007.html",
+          "source": "Daybook: International Events",
+          "sourceId": "daybook_intl",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Fri, 20 Mar 2026 04:15:23 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5jNmhTQ3JZbjR2LVZmaXo1OG9HT1VQVDNzVWRwVVg5cXV3VnZKb3ZOX0ZucU93aWN4VnZRSjQ4aVhUaXhMZjZJTEVvNXIwbVFDaE1NMmdHWnQ3TWNJMTNrRzBiUTFpdmNSZmc?oc="
+        },
+        {
           "headline": "INTERPOL-UNODC global summit ends with call to action against fraud surge - Interpol",
           "url": "https://www.interpol.int/News-and-Events/News/2026/INTERPOL-UNODC-global-summit-ends-with-call-to-action-against-fraud-surge",
           "source": "Daybook: International Events",
@@ -4950,16 +4949,6 @@
           "priority": "reference",
           "date": "Thu, 19 Mar 2026 11:43:24 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE83eW45M29EY2VkS2hxeUFiYVJtWFQ3aFVvYnlDNG5qYWg1OWNmOG9uTXpMUEVRQngycE1ERzNnRExXakJtOHpsLUkzWUxFM3RRMTZKVEVQbW04OGI3Wkl4WGJuWjFKMWZCcjJqOTh"
-        },
-        {
-          "headline": "Japan-U.S. Summit Meeting and Dinner Reception - mofa.go.jp",
-          "url": "https://www.mofa.go.jp/na/na1/us/pageite_000001_00007.html",
-          "source": "Daybook: International Events",
-          "sourceId": "daybook_intl",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Fri, 20 Mar 2026 04:15:23 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5jNmhTQ3JZbjR2LVZmaXo1OG9HT1VQVDNzVWRwVVg5cXV3VnZKb3ZOX0ZucU93aWN4VnZRSjQ4aVhUaXhMZjZJTEVvNXIwbVFDaE1NMmdHWnQ3TWNJMTNrRzBiUTFpdmNSZmc?oc="
         },
         {
           "headline": "Scoop: Trump claimed in G7 call that Iran is \"about to surrender\" - Axios",
@@ -5242,6 +5231,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUzFnSGthTGlJcGdWTnd4LUE5dDdvVW5UVnhrRS14LWktSWNFWE5VMGllWG9EemxEdktKZ0JaYl9FZUc4TkJmTWNsc2dLbEh3NnZrYW5BYWtGdFhGZXNOTDdFZ2Rtd1NrLVBYWVJ"
         },
         {
+          "headline": "$9 Million Beaver Ranch Park Improvements Set to Begin May 2026 - Jefferson County",
+          "url": "https://www.jeffco.us/m/newsflash/home/detail/2571",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Thu, 19 Mar 2026 17:54:21 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YV3lVYTFwRC1sUS03cW5nM0V6aUxZYmVXVElWTlhTWUtpTUZVT0Q1Szh3czEzSmh1ZTlEeGRZS2dlM2xYbi1HWU1LcVlBRkJmVnFoVHpmaEhCN2s?oc=5\" target=\"_blank\"&g"
+        },
+        {
           "headline": "New DOJ blunder: Voter roll case in chaos after missed deadline, false claims allegation - Democracy Docket",
           "url": "https://www.democracydocket.com/news-alerts/new-doj-blunder-voter-roll-case-in-chaos/",
           "source": "Daybook: Scheduled Events",
@@ -5292,16 +5291,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNTU51MHBORS1Wb3NwQTJteW1rUjdMdjB5MDg1R1JuZUhyTUdvNWQ4QTl3SjFJM0o4UU1xaE9SbVBmcGw4RDhaeEJVdVdYRGVFXzFjZnVCY3BaclFfNXNKYVZxMjRjLTFPNTJhdjZ"
         },
         {
-          "headline": "$9 Million Beaver Ranch Park Improvements Set to Begin May 2026 - Jefferson County",
-          "url": "https://www.jeffco.us/m/newsflash/Home/Detail/2571",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Thu, 19 Mar 2026 17:54:21 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NcUdxUnBvaTItWGRYZmwxQ0JsYjFmR2V6TkwyU0NsdnhqWE9hZmZsUVhqZ1lDSk5jcDFud01MbmFEekd3TXJuRzdOOGd3WlJSbG52aWwyWDE4QzE5RDNZ?oc=5\" target=\"_bla"
-        },
-        {
           "headline": "Reneé Rapp Returns To Acting, Joins ‘The Morning Show’ For Season 5 - deadline.com",
           "url": "https://deadline.com/2026/03/renee-rapp-the-morning-show-season-5-1236760701/",
           "source": "Daybook: Scheduled Events",
@@ -5312,6 +5301,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOa1I4Y1paLXlxSWNVczJoN2lRSkloc216cTFYcWhOTmJsQmpMR0JZWFBka2F0UGF2V2RhYnJRVUFaYmVsdkNRcldzcEdiYzJQU2RJS19PSVV1ZHRGeGxQb0NPTHR4UDhqTHRTOVQ"
         },
         {
+          "headline": "‘Project Hail Mary’ Blasts Off To $11M+ In Previews, Best YTD - deadline.com",
+          "url": "https://deadline.com/2026/03/box-office-project-hail-mary-ready-or-not-2-1236761181/",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Fri, 20 Mar 2026 06:13:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQRG9GZ0JDSjhldXVjVk5BbVJxdS1FZy1QRGxzTklJVTBUZkp1Ri1DNEk2S20wbjFndHdGWjF2V09OajZDZmZFWVZmYmpIRnBqSU9qZ0I1OFMwamdJNm11QU5WMWw3S3ZfTE1JTWd"
+        },
+        {
           "headline": "Nexstar Says It Has Closed Merger With Tegna After Greenlight From FCC And Justice Department - deadline.com",
           "url": "https://deadline.com/2026/03/fcc-approves-nexstar-tegna-merger-1236760998/",
           "source": "Daybook: Scheduled Events",
@@ -5320,16 +5319,6 @@
           "priority": "reference",
           "date": "Thu, 19 Mar 2026 23:01:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9pcmxKd2JQZ2NWbWVraEZYMW8xREdETmlhaVZOOTk4UnZ1TDhNelFlRXZNS2I3VG9SYTM3cDdUVlk2ZnJiTEs3TUNLWlF5ZXhUb1ZoWWpnQXJqVmFUU3J1Mi1uMmg2QkxTcnREN3A"
-        },
-        {
-          "headline": "Kristen Stewart’s ‘The Challenger’ Series Lands Greenlight At Amazon - deadline.com",
-          "url": "https://deadline.com/2026/03/kristen-stewart-the-challenger-greenlight-amazon-1236760505/",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Thu, 19 Mar 2026 17:00:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPVEpNNHo5YXJwc04tekswQzVvS2IxZzN5bmZJOWVfUUYtZXRpYjNXZ0NLMzFYSTItQ09hdWk3c1hfRE5XMzBIR3NuZzFZMDdMMjFTcUFBNy1xaUs0dGV1MEZ3S0F5UDZ6NGlRRUZ"
         }
       ]
     }
@@ -5346,6 +5335,16 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQMzdsR3NjZ25Ha19GR21FMFVyYnZSR3RjOGliZFYzYl9NMUdwN1htdGZ6X3RPMXg3YlQwQlhqamtDNnV3UE5sbTk1U2RUUmk2ZUx4WHBuazNFM3NVYU1WN0dRM3l1NWJHX0pWRHl"
     },
     {
+      "headline": "Match Preview: Bay FC Hosts Expansion Denver Summit FC in 2026 Opener - Bay FC",
+      "url": "https://bayfc.com/articles/match-preview-vs-denver-summit-fc-20260313/",
+      "source": "Daybook: International Events",
+      "sourceId": "daybook_intl",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Fri, 13 Mar 2026 22:00:00 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1HdUVEZXhPV0oxZGpkN01zS2VsRzhCeDNTZTlJWjYwWEgzeHZsV2FVZlRjYnJHUHVaaUhRaHJRZHdySFFKWFNFYlhPLXFIQ25MREdLM3ZuYnk1MlNaZUNQUnZBVGhhUGFoUGFQQlR"
+    },
+    {
       "headline": "U.S. Remarks at the Global Fraud Summit - March 2026 - U.S. Mission to International Organizations in Vienna (.gov)",
       "url": "https://vienna.usmission.gov/u-s-remarks-at-the-global-fraud-summit-march-2026/",
       "source": "Daybook: International Events",
@@ -5354,16 +5353,6 @@
       "priority": "reference",
       "date": "Tue, 17 Mar 2026 08:05:46 GMT",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQa2dXc0ZuVktQV1VXZHFQbDRZOVNXaXRNc1IzSFROZUNzLXItX3NYRi0zWmhZSmk4ajJLVE0xX2hLal9rUG1pWjU4N3AxX3JQbDZoVVdIdjhXUE5RQkNWcjVpT0NkZUNaSnJCMlR"
-    },
-    {
-      "headline": "Match Recap: Bay FC Best Denver Summit FC 2-1 in 2026 Opener at PayPal Park - Bay FC",
-      "url": "https://bayfc.com/press-releases/match-recap-vs-denver-summit-fc-03142026/",
-      "source": "Daybook: International Events",
-      "sourceId": "daybook_intl",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Sun, 15 Mar 2026 02:28:40 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9qd3VvSDdtLThUYXdpLXdBRkJGVks5QnR3bkZWT2QyZWdneS1BS1M1YlY1UXBpbVVBRlBsc3loZ1RWS3oxczFCRDVFVDBhbUlzeThnS1lkMWNMRm5ucEtmRnoybTdKcHlxWGpNMml"
     },
     {
       "headline": "G20 (Group of 20) | History &amp; Members - Britannica",
@@ -5386,6 +5375,16 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOSy1DaTJGc3RPbU9TN3dNLTF1bGdTY1U0Q045OTF4bjFPdk4xd3VnUVBpNjZxUVU0ZElJZkwybGNNMnBpeEY3ZVZ0UkdwaEZHRFRKWlBUOEg0WEFfd2oyYnFFb21rdWNTRXRjRVZ"
     },
     {
+      "headline": "Japan-U.S. Summit Meeting and Dinner Reception - mofa.go.jp",
+      "url": "https://www.mofa.go.jp/na/na1/us/pageite_000001_00007.html",
+      "source": "Daybook: International Events",
+      "sourceId": "daybook_intl",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Fri, 20 Mar 2026 04:15:23 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5jNmhTQ3JZbjR2LVZmaXo1OG9HT1VQVDNzVWRwVVg5cXV3VnZKb3ZOX0ZucU93aWN4VnZRSjQ4aVhUaXhMZjZJTEVvNXIwbVFDaE1NMmdHWnQ3TWNJMTNrRzBiUTFpdmNSZmc?oc="
+    },
+    {
       "headline": "INTERPOL-UNODC global summit ends with call to action against fraud surge - Interpol",
       "url": "https://www.interpol.int/News-and-Events/News/2026/INTERPOL-UNODC-global-summit-ends-with-call-to-action-against-fraud-surge",
       "source": "Daybook: International Events",
@@ -5404,16 +5403,6 @@
       "priority": "reference",
       "date": "Thu, 19 Mar 2026 11:43:24 GMT",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE83eW45M29EY2VkS2hxeUFiYVJtWFQ3aFVvYnlDNG5qYWg1OWNmOG9uTXpMUEVRQngycE1ERzNnRExXakJtOHpsLUkzWUxFM3RRMTZKVEVQbW04OGI3Wkl4WGJuWjFKMWZCcjJqOTh"
-    },
-    {
-      "headline": "Japan-U.S. Summit Meeting and Dinner Reception - mofa.go.jp",
-      "url": "https://www.mofa.go.jp/na/na1/us/pageite_000001_00007.html",
-      "source": "Daybook: International Events",
-      "sourceId": "daybook_intl",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Fri, 20 Mar 2026 04:15:23 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5jNmhTQ3JZbjR2LVZmaXo1OG9HT1VQVDNzVWRwVVg5cXV3VnZKb3ZOX0ZucU93aWN4VnZRSjQ4aVhUaXhMZjZJTEVvNXIwbVFDaE1NMmdHWnQ3TWNJMTNrRzBiUTFpdmNSZmc?oc="
     },
     {
       "headline": "Scoop: Trump claimed in G7 call that Iran is \"about to surrender\" - Axios",
@@ -5676,6 +5665,16 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUzFnSGthTGlJcGdWTnd4LUE5dDdvVW5UVnhrRS14LWktSWNFWE5VMGllWG9EemxEdktKZ0JaYl9FZUc4TkJmTWNsc2dLbEh3NnZrYW5BYWtGdFhGZXNOTDdFZ2Rtd1NrLVBYWVJ"
     },
     {
+      "headline": "$9 Million Beaver Ranch Park Improvements Set to Begin May 2026 - Jefferson County",
+      "url": "https://www.jeffco.us/m/newsflash/home/detail/2571",
+      "source": "Daybook: Scheduled Events",
+      "sourceId": "daybook_scheduled",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Thu, 19 Mar 2026 17:54:21 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YV3lVYTFwRC1sUS03cW5nM0V6aUxZYmVXVElWTlhTWUtpTUZVT0Q1Szh3czEzSmh1ZTlEeGRZS2dlM2xYbi1HWU1LcVlBRkJmVnFoVHpmaEhCN2s?oc=5\" target=\"_blank\"&g"
+    },
+    {
       "headline": "New DOJ blunder: Voter roll case in chaos after missed deadline, false claims allegation - Democracy Docket",
       "url": "https://www.democracydocket.com/news-alerts/new-doj-blunder-voter-roll-case-in-chaos/",
       "source": "Daybook: Scheduled Events",
@@ -5726,16 +5725,6 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNTU51MHBORS1Wb3NwQTJteW1rUjdMdjB5MDg1R1JuZUhyTUdvNWQ4QTl3SjFJM0o4UU1xaE9SbVBmcGw4RDhaeEJVdVdYRGVFXzFjZnVCY3BaclFfNXNKYVZxMjRjLTFPNTJhdjZ"
     },
     {
-      "headline": "$9 Million Beaver Ranch Park Improvements Set to Begin May 2026 - Jefferson County",
-      "url": "https://www.jeffco.us/m/newsflash/Home/Detail/2571",
-      "source": "Daybook: Scheduled Events",
-      "sourceId": "daybook_scheduled",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Thu, 19 Mar 2026 17:54:21 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NcUdxUnBvaTItWGRYZmwxQ0JsYjFmR2V6TkwyU0NsdnhqWE9hZmZsUVhqZ1lDSk5jcDFud01MbmFEekd3TXJuRzdOOGd3WlJSbG52aWwyWDE4QzE5RDNZ?oc=5\" target=\"_bla"
-    },
-    {
       "headline": "Reneé Rapp Returns To Acting, Joins ‘The Morning Show’ For Season 5 - deadline.com",
       "url": "https://deadline.com/2026/03/renee-rapp-the-morning-show-season-5-1236760701/",
       "source": "Daybook: Scheduled Events",
@@ -5746,6 +5735,16 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOa1I4Y1paLXlxSWNVczJoN2lRSkloc216cTFYcWhOTmJsQmpMR0JZWFBka2F0UGF2V2RhYnJRVUFaYmVsdkNRcldzcEdiYzJQU2RJS19PSVV1ZHRGeGxQb0NPTHR4UDhqTHRTOVQ"
     },
     {
+      "headline": "‘Project Hail Mary’ Blasts Off To $11M+ In Previews, Best YTD - deadline.com",
+      "url": "https://deadline.com/2026/03/box-office-project-hail-mary-ready-or-not-2-1236761181/",
+      "source": "Daybook: Scheduled Events",
+      "sourceId": "daybook_scheduled",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Fri, 20 Mar 2026 06:13:00 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQRG9GZ0JDSjhldXVjVk5BbVJxdS1FZy1QRGxzTklJVTBUZkp1Ri1DNEk2S20wbjFndHdGWjF2V09OajZDZmZFWVZmYmpIRnBqSU9qZ0I1OFMwamdJNm11QU5WMWw3S3ZfTE1JTWd"
+    },
+    {
       "headline": "Nexstar Says It Has Closed Merger With Tegna After Greenlight From FCC And Justice Department - deadline.com",
       "url": "https://deadline.com/2026/03/fcc-approves-nexstar-tegna-merger-1236760998/",
       "source": "Daybook: Scheduled Events",
@@ -5754,36 +5753,9 @@
       "priority": "reference",
       "date": "Thu, 19 Mar 2026 23:01:00 GMT",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9pcmxKd2JQZ2NWbWVraEZYMW8xREdETmlhaVZOOTk4UnZ1TDhNelFlRXZNS2I3VG9SYTM3cDdUVlk2ZnJiTEs3TUNLWlF5ZXhUb1ZoWWpnQXJqVmFUU3J1Mi1uMmg2QkxTcnREN3A"
-    },
-    {
-      "headline": "Kristen Stewart’s ‘The Challenger’ Series Lands Greenlight At Amazon - deadline.com",
-      "url": "https://deadline.com/2026/03/kristen-stewart-the-challenger-greenlight-amazon-1236760505/",
-      "source": "Daybook: Scheduled Events",
-      "sourceId": "daybook_scheduled",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Thu, 19 Mar 2026 17:00:00 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPVEpNNHo5YXJwc04tekswQzVvS2IxZzN5bmZJOWVfUUYtZXRpYjNXZ0NLMzFYSTItQ09hdWk3c1hfRE5XMzBIR3NuZzFZMDdMMjFTcUFBNy1xaUs0dGV1MEZ3S0F5UDZ6NGlRRUZ"
     }
   ],
   "watchCandidates": [
-    {
-      "headline": "Norway crown princess to address Epstein links as son's rape trial closes",
-      "url": "https://www.bbc.com/news/articles/cvge3mxgvwwo?at_medium=RSS&amp;at_campaign=rss",
-      "source": "BBC",
-      "sourceId": "bbc_world",
-      "category": "general",
-      "priority": "primary",
-      "date": "Thu, 19 Mar 2026 20:14:30 GMT",
-      "description": "Mette-Marit gives a much-anticipated interview, due to be broadcast on Friday.",
-      "watchCandidate": true,
-      "watchSignals": [
-        {
-          "category": "temporal",
-          "matched": "due to"
-        }
-      ]
-    },
     {
       "headline": "Some of the world’s poorest countries to lose UK aid due to 56% budget cut",
       "url": "https://www.theguardian.com/global-development/2026/mar/19/poorest-countries-lose-uk-aid-56-per-cent-budget-cut",
@@ -5894,13 +5866,13 @@
         "Israel hits Tehran with air strikes as Iranians mark Persian new year",
         "US considers lifting sanctions on some Iranian oil",
         "Canada's Conservative leader talks tariffs and martial arts with Joe Rogan",
-        "Trump's Pearl Harbor remark overshadows Japan PM visit",
+        "Norway's crown princess breaks silence on Epstein links: 'I was manipulated and deceived'",
         "Are US and Israel aligned on Iran war? Deciphering Trump's post after gas field attacks",
         "Why the UK government's Brexit focus has shifted from Leavers to Remainers",
         "BTS return from military service - but does their album live up to the hype?",
         "Bachelorette's new season pulled after Taylor Frankie Paul abuse allegations",
-        "Natural History Museum overtakes British Museum as UK's top tourist attraction",
-        "Several injured as turbulence hits Delta flight into Sydney"
+        "Trump makes Pearl Harbor remark in meeting with Japan's PM",
+        "Natural History Museum overtakes British Museum as UK's top tourist attraction"
       ]
     },
     {
