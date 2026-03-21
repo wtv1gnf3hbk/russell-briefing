@@ -1,45 +1,45 @@
 Good morning, Russell! Here's what happened while you were sleeping.
 
-## **Top Stories**
+**Top Stories**
 
-- A Mexican teenager [died while](https://www.bbc.com/news/articles/cp84n0kn902o?at_medium=RSS&amp;at_campaign=rss) being held in US immigration custody, according to the BBC, as migrant deaths surge under Donald Trump's immigration crackdown.
+- Iran [fired missiles](https://www.ft.com/content/5c38c404-9f3b-4108-be97-019d043cddd0) at the UK's Diego Garcia military base in the Indian Ocean, the FT reports, in an attack that significantly exceeds Tehran's previously known capabilities.
 
-- Kuwait's Mina Al-Ahmadi refinery was [again hit](https://apnews.com/article/iran-war-isreal-us-kuwait-d052e93613dac59e4164194f4df52c88) by Iranian drone attacks, starting a fire, AP reports, as the Iran war continues to target Gulf energy infrastructure.
+- A fire at a car parts factory in South Korea [killed 11](https://www.theguardian.com/world/2026/mar/21/south-korea-fire-daejeon-car-parts-factory) people and injured almost 60 others, according to the Guardian, after a blaze broke out at the building in Daejeon.
 
-- A spokesperson for Iran's Revolutionary Guards was [killed in](https://www.reuters.com/world/middle-east/spokesperson-irans-revolutionary-guards-killed-strike-state-tv-says-2026-03-20/) an Israeli strike, state television said, per Reuters, while Israel continues hitting Tehran during Persian New Year celebrations.
+- Russian drone attacks [killed two](https://www.bbc.com/news/articles/crl18nwjzzzo?at_medium=RSS&at_campaign=rss) people in Ukraine's Zaporizhzhia region, the BBC reports, while two children aged 11 and 15 were injured.
 
-- Trump made a [Pearl Harbor](https://www.bbc.com/news/articles/c8dlpr074q3o?at_medium=RSS&amp;at_campaign=rss) remark during his meeting with Japan's prime minister, the BBC reports, sarcastically asking "Who knows better about surprise than Japan?" when questioned about not warning allies before US strikes on Iran.
+- Putin told Tehran that [Russia stands](https://www.reuters.com/world/middle-east/putin-tells-tehran-russia-stands-by-iran-2026-03-21/) by Iran during a phone call, Reuters reports, as the war enters its fourth week.
 
-- Exiled Iranian Kurds in Iraq say they will [return only](https://apnews.com/article/iran-war-kurds-iraq-b330da59ccef665fc0db18d33b106083) if Iran's theocracy falls, according to AP, as the minority group watches the conflict from across the border.
+- The US [lifted sanctions](https://www.nytimes.com/live/2026/03/21/world/iran-war-oil-trump) on some Iranian oil exports as energy prices soar, the New York Times reports, reversing earlier "maximum pressure" efforts.
 
-- Norway's Crown Princess Mette-Marit broke her silence on Jeffrey Epstein links, telling Norwegian TV she was [manipulated and](https://www.bbc.com/news/articles/cde5y63y3n7o?at_medium=RSS&amp;at_campaign=rss) deceived and wishes she had never met the late sex offender.
+- BTS will [perform live](https://www.bbc.com/news/articles/cge0dyjwezgo?at_medium=RSS&at_campaign=rss) in Seoul today for the first time since October 2022, the BBC reports, with 260,000 fans expected to attend the comeback concert.
 
-## **Conflicts & Diplomacy**
+**Conflicts & Diplomacy**
 
-- Venezuela's interim president Delcy Rodríguez [replaced the](https://www.theguardian.com/world/2026/mar/20/delcy-rodriguez-replaces-venezuelas-top-military-commanders) country's top military commanders after firing the defense minister who was close to ousted leader Maduro, the Guardian reports.
+- Iran executed three young men this week, with AP reporting that a [wave of](https://apnews.com/article/iran-executions-protests-war-899cffa851d2c87f1feefd561ee9bde3) additional executions is feared as the government cracks down during wartime.
 
-- Spain will reduce VAT on fuel to 10% due to the Iran war, [SER reports](https://www.reuters.com/business/energy/spain-reduce-vat-fuel-10-over-iran-war-ser-reports-2026-03-20/), according to Reuters, as European governments respond to energy price pressures.
+- Israel is [striking both](https://apnews.com/article/lebanon-israel-iran-hezbollah-attacks-civilian-health-cf4ac34c7dff091543002400bbdf02cd) civilian and military wings of Hezbollah in Lebanon in an attempt to crush the group, AP reports.
 
-- Madagascar's military ruler decreed that new ministers must [pass lie](https://www.theguardian.com/world/2026/mar/20/madagascar-military-ruler-new-ministers-lie-detector-tests) detector tests, claiming the measure will root out corruption, per the Guardian.
+- Ukraine's President Zelensky [sent negotiators](https://www.nytimes.com/2026/03/21/world/europe/ukraine-russia-peace-talks-iran.html) to the US hoping to revive peace talks, the New York Times reports, as he expressed concerns about the Iran conflict's effects on Ukraine's war.
 
-## **Business & Markets**
+- Iran says it will [allow Japanese](https://www.aljazeera.com/news/2026/3/21/iran-says-it-will-allow-japanese-ships-to-transit-the-strait-of-hormuz?traffic_source=rss) ships to transit the Strait of Hormuz, according to Al Jazeera, as Japan depends heavily on Middle East crude oil.
 
-- Unilever is in talks to [sell its](https://www.ft.com/content/ca1c92f1-30b3-48c9-942a-61a3a08c751e) food division to spice and sauce maker McCormick in a deal worth tens of billions of dollars, the Financial Times reports.
+**Business & Markets**
 
-- The International Energy Agency called for [driving slower](https://www.ft.com/content/f6ebd241-b2a6-4d56-ac8a-ef186203c1af) and flying less to weather the energy crisis, saying consumer demand measures are needed to tackle Iran war disruptions, according to the FT.
+- The Iran war is [forcing the](https://www.reuters.com/business/energy/iran-wars-energy-impact-forces-world-pay-up-cut-consumption-2026-03-21/) world to pay higher energy prices and cut consumption, Reuters reports, as global supply chains face major disruption.
 
-- A fire at a South Korean auto parts factory in Daejeon [injured at](https://apnews.com/article/south-korea-fire-factory-daejeon-227bcb17b76920a2fe543f599c09a05d) least 55 people, AP reports, though the cause remains under investigation.
+- The EU [urged members](https://www.reuters.com/business/energy/eu-urges-members-cut-gas-storage-targets-due-iran-war-Reuters-reports-2026-03-21/) to cut gas storage targets due to the Iran war, Reuters reports, as the European Commission proposes steps to reduce energy demand.
 
-## **Also Notable**
+**Also Notable**
 
-- Drone video from inside a Fukushima reactor shows a hole in the pressure vessel, [likely fuel](https://apnews.com/article/japan-fukushima-nuclear-drone-meltdown-4075881d2ec92ca260e33c044e976748) debris from the 2011 meltdown, according to AP's latest report on the cleanup efforts.
+- Russia [thwarted protests](https://apnews.com/article/russia-protest-internet-telegram-war-ukraine-f1c191b4de568cf29e0f94cbf7f80cfc) over the blocking of a popular messaging app, AP reports, though frustration persists among users.
 
-- Dozens of boys and young men are [dying in](https://apnews.com/article/south-africa-initiation-circumcision-deaths-eada8249280e1096338ca81c5f9cd11b) South Africa's traditional circumcision rites, AP reports.
+- Tons of international [aid arrived](https://apnews.com/article/cuba-convoy-international-aid-humanitarian-help-0bafbd3bd16bee8cb77d06efc0f329fb) in Cuba through a humanitarian convoy, according to AP, as the struggling island receives assistance.
 
-## **What to Watch**
+**What to Watch**
 
-- BTS released a new album called Arirang ahead of their [comeback concert](https://www.theguardian.com/music/2026/mar/20/bts-arirang-new-album-comeback-concert-kpop) in Seoul on Saturday, the Guardian reports, with the open-air show expected to draw around 260,000 people marking their first performance in almost four years.
+- Ukrainian peace negotiators are [meeting in](https://www.nytimes.com/2026/03/21/world/europe/ukraine-russia-peace-talks-iran.html) the US as Kyiv seeks to revive talks while managing concerns about the Iran war's impact on their own conflict.
 
-- Trump and Japan's Prime Minister are [scheduled to](https://www.mofa.go.jp/na/na1/us/pageite_000001_00007.html) hold a summit meeting and dinner reception today, per Japan's Foreign Ministry, as Iran war tensions overshadow the bilateral talks.
+- Additional executions in Iran are [expected to](https://apnews.com/article/iran-executions-protests-war-899cffa851d2c87f1feefd561ee9bde3) follow this week's hangings of three young men as authorities crack down during wartime.
 
-- Trump reportedly signaled possible delays to his Beijing summit as the US [pressures China](https://www.cnbc.com/2026/03/16/trump-possible-delay-beijing-summit-china-iran-strait-of-hormuz-.html) to help reopen the Strait of Hormuz, according to CNBC.
+- EU energy ministers will likely [implement new](https://www.reuters.com/business/energy/eu-urges-members-cut-gas-storage-targets-due-iran-war-Reuters-reports-2026-03-21/) gas storage targets following the Commission's call to reduce demand due to the Iran war's supply disruptions.
