@@ -4,17 +4,17 @@
     "owner": "Russell Goldman",
     "timezone": "America/New_York",
     "description": "Daily international news briefing — all bullets, ready by 6am ET",
-    "generated": "2026-03-21T10:31:40.497Z",
-    "generatedTimestamp": 1774089100497
+    "generated": "2026-03-21T10:52:52.655Z",
+    "generatedTimestamp": 1774090372655
   },
   "stats": {
     "sourceCount": 19,
     "successCount": 19,
-    "totalStories": 141,
+    "totalStories": 140,
     "totalScreenshots": 6,
-    "daybookStories": 43,
+    "daybookStories": 42,
     "watchCandidateCount": 5,
-    "elapsed": "60.2s"
+    "elapsed": "59.8s"
   },
   "stories": {
     "all": [
@@ -152,7 +152,7 @@
         "sourceId": "reuters_world",
         "category": "wire",
         "priority": "primary",
-        "date": "Sat, 21 Mar 2026 05:49:17 GMT",
+        "date": "Sat, 21 Mar 2026 05:49:00 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQaGNkcXRHZ05yR2g3aklseU9OWjRYWGVZVUtjVW9FSGpERkN4QmxjbmlJeTBfMlVVdVJGMjR6UWhkdnlULTZ1bi1xOXZOdGlEMHo0LXNZYXNJSmZxeldiTTh6a1BLSXpYSTAwN3N"
       },
       {
@@ -182,7 +182,7 @@
         "sourceId": "reuters_world",
         "category": "wire",
         "priority": "primary",
-        "date": "Sat, 21 Mar 2026 06:10:00 GMT",
+        "date": "Sat, 21 Mar 2026 06:10:28 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQWjBYMzVoUE1KWkdTMVpBSHoyQm5JZjBpVTF6MW16XzJsM1JiNEVuN1N2T1hKckF6ZWM5Z2ZzS1lrX2NCQkE2alV6cEhvNG55YTJ4U2FTU3QwYXJTOVpIbkplNGZjV05EaFhOWFp",
         "watchCandidate": true,
         "watchSignals": [
@@ -243,16 +243,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPVThQV2w3RUFSVU5YeThFdFVXMUxVYTN2elRyRk5vdG5MWWtLdUpRM2lERkNpd29wZkVjQlYwaWR4RTFvNm5zUUwyc0ptVHlsbXR5MVlCa1B3dkVIUzgyaEs5aFM5WFpiWTVJUnJ"
       },
       {
-        "headline": "Musk found liable to Twitter shareholders in fraud lawsuit over $44 billion takeover - Reuters",
-        "url": "https://www.reuters.com/sustainability/boards-policy-regulation/musk-found-liable-twitter-shareholders-fraud-lawsuit-over-44-billion-takeover-2026-03-20/",
-        "source": "Reuters",
-        "sourceId": "reuters_world",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Fri, 20 Mar 2026 22:27:30 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVDFsUmRBR2NpOGItTmpYR0ZyYThNLWFieFdhdDlkb1lsYzFzOVd2UGJsTXRFZFZsV0tPZUxzMFJBbFdOeWpGQlh2R1U1ZEx6MGdvdE5ZdEV0NmdjM0JRS1hmVjNtQ0VBX0pDVE1"
-      },
-      {
         "headline": "UN chief says he is cooperating with Trump’s Board of Peace on Gaza, Politico reports - Reuters",
         "url": "https://www.reuters.com/world/middle-east/un-chief-says-he-is-cooperating-with-trumps-board-peace-gaza-politico-reports-2026-03-21/",
         "source": "Reuters",
@@ -261,6 +251,16 @@
         "priority": "primary",
         "date": "Sat, 21 Mar 2026 04:44:00 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOMFl4b2tIWERjX2xweWdjakFLLVh5bjQzUkl4c3psblUwZnBfLVNPZzFVd2hpZU41ZmlJc05ST2VpVXBvaGU1ZVdBQTZmdTlaUDUwbTRrb0xXSXI5REhrSFVnN1czR2JQOHZCRG5"
+      },
+      {
+        "headline": "Musk found liable to Twitter shareholders in fraud lawsuit over $44 billion takeover - Reuters",
+        "url": "https://www.reuters.com/sustainability/boards-policy-regulation/musk-found-liable-twitter-shareholders-fraud-lawsuit-over-44-billion-takeover-2026-03-20/",
+        "source": "Reuters",
+        "sourceId": "reuters_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Fri, 20 Mar 2026 22:27:30 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVDFsUmRBR2NpOGItTmpYR0ZyYThNLWFieFdhdDlkb1lsYzFzOVd2UGJsTXRFZFZsV0tPZUxzMFJBbFdOeWpGQlh2R1U1ZEx6MGdvdE5ZdEV0NmdjM0JRS1hmVjNtQ0VBX0pDVE1"
       },
       {
         "headline": "Trump says US getting close to meeting objectives in Iran war - Reuters",
@@ -309,7 +309,7 @@
         "sourceId": "bbc_world",
         "category": "general",
         "priority": "primary",
-        "date": "Sat, 21 Mar 2026 08:54:29 GMT",
+        "date": "Sat, 21 Mar 2026 10:34:53 GMT",
         "description": "Two children, aged 11 and 15 were also injured in the attack which took place in Zaporizhzhia.",
         "watchCandidate": true,
         "watchSignals": [
@@ -387,7 +387,7 @@
         "category": "general",
         "priority": "primary",
         "date": "Sat, 21 Mar 2026 04:42:46 GMT",
-        "description": "Brendon died of \"natural cases\", his family said in a statement, remembering him as \"passionate\" and \"sensitive\"."
+        "description": "Brendon died of \"natural causes\", his family said in a statement, remembering him as \"passionate\" and \"sensitive\"."
       },
       {
         "headline": "Norway's crown princess breaks silence, claiming she was 'manipulated and deceived' by Epstein",
@@ -600,7 +600,7 @@
         "sourceId": "nyt_world",
         "category": "general",
         "priority": "secondary",
-        "date": "Sat, 21 Mar 2026 10:22:58 +0000",
+        "date": "Sat, 21 Mar 2026 10:34:38 +0000",
         "description": "The move reversed earlier efforts to impose “maximum pressure” on the country and reflected how little success the Trump administration has achieved in calming global markets."
       },
       {
@@ -630,7 +630,7 @@
         "sourceId": "nyt_world",
         "category": "general",
         "priority": "secondary",
-        "date": "Sat, 21 Mar 2026 10:28:24 +0000",
+        "date": "Sat, 21 Mar 2026 10:47:22 +0000",
         "description": "K-pop’s biggest name will perform live in Seoul at 8 p.m. South Korea time (7 a.m. Eastern). The concert will be livestreamed by Netflix."
       },
       {
@@ -884,6 +884,86 @@
         "description": "Indian textile workers are returning home after days without cooking gas, as an LPG crisis linked to the Iran war."
       },
       {
+        "headline": "Tons of aid flows into Cuba as humanitarian convoy arrives on the island",
+        "url": "https://www.france24.com/en/tons-of-aid-flows-into-cuba-as-humanitarian-convoy-arrives-on-the-island",
+        "source": "France24",
+        "sourceId": "france24",
+        "category": "wire",
+        "priority": "secondary",
+        "date": "Sat, 21 Mar 2026 10:44:04 GMT",
+        "description": ""
+      },
+      {
+        "headline": "No phone policy in schools in France: What are the benefits ?",
+        "url": "https://www.france24.com/en/no-phone-policy-in-schools-in-france-what-are-the-benefits",
+        "source": "France24",
+        "sourceId": "france24",
+        "category": "wire",
+        "priority": "secondary",
+        "date": "Sat, 21 Mar 2026 10:40:00 GMT",
+        "description": ""
+      },
+      {
+        "headline": "BTS fans take over central Seoul for K-pop kings' big comeback",
+        "url": "https://www.france24.com/en/bts-fans-take-over-central-seoul-for-k-pop-kings-big-comeback",
+        "source": "France24",
+        "sourceId": "france24",
+        "category": "wire",
+        "priority": "secondary",
+        "date": "Sat, 21 Mar 2026 10:38:01 GMT",
+        "description": ""
+      },
+      {
+        "headline": "Chuck Norris, roundhouse-kicking action star, has died at age 86",
+        "url": "https://www.france24.com/en/chuck-norris-roundhouse-kicking-action-star-has-died-at-age-86",
+        "source": "France24",
+        "sourceId": "france24",
+        "category": "wire",
+        "priority": "secondary",
+        "date": "Sat, 21 Mar 2026 10:33:42 GMT",
+        "description": ""
+      },
+      {
+        "headline": "How Iran's Revolutionary Guards helped Hezbollah prepare for its latest war with Israel",
+        "url": "https://www.france24.com/en/middle-east/20260321-how-iran-revolutionary-guards-helped-hezbollah-prepare-for-its-latest-war-with-israel",
+        "source": "France24",
+        "sourceId": "france24",
+        "category": "wire",
+        "priority": "secondary",
+        "date": "Sat, 21 Mar 2026 10:31:17 GMT",
+        "description": ""
+      },
+      {
+        "headline": "1st Nowruz celebrations in Syria: Governement vows to include Kurdish culture",
+        "url": "https://www.france24.com/en/1st-nowruz-celebrations-in-syria-governement-vows-to-include-kurdish-culture",
+        "source": "France24",
+        "sourceId": "france24",
+        "category": "wire",
+        "priority": "secondary",
+        "date": "Sat, 21 Mar 2026 10:26:04 GMT",
+        "description": ""
+      },
+      {
+        "headline": "War in Ukraine: Russia drone strike blacks out Chernihiv city",
+        "url": "https://www.france24.com/en/war-in-ukraine-russia-drone-strike-blacks-out-chernihiv-city",
+        "source": "France24",
+        "sourceId": "france24",
+        "category": "wire",
+        "priority": "secondary",
+        "date": "Sat, 21 Mar 2026 10:22:26 GMT",
+        "description": ""
+      },
+      {
+        "headline": "US deploys more troops to Mideast as Trump considers ‘winding down’ operations",
+        "url": "https://www.france24.com/en/us-deploys-more-troops-to-mideast-as-trump-considers-winding-down-operations",
+        "source": "France24",
+        "sourceId": "france24",
+        "category": "wire",
+        "priority": "secondary",
+        "date": "Sat, 21 Mar 2026 10:14:57 GMT",
+        "description": ""
+      },
+      {
         "headline": "Ligue 1: Lens Run Riot Against Angers (5-1) to Reclaim Top Spot",
         "url": "https://www.france24.com/en/sport/20260321-ligue-1-lens-run-riot-against-angers-5-1-to-reclaim-top-spot",
         "source": "France24",
@@ -954,86 +1034,6 @@
         "description": ""
       },
       {
-        "headline": "US prosecutors investigate Colombia’s Petro over suspected ties to drug traffickers",
-        "url": "https://www.france24.com/en/americas/20260320-colombia-president-gustavo-petro-under-investigation-us-prosecutors-drug-trafficking",
-        "source": "France24",
-        "sourceId": "france24",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Fri, 20 Mar 2026 21:45:04 GMT",
-        "description": ""
-      },
-      {
-        "headline": "Iran: The ‘Mosaic Doctrine’, Zelensky V Orban, Hungary-splaining",
-        "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20260320-iran-the-mosaic-doctrine-zelensky-v-orban-hungary-splaining",
-        "source": "France24",
-        "sourceId": "france24",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Fri, 20 Mar 2026 19:39:07 GMT",
-        "description": ""
-      },
-      {
-        "headline": "A spiralling energy crisis: Strikes on gas, oil sites have sent prices soaring again",
-        "url": "https://www.france24.com/en/tv-shows/spotlight/20260320-a-spiralling-energy-crisis-strikes-on-gas-oil-sites-have-sent-prices-soaring-again",
-        "source": "France24",
-        "sourceId": "france24",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Fri, 20 Mar 2026 19:26:58 GMT",
-        "description": ""
-      },
-      {
-        "headline": "No, Iran didn't publish a 'list' of 11 American cities to target",
-        "url": "https://www.france24.com/en/americas/20260320-iran-did-not-publish-list-american-cities-target",
-        "source": "France24",
-        "sourceId": "france24",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Fri, 20 Mar 2026 17:49:09 GMT",
-        "description": ""
-      },
-      {
-        "headline": "'Polish populists have decided to turn anti-European': Warsaw mayor Rafal Trzaskowski",
-        "url": "https://www.france24.com/en/tv-shows/talking-europe/20260320-polish-populists-have-decided-to-turn-anti-european-warsaw-mayor-rafal-trzaskowski",
-        "source": "France24",
-        "sourceId": "france24",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Fri, 20 Mar 2026 17:44:16 GMT",
-        "description": ""
-      },
-      {
-        "headline": "Action film star Chuck Norris dies, aged 86",
-        "url": "https://www.france24.com/en/video/20260320-action-film-star-chuck-norris-dies-aged-86",
-        "source": "France24",
-        "sourceId": "france24",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Fri, 20 Mar 2026 17:16:29 GMT",
-        "description": ""
-      },
-      {
-        "headline": "Flights, petrol cars and cruise ships: Amsterdam bans fossil fuel ads",
-        "url": "https://www.france24.com/en/tv-shows/down-to-earth/20260320-flights-petrol-cars-and-cruise-ships-amsterdam-bans-fossil-fuel-ads",
-        "source": "France24",
-        "sourceId": "france24",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Fri, 20 Mar 2026 17:14:39 GMT",
-        "description": ""
-      },
-      {
-        "headline": "Myth of liberation: As war rages, trapped Iranians 'curse' the regime, the Americans & the Israelis",
-        "url": "https://www.france24.com/en/myth-of-liberation-as-war-rages-trapped-iranians-curse-the-regime-the-americans-the-israelis",
-        "source": "France24",
-        "sourceId": "france24",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Fri, 20 Mar 2026 16:37:34 GMT",
-        "description": ""
-      },
-      {
         "headline": "U.S. Remarks at the Global Fraud Summit - March 2026 - U.S. Mission to International Organizations in Vienna (.gov)",
         "url": "https://vienna.usmission.gov/u-s-remarks-at-the-global-fraud-summit-march-2026/",
         "source": "Daybook: International Events",
@@ -1082,16 +1082,6 @@
         "priority": "reference",
         "date": "Fri, 20 Mar 2026 04:15:27 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5jNmhTQ3JZbjR2LVZmaXo1OG9HT1VQVDNzVWRwVVg5cXV3VnZKb3ZOX0ZucU93aWN4VnZRSjQ4aVhUaXhMZjZJTEVvNXIwbVFDaE1NMmdHWnQ3TWNJMTNrRzBiUTFpdmNSZmc?oc="
-      },
-      {
-        "headline": "G20 (Group of 20) | History &amp; Members - Britannica",
-        "url": "https://www.britannica.com/topic/Group-of-20",
-        "source": "Daybook: International Events",
-        "sourceId": "daybook_intl",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Mon, 16 Mar 2026 05:00:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9IYW10UEFKaXZCd2pHd2c1V3RHc05SLTJIWmlCMWc0TjlONXRmZUF3N1l1NjNXWnRHcm5FUHNtR1ktM1N3N29Dckt2WHdWdGtDd2t1NW9sWQ?oc=5\" target=\"_blank\"&gt;G20"
       },
       {
         "headline": "INTERPOL-UNODC global summit ends with call to action against fraud surge - Interpol",
@@ -1174,6 +1164,16 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOb1pyVk1sR1NkT2lVR3I1S2wwUi1OelZ1YUFyOXprVzlzN1Q5MHZHY2FpWGNmdXk5VG9PV1lfTHRJSTJtTFA4MkVfY3hwYUlNa0lNUWtmSkdjR3dUWkZNaW5oUnNjdTlEUm9lNV9"
       },
       {
+        "headline": "Trump-Xi summit delayed as U.S. president pushes China to help open Hormuz - The Washington Post",
+        "url": "chrome-error://chromewebdata/",
+        "source": "Daybook: International Events",
+        "sourceId": "daybook_intl",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Tue, 17 Mar 2026 05:09:26 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbDM1cFRzVTdadVJiZnpWNE9MRzlnUkpvWVc4Zm5DRnZMdjVnUzRUTTNqSHdpSDBjSVBIUzVRMEhtNXZ4M0NqdFhrZ0NHU2tDTWRqazZoZnI4bW5tWnE1Wmd1OERjRHFKRmdUa3V"
+      },
+      {
         "headline": "14 things we learned at the EU leaders’ summit - politico.eu",
         "url": "https://www.politico.eu/article/eu-leaders-summit-15-things-we-learned-economy-ukraine-loan-viktor-orban-hungary/",
         "source": "Daybook: International Events",
@@ -1195,23 +1195,13 @@
       },
       {
         "headline": "The Fed issues its latest interest rate decision Wednesday. Here's what to expect - CNBC",
-        "url": "https://www.cnbc.com/2026/03/17/the-fed-issues-its-latest-interest-rate-decision-wednesday-heres-what-to-expect.html",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTW93UnBleWM5TGFiODl3NEN1NlNsb2xTUzd2ek9COGg2aUdOQVY0cGc3dXJuRVBnc3N3VHBkdUhoWExqN2hXTHNlekRLX2ZFWmd6MTc4Z2toWkotek5Xc1FMNmZwUW5zTENSR3N5Q3o3blZHc2xpOHdkU2xLeEhMQ21pSU0wOTdOLW0zN3NCaFFVVFBvcTU2eThUQThvZGVUWU9JcDdxZUE3VUZNTC1BZ2s2N08tXzDSAbwBQVVfeXFMUEFkdEk0Rmtad3BTQVdCckl6RXdaSXZFbXpJTlRKTFB6RnZDR21ta3BTdG5TbVNZRG5tV1ZLNWVKNzZaeUdXNExkUmFCZU5wQ3M3NDlBWExla3pGdTdaeERNMzU2XzJMUTBuSWtrYjNCa0l3ZDZOZTZuVGtPcFJFaVdPUVRuLVFfTEsyZ252Q2IxYko5NmY4OTVzMnoyX0hNQ1RadnBkbVFOWUJTeFFIODd0VGRvY1RGOVBYZkY?oc=5",
         "source": "Daybook: Economic Calendar",
         "sourceId": "daybook_econ",
         "category": "daybook",
         "priority": "reference",
         "date": "Tue, 17 Mar 2026 18:58:28 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOTW93UnBleWM5TGFiODl3NEN1NlNsb2xTUzd2ek9COGg2aUdOQVY0cGc3dXJuRVBnc3N3VHBkdUhoWExqN2hXTHNlekRLX2ZFWmd6MTc4Z2toWkotek5Xc1FMNmZwUW5zTENSR3N"
-      },
-      {
-        "headline": "WATCH: Fed Chair Powell holds news briefing after interest rate left unchanged - PBS",
-        "url": "https://www.pbs.org/newshour/economy/watch-live-fed-chair-powell-holds-news-briefing-after-latest-interest-rate-decision",
-        "source": "Daybook: Economic Calendar",
-        "sourceId": "daybook_econ",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Wed, 18 Mar 2026 14:23:50 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxObmE2Rm5TNnFlVmNSODAwcFBnekVlTWJHekl5VWEwRzB5UTlxSXNMYUlOTnozX2ZjZ01hZENCTkZPc0ZmOTA2NDVxelFYRVd0Q1BkQ29QeUpHM3YtbTU5aHY1Y2o3M0tmcjdRNTZ"
       },
       {
         "headline": "Embedded | 2026 Trade Deadline - NHL.com",
@@ -1224,14 +1214,24 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQTlhEY2ZoUWJPSUdRU3FNMm9vUGw4OURiVXNwR0JSSGIxWkRCV3hRaUhWQlZITUJsdnYydWJrUklmTkJ1X1p5RW9HNGREVnhUT0hVQXdfczBmZFdkbnh1ZEdKamg2VlFrTmxDbmU"
       },
       {
-        "headline": "Equities extend rebound as Fed meeting begins. - CME Group",
-        "url": "chrome-error://chromewebdata/",
+        "headline": "WATCH: Fed Chair Powell holds news briefing after interest rate left unchanged - PBS",
+        "url": "https://www.pbs.org/newshour/economy/watch-live-fed-chair-powell-holds-news-briefing-after-latest-interest-rate-decision",
         "source": "Daybook: Economic Calendar",
         "sourceId": "daybook_econ",
         "category": "daybook",
         "priority": "reference",
-        "date": "Tue, 17 Mar 2026 22:28:20 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOSUNyQUJUQUFkZUNkN1Jhd2UtUFVzTEJfV0hWakxnLVV6X0lKVktab1RVSl9ESDF2V1hRYlgxa2tOdEhlb1JMNVdfYVl1WS15RW45MUJZa0V0RHdjVGFjMDVCX21XMWJaNFZUQUF"
+        "date": "Wed, 18 Mar 2026 14:23:50 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxObmE2Rm5TNnFlVmNSODAwcFBnekVlTWJHekl5VWEwRzB5UTlxSXNMYUlOTnozX2ZjZ01hZENCTkZPc0ZmOTA2NDVxelFYRVd0Q1BkQ29QeUpHM3YtbTU5aHY1Y2o3M0tmcjdRNTZ"
+      },
+      {
+        "headline": "Taking Stock - Fed rate decision, March 18, 2026 - Empower",
+        "url": "https://www.empower.com/investment-insights/trends/taking-stock-fed-rate-decision-march-18-2026",
+        "source": "Daybook: Economic Calendar",
+        "sourceId": "daybook_econ",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Wed, 18 Mar 2026 07:00:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPVVZnYmx5cXhpOGNPTElNR1VXV2c5eHVDMXlsS0NMdTBNY2FrNjJHbDZvN01BUGpkdE1KZFJKd2dNU1VTUGlXWWhDMEthQnJHM2ZDNEQ2Y0EwdUp5ZWd2cWtJNnUwZzBRSEJMUlV"
       },
       {
         "headline": "Fed issues latest rate decision amid geopolitical turmoil - mpamag.com",
@@ -1284,16 +1284,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE8tN1dOWktQSFlYNHFWUnFTOS1jWXA2dnVTV3BsQy1HVVZtZlk3U0pua0xmRkc2cUI2R01IU2daMjNENEUydFFQY2FkRnExUDJaRU1GUXN5SU0zTzhTdHVXY1pJSUYzRjRUdm5tRUZ"
       },
       {
-        "headline": "A critical Fed meeting, $100 oil, and Micron earnings: What to watch this week - Yahoo Finance",
-        "url": "https://finance.yahoo.com/news/a-critical-fed-meeting-100-oil-and-micron-earnings-what-to-watch-this-week-113002550.html",
-        "source": "Daybook: Economic Calendar",
-        "sourceId": "daybook_econ",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Sun, 15 Mar 2026 19:54:12 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOODV2Mmlyd2FsWjBPRWdpdi1ILXN6NWZqYWlNd3MtZFgtLUZaMTB5VGpxNXViMVhNbmg1clNHaUd4MWRwMzdDVW0zSFpZVGFSNi1XcEdURGQxNmp2QVlYNXVJNVhVd2x0dHNHMTR"
-      },
-      {
         "headline": "Lululemon posts revenue, EPS beat in earnings report - CNBC",
         "url": "https://www.cnbc.com/video/2026/03/17/lululemon-posts-revenue-eps-beat-in-earnings-report.html",
         "source": "Daybook: Economic Calendar",
@@ -1304,14 +1294,14 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQbzlfYi1IanAwdEh5eEV6SHZITFd1cU9SQ2xERnBZRnBxNk4tQ3M1aUlFbTctWTJUNHBZZGlyVnpkWWNFdENLeUZ1Wno3X0RPbGRFZjVGVFRmX0U4LV9nTDQyREtBVFBPdTQxNnV"
       },
       {
-        "headline": "After trade deadline ‘disappointment,’ can this still be the Carolina Hurricanes’ year? - The Athletic - The New York Times",
-        "url": "https://www.nytimes.com/athletic/7131389/2026/03/20/carolina-hurricanes-playoffs-stanley-cup/",
+        "headline": "Impact of rising fuel costs on Fed's interest rate decision - CBS News",
+        "url": "https://www.cbsnews.com/video/impact-of-rising-fuel-costs-on-feds-interest-rate-decision/",
         "source": "Daybook: Economic Calendar",
         "sourceId": "daybook_econ",
         "category": "daybook",
         "priority": "reference",
-        "date": "Fri, 20 Mar 2026 14:14:10 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOZWdUOW9WSDRVaTY1OHQ1MF9lZFdkc3RlbmZod1F5dnhNSFBmbzJIbGtQMHFBMHVxM3p5OFp4c0M5cHd5MTdiZ2N5Y3FwSVBRUlQ2dHZvNUpRSVBRNUpQdVZnSWp5Ym5BUzBVM0N"
+        "date": "Thu, 19 Mar 2026 13:04:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQNDl4RlVDNXhjRjA4Uld0VDNWa2VKajIwbzRXdTUwUFl4UlhBQTU5UUlNa1ZDTWhCT05fRndPYjFZT2R2cVBBbUZncVJiNUtGVUVlQkxxdzVKMkhiend3RldpTzl5M1ljVWE2blZ"
       },
       {
         "headline": "‘The Last Of Us’ Adds Michelle Mao As Yara &amp; Kyriana Kratter As Lev For Season 3 Of HBO Series - deadline.com",
@@ -1335,7 +1325,7 @@
       },
       {
         "headline": "Women's Rowing Set to Begin Spring Season - High Point University Athletics",
-        "url": "https://highpointpanthers.com/news/2026/3/20/womens-rowing-set-to-begin-spring-season.aspx",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU2lUZDJ0dW9uQ012Ymh2cUFYN1pIcFV2VkEwaVZyS3dHYjlLdFNkdE9NYzVpOEdKeEdRcEpXb1F2U2tVQ3RwbG01ZVJ6eDBNd2tDRmpvTUprX0RvTUlUWmxuVWl5bkJ5YUltZnowVmFxVE1VeXJpZVhwWGpOdWZUdU5VVUp0Y0hDZEd6VFpoYjB5bWdf?oc=5",
         "source": "Daybook: Scheduled Events",
         "sourceId": "daybook_scheduled",
         "category": "daybook",
@@ -1354,16 +1344,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNRGpFVDRLNTJmdVpfWU1YTjhLb1pjOWRzNkFNU1l3emdCcThXWWp6bmZGdnRXQXRRb3Q4QThzNjJiUXhBQ3MzdGpqM0g0S2RxdnppQ2loaUhnNzVfajRhV3JKcG9CcnF6QzZHT1p"
       },
       {
-        "headline": "Michigan Legislature Announces Commitment to Pass the IMLC Before March 28 Deadline - Michigan Health &amp; Hospital Association",
-        "url": "https://www.mha.org/newsroom/michigan-legislature-announces-commitment-to-pass-the-imlc-before-march-28-deadline/",
-        "source": "Daybook: Scheduled Events",
-        "sourceId": "daybook_scheduled",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Fri, 20 Mar 2026 16:53:30 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNSGUzczE3ZmdiSHRxbW5yY3hfcmVCWTc1aWV3MjdJQWhWc0ZtRXVJd01WVDM2eDBGLVVDMFJDeDM0V1lESFY2NW44NzZWUUJ3dV9tZXFzOGVmaUtRMTBKTlJ4WjAzT2gxRU10Sno"
-      },
-      {
         "headline": "Amazon MGM Studios’ ‘Project Hail Mary’ is shooting for a massive $31M today (including previews) and the best opening of 2026 so far with $71.1M at 4,007 runs. That’s also the best opening ever for an Amazon MGM Studios movie. Full details in our box off - Facebook",
         "url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fdeadline%2Fphotos%2Famazon-mgm-studios-project-hail-mary-is-shooting-for-a-massive-31m-today-includi%2F1291590432841294%2F",
         "source": "Daybook: Scheduled Events",
@@ -1372,6 +1352,16 @@
         "priority": "reference",
         "date": "Sat, 21 Mar 2026 08:53:16 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWFRCNWxVVEZwb0h3bERQbTltek9zQ0tUeEhGOFRDSHBpeUdxaFoyZnF6Rm5LbHJZOVdMUktkMGt3N3FnQTNpZ19Ba1lGNUFaWGZMSHRZNzdIc2NQZVN3VmxMazBVZFNoeDhIMDB"
+      },
+      {
+        "headline": "Michigan Legislature Announces Commitment to Pass the IMLC Before March 28 Deadline - Michigan Health &amp; Hospital Association",
+        "url": "https://www.mha.org/newsroom/michigan-legislature-announces-commitment-to-pass-the-imlc-before-march-28-deadline/",
+        "source": "Daybook: Scheduled Events",
+        "sourceId": "daybook_scheduled",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Fri, 20 Mar 2026 16:53:30 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNSGUzczE3ZmdiSHRxbW5yY3hfcmVCWTc1aWV3MjdJQWhWc0ZtRXVJd01WVDM2eDBGLVVDMFJDeDM0V1lESFY2NW44NzZWUUJ3dV9tZXFzOGVmaUtRMTBKTlJ4WjAzT2gxRU10Sno"
       },
       {
         "headline": "Here's what advanced and failed in the Iowa Legislature's second deadline of 2026 - Iowa Public Radio",
@@ -1384,16 +1374,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZGNjT0NGYTgwM0szaGp1ZUZ5VURrNmJQYmp4eFBjWUpKWld3WHY1SVRaM1I0NXdKQ29PSGZZXzlBOGpXRHI0XzI2WEtKVzZpRXVKXzJKd1laTVh5TDVBZUJ1RWFNMWI1blRCR0x"
       },
       {
-        "headline": "Demolition scheduled for S Front Street blighted building - Action News 5",
-        "url": "https://www.actionnews5.com/2026/03/21/demolition-scheduled-s-front-street-blighted-building/",
-        "source": "Daybook: Scheduled Events",
-        "sourceId": "daybook_scheduled",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Sat, 21 Mar 2026 03:11:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPc1hmRk9XU3F2cXRjT1JBZ05Wa1p3SDluZGFTNzRTaVRJZ05QX0lJM0tqUk9feVh0UkV4WTlwQjhncFNuSjlQOG0xcnFSb0N4TmdBOUNJQ1duUUVGdE1UdjEyclA2elVmY0lIbGp"
-      },
-      {
         "headline": "Montana nears deadline for landlords to avoid second-home tax - Montana Free Press",
         "url": "https://montanafreepress.org/2026/03/20/montana-nears-deadline-for-landlords-to-avoid-second-home-tax/",
         "source": "Daybook: Scheduled Events",
@@ -1402,6 +1382,16 @@
         "priority": "reference",
         "date": "Fri, 20 Mar 2026 19:18:06 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQcVBaUUJJbUVCS2RFVlZqRWVwU2ZYdWswRnVNQzFDRzFNU3dQeUp5RFZHb2xHV0gtVEFVVGJpUHVJM2ZkTW9CcHdrVDZKRU5wQ2Z6S2Q1c29HU0FlUnp5Tl9ObmtPa3kyWE1RcmN"
+      },
+      {
+        "headline": "Demolition scheduled for S Front Street blighted building - Action News 5",
+        "url": "https://www.actionnews5.com/2026/03/21/demolition-scheduled-s-front-street-blighted-building/",
+        "source": "Daybook: Scheduled Events",
+        "sourceId": "daybook_scheduled",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Sat, 21 Mar 2026 03:11:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPc1hmRk9XU3F2cXRjT1JBZ05Wa1p3SDluZGFTNzRTaVRJZ05QX0lJM0tqUk9feVh0UkV4WTlwQjhncFNuSjlQOG0xcnFSb0N4TmdBOUNJQ1duUUVGdE1UdjEyclA2elVmY0lIbGp"
       },
       {
         "headline": "Scammers targeting tax refunds as deadline approaches, experts warn - ABC11 Raleigh-Durham",
@@ -1434,6 +1424,16 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQRG9GZ0JDSjhldXVjVk5BbVJxdS1FZy1QRGxzTklJVTBUZkp1Ri1DNEk2S20wbjFndHdGWjF2V09OajZDZmZFWVZmYmpIRnBqSU9qZ0I1OFMwamdJNm11QU5WMWw3S3ZfTE1JTWd"
       },
       {
+        "headline": "Takashi Miike’s Charli Xcx &amp; Milly Alcock Film Begins Shooting In Japan - deadline.com",
+        "url": "https://deadline.com/2026/03/charli-xcx-movie-in-japan-adds-hailey-gates-live-nation-1236761447/",
+        "source": "Daybook: Scheduled Events",
+        "sourceId": "daybook_scheduled",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Fri, 20 Mar 2026 16:41:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQd2hGczQ3ZFBuNG5WMWpCWG53OVE5RjE4MDdlanBBY2drekxnc3RHTC00R1dxaGxpWG1XMGktb2M5Sm53NDJpLUZ1azU1VTAwSldCRXN5TzM0Wk91SmxHamVHSkpVYTdUSjZFN3V"
+      },
+      {
         "headline": "Chuck Norris Dies: ‘Walker, Texas Ranger’ Star &amp; Action Vet Was 86 - deadline.com",
         "url": "https://deadline.com/2026/03/chuck-norris-dead-walker-texas-ranger-star-was-86-1236761332/",
         "source": "Daybook: Scheduled Events",
@@ -1452,16 +1452,6 @@
         "priority": "reference",
         "date": "Fri, 20 Mar 2026 22:44:00 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPN0wtOUZfalAzaExIRDllbklhZ1VlczRyalhiYUpZbi1nQ2JtZ2c0WXl6bWR0UF9WVUFudzJCRU1RcExIMlcxb3RmeUE4SDNRNVVPVDE3TVFKbHJ5Y1JhejBfLW1DYVVlQXhOQUd"
-      },
-      {
-        "headline": "Warner Bros Lands AI-Themed ‘Playground’ For Timothée Chalamet &amp; Plan B - deadline.com",
-        "url": "https://deadline.com/2026/03/timothee-chalamet-plan-b-playground-warner-bros-ai-themed-1236761538/",
-        "source": "Daybook: Scheduled Events",
-        "sourceId": "daybook_scheduled",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Fri, 20 Mar 2026 17:33:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQRXZNVlc3RC1vcHoyS1E1aFZrbk1BckZUNVZFWl9iMDVWQmZLcGN0eGN2X3Z6WmcyZ3VfaDFEaGZfWjU3V1R6Ujl0NWVWQXJINDVFOWQzUjcxS0NUYUo5R1RRM1YzMlg2RXNvTGd"
       }
     ],
     "byCategory": {
@@ -1600,7 +1590,7 @@
           "sourceId": "reuters_world",
           "category": "wire",
           "priority": "primary",
-          "date": "Sat, 21 Mar 2026 05:49:17 GMT",
+          "date": "Sat, 21 Mar 2026 05:49:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQaGNkcXRHZ05yR2g3aklseU9OWjRYWGVZVUtjVW9FSGpERkN4QmxjbmlJeTBfMlVVdVJGMjR6UWhkdnlULTZ1bi1xOXZOdGlEMHo0LXNZYXNJSmZxeldiTTh6a1BLSXpYSTAwN3N"
         },
         {
@@ -1630,7 +1620,7 @@
           "sourceId": "reuters_world",
           "category": "wire",
           "priority": "primary",
-          "date": "Sat, 21 Mar 2026 06:10:00 GMT",
+          "date": "Sat, 21 Mar 2026 06:10:28 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQWjBYMzVoUE1KWkdTMVpBSHoyQm5JZjBpVTF6MW16XzJsM1JiNEVuN1N2T1hKckF6ZWM5Z2ZzS1lrX2NCQkE2alV6cEhvNG55YTJ4U2FTU3QwYXJTOVpIbkplNGZjV05EaFhOWFp",
           "watchCandidate": true,
           "watchSignals": [
@@ -1691,16 +1681,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPVThQV2w3RUFSVU5YeThFdFVXMUxVYTN2elRyRk5vdG5MWWtLdUpRM2lERkNpd29wZkVjQlYwaWR4RTFvNm5zUUwyc0ptVHlsbXR5MVlCa1B3dkVIUzgyaEs5aFM5WFpiWTVJUnJ"
         },
         {
-          "headline": "Musk found liable to Twitter shareholders in fraud lawsuit over $44 billion takeover - Reuters",
-          "url": "https://www.reuters.com/sustainability/boards-policy-regulation/musk-found-liable-twitter-shareholders-fraud-lawsuit-over-44-billion-takeover-2026-03-20/",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Fri, 20 Mar 2026 22:27:30 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVDFsUmRBR2NpOGItTmpYR0ZyYThNLWFieFdhdDlkb1lsYzFzOVd2UGJsTXRFZFZsV0tPZUxzMFJBbFdOeWpGQlh2R1U1ZEx6MGdvdE5ZdEV0NmdjM0JRS1hmVjNtQ0VBX0pDVE1"
-        },
-        {
           "headline": "UN chief says he is cooperating with Trump’s Board of Peace on Gaza, Politico reports - Reuters",
           "url": "https://www.reuters.com/world/middle-east/un-chief-says-he-is-cooperating-with-trumps-board-peace-gaza-politico-reports-2026-03-21/",
           "source": "Reuters",
@@ -1709,6 +1689,16 @@
           "priority": "primary",
           "date": "Sat, 21 Mar 2026 04:44:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOMFl4b2tIWERjX2xweWdjakFLLVh5bjQzUkl4c3psblUwZnBfLVNPZzFVd2hpZU41ZmlJc05ST2VpVXBvaGU1ZVdBQTZmdTlaUDUwbTRrb0xXSXI5REhrSFVnN1czR2JQOHZCRG5"
+        },
+        {
+          "headline": "Musk found liable to Twitter shareholders in fraud lawsuit over $44 billion takeover - Reuters",
+          "url": "https://www.reuters.com/sustainability/boards-policy-regulation/musk-found-liable-twitter-shareholders-fraud-lawsuit-over-44-billion-takeover-2026-03-20/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Fri, 20 Mar 2026 22:27:30 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVDFsUmRBR2NpOGItTmpYR0ZyYThNLWFieFdhdDlkb1lsYzFzOVd2UGJsTXRFZFZsV0tPZUxzMFJBbFdOeWpGQlh2R1U1ZEx6MGdvdE5ZdEV0NmdjM0JRS1hmVjNtQ0VBX0pDVE1"
         },
         {
           "headline": "Trump says US getting close to meeting objectives in Iran war - Reuters",
@@ -1729,6 +1719,86 @@
           "priority": "primary",
           "date": "Fri, 20 Mar 2026 21:12:23 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOeUFDeFo2VkZVWkpwUkl1M2s5TlVhbzhGWi1YaG8yTUNEWlNDSzRFejhzOU5FQXh4U3JqaTVSbmY5ODJoNVM5cWc5S00ycDhtTlotNktuTTR6T3JMeXBYTFE4VjAwNDhDeWVaSEl"
+        },
+        {
+          "headline": "Tons of aid flows into Cuba as humanitarian convoy arrives on the island",
+          "url": "https://www.france24.com/en/tons-of-aid-flows-into-cuba-as-humanitarian-convoy-arrives-on-the-island",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Sat, 21 Mar 2026 10:44:04 GMT",
+          "description": ""
+        },
+        {
+          "headline": "No phone policy in schools in France: What are the benefits ?",
+          "url": "https://www.france24.com/en/no-phone-policy-in-schools-in-france-what-are-the-benefits",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Sat, 21 Mar 2026 10:40:00 GMT",
+          "description": ""
+        },
+        {
+          "headline": "BTS fans take over central Seoul for K-pop kings' big comeback",
+          "url": "https://www.france24.com/en/bts-fans-take-over-central-seoul-for-k-pop-kings-big-comeback",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Sat, 21 Mar 2026 10:38:01 GMT",
+          "description": ""
+        },
+        {
+          "headline": "Chuck Norris, roundhouse-kicking action star, has died at age 86",
+          "url": "https://www.france24.com/en/chuck-norris-roundhouse-kicking-action-star-has-died-at-age-86",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Sat, 21 Mar 2026 10:33:42 GMT",
+          "description": ""
+        },
+        {
+          "headline": "How Iran's Revolutionary Guards helped Hezbollah prepare for its latest war with Israel",
+          "url": "https://www.france24.com/en/middle-east/20260321-how-iran-revolutionary-guards-helped-hezbollah-prepare-for-its-latest-war-with-israel",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Sat, 21 Mar 2026 10:31:17 GMT",
+          "description": ""
+        },
+        {
+          "headline": "1st Nowruz celebrations in Syria: Governement vows to include Kurdish culture",
+          "url": "https://www.france24.com/en/1st-nowruz-celebrations-in-syria-governement-vows-to-include-kurdish-culture",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Sat, 21 Mar 2026 10:26:04 GMT",
+          "description": ""
+        },
+        {
+          "headline": "War in Ukraine: Russia drone strike blacks out Chernihiv city",
+          "url": "https://www.france24.com/en/war-in-ukraine-russia-drone-strike-blacks-out-chernihiv-city",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Sat, 21 Mar 2026 10:22:26 GMT",
+          "description": ""
+        },
+        {
+          "headline": "US deploys more troops to Mideast as Trump considers ‘winding down’ operations",
+          "url": "https://www.france24.com/en/us-deploys-more-troops-to-mideast-as-trump-considers-winding-down-operations",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Sat, 21 Mar 2026 10:14:57 GMT",
+          "description": ""
         },
         {
           "headline": "Ligue 1: Lens Run Riot Against Angers (5-1) to Reclaim Top Spot",
@@ -1799,86 +1869,6 @@
           "priority": "secondary",
           "date": "Fri, 20 Mar 2026 22:07:53 GMT",
           "description": ""
-        },
-        {
-          "headline": "US prosecutors investigate Colombia’s Petro over suspected ties to drug traffickers",
-          "url": "https://www.france24.com/en/americas/20260320-colombia-president-gustavo-petro-under-investigation-us-prosecutors-drug-trafficking",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Fri, 20 Mar 2026 21:45:04 GMT",
-          "description": ""
-        },
-        {
-          "headline": "Iran: The ‘Mosaic Doctrine’, Zelensky V Orban, Hungary-splaining",
-          "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20260320-iran-the-mosaic-doctrine-zelensky-v-orban-hungary-splaining",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Fri, 20 Mar 2026 19:39:07 GMT",
-          "description": ""
-        },
-        {
-          "headline": "A spiralling energy crisis: Strikes on gas, oil sites have sent prices soaring again",
-          "url": "https://www.france24.com/en/tv-shows/spotlight/20260320-a-spiralling-energy-crisis-strikes-on-gas-oil-sites-have-sent-prices-soaring-again",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Fri, 20 Mar 2026 19:26:58 GMT",
-          "description": ""
-        },
-        {
-          "headline": "No, Iran didn't publish a 'list' of 11 American cities to target",
-          "url": "https://www.france24.com/en/americas/20260320-iran-did-not-publish-list-american-cities-target",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Fri, 20 Mar 2026 17:49:09 GMT",
-          "description": ""
-        },
-        {
-          "headline": "'Polish populists have decided to turn anti-European': Warsaw mayor Rafal Trzaskowski",
-          "url": "https://www.france24.com/en/tv-shows/talking-europe/20260320-polish-populists-have-decided-to-turn-anti-european-warsaw-mayor-rafal-trzaskowski",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Fri, 20 Mar 2026 17:44:16 GMT",
-          "description": ""
-        },
-        {
-          "headline": "Action film star Chuck Norris dies, aged 86",
-          "url": "https://www.france24.com/en/video/20260320-action-film-star-chuck-norris-dies-aged-86",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Fri, 20 Mar 2026 17:16:29 GMT",
-          "description": ""
-        },
-        {
-          "headline": "Flights, petrol cars and cruise ships: Amsterdam bans fossil fuel ads",
-          "url": "https://www.france24.com/en/tv-shows/down-to-earth/20260320-flights-petrol-cars-and-cruise-ships-amsterdam-bans-fossil-fuel-ads",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Fri, 20 Mar 2026 17:14:39 GMT",
-          "description": ""
-        },
-        {
-          "headline": "Myth of liberation: As war rages, trapped Iranians 'curse' the regime, the Americans & the Israelis",
-          "url": "https://www.france24.com/en/myth-of-liberation-as-war-rages-trapped-iranians-curse-the-regime-the-americans-the-israelis",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Fri, 20 Mar 2026 16:37:34 GMT",
-          "description": ""
         }
       ],
       "general": [
@@ -1909,7 +1899,7 @@
           "sourceId": "bbc_world",
           "category": "general",
           "priority": "primary",
-          "date": "Sat, 21 Mar 2026 08:54:29 GMT",
+          "date": "Sat, 21 Mar 2026 10:34:53 GMT",
           "description": "Two children, aged 11 and 15 were also injured in the attack which took place in Zaporizhzhia.",
           "watchCandidate": true,
           "watchSignals": [
@@ -1987,7 +1977,7 @@
           "category": "general",
           "priority": "primary",
           "date": "Sat, 21 Mar 2026 04:42:46 GMT",
-          "description": "Brendon died of \"natural cases\", his family said in a statement, remembering him as \"passionate\" and \"sensitive\"."
+          "description": "Brendon died of \"natural causes\", his family said in a statement, remembering him as \"passionate\" and \"sensitive\"."
         },
         {
           "headline": "Norway's crown princess breaks silence, claiming she was 'manipulated and deceived' by Epstein",
@@ -2363,7 +2353,7 @@
           "sourceId": "nyt_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Sat, 21 Mar 2026 10:22:58 +0000",
+          "date": "Sat, 21 Mar 2026 10:34:38 +0000",
           "description": "The move reversed earlier efforts to impose “maximum pressure” on the country and reflected how little success the Trump administration has achieved in calming global markets."
         },
         {
@@ -2393,7 +2383,7 @@
           "sourceId": "nyt_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Sat, 21 Mar 2026 10:28:24 +0000",
+          "date": "Sat, 21 Mar 2026 10:47:22 +0000",
           "description": "K-pop’s biggest name will perform live in Seoul at 8 p.m. South Korea time (7 a.m. Eastern). The concert will be livestreamed by Netflix."
         },
         {
@@ -2968,16 +2958,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5jNmhTQ3JZbjR2LVZmaXo1OG9HT1VQVDNzVWRwVVg5cXV3VnZKb3ZOX0ZucU93aWN4VnZRSjQ4aVhUaXhMZjZJTEVvNXIwbVFDaE1NMmdHWnQ3TWNJMTNrRzBiUTFpdmNSZmc?oc="
         },
         {
-          "headline": "G20 (Group of 20) | History &amp; Members - Britannica",
-          "url": "https://www.britannica.com/topic/Group-of-20",
-          "source": "Daybook: International Events",
-          "sourceId": "daybook_intl",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Mon, 16 Mar 2026 05:00:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9IYW10UEFKaXZCd2pHd2c1V3RHc05SLTJIWmlCMWc0TjlONXRmZUF3N1l1NjNXWnRHcm5FUHNtR1ktM1N3N29Dckt2WHdWdGtDd2t1NW9sWQ?oc=5\" target=\"_blank\"&gt;G20"
-        },
-        {
           "headline": "INTERPOL-UNODC global summit ends with call to action against fraud surge - Interpol",
           "url": "https://www.interpol.int/News-and-Events/News/2026/INTERPOL-UNODC-global-summit-ends-with-call-to-action-against-fraud-surge",
           "source": "Daybook: International Events",
@@ -3058,6 +3038,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOb1pyVk1sR1NkT2lVR3I1S2wwUi1OelZ1YUFyOXprVzlzN1Q5MHZHY2FpWGNmdXk5VG9PV1lfTHRJSTJtTFA4MkVfY3hwYUlNa0lNUWtmSkdjR3dUWkZNaW5oUnNjdTlEUm9lNV9"
         },
         {
+          "headline": "Trump-Xi summit delayed as U.S. president pushes China to help open Hormuz - The Washington Post",
+          "url": "chrome-error://chromewebdata/",
+          "source": "Daybook: International Events",
+          "sourceId": "daybook_intl",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Tue, 17 Mar 2026 05:09:26 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbDM1cFRzVTdadVJiZnpWNE9MRzlnUkpvWVc4Zm5DRnZMdjVnUzRUTTNqSHdpSDBjSVBIUzVRMEhtNXZ4M0NqdFhrZ0NHU2tDTWRqazZoZnI4bW5tWnE1Wmd1OERjRHFKRmdUa3V"
+        },
+        {
           "headline": "14 things we learned at the EU leaders’ summit - politico.eu",
           "url": "https://www.politico.eu/article/eu-leaders-summit-15-things-we-learned-economy-ukraine-loan-viktor-orban-hungary/",
           "source": "Daybook: International Events",
@@ -3079,23 +3069,13 @@
         },
         {
           "headline": "The Fed issues its latest interest rate decision Wednesday. Here's what to expect - CNBC",
-          "url": "https://www.cnbc.com/2026/03/17/the-fed-issues-its-latest-interest-rate-decision-wednesday-heres-what-to-expect.html",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTW93UnBleWM5TGFiODl3NEN1NlNsb2xTUzd2ek9COGg2aUdOQVY0cGc3dXJuRVBnc3N3VHBkdUhoWExqN2hXTHNlekRLX2ZFWmd6MTc4Z2toWkotek5Xc1FMNmZwUW5zTENSR3N5Q3o3blZHc2xpOHdkU2xLeEhMQ21pSU0wOTdOLW0zN3NCaFFVVFBvcTU2eThUQThvZGVUWU9JcDdxZUE3VUZNTC1BZ2s2N08tXzDSAbwBQVVfeXFMUEFkdEk0Rmtad3BTQVdCckl6RXdaSXZFbXpJTlRKTFB6RnZDR21ta3BTdG5TbVNZRG5tV1ZLNWVKNzZaeUdXNExkUmFCZU5wQ3M3NDlBWExla3pGdTdaeERNMzU2XzJMUTBuSWtrYjNCa0l3ZDZOZTZuVGtPcFJFaVdPUVRuLVFfTEsyZ252Q2IxYko5NmY4OTVzMnoyX0hNQ1RadnBkbVFOWUJTeFFIODd0VGRvY1RGOVBYZkY?oc=5",
           "source": "Daybook: Economic Calendar",
           "sourceId": "daybook_econ",
           "category": "daybook",
           "priority": "reference",
           "date": "Tue, 17 Mar 2026 18:58:28 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOTW93UnBleWM5TGFiODl3NEN1NlNsb2xTUzd2ek9COGg2aUdOQVY0cGc3dXJuRVBnc3N3VHBkdUhoWExqN2hXTHNlekRLX2ZFWmd6MTc4Z2toWkotek5Xc1FMNmZwUW5zTENSR3N"
-        },
-        {
-          "headline": "WATCH: Fed Chair Powell holds news briefing after interest rate left unchanged - PBS",
-          "url": "https://www.pbs.org/newshour/economy/watch-live-fed-chair-powell-holds-news-briefing-after-latest-interest-rate-decision",
-          "source": "Daybook: Economic Calendar",
-          "sourceId": "daybook_econ",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Wed, 18 Mar 2026 14:23:50 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxObmE2Rm5TNnFlVmNSODAwcFBnekVlTWJHekl5VWEwRzB5UTlxSXNMYUlOTnozX2ZjZ01hZENCTkZPc0ZmOTA2NDVxelFYRVd0Q1BkQ29QeUpHM3YtbTU5aHY1Y2o3M0tmcjdRNTZ"
         },
         {
           "headline": "Embedded | 2026 Trade Deadline - NHL.com",
@@ -3116,6 +3096,26 @@
           "priority": "reference",
           "date": "Tue, 17 Mar 2026 22:28:20 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOSUNyQUJUQUFkZUNkN1Jhd2UtUFVzTEJfV0hWakxnLVV6X0lKVktab1RVSl9ESDF2V1hRYlgxa2tOdEhlb1JMNVdfYVl1WS15RW45MUJZa0V0RHdjVGFjMDVCX21XMWJaNFZUQUF"
+        },
+        {
+          "headline": "WATCH: Fed Chair Powell holds news briefing after interest rate left unchanged - PBS",
+          "url": "https://www.pbs.org/newshour/economy/watch-live-fed-chair-powell-holds-news-briefing-after-latest-interest-rate-decision",
+          "source": "Daybook: Economic Calendar",
+          "sourceId": "daybook_econ",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Wed, 18 Mar 2026 14:23:50 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxObmE2Rm5TNnFlVmNSODAwcFBnekVlTWJHekl5VWEwRzB5UTlxSXNMYUlOTnozX2ZjZ01hZENCTkZPc0ZmOTA2NDVxelFYRVd0Q1BkQ29QeUpHM3YtbTU5aHY1Y2o3M0tmcjdRNTZ"
+        },
+        {
+          "headline": "Taking Stock - Fed rate decision, March 18, 2026 - Empower",
+          "url": "https://www.empower.com/investment-insights/trends/taking-stock-fed-rate-decision-march-18-2026",
+          "source": "Daybook: Economic Calendar",
+          "sourceId": "daybook_econ",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Wed, 18 Mar 2026 07:00:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPVVZnYmx5cXhpOGNPTElNR1VXV2c5eHVDMXlsS0NMdTBNY2FrNjJHbDZvN01BUGpkdE1KZFJKd2dNU1VTUGlXWWhDMEthQnJHM2ZDNEQ2Y0EwdUp5ZWd2cWtJNnUwZzBRSEJMUlV"
         },
         {
           "headline": "Fed issues latest rate decision amid geopolitical turmoil - mpamag.com",
@@ -3188,16 +3188,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE8tN1dOWktQSFlYNHFWUnFTOS1jWXA2dnVTV3BsQy1HVVZtZlk3U0pua0xmRkc2cUI2R01IU2daMjNENEUydFFQY2FkRnExUDJaRU1GUXN5SU0zTzhTdHVXY1pJSUYzRjRUdm5tRUZ"
         },
         {
-          "headline": "A critical Fed meeting, $100 oil, and Micron earnings: What to watch this week - Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/a-critical-fed-meeting-100-oil-and-micron-earnings-what-to-watch-this-week-113002550.html",
-          "source": "Daybook: Economic Calendar",
-          "sourceId": "daybook_econ",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Sun, 15 Mar 2026 19:54:12 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOODV2Mmlyd2FsWjBPRWdpdi1ILXN6NWZqYWlNd3MtZFgtLUZaMTB5VGpxNXViMVhNbmg1clNHaUd4MWRwMzdDVW0zSFpZVGFSNi1XcEdURGQxNmp2QVlYNXVJNVhVd2x0dHNHMTR"
-        },
-        {
           "headline": "Lululemon posts revenue, EPS beat in earnings report - CNBC",
           "url": "https://www.cnbc.com/video/2026/03/17/lululemon-posts-revenue-eps-beat-in-earnings-report.html",
           "source": "Daybook: Economic Calendar",
@@ -3208,14 +3198,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQbzlfYi1IanAwdEh5eEV6SHZITFd1cU9SQ2xERnBZRnBxNk4tQ3M1aUlFbTctWTJUNHBZZGlyVnpkWWNFdENLeUZ1Wno3X0RPbGRFZjVGVFRmX0U4LV9nTDQyREtBVFBPdTQxNnV"
         },
         {
-          "headline": "After trade deadline ‘disappointment,’ can this still be the Carolina Hurricanes’ year? - The Athletic - The New York Times",
-          "url": "https://www.nytimes.com/athletic/7131389/2026/03/20/carolina-hurricanes-playoffs-stanley-cup/",
+          "headline": "Impact of rising fuel costs on Fed's interest rate decision - CBS News",
+          "url": "https://www.cbsnews.com/video/impact-of-rising-fuel-costs-on-feds-interest-rate-decision/",
           "source": "Daybook: Economic Calendar",
           "sourceId": "daybook_econ",
           "category": "daybook",
           "priority": "reference",
-          "date": "Fri, 20 Mar 2026 14:14:10 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOZWdUOW9WSDRVaTY1OHQ1MF9lZFdkc3RlbmZod1F5dnhNSFBmbzJIbGtQMHFBMHVxM3p5OFp4c0M5cHd5MTdiZ2N5Y3FwSVBRUlQ2dHZvNUpRSVBRNUpQdVZnSWp5Ym5BUzBVM0N"
+          "date": "Thu, 19 Mar 2026 13:04:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQNDl4RlVDNXhjRjA4Uld0VDNWa2VKajIwbzRXdTUwUFl4UlhBQTU5UUlNa1ZDTWhCT05fRndPYjFZT2R2cVBBbUZncVJiNUtGVUVlQkxxdzVKMkhiend3RldpTzl5M1ljVWE2blZ"
         },
         {
           "headline": "‘The Last Of Us’ Adds Michelle Mao As Yara &amp; Kyriana Kratter As Lev For Season 3 Of HBO Series - deadline.com",
@@ -3239,7 +3229,7 @@
         },
         {
           "headline": "Women's Rowing Set to Begin Spring Season - High Point University Athletics",
-          "url": "https://highpointpanthers.com/news/2026/3/20/womens-rowing-set-to-begin-spring-season.aspx",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU2lUZDJ0dW9uQ012Ymh2cUFYN1pIcFV2VkEwaVZyS3dHYjlLdFNkdE9NYzVpOEdKeEdRcEpXb1F2U2tVQ3RwbG01ZVJ6eDBNd2tDRmpvTUprX0RvTUlUWmxuVWl5bkJ5YUltZnowVmFxVE1VeXJpZVhwWGpOdWZUdU5VVUp0Y0hDZEd6VFpoYjB5bWdf?oc=5",
           "source": "Daybook: Scheduled Events",
           "sourceId": "daybook_scheduled",
           "category": "daybook",
@@ -3258,16 +3248,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNRGpFVDRLNTJmdVpfWU1YTjhLb1pjOWRzNkFNU1l3emdCcThXWWp6bmZGdnRXQXRRb3Q4QThzNjJiUXhBQ3MzdGpqM0g0S2RxdnppQ2loaUhnNzVfajRhV3JKcG9CcnF6QzZHT1p"
         },
         {
-          "headline": "Michigan Legislature Announces Commitment to Pass the IMLC Before March 28 Deadline - Michigan Health &amp; Hospital Association",
-          "url": "https://www.mha.org/newsroom/michigan-legislature-announces-commitment-to-pass-the-imlc-before-march-28-deadline/",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Fri, 20 Mar 2026 16:53:30 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNSGUzczE3ZmdiSHRxbW5yY3hfcmVCWTc1aWV3MjdJQWhWc0ZtRXVJd01WVDM2eDBGLVVDMFJDeDM0V1lESFY2NW44NzZWUUJ3dV9tZXFzOGVmaUtRMTBKTlJ4WjAzT2gxRU10Sno"
-        },
-        {
           "headline": "Amazon MGM Studios’ ‘Project Hail Mary’ is shooting for a massive $31M today (including previews) and the best opening of 2026 so far with $71.1M at 4,007 runs. That’s also the best opening ever for an Amazon MGM Studios movie. Full details in our box off - Facebook",
           "url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fdeadline%2Fphotos%2Famazon-mgm-studios-project-hail-mary-is-shooting-for-a-massive-31m-today-includi%2F1291590432841294%2F",
           "source": "Daybook: Scheduled Events",
@@ -3276,6 +3256,16 @@
           "priority": "reference",
           "date": "Sat, 21 Mar 2026 08:53:16 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWFRCNWxVVEZwb0h3bERQbTltek9zQ0tUeEhGOFRDSHBpeUdxaFoyZnF6Rm5LbHJZOVdMUktkMGt3N3FnQTNpZ19Ba1lGNUFaWGZMSHRZNzdIc2NQZVN3VmxMazBVZFNoeDhIMDB"
+        },
+        {
+          "headline": "Michigan Legislature Announces Commitment to Pass the IMLC Before March 28 Deadline - Michigan Health &amp; Hospital Association",
+          "url": "https://www.mha.org/newsroom/michigan-legislature-announces-commitment-to-pass-the-imlc-before-march-28-deadline/",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Fri, 20 Mar 2026 16:53:30 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNSGUzczE3ZmdiSHRxbW5yY3hfcmVCWTc1aWV3MjdJQWhWc0ZtRXVJd01WVDM2eDBGLVVDMFJDeDM0V1lESFY2NW44NzZWUUJ3dV9tZXFzOGVmaUtRMTBKTlJ4WjAzT2gxRU10Sno"
         },
         {
           "headline": "Here's what advanced and failed in the Iowa Legislature's second deadline of 2026 - Iowa Public Radio",
@@ -3288,16 +3278,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZGNjT0NGYTgwM0szaGp1ZUZ5VURrNmJQYmp4eFBjWUpKWld3WHY1SVRaM1I0NXdKQ29PSGZZXzlBOGpXRHI0XzI2WEtKVzZpRXVKXzJKd1laTVh5TDVBZUJ1RWFNMWI1blRCR0x"
         },
         {
-          "headline": "Demolition scheduled for S Front Street blighted building - Action News 5",
-          "url": "https://www.actionnews5.com/2026/03/21/demolition-scheduled-s-front-street-blighted-building/",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Sat, 21 Mar 2026 03:11:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPc1hmRk9XU3F2cXRjT1JBZ05Wa1p3SDluZGFTNzRTaVRJZ05QX0lJM0tqUk9feVh0UkV4WTlwQjhncFNuSjlQOG0xcnFSb0N4TmdBOUNJQ1duUUVGdE1UdjEyclA2elVmY0lIbGp"
-        },
-        {
           "headline": "Montana nears deadline for landlords to avoid second-home tax - Montana Free Press",
           "url": "https://montanafreepress.org/2026/03/20/montana-nears-deadline-for-landlords-to-avoid-second-home-tax/",
           "source": "Daybook: Scheduled Events",
@@ -3306,6 +3286,16 @@
           "priority": "reference",
           "date": "Fri, 20 Mar 2026 19:18:06 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQcVBaUUJJbUVCS2RFVlZqRWVwU2ZYdWswRnVNQzFDRzFNU3dQeUp5RFZHb2xHV0gtVEFVVGJpUHVJM2ZkTW9CcHdrVDZKRU5wQ2Z6S2Q1c29HU0FlUnp5Tl9ObmtPa3kyWE1RcmN"
+        },
+        {
+          "headline": "Demolition scheduled for S Front Street blighted building - Action News 5",
+          "url": "https://www.actionnews5.com/2026/03/21/demolition-scheduled-s-front-street-blighted-building/",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Sat, 21 Mar 2026 03:11:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPc1hmRk9XU3F2cXRjT1JBZ05Wa1p3SDluZGFTNzRTaVRJZ05QX0lJM0tqUk9feVh0UkV4WTlwQjhncFNuSjlQOG0xcnFSb0N4TmdBOUNJQ1duUUVGdE1UdjEyclA2elVmY0lIbGp"
         },
         {
           "headline": "Scammers targeting tax refunds as deadline approaches, experts warn - ABC11 Raleigh-Durham",
@@ -3338,6 +3328,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQRG9GZ0JDSjhldXVjVk5BbVJxdS1FZy1QRGxzTklJVTBUZkp1Ri1DNEk2S20wbjFndHdGWjF2V09OajZDZmZFWVZmYmpIRnBqSU9qZ0I1OFMwamdJNm11QU5WMWw3S3ZfTE1JTWd"
         },
         {
+          "headline": "Takashi Miike’s Charli Xcx &amp; Milly Alcock Film Begins Shooting In Japan - deadline.com",
+          "url": "https://deadline.com/2026/03/charli-xcx-movie-in-japan-adds-hailey-gates-live-nation-1236761447/",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Fri, 20 Mar 2026 16:41:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQd2hGczQ3ZFBuNG5WMWpCWG53OVE5RjE4MDdlanBBY2drekxnc3RHTC00R1dxaGxpWG1XMGktb2M5Sm53NDJpLUZ1azU1VTAwSldCRXN5TzM0Wk91SmxHamVHSkpVYTdUSjZFN3V"
+        },
+        {
           "headline": "Chuck Norris Dies: ‘Walker, Texas Ranger’ Star &amp; Action Vet Was 86 - deadline.com",
           "url": "https://deadline.com/2026/03/chuck-norris-dead-walker-texas-ranger-star-was-86-1236761332/",
           "source": "Daybook: Scheduled Events",
@@ -3356,16 +3356,6 @@
           "priority": "reference",
           "date": "Fri, 20 Mar 2026 22:44:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPN0wtOUZfalAzaExIRDllbklhZ1VlczRyalhiYUpZbi1nQ2JtZ2c0WXl6bWR0UF9WVUFudzJCRU1RcExIMlcxb3RmeUE4SDNRNVVPVDE3TVFKbHJ5Y1JhejBfLW1DYVVlQXhOQUd"
-        },
-        {
-          "headline": "Warner Bros Lands AI-Themed ‘Playground’ For Timothée Chalamet &amp; Plan B - deadline.com",
-          "url": "https://deadline.com/2026/03/timothee-chalamet-plan-b-playground-warner-bros-ai-themed-1236761538/",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Fri, 20 Mar 2026 17:33:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQRXZNVlc3RC1vcHoyS1E1aFZrbk1BckZUNVZFWl9iMDVWQmZLcGN0eGN2X3Z6WmcyZ3VfaDFEaGZfWjU3V1R6Ujl0NWVWQXJINDVFOWQzUjcxS0NUYUo5R1RRM1YzMlg2RXNvTGd"
         }
       ]
     },
@@ -3505,7 +3495,7 @@
           "sourceId": "reuters_world",
           "category": "wire",
           "priority": "primary",
-          "date": "Sat, 21 Mar 2026 05:49:17 GMT",
+          "date": "Sat, 21 Mar 2026 05:49:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQaGNkcXRHZ05yR2g3aklseU9OWjRYWGVZVUtjVW9FSGpERkN4QmxjbmlJeTBfMlVVdVJGMjR6UWhkdnlULTZ1bi1xOXZOdGlEMHo0LXNZYXNJSmZxeldiTTh6a1BLSXpYSTAwN3N"
         },
         {
@@ -3535,7 +3525,7 @@
           "sourceId": "reuters_world",
           "category": "wire",
           "priority": "primary",
-          "date": "Sat, 21 Mar 2026 06:10:00 GMT",
+          "date": "Sat, 21 Mar 2026 06:10:28 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQWjBYMzVoUE1KWkdTMVpBSHoyQm5JZjBpVTF6MW16XzJsM1JiNEVuN1N2T1hKckF6ZWM5Z2ZzS1lrX2NCQkE2alV6cEhvNG55YTJ4U2FTU3QwYXJTOVpIbkplNGZjV05EaFhOWFp",
           "watchCandidate": true,
           "watchSignals": [
@@ -3596,16 +3586,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPVThQV2w3RUFSVU5YeThFdFVXMUxVYTN2elRyRk5vdG5MWWtLdUpRM2lERkNpd29wZkVjQlYwaWR4RTFvNm5zUUwyc0ptVHlsbXR5MVlCa1B3dkVIUzgyaEs5aFM5WFpiWTVJUnJ"
         },
         {
-          "headline": "Musk found liable to Twitter shareholders in fraud lawsuit over $44 billion takeover - Reuters",
-          "url": "https://www.reuters.com/sustainability/boards-policy-regulation/musk-found-liable-twitter-shareholders-fraud-lawsuit-over-44-billion-takeover-2026-03-20/",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Fri, 20 Mar 2026 22:27:30 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVDFsUmRBR2NpOGItTmpYR0ZyYThNLWFieFdhdDlkb1lsYzFzOVd2UGJsTXRFZFZsV0tPZUxzMFJBbFdOeWpGQlh2R1U1ZEx6MGdvdE5ZdEV0NmdjM0JRS1hmVjNtQ0VBX0pDVE1"
-        },
-        {
           "headline": "UN chief says he is cooperating with Trump’s Board of Peace on Gaza, Politico reports - Reuters",
           "url": "https://www.reuters.com/world/middle-east/un-chief-says-he-is-cooperating-with-trumps-board-peace-gaza-politico-reports-2026-03-21/",
           "source": "Reuters",
@@ -3614,6 +3594,16 @@
           "priority": "primary",
           "date": "Sat, 21 Mar 2026 04:44:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOMFl4b2tIWERjX2xweWdjakFLLVh5bjQzUkl4c3psblUwZnBfLVNPZzFVd2hpZU41ZmlJc05ST2VpVXBvaGU1ZVdBQTZmdTlaUDUwbTRrb0xXSXI5REhrSFVnN1czR2JQOHZCRG5"
+        },
+        {
+          "headline": "Musk found liable to Twitter shareholders in fraud lawsuit over $44 billion takeover - Reuters",
+          "url": "https://www.reuters.com/sustainability/boards-policy-regulation/musk-found-liable-twitter-shareholders-fraud-lawsuit-over-44-billion-takeover-2026-03-20/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Fri, 20 Mar 2026 22:27:30 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVDFsUmRBR2NpOGItTmpYR0ZyYThNLWFieFdhdDlkb1lsYzFzOVd2UGJsTXRFZFZsV0tPZUxzMFJBbFdOeWpGQlh2R1U1ZEx6MGdvdE5ZdEV0NmdjM0JRS1hmVjNtQ0VBX0pDVE1"
         },
         {
           "headline": "Trump says US getting close to meeting objectives in Iran war - Reuters",
@@ -3662,7 +3652,7 @@
           "sourceId": "bbc_world",
           "category": "general",
           "priority": "primary",
-          "date": "Sat, 21 Mar 2026 08:54:29 GMT",
+          "date": "Sat, 21 Mar 2026 10:34:53 GMT",
           "description": "Two children, aged 11 and 15 were also injured in the attack which took place in Zaporizhzhia.",
           "watchCandidate": true,
           "watchSignals": [
@@ -3740,7 +3730,7 @@
           "category": "general",
           "priority": "primary",
           "date": "Sat, 21 Mar 2026 04:42:46 GMT",
-          "description": "Brendon died of \"natural cases\", his family said in a statement, remembering him as \"passionate\" and \"sensitive\"."
+          "description": "Brendon died of \"natural causes\", his family said in a statement, remembering him as \"passionate\" and \"sensitive\"."
         },
         {
           "headline": "Norway's crown princess breaks silence, claiming she was 'manipulated and deceived' by Epstein",
@@ -4235,7 +4225,7 @@
           "sourceId": "nyt_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Sat, 21 Mar 2026 10:22:58 +0000",
+          "date": "Sat, 21 Mar 2026 10:34:38 +0000",
           "description": "The move reversed earlier efforts to impose “maximum pressure” on the country and reflected how little success the Trump administration has achieved in calming global markets."
         },
         {
@@ -4265,7 +4255,7 @@
           "sourceId": "nyt_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Sat, 21 Mar 2026 10:28:24 +0000",
+          "date": "Sat, 21 Mar 2026 10:47:22 +0000",
           "description": "K-pop’s biggest name will perform live in Seoul at 8 p.m. South Korea time (7 a.m. Eastern). The concert will be livestreamed by Netflix."
         },
         {
@@ -4669,6 +4659,86 @@
           "description": "Indian textile workers are returning home after days without cooking gas, as an LPG crisis linked to the Iran war."
         },
         {
+          "headline": "Tons of aid flows into Cuba as humanitarian convoy arrives on the island",
+          "url": "https://www.france24.com/en/tons-of-aid-flows-into-cuba-as-humanitarian-convoy-arrives-on-the-island",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Sat, 21 Mar 2026 10:44:04 GMT",
+          "description": ""
+        },
+        {
+          "headline": "No phone policy in schools in France: What are the benefits ?",
+          "url": "https://www.france24.com/en/no-phone-policy-in-schools-in-france-what-are-the-benefits",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Sat, 21 Mar 2026 10:40:00 GMT",
+          "description": ""
+        },
+        {
+          "headline": "BTS fans take over central Seoul for K-pop kings' big comeback",
+          "url": "https://www.france24.com/en/bts-fans-take-over-central-seoul-for-k-pop-kings-big-comeback",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Sat, 21 Mar 2026 10:38:01 GMT",
+          "description": ""
+        },
+        {
+          "headline": "Chuck Norris, roundhouse-kicking action star, has died at age 86",
+          "url": "https://www.france24.com/en/chuck-norris-roundhouse-kicking-action-star-has-died-at-age-86",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Sat, 21 Mar 2026 10:33:42 GMT",
+          "description": ""
+        },
+        {
+          "headline": "How Iran's Revolutionary Guards helped Hezbollah prepare for its latest war with Israel",
+          "url": "https://www.france24.com/en/middle-east/20260321-how-iran-revolutionary-guards-helped-hezbollah-prepare-for-its-latest-war-with-israel",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Sat, 21 Mar 2026 10:31:17 GMT",
+          "description": ""
+        },
+        {
+          "headline": "1st Nowruz celebrations in Syria: Governement vows to include Kurdish culture",
+          "url": "https://www.france24.com/en/1st-nowruz-celebrations-in-syria-governement-vows-to-include-kurdish-culture",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Sat, 21 Mar 2026 10:26:04 GMT",
+          "description": ""
+        },
+        {
+          "headline": "War in Ukraine: Russia drone strike blacks out Chernihiv city",
+          "url": "https://www.france24.com/en/war-in-ukraine-russia-drone-strike-blacks-out-chernihiv-city",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Sat, 21 Mar 2026 10:22:26 GMT",
+          "description": ""
+        },
+        {
+          "headline": "US deploys more troops to Mideast as Trump considers ‘winding down’ operations",
+          "url": "https://www.france24.com/en/us-deploys-more-troops-to-mideast-as-trump-considers-winding-down-operations",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Sat, 21 Mar 2026 10:14:57 GMT",
+          "description": ""
+        },
+        {
           "headline": "Ligue 1: Lens Run Riot Against Angers (5-1) to Reclaim Top Spot",
           "url": "https://www.france24.com/en/sport/20260321-ligue-1-lens-run-riot-against-angers-5-1-to-reclaim-top-spot",
           "source": "France24",
@@ -4737,86 +4807,6 @@
           "priority": "secondary",
           "date": "Fri, 20 Mar 2026 22:07:53 GMT",
           "description": ""
-        },
-        {
-          "headline": "US prosecutors investigate Colombia’s Petro over suspected ties to drug traffickers",
-          "url": "https://www.france24.com/en/americas/20260320-colombia-president-gustavo-petro-under-investigation-us-prosecutors-drug-trafficking",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Fri, 20 Mar 2026 21:45:04 GMT",
-          "description": ""
-        },
-        {
-          "headline": "Iran: The ‘Mosaic Doctrine’, Zelensky V Orban, Hungary-splaining",
-          "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20260320-iran-the-mosaic-doctrine-zelensky-v-orban-hungary-splaining",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Fri, 20 Mar 2026 19:39:07 GMT",
-          "description": ""
-        },
-        {
-          "headline": "A spiralling energy crisis: Strikes on gas, oil sites have sent prices soaring again",
-          "url": "https://www.france24.com/en/tv-shows/spotlight/20260320-a-spiralling-energy-crisis-strikes-on-gas-oil-sites-have-sent-prices-soaring-again",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Fri, 20 Mar 2026 19:26:58 GMT",
-          "description": ""
-        },
-        {
-          "headline": "No, Iran didn't publish a 'list' of 11 American cities to target",
-          "url": "https://www.france24.com/en/americas/20260320-iran-did-not-publish-list-american-cities-target",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Fri, 20 Mar 2026 17:49:09 GMT",
-          "description": ""
-        },
-        {
-          "headline": "'Polish populists have decided to turn anti-European': Warsaw mayor Rafal Trzaskowski",
-          "url": "https://www.france24.com/en/tv-shows/talking-europe/20260320-polish-populists-have-decided-to-turn-anti-european-warsaw-mayor-rafal-trzaskowski",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Fri, 20 Mar 2026 17:44:16 GMT",
-          "description": ""
-        },
-        {
-          "headline": "Action film star Chuck Norris dies, aged 86",
-          "url": "https://www.france24.com/en/video/20260320-action-film-star-chuck-norris-dies-aged-86",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Fri, 20 Mar 2026 17:16:29 GMT",
-          "description": ""
-        },
-        {
-          "headline": "Flights, petrol cars and cruise ships: Amsterdam bans fossil fuel ads",
-          "url": "https://www.france24.com/en/tv-shows/down-to-earth/20260320-flights-petrol-cars-and-cruise-ships-amsterdam-bans-fossil-fuel-ads",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Fri, 20 Mar 2026 17:14:39 GMT",
-          "description": ""
-        },
-        {
-          "headline": "Myth of liberation: As war rages, trapped Iranians 'curse' the regime, the Americans & the Israelis",
-          "url": "https://www.france24.com/en/myth-of-liberation-as-war-rages-trapped-iranians-curse-the-regime-the-americans-the-israelis",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Fri, 20 Mar 2026 16:37:34 GMT",
-          "description": ""
         }
       ],
       "tertiary": [],
@@ -4870,16 +4860,6 @@
           "priority": "reference",
           "date": "Fri, 20 Mar 2026 04:15:27 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5jNmhTQ3JZbjR2LVZmaXo1OG9HT1VQVDNzVWRwVVg5cXV3VnZKb3ZOX0ZucU93aWN4VnZRSjQ4aVhUaXhMZjZJTEVvNXIwbVFDaE1NMmdHWnQ3TWNJMTNrRzBiUTFpdmNSZmc?oc="
-        },
-        {
-          "headline": "G20 (Group of 20) | History &amp; Members - Britannica",
-          "url": "https://www.britannica.com/topic/Group-of-20",
-          "source": "Daybook: International Events",
-          "sourceId": "daybook_intl",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Mon, 16 Mar 2026 05:00:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9IYW10UEFKaXZCd2pHd2c1V3RHc05SLTJIWmlCMWc0TjlONXRmZUF3N1l1NjNXWnRHcm5FUHNtR1ktM1N3N29Dckt2WHdWdGtDd2t1NW9sWQ?oc=5\" target=\"_blank\"&gt;G20"
         },
         {
           "headline": "INTERPOL-UNODC global summit ends with call to action against fraud surge - Interpol",
@@ -4962,6 +4942,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOb1pyVk1sR1NkT2lVR3I1S2wwUi1OelZ1YUFyOXprVzlzN1Q5MHZHY2FpWGNmdXk5VG9PV1lfTHRJSTJtTFA4MkVfY3hwYUlNa0lNUWtmSkdjR3dUWkZNaW5oUnNjdTlEUm9lNV9"
         },
         {
+          "headline": "Trump-Xi summit delayed as U.S. president pushes China to help open Hormuz - The Washington Post",
+          "url": "chrome-error://chromewebdata/",
+          "source": "Daybook: International Events",
+          "sourceId": "daybook_intl",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Tue, 17 Mar 2026 05:09:26 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbDM1cFRzVTdadVJiZnpWNE9MRzlnUkpvWVc4Zm5DRnZMdjVnUzRUTTNqSHdpSDBjSVBIUzVRMEhtNXZ4M0NqdFhrZ0NHU2tDTWRqazZoZnI4bW5tWnE1Wmd1OERjRHFKRmdUa3V"
+        },
+        {
           "headline": "14 things we learned at the EU leaders’ summit - politico.eu",
           "url": "https://www.politico.eu/article/eu-leaders-summit-15-things-we-learned-economy-ukraine-loan-viktor-orban-hungary/",
           "source": "Daybook: International Events",
@@ -4983,23 +4973,13 @@
         },
         {
           "headline": "The Fed issues its latest interest rate decision Wednesday. Here's what to expect - CNBC",
-          "url": "https://www.cnbc.com/2026/03/17/the-fed-issues-its-latest-interest-rate-decision-wednesday-heres-what-to-expect.html",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTW93UnBleWM5TGFiODl3NEN1NlNsb2xTUzd2ek9COGg2aUdOQVY0cGc3dXJuRVBnc3N3VHBkdUhoWExqN2hXTHNlekRLX2ZFWmd6MTc4Z2toWkotek5Xc1FMNmZwUW5zTENSR3N5Q3o3blZHc2xpOHdkU2xLeEhMQ21pSU0wOTdOLW0zN3NCaFFVVFBvcTU2eThUQThvZGVUWU9JcDdxZUE3VUZNTC1BZ2s2N08tXzDSAbwBQVVfeXFMUEFkdEk0Rmtad3BTQVdCckl6RXdaSXZFbXpJTlRKTFB6RnZDR21ta3BTdG5TbVNZRG5tV1ZLNWVKNzZaeUdXNExkUmFCZU5wQ3M3NDlBWExla3pGdTdaeERNMzU2XzJMUTBuSWtrYjNCa0l3ZDZOZTZuVGtPcFJFaVdPUVRuLVFfTEsyZ252Q2IxYko5NmY4OTVzMnoyX0hNQ1RadnBkbVFOWUJTeFFIODd0VGRvY1RGOVBYZkY?oc=5",
           "source": "Daybook: Economic Calendar",
           "sourceId": "daybook_econ",
           "category": "daybook",
           "priority": "reference",
           "date": "Tue, 17 Mar 2026 18:58:28 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOTW93UnBleWM5TGFiODl3NEN1NlNsb2xTUzd2ek9COGg2aUdOQVY0cGc3dXJuRVBnc3N3VHBkdUhoWExqN2hXTHNlekRLX2ZFWmd6MTc4Z2toWkotek5Xc1FMNmZwUW5zTENSR3N"
-        },
-        {
-          "headline": "WATCH: Fed Chair Powell holds news briefing after interest rate left unchanged - PBS",
-          "url": "https://www.pbs.org/newshour/economy/watch-live-fed-chair-powell-holds-news-briefing-after-latest-interest-rate-decision",
-          "source": "Daybook: Economic Calendar",
-          "sourceId": "daybook_econ",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Wed, 18 Mar 2026 14:23:50 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxObmE2Rm5TNnFlVmNSODAwcFBnekVlTWJHekl5VWEwRzB5UTlxSXNMYUlOTnozX2ZjZ01hZENCTkZPc0ZmOTA2NDVxelFYRVd0Q1BkQ29QeUpHM3YtbTU5aHY1Y2o3M0tmcjdRNTZ"
         },
         {
           "headline": "Embedded | 2026 Trade Deadline - NHL.com",
@@ -5020,6 +5000,26 @@
           "priority": "reference",
           "date": "Tue, 17 Mar 2026 22:28:20 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOSUNyQUJUQUFkZUNkN1Jhd2UtUFVzTEJfV0hWakxnLVV6X0lKVktab1RVSl9ESDF2V1hRYlgxa2tOdEhlb1JMNVdfYVl1WS15RW45MUJZa0V0RHdjVGFjMDVCX21XMWJaNFZUQUF"
+        },
+        {
+          "headline": "WATCH: Fed Chair Powell holds news briefing after interest rate left unchanged - PBS",
+          "url": "https://www.pbs.org/newshour/economy/watch-live-fed-chair-powell-holds-news-briefing-after-latest-interest-rate-decision",
+          "source": "Daybook: Economic Calendar",
+          "sourceId": "daybook_econ",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Wed, 18 Mar 2026 14:23:50 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxObmE2Rm5TNnFlVmNSODAwcFBnekVlTWJHekl5VWEwRzB5UTlxSXNMYUlOTnozX2ZjZ01hZENCTkZPc0ZmOTA2NDVxelFYRVd0Q1BkQ29QeUpHM3YtbTU5aHY1Y2o3M0tmcjdRNTZ"
+        },
+        {
+          "headline": "Taking Stock - Fed rate decision, March 18, 2026 - Empower",
+          "url": "https://www.empower.com/investment-insights/trends/taking-stock-fed-rate-decision-march-18-2026",
+          "source": "Daybook: Economic Calendar",
+          "sourceId": "daybook_econ",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Wed, 18 Mar 2026 07:00:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPVVZnYmx5cXhpOGNPTElNR1VXV2c5eHVDMXlsS0NMdTBNY2FrNjJHbDZvN01BUGpkdE1KZFJKd2dNU1VTUGlXWWhDMEthQnJHM2ZDNEQ2Y0EwdUp5ZWd2cWtJNnUwZzBRSEJMUlV"
         },
         {
           "headline": "Fed issues latest rate decision amid geopolitical turmoil - mpamag.com",
@@ -5092,16 +5092,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE8tN1dOWktQSFlYNHFWUnFTOS1jWXA2dnVTV3BsQy1HVVZtZlk3U0pua0xmRkc2cUI2R01IU2daMjNENEUydFFQY2FkRnExUDJaRU1GUXN5SU0zTzhTdHVXY1pJSUYzRjRUdm5tRUZ"
         },
         {
-          "headline": "A critical Fed meeting, $100 oil, and Micron earnings: What to watch this week - Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/a-critical-fed-meeting-100-oil-and-micron-earnings-what-to-watch-this-week-113002550.html",
-          "source": "Daybook: Economic Calendar",
-          "sourceId": "daybook_econ",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Sun, 15 Mar 2026 19:54:12 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOODV2Mmlyd2FsWjBPRWdpdi1ILXN6NWZqYWlNd3MtZFgtLUZaMTB5VGpxNXViMVhNbmg1clNHaUd4MWRwMzdDVW0zSFpZVGFSNi1XcEdURGQxNmp2QVlYNXVJNVhVd2x0dHNHMTR"
-        },
-        {
           "headline": "Lululemon posts revenue, EPS beat in earnings report - CNBC",
           "url": "https://www.cnbc.com/video/2026/03/17/lululemon-posts-revenue-eps-beat-in-earnings-report.html",
           "source": "Daybook: Economic Calendar",
@@ -5112,14 +5102,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQbzlfYi1IanAwdEh5eEV6SHZITFd1cU9SQ2xERnBZRnBxNk4tQ3M1aUlFbTctWTJUNHBZZGlyVnpkWWNFdENLeUZ1Wno3X0RPbGRFZjVGVFRmX0U4LV9nTDQyREtBVFBPdTQxNnV"
         },
         {
-          "headline": "After trade deadline ‘disappointment,’ can this still be the Carolina Hurricanes’ year? - The Athletic - The New York Times",
-          "url": "https://www.nytimes.com/athletic/7131389/2026/03/20/carolina-hurricanes-playoffs-stanley-cup/",
+          "headline": "Impact of rising fuel costs on Fed's interest rate decision - CBS News",
+          "url": "https://www.cbsnews.com/video/impact-of-rising-fuel-costs-on-feds-interest-rate-decision/",
           "source": "Daybook: Economic Calendar",
           "sourceId": "daybook_econ",
           "category": "daybook",
           "priority": "reference",
-          "date": "Fri, 20 Mar 2026 14:14:10 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOZWdUOW9WSDRVaTY1OHQ1MF9lZFdkc3RlbmZod1F5dnhNSFBmbzJIbGtQMHFBMHVxM3p5OFp4c0M5cHd5MTdiZ2N5Y3FwSVBRUlQ2dHZvNUpRSVBRNUpQdVZnSWp5Ym5BUzBVM0N"
+          "date": "Thu, 19 Mar 2026 13:04:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQNDl4RlVDNXhjRjA4Uld0VDNWa2VKajIwbzRXdTUwUFl4UlhBQTU5UUlNa1ZDTWhCT05fRndPYjFZT2R2cVBBbUZncVJiNUtGVUVlQkxxdzVKMkhiend3RldpTzl5M1ljVWE2blZ"
         },
         {
           "headline": "‘The Last Of Us’ Adds Michelle Mao As Yara &amp; Kyriana Kratter As Lev For Season 3 Of HBO Series - deadline.com",
@@ -5143,7 +5133,7 @@
         },
         {
           "headline": "Women's Rowing Set to Begin Spring Season - High Point University Athletics",
-          "url": "https://highpointpanthers.com/news/2026/3/20/womens-rowing-set-to-begin-spring-season.aspx",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU2lUZDJ0dW9uQ012Ymh2cUFYN1pIcFV2VkEwaVZyS3dHYjlLdFNkdE9NYzVpOEdKeEdRcEpXb1F2U2tVQ3RwbG01ZVJ6eDBNd2tDRmpvTUprX0RvTUlUWmxuVWl5bkJ5YUltZnowVmFxVE1VeXJpZVhwWGpOdWZUdU5VVUp0Y0hDZEd6VFpoYjB5bWdf?oc=5",
           "source": "Daybook: Scheduled Events",
           "sourceId": "daybook_scheduled",
           "category": "daybook",
@@ -5162,16 +5152,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNRGpFVDRLNTJmdVpfWU1YTjhLb1pjOWRzNkFNU1l3emdCcThXWWp6bmZGdnRXQXRRb3Q4QThzNjJiUXhBQ3MzdGpqM0g0S2RxdnppQ2loaUhnNzVfajRhV3JKcG9CcnF6QzZHT1p"
         },
         {
-          "headline": "Michigan Legislature Announces Commitment to Pass the IMLC Before March 28 Deadline - Michigan Health &amp; Hospital Association",
-          "url": "https://www.mha.org/newsroom/michigan-legislature-announces-commitment-to-pass-the-imlc-before-march-28-deadline/",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Fri, 20 Mar 2026 16:53:30 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNSGUzczE3ZmdiSHRxbW5yY3hfcmVCWTc1aWV3MjdJQWhWc0ZtRXVJd01WVDM2eDBGLVVDMFJDeDM0V1lESFY2NW44NzZWUUJ3dV9tZXFzOGVmaUtRMTBKTlJ4WjAzT2gxRU10Sno"
-        },
-        {
           "headline": "Amazon MGM Studios’ ‘Project Hail Mary’ is shooting for a massive $31M today (including previews) and the best opening of 2026 so far with $71.1M at 4,007 runs. That’s also the best opening ever for an Amazon MGM Studios movie. Full details in our box off - Facebook",
           "url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fdeadline%2Fphotos%2Famazon-mgm-studios-project-hail-mary-is-shooting-for-a-massive-31m-today-includi%2F1291590432841294%2F",
           "source": "Daybook: Scheduled Events",
@@ -5180,6 +5160,16 @@
           "priority": "reference",
           "date": "Sat, 21 Mar 2026 08:53:16 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWFRCNWxVVEZwb0h3bERQbTltek9zQ0tUeEhGOFRDSHBpeUdxaFoyZnF6Rm5LbHJZOVdMUktkMGt3N3FnQTNpZ19Ba1lGNUFaWGZMSHRZNzdIc2NQZVN3VmxMazBVZFNoeDhIMDB"
+        },
+        {
+          "headline": "Michigan Legislature Announces Commitment to Pass the IMLC Before March 28 Deadline - Michigan Health &amp; Hospital Association",
+          "url": "https://www.mha.org/newsroom/michigan-legislature-announces-commitment-to-pass-the-imlc-before-march-28-deadline/",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Fri, 20 Mar 2026 16:53:30 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNSGUzczE3ZmdiSHRxbW5yY3hfcmVCWTc1aWV3MjdJQWhWc0ZtRXVJd01WVDM2eDBGLVVDMFJDeDM0V1lESFY2NW44NzZWUUJ3dV9tZXFzOGVmaUtRMTBKTlJ4WjAzT2gxRU10Sno"
         },
         {
           "headline": "Here's what advanced and failed in the Iowa Legislature's second deadline of 2026 - Iowa Public Radio",
@@ -5192,16 +5182,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZGNjT0NGYTgwM0szaGp1ZUZ5VURrNmJQYmp4eFBjWUpKWld3WHY1SVRaM1I0NXdKQ29PSGZZXzlBOGpXRHI0XzI2WEtKVzZpRXVKXzJKd1laTVh5TDVBZUJ1RWFNMWI1blRCR0x"
         },
         {
-          "headline": "Demolition scheduled for S Front Street blighted building - Action News 5",
-          "url": "https://www.actionnews5.com/2026/03/21/demolition-scheduled-s-front-street-blighted-building/",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Sat, 21 Mar 2026 03:11:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPc1hmRk9XU3F2cXRjT1JBZ05Wa1p3SDluZGFTNzRTaVRJZ05QX0lJM0tqUk9feVh0UkV4WTlwQjhncFNuSjlQOG0xcnFSb0N4TmdBOUNJQ1duUUVGdE1UdjEyclA2elVmY0lIbGp"
-        },
-        {
           "headline": "Montana nears deadline for landlords to avoid second-home tax - Montana Free Press",
           "url": "https://montanafreepress.org/2026/03/20/montana-nears-deadline-for-landlords-to-avoid-second-home-tax/",
           "source": "Daybook: Scheduled Events",
@@ -5210,6 +5190,16 @@
           "priority": "reference",
           "date": "Fri, 20 Mar 2026 19:18:06 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQcVBaUUJJbUVCS2RFVlZqRWVwU2ZYdWswRnVNQzFDRzFNU3dQeUp5RFZHb2xHV0gtVEFVVGJpUHVJM2ZkTW9CcHdrVDZKRU5wQ2Z6S2Q1c29HU0FlUnp5Tl9ObmtPa3kyWE1RcmN"
+        },
+        {
+          "headline": "Demolition scheduled for S Front Street blighted building - Action News 5",
+          "url": "https://www.actionnews5.com/2026/03/21/demolition-scheduled-s-front-street-blighted-building/",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Sat, 21 Mar 2026 03:11:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPc1hmRk9XU3F2cXRjT1JBZ05Wa1p3SDluZGFTNzRTaVRJZ05QX0lJM0tqUk9feVh0UkV4WTlwQjhncFNuSjlQOG0xcnFSb0N4TmdBOUNJQ1duUUVGdE1UdjEyclA2elVmY0lIbGp"
         },
         {
           "headline": "Scammers targeting tax refunds as deadline approaches, experts warn - ABC11 Raleigh-Durham",
@@ -5242,6 +5232,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQRG9GZ0JDSjhldXVjVk5BbVJxdS1FZy1QRGxzTklJVTBUZkp1Ri1DNEk2S20wbjFndHdGWjF2V09OajZDZmZFWVZmYmpIRnBqSU9qZ0I1OFMwamdJNm11QU5WMWw3S3ZfTE1JTWd"
         },
         {
+          "headline": "Takashi Miike’s Charli Xcx &amp; Milly Alcock Film Begins Shooting In Japan - deadline.com",
+          "url": "https://deadline.com/2026/03/charli-xcx-movie-in-japan-adds-hailey-gates-live-nation-1236761447/",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Fri, 20 Mar 2026 16:41:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQd2hGczQ3ZFBuNG5WMWpCWG53OVE5RjE4MDdlanBBY2drekxnc3RHTC00R1dxaGxpWG1XMGktb2M5Sm53NDJpLUZ1azU1VTAwSldCRXN5TzM0Wk91SmxHamVHSkpVYTdUSjZFN3V"
+        },
+        {
           "headline": "Chuck Norris Dies: ‘Walker, Texas Ranger’ Star &amp; Action Vet Was 86 - deadline.com",
           "url": "https://deadline.com/2026/03/chuck-norris-dead-walker-texas-ranger-star-was-86-1236761332/",
           "source": "Daybook: Scheduled Events",
@@ -5260,16 +5260,6 @@
           "priority": "reference",
           "date": "Fri, 20 Mar 2026 22:44:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPN0wtOUZfalAzaExIRDllbklhZ1VlczRyalhiYUpZbi1nQ2JtZ2c0WXl6bWR0UF9WVUFudzJCRU1RcExIMlcxb3RmeUE4SDNRNVVPVDE3TVFKbHJ5Y1JhejBfLW1DYVVlQXhOQUd"
-        },
-        {
-          "headline": "Warner Bros Lands AI-Themed ‘Playground’ For Timothée Chalamet &amp; Plan B - deadline.com",
-          "url": "https://deadline.com/2026/03/timothee-chalamet-plan-b-playground-warner-bros-ai-themed-1236761538/",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Fri, 20 Mar 2026 17:33:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQRXZNVlc3RC1vcHoyS1E1aFZrbk1BckZUNVZFWl9iMDVWQmZLcGN0eGN2X3Z6WmcyZ3VfaDFEaGZfWjU3V1R6Ujl0NWVWQXJINDVFOWQzUjcxS0NUYUo5R1RRM1YzMlg2RXNvTGd"
         }
       ]
     }
@@ -5324,16 +5314,6 @@
       "priority": "reference",
       "date": "Fri, 20 Mar 2026 04:15:27 GMT",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5jNmhTQ3JZbjR2LVZmaXo1OG9HT1VQVDNzVWRwVVg5cXV3VnZKb3ZOX0ZucU93aWN4VnZRSjQ4aVhUaXhMZjZJTEVvNXIwbVFDaE1NMmdHWnQ3TWNJMTNrRzBiUTFpdmNSZmc?oc="
-    },
-    {
-      "headline": "G20 (Group of 20) | History &amp; Members - Britannica",
-      "url": "https://www.britannica.com/topic/Group-of-20",
-      "source": "Daybook: International Events",
-      "sourceId": "daybook_intl",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Mon, 16 Mar 2026 05:00:00 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9IYW10UEFKaXZCd2pHd2c1V3RHc05SLTJIWmlCMWc0TjlONXRmZUF3N1l1NjNXWnRHcm5FUHNtR1ktM1N3N29Dckt2WHdWdGtDd2t1NW9sWQ?oc=5\" target=\"_blank\"&gt;G20"
     },
     {
       "headline": "INTERPOL-UNODC global summit ends with call to action against fraud surge - Interpol",
@@ -5416,6 +5396,16 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOb1pyVk1sR1NkT2lVR3I1S2wwUi1OelZ1YUFyOXprVzlzN1Q5MHZHY2FpWGNmdXk5VG9PV1lfTHRJSTJtTFA4MkVfY3hwYUlNa0lNUWtmSkdjR3dUWkZNaW5oUnNjdTlEUm9lNV9"
     },
     {
+      "headline": "Trump-Xi summit delayed as U.S. president pushes China to help open Hormuz - The Washington Post",
+      "url": "chrome-error://chromewebdata/",
+      "source": "Daybook: International Events",
+      "sourceId": "daybook_intl",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Tue, 17 Mar 2026 05:09:26 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbDM1cFRzVTdadVJiZnpWNE9MRzlnUkpvWVc4Zm5DRnZMdjVnUzRUTTNqSHdpSDBjSVBIUzVRMEhtNXZ4M0NqdFhrZ0NHU2tDTWRqazZoZnI4bW5tWnE1Wmd1OERjRHFKRmdUa3V"
+    },
+    {
       "headline": "14 things we learned at the EU leaders’ summit - politico.eu",
       "url": "https://www.politico.eu/article/eu-leaders-summit-15-things-we-learned-economy-ukraine-loan-viktor-orban-hungary/",
       "source": "Daybook: International Events",
@@ -5437,23 +5427,13 @@
     },
     {
       "headline": "The Fed issues its latest interest rate decision Wednesday. Here's what to expect - CNBC",
-      "url": "https://www.cnbc.com/2026/03/17/the-fed-issues-its-latest-interest-rate-decision-wednesday-heres-what-to-expect.html",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTW93UnBleWM5TGFiODl3NEN1NlNsb2xTUzd2ek9COGg2aUdOQVY0cGc3dXJuRVBnc3N3VHBkdUhoWExqN2hXTHNlekRLX2ZFWmd6MTc4Z2toWkotek5Xc1FMNmZwUW5zTENSR3N5Q3o3blZHc2xpOHdkU2xLeEhMQ21pSU0wOTdOLW0zN3NCaFFVVFBvcTU2eThUQThvZGVUWU9JcDdxZUE3VUZNTC1BZ2s2N08tXzDSAbwBQVVfeXFMUEFkdEk0Rmtad3BTQVdCckl6RXdaSXZFbXpJTlRKTFB6RnZDR21ta3BTdG5TbVNZRG5tV1ZLNWVKNzZaeUdXNExkUmFCZU5wQ3M3NDlBWExla3pGdTdaeERNMzU2XzJMUTBuSWtrYjNCa0l3ZDZOZTZuVGtPcFJFaVdPUVRuLVFfTEsyZ252Q2IxYko5NmY4OTVzMnoyX0hNQ1RadnBkbVFOWUJTeFFIODd0VGRvY1RGOVBYZkY?oc=5",
       "source": "Daybook: Economic Calendar",
       "sourceId": "daybook_econ",
       "category": "daybook",
       "priority": "reference",
       "date": "Tue, 17 Mar 2026 18:58:28 GMT",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOTW93UnBleWM5TGFiODl3NEN1NlNsb2xTUzd2ek9COGg2aUdOQVY0cGc3dXJuRVBnc3N3VHBkdUhoWExqN2hXTHNlekRLX2ZFWmd6MTc4Z2toWkotek5Xc1FMNmZwUW5zTENSR3N"
-    },
-    {
-      "headline": "WATCH: Fed Chair Powell holds news briefing after interest rate left unchanged - PBS",
-      "url": "https://www.pbs.org/newshour/economy/watch-live-fed-chair-powell-holds-news-briefing-after-latest-interest-rate-decision",
-      "source": "Daybook: Economic Calendar",
-      "sourceId": "daybook_econ",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Wed, 18 Mar 2026 14:23:50 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxObmE2Rm5TNnFlVmNSODAwcFBnekVlTWJHekl5VWEwRzB5UTlxSXNMYUlOTnozX2ZjZ01hZENCTkZPc0ZmOTA2NDVxelFYRVd0Q1BkQ29QeUpHM3YtbTU5aHY1Y2o3M0tmcjdRNTZ"
     },
     {
       "headline": "Embedded | 2026 Trade Deadline - NHL.com",
@@ -5466,14 +5446,24 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQTlhEY2ZoUWJPSUdRU3FNMm9vUGw4OURiVXNwR0JSSGIxWkRCV3hRaUhWQlZITUJsdnYydWJrUklmTkJ1X1p5RW9HNGREVnhUT0hVQXdfczBmZFdkbnh1ZEdKamg2VlFrTmxDbmU"
     },
     {
-      "headline": "Equities extend rebound as Fed meeting begins. - CME Group",
-      "url": "chrome-error://chromewebdata/",
+      "headline": "WATCH: Fed Chair Powell holds news briefing after interest rate left unchanged - PBS",
+      "url": "https://www.pbs.org/newshour/economy/watch-live-fed-chair-powell-holds-news-briefing-after-latest-interest-rate-decision",
       "source": "Daybook: Economic Calendar",
       "sourceId": "daybook_econ",
       "category": "daybook",
       "priority": "reference",
-      "date": "Tue, 17 Mar 2026 22:28:20 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOSUNyQUJUQUFkZUNkN1Jhd2UtUFVzTEJfV0hWakxnLVV6X0lKVktab1RVSl9ESDF2V1hRYlgxa2tOdEhlb1JMNVdfYVl1WS15RW45MUJZa0V0RHdjVGFjMDVCX21XMWJaNFZUQUF"
+      "date": "Wed, 18 Mar 2026 14:23:50 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxObmE2Rm5TNnFlVmNSODAwcFBnekVlTWJHekl5VWEwRzB5UTlxSXNMYUlOTnozX2ZjZ01hZENCTkZPc0ZmOTA2NDVxelFYRVd0Q1BkQ29QeUpHM3YtbTU5aHY1Y2o3M0tmcjdRNTZ"
+    },
+    {
+      "headline": "Taking Stock - Fed rate decision, March 18, 2026 - Empower",
+      "url": "https://www.empower.com/investment-insights/trends/taking-stock-fed-rate-decision-march-18-2026",
+      "source": "Daybook: Economic Calendar",
+      "sourceId": "daybook_econ",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Wed, 18 Mar 2026 07:00:00 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPVVZnYmx5cXhpOGNPTElNR1VXV2c5eHVDMXlsS0NMdTBNY2FrNjJHbDZvN01BUGpkdE1KZFJKd2dNU1VTUGlXWWhDMEthQnJHM2ZDNEQ2Y0EwdUp5ZWd2cWtJNnUwZzBRSEJMUlV"
     },
     {
       "headline": "Fed issues latest rate decision amid geopolitical turmoil - mpamag.com",
@@ -5526,16 +5516,6 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE8tN1dOWktQSFlYNHFWUnFTOS1jWXA2dnVTV3BsQy1HVVZtZlk3U0pua0xmRkc2cUI2R01IU2daMjNENEUydFFQY2FkRnExUDJaRU1GUXN5SU0zTzhTdHVXY1pJSUYzRjRUdm5tRUZ"
     },
     {
-      "headline": "A critical Fed meeting, $100 oil, and Micron earnings: What to watch this week - Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/a-critical-fed-meeting-100-oil-and-micron-earnings-what-to-watch-this-week-113002550.html",
-      "source": "Daybook: Economic Calendar",
-      "sourceId": "daybook_econ",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Sun, 15 Mar 2026 19:54:12 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOODV2Mmlyd2FsWjBPRWdpdi1ILXN6NWZqYWlNd3MtZFgtLUZaMTB5VGpxNXViMVhNbmg1clNHaUd4MWRwMzdDVW0zSFpZVGFSNi1XcEdURGQxNmp2QVlYNXVJNVhVd2x0dHNHMTR"
-    },
-    {
       "headline": "Lululemon posts revenue, EPS beat in earnings report - CNBC",
       "url": "https://www.cnbc.com/video/2026/03/17/lululemon-posts-revenue-eps-beat-in-earnings-report.html",
       "source": "Daybook: Economic Calendar",
@@ -5546,14 +5526,14 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQbzlfYi1IanAwdEh5eEV6SHZITFd1cU9SQ2xERnBZRnBxNk4tQ3M1aUlFbTctWTJUNHBZZGlyVnpkWWNFdENLeUZ1Wno3X0RPbGRFZjVGVFRmX0U4LV9nTDQyREtBVFBPdTQxNnV"
     },
     {
-      "headline": "After trade deadline ‘disappointment,’ can this still be the Carolina Hurricanes’ year? - The Athletic - The New York Times",
-      "url": "https://www.nytimes.com/athletic/7131389/2026/03/20/carolina-hurricanes-playoffs-stanley-cup/",
+      "headline": "Impact of rising fuel costs on Fed's interest rate decision - CBS News",
+      "url": "https://www.cbsnews.com/video/impact-of-rising-fuel-costs-on-feds-interest-rate-decision/",
       "source": "Daybook: Economic Calendar",
       "sourceId": "daybook_econ",
       "category": "daybook",
       "priority": "reference",
-      "date": "Fri, 20 Mar 2026 14:14:10 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOZWdUOW9WSDRVaTY1OHQ1MF9lZFdkc3RlbmZod1F5dnhNSFBmbzJIbGtQMHFBMHVxM3p5OFp4c0M5cHd5MTdiZ2N5Y3FwSVBRUlQ2dHZvNUpRSVBRNUpQdVZnSWp5Ym5BUzBVM0N"
+      "date": "Thu, 19 Mar 2026 13:04:00 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQNDl4RlVDNXhjRjA4Uld0VDNWa2VKajIwbzRXdTUwUFl4UlhBQTU5UUlNa1ZDTWhCT05fRndPYjFZT2R2cVBBbUZncVJiNUtGVUVlQkxxdzVKMkhiend3RldpTzl5M1ljVWE2blZ"
     },
     {
       "headline": "‘The Last Of Us’ Adds Michelle Mao As Yara &amp; Kyriana Kratter As Lev For Season 3 Of HBO Series - deadline.com",
@@ -5577,7 +5557,7 @@
     },
     {
       "headline": "Women's Rowing Set to Begin Spring Season - High Point University Athletics",
-      "url": "https://highpointpanthers.com/news/2026/3/20/womens-rowing-set-to-begin-spring-season.aspx",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU2lUZDJ0dW9uQ012Ymh2cUFYN1pIcFV2VkEwaVZyS3dHYjlLdFNkdE9NYzVpOEdKeEdRcEpXb1F2U2tVQ3RwbG01ZVJ6eDBNd2tDRmpvTUprX0RvTUlUWmxuVWl5bkJ5YUltZnowVmFxVE1VeXJpZVhwWGpOdWZUdU5VVUp0Y0hDZEd6VFpoYjB5bWdf?oc=5",
       "source": "Daybook: Scheduled Events",
       "sourceId": "daybook_scheduled",
       "category": "daybook",
@@ -5596,16 +5576,6 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNRGpFVDRLNTJmdVpfWU1YTjhLb1pjOWRzNkFNU1l3emdCcThXWWp6bmZGdnRXQXRRb3Q4QThzNjJiUXhBQ3MzdGpqM0g0S2RxdnppQ2loaUhnNzVfajRhV3JKcG9CcnF6QzZHT1p"
     },
     {
-      "headline": "Michigan Legislature Announces Commitment to Pass the IMLC Before March 28 Deadline - Michigan Health &amp; Hospital Association",
-      "url": "https://www.mha.org/newsroom/michigan-legislature-announces-commitment-to-pass-the-imlc-before-march-28-deadline/",
-      "source": "Daybook: Scheduled Events",
-      "sourceId": "daybook_scheduled",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Fri, 20 Mar 2026 16:53:30 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNSGUzczE3ZmdiSHRxbW5yY3hfcmVCWTc1aWV3MjdJQWhWc0ZtRXVJd01WVDM2eDBGLVVDMFJDeDM0V1lESFY2NW44NzZWUUJ3dV9tZXFzOGVmaUtRMTBKTlJ4WjAzT2gxRU10Sno"
-    },
-    {
       "headline": "Amazon MGM Studios’ ‘Project Hail Mary’ is shooting for a massive $31M today (including previews) and the best opening of 2026 so far with $71.1M at 4,007 runs. That’s also the best opening ever for an Amazon MGM Studios movie. Full details in our box off - Facebook",
       "url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fdeadline%2Fphotos%2Famazon-mgm-studios-project-hail-mary-is-shooting-for-a-massive-31m-today-includi%2F1291590432841294%2F",
       "source": "Daybook: Scheduled Events",
@@ -5614,6 +5584,16 @@
       "priority": "reference",
       "date": "Sat, 21 Mar 2026 08:53:16 GMT",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWFRCNWxVVEZwb0h3bERQbTltek9zQ0tUeEhGOFRDSHBpeUdxaFoyZnF6Rm5LbHJZOVdMUktkMGt3N3FnQTNpZ19Ba1lGNUFaWGZMSHRZNzdIc2NQZVN3VmxMazBVZFNoeDhIMDB"
+    },
+    {
+      "headline": "Michigan Legislature Announces Commitment to Pass the IMLC Before March 28 Deadline - Michigan Health &amp; Hospital Association",
+      "url": "https://www.mha.org/newsroom/michigan-legislature-announces-commitment-to-pass-the-imlc-before-march-28-deadline/",
+      "source": "Daybook: Scheduled Events",
+      "sourceId": "daybook_scheduled",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Fri, 20 Mar 2026 16:53:30 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNSGUzczE3ZmdiSHRxbW5yY3hfcmVCWTc1aWV3MjdJQWhWc0ZtRXVJd01WVDM2eDBGLVVDMFJDeDM0V1lESFY2NW44NzZWUUJ3dV9tZXFzOGVmaUtRMTBKTlJ4WjAzT2gxRU10Sno"
     },
     {
       "headline": "Here's what advanced and failed in the Iowa Legislature's second deadline of 2026 - Iowa Public Radio",
@@ -5626,16 +5606,6 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZGNjT0NGYTgwM0szaGp1ZUZ5VURrNmJQYmp4eFBjWUpKWld3WHY1SVRaM1I0NXdKQ29PSGZZXzlBOGpXRHI0XzI2WEtKVzZpRXVKXzJKd1laTVh5TDVBZUJ1RWFNMWI1blRCR0x"
     },
     {
-      "headline": "Demolition scheduled for S Front Street blighted building - Action News 5",
-      "url": "https://www.actionnews5.com/2026/03/21/demolition-scheduled-s-front-street-blighted-building/",
-      "source": "Daybook: Scheduled Events",
-      "sourceId": "daybook_scheduled",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Sat, 21 Mar 2026 03:11:00 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPc1hmRk9XU3F2cXRjT1JBZ05Wa1p3SDluZGFTNzRTaVRJZ05QX0lJM0tqUk9feVh0UkV4WTlwQjhncFNuSjlQOG0xcnFSb0N4TmdBOUNJQ1duUUVGdE1UdjEyclA2elVmY0lIbGp"
-    },
-    {
       "headline": "Montana nears deadline for landlords to avoid second-home tax - Montana Free Press",
       "url": "https://montanafreepress.org/2026/03/20/montana-nears-deadline-for-landlords-to-avoid-second-home-tax/",
       "source": "Daybook: Scheduled Events",
@@ -5644,6 +5614,16 @@
       "priority": "reference",
       "date": "Fri, 20 Mar 2026 19:18:06 GMT",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQcVBaUUJJbUVCS2RFVlZqRWVwU2ZYdWswRnVNQzFDRzFNU3dQeUp5RFZHb2xHV0gtVEFVVGJpUHVJM2ZkTW9CcHdrVDZKRU5wQ2Z6S2Q1c29HU0FlUnp5Tl9ObmtPa3kyWE1RcmN"
+    },
+    {
+      "headline": "Demolition scheduled for S Front Street blighted building - Action News 5",
+      "url": "https://www.actionnews5.com/2026/03/21/demolition-scheduled-s-front-street-blighted-building/",
+      "source": "Daybook: Scheduled Events",
+      "sourceId": "daybook_scheduled",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Sat, 21 Mar 2026 03:11:00 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPc1hmRk9XU3F2cXRjT1JBZ05Wa1p3SDluZGFTNzRTaVRJZ05QX0lJM0tqUk9feVh0UkV4WTlwQjhncFNuSjlQOG0xcnFSb0N4TmdBOUNJQ1duUUVGdE1UdjEyclA2elVmY0lIbGp"
     },
     {
       "headline": "Scammers targeting tax refunds as deadline approaches, experts warn - ABC11 Raleigh-Durham",
@@ -5676,6 +5656,16 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQRG9GZ0JDSjhldXVjVk5BbVJxdS1FZy1QRGxzTklJVTBUZkp1Ri1DNEk2S20wbjFndHdGWjF2V09OajZDZmZFWVZmYmpIRnBqSU9qZ0I1OFMwamdJNm11QU5WMWw3S3ZfTE1JTWd"
     },
     {
+      "headline": "Takashi Miike’s Charli Xcx &amp; Milly Alcock Film Begins Shooting In Japan - deadline.com",
+      "url": "https://deadline.com/2026/03/charli-xcx-movie-in-japan-adds-hailey-gates-live-nation-1236761447/",
+      "source": "Daybook: Scheduled Events",
+      "sourceId": "daybook_scheduled",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Fri, 20 Mar 2026 16:41:00 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQd2hGczQ3ZFBuNG5WMWpCWG53OVE5RjE4MDdlanBBY2drekxnc3RHTC00R1dxaGxpWG1XMGktb2M5Sm53NDJpLUZ1azU1VTAwSldCRXN5TzM0Wk91SmxHamVHSkpVYTdUSjZFN3V"
+    },
+    {
       "headline": "Chuck Norris Dies: ‘Walker, Texas Ranger’ Star &amp; Action Vet Was 86 - deadline.com",
       "url": "https://deadline.com/2026/03/chuck-norris-dead-walker-texas-ranger-star-was-86-1236761332/",
       "source": "Daybook: Scheduled Events",
@@ -5694,16 +5684,6 @@
       "priority": "reference",
       "date": "Fri, 20 Mar 2026 22:44:00 GMT",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPN0wtOUZfalAzaExIRDllbklhZ1VlczRyalhiYUpZbi1nQ2JtZ2c0WXl6bWR0UF9WVUFudzJCRU1RcExIMlcxb3RmeUE4SDNRNVVPVDE3TVFKbHJ5Y1JhejBfLW1DYVVlQXhOQUd"
-    },
-    {
-      "headline": "Warner Bros Lands AI-Themed ‘Playground’ For Timothée Chalamet &amp; Plan B - deadline.com",
-      "url": "https://deadline.com/2026/03/timothee-chalamet-plan-b-playground-warner-bros-ai-themed-1236761538/",
-      "source": "Daybook: Scheduled Events",
-      "sourceId": "daybook_scheduled",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Fri, 20 Mar 2026 17:33:00 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQRXZNVlc3RC1vcHoyS1E1aFZrbk1BckZUNVZFWl9iMDVWQmZLcGN0eGN2X3Z6WmcyZ3VfaDFEaGZfWjU3V1R6Ujl0NWVWQXJINDVFOWQzUjcxS0NUYUo5R1RRM1YzMlg2RXNvTGd"
     }
   ],
   "watchCandidates": [
@@ -5731,7 +5711,7 @@
       "sourceId": "reuters_world",
       "category": "wire",
       "priority": "primary",
-      "date": "Sat, 21 Mar 2026 06:10:00 GMT",
+      "date": "Sat, 21 Mar 2026 06:10:28 GMT",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQWjBYMzVoUE1KWkdTMVpBSHoyQm5JZjBpVTF6MW16XzJsM1JiNEVuN1N2T1hKckF6ZWM5Z2ZzS1lrX2NCQkE2alV6cEhvNG55YTJ4U2FTU3QwYXJTOVpIbkplNGZjV05EaFhOWFp",
       "watchCandidate": true,
       "watchSignals": [
@@ -5748,7 +5728,7 @@
       "sourceId": "bbc_world",
       "category": "general",
       "priority": "primary",
-      "date": "Sat, 21 Mar 2026 08:54:29 GMT",
+      "date": "Sat, 21 Mar 2026 10:34:53 GMT",
       "description": "Two children, aged 11 and 15 were also injured in the attack which took place in Zaporizhzhia.",
       "watchCandidate": true,
       "watchSignals": [
@@ -5831,7 +5811,7 @@
       "category": "priority_signal",
       "priority": "primary",
       "topHeadlines": [
-        "Trump says US considering 'winding down' war as Iran says its Natanz nuclear facility targeted",
+        "Iran fired missiles at UK-US base on Diego Garcia, BBC understands",
         "Iranian strikes on bases used by US caused $800m in damage, new analysis shows",
         "Russia's school propaganda was highlighted by Oscar-winning film - but does it work?",
         "Remember Chuck Norris memes but never watched his films? You're not alone",
@@ -5860,7 +5840,7 @@
       "category": "priority_signal",
       "priority": "primary",
       "topHeadlines": [
-        "Support the Guardian",
+        "The free press is under threat",
         "Riz Ahmed Actor on chaos, comedy, and defying categorisation",
         "Blind date ‘He hadn’t had booze for months – then downed four wines’",
         "The impossible task Caring for ageing parents who did not care for you",
@@ -5869,7 +5849,7 @@
         "UK meningitis outbreak ‘Something I’ve never felt since Covid. It was scarier’",
         "Middle East crisis",
         "Middle East crisis live Trump considering ‘winding down’ war; Iran reportedly fired two missiles at Diego Garcia military base",
-        "Indian OceanIran reportedly fires missiles towards UK-US base on Diego Garcia"
+        "Indian OceanIran fires missiles towards UK-US base on Diego Garcia"
       ]
     },
     {
@@ -5879,18 +5859,7 @@
       "filename": "ft_homepage.png",
       "category": "priority_signal",
       "priority": "primary",
-      "topHeadlines": [
-        "Popular Searches",
-        "Financial Times Home",
-        "Monetary Policy Radar – Special Edition",
-        "MONETARY POLICY RADAR",
-        "Monetary Policy Radar – Exclusive Insights Into Central Bank Policy",
-        "Must-reads you missed",
-        "BEST OF FTWEEKEND",
-        "More markets news",
-        "EXPLORE MORE EVENTS FROM THE FT",
-        "Community & Events"
-      ]
+      "topHeadlines": []
     }
   ],
   "sleepFilter": null,

@@ -2,44 +2,42 @@ Good morning, Russell! Here's what happened while you were sleeping.
 
 **Top Stories**
 
-- Iran [fired missiles](https://www.ft.com/content/5c38c404-9f3b-4108-be97-019d043cddd0) at the UK's Diego Garcia military base in the Indian Ocean, the FT reports, in an attack that significantly exceeds Tehran's previously known capabilities.
+- Iran [fired missiles](https://www.ft.com/content/5c38c404-9f3b-4108-be97-019d043cddd0) at the UK-US military base on Diego Garcia in the Indian Ocean, the Financial Times reports, marking a significant escalation in Tehran's military capabilities.
 
-- A fire at a car parts factory in South Korea [killed 11](https://www.theguardian.com/world/2026/mar/21/south-korea-fire-daejeon-car-parts-factory) people and injured almost 60 others, according to the Guardian, after a blaze broke out at the building in Daejeon.
+- A fire at a car parts factory in South Korea [killed 14](https://www.theguardian.com/world/2026/mar/21/south-korea-fire-daejeon-car-parts-factory) people and injured almost 60 others, according to the Guardian, after the blaze broke out at a building in Daejeon.
 
-- Russian drone attacks [killed two](https://www.bbc.com/news/articles/crl18nwjzzzo?at_medium=RSS&at_campaign=rss) people in Ukraine's Zaporizhzhia region, the BBC reports, while two children aged 11 and 15 were injured.
+- Russian drone strikes [killed two](https://www.bbc.com/news/articles/crl18nwjzzzo?at_medium=RSS&amp;at_campaign=rss) people in Zaporizhzhia and injured two children aged 11 and 15, the BBC reports, as Ukraine prepares for talks in the US.
 
-- Putin told Tehran that [Russia stands](https://www.reuters.com/world/middle-east/putin-tells-tehran-russia-stands-by-iran-2026-03-21/) by Iran during a phone call, Reuters reports, as the war enters its fourth week.
+- Putin told Tehran that Russia [stands by](https://www.reuters.com/world/middle-east/putin-tells-tehran-russia-stands-by-iran-2026-03-21/) Iran following the missile strikes, Reuters reports, deepening military cooperation between the two countries.
 
-- The US [lifted sanctions](https://www.nytimes.com/live/2026/03/21/world/iran-war-oil-trump) on some Iranian oil exports as energy prices soar, the New York Times reports, reversing earlier "maximum pressure" efforts.
+- BTS are set to perform together for the [first time](https://www.france24.com/en/bts-fans-take-over-central-seoul-for-k-pop-kings-big-comeback) since October 2022 at a comeback concert in Seoul that is expected to draw 260,000 fans to the South Korean capital, France24 reports.
 
-- BTS will [perform live](https://www.bbc.com/news/articles/cge0dyjwezgo?at_medium=RSS&at_campaign=rss) in Seoul today for the first time since October 2022, the BBC reports, with 260,000 fans expected to attend the comeback concert.
+- A humanitarian convoy carrying tons of aid [arrived in](https://apnews.com/article/cuba-convoy-international-aid-humanitarian-help-0bafbd3bd16bee8cb77d06efc0f329fb) Cuba, AP reports, as the struggling island faces ongoing economic hardship.
 
 **Conflicts & Diplomacy**
 
-- Iran executed three young men this week, with AP reporting that a [wave of](https://apnews.com/article/iran-executions-protests-war-899cffa851d2c87f1feefd561ee9bde3) additional executions is feared as the government cracks down during wartime.
+- Israel is striking both Hezbollah's civilian and military wings in an [attempt to](https://apnews.com/article/lebanon-israel-iran-hezbollah-attacks-civilian-health-cf4ac34c7dff091543002400bbdf02cd) crush the group, AP reports, expanding its campaign beyond traditional military targets.
 
-- Israel is [striking both](https://apnews.com/article/lebanon-israel-iran-hezbollah-attacks-civilian-health-cf4ac34c7dff091543002400bbdf02cd) civilian and military wings of Hezbollah in Lebanon in an attempt to crush the group, AP reports.
+- Russia thwarted protests over the [blocking of](https://apnews.com/article/russia-protest-internet-telegram-war-ukraine-f1c191b4de568cf29e0f94cbf7f80cfc) a popular messaging app, AP reports, though frustration persists among users facing internet restrictions.
 
-- Ukraine's President Zelensky [sent negotiators](https://www.nytimes.com/2026/03/21/world/europe/ukraine-russia-peace-talks-iran.html) to the US hoping to revive peace talks, the New York Times reports, as he expressed concerns about the Iran conflict's effects on Ukraine's war.
-
-- Iran says it will [allow Japanese](https://www.aljazeera.com/news/2026/3/21/iran-says-it-will-allow-japanese-ships-to-transit-the-strait-of-hormuz?traffic_source=rss) ships to transit the Strait of Hormuz, according to Al Jazeera, as Japan depends heavily on Middle East crude oil.
+- Iran executed three young men this week, with human rights groups warning of a [wave of](https://apnews.com/article/iran-executions-protests-war-899cffa851d2c87f1feefd561ee9bde3) additional executions feared as the country cracks down during wartime.
 
 **Business & Markets**
 
-- The Iran war is [forcing the](https://www.reuters.com/business/energy/iran-wars-energy-impact-forces-world-pay-up-cut-consumption-2026-03-21/) world to pay higher energy prices and cut consumption, Reuters reports, as global supply chains face major disruption.
+- The Iran war is forcing the world to pay higher energy prices and [cut consumption](https://www.reuters.com/business/energy/iran-wars-energy-impact-forces-world-pay-up-cut-consumption-2026-03-21/), Reuters reports, as global supply chains face major disruption.
 
-- The EU [urged members](https://www.reuters.com/business/energy/eu-urges-members-cut-gas-storage-targets-due-iran-war-Reuters-reports-2026-03-21/) to cut gas storage targets due to the Iran war, Reuters reports, as the European Commission proposes steps to reduce energy demand.
+- The EU is urging member states to [cut gas-storage](https://www.reuters.com/business/energy/eu-urges-members-cut-gas-storage-targets-due-iran-war-Reuters-reports-2026-03-21/) targets due to the Iran war, Reuters reports, as the bloc tries to reduce energy demand.
 
 **Also Notable**
 
-- Russia [thwarted protests](https://apnews.com/article/russia-protest-internet-telegram-war-ukraine-f1c191b4de568cf29e0f94cbf7f80cfc) over the blocking of a popular messaging app, AP reports, though frustration persists among users.
+- Chuck Norris, the roundhouse-kicking action star who became an internet meme, [died at](https://www.france24.com/en/chuck-norris-roundhouse-kicking-action-star-has-died-at-age-86) age 86, France24 reports.
 
-- Tons of international [aid arrived](https://apnews.com/article/cuba-convoy-international-aid-humanitarian-help-0bafbd3bd16bee8cb77d06efc0f329fb) in Cuba through a humanitarian convoy, according to AP, as the struggling island receives assistance.
+- Syria held its first official Nowruz celebrations as the government [vowed to](https://www.france24.com/en/1st-nowruz-celebrations-in-syria-governement-vows-to-include-kurdish-culture) include Kurdish culture in the country's new direction, France24 reports.
 
 **What to Watch**
 
-- Ukrainian peace negotiators are [meeting in](https://www.nytimes.com/2026/03/21/world/europe/ukraine-russia-peace-talks-iran.html) the US as Kyiv seeks to revive talks while managing concerns about the Iran war's impact on their own conflict.
+- Ukraine and US officials are scheduled to hold talks following the deadly Russian drone attack in Zaporizhzhia that [killed two](https://www.bbc.com/news/articles/crl18nwjzzzo?at_medium=RSS&amp;at_campaign=rss) people, the BBC reports.
 
-- Additional executions in Iran are [expected to](https://apnews.com/article/iran-executions-protests-war-899cffa851d2c87f1feefd561ee9bde3) follow this week's hangings of three young men as authorities crack down during wartime.
+- Iran faces growing international pressure over executions after [hanging three](https://apnews.com/article/iran-executions-protests-war-899cffa851d2c87f1feefd561ee9bde3) young men this week, with human rights groups warning of more to come.
 
-- EU energy ministers will likely [implement new](https://www.reuters.com/business/energy/eu-urges-members-cut-gas-storage-targets-due-iran-war-Reuters-reports-2026-03-21/) gas storage targets following the Commission's call to reduce demand due to the Iran war's supply disruptions.
+- The EU's push for members to [lower gas-storage](https://www.reuters.com/business/energy/eu-urges-members-cut-gas-storage-targets-due-iran-war-Reuters-reports-2026-03-21/) targets could signal deeper energy rationing measures as the Iran conflict continues.
