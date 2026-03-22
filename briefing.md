@@ -2,42 +2,42 @@ Good morning, Russell! Here's what happened while you were sleeping.
 
 **Top Stories**
 
-- Iran [fired missiles](https://www.ft.com/content/5c38c404-9f3b-4108-be97-019d043cddd0) at the UK-US military base on Diego Garcia in the Indian Ocean, the Financial Times reports, marking a significant escalation in Tehran's military capabilities.
+- Iranian missiles [injured 160](https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&amp;at_campaign=rss) in towns near Israel's main nuclear research center, according to the BBC, while Israel investigates how ballistic missiles breached its air defenses.
 
-- A fire at a car parts factory in South Korea [killed 14](https://www.theguardian.com/world/2026/mar/21/south-korea-fire-daejeon-car-parts-factory) people and injured almost 60 others, according to the Guardian, after the blaze broke out at a building in Daejeon.
+- Trump [threatened to](https://apnews.com/article/iran-us-israel-trump-lebanon-march-22-2026-16cc60862529b873666ce4c1f6529d78) attack Iranian power plants if Tehran fails to open the Strait of Hormuz, AP reports.
 
-- Russian drone strikes [killed two](https://www.bbc.com/news/articles/crl18nwjzzzo?at_medium=RSS&amp;at_campaign=rss) people in Zaporizhzhia and injured two children aged 11 and 15, the BBC reports, as Ukraine prepares for talks in the US.
+- Iran [says the](https://www.reuters.com/world/middle-east/iran-says-hormuz-open-all-enemy-linked-ships-during-us-threat-2026-03-22/) strait remains open to all ships except those from "enemy" countries, Reuters reports. Tehran dismissed Trump's ultimatum.
 
-- Putin told Tehran that Russia [stands by](https://www.reuters.com/world/middle-east/putin-tells-tehran-russia-stands-by-iran-2026-03-21/) Iran following the missile strikes, Reuters reports, deepening military cooperation between the two countries.
+- China's Premier Li Qiang [touted his](https://www.ft.com/content/53f9a706-ec15-4f0c-9b4f-71a6f3fc72e1) country as a "harbor of stability" to global CEOs at a Beijing business gathering, drawing contrast to the U.S. while Trump becomes embroiled in Middle East conflict.
 
-- BTS are set to perform together for the [first time](https://www.france24.com/en/bts-fans-take-over-central-seoul-for-k-pop-kings-big-comeback) since October 2022 at a comeback concert in Seoul that is expected to draw 260,000 fans to the South Korean capital, France24 reports.
+- Italians [began voting](https://www.aljazeera.com/news/2026/3/22/italians-vote-in-high-stakes-justice-referendum-in-key-test-for-meloni?traffic_source=rss) in a two-day justice referendum that Al Jazeera reports poses a key political test for right-wing Prime Minister Giorgia Meloni's contested judicial reforms.
 
-- A humanitarian convoy carrying tons of aid [arrived in](https://apnews.com/article/cuba-convoy-international-aid-humanitarian-help-0bafbd3bd16bee8cb77d06efc0f329fb) Cuba, AP reports, as the struggling island faces ongoing economic hardship.
+- French voters [head to](https://www.france24.com/en/french-head-to-the-polls-in-second-round-of-local-elections) the polls in second-round local elections, France 24 reports, with Paris among the major cities electing mayors.
 
 **Conflicts & Diplomacy**
 
-- Israel is striking both Hezbollah's civilian and military wings in an [attempt to](https://apnews.com/article/lebanon-israel-iran-hezbollah-attacks-civilian-health-cf4ac34c7dff091543002400bbdf02cd) crush the group, AP reports, expanding its campaign beyond traditional military targets.
+- Britain [sees no](https://www.reuters.com/world/middle-east/uk-minister-says-trump-speaks-himself-his-deadline-iran-2026-03-22/) evidence that Iran is targeting Europe with missiles, Reuters reports. A UK minister said Trump "speaks for himself" regarding his deadline to Tehran.
 
-- Russia thwarted protests over the [blocking of](https://apnews.com/article/russia-protest-internet-telegram-war-ukraine-f1c191b4de568cf29e0f94cbf7f80cfc) a popular messaging app, AP reports, though frustration persists among users facing internet restrictions.
+- A U.S.-operated Patriot missile was [likely involved](https://www.reuters.com/world/middle-east/patriot-missile-involved-bahrain-blast-likely-us-operated-analysis-finds-2026-03-22/) in a blast in Bahrain, according to Reuters analysis of the incident.
 
-- Iran executed three young men this week, with human rights groups warning of a [wave of](https://apnews.com/article/iran-executions-protests-war-899cffa851d2c87f1feefd561ee9bde3) additional executions feared as the country cracks down during wartime.
+- Slovenia's governing liberals [face right-wing](https://www.aljazeera.com/news/2026/3/22/slovenias-governing-liberals-face-right-wing-populists-in-tight-election?traffic_source=rss) populists in a tight election today, Al Jazeera reports, with voters choosing between incumbent PM Robert Golob and pro-Trump challenger Janez Jansa.
 
 **Business & Markets**
 
-- The Iran war is forcing the world to pay higher energy prices and [cut consumption](https://www.reuters.com/business/energy/iran-wars-energy-impact-forces-world-pay-up-cut-consumption-2026-03-21/), Reuters reports, as global supply chains face major disruption.
+- The world [faces a](https://www.ft.com/content/64c5a600-1fc8-4370-b5d6-8a0bc273a33f) gas supply "cliff edge" as the Gulf's final LNG shipments that departed before Iran's missile attacks are due to arrive at ports in the next 10 days.
 
-- The EU is urging member states to [cut gas-storage](https://www.reuters.com/business/energy/eu-urges-members-cut-gas-storage-targets-due-iran-war-Reuters-reports-2026-03-21/) targets due to the Iran war, Reuters reports, as the bloc tries to reduce energy demand.
+- Private jets [face $50,000](https://www.ft.com/content/49cfc1af-8a13-49b4-9186-a7af47e376c6) "war risk" insurance costs to land in Gulf states, with some operators refueling outside the region to minimize ground time.
+
+- Tencent [integrated WeChat](https://www.reuters.com/technology/tencent-integrates-wechat-with-openclaw-ai-agent-during-china-tech-battle-2026-03-22/) with its OpenClaw AI agent, Reuters reports, while China's tech battle intensifies.
 
 **Also Notable**
 
-- Chuck Norris, the roundhouse-kicking action star who became an internet meme, [died at](https://www.france24.com/en/chuck-norris-roundhouse-kicking-action-star-has-died-at-age-86) age 86, France24 reports.
-
-- Syria held its first official Nowruz celebrations as the government [vowed to](https://www.france24.com/en/1st-nowruz-celebrations-in-syria-governement-vows-to-include-kurdish-culture) include Kurdish culture in the country's new direction, France24 reports.
+- Six people [were killed](https://www.reuters.com/world/middle-east/six-killed-qatar-helicopter-crash-due-technical-malfunction-ministry-says-2026-03-22/) in a Qatar helicopter crash due to technical malfunction, Reuters reports, citing the transportation ministry.
 
 **What to Watch**
 
-- Ukraine and US officials are scheduled to hold talks following the deadly Russian drone attack in Zaporizhzhia that [killed two](https://www.bbc.com/news/articles/crl18nwjzzzo?at_medium=RSS&amp;at_campaign=rss) people, the BBC reports.
+- Trump's 48-hour [deadline for](https://www.ft.com/content/a0e724d8-8f21-4ef4-811a-5a1be06d647e) Iran to open the Strait of Hormuz expires Monday evening, with the president threatening to target Iranian power plants if Tehran fails to comply.
 
-- Iran faces growing international pressure over executions after [hanging three](https://apnews.com/article/iran-executions-protests-war-899cffa851d2c87f1feefd561ee9bde3) young men this week, with human rights groups warning of more to come.
+- Final LNG [shipments from](https://www.ft.com/content/64c5a600-1fc8-4370-b5d6-8a0bc273a33f) the Gulf that departed before the Iran conflict began are due to arrive at global ports over the next 10 days, potentially marking the end of Middle East gas supplies.
 
-- The EU's push for members to [lower gas-storage](https://www.reuters.com/business/energy/eu-urges-members-cut-gas-storage-targets-due-iran-war-Reuters-reports-2026-03-21/) targets could signal deeper energy rationing measures as the Iran conflict continues.
+- Results from Italy's [justice referendum](https://www.aljazeera.com/news/2026/3/22/italians-vote-in-high-stakes-justice-referendum-in-key-test-for-meloni?traffic_source=rss) are expected Monday, serving as a key test for Prime Minister Meloni's government.
