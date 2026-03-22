@@ -4,17 +4,17 @@
     "owner": "Russell Goldman",
     "timezone": "America/New_York",
     "description": "Daily international news briefing — all bullets, ready by 6am ET",
-    "generated": "2026-03-22T10:31:39.589Z",
-    "generatedTimestamp": 1774175499589
+    "generated": "2026-03-22T10:54:28.868Z",
+    "generatedTimestamp": 1774176868868
   },
   "stats": {
     "sourceCount": 19,
     "successCount": 19,
-    "totalStories": 133,
+    "totalStories": 132,
     "totalScreenshots": 6,
     "daybookStories": 40,
     "watchCandidateCount": 13,
-    "elapsed": "61.6s"
+    "elapsed": "63.6s"
   },
   "stories": {
     "all": [
@@ -152,7 +152,7 @@
         "sourceId": "reuters_world",
         "category": "wire",
         "priority": "primary",
-        "date": "Sun, 22 Mar 2026 06:56:02 GMT",
+        "date": "Sun, 22 Mar 2026 06:56:00 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNWDVFUmlkOTcxUnBFQWNBZEloZjl4OFJUYVpaU0VCT2dBWFJaZ2dISTczd1ItSXRoMTRlSzRfLUl0UDlMYXFkV2MyT0g5WXVrNHcxZ2w3VXlCQkk5YllvSS1lVFM3RS1nVmNud2w"
       },
       {
@@ -202,7 +202,7 @@
         "sourceId": "reuters_world",
         "category": "wire",
         "priority": "primary",
-        "date": "Sun, 22 Mar 2026 00:16:00 GMT",
+        "date": "Sun, 22 Mar 2026 00:16:17 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQdEhmLUhYN1BhUGZ3dnpBZHZRTUF4UUZueVV1NnZ4RzlRSkg2dzZiZUlPNWJFUktlbE1ZQkpQMWZ6eWVjTlg3OUgyOHJvUzZHeXZmVHZGdjYzWXE1Rzg4Q0MtVW9TREtMckZJaTJ"
       },
       {
@@ -236,16 +236,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVnozUTVSWTNkemd1dC0xbmcxR1JsbDhsWDlmdlRwdG12UG5RNmZVQi1vMU1aQXJHcmZQTTlXUEtRQ1pmMzJnUFZXbEVtNUtfTkVLcTBfU2lrNXJkblhsQ0ZicFFLVDJLZ3FFOG9"
       },
       {
-        "headline": "Italians begin voting in high-stakes justice referendum - Reuters",
-        "url": "https://www.reuters.com/world/italians-begin-voting-high-stakes-justice-referendum-2026-03-22/",
-        "source": "Reuters",
-        "sourceId": "reuters_world",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Sun, 22 Mar 2026 06:20:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQdUNwZGREMjJWTk1fRE1XcVNMTjBVajkxR2E1TWJnbmdfNzhpa21zOVNTTmZlTzBlbE03TWttREIzbktpZzdJaDFUQXRmUWNWeFZhQWVWaklfeHgyQjZ5MzdZaVA1VjN5cnpTRnJ"
-      },
-      {
         "headline": "Taiwan says delayed US F-16s to start arriving this year - Reuters",
         "url": "https://www.reuters.com/business/aerospace-defense/taiwan-says-delayed-us-f-16s-start-arriving-this-year-2026-03-22/",
         "source": "Reuters",
@@ -264,6 +254,16 @@
         "priority": "primary",
         "date": "Sat, 21 Mar 2026 21:09:29 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQVBJc2d0ZnBnODBFVHlXVUhYYkZsdEpCR183amVMOUU0VDNHeXZaOHR3VkU3Umh3b29obVk0LVUydDRtZ1g4LUdoR21nVjlTMVhQa1pVUTA0SlphN0VoQUk4aXcwWG1HSjRVdG0"
+      },
+      {
+        "headline": "Italians begin voting in high-stakes justice referendum - Reuters",
+        "url": "https://www.reuters.com/world/italians-begin-voting-high-stakes-justice-referendum-2026-03-22/",
+        "source": "Reuters",
+        "sourceId": "reuters_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Sun, 22 Mar 2026 06:20:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQdUNwZGREMjJWTk1fRE1XcVNMTjBVajkxR2E1TWJnbmdfNzhpa21zOVNTTmZlTzBlbE03TWttREIzbktpZzdJaDFUQXRmUWNWeFZhQWVWaklfeHgyQjZ5MzdZaVA1VjN5cnpTRnJ"
       },
       {
         "headline": "WHO says strike on Sudan hospital kills at least 64, takes facility out of service - Reuters",
@@ -559,23 +559,13 @@
         "description": "&lt;p&gt;Victims of army drone attack on East Darfur health facility included children and medical personnel &lt;/p&gt;&lt;p&gt;A strike on a healthcare facility in Sudan has killed 64 people and woun"
       },
       {
-        "headline": "At least 14 people killed in fire at South Korean car parts factory",
-        "url": "https://www.theguardian.com/world/2026/mar/21/south-korea-fire-daejeon-car-parts-factory",
-        "source": "Guardian",
-        "sourceId": "guardian_world",
-        "category": "general",
-        "priority": "primary",
-        "date": "Sat, 21 Mar 2026 10:44:53 GMT",
-        "description": "&lt;p&gt;Almost 60 injured in blaze in Daejeon with footage seemingly showing people jumping from burning building to escape&lt;/p&gt;&lt;p&gt;A fire at a car parts factory in South Korea has killed 1"
-      },
-      {
         "headline": "Iran War Live Updates: Trump Threatens to Hit Power Plants Unless Strait Is Reopened, as Tehran Remains Defiant",
         "url": "https://www.nytimes.com/live/2026/03/22/world/iran-war-oil-trump",
         "source": "New York Times",
         "sourceId": "nyt_world",
         "category": "general",
         "priority": "secondary",
-        "date": "Sun, 22 Mar 2026 10:25:44 +0000",
+        "date": "Sun, 22 Mar 2026 10:47:23 +0000",
         "description": "President Trump issued an ultimatum after Iranian missiles struck cities in southern Israel, including one near the country’s main nuclear research center.",
         "watchCandidate": true,
         "watchSignals": [
@@ -604,6 +594,16 @@
         "priority": "secondary",
         "date": "Sun, 22 Mar 2026 04:01:17 +0000",
         "description": "Pierre-Édouard Stérin is financing projects to make France less Muslim, more Catholic and more capitalist. He says his program has trained thousands running for municipal office on Sunday."
+      },
+      {
+        "headline": "On Beirut’s Waterfront, Loss Meets Life, and Luxury, Amid War",
+        "url": "https://www.nytimes.com/2026/03/22/world/middleeast/beirut-israel-war-displaced-corniche.html",
+        "source": "New York Times",
+        "sourceId": "nyt_world",
+        "category": "general",
+        "priority": "secondary",
+        "date": "Sun, 22 Mar 2026 09:01:08 +0000",
+        "description": "Thousands displaced by Israeli strikes on Lebanon’s capital now shelter along the promenade hugging the Mediterranean Sea. They share it with joggers, cyclists and dog walkers, alongside dizzying disp"
       },
       {
         "headline": "Italy’s Leader Wants to Change the Constitution. Italians Don’t Get It.",
@@ -679,7 +679,7 @@
         "sourceId": "nyt_world",
         "category": "general",
         "priority": "secondary",
-        "date": "Sun, 22 Mar 2026 09:08:50 +0000",
+        "date": "Sun, 22 Mar 2026 10:31:36 +0000",
         "description": "The concert in Seoul’s historic center was a grand homecoming for a pivotal force of South Korean soft power. RM, the group’s leader, performed through an ankle injury."
       },
       {
@@ -693,24 +693,14 @@
         "description": "Sri Lanka has kept more than 250 sailors in protective custody since the early days of the war. Iran wants them back, but Sri Lanka is unsure what to do with them."
       },
       {
-        "headline": "On Beirut’s Waterfront, Loss Meets Life, and Luxury, Amid War",
-        "url": "https://www.nytimes.com/2026/03/22/world/middleeast/beirut-israel-war-displaced-corniche.html",
+        "headline": "Residents of Arad Are Shaken After Direct Strike by Iranian Missile",
+        "url": "https://www.nytimes.com/2026/03/22/world/middleeast/arad-dimona-israel-iran-missile-strike.html",
         "source": "New York Times",
         "sourceId": "nyt_world",
         "category": "general",
         "priority": "secondary",
-        "date": "Sun, 22 Mar 2026 09:01:08 +0000",
-        "description": "Thousands displaced by Israeli strikes on Lebanon’s capital now shelter along the promenade hugging the Mediterranean Sea. They share it with joggers, cyclists and dog walkers, alongside dizzying disp"
-      },
-      {
-        "headline": "Here’s the latest.",
-        "url": "https://www.nytimes.com/live/2026/03/22/world/iran-war-oil-trump/heres-the-latest",
-        "source": "New York Times",
-        "sourceId": "nyt_world",
-        "category": "general",
-        "priority": "secondary",
-        "date": "Sun, 22 Mar 2026 10:22:53 +0000",
-        "description": ""
+        "date": "Sun, 22 Mar 2026 10:47:21 +0000",
+        "description": "Attacks on Saturday injured dozens in Arad and Dimona, two cities closest to Israel’s main nuclear research facility."
       },
       {
         "headline": "‘The United States doesn’t even pretend to be within international law’",
@@ -1058,14 +1048,14 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSlVHdVZ6UEJMSTNvUXV2bExvdWpaWFg2a0EtV0t3YVlfczVfcXdjQUZxaWEtbmhnOHd4b1JzUV8wWjBZUjItam8yTVg3WEFrRVdzbzlVS0k3WlVWLUpvMmpPOHJ5bDNaNXRLMHl"
       },
       {
-        "headline": "Japan-U.S. Summit Meeting and Dinner Reception - mofa.go.jp",
-        "url": "https://www.mofa.go.jp/na/na1/us/pageite_000001_00007.html",
+        "headline": "Trump-Takaichi Summit: Expert Analysis on U.S.-Japan Relations - Syracuse University Today",
+        "url": "https://news.syr.edu/2026/03/20/trump-takaichi-summit-expert-analysis-on-u-s-japan-relations/",
         "source": "Daybook: International Events",
         "sourceId": "daybook_intl",
         "category": "daybook",
         "priority": "reference",
-        "date": "Fri, 20 Mar 2026 04:15:27 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5jNmhTQ3JZbjR2LVZmaXo1OG9HT1VQVDNzVWRwVVg5cXV3VnZKb3ZOX0ZucU93aWN4VnZRSjQ4aVhUaXhMZjZJTEVvNXIwbVFDaE1NMmdHWnQ3TWNJMTNrRzBiUTFpdmNSZmc?oc="
+        "date": "Fri, 20 Mar 2026 20:56:06 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQV1M0eFZmMzJVbWFKczk0NGd0bHh6M2o0ZVdQcjZWWFNDbXZiVHlpb2JNWGpnQUVrOFBIbktadHpacURvd201U3VSZFBmSFJVdkV2b3FDalhfaDRQMl9MVVU5emhZWmRxVTJGeXo"
       },
       {
         "headline": "G20 (Group of 20) | History &amp; Members - Britannica",
@@ -1076,6 +1066,16 @@
         "priority": "reference",
         "date": "Mon, 16 Mar 2026 05:00:00 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9IYW10UEFKaXZCd2pHd2c1V3RHc05SLTJIWmlCMWc0TjlONXRmZUF3N1l1NjNXWnRHcm5FUHNtR1ktM1N3N29Dckt2WHdWdGtDd2t1NW9sWQ?oc=5\" target=\"_blank\"&gt;G20"
+      },
+      {
+        "headline": "Japan-U.S. Summit Meeting and Dinner Reception - mofa.go.jp",
+        "url": "https://www.mofa.go.jp/na/na1/us/pageite_000001_00007.html",
+        "source": "Daybook: International Events",
+        "sourceId": "daybook_intl",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Fri, 20 Mar 2026 04:15:27 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5jNmhTQ3JZbjR2LVZmaXo1OG9HT1VQVDNzVWRwVVg5cXV3VnZKb3ZOX0ZucU93aWN4VnZRSjQ4aVhUaXhMZjZJTEVvNXIwbVFDaE1NMmdHWnQ3TWNJMTNrRzBiUTFpdmNSZmc?oc="
       },
       {
         "headline": "INTERPOL-UNODC global summit ends with call to action against fraud surge - Interpol",
@@ -1188,16 +1188,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbDM1cFRzVTdadVJiZnpWNE9MRzlnUkpvWVc4Zm5DRnZMdjVnUzRUTTNqSHdpSDBjSVBIUzVRMEhtNXZ4M0NqdFhrZ0NHU2tDTWRqazZoZnI4bW5tWnE1Wmd1OERjRHFKRmdUa3V"
       },
       {
-        "headline": "Trump-Takaichi Summit: Expert Analysis on U.S.-Japan Relations - Syracuse University Today",
-        "url": "https://news.syr.edu/2026/03/20/trump-takaichi-summit-expert-analysis-on-u-s-japan-relations/",
-        "source": "Daybook: International Events",
-        "sourceId": "daybook_intl",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Fri, 20 Mar 2026 20:56:06 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQV1M0eFZmMzJVbWFKczk0NGd0bHh6M2o0ZVdQcjZWWFNDbXZiVHlpb2JNWGpnQUVrOFBIbktadHpacURvd201U3VSZFBmSFJVdkV2b3FDalhfaDRQMl9MVVU5emhZWmRxVTJGeXo"
-      },
-      {
         "headline": "Fed’s Interest Rate Decision: March 18, 2026 - Advisor Perspectives",
         "url": "https://www.advisorperspectives.com/dshort/updates/2026/03/19/feds-interest-rate-decision-march-18-2026",
         "source": "Daybook: Economic Calendar",
@@ -1218,16 +1208,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOTW93UnBleWM5TGFiODl3NEN1NlNsb2xTUzd2ek9COGg2aUdOQVY0cGc3dXJuRVBnc3N3VHBkdUhoWExqN2hXTHNlekRLX2ZFWmd6MTc4Z2toWkotek5Xc1FMNmZwUW5zTENSR3N"
       },
       {
-        "headline": "WATCH: Fed Chair Powell holds news briefing after interest rate left unchanged - PBS",
-        "url": "https://www.pbs.org/newshour/economy/watch-live-fed-chair-powell-holds-news-briefing-after-latest-interest-rate-decision",
-        "source": "Daybook: Economic Calendar",
-        "sourceId": "daybook_econ",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Wed, 18 Mar 2026 14:23:50 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxObmE2Rm5TNnFlVmNSODAwcFBnekVlTWJHekl5VWEwRzB5UTlxSXNMYUlOTnozX2ZjZ01hZENCTkZPc0ZmOTA2NDVxelFYRVd0Q1BkQ29QeUpHM3YtbTU5aHY1Y2o3M0tmcjdRNTZ"
-      },
-      {
         "headline": "Embedded | 2026 Trade Deadline - NHL.com",
         "url": "https://www.nhl.com/sabres/video/embedded-2026-trade-deadline-6390981208112",
         "source": "Daybook: Economic Calendar",
@@ -1236,6 +1216,16 @@
         "priority": "reference",
         "date": "Sun, 15 Mar 2026 23:00:19 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQTlhEY2ZoUWJPSUdRU3FNMm9vUGw4OURiVXNwR0JSSGIxWkRCV3hRaUhWQlZITUJsdnYydWJrUklmTkJ1X1p5RW9HNGREVnhUT0hVQXdfczBmZFdkbnh1ZEdKamg2VlFrTmxDbmU"
+      },
+      {
+        "headline": "WATCH: Fed Chair Powell holds news briefing after interest rate left unchanged - PBS",
+        "url": "https://www.pbs.org/newshour/economy/watch-live-fed-chair-powell-holds-news-briefing-after-latest-interest-rate-decision",
+        "source": "Daybook: Economic Calendar",
+        "sourceId": "daybook_econ",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Wed, 18 Mar 2026 14:23:50 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxObmE2Rm5TNnFlVmNSODAwcFBnekVlTWJHekl5VWEwRzB5UTlxSXNMYUlOTnozX2ZjZ01hZENCTkZPc0ZmOTA2NDVxelFYRVd0Q1BkQ29QeUpHM3YtbTU5aHY1Y2o3M0tmcjdRNTZ"
       },
       {
         "headline": "Here are the five key takeaways from this week's Fed meeting - CNBC",
@@ -1328,26 +1318,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdXdvY3pRNUxFeHdKUmZya1pka2dBYnlxbmdXUGxoYkVCb3A2WTVicXBPaWlpdEd4WTMyYndnUDNqX2l5VnVfTlVJVWtNa25aOGhIcUNnQWVLZVFqSlNMSlBUT2NvckJPMjVXUjJ"
       },
       {
-        "headline": "Flagstaff Area Scheduled for Multiple Prescribed Burns - Signals AZ",
-        "url": "https://www.signalsaz.com/articles/flagstaff-area-scheduled-for-multiple-prescribed-burns/",
-        "source": "Daybook: Scheduled Events",
-        "sourceId": "daybook_scheduled",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Sun, 22 Mar 2026 07:12:20 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQcEZpaXdLSlVVQTJUZVAzOHFKTXdieExpbGZQcnFHMGdmbFlfcGZrZWlmNUhqVnFjT1BYTDRpVVF6ZTI3TG1lUDhkOUluYVZaR09CbWFhNG11REFmcUxtblVlbF93NU5UMmhNR3Z"
-      },
-      {
-        "headline": "Iran war live: Trump sets 48-hour deadline on Strait of Hormuz - The Times",
-        "url": "https://news.google.com/rss/articles/CBMiugNBVV95cUxNQWRIUG1fWmZIRm12RUhwcW9sTTdVdlZoZWF6aUZNNVlGRmFYeTN6d0E4aFRDdElrMWlFOHlqWmk2WGVjLTI1cG5tX0g2UExyel8zVjcxajFHV1Z5czFacjh0SEw2V2xISTNZaDFraWpIUXpVN0hEOGxtTFBDdFg0eHV0NVVCbWFMX1NxT3llT3hETEVfeXRyUXpvWlRLdzh0RThVeEViQ0Zkbl9WZ2FRbmN3SDhJOC1OVG1pWmFucFd2UW5XNk9WUU9DLW4wdTVOM0dzQWdXM3RLTV9RT2lrajUzTktoNnQ2dEQxVjZwTXNGVlI2ODB6dDFfby1mc21UNlRqR0RoWHNoZ2Jxd1I2T3JBenpuQnE1RGtDZFV4di1aelBmbHJIX0YzMGpqbVpJemtYd3ZDSlJRVlcyQWZwZzFiM1BUX1BmOEFhWTZMZmYtWmEtUHZPeVNJSUNhY1dqRFVuOFY5SWxiRnlFTDhQMDRXQl9URTloaFd1MWdSYVM1MEdYVG9GNTN5bkd2WnFIQWF6YW9udUcwdl9UU1pNbndrcmdhOGVXOFRaSzJYSTZGTTE3QjhGUUJR?oc=5",
-        "source": "Daybook: Scheduled Events",
-        "sourceId": "daybook_scheduled",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Sun, 22 Mar 2026 00:40:54 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugNBVV95cUxNQWRIUG1fWmZIRm12RUhwcW9sTTdVdlZoZWF6aUZNNVlGRmFYeTN6d0E4aFRDdElrMWlFOHlqWmk2WGVjLTI1cG5tX0g2UExyel8zVjcxajFHV1Z5czFacjh0SEw2V2xISTNZaDF"
-      },
-      {
         "headline": "Richmond sets deadline for vacuum leaf removal requests - WRIC ABC 8News",
         "url": "https://www.wric.com/news/local-news/richmond/richmond-sets-deadline-for-vacuum-leaf-removal-requests/",
         "source": "Daybook: Scheduled Events",
@@ -1358,6 +1328,26 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOdWVQREJJVUlKcVF2U2VlMWFBQUMwX2g0WVU2emlBV3lzVUhteWxVNFFfUzNZeEhSMnRmOUl6WWpqMlpMMVl2dEh6WG5mRlFVZ2R2QjRkMklWLWlDRFFYbi1aM0RveEl1Q1hfMHV"
       },
       {
+        "headline": "Flagstaff Area Scheduled for Multiple Prescribed Burns - Signals AZ",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcEZpaXdLSlVVQTJUZVAzOHFKTXdieExpbGZQcnFHMGdmbFlfcGZrZWlmNUhqVnFjT1BYTDRpVVF6ZTI3TG1lUDhkOUluYVZaR09CbWFhNG11REFmcUxtblVlbF93NU5UMmhNR3ZRWk9mY1VkVnNZNHdGX2xoNTJfajVkVEZTVURYckhBRldHNktCMkVo?oc=5",
+        "source": "Daybook: Scheduled Events",
+        "sourceId": "daybook_scheduled",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Sun, 22 Mar 2026 07:12:20 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQcEZpaXdLSlVVQTJUZVAzOHFKTXdieExpbGZQcnFHMGdmbFlfcGZrZWlmNUhqVnFjT1BYTDRpVVF6ZTI3TG1lUDhkOUluYVZaR09CbWFhNG11REFmcUxtblVlbF93NU5UMmhNR3Z"
+      },
+      {
+        "headline": "Iran war live: Trump sets 48-hour deadline on Strait of Hormuz - The Times",
+        "url": "https://www.thetimes.com/world/middle-east/article/iran-war-live-latest-news-trump-iran-strait-of-hormuz-7fdwq9zxm?gaa_at=eafs&gaa_n=AWEtsqeO3F3xzVmU5d2GkKLJVIj_agCK9dF7dxpBwap4lOvUiTG9MHRM_Umo&gaa_ts=69bfcdaa&gaa_sig=-lQfnU5TWDbU3SWw5qeYfC31TbWrzTwokxJNwswUBkNt7zNG2iqijj_zdRoNVf3sjwu3vW4Gm2spSK1UCRPiVQ%3D%3D",
+        "source": "Daybook: Scheduled Events",
+        "sourceId": "daybook_scheduled",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Sun, 22 Mar 2026 00:40:54 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugNBVV95cUxQVE5FVDBiVjVOdHByTFdwdGMtWVpxMEpPOFNjdmZhYjdBbjNqMjVNNUxIZmtBeEpnei1iNldheGRvX04weHpSZHBDT1Z4TnpuZjdITF8yWGdzVGtIZkw2eGNTYkRXejczZllPYjl"
+      },
+      {
         "headline": "Disney's ABC is figuring out whether it will air the Taylor Frankie Paul season of The Bachelorette as Hulu pauses 'The Secret Lives of Mormon Wives. Read more below. - Facebook",
         "url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fdeadline%2Fphotos%2Fdisneys-abc-is-figuring-out-whether-it-will-air-the-taylor-frankie-paul-season-o%2F1292274066106264%2F",
         "source": "Daybook: Scheduled Events",
@@ -1366,6 +1356,16 @@
         "priority": "reference",
         "date": "Sun, 22 Mar 2026 03:59:44 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUlVnMzNVQXIyRHlGanlReGZoeTBrZk1jLUJOa1Fhd25ITmM4YjZLc1l1UzNCZnh5LWlITXdJNVJZeEcwbWJQUjFMeVBtNFVoYURwOVRkdmZJNmRDOGJCemtSSVNFbURoSTNaWWN"
+      },
+      {
+        "headline": "LIEAP Application Deadline Approaching for Pender County Residents - Pender County Government (.gov)",
+        "url": "https://www.pendercountync.gov/m/newsflash/home/detail/250",
+        "source": "Daybook: Scheduled Events",
+        "sourceId": "daybook_scheduled",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Fri, 20 Mar 2026 00:07:35 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5EWkxXb2REM01mdmQ1MDZla2xWRzE2NnE2SzZmZFU4bFNhSGJXVUxJaHlQYWlCc1JhaVpMMXdjalB2NzltSUI5ZHZicVNtYWhSUTREa1ZzU1VXY1A1VFdwTXdkdDVHUQ?oc=5\" ta"
       },
       {
         "headline": "Trump gives Iran deadline to open Hormuz as mixed messages spur crisis - AFR",
@@ -1388,16 +1388,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPemdlQk5XekcweWVQX05kaXI0bjNyZjJ2bzdXSzFPMFppV3hnOUtmcHpiQTVWOHY2MzFCT3Vhc0xENGZSczJlaWx5T29nRDRrSi00R21qWE9mWFU3VVlqeU1WTDJjbmR4eUQ3dkF"
       },
       {
-        "headline": "‘Harry Potter’ Series Star Paapa Essiedu Says He’s Faced Death Threats Over Casting As Snape - Deadline",
-        "url": "https://deadline.com/2026/03/harry-potter-paapa-essiedu-hbo-casting-backlash-1236762381/",
-        "source": "Daybook: Scheduled Events",
-        "sourceId": "daybook_scheduled",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Sat, 21 Mar 2026 22:19:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNODZlVXJUbGVNZUZzMW05bG5lb18zZ3pxTTExSzJEU2lsNkMwX21PZlJvY1RMZ1FtTmlWUzVHUGlHVWxLcU5FY3JpVjl4Q2luc3lpV2t6c0Jya1d3d3lfNERxYzZYZk81WDVYWnd"
-      },
-      {
         "headline": "'Saturday Night Live UK' Viewing Figures: Sky Show Makes Healthy Start - Deadline",
         "url": "https://deadline.com/2026/03/saturday-night-live-uk-viewing-figures-1236761679/",
         "source": "Daybook: Scheduled Events",
@@ -1406,6 +1396,26 @@
         "priority": "reference",
         "date": "Sun, 22 Mar 2026 09:57:00 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPaGJkVG85aHVKbjRDUlNkUW15T3JNRW9hcEpjbmI4aXQxekk5N2IydHVZMEMteWtqMnJsenRkT1dhcEM5ZWV6WUtrX1I0YTJTRm44cDRwUEpNT0wwbXVOejcyb21yNGxhWmFiZER"
+      },
+      {
+        "headline": "‘Saturday Night Live UK’: What The Critics Are Saying - Deadline",
+        "url": "https://deadline.com/2026/03/saturday-night-live-uk-reviews-critics-reaction-sky-snl-1236762484/",
+        "source": "Daybook: Scheduled Events",
+        "sourceId": "daybook_scheduled",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Sun, 22 Mar 2026 08:57:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQMks1SXZkQXV4UVhHM2RVajFNMXdOUmRDLUg1Yld3Z0hnWkNKTnpNSy1WOVlCMm1WbEdCUk5QOWJ1bk80VzJ5cXRidm5fWGloNTFvVF80Wlllbjd4dlVaVjlPTDJzdUhTbGdaTUd"
+      },
+      {
+        "headline": "‘Harry Potter’ Series Star Paapa Essiedu Says He’s Faced Death Threats Over Casting As Snape - Deadline",
+        "url": "https://deadline.com/2026/03/harry-potter-paapa-essiedu-hbo-casting-backlash-1236762381/",
+        "source": "Daybook: Scheduled Events",
+        "sourceId": "daybook_scheduled",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Sat, 21 Mar 2026 22:19:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNODZlVXJUbGVNZUZzMW05bG5lb18zZ3pxTTExSzJEU2lsNkMwX21PZlJvY1RMZ1FtTmlWUzVHUGlHVWxLcU5FY3JpVjl4Q2luc3lpV2t6c0Jya1d3d3lfNERxYzZYZk81WDVYWnd"
       },
       {
         "headline": "‘The Last Of Us’ Adds Michelle Mao As Yara &amp; Kyriana Kratter As Lev For Season 3 Of HBO Series - Deadline",
@@ -1426,26 +1436,6 @@
         "priority": "reference",
         "date": "Thu, 19 Mar 2026 17:01:00 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPeG9uR2V5OGQ3ZmxVRWRnOTFua0J5b29XY1dMSnRnWkxJc1lHd0VVVWlIamhOeV9LZlk2WGhuX1I1TGt4SzlkV05ZWVZLTldsemRaYzBuMUxVQWxnQVRSNUc1R0JFQVViY0JpNlp"
-      },
-      {
-        "headline": "Chuck Norris Dies: ‘Walker, Texas Ranger’ Star &amp; Action Vet Was 86 - Deadline",
-        "url": "https://deadline.com/2026/03/chuck-norris-dead-walker-texas-ranger-star-was-86-1236761332/",
-        "source": "Daybook: Scheduled Events",
-        "sourceId": "daybook_scheduled",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Fri, 20 Mar 2026 14:15:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQcmUzakFQamRlOGFZQVdRR2kyMWZ1U2VlVjA1a3FjQ3ZFRWpkOTNuRGdjdDJZS2xNRVA5eVVfMkxxczFtemtIOVpJOHhJdzNWemJUWGNidS04azkzMVZOalBSTlZKU3RFZTM0eDV"
-      },
-      {
-        "headline": "‘Saturday Night Live UK’: What The Critics Are Saying - Deadline",
-        "url": "https://deadline.com/2026/03/saturday-night-live-uk-reviews-critics-reaction-sky-snl-1236762484/",
-        "source": "Daybook: Scheduled Events",
-        "sourceId": "daybook_scheduled",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Sun, 22 Mar 2026 08:57:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQMks1SXZkQXV4UVhHM2RVajFNMXdOUmRDLUg1Yld3Z0hnWkNKTnpNSy1WOVlCMm1WbEdCUk5QOWJ1bk80VzJ5cXRidm5fWGloNTFvVF80Wlllbjd4dlVaVjlPTDJzdUhTbGdaTUd"
       }
     ],
     "byCategory": {
@@ -1584,7 +1574,7 @@
           "sourceId": "reuters_world",
           "category": "wire",
           "priority": "primary",
-          "date": "Sun, 22 Mar 2026 06:56:02 GMT",
+          "date": "Sun, 22 Mar 2026 06:56:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNWDVFUmlkOTcxUnBFQWNBZEloZjl4OFJUYVpaU0VCT2dBWFJaZ2dISTczd1ItSXRoMTRlSzRfLUl0UDlMYXFkV2MyT0g5WXVrNHcxZ2w3VXlCQkk5YllvSS1lVFM3RS1nVmNud2w"
         },
         {
@@ -1634,7 +1624,7 @@
           "sourceId": "reuters_world",
           "category": "wire",
           "priority": "primary",
-          "date": "Sun, 22 Mar 2026 00:16:00 GMT",
+          "date": "Sun, 22 Mar 2026 00:16:17 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQdEhmLUhYN1BhUGZ3dnpBZHZRTUF4UUZueVV1NnZ4RzlRSkg2dzZiZUlPNWJFUktlbE1ZQkpQMWZ6eWVjTlg3OUgyOHJvUzZHeXZmVHZGdjYzWXE1Rzg4Q0MtVW9TREtMckZJaTJ"
         },
         {
@@ -1668,16 +1658,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVnozUTVSWTNkemd1dC0xbmcxR1JsbDhsWDlmdlRwdG12UG5RNmZVQi1vMU1aQXJHcmZQTTlXUEtRQ1pmMzJnUFZXbEVtNUtfTkVLcTBfU2lrNXJkblhsQ0ZicFFLVDJLZ3FFOG9"
         },
         {
-          "headline": "Italians begin voting in high-stakes justice referendum - Reuters",
-          "url": "https://www.reuters.com/world/italians-begin-voting-high-stakes-justice-referendum-2026-03-22/",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sun, 22 Mar 2026 06:20:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQdUNwZGREMjJWTk1fRE1XcVNMTjBVajkxR2E1TWJnbmdfNzhpa21zOVNTTmZlTzBlbE03TWttREIzbktpZzdJaDFUQXRmUWNWeFZhQWVWaklfeHgyQjZ5MzdZaVA1VjN5cnpTRnJ"
-        },
-        {
           "headline": "Taiwan says delayed US F-16s to start arriving this year - Reuters",
           "url": "https://www.reuters.com/business/aerospace-defense/taiwan-says-delayed-us-f-16s-start-arriving-this-year-2026-03-22/",
           "source": "Reuters",
@@ -1696,6 +1676,16 @@
           "priority": "primary",
           "date": "Sat, 21 Mar 2026 21:09:29 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQVBJc2d0ZnBnODBFVHlXVUhYYkZsdEpCR183amVMOUU0VDNHeXZaOHR3VkU3Umh3b29obVk0LVUydDRtZ1g4LUdoR21nVjlTMVhQa1pVUTA0SlphN0VoQUk4aXcwWG1HSjRVdG0"
+        },
+        {
+          "headline": "Italians begin voting in high-stakes justice referendum - Reuters",
+          "url": "https://www.reuters.com/world/italians-begin-voting-high-stakes-justice-referendum-2026-03-22/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sun, 22 Mar 2026 06:20:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQdUNwZGREMjJWTk1fRE1XcVNMTjBVajkxR2E1TWJnbmdfNzhpa21zOVNTTmZlTzBlbE03TWttREIzbktpZzdJaDFUQXRmUWNWeFZhQWVWaklfeHgyQjZ5MzdZaVA1VjN5cnpTRnJ"
         },
         {
           "headline": "WHO says strike on Sudan hospital kills at least 64, takes facility out of service - Reuters",
@@ -2355,7 +2345,7 @@
           "sourceId": "nyt_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Sun, 22 Mar 2026 10:25:44 +0000",
+          "date": "Sun, 22 Mar 2026 10:47:23 +0000",
           "description": "President Trump issued an ultimatum after Iranian missiles struck cities in southern Israel, including one near the country’s main nuclear research center.",
           "watchCandidate": true,
           "watchSignals": [
@@ -2384,6 +2374,16 @@
           "priority": "secondary",
           "date": "Sun, 22 Mar 2026 04:01:17 +0000",
           "description": "Pierre-Édouard Stérin is financing projects to make France less Muslim, more Catholic and more capitalist. He says his program has trained thousands running for municipal office on Sunday."
+        },
+        {
+          "headline": "On Beirut’s Waterfront, Loss Meets Life, and Luxury, Amid War",
+          "url": "https://www.nytimes.com/2026/03/22/world/middleeast/beirut-israel-war-displaced-corniche.html",
+          "source": "New York Times",
+          "sourceId": "nyt_world",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Sun, 22 Mar 2026 09:01:08 +0000",
+          "description": "Thousands displaced by Israeli strikes on Lebanon’s capital now shelter along the promenade hugging the Mediterranean Sea. They share it with joggers, cyclists and dog walkers, alongside dizzying disp"
         },
         {
           "headline": "Italy’s Leader Wants to Change the Constitution. Italians Don’t Get It.",
@@ -2479,7 +2479,7 @@
           "sourceId": "nyt_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Sun, 22 Mar 2026 09:08:50 +0000",
+          "date": "Sun, 22 Mar 2026 10:31:36 +0000",
           "description": "The concert in Seoul’s historic center was a grand homecoming for a pivotal force of South Korean soft power. RM, the group’s leader, performed through an ankle injury."
         },
         {
@@ -2493,24 +2493,14 @@
           "description": "Sri Lanka has kept more than 250 sailors in protective custody since the early days of the war. Iran wants them back, but Sri Lanka is unsure what to do with them."
         },
         {
-          "headline": "On Beirut’s Waterfront, Loss Meets Life, and Luxury, Amid War",
-          "url": "https://www.nytimes.com/2026/03/22/world/middleeast/beirut-israel-war-displaced-corniche.html",
+          "headline": "Residents of Arad Are Shaken After Direct Strike by Iranian Missile",
+          "url": "https://www.nytimes.com/2026/03/22/world/middleeast/arad-dimona-israel-iran-missile-strike.html",
           "source": "New York Times",
           "sourceId": "nyt_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Sun, 22 Mar 2026 09:01:08 +0000",
-          "description": "Thousands displaced by Israeli strikes on Lebanon’s capital now shelter along the promenade hugging the Mediterranean Sea. They share it with joggers, cyclists and dog walkers, alongside dizzying disp"
-        },
-        {
-          "headline": "Here’s the latest.",
-          "url": "https://www.nytimes.com/live/2026/03/22/world/iran-war-oil-trump/heres-the-latest",
-          "source": "New York Times",
-          "sourceId": "nyt_world",
-          "category": "general",
-          "priority": "secondary",
-          "date": "Sun, 22 Mar 2026 10:22:53 +0000",
-          "description": ""
+          "date": "Sun, 22 Mar 2026 10:47:21 +0000",
+          "description": "Attacks on Saturday injured dozens in Arad and Dimona, two cities closest to Israel’s main nuclear research facility."
         },
         {
           "headline": "‘The United States doesn’t even pretend to be within international law’",
@@ -2986,14 +2976,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSlVHdVZ6UEJMSTNvUXV2bExvdWpaWFg2a0EtV0t3YVlfczVfcXdjQUZxaWEtbmhnOHd4b1JzUV8wWjBZUjItam8yTVg3WEFrRVdzbzlVS0k3WlVWLUpvMmpPOHJ5bDNaNXRLMHl"
         },
         {
-          "headline": "Japan-U.S. Summit Meeting and Dinner Reception - mofa.go.jp",
-          "url": "https://www.mofa.go.jp/na/na1/us/pageite_000001_00007.html",
+          "headline": "Trump-Takaichi Summit: Expert Analysis on U.S.-Japan Relations - Syracuse University Today",
+          "url": "https://news.syr.edu/2026/03/20/trump-takaichi-summit-expert-analysis-on-u-s-japan-relations/",
           "source": "Daybook: International Events",
           "sourceId": "daybook_intl",
           "category": "daybook",
           "priority": "reference",
-          "date": "Fri, 20 Mar 2026 04:15:27 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5jNmhTQ3JZbjR2LVZmaXo1OG9HT1VQVDNzVWRwVVg5cXV3VnZKb3ZOX0ZucU93aWN4VnZRSjQ4aVhUaXhMZjZJTEVvNXIwbVFDaE1NMmdHWnQ3TWNJMTNrRzBiUTFpdmNSZmc?oc="
+          "date": "Fri, 20 Mar 2026 20:56:06 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQV1M0eFZmMzJVbWFKczk0NGd0bHh6M2o0ZVdQcjZWWFNDbXZiVHlpb2JNWGpnQUVrOFBIbktadHpacURvd201U3VSZFBmSFJVdkV2b3FDalhfaDRQMl9MVVU5emhZWmRxVTJGeXo"
         },
         {
           "headline": "G20 (Group of 20) | History &amp; Members - Britannica",
@@ -3004,6 +2994,16 @@
           "priority": "reference",
           "date": "Mon, 16 Mar 2026 05:00:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9IYW10UEFKaXZCd2pHd2c1V3RHc05SLTJIWmlCMWc0TjlONXRmZUF3N1l1NjNXWnRHcm5FUHNtR1ktM1N3N29Dckt2WHdWdGtDd2t1NW9sWQ?oc=5\" target=\"_blank\"&gt;G20"
+        },
+        {
+          "headline": "Japan-U.S. Summit Meeting and Dinner Reception - mofa.go.jp",
+          "url": "https://www.mofa.go.jp/na/na1/us/pageite_000001_00007.html",
+          "source": "Daybook: International Events",
+          "sourceId": "daybook_intl",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Fri, 20 Mar 2026 04:15:27 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5jNmhTQ3JZbjR2LVZmaXo1OG9HT1VQVDNzVWRwVVg5cXV3VnZKb3ZOX0ZucU93aWN4VnZRSjQ4aVhUaXhMZjZJTEVvNXIwbVFDaE1NMmdHWnQ3TWNJMTNrRzBiUTFpdmNSZmc?oc="
         },
         {
           "headline": "INTERPOL-UNODC global summit ends with call to action against fraud surge - Interpol",
@@ -3116,16 +3116,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbDM1cFRzVTdadVJiZnpWNE9MRzlnUkpvWVc4Zm5DRnZMdjVnUzRUTTNqSHdpSDBjSVBIUzVRMEhtNXZ4M0NqdFhrZ0NHU2tDTWRqazZoZnI4bW5tWnE1Wmd1OERjRHFKRmdUa3V"
         },
         {
-          "headline": "Trump-Takaichi Summit: Expert Analysis on U.S.-Japan Relations - Syracuse University Today",
-          "url": "https://news.syr.edu/2026/03/20/trump-takaichi-summit-expert-analysis-on-u-s-japan-relations/",
-          "source": "Daybook: International Events",
-          "sourceId": "daybook_intl",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Fri, 20 Mar 2026 20:56:06 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQV1M0eFZmMzJVbWFKczk0NGd0bHh6M2o0ZVdQcjZWWFNDbXZiVHlpb2JNWGpnQUVrOFBIbktadHpacURvd201U3VSZFBmSFJVdkV2b3FDalhfaDRQMl9MVVU5emhZWmRxVTJGeXo"
-        },
-        {
           "headline": "Key dates for 2025-26 NBA season - NBA",
           "url": "chrome-error://chromewebdata/",
           "source": "Daybook: Economic Calendar",
@@ -3156,16 +3146,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOTW93UnBleWM5TGFiODl3NEN1NlNsb2xTUzd2ek9COGg2aUdOQVY0cGc3dXJuRVBnc3N3VHBkdUhoWExqN2hXTHNlekRLX2ZFWmd6MTc4Z2toWkotek5Xc1FMNmZwUW5zTENSR3N"
         },
         {
-          "headline": "WATCH: Fed Chair Powell holds news briefing after interest rate left unchanged - PBS",
-          "url": "https://www.pbs.org/newshour/economy/watch-live-fed-chair-powell-holds-news-briefing-after-latest-interest-rate-decision",
-          "source": "Daybook: Economic Calendar",
-          "sourceId": "daybook_econ",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Wed, 18 Mar 2026 14:23:50 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxObmE2Rm5TNnFlVmNSODAwcFBnekVlTWJHekl5VWEwRzB5UTlxSXNMYUlOTnozX2ZjZ01hZENCTkZPc0ZmOTA2NDVxelFYRVd0Q1BkQ29QeUpHM3YtbTU5aHY1Y2o3M0tmcjdRNTZ"
-        },
-        {
           "headline": "Fed meeting March 2026: What is next for interest rates - Fidelity",
           "url": "chrome-error://chromewebdata/",
           "source": "Daybook: Economic Calendar",
@@ -3194,6 +3174,16 @@
           "priority": "reference",
           "date": "Tue, 17 Mar 2026 22:28:20 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOSUNyQUJUQUFkZUNkN1Jhd2UtUFVzTEJfV0hWakxnLVV6X0lKVktab1RVSl9ESDF2V1hRYlgxa2tOdEhlb1JMNVdfYVl1WS15RW45MUJZa0V0RHdjVGFjMDVCX21XMWJaNFZUQUF"
+        },
+        {
+          "headline": "WATCH: Fed Chair Powell holds news briefing after interest rate left unchanged - PBS",
+          "url": "https://www.pbs.org/newshour/economy/watch-live-fed-chair-powell-holds-news-briefing-after-latest-interest-rate-decision",
+          "source": "Daybook: Economic Calendar",
+          "sourceId": "daybook_econ",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Wed, 18 Mar 2026 14:23:50 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxObmE2Rm5TNnFlVmNSODAwcFBnekVlTWJHekl5VWEwRzB5UTlxSXNMYUlOTnozX2ZjZ01hZENCTkZPc0ZmOTA2NDVxelFYRVd0Q1BkQ29QeUpHM3YtbTU5aHY1Y2o3M0tmcjdRNTZ"
         },
         {
           "headline": "Here are the five key takeaways from this week's Fed meeting - CNBC",
@@ -3306,26 +3296,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdXdvY3pRNUxFeHdKUmZya1pka2dBYnlxbmdXUGxoYkVCb3A2WTVicXBPaWlpdEd4WTMyYndnUDNqX2l5VnVfTlVJVWtNa25aOGhIcUNnQWVLZVFqSlNMSlBUT2NvckJPMjVXUjJ"
         },
         {
-          "headline": "Flagstaff Area Scheduled for Multiple Prescribed Burns - Signals AZ",
-          "url": "https://www.signalsaz.com/articles/flagstaff-area-scheduled-for-multiple-prescribed-burns/",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Sun, 22 Mar 2026 07:12:20 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQcEZpaXdLSlVVQTJUZVAzOHFKTXdieExpbGZQcnFHMGdmbFlfcGZrZWlmNUhqVnFjT1BYTDRpVVF6ZTI3TG1lUDhkOUluYVZaR09CbWFhNG11REFmcUxtblVlbF93NU5UMmhNR3Z"
-        },
-        {
-          "headline": "Iran war live: Trump sets 48-hour deadline on Strait of Hormuz - The Times",
-          "url": "https://news.google.com/rss/articles/CBMiugNBVV95cUxNQWRIUG1fWmZIRm12RUhwcW9sTTdVdlZoZWF6aUZNNVlGRmFYeTN6d0E4aFRDdElrMWlFOHlqWmk2WGVjLTI1cG5tX0g2UExyel8zVjcxajFHV1Z5czFacjh0SEw2V2xISTNZaDFraWpIUXpVN0hEOGxtTFBDdFg0eHV0NVVCbWFMX1NxT3llT3hETEVfeXRyUXpvWlRLdzh0RThVeEViQ0Zkbl9WZ2FRbmN3SDhJOC1OVG1pWmFucFd2UW5XNk9WUU9DLW4wdTVOM0dzQWdXM3RLTV9RT2lrajUzTktoNnQ2dEQxVjZwTXNGVlI2ODB6dDFfby1mc21UNlRqR0RoWHNoZ2Jxd1I2T3JBenpuQnE1RGtDZFV4di1aelBmbHJIX0YzMGpqbVpJemtYd3ZDSlJRVlcyQWZwZzFiM1BUX1BmOEFhWTZMZmYtWmEtUHZPeVNJSUNhY1dqRFVuOFY5SWxiRnlFTDhQMDRXQl9URTloaFd1MWdSYVM1MEdYVG9GNTN5bkd2WnFIQWF6YW9udUcwdl9UU1pNbndrcmdhOGVXOFRaSzJYSTZGTTE3QjhGUUJR?oc=5",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Sun, 22 Mar 2026 00:40:54 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugNBVV95cUxNQWRIUG1fWmZIRm12RUhwcW9sTTdVdlZoZWF6aUZNNVlGRmFYeTN6d0E4aFRDdElrMWlFOHlqWmk2WGVjLTI1cG5tX0g2UExyel8zVjcxajFHV1Z5czFacjh0SEw2V2xISTNZaDF"
-        },
-        {
           "headline": "Richmond sets deadline for vacuum leaf removal requests - WRIC ABC 8News",
           "url": "https://www.wric.com/news/local-news/richmond/richmond-sets-deadline-for-vacuum-leaf-removal-requests/",
           "source": "Daybook: Scheduled Events",
@@ -3336,6 +3306,26 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOdWVQREJJVUlKcVF2U2VlMWFBQUMwX2g0WVU2emlBV3lzVUhteWxVNFFfUzNZeEhSMnRmOUl6WWpqMlpMMVl2dEh6WG5mRlFVZ2R2QjRkMklWLWlDRFFYbi1aM0RveEl1Q1hfMHV"
         },
         {
+          "headline": "Flagstaff Area Scheduled for Multiple Prescribed Burns - Signals AZ",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcEZpaXdLSlVVQTJUZVAzOHFKTXdieExpbGZQcnFHMGdmbFlfcGZrZWlmNUhqVnFjT1BYTDRpVVF6ZTI3TG1lUDhkOUluYVZaR09CbWFhNG11REFmcUxtblVlbF93NU5UMmhNR3ZRWk9mY1VkVnNZNHdGX2xoNTJfajVkVEZTVURYckhBRldHNktCMkVo?oc=5",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Sun, 22 Mar 2026 07:12:20 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQcEZpaXdLSlVVQTJUZVAzOHFKTXdieExpbGZQcnFHMGdmbFlfcGZrZWlmNUhqVnFjT1BYTDRpVVF6ZTI3TG1lUDhkOUluYVZaR09CbWFhNG11REFmcUxtblVlbF93NU5UMmhNR3Z"
+        },
+        {
+          "headline": "Iran war live: Trump sets 48-hour deadline on Strait of Hormuz - The Times",
+          "url": "https://www.thetimes.com/world/middle-east/article/iran-war-live-latest-news-trump-iran-strait-of-hormuz-7fdwq9zxm?gaa_at=eafs&gaa_n=AWEtsqeO3F3xzVmU5d2GkKLJVIj_agCK9dF7dxpBwap4lOvUiTG9MHRM_Umo&gaa_ts=69bfcdaa&gaa_sig=-lQfnU5TWDbU3SWw5qeYfC31TbWrzTwokxJNwswUBkNt7zNG2iqijj_zdRoNVf3sjwu3vW4Gm2spSK1UCRPiVQ%3D%3D",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Sun, 22 Mar 2026 00:40:54 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugNBVV95cUxQVE5FVDBiVjVOdHByTFdwdGMtWVpxMEpPOFNjdmZhYjdBbjNqMjVNNUxIZmtBeEpnei1iNldheGRvX04weHpSZHBDT1Z4TnpuZjdITF8yWGdzVGtIZkw2eGNTYkRXejczZllPYjl"
+        },
+        {
           "headline": "Disney's ABC is figuring out whether it will air the Taylor Frankie Paul season of The Bachelorette as Hulu pauses 'The Secret Lives of Mormon Wives. Read more below. - Facebook",
           "url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fdeadline%2Fphotos%2Fdisneys-abc-is-figuring-out-whether-it-will-air-the-taylor-frankie-paul-season-o%2F1292274066106264%2F",
           "source": "Daybook: Scheduled Events",
@@ -3344,6 +3334,16 @@
           "priority": "reference",
           "date": "Sun, 22 Mar 2026 03:59:44 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUlVnMzNVQXIyRHlGanlReGZoeTBrZk1jLUJOa1Fhd25ITmM4YjZLc1l1UzNCZnh5LWlITXdJNVJZeEcwbWJQUjFMeVBtNFVoYURwOVRkdmZJNmRDOGJCemtSSVNFbURoSTNaWWN"
+        },
+        {
+          "headline": "LIEAP Application Deadline Approaching for Pender County Residents - Pender County Government (.gov)",
+          "url": "https://www.pendercountync.gov/m/newsflash/home/detail/250",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Fri, 20 Mar 2026 00:07:35 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5EWkxXb2REM01mdmQ1MDZla2xWRzE2NnE2SzZmZFU4bFNhSGJXVUxJaHlQYWlCc1JhaVpMMXdjalB2NzltSUI5ZHZicVNtYWhSUTREa1ZzU1VXY1A1VFdwTXdkdDVHUQ?oc=5\" ta"
         },
         {
           "headline": "Trump gives Iran deadline to open Hormuz as mixed messages spur crisis - AFR",
@@ -3366,16 +3366,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPemdlQk5XekcweWVQX05kaXI0bjNyZjJ2bzdXSzFPMFppV3hnOUtmcHpiQTVWOHY2MzFCT3Vhc0xENGZSczJlaWx5T29nRDRrSi00R21qWE9mWFU3VVlqeU1WTDJjbmR4eUQ3dkF"
         },
         {
-          "headline": "‘Harry Potter’ Series Star Paapa Essiedu Says He’s Faced Death Threats Over Casting As Snape - Deadline",
-          "url": "https://deadline.com/2026/03/harry-potter-paapa-essiedu-hbo-casting-backlash-1236762381/",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Sat, 21 Mar 2026 22:19:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNODZlVXJUbGVNZUZzMW05bG5lb18zZ3pxTTExSzJEU2lsNkMwX21PZlJvY1RMZ1FtTmlWUzVHUGlHVWxLcU5FY3JpVjl4Q2luc3lpV2t6c0Jya1d3d3lfNERxYzZYZk81WDVYWnd"
-        },
-        {
           "headline": "'Saturday Night Live UK' Viewing Figures: Sky Show Makes Healthy Start - Deadline",
           "url": "https://deadline.com/2026/03/saturday-night-live-uk-viewing-figures-1236761679/",
           "source": "Daybook: Scheduled Events",
@@ -3384,6 +3374,26 @@
           "priority": "reference",
           "date": "Sun, 22 Mar 2026 09:57:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPaGJkVG85aHVKbjRDUlNkUW15T3JNRW9hcEpjbmI4aXQxekk5N2IydHVZMEMteWtqMnJsenRkT1dhcEM5ZWV6WUtrX1I0YTJTRm44cDRwUEpNT0wwbXVOejcyb21yNGxhWmFiZER"
+        },
+        {
+          "headline": "‘Saturday Night Live UK’: What The Critics Are Saying - Deadline",
+          "url": "https://deadline.com/2026/03/saturday-night-live-uk-reviews-critics-reaction-sky-snl-1236762484/",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Sun, 22 Mar 2026 08:57:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQMks1SXZkQXV4UVhHM2RVajFNMXdOUmRDLUg1Yld3Z0hnWkNKTnpNSy1WOVlCMm1WbEdCUk5QOWJ1bk80VzJ5cXRidm5fWGloNTFvVF80Wlllbjd4dlVaVjlPTDJzdUhTbGdaTUd"
+        },
+        {
+          "headline": "‘Harry Potter’ Series Star Paapa Essiedu Says He’s Faced Death Threats Over Casting As Snape - Deadline",
+          "url": "https://deadline.com/2026/03/harry-potter-paapa-essiedu-hbo-casting-backlash-1236762381/",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Sat, 21 Mar 2026 22:19:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNODZlVXJUbGVNZUZzMW05bG5lb18zZ3pxTTExSzJEU2lsNkMwX21PZlJvY1RMZ1FtTmlWUzVHUGlHVWxLcU5FY3JpVjl4Q2luc3lpV2t6c0Jya1d3d3lfNERxYzZYZk81WDVYWnd"
         },
         {
           "headline": "‘The Last Of Us’ Adds Michelle Mao As Yara &amp; Kyriana Kratter As Lev For Season 3 Of HBO Series - Deadline",
@@ -3404,26 +3414,6 @@
           "priority": "reference",
           "date": "Thu, 19 Mar 2026 17:01:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPeG9uR2V5OGQ3ZmxVRWRnOTFua0J5b29XY1dMSnRnWkxJc1lHd0VVVWlIamhOeV9LZlk2WGhuX1I1TGt4SzlkV05ZWVZLTldsemRaYzBuMUxVQWxnQVRSNUc1R0JFQVViY0JpNlp"
-        },
-        {
-          "headline": "Chuck Norris Dies: ‘Walker, Texas Ranger’ Star &amp; Action Vet Was 86 - Deadline",
-          "url": "https://deadline.com/2026/03/chuck-norris-dead-walker-texas-ranger-star-was-86-1236761332/",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Fri, 20 Mar 2026 14:15:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQcmUzakFQamRlOGFZQVdRR2kyMWZ1U2VlVjA1a3FjQ3ZFRWpkOTNuRGdjdDJZS2xNRVA5eVVfMkxxczFtemtIOVpJOHhJdzNWemJUWGNidS04azkzMVZOalBSTlZKU3RFZTM0eDV"
-        },
-        {
-          "headline": "‘Saturday Night Live UK’: What The Critics Are Saying - Deadline",
-          "url": "https://deadline.com/2026/03/saturday-night-live-uk-reviews-critics-reaction-sky-snl-1236762484/",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Sun, 22 Mar 2026 08:57:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQMks1SXZkQXV4UVhHM2RVajFNMXdOUmRDLUg1Yld3Z0hnWkNKTnpNSy1WOVlCMm1WbEdCUk5QOWJ1bk80VzJ5cXRidm5fWGloNTFvVF80Wlllbjd4dlVaVjlPTDJzdUhTbGdaTUd"
         }
       ]
     },
@@ -3563,7 +3553,7 @@
           "sourceId": "reuters_world",
           "category": "wire",
           "priority": "primary",
-          "date": "Sun, 22 Mar 2026 06:56:02 GMT",
+          "date": "Sun, 22 Mar 2026 06:56:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNWDVFUmlkOTcxUnBFQWNBZEloZjl4OFJUYVpaU0VCT2dBWFJaZ2dISTczd1ItSXRoMTRlSzRfLUl0UDlMYXFkV2MyT0g5WXVrNHcxZ2w3VXlCQkk5YllvSS1lVFM3RS1nVmNud2w"
         },
         {
@@ -3613,7 +3603,7 @@
           "sourceId": "reuters_world",
           "category": "wire",
           "priority": "primary",
-          "date": "Sun, 22 Mar 2026 00:16:00 GMT",
+          "date": "Sun, 22 Mar 2026 00:16:17 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQdEhmLUhYN1BhUGZ3dnpBZHZRTUF4UUZueVV1NnZ4RzlRSkg2dzZiZUlPNWJFUktlbE1ZQkpQMWZ6eWVjTlg3OUgyOHJvUzZHeXZmVHZGdjYzWXE1Rzg4Q0MtVW9TREtMckZJaTJ"
         },
         {
@@ -3647,16 +3637,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVnozUTVSWTNkemd1dC0xbmcxR1JsbDhsWDlmdlRwdG12UG5RNmZVQi1vMU1aQXJHcmZQTTlXUEtRQ1pmMzJnUFZXbEVtNUtfTkVLcTBfU2lrNXJkblhsQ0ZicFFLVDJLZ3FFOG9"
         },
         {
-          "headline": "Italians begin voting in high-stakes justice referendum - Reuters",
-          "url": "https://www.reuters.com/world/italians-begin-voting-high-stakes-justice-referendum-2026-03-22/",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Sun, 22 Mar 2026 06:20:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQdUNwZGREMjJWTk1fRE1XcVNMTjBVajkxR2E1TWJnbmdfNzhpa21zOVNTTmZlTzBlbE03TWttREIzbktpZzdJaDFUQXRmUWNWeFZhQWVWaklfeHgyQjZ5MzdZaVA1VjN5cnpTRnJ"
-        },
-        {
           "headline": "Taiwan says delayed US F-16s to start arriving this year - Reuters",
           "url": "https://www.reuters.com/business/aerospace-defense/taiwan-says-delayed-us-f-16s-start-arriving-this-year-2026-03-22/",
           "source": "Reuters",
@@ -3675,6 +3655,16 @@
           "priority": "primary",
           "date": "Sat, 21 Mar 2026 21:09:29 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQVBJc2d0ZnBnODBFVHlXVUhYYkZsdEpCR183amVMOUU0VDNHeXZaOHR3VkU3Umh3b29obVk0LVUydDRtZ1g4LUdoR21nVjlTMVhQa1pVUTA0SlphN0VoQUk4aXcwWG1HSjRVdG0"
+        },
+        {
+          "headline": "Italians begin voting in high-stakes justice referendum - Reuters",
+          "url": "https://www.reuters.com/world/italians-begin-voting-high-stakes-justice-referendum-2026-03-22/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Sun, 22 Mar 2026 06:20:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQdUNwZGREMjJWTk1fRE1XcVNMTjBVajkxR2E1TWJnbmdfNzhpa21zOVNTTmZlTzBlbE03TWttREIzbktpZzdJaDFUQXRmUWNWeFZhQWVWaklfeHgyQjZ5MzdZaVA1VjN5cnpTRnJ"
         },
         {
           "headline": "WHO says strike on Sudan hospital kills at least 64, takes facility out of service - Reuters",
@@ -4308,7 +4298,7 @@
           "sourceId": "nyt_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Sun, 22 Mar 2026 10:25:44 +0000",
+          "date": "Sun, 22 Mar 2026 10:47:23 +0000",
           "description": "President Trump issued an ultimatum after Iranian missiles struck cities in southern Israel, including one near the country’s main nuclear research center.",
           "watchCandidate": true,
           "watchSignals": [
@@ -4337,6 +4327,16 @@
           "priority": "secondary",
           "date": "Sun, 22 Mar 2026 04:01:17 +0000",
           "description": "Pierre-Édouard Stérin is financing projects to make France less Muslim, more Catholic and more capitalist. He says his program has trained thousands running for municipal office on Sunday."
+        },
+        {
+          "headline": "On Beirut’s Waterfront, Loss Meets Life, and Luxury, Amid War",
+          "url": "https://www.nytimes.com/2026/03/22/world/middleeast/beirut-israel-war-displaced-corniche.html",
+          "source": "New York Times",
+          "sourceId": "nyt_world",
+          "category": "general",
+          "priority": "secondary",
+          "date": "Sun, 22 Mar 2026 09:01:08 +0000",
+          "description": "Thousands displaced by Israeli strikes on Lebanon’s capital now shelter along the promenade hugging the Mediterranean Sea. They share it with joggers, cyclists and dog walkers, alongside dizzying disp"
         },
         {
           "headline": "Italy’s Leader Wants to Change the Constitution. Italians Don’t Get It.",
@@ -4432,7 +4432,7 @@
           "sourceId": "nyt_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Sun, 22 Mar 2026 09:08:50 +0000",
+          "date": "Sun, 22 Mar 2026 10:31:36 +0000",
           "description": "The concert in Seoul’s historic center was a grand homecoming for a pivotal force of South Korean soft power. RM, the group’s leader, performed through an ankle injury."
         },
         {
@@ -4446,24 +4446,14 @@
           "description": "Sri Lanka has kept more than 250 sailors in protective custody since the early days of the war. Iran wants them back, but Sri Lanka is unsure what to do with them."
         },
         {
-          "headline": "On Beirut’s Waterfront, Loss Meets Life, and Luxury, Amid War",
-          "url": "https://www.nytimes.com/2026/03/22/world/middleeast/beirut-israel-war-displaced-corniche.html",
+          "headline": "Residents of Arad Are Shaken After Direct Strike by Iranian Missile",
+          "url": "https://www.nytimes.com/2026/03/22/world/middleeast/arad-dimona-israel-iran-missile-strike.html",
           "source": "New York Times",
           "sourceId": "nyt_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Sun, 22 Mar 2026 09:01:08 +0000",
-          "description": "Thousands displaced by Israeli strikes on Lebanon’s capital now shelter along the promenade hugging the Mediterranean Sea. They share it with joggers, cyclists and dog walkers, alongside dizzying disp"
-        },
-        {
-          "headline": "Here’s the latest.",
-          "url": "https://www.nytimes.com/live/2026/03/22/world/iran-war-oil-trump/heres-the-latest",
-          "source": "New York Times",
-          "sourceId": "nyt_world",
-          "category": "general",
-          "priority": "secondary",
-          "date": "Sun, 22 Mar 2026 10:22:53 +0000",
-          "description": ""
+          "date": "Sun, 22 Mar 2026 10:47:21 +0000",
+          "description": "Attacks on Saturday injured dozens in Arad and Dimona, two cities closest to Israel’s main nuclear research facility."
         },
         {
           "headline": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
@@ -4964,14 +4954,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSlVHdVZ6UEJMSTNvUXV2bExvdWpaWFg2a0EtV0t3YVlfczVfcXdjQUZxaWEtbmhnOHd4b1JzUV8wWjBZUjItam8yTVg3WEFrRVdzbzlVS0k3WlVWLUpvMmpPOHJ5bDNaNXRLMHl"
         },
         {
-          "headline": "Japan-U.S. Summit Meeting and Dinner Reception - mofa.go.jp",
-          "url": "https://www.mofa.go.jp/na/na1/us/pageite_000001_00007.html",
+          "headline": "Trump-Takaichi Summit: Expert Analysis on U.S.-Japan Relations - Syracuse University Today",
+          "url": "https://news.syr.edu/2026/03/20/trump-takaichi-summit-expert-analysis-on-u-s-japan-relations/",
           "source": "Daybook: International Events",
           "sourceId": "daybook_intl",
           "category": "daybook",
           "priority": "reference",
-          "date": "Fri, 20 Mar 2026 04:15:27 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5jNmhTQ3JZbjR2LVZmaXo1OG9HT1VQVDNzVWRwVVg5cXV3VnZKb3ZOX0ZucU93aWN4VnZRSjQ4aVhUaXhMZjZJTEVvNXIwbVFDaE1NMmdHWnQ3TWNJMTNrRzBiUTFpdmNSZmc?oc="
+          "date": "Fri, 20 Mar 2026 20:56:06 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQV1M0eFZmMzJVbWFKczk0NGd0bHh6M2o0ZVdQcjZWWFNDbXZiVHlpb2JNWGpnQUVrOFBIbktadHpacURvd201U3VSZFBmSFJVdkV2b3FDalhfaDRQMl9MVVU5emhZWmRxVTJGeXo"
         },
         {
           "headline": "G20 (Group of 20) | History &amp; Members - Britannica",
@@ -4982,6 +4972,16 @@
           "priority": "reference",
           "date": "Mon, 16 Mar 2026 05:00:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9IYW10UEFKaXZCd2pHd2c1V3RHc05SLTJIWmlCMWc0TjlONXRmZUF3N1l1NjNXWnRHcm5FUHNtR1ktM1N3N29Dckt2WHdWdGtDd2t1NW9sWQ?oc=5\" target=\"_blank\"&gt;G20"
+        },
+        {
+          "headline": "Japan-U.S. Summit Meeting and Dinner Reception - mofa.go.jp",
+          "url": "https://www.mofa.go.jp/na/na1/us/pageite_000001_00007.html",
+          "source": "Daybook: International Events",
+          "sourceId": "daybook_intl",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Fri, 20 Mar 2026 04:15:27 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5jNmhTQ3JZbjR2LVZmaXo1OG9HT1VQVDNzVWRwVVg5cXV3VnZKb3ZOX0ZucU93aWN4VnZRSjQ4aVhUaXhMZjZJTEVvNXIwbVFDaE1NMmdHWnQ3TWNJMTNrRzBiUTFpdmNSZmc?oc="
         },
         {
           "headline": "INTERPOL-UNODC global summit ends with call to action against fraud surge - Interpol",
@@ -5094,16 +5094,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbDM1cFRzVTdadVJiZnpWNE9MRzlnUkpvWVc4Zm5DRnZMdjVnUzRUTTNqSHdpSDBjSVBIUzVRMEhtNXZ4M0NqdFhrZ0NHU2tDTWRqazZoZnI4bW5tWnE1Wmd1OERjRHFKRmdUa3V"
         },
         {
-          "headline": "Trump-Takaichi Summit: Expert Analysis on U.S.-Japan Relations - Syracuse University Today",
-          "url": "https://news.syr.edu/2026/03/20/trump-takaichi-summit-expert-analysis-on-u-s-japan-relations/",
-          "source": "Daybook: International Events",
-          "sourceId": "daybook_intl",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Fri, 20 Mar 2026 20:56:06 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQV1M0eFZmMzJVbWFKczk0NGd0bHh6M2o0ZVdQcjZWWFNDbXZiVHlpb2JNWGpnQUVrOFBIbktadHpacURvd201U3VSZFBmSFJVdkV2b3FDalhfaDRQMl9MVVU5emhZWmRxVTJGeXo"
-        },
-        {
           "headline": "Key dates for 2025-26 NBA season - NBA",
           "url": "chrome-error://chromewebdata/",
           "source": "Daybook: Economic Calendar",
@@ -5134,16 +5124,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOTW93UnBleWM5TGFiODl3NEN1NlNsb2xTUzd2ek9COGg2aUdOQVY0cGc3dXJuRVBnc3N3VHBkdUhoWExqN2hXTHNlekRLX2ZFWmd6MTc4Z2toWkotek5Xc1FMNmZwUW5zTENSR3N"
         },
         {
-          "headline": "WATCH: Fed Chair Powell holds news briefing after interest rate left unchanged - PBS",
-          "url": "https://www.pbs.org/newshour/economy/watch-live-fed-chair-powell-holds-news-briefing-after-latest-interest-rate-decision",
-          "source": "Daybook: Economic Calendar",
-          "sourceId": "daybook_econ",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Wed, 18 Mar 2026 14:23:50 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxObmE2Rm5TNnFlVmNSODAwcFBnekVlTWJHekl5VWEwRzB5UTlxSXNMYUlOTnozX2ZjZ01hZENCTkZPc0ZmOTA2NDVxelFYRVd0Q1BkQ29QeUpHM3YtbTU5aHY1Y2o3M0tmcjdRNTZ"
-        },
-        {
           "headline": "Fed meeting March 2026: What is next for interest rates - Fidelity",
           "url": "chrome-error://chromewebdata/",
           "source": "Daybook: Economic Calendar",
@@ -5172,6 +5152,16 @@
           "priority": "reference",
           "date": "Tue, 17 Mar 2026 22:28:20 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOSUNyQUJUQUFkZUNkN1Jhd2UtUFVzTEJfV0hWakxnLVV6X0lKVktab1RVSl9ESDF2V1hRYlgxa2tOdEhlb1JMNVdfYVl1WS15RW45MUJZa0V0RHdjVGFjMDVCX21XMWJaNFZUQUF"
+        },
+        {
+          "headline": "WATCH: Fed Chair Powell holds news briefing after interest rate left unchanged - PBS",
+          "url": "https://www.pbs.org/newshour/economy/watch-live-fed-chair-powell-holds-news-briefing-after-latest-interest-rate-decision",
+          "source": "Daybook: Economic Calendar",
+          "sourceId": "daybook_econ",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Wed, 18 Mar 2026 14:23:50 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxObmE2Rm5TNnFlVmNSODAwcFBnekVlTWJHekl5VWEwRzB5UTlxSXNMYUlOTnozX2ZjZ01hZENCTkZPc0ZmOTA2NDVxelFYRVd0Q1BkQ29QeUpHM3YtbTU5aHY1Y2o3M0tmcjdRNTZ"
         },
         {
           "headline": "Here are the five key takeaways from this week's Fed meeting - CNBC",
@@ -5284,26 +5274,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdXdvY3pRNUxFeHdKUmZya1pka2dBYnlxbmdXUGxoYkVCb3A2WTVicXBPaWlpdEd4WTMyYndnUDNqX2l5VnVfTlVJVWtNa25aOGhIcUNnQWVLZVFqSlNMSlBUT2NvckJPMjVXUjJ"
         },
         {
-          "headline": "Flagstaff Area Scheduled for Multiple Prescribed Burns - Signals AZ",
-          "url": "https://www.signalsaz.com/articles/flagstaff-area-scheduled-for-multiple-prescribed-burns/",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Sun, 22 Mar 2026 07:12:20 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQcEZpaXdLSlVVQTJUZVAzOHFKTXdieExpbGZQcnFHMGdmbFlfcGZrZWlmNUhqVnFjT1BYTDRpVVF6ZTI3TG1lUDhkOUluYVZaR09CbWFhNG11REFmcUxtblVlbF93NU5UMmhNR3Z"
-        },
-        {
-          "headline": "Iran war live: Trump sets 48-hour deadline on Strait of Hormuz - The Times",
-          "url": "https://news.google.com/rss/articles/CBMiugNBVV95cUxNQWRIUG1fWmZIRm12RUhwcW9sTTdVdlZoZWF6aUZNNVlGRmFYeTN6d0E4aFRDdElrMWlFOHlqWmk2WGVjLTI1cG5tX0g2UExyel8zVjcxajFHV1Z5czFacjh0SEw2V2xISTNZaDFraWpIUXpVN0hEOGxtTFBDdFg0eHV0NVVCbWFMX1NxT3llT3hETEVfeXRyUXpvWlRLdzh0RThVeEViQ0Zkbl9WZ2FRbmN3SDhJOC1OVG1pWmFucFd2UW5XNk9WUU9DLW4wdTVOM0dzQWdXM3RLTV9RT2lrajUzTktoNnQ2dEQxVjZwTXNGVlI2ODB6dDFfby1mc21UNlRqR0RoWHNoZ2Jxd1I2T3JBenpuQnE1RGtDZFV4di1aelBmbHJIX0YzMGpqbVpJemtYd3ZDSlJRVlcyQWZwZzFiM1BUX1BmOEFhWTZMZmYtWmEtUHZPeVNJSUNhY1dqRFVuOFY5SWxiRnlFTDhQMDRXQl9URTloaFd1MWdSYVM1MEdYVG9GNTN5bkd2WnFIQWF6YW9udUcwdl9UU1pNbndrcmdhOGVXOFRaSzJYSTZGTTE3QjhGUUJR?oc=5",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Sun, 22 Mar 2026 00:40:54 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugNBVV95cUxNQWRIUG1fWmZIRm12RUhwcW9sTTdVdlZoZWF6aUZNNVlGRmFYeTN6d0E4aFRDdElrMWlFOHlqWmk2WGVjLTI1cG5tX0g2UExyel8zVjcxajFHV1Z5czFacjh0SEw2V2xISTNZaDF"
-        },
-        {
           "headline": "Richmond sets deadline for vacuum leaf removal requests - WRIC ABC 8News",
           "url": "https://www.wric.com/news/local-news/richmond/richmond-sets-deadline-for-vacuum-leaf-removal-requests/",
           "source": "Daybook: Scheduled Events",
@@ -5314,6 +5284,26 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOdWVQREJJVUlKcVF2U2VlMWFBQUMwX2g0WVU2emlBV3lzVUhteWxVNFFfUzNZeEhSMnRmOUl6WWpqMlpMMVl2dEh6WG5mRlFVZ2R2QjRkMklWLWlDRFFYbi1aM0RveEl1Q1hfMHV"
         },
         {
+          "headline": "Flagstaff Area Scheduled for Multiple Prescribed Burns - Signals AZ",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcEZpaXdLSlVVQTJUZVAzOHFKTXdieExpbGZQcnFHMGdmbFlfcGZrZWlmNUhqVnFjT1BYTDRpVVF6ZTI3TG1lUDhkOUluYVZaR09CbWFhNG11REFmcUxtblVlbF93NU5UMmhNR3ZRWk9mY1VkVnNZNHdGX2xoNTJfajVkVEZTVURYckhBRldHNktCMkVo?oc=5",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Sun, 22 Mar 2026 07:12:20 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQcEZpaXdLSlVVQTJUZVAzOHFKTXdieExpbGZQcnFHMGdmbFlfcGZrZWlmNUhqVnFjT1BYTDRpVVF6ZTI3TG1lUDhkOUluYVZaR09CbWFhNG11REFmcUxtblVlbF93NU5UMmhNR3Z"
+        },
+        {
+          "headline": "Iran war live: Trump sets 48-hour deadline on Strait of Hormuz - The Times",
+          "url": "https://www.thetimes.com/world/middle-east/article/iran-war-live-latest-news-trump-iran-strait-of-hormuz-7fdwq9zxm?gaa_at=eafs&gaa_n=AWEtsqeO3F3xzVmU5d2GkKLJVIj_agCK9dF7dxpBwap4lOvUiTG9MHRM_Umo&gaa_ts=69bfcdaa&gaa_sig=-lQfnU5TWDbU3SWw5qeYfC31TbWrzTwokxJNwswUBkNt7zNG2iqijj_zdRoNVf3sjwu3vW4Gm2spSK1UCRPiVQ%3D%3D",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Sun, 22 Mar 2026 00:40:54 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugNBVV95cUxQVE5FVDBiVjVOdHByTFdwdGMtWVpxMEpPOFNjdmZhYjdBbjNqMjVNNUxIZmtBeEpnei1iNldheGRvX04weHpSZHBDT1Z4TnpuZjdITF8yWGdzVGtIZkw2eGNTYkRXejczZllPYjl"
+        },
+        {
           "headline": "Disney's ABC is figuring out whether it will air the Taylor Frankie Paul season of The Bachelorette as Hulu pauses 'The Secret Lives of Mormon Wives. Read more below. - Facebook",
           "url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fdeadline%2Fphotos%2Fdisneys-abc-is-figuring-out-whether-it-will-air-the-taylor-frankie-paul-season-o%2F1292274066106264%2F",
           "source": "Daybook: Scheduled Events",
@@ -5322,6 +5312,16 @@
           "priority": "reference",
           "date": "Sun, 22 Mar 2026 03:59:44 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUlVnMzNVQXIyRHlGanlReGZoeTBrZk1jLUJOa1Fhd25ITmM4YjZLc1l1UzNCZnh5LWlITXdJNVJZeEcwbWJQUjFMeVBtNFVoYURwOVRkdmZJNmRDOGJCemtSSVNFbURoSTNaWWN"
+        },
+        {
+          "headline": "LIEAP Application Deadline Approaching for Pender County Residents - Pender County Government (.gov)",
+          "url": "https://www.pendercountync.gov/m/newsflash/home/detail/250",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Fri, 20 Mar 2026 00:07:35 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5EWkxXb2REM01mdmQ1MDZla2xWRzE2NnE2SzZmZFU4bFNhSGJXVUxJaHlQYWlCc1JhaVpMMXdjalB2NzltSUI5ZHZicVNtYWhSUTREa1ZzU1VXY1A1VFdwTXdkdDVHUQ?oc=5\" ta"
         },
         {
           "headline": "Trump gives Iran deadline to open Hormuz as mixed messages spur crisis - AFR",
@@ -5344,16 +5344,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPemdlQk5XekcweWVQX05kaXI0bjNyZjJ2bzdXSzFPMFppV3hnOUtmcHpiQTVWOHY2MzFCT3Vhc0xENGZSczJlaWx5T29nRDRrSi00R21qWE9mWFU3VVlqeU1WTDJjbmR4eUQ3dkF"
         },
         {
-          "headline": "‘Harry Potter’ Series Star Paapa Essiedu Says He’s Faced Death Threats Over Casting As Snape - Deadline",
-          "url": "https://deadline.com/2026/03/harry-potter-paapa-essiedu-hbo-casting-backlash-1236762381/",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Sat, 21 Mar 2026 22:19:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNODZlVXJUbGVNZUZzMW05bG5lb18zZ3pxTTExSzJEU2lsNkMwX21PZlJvY1RMZ1FtTmlWUzVHUGlHVWxLcU5FY3JpVjl4Q2luc3lpV2t6c0Jya1d3d3lfNERxYzZYZk81WDVYWnd"
-        },
-        {
           "headline": "'Saturday Night Live UK' Viewing Figures: Sky Show Makes Healthy Start - Deadline",
           "url": "https://deadline.com/2026/03/saturday-night-live-uk-viewing-figures-1236761679/",
           "source": "Daybook: Scheduled Events",
@@ -5362,6 +5352,26 @@
           "priority": "reference",
           "date": "Sun, 22 Mar 2026 09:57:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPaGJkVG85aHVKbjRDUlNkUW15T3JNRW9hcEpjbmI4aXQxekk5N2IydHVZMEMteWtqMnJsenRkT1dhcEM5ZWV6WUtrX1I0YTJTRm44cDRwUEpNT0wwbXVOejcyb21yNGxhWmFiZER"
+        },
+        {
+          "headline": "‘Saturday Night Live UK’: What The Critics Are Saying - Deadline",
+          "url": "https://deadline.com/2026/03/saturday-night-live-uk-reviews-critics-reaction-sky-snl-1236762484/",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Sun, 22 Mar 2026 08:57:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQMks1SXZkQXV4UVhHM2RVajFNMXdOUmRDLUg1Yld3Z0hnWkNKTnpNSy1WOVlCMm1WbEdCUk5QOWJ1bk80VzJ5cXRidm5fWGloNTFvVF80Wlllbjd4dlVaVjlPTDJzdUhTbGdaTUd"
+        },
+        {
+          "headline": "‘Harry Potter’ Series Star Paapa Essiedu Says He’s Faced Death Threats Over Casting As Snape - Deadline",
+          "url": "https://deadline.com/2026/03/harry-potter-paapa-essiedu-hbo-casting-backlash-1236762381/",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Sat, 21 Mar 2026 22:19:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNODZlVXJUbGVNZUZzMW05bG5lb18zZ3pxTTExSzJEU2lsNkMwX21PZlJvY1RMZ1FtTmlWUzVHUGlHVWxLcU5FY3JpVjl4Q2luc3lpV2t6c0Jya1d3d3lfNERxYzZYZk81WDVYWnd"
         },
         {
           "headline": "‘The Last Of Us’ Adds Michelle Mao As Yara &amp; Kyriana Kratter As Lev For Season 3 Of HBO Series - Deadline",
@@ -5382,26 +5392,6 @@
           "priority": "reference",
           "date": "Thu, 19 Mar 2026 17:01:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPeG9uR2V5OGQ3ZmxVRWRnOTFua0J5b29XY1dMSnRnWkxJc1lHd0VVVWlIamhOeV9LZlk2WGhuX1I1TGt4SzlkV05ZWVZLTldsemRaYzBuMUxVQWxnQVRSNUc1R0JFQVViY0JpNlp"
-        },
-        {
-          "headline": "Chuck Norris Dies: ‘Walker, Texas Ranger’ Star &amp; Action Vet Was 86 - Deadline",
-          "url": "https://deadline.com/2026/03/chuck-norris-dead-walker-texas-ranger-star-was-86-1236761332/",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Fri, 20 Mar 2026 14:15:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQcmUzakFQamRlOGFZQVdRR2kyMWZ1U2VlVjA1a3FjQ3ZFRWpkOTNuRGdjdDJZS2xNRVA5eVVfMkxxczFtemtIOVpJOHhJdzNWemJUWGNidS04azkzMVZOalBSTlZKU3RFZTM0eDV"
-        },
-        {
-          "headline": "‘Saturday Night Live UK’: What The Critics Are Saying - Deadline",
-          "url": "https://deadline.com/2026/03/saturday-night-live-uk-reviews-critics-reaction-sky-snl-1236762484/",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Sun, 22 Mar 2026 08:57:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQMks1SXZkQXV4UVhHM2RVajFNMXdOUmRDLUg1Yld3Z0hnWkNKTnpNSy1WOVlCMm1WbEdCUk5QOWJ1bk80VzJ5cXRidm5fWGloNTFvVF80Wlllbjd4dlVaVjlPTDJzdUhTbGdaTUd"
         }
       ]
     }
@@ -5418,14 +5408,14 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSlVHdVZ6UEJMSTNvUXV2bExvdWpaWFg2a0EtV0t3YVlfczVfcXdjQUZxaWEtbmhnOHd4b1JzUV8wWjBZUjItam8yTVg3WEFrRVdzbzlVS0k3WlVWLUpvMmpPOHJ5bDNaNXRLMHl"
     },
     {
-      "headline": "Japan-U.S. Summit Meeting and Dinner Reception - mofa.go.jp",
-      "url": "https://www.mofa.go.jp/na/na1/us/pageite_000001_00007.html",
+      "headline": "Trump-Takaichi Summit: Expert Analysis on U.S.-Japan Relations - Syracuse University Today",
+      "url": "https://news.syr.edu/2026/03/20/trump-takaichi-summit-expert-analysis-on-u-s-japan-relations/",
       "source": "Daybook: International Events",
       "sourceId": "daybook_intl",
       "category": "daybook",
       "priority": "reference",
-      "date": "Fri, 20 Mar 2026 04:15:27 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5jNmhTQ3JZbjR2LVZmaXo1OG9HT1VQVDNzVWRwVVg5cXV3VnZKb3ZOX0ZucU93aWN4VnZRSjQ4aVhUaXhMZjZJTEVvNXIwbVFDaE1NMmdHWnQ3TWNJMTNrRzBiUTFpdmNSZmc?oc="
+      "date": "Fri, 20 Mar 2026 20:56:06 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQV1M0eFZmMzJVbWFKczk0NGd0bHh6M2o0ZVdQcjZWWFNDbXZiVHlpb2JNWGpnQUVrOFBIbktadHpacURvd201U3VSZFBmSFJVdkV2b3FDalhfaDRQMl9MVVU5emhZWmRxVTJGeXo"
     },
     {
       "headline": "G20 (Group of 20) | History &amp; Members - Britannica",
@@ -5436,6 +5426,16 @@
       "priority": "reference",
       "date": "Mon, 16 Mar 2026 05:00:00 GMT",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9IYW10UEFKaXZCd2pHd2c1V3RHc05SLTJIWmlCMWc0TjlONXRmZUF3N1l1NjNXWnRHcm5FUHNtR1ktM1N3N29Dckt2WHdWdGtDd2t1NW9sWQ?oc=5\" target=\"_blank\"&gt;G20"
+    },
+    {
+      "headline": "Japan-U.S. Summit Meeting and Dinner Reception - mofa.go.jp",
+      "url": "https://www.mofa.go.jp/na/na1/us/pageite_000001_00007.html",
+      "source": "Daybook: International Events",
+      "sourceId": "daybook_intl",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Fri, 20 Mar 2026 04:15:27 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5jNmhTQ3JZbjR2LVZmaXo1OG9HT1VQVDNzVWRwVVg5cXV3VnZKb3ZOX0ZucU93aWN4VnZRSjQ4aVhUaXhMZjZJTEVvNXIwbVFDaE1NMmdHWnQ3TWNJMTNrRzBiUTFpdmNSZmc?oc="
     },
     {
       "headline": "INTERPOL-UNODC global summit ends with call to action against fraud surge - Interpol",
@@ -5548,16 +5548,6 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbDM1cFRzVTdadVJiZnpWNE9MRzlnUkpvWVc4Zm5DRnZMdjVnUzRUTTNqSHdpSDBjSVBIUzVRMEhtNXZ4M0NqdFhrZ0NHU2tDTWRqazZoZnI4bW5tWnE1Wmd1OERjRHFKRmdUa3V"
     },
     {
-      "headline": "Trump-Takaichi Summit: Expert Analysis on U.S.-Japan Relations - Syracuse University Today",
-      "url": "https://news.syr.edu/2026/03/20/trump-takaichi-summit-expert-analysis-on-u-s-japan-relations/",
-      "source": "Daybook: International Events",
-      "sourceId": "daybook_intl",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Fri, 20 Mar 2026 20:56:06 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQV1M0eFZmMzJVbWFKczk0NGd0bHh6M2o0ZVdQcjZWWFNDbXZiVHlpb2JNWGpnQUVrOFBIbktadHpacURvd201U3VSZFBmSFJVdkV2b3FDalhfaDRQMl9MVVU5emhZWmRxVTJGeXo"
-    },
-    {
       "headline": "Fed’s Interest Rate Decision: March 18, 2026 - Advisor Perspectives",
       "url": "https://www.advisorperspectives.com/dshort/updates/2026/03/19/feds-interest-rate-decision-march-18-2026",
       "source": "Daybook: Economic Calendar",
@@ -5578,16 +5568,6 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOTW93UnBleWM5TGFiODl3NEN1NlNsb2xTUzd2ek9COGg2aUdOQVY0cGc3dXJuRVBnc3N3VHBkdUhoWExqN2hXTHNlekRLX2ZFWmd6MTc4Z2toWkotek5Xc1FMNmZwUW5zTENSR3N"
     },
     {
-      "headline": "WATCH: Fed Chair Powell holds news briefing after interest rate left unchanged - PBS",
-      "url": "https://www.pbs.org/newshour/economy/watch-live-fed-chair-powell-holds-news-briefing-after-latest-interest-rate-decision",
-      "source": "Daybook: Economic Calendar",
-      "sourceId": "daybook_econ",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Wed, 18 Mar 2026 14:23:50 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxObmE2Rm5TNnFlVmNSODAwcFBnekVlTWJHekl5VWEwRzB5UTlxSXNMYUlOTnozX2ZjZ01hZENCTkZPc0ZmOTA2NDVxelFYRVd0Q1BkQ29QeUpHM3YtbTU5aHY1Y2o3M0tmcjdRNTZ"
-    },
-    {
       "headline": "Embedded | 2026 Trade Deadline - NHL.com",
       "url": "https://www.nhl.com/sabres/video/embedded-2026-trade-deadline-6390981208112",
       "source": "Daybook: Economic Calendar",
@@ -5596,6 +5576,16 @@
       "priority": "reference",
       "date": "Sun, 15 Mar 2026 23:00:19 GMT",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQTlhEY2ZoUWJPSUdRU3FNMm9vUGw4OURiVXNwR0JSSGIxWkRCV3hRaUhWQlZITUJsdnYydWJrUklmTkJ1X1p5RW9HNGREVnhUT0hVQXdfczBmZFdkbnh1ZEdKamg2VlFrTmxDbmU"
+    },
+    {
+      "headline": "WATCH: Fed Chair Powell holds news briefing after interest rate left unchanged - PBS",
+      "url": "https://www.pbs.org/newshour/economy/watch-live-fed-chair-powell-holds-news-briefing-after-latest-interest-rate-decision",
+      "source": "Daybook: Economic Calendar",
+      "sourceId": "daybook_econ",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Wed, 18 Mar 2026 14:23:50 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxObmE2Rm5TNnFlVmNSODAwcFBnekVlTWJHekl5VWEwRzB5UTlxSXNMYUlOTnozX2ZjZ01hZENCTkZPc0ZmOTA2NDVxelFYRVd0Q1BkQ29QeUpHM3YtbTU5aHY1Y2o3M0tmcjdRNTZ"
     },
     {
       "headline": "Here are the five key takeaways from this week's Fed meeting - CNBC",
@@ -5688,26 +5678,6 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdXdvY3pRNUxFeHdKUmZya1pka2dBYnlxbmdXUGxoYkVCb3A2WTVicXBPaWlpdEd4WTMyYndnUDNqX2l5VnVfTlVJVWtNa25aOGhIcUNnQWVLZVFqSlNMSlBUT2NvckJPMjVXUjJ"
     },
     {
-      "headline": "Flagstaff Area Scheduled for Multiple Prescribed Burns - Signals AZ",
-      "url": "https://www.signalsaz.com/articles/flagstaff-area-scheduled-for-multiple-prescribed-burns/",
-      "source": "Daybook: Scheduled Events",
-      "sourceId": "daybook_scheduled",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Sun, 22 Mar 2026 07:12:20 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQcEZpaXdLSlVVQTJUZVAzOHFKTXdieExpbGZQcnFHMGdmbFlfcGZrZWlmNUhqVnFjT1BYTDRpVVF6ZTI3TG1lUDhkOUluYVZaR09CbWFhNG11REFmcUxtblVlbF93NU5UMmhNR3Z"
-    },
-    {
-      "headline": "Iran war live: Trump sets 48-hour deadline on Strait of Hormuz - The Times",
-      "url": "https://news.google.com/rss/articles/CBMiugNBVV95cUxNQWRIUG1fWmZIRm12RUhwcW9sTTdVdlZoZWF6aUZNNVlGRmFYeTN6d0E4aFRDdElrMWlFOHlqWmk2WGVjLTI1cG5tX0g2UExyel8zVjcxajFHV1Z5czFacjh0SEw2V2xISTNZaDFraWpIUXpVN0hEOGxtTFBDdFg0eHV0NVVCbWFMX1NxT3llT3hETEVfeXRyUXpvWlRLdzh0RThVeEViQ0Zkbl9WZ2FRbmN3SDhJOC1OVG1pWmFucFd2UW5XNk9WUU9DLW4wdTVOM0dzQWdXM3RLTV9RT2lrajUzTktoNnQ2dEQxVjZwTXNGVlI2ODB6dDFfby1mc21UNlRqR0RoWHNoZ2Jxd1I2T3JBenpuQnE1RGtDZFV4di1aelBmbHJIX0YzMGpqbVpJemtYd3ZDSlJRVlcyQWZwZzFiM1BUX1BmOEFhWTZMZmYtWmEtUHZPeVNJSUNhY1dqRFVuOFY5SWxiRnlFTDhQMDRXQl9URTloaFd1MWdSYVM1MEdYVG9GNTN5bkd2WnFIQWF6YW9udUcwdl9UU1pNbndrcmdhOGVXOFRaSzJYSTZGTTE3QjhGUUJR?oc=5",
-      "source": "Daybook: Scheduled Events",
-      "sourceId": "daybook_scheduled",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Sun, 22 Mar 2026 00:40:54 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugNBVV95cUxNQWRIUG1fWmZIRm12RUhwcW9sTTdVdlZoZWF6aUZNNVlGRmFYeTN6d0E4aFRDdElrMWlFOHlqWmk2WGVjLTI1cG5tX0g2UExyel8zVjcxajFHV1Z5czFacjh0SEw2V2xISTNZaDF"
-    },
-    {
       "headline": "Richmond sets deadline for vacuum leaf removal requests - WRIC ABC 8News",
       "url": "https://www.wric.com/news/local-news/richmond/richmond-sets-deadline-for-vacuum-leaf-removal-requests/",
       "source": "Daybook: Scheduled Events",
@@ -5718,6 +5688,26 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOdWVQREJJVUlKcVF2U2VlMWFBQUMwX2g0WVU2emlBV3lzVUhteWxVNFFfUzNZeEhSMnRmOUl6WWpqMlpMMVl2dEh6WG5mRlFVZ2R2QjRkMklWLWlDRFFYbi1aM0RveEl1Q1hfMHV"
     },
     {
+      "headline": "Flagstaff Area Scheduled for Multiple Prescribed Burns - Signals AZ",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcEZpaXdLSlVVQTJUZVAzOHFKTXdieExpbGZQcnFHMGdmbFlfcGZrZWlmNUhqVnFjT1BYTDRpVVF6ZTI3TG1lUDhkOUluYVZaR09CbWFhNG11REFmcUxtblVlbF93NU5UMmhNR3ZRWk9mY1VkVnNZNHdGX2xoNTJfajVkVEZTVURYckhBRldHNktCMkVo?oc=5",
+      "source": "Daybook: Scheduled Events",
+      "sourceId": "daybook_scheduled",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Sun, 22 Mar 2026 07:12:20 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQcEZpaXdLSlVVQTJUZVAzOHFKTXdieExpbGZQcnFHMGdmbFlfcGZrZWlmNUhqVnFjT1BYTDRpVVF6ZTI3TG1lUDhkOUluYVZaR09CbWFhNG11REFmcUxtblVlbF93NU5UMmhNR3Z"
+    },
+    {
+      "headline": "Iran war live: Trump sets 48-hour deadline on Strait of Hormuz - The Times",
+      "url": "https://www.thetimes.com/world/middle-east/article/iran-war-live-latest-news-trump-iran-strait-of-hormuz-7fdwq9zxm?gaa_at=eafs&gaa_n=AWEtsqeO3F3xzVmU5d2GkKLJVIj_agCK9dF7dxpBwap4lOvUiTG9MHRM_Umo&gaa_ts=69bfcdaa&gaa_sig=-lQfnU5TWDbU3SWw5qeYfC31TbWrzTwokxJNwswUBkNt7zNG2iqijj_zdRoNVf3sjwu3vW4Gm2spSK1UCRPiVQ%3D%3D",
+      "source": "Daybook: Scheduled Events",
+      "sourceId": "daybook_scheduled",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Sun, 22 Mar 2026 00:40:54 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugNBVV95cUxQVE5FVDBiVjVOdHByTFdwdGMtWVpxMEpPOFNjdmZhYjdBbjNqMjVNNUxIZmtBeEpnei1iNldheGRvX04weHpSZHBDT1Z4TnpuZjdITF8yWGdzVGtIZkw2eGNTYkRXejczZllPYjl"
+    },
+    {
       "headline": "Disney's ABC is figuring out whether it will air the Taylor Frankie Paul season of The Bachelorette as Hulu pauses 'The Secret Lives of Mormon Wives. Read more below. - Facebook",
       "url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fdeadline%2Fphotos%2Fdisneys-abc-is-figuring-out-whether-it-will-air-the-taylor-frankie-paul-season-o%2F1292274066106264%2F",
       "source": "Daybook: Scheduled Events",
@@ -5726,6 +5716,16 @@
       "priority": "reference",
       "date": "Sun, 22 Mar 2026 03:59:44 GMT",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUlVnMzNVQXIyRHlGanlReGZoeTBrZk1jLUJOa1Fhd25ITmM4YjZLc1l1UzNCZnh5LWlITXdJNVJZeEcwbWJQUjFMeVBtNFVoYURwOVRkdmZJNmRDOGJCemtSSVNFbURoSTNaWWN"
+    },
+    {
+      "headline": "LIEAP Application Deadline Approaching for Pender County Residents - Pender County Government (.gov)",
+      "url": "https://www.pendercountync.gov/m/newsflash/home/detail/250",
+      "source": "Daybook: Scheduled Events",
+      "sourceId": "daybook_scheduled",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Fri, 20 Mar 2026 00:07:35 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5EWkxXb2REM01mdmQ1MDZla2xWRzE2NnE2SzZmZFU4bFNhSGJXVUxJaHlQYWlCc1JhaVpMMXdjalB2NzltSUI5ZHZicVNtYWhSUTREa1ZzU1VXY1A1VFdwTXdkdDVHUQ?oc=5\" ta"
     },
     {
       "headline": "Trump gives Iran deadline to open Hormuz as mixed messages spur crisis - AFR",
@@ -5748,16 +5748,6 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPemdlQk5XekcweWVQX05kaXI0bjNyZjJ2bzdXSzFPMFppV3hnOUtmcHpiQTVWOHY2MzFCT3Vhc0xENGZSczJlaWx5T29nRDRrSi00R21qWE9mWFU3VVlqeU1WTDJjbmR4eUQ3dkF"
     },
     {
-      "headline": "‘Harry Potter’ Series Star Paapa Essiedu Says He’s Faced Death Threats Over Casting As Snape - Deadline",
-      "url": "https://deadline.com/2026/03/harry-potter-paapa-essiedu-hbo-casting-backlash-1236762381/",
-      "source": "Daybook: Scheduled Events",
-      "sourceId": "daybook_scheduled",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Sat, 21 Mar 2026 22:19:00 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNODZlVXJUbGVNZUZzMW05bG5lb18zZ3pxTTExSzJEU2lsNkMwX21PZlJvY1RMZ1FtTmlWUzVHUGlHVWxLcU5FY3JpVjl4Q2luc3lpV2t6c0Jya1d3d3lfNERxYzZYZk81WDVYWnd"
-    },
-    {
       "headline": "'Saturday Night Live UK' Viewing Figures: Sky Show Makes Healthy Start - Deadline",
       "url": "https://deadline.com/2026/03/saturday-night-live-uk-viewing-figures-1236761679/",
       "source": "Daybook: Scheduled Events",
@@ -5766,6 +5756,26 @@
       "priority": "reference",
       "date": "Sun, 22 Mar 2026 09:57:00 GMT",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPaGJkVG85aHVKbjRDUlNkUW15T3JNRW9hcEpjbmI4aXQxekk5N2IydHVZMEMteWtqMnJsenRkT1dhcEM5ZWV6WUtrX1I0YTJTRm44cDRwUEpNT0wwbXVOejcyb21yNGxhWmFiZER"
+    },
+    {
+      "headline": "‘Saturday Night Live UK’: What The Critics Are Saying - Deadline",
+      "url": "https://deadline.com/2026/03/saturday-night-live-uk-reviews-critics-reaction-sky-snl-1236762484/",
+      "source": "Daybook: Scheduled Events",
+      "sourceId": "daybook_scheduled",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Sun, 22 Mar 2026 08:57:00 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQMks1SXZkQXV4UVhHM2RVajFNMXdOUmRDLUg1Yld3Z0hnWkNKTnpNSy1WOVlCMm1WbEdCUk5QOWJ1bk80VzJ5cXRidm5fWGloNTFvVF80Wlllbjd4dlVaVjlPTDJzdUhTbGdaTUd"
+    },
+    {
+      "headline": "‘Harry Potter’ Series Star Paapa Essiedu Says He’s Faced Death Threats Over Casting As Snape - Deadline",
+      "url": "https://deadline.com/2026/03/harry-potter-paapa-essiedu-hbo-casting-backlash-1236762381/",
+      "source": "Daybook: Scheduled Events",
+      "sourceId": "daybook_scheduled",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Sat, 21 Mar 2026 22:19:00 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNODZlVXJUbGVNZUZzMW05bG5lb18zZ3pxTTExSzJEU2lsNkMwX21PZlJvY1RMZ1FtTmlWUzVHUGlHVWxLcU5FY3JpVjl4Q2luc3lpV2t6c0Jya1d3d3lfNERxYzZYZk81WDVYWnd"
     },
     {
       "headline": "‘The Last Of Us’ Adds Michelle Mao As Yara &amp; Kyriana Kratter As Lev For Season 3 Of HBO Series - Deadline",
@@ -5786,26 +5796,6 @@
       "priority": "reference",
       "date": "Thu, 19 Mar 2026 17:01:00 GMT",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPeG9uR2V5OGQ3ZmxVRWRnOTFua0J5b29XY1dMSnRnWkxJc1lHd0VVVWlIamhOeV9LZlk2WGhuX1I1TGt4SzlkV05ZWVZLTldsemRaYzBuMUxVQWxnQVRSNUc1R0JFQVViY0JpNlp"
-    },
-    {
-      "headline": "Chuck Norris Dies: ‘Walker, Texas Ranger’ Star &amp; Action Vet Was 86 - Deadline",
-      "url": "https://deadline.com/2026/03/chuck-norris-dead-walker-texas-ranger-star-was-86-1236761332/",
-      "source": "Daybook: Scheduled Events",
-      "sourceId": "daybook_scheduled",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Fri, 20 Mar 2026 14:15:00 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQcmUzakFQamRlOGFZQVdRR2kyMWZ1U2VlVjA1a3FjQ3ZFRWpkOTNuRGdjdDJZS2xNRVA5eVVfMkxxczFtemtIOVpJOHhJdzNWemJUWGNidS04azkzMVZOalBSTlZKU3RFZTM0eDV"
-    },
-    {
-      "headline": "‘Saturday Night Live UK’: What The Critics Are Saying - Deadline",
-      "url": "https://deadline.com/2026/03/saturday-night-live-uk-reviews-critics-reaction-sky-snl-1236762484/",
-      "source": "Daybook: Scheduled Events",
-      "sourceId": "daybook_scheduled",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Sun, 22 Mar 2026 08:57:00 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQMks1SXZkQXV4UVhHM2RVajFNMXdOUmRDLUg1Yld3Z0hnWkNKTnpNSy1WOVlCMm1WbEdCUk5QOWJ1bk80VzJ5cXRidm5fWGloNTFvVF80Wlllbjd4dlVaVjlPTDJzdUhTbGdaTUd"
     }
   ],
   "watchCandidates": [
@@ -5926,7 +5916,7 @@
       "sourceId": "nyt_world",
       "category": "general",
       "priority": "secondary",
-      "date": "Sun, 22 Mar 2026 10:25:44 +0000",
+      "date": "Sun, 22 Mar 2026 10:47:23 +0000",
       "description": "President Trump issued an ultimatum after Iranian missiles struck cities in southern Israel, including one near the country’s main nuclear research center.",
       "watchCandidate": true,
       "watchSignals": [
@@ -6049,7 +6039,7 @@
       "priority": "primary",
       "topHeadlines": [
         "Trump threatens attacks on Iranian power plants if Tehran fails to open the Strait of Hormuz",
-        "The Strait of Hormuz has a long history of disruption",
+        "UK says missile fell short of Diego Garcia",
         "What to know about Diego Garcia after Iran targets the remote island’s key US military base",
         "Surprise, embarrassment, unease in Japan after Trump uses Pearl Harbor to defend Iran war",
         "Trump touted bigger tax refunds this year, but Americans will likely spend them on gas",
@@ -6106,13 +6096,13 @@
       "category": "priority_signal",
       "priority": "primary",
       "topHeadlines": [
-        "Support the Guardian",
+        "The free press is under threat",
         "'Stakes are enormous' How a prolonged Iran war could shock global economy",
         "Pop culture How clever became cool in an age of anti-intellectualism",
-        "BTS ‘So awesome’: Fans on K-pop’s biggest comeback",
+        "HBO Is its crown under threat in the age of streaming and Trump?",
         "Polly Hudson Wordle guy’s latest move says a lot about modern-day ambition",
-        "Grace Dent on restaurants Osteria Vibrato, London W1: 'Worth singing loudly about'",
-        "‘It’s stupid’ Western carmakers’ electric retreat could doom them",
+        "BTS ‘So awesome’: Fans on K-pop’s biggest comeback",
+        "Ask Annalisa Barbieri I always make the effort. Why don’t my friends value me?",
         "Middle East crisis",
         "Strait of Hormuz Trump tells Iran it has 48 hours to open Hormuz or US will ‘obliterate’ its power plants",
         "Middle East crisis liveIranian official claims strait of Hormuz open to all but ships of ‘enemy’ countries"
@@ -6125,18 +6115,7 @@
       "filename": "ft_homepage.png",
       "category": "priority_signal",
       "priority": "primary",
-      "topHeadlines": [
-        "Popular Searches",
-        "Financial Times Home",
-        "Monetary Policy Radar – Special Edition",
-        "MONETARY POLICY RADAR",
-        "Monetary Policy Radar – Exclusive Insights Into Central Bank Policy",
-        "BEST OF FTWEEKEND",
-        "Must-reads you missed",
-        "More markets news",
-        "EXPLORE MORE EVENTS FROM THE FT",
-        "Community & Events"
-      ]
+      "topHeadlines": []
     }
   ],
   "sleepFilter": null,
