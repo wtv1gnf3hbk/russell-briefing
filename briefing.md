@@ -2,44 +2,46 @@ Good morning, Russell! Here's what happened while you were sleeping.
 
 **Top Stories**
 
-- Trump [threatened to](https://apnews.com/article/iran-us-israel-trump-lebanon-march-22-2026-16cc60862529b873666ce4c1f6529d78) attack Iranian power plants if Tehran fails to open the Strait of Hormuz, according to AP.
+- Iran [threatened to](https://www.reuters.com/world/middle-east/iran-says-coastal-attack-will-lead-full-gulf-closure-mine-laying-2026-03-23/) mine the entire Persian Gulf if its coastline is attacked, Reuters reports, while the International Energy Agency warned the conflict could trigger the world's worst energy crisis in decades.
 
-- Iranian missiles [injured 160](https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss) people in towns near Israel's main nuclear research facility, the BBC reports.
+- Global [stocks tumbled](https://www.ft.com/content/06db9d82-01f3-49ba-951c-3bb784ae4eb2) and oil prices surged as tensions escalate between the U.S. and Iran, per the FT. Missile salvos resumed across the region ahead of a U.S. deadline for Iran to open the Strait of Hormuz.
 
-- Iran says the Strait of Hormuz remains [open to](https://www.reuters.com/world/middle-east/iran-says-hormuz-open-all-enemy-linked-ships-during-us-threat-2026-03-22/) all ships except those linked to "enemy" countries, Reuters reports.
+- Two pilots were [killed when](https://www.bbc.com/news/articles/cy01g522ww4o?at_medium=RSS&at_campaign=rss) a passenger plane from Montreal collided with a fire truck at New York's LaGuardia Airport, the BBC reports. The collision disrupted flights at the major hub.
 
-- Italians are [voting in](https://www.reuters.com/world/italians-begin-voting-high-stakes-justice-referendum-2026-03-22/) a high-stakes justice referendum that could reshape the country's judicial system and test Prime Minister Meloni's government.
+- Former French Prime Minister [Lionel Jospin](https://www.reuters.com/world/europe/former-french-prime-minister-lionel-jospin-dies-88-bfm-reports-2026-03-23/) died at age 88, Reuters reports. Jospin was a key figure in France's "plural left" who was defeated by the far right in 2002.
 
-- France holds the [second round](https://www.france24.com/en/french-head-to-the-polls-in-second-round-of-local-elections) of local elections today to elect mayors of major cities including Paris, Lyon and Marseille.
+- Hong Kong police can now [demand phone](https://www.bbc.com/news/articles/ce8j9yj52lro?at_medium=RSS&at_campaign=rss) passwords under new national security rules, the BBC reports. Non-compliance is punishable by up to one year in jail and fines of $12,700.
 
-- China's Premier Li Qiang [touted the](https://www.ft.com/content/53f9a706-ec15-4f0c-9b4f-71a6f3fc72e1) country as a "harbour of stability" to global CEOs in Beijing as Trump faces a Middle East crisis.
+- UK gilt yields [surged to](https://www.ft.com/content/28cab6bf-d289-443d-917e-040e96c0717e) their highest level since 2008 as traders bet on four Bank of England rate rises this year, according to the FT.
 
 **Conflicts & Diplomacy**
 
-- A US-operated Patriot missile was [likely involved](https://www.reuters.com/world/middle-east/patriot-missile-involved-bahrain-blast-likely-us-operated-analysis-finds-2026-03-22/) in a blast in Bahrain, according to exclusive Reuters analysis.
+- Israel [struck a](https://www.france24.com/en/israel-strikes-key-bridge-in-south-lebanon-stoking-fears-of-ground-invasion) key bridge in southern Lebanon, France24 reports. The strike raised fears of a ground invasion as the conflict expands beyond Iran.
 
-- Britain says it sees [no evidence](https://www.reuters.com/world/middle-east/uk-minister-says-trump-speaks-himself-his-deadline-iran-2026-03-22/) that Iran is targeting Europe with missiles, Reuters reports.
+- China [warned of](https://www.reuters.com/world/china/china-warns-vicious-cycle-if-war-escalates-middle-east-2026-03-23/) a "vicious cycle" if the Middle East war escalates further, Reuters reports. Beijing called for de-escalation.
 
-- Displaced Lebanese are [sleeping on](https://www.france24.com/en/displaced-in-lebanon-sleep-on-streets-as-situation-turns-catastrophic) Beirut's streets as the humanitarian situation turns "catastrophic," according to France24.
+- French left [held onto](https://www.france24.com/en/french-left-wins-over-country-s-largest-cities) power in major cities including Paris, Lyon and Marseille in municipal elections, though Nice swung to the far right, according to France24.
 
 **Business & Markets**
 
-- The world faces a [gas supply](https://www.ft.com/content/64c5a600-1fc8-4370-b5d6-8a0bc273a33f) cliff edge as the Gulf's final LNG shipments that departed before Iran's attacks are due to arrive in ports within 10 days.
+- Berkshire Hathaway will [take a](https://www.ft.com/content/0ef092c4-01bf-4331-8fbe-99bd15ed5f27) $1.8 billion stake in Japan's Tokio Marine, the FT reports. The investment marks a new venture for Warren Buffett's conglomerate in the country.
 
-- Private jets now [face $50,000](https://www.ft.com/content/49cfc1af-8a13-49b4-9186-a7af47e376c6) "war risk" insurance costs to land in Gulf countries, the FT reports.
-
-- Tencent [integrated WeChat](https://www.reuters.com/technology/tencent-integrates-wechat-with-openclaw-ai-agent-during-china-tech-battle-2026-03-22/) with OpenClaw AI agent as China's tech battle intensifies, according to Reuters.
+- China [limited fuel](https://www.reuters.com/world/asia-pacific/china-limits-fuel-price-hike-cushion-impact-rising-oil-prices-2026-03-23/) price increases to cushion the impact of rising oil costs on consumers, according to Reuters.
 
 **Also Notable**
 
-- Six people were [killed in](https://www.reuters.com/world/middle-east/six-killed-qatar-helicopter-crash-due-technical-malfunction-ministry-says-2026-03-22/) a Qatar helicopter crash due to technical malfunction, Reuters reports.
+- Kenyan police are [investigating the](https://www.bbc.com/news/articles/c3ex8vglvkxo?at_medium=RSS&at_campaign=rss) alleged disappearance of former foreign minister Raphael Tuju following claims he may have been abducted, the BBC reports.
 
-- Slovenia holds a [tight election](https://www.aljazeera.com/news/2026/3/22/slovenias-governing-liberals-face-right-wing-populists-in-tight-election?traffic_source=rss) today between governing liberals and right-wing populists, Al Jazeera reports.
+- Iran has [threatened to](https://apnews.com/article/iran-us-israel-trump-lebanon-march-23-2026-93c6b3234a5e8917aaf599bf85a03044) strike Gulf power plants and mine Gulf waters as Israel launches new attacks, AP reports. The threat raises stakes as the conflict threatens to expand.
+
+- Australia's ABC staff will [go on](https://www.bbc.com/news/articles/c248597nqn8o?at_medium=RSS&at_campaign=rss) strike for the first time in 20 years, the BBC reports. The 24-hour walkout is expected to disrupt live broadcasts.
 
 **What to Watch**
 
-- Trump's [48-hour deadline](https://www.ft.com/content/a0e724d8-8f21-4ef4-811a-5a1be06d647e) for Iran to reopen the Strait of Hormuz expires Monday evening, with threats to strike power plants if Tehran fails to comply.
+- The Trump-Takaichi [summit between](https://jp.usembassy.gov/prime-minister-takaichis-visit-in-washington/) the U.S. president and Japanese prime minister is scheduled for this week, as the two leaders meet following Japan's recent election.
 
-- Final LNG shipments from the Middle East that departed before the conflict [are due](https://www.ft.com/content/64c5a600-1fc8-4370-b5d6-8a0bc273a33f) to reach global ports in the next 10 days, creating a potential energy supply crunch.
+- Taiwan's parliament [will debate](https://www.nytimes.com/2026/03/23/world/asia/taiwan-defense-budget-china-us.html) defense spending this week following tensions in the opposition Nationalist Party over funding to counter Beijing's military buildup.
 
-- Slovenia's election results are expected tonight, with neither incumbent PM Robert Golob nor challenger Janez Jansa [likely to](https://www.aljazeera.com/news/2026/3/22/slovenias-governing-liberals-face-right-wing-populists-in-tight-election?traffic_source=rss) win an outright majority.
+- Iran has [threatened to](https://apnews.com/article/iran-us-israel-trump-lebanon-march-23-2026-93c6b3234a5e8917aaf599bf85a03044) attack Middle Eastern electrical plants powering U.S. bases, AP reports. The threat raises stakes as the conflict threatens to expand.
+
+- New Zealand's November [election approaches](https://www.theguardian.com/world/2026/mar/23/new-zealand-pm-luxon-ratings-dip-fragile-economy-november-election-poll) as Prime Minister Christopher Luxon's ratings dip following economic struggles, the Guardian reports.
