@@ -4,17 +4,17 @@
     "owner": "Russell Goldman",
     "timezone": "America/New_York",
     "description": "Daily international news briefing — all bullets, ready by 6am ET",
-    "generated": "2026-03-23T10:31:35.729Z",
-    "generatedTimestamp": 1774261895729
+    "generated": "2026-03-23T11:14:53.039Z",
+    "generatedTimestamp": 1774264493039
   },
   "stats": {
     "sourceCount": 19,
     "successCount": 19,
-    "totalStories": 139,
+    "totalStories": 137,
     "totalScreenshots": 6,
-    "daybookStories": 42,
-    "watchCandidateCount": 19,
-    "elapsed": "61.2s"
+    "daybookStories": 41,
+    "watchCandidateCount": 15,
+    "elapsed": "59.0s"
   },
   "stories": {
     "all": [
@@ -146,7 +146,17 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ0RHekRXX282RGdBRFhZTkRPTGluSnpiS2hYMUVRSGlmMUo4aVhyVEowTWFwYXF2N2k4TGM2OGpWaWoydEJrbE9SUXE3aXExaVVCMEZRY1EzLXVTa3o1RGJnRzYzOU4tVXJsdXQ"
       },
       {
-        "headline": "China warns of 'vicious cycle' if war escalates in Middle East - Reuters",
+        "headline": "Lionel Jospin, former French prime minister defeated by the far right, dies at 88 - Reuters",
+        "url": "https://www.reuters.com/world/europe/former-french-prime-minister-lionel-jospin-dies-88-bfm-reports-2026-03-23/",
+        "source": "Reuters",
+        "sourceId": "reuters_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Mon, 23 Mar 2026 08:13:42 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxONkhOaFlGWGg1RUdoOC1IMlQzZjVHM1kyR1h3cWpkNDl4NzlNcV9SYmJwNWppU1RWNU9xUWRqZGhBSVA5Ykc3X0xnZHFEcmRqS0dxaWRRTUlWamdtNi1BNDgzN2dXZ1Zjb0lna3d"
+      },
+      {
+        "headline": "China urges US, Israel to stop military action in Middle East, warns of 'vicious cycle' - Reuters",
         "url": "https://www.reuters.com/world/china/china-warns-vicious-cycle-if-war-escalates-middle-east-2026-03-23/",
         "source": "Reuters",
         "sourceId": "reuters_world",
@@ -161,16 +171,6 @@
             "matched": "warns of"
           }
         ]
-      },
-      {
-        "headline": "Lionel Jospin, former French prime minister defeated by the far right, dies at 88 - Reuters",
-        "url": "https://www.reuters.com/world/europe/former-french-prime-minister-lionel-jospin-dies-88-bfm-reports-2026-03-23/",
-        "source": "Reuters",
-        "sourceId": "reuters_world",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Mon, 23 Mar 2026 08:13:42 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxONkhOaFlGWGg1RUdoOC1IMlQzZjVHM1kyR1h3cWpkNDl4NzlNcV9SYmJwNWppU1RWNU9xUWRqZGhBSVA5Ykc3X0xnZHFEcmRqS0dxaWRRTUlWamdtNi1BNDgzN2dXZ1Zjb0lna3d"
       },
       {
         "headline": "Trump's Iran war oil shield is cracking - Reuters",
@@ -193,16 +193,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcVhnbHNZTjRfREVLYTBhWU1RRjB2TTh0Y1VaR0pxNk5tcld5SGVvLUlNWDMxTkJSblhHNU9mRkVpZmEtY2FONThBNzZJV0NKNkhlSElKZFFXald4XzY2dUgyYTlQeTJwSWFzVW5"
       },
       {
-        "headline": "One battle after another: Iran war deals new blow to Europe's industrial heartland - Reuters",
-        "url": "https://www.reuters.com/sustainability/boards-policy-regulation/one-battle-after-another-iran-war-deals-new-blow-europes-industrial-heartland-2026-03-23/",
-        "source": "Reuters",
-        "sourceId": "reuters_world",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Mon, 23 Mar 2026 06:02:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcFZ3TTduUy1DcWtTd1NXSUZnRDktUXRGMWpnbkdiT2p1NzlVZE5pdXpkdV9BYVQxdDJsM3BGMlY1ZG9RalF5MDBJVC1mSS14UXRrVjFfejdNRmNWYmc0SHpMVHd2WTFTenFIcDZ"
-      },
-      {
         "headline": "Russia's Baltic ports halt oil and fuel exports after drone attacks, sources say - Reuters",
         "url": "https://www.reuters.com/world/fuel-reservoir-russias-primorsk-port-fire-after-drone-attack-governor-says-2026-03-23/",
         "source": "Reuters",
@@ -211,6 +201,16 @@
         "priority": "primary",
         "date": "Mon, 23 Mar 2026 06:56:00 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPNG1XQ3RiWWFnZ1VRVmFUN1FHcHA1dEdDdnJXMjRabk52bTRKQTRxOEMxR3ZzUG40b3ZxaHZfM19ua2RJam5PdnI0d0R0NGU5VkwzU2Z3dnBqZUpMS0tNTDFyUHdMOGNCVW5KZ2h"
+      },
+      {
+        "headline": "One battle after another: Iran war deals new blow to Europe's industrial heartland - Reuters",
+        "url": "https://www.reuters.com/sustainability/boards-policy-regulation/one-battle-after-another-iran-war-deals-new-blow-europes-industrial-heartland-2026-03-23/",
+        "source": "Reuters",
+        "sourceId": "reuters_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Mon, 23 Mar 2026 06:02:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcFZ3TTduUy1DcWtTd1NXSUZnRDktUXRGMWpnbkdiT2p1NzlVZE5pdXpkdV9BYVQxdDJsM3BGMlY1ZG9RalF5MDBJVC1mSS14UXRrVjFfejdNRmNWYmc0SHpMVHd2WTFTenFIcDZ"
       },
       {
         "headline": "European gasoline heads to Asia as Iran war sparks supply fears - Reuters",
@@ -223,14 +223,14 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNRzZNVWp4NDhQQ29LTjdhZEx1YVdVRUJxbTQ4Nk5yVzN0ZHdPelg0Qzh4eU1TLWpKUHQxT1paaDFMZ2FFTmhkNnVUel93Wm5NSFV6N1ZiclE2SExNdExBczN2MlFIb0NPVHZXNEh"
       },
       {
-        "headline": "Passenger jet collides with fire truck in New York's LaGuardia, killing both pilots - Reuters",
-        "url": "https://www.reuters.com/world/americas/air-canada-express-plane-hits-ground-vehicle-new-yorks-la-guardia-airport-2026-03-23/",
+        "headline": "Greece opens trial for 2023 train crash that killed 57 - Reuters",
+        "url": "https://www.reuters.com/world/greece-opens-trial-2023-train-crash-that-killed-57-2026-03-23/",
         "source": "Reuters",
         "sourceId": "reuters_world",
         "category": "wire",
         "priority": "primary",
-        "date": "Mon, 23 Mar 2026 04:32:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMXF6djE3aFFoZVQtN0F2blo1b2JTUFp1S01PLVd3NFFMWmxJS1JtYkFYbzZKdXpTaUsycUdaUW1OM0MyeEhQRkMtQ1FoTHZHY3Z6M3lDekFxS0RBd3BSZ0lmYWFVWFFiOXlCSTB"
+        "date": "Mon, 23 Mar 2026 07:34:06 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPdVc2TkdjMHBJeUltb1dLa2RNY3JRb0pzNzJ4Vmd1a3J6dExWb2ZtaTVGVGQzVVZpMGRPcXRrakNETkUxekFPMi1oNFhBWERqd2w3Z3Zkam1MOGNIendWdE9UVGUyVTVrcmlaQ3g"
       },
       {
         "headline": "Russian space craft antenna problem forces manual docking with ISS - Reuters",
@@ -241,6 +241,26 @@
         "priority": "primary",
         "date": "Mon, 23 Mar 2026 06:15:00 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUzFzREp6cGZiSFNMeU51VjR1MmNWdmNQNGRkYzh1Y3hNRTdlc25lZWp0Tzl1MTExeFUyYncyLUdQOS1hWDB5VklsSUdqLTBjQUNFdkhpNWdtVHlCclhSQzNGWEtyWVlqRzNmMUI"
+      },
+      {
+        "headline": "Passenger jet collides with fire truck in New York's LaGuardia, killing both pilots - Reuters",
+        "url": "https://www.reuters.com/world/americas/air-canada-express-plane-hits-ground-vehicle-new-yorks-la-guardia-airport-2026-03-23/",
+        "source": "Reuters",
+        "sourceId": "reuters_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Mon, 23 Mar 2026 11:06:31 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMXF6djE3aFFoZVQtN0F2blo1b2JTUFp1S01PLVd3NFFMWmxJS1JtYkFYbzZKdXpTaUsycUdaUW1OM0MyeEhQRkMtQ1FoTHZHY3Z6M3lDekFxS0RBd3BSZ0lmYWFVWFFiOXlCSTB"
+      },
+      {
+        "headline": "What does it mean for 2027? Five takeaways from local French elections - Reuters",
+        "url": "https://www.reuters.com/world/what-does-it-mean-2027-five-takeaways-local-french-elections-2026-03-23/",
+        "source": "Reuters",
+        "sourceId": "reuters_world",
+        "category": "wire",
+        "priority": "primary",
+        "date": "Mon, 23 Mar 2026 05:03:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPLWNHQjN0T2N2bXlIUUc3S2RTVGFKYU9pMDdqQldKWHFCc09kbXBEMG9RcUpicHdMQWNfQk5SMC1ab3lVX211eVR5Z2xfVTFrLWtnUzRjM2IxQjB2Z2FCZEFPYjBxZm9CQ2ZSS3l"
       },
       {
         "headline": "Iran points at tit for tat retaliation if power plants targeted, statement - Reuters",
@@ -263,33 +283,13 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPczlldDVKSmtQNklSaFl1amRhQTlHbmktTW1PUjFqRkt0MmJYbWVpbV9Xb0xOOVVrUUxGdkw4NG84ZlhIM0EyTTV3Q2xucDRwZG5rVlhvOG1KQ29NRDFaUmR1aEJLdml2eC1EYlQ"
       },
       {
-        "headline": "Vietnam, Russia set to sign energy deals during PM's Moscow visit - Reuters",
-        "url": "https://www.reuters.com/business/energy/vietnam-russia-set-sign-energy-deals-during-pms-moscow-visit-2026-03-23/",
-        "source": "Reuters",
-        "sourceId": "reuters_world",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Mon, 23 Mar 2026 03:24:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUNsQ3B3RkhQWTZuUFBaTVVpX3BCQUF4Q2ZDMDU5X1RfQTRqQmYxQnJQTlp2dmRmR0JDa1FhbnVDWWdqWXIwZ0tsYmpTakJtRjRHcWJxS0JmTFJJSHA2RkVTZTgtVzR4ZXp3bEt"
-      },
-      {
-        "headline": "Stocks skid to four-month low as oil shock spooks investors - Reuters",
-        "url": "https://www.reuters.com/business/energy/stocks-skid-four-month-low-oil-shock-spooks-investors-2026-03-23/",
-        "source": "Reuters",
-        "sourceId": "reuters_world",
-        "category": "wire",
-        "priority": "primary",
-        "date": "Mon, 23 Mar 2026 03:57:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSy1DcTZZd2ZVTFNDc2hDRjVOc1luV1NyLTRMbWs4eTNadTVaSDRKQzE1bFdnQlJ0Y1gwNzg5UFlNZUdwNUQ1S2E2Q1NSUlJWS05MWFVua3MzN01UdmhVckVDNC0wTVpEQkdWVUc"
-      },
-      {
         "headline": "Two pilots dead after plane and ground vehicle collide at New York's LaGuardia Airport",
         "url": "https://www.bbc.com/news/articles/cy01g522ww4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC",
         "sourceId": "bbc_world",
         "category": "general",
         "priority": "primary",
-        "date": "Mon, 23 Mar 2026 09:40:11 GMT",
+        "date": "Mon, 23 Mar 2026 10:47:21 GMT",
         "description": "The plane, arriving from Montreal, collided with a firefighting vehicle responding to a separate incident."
       },
       {
@@ -454,25 +454,14 @@
         "description": "A seven-week nationwide search for 84-year-old Nancy Guthrie, the mother of TV anchor Savannah Guthrie has not identified any suspects."
       },
       {
-        "headline": "Stocks tumble as Trump and Iran step up threats",
+        "headline": "Trump postpones attacks on energy sites after ‘productive’ talks with Iran",
         "url": "https://www.ft.com/content/06db9d82-01f3-49ba-951c-3bb784ae4eb2",
         "source": "Financial Times",
         "sourceId": "ft_home",
         "category": "business",
         "priority": "primary",
         "date": "Mon, 23 Mar 2026 02:50:17 GMT",
-        "description": "Missile salvos across the region resume ahead of US deadline for Iran to open Strait of Hormuz",
-        "watchCandidate": true,
-        "watchSignals": [
-          {
-            "category": "temporal",
-            "matched": "ahead of"
-          },
-          {
-            "category": "scheduled",
-            "matched": "deadline"
-          }
-        ]
+        "description": "US president says Washington has had ‘very good’ talks over past couple of days"
       },
       {
         "headline": "Trump’s Iran playbook was written in the 1980s",
@@ -525,31 +514,14 @@
         "description": "The country’s underlying strengths are absorbing his erratic choices, including the war on Iran"
       },
       {
-        "headline": "‘It’s always Putin’ behind every EU migration crisis, official says",
-        "url": "https://www.ft.com/content/775150ca-4eb4-4761-837d-047c3e8b18c7",
+        "headline": "Trump looking at inviting Belarus’s Lukashenko to White House",
+        "url": "https://www.ft.com/content/69675c86-d1ff-4bbf-a55a-a480421bd165",
         "source": "Financial Times",
         "sourceId": "ft_home",
         "category": "business",
         "priority": "primary",
-        "date": "Mon, 23 Mar 2026 05:00:25 GMT",
-        "description": "Russian president is ‘biggest driver’ of immigration due to his role in wars over past decade, says EU commissioner",
-        "watchCandidate": true,
-        "watchSignals": [
-          {
-            "category": "temporal",
-            "matched": "due to"
-          }
-        ]
-      },
-      {
-        "headline": "Merz’s reform drive put at risk after vote in western state",
-        "url": "https://www.ft.com/content/e813be8e-8f52-4018-a518-8ddd1ec43f43",
-        "source": "Financial Times",
-        "sourceId": "ft_home",
-        "category": "business",
-        "priority": "primary",
-        "date": "Mon, 23 Mar 2026 04:42:03 GMT",
-        "description": "Win for CDU against its coalition partner in Rhineland-Palatinate could cost chancellor nationally"
+        "date": "Mon, 23 Mar 2026 11:00:09 GMT",
+        "description": "US administration seeks diplomatic thaw with authoritarian ally of Vladimir Putin"
       },
       {
         "headline": "Flights disrupted after crash at NY’s LaGuardia airport kills two people",
@@ -609,14 +581,14 @@
         ]
       },
       {
-        "headline": "Iran War Live Updates: Power Outages Are Reported in Tehran as Israel Launches Strikes",
+        "headline": "Iran War Live Updates: Power Outages Reported in Tehran After Fresh Israeli Strikes",
         "url": "https://www.nytimes.com/live/2026/03/23/world/iran-war-oil-trump",
         "source": "New York Times",
         "sourceId": "nyt_world",
         "category": "general",
         "priority": "secondary",
-        "date": "Mon, 23 Mar 2026 10:27:38 +0000",
-        "description": "Residents reported widespread power outages across the capital. Israel’s military said it had begun a new wave of airstrikes targeting infrastructure in the city, but did not provide further details."
+        "date": "Mon, 23 Mar 2026 11:09:27 +0000",
+        "description": "Israel��s military said it was targeting infrastructure in the Iranian capital. The head of the International Energy Agency warned that the global energy crisis caused by the war was now worse than th"
       },
       {
         "headline": "Canada’s Military Wants to Prove It Can Defend the High Arctic",
@@ -685,8 +657,8 @@
         "sourceId": "nyt_world",
         "category": "general",
         "priority": "secondary",
-        "date": "Mon, 23 Mar 2026 08:25:30 +0000",
-        "description": "Tensions in the opposition Nationalist Party could surface this week as lawmakers debate defense funding intended to counter Beijing’s growing might.",
+        "date": "Mon, 23 Mar 2026 10:29:21 +0000",
+        "description": "Tensions in the opposition Nationalist Party could surface this week as lawmakers argue over additional defense funding intended to counter Beijing’s growing might.",
         "watchCandidate": true,
         "watchSignals": [
           {
@@ -955,6 +927,56 @@
         "description": "The airport has been closed and flights diverted after the aircraft operated by Jazz Aviation struck a ground vehicle."
       },
       {
+        "headline": "Plane collides with firefighting truck at New York City's LaGuardia airport",
+        "url": "https://www.france24.com/en/plane-collides-with-firefighting-truck-at-new-york-city-s-laguardia-airport",
+        "source": "France24",
+        "sourceId": "france24",
+        "category": "wire",
+        "priority": "secondary",
+        "date": "Mon, 23 Mar 2026 11:03:06 GMT",
+        "description": ""
+      },
+      {
+        "headline": "Marseille sticks with the left as far-right fails to convince in local elections",
+        "url": "https://www.france24.com/en/marseille-sticks-with-the-left-as-far-right-fails-to-convince-in-local-elections",
+        "source": "France24",
+        "sourceId": "france24",
+        "category": "wire",
+        "priority": "secondary",
+        "date": "Mon, 23 Mar 2026 11:00:29 GMT",
+        "description": ""
+      },
+      {
+        "headline": "Global economy under 'major' threat as Middle East war carries on",
+        "url": "https://www.france24.com/en/global-economy-under-major-threat-as-middle-east-war-carries-on",
+        "source": "France24",
+        "sourceId": "france24",
+        "category": "wire",
+        "priority": "secondary",
+        "date": "Mon, 23 Mar 2026 10:33:16 GMT",
+        "description": ""
+      },
+      {
+        "headline": "A \"no\" vote in Italy's referendum could be 'first blow' to Meloni's premiership",
+        "url": "https://www.france24.com/en/a-no-vote-in-italy-s-referendum-could-be-first-blow-to-meloni-s-premiership",
+        "source": "France24",
+        "sourceId": "france24",
+        "category": "wire",
+        "priority": "secondary",
+        "date": "Mon, 23 Mar 2026 10:29:20 GMT",
+        "description": ""
+      },
+      {
+        "headline": "French far-right fail to take key cities in test for 2027 presidential race",
+        "url": "https://www.france24.com/en/french-far-right-fail-to-take-key-cities-in-test-for-2027-presidential-race",
+        "source": "France24",
+        "sourceId": "france24",
+        "category": "wire",
+        "priority": "secondary",
+        "date": "Mon, 23 Mar 2026 10:26:11 GMT",
+        "description": ""
+      },
+      {
         "headline": "French left wins over country's largest cities in municipal election",
         "url": "https://www.france24.com/en/french-left-wins-over-country-s-largest-cities",
         "source": "France24",
@@ -1062,80 +1084,6 @@
         "description": ""
       },
       {
-        "headline": "Live: Iran faces Trump's Hormuz ultimatum as IEA warns of worst global energy crisis in decades",
-        "url": "https://www.france24.com/en/middle-east/20260323-live-iran-trump-strike-iea-worst-energy-crisis",
-        "source": "France24",
-        "sourceId": "france24",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Mon, 23 Mar 2026 01:52:22 GMT",
-        "description": "",
-        "watchCandidate": true,
-        "watchSignals": [
-          {
-            "category": "escalation",
-            "matched": "ultimatum"
-          }
-        ]
-      },
-      {
-        "headline": "West Bank settler violence surges as Israeli strikes on Gaza kill four Palestinians",
-        "url": "https://www.france24.com/en/middle-east/20260322-west-bank-settler-violence-gaza-strikes-palestinians-killed",
-        "source": "France24",
-        "sourceId": "france24",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Sun, 22 Mar 2026 23:12:26 GMT",
-        "description": ""
-      },
-      {
-        "headline": "Iran threatens to cripple Gulf water, energy systems after Trump ultimatum",
-        "url": "https://www.france24.com/en/middle-east/20260322-iran-gulf-water-energy-threat-trump-ultimatum",
-        "source": "France24",
-        "sourceId": "france24",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Sun, 22 Mar 2026 22:57:57 GMT",
-        "description": "",
-        "watchCandidate": true,
-        "watchSignals": [
-          {
-            "category": "escalation",
-            "matched": "threatens to"
-          }
-        ]
-      },
-      {
-        "headline": "France’s municipal elections : Emmanuel Grégoire elected Paris mayor",
-        "url": "https://www.france24.com/en/video/20260322-france-s-municipal-elections-emmanuel-gr%C3%A9goire-elected-paris-mayor",
-        "source": "France24",
-        "sourceId": "france24",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Sun, 22 Mar 2026 21:47:29 GMT",
-        "description": ""
-      },
-      {
-        "headline": "Left-winger Emmanuel Grégoire elected mayor of Paris, exit polls say",
-        "url": "https://www.france24.com/en/france/20260322-socialist-frontrunner-emmanuel-gr%C3%A9goire-elected-paris-mayor-rachida-dati",
-        "source": "France24",
-        "sourceId": "france24",
-        "category": "wire",
-        "priority": "secondary",
-        "date": "Sun, 22 Mar 2026 19:58:37 GMT",
-        "description": ""
-      },
-      {
-        "headline": "U.S. Remarks at the Global Fraud Summit - March 2026 - U.S. Mission to International Organizations in Vienna (.gov)",
-        "url": "https://vienna.usmission.gov/u-s-remarks-at-the-global-fraud-summit-march-2026/",
-        "source": "Daybook: International Events",
-        "sourceId": "daybook_intl",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Tue, 17 Mar 2026 08:05:46 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQa2dXc0ZuVktQV1VXZHFQbDRZOVNXaXRNc1IzSFROZUNzLXItX3NYRi0zWmhZSmk4ajJLVE0xX2hLal9rUG1pWjU4N3AxX3JQbDZoVVdIdjhXUE5RQkNWcjVpT0NkZUNaSnJCMlR"
-      },
-      {
         "headline": "Trump-Takaichi Summit: Expert Analysis on U.S.-Japan Relations - Syracuse University Today",
         "url": "https://news.syr.edu/2026/03/20/trump-takaichi-summit-expert-analysis-on-u-s-japan-relations/",
         "source": "Daybook: International Events",
@@ -1164,16 +1112,6 @@
         "priority": "reference",
         "date": "Thu, 19 Mar 2026 13:14:58 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOSy1DaTJGc3RPbU9TN3dNLTF1bGdTY1U0Q045OTF4bjFPdk4xd3VnUVBpNjZxUVU0ZElJZkwybGNNMnBpeEY3ZVZ0UkdwaEZHRFRKWlBUOEg0WEFfd2oyYnFFb21rdWNTRXRjRVZ"
-      },
-      {
-        "headline": "INTERPOL-UNODC global summit ends with call to action against fraud surge - Interpol",
-        "url": "https://www.interpol.int/News-and-Events/News/2026/INTERPOL-UNODC-global-summit-ends-with-call-to-action-against-fraud-surge",
-        "source": "Daybook: International Events",
-        "sourceId": "daybook_intl",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Tue, 17 Mar 2026 16:32:44 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZVpiQlBoUmZIaXZVUEFHV0ZIN1BTTEZlOHk0NkF4d08wX1pKWGJMdTc4akZMdWhnbHhsYm5BSGY3UDVWZGVHd1JCTzVTMlE2cnB5WTBSMnVMVk96Ui1mNDJDaGdLY19kUmVVaUh"
       },
       {
         "headline": "Summit between Prime Minister Sanae Takaichi and President Donald J. Trump - U.S. Embassy &amp; Consulates in Japan (.gov)",
@@ -1276,6 +1214,26 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYmRtY3N4SWpBdERQM2sxSk50ZWVsN1Q3ZmstTDdCM0dNM0dsaW80WlliTTAzQ1oyOWdXZEZIek4ta2JQZW9XX3lmTkZhalM5SVFhQ0IwemdETWhLN1k3T3YtOHc1Sm9jSGFHSnN"
       },
       {
+        "headline": "The Summit opening 6 new shops in 2026 - Bham Now",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53a28tMk1laDZ1UHZZTERxMFl1MUswQ2RyQVNiU2ZZa1p3cndWbWVUZEhUbzlia2xHb0VKV0Jha1lCdm5IQTllOHcxanpQSzROUVg1OUV2QWNPU3BlVTZNZzFqMGk5WXRYaFhYVTg0OWZ5dmN1eWhQeVpn?oc=5",
+        "source": "Daybook: International Events",
+        "sourceId": "daybook_intl",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Thu, 19 Mar 2026 20:59:16 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE53a28tMk1laDZ1UHZZTERxMFl1MUswQ2RyQVNiU2ZZa1p3cndWbWVUZEhUbzlia2xHb0VKV0Jha1lCdm5IQTllOHcxanpQSzROUVg1OUV2QWNPU3BlVTZNZzFqMGk5WXRYaFhYVTg"
+      },
+      {
+        "headline": "Reservation Economic Summit (RES) 2026 - Department of Energy (.gov)",
+        "url": "https://www.energy.gov/edf/events/reservation-economic-summit-res-2026",
+        "source": "Daybook: International Events",
+        "sourceId": "daybook_intl",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Sun, 22 Mar 2026 02:33:22 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1uV1UxSk5jakRYQ1Rod1huM1VPdWZRVVBhSFpCQ2xnanp3clJrY1hiemtTLW9jSlpMQnV2SUtYendKUWFidk9NYVFBbGJlT1RST0NDWXNIMkRXX3NDYXBMajRFbXJUYkFNaV91aDd"
+      },
+      {
         "headline": "Fed’s Interest Rate Decision: March 18, 2026 - Advisor Perspectives",
         "url": "https://www.advisorperspectives.com/dshort/updates/2026/03/19/feds-interest-rate-decision-march-18-2026",
         "source": "Daybook: Economic Calendar",
@@ -1287,7 +1245,7 @@
       },
       {
         "headline": "The Fed issues its latest interest rate decision Wednesday. Here's what to expect - CNBC",
-        "url": "https://www.cnbc.com/2026/03/17/the-fed-issues-its-latest-interest-rate-decision-wednesday-heres-what-to-expect.html",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTW93UnBleWM5TGFiODl3NEN1NlNsb2xTUzd2ek9COGg2aUdOQVY0cGc3dXJuRVBnc3N3VHBkdUhoWExqN2hXTHNlekRLX2ZFWmd6MTc4Z2toWkotek5Xc1FMNmZwUW5zTENSR3N5Q3o3blZHc2xpOHdkU2xLeEhMQ21pSU0wOTdOLW0zN3NCaFFVVFBvcTU2eThUQThvZGVUWU9JcDdxZUE3VUZNTC1BZ2s2N08tXzDSAbwBQVVfeXFMUEFkdEk0Rmtad3BTQVdCckl6RXdaSXZFbXpJTlRKTFB6RnZDR21ta3BTdG5TbVNZRG5tV1ZLNWVKNzZaeUdXNExkUmFCZU5wQ3M3NDlBWExla3pGdTdaeERNMzU2XzJMUTBuSWtrYjNCa0l3ZDZOZTZuVGtPcFJFaVdPUVRuLVFfTEsyZ252Q2IxYko5NmY4OTVzMnoyX0hNQ1RadnBkbVFOWUJTeFFIODd0VGRvY1RGOVBYZkY?oc=5",
         "source": "Daybook: Economic Calendar",
         "sourceId": "daybook_econ",
         "category": "daybook",
@@ -1306,6 +1264,16 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxObmE2Rm5TNnFlVmNSODAwcFBnekVlTWJHekl5VWEwRzB5UTlxSXNMYUlOTnozX2ZjZ01hZENCTkZPc0ZmOTA2NDVxelFYRVd0Q1BkQ29QeUpHM3YtbTU5aHY1Y2o3M0tmcjdRNTZ"
       },
       {
+        "headline": "Taking Stock - Fed rate decision, March 18, 2026 - Empower",
+        "url": "https://www.empower.com/investment-insights/trends/taking-stock-fed-rate-decision-march-18-2026",
+        "source": "Daybook: Economic Calendar",
+        "sourceId": "daybook_econ",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Wed, 18 Mar 2026 07:00:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPVVZnYmx5cXhpOGNPTElNR1VXV2c5eHVDMXlsS0NMdTBNY2FrNjJHbDZvN01BUGpkdE1KZFJKd2dNU1VTUGlXWWhDMEthQnJHM2ZDNEQ2Y0EwdUp5ZWd2cWtJNnUwZzBRSEJMUlV"
+      },
+      {
         "headline": "Fed issues latest rate decision amid geopolitical turmoil - mpamag.com",
         "url": "https://www.mpamag.com/us/mortgage-industry/market-updates/fed-issues-latest-rate-decision-amid-geopolitical-turmoil/569027",
         "source": "Daybook: Economic Calendar",
@@ -1314,26 +1282,6 @@
         "priority": "reference",
         "date": "Wed, 18 Mar 2026 18:01:04 GMT",
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWnRsZmR1Tldhb2dEUU9sVlNFYVdkVmFQcWw1REZnN2dNSFdIUHdWSTNvTjVjSkR4bkE1OHlRdWlGWkRHWnpUQ2g3TVVFVnhyTjdIOG1BQkdnZTdRU1oxQ2d0cm5yb1BFckJ6b0J"
-      },
-      {
-        "headline": "After trade deadline ‘disappointment,’ can this still be the Carolina Hurricanes’ year? - The Athletic - The New York Times",
-        "url": "https://www.nytimes.com/athletic/7131389/2026/03/20/carolina-hurricanes-playoffs-stanley-cup/",
-        "source": "Daybook: Economic Calendar",
-        "sourceId": "daybook_econ",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Fri, 20 Mar 2026 14:14:10 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOZWdUOW9WSDRVaTY1OHQ1MF9lZFdkc3RlbmZod1F5dnhNSFBmbzJIbGtQMHFBMHVxM3p5OFp4c0M5cHd5MTdiZ2N5Y3FwSVBRUlQ2dHZvNUpRSVBRNUpQdVZnSWp5Ym5BUzBVM0N"
-      },
-      {
-        "headline": "This Week in Review | Energy Markets, Fed Meeting, Earnings Reporting - Fisher Investments",
-        "url": "https://www.fisherinvestments.com/en-us/insights/videos/fisher-investments-this-week-in-review-2026-03-20",
-        "source": "Daybook: Economic Calendar",
-        "sourceId": "daybook_econ",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Sat, 21 Mar 2026 00:20:53 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdjFUNkhFcVB4YnlRR2hpZDlER2xrOEFsS2MwTDNlRDZlaXpqQTFrM1c2bWgxWHBPMnpNOXduUjVaMG5wbXJ5Q3kzOG1HenB4TDhXb3ZUWmM5eGhaQmxERzh5WnBuNUppYTVmam8"
       },
       {
         "headline": "Here are the five key takeaways from this week's Fed meeting - CNBC",
@@ -1386,14 +1334,14 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQbzlfYi1IanAwdEh5eEV6SHZITFd1cU9SQ2xERnBZRnBxNk4tQ3M1aUlFbTctWTJUNHBZZGlyVnpkWWNFdENLeUZ1Wno3X0RPbGRFZjVGVFRmX0U4LV9nTDQyREtBVFBPdTQxNnV"
       },
       {
-        "headline": "Rates Spark: Some calm ahead of the Fed meeting - ING THINK economic and financial analysis | ING THINK",
-        "url": "https://think.ing.com/articles/rates-spark-some-calm-ahead-of-the-fed-meeting/",
+        "headline": "After trade deadline ‘disappointment,’ can this still be the Carolina Hurricanes’ year? - The Athletic - The New York Times",
+        "url": "https://www.nytimes.com/athletic/7131389/2026/03/20/carolina-hurricanes-playoffs-stanley-cup/",
         "source": "Daybook: Economic Calendar",
         "sourceId": "daybook_econ",
         "category": "daybook",
         "priority": "reference",
-        "date": "Wed, 18 Mar 2026 09:07:05 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQaW9QUHQtSklyNUZseC1CaXN6QjRYMTYwSDVfVUxqSEZqN0RLV1IxV0xnWUp4Ylg2VUpiX0JBb1JwazlFZERkVXRiOFlfMkdodnk3cHI1SDNkU2xJcDBrNndOVnNhTTNYWkZpUGN"
+        "date": "Fri, 20 Mar 2026 14:14:10 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOZWdUOW9WSDRVaTY1OHQ1MF9lZFdkc3RlbmZod1F5dnhNSFBmbzJIbGtQMHFBMHVxM3p5OFp4c0M5cHd5MTdiZ2N5Y3FwSVBRUlQ2dHZvNUpRSVBRNUpQdVZnSWp5Ym5BUzBVM0N"
       },
       {
         "headline": "Iran Strikes Gulf Targets as Trump’s Hormuz Deadline Approaches - Bloomberg.com",
@@ -1416,16 +1364,6 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xcmJucEZxdUl2NGF6WElGZ3ZvTzM0UVVYWFR5NDhxeEt3Q21kX2c4dHVoU09xdVUyWjUtZTVuMG1nWG8xbGNPMno1VHY5OHlBZUdjaGNPLTJEa3Vyam82eFJ3YVVFQ2tC?oc=5\" "
       },
       {
-        "headline": "Iran threatens to close Strait of Hormuz and hit power plants after Trump's 48-hour deadline - PBS",
-        "url": "https://www.pbs.org/newshour/world/iran-threatens-to-close-strait-of-hormuz-and-hit-power-plants-after-trumps-48-hour-deadline",
-        "source": "Daybook: Scheduled Events",
-        "sourceId": "daybook_scheduled",
-        "category": "daybook",
-        "priority": "reference",
-        "date": "Sun, 22 Mar 2026 15:50:14 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQdTk0WGdlcWNyemdPYXQ4cFRrQ2VDcWJ4UnVxajJYV21LS0pOQjB4NEhXeUN3eGo3am00aHJNeWVJbFBEM0o2dFR6VTV3VWR1OWhCSjBvdHZVbHpUdzJ1Z3VWN3BLaUIySUhJRlZ"
-      },
-      {
         "headline": "Bob Harlan's funeral and celebration of life scheduled for today - Green Bay Press-Gazette",
         "url": "https://www.greenbaypressgazette.com/story/sports/nfl/packers/2026/03/23/bob-harlans-funeral-and-celebration-of-life-scheduled-for-today-green-bay-packers/89246668007/",
         "source": "Daybook: Scheduled Events",
@@ -1436,14 +1374,14 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxOck5FSUFqTHNIbTVoN1JjdVZudDF0T05fSm1uQVNhSFNkTG1vSW04OGtnaW9Tc21CdVJRNU1TTmpkRF90TnFlYmd6QkRGY05RdmlyQlBESU1Kc3IyZDdQRHZtdlRDTDU5d2JuX09"
       },
       {
-        "headline": "Iranians Fear Trump’s Threat to Strike Power Plants - The New York Times",
-        "url": "https://www.nytimes.com/2026/03/22/world/middleeast/iran-trump-power-plants.html",
+        "headline": "Iran threatens to close Strait of Hormuz and hit power plants after Trump's 48-hour deadline - PBS",
+        "url": "https://www.pbs.org/newshour/world/iran-threatens-to-completely-close-strait-of-hormuz-and-hit-power-plants-following-trumps-ultimatum",
         "source": "Daybook: Scheduled Events",
         "sourceId": "daybook_scheduled",
         "category": "daybook",
         "priority": "reference",
-        "date": "Mon, 23 Mar 2026 09:59:59 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxObnV6a0FVMmlnbUpiUUZrX3hxZTNwUGswaVNEM1FLdVh4UVVIeXhpYXFRS0pUanRxaGVZcXlPdEpLZ2tmdkdtY3otY0RsOWV2akp0NS1tM3lJNy1DWktKS2FEU0VLemdXX3lXeUV"
+        "date": "Sun, 22 Mar 2026 15:50:14 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQdTk0WGdlcWNyemdPYXQ4cFRrQ2VDcWJ4UnVxajJYV21LS0pOQjB4NEhXeUN3eGo3am00aHJNeWVJbFBEM0o2dFR6VTV3VWR1OWhCSjBvdHZVbHpUdzJ1Z3VWN3BLaUIySUhJRlZ"
       },
       {
         "headline": "The economy has a Strait of Hormuz deadline for Trump: Two weeks - CNBC",
@@ -1476,14 +1414,14 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNWkNuQUh6VUVVRlg4cGZaWlptUk9ZNUJRb2NFYWhVMGNXNHExV1dYdGwwclBRQVY2UGRjQU9vMmRnN3p3MFlieFNfTUtQQUIyRHpFZ1VPUXV4T2lvR2IwWU5yY2xzenBoLVdNWTl"
       },
       {
-        "headline": "Oil Prices Jump Despite Trump’s Iran Threats. His Strait of Hormuz Deadline Nears. - Barron's",
-        "url": "https://www.barrons.com/articles/oil-price-trump-hormuz-brent-wti-d395ce51?gaa_at=eafs&gaa_n=AWEtsqcZJVQ-XQ4axserDksG6QZoDyzq35zOiLDT7HHZOjwR5WZW63qUvnUx&gaa_ts=69c119cf&gaa_sig=PlIGTPkpvq2QH3WgAVZE3e-h0PMEpv1CnKxvJ1HFoQ3S4wRR-0QsYMv0oyPN6yL3eni8oX0oyRTBuSIji9GZbA%3D%3D",
+        "headline": "Trump’s deadline looms on Strait of Hormuz as Iran vows retaliation - NewsNation",
+        "url": "https://www.newsnationnow.com/world/trump-strait-of-hormuz-deadline-iran-vows-retaliation/",
         "source": "Daybook: Scheduled Events",
         "sourceId": "daybook_scheduled",
         "category": "daybook",
         "priority": "reference",
-        "date": "Mon, 23 Mar 2026 08:06:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihANBVV95cUxOcFdlRmIwM1hkb2F3MjQ4NXdiWTBwSjFuaUx6c1VqMFdMNjRiNUFMNzFJT2NVczhvMHYySWFINURVVDNMU2dFdlR6ZXJWWGxhM0JMM1AxTElNa2RENXlKaGZ3a09qT0FIeW1iQVR"
+        "date": "Mon, 23 Mar 2026 10:53:46 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOMm1SeE52ck0xMEQ1QXRpMVlxSU1leFpmNDQ4a2doUVF2YkZTQzdpX3pvYmV2TFBlcTFlRlA2MmFYODJmSFhrWlNXZE9xelY5Z0RnN2lpQlY5ek9LcEFuZk41a0ZqRFZOSXBhYVB"
       },
       {
         "headline": "Iran live updates: Trump's 48-hour deadline to expire Monday evening - Yahoo",
@@ -1496,24 +1434,24 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNRzNaTUFtdlJQRkVfaURZQmNHLXNnSkFmRFFjcGdxTVZUVXpyNmxmQV9TNVZMN2xGRTlQbFcyR2pXdDd5VFV4bEoxX1YyWjZXU3Q1Y3RWRGFGOXBtY3UxS2xlNm1hcUJNakdWZHd"
       },
       {
-        "headline": "'Project Hail Mary' $140M+ WW Opening Best YTD For MPA Movie, Breaks Records - Deadline",
-        "url": "https://deadline.com/2026/03/box-office-global-project-hail-mary-1236762532/",
+        "headline": "As Trump’s Deadline Nears, Iranians Dread the Darkness - The New York Times",
+        "url": "https://www.nytimes.com/2026/03/22/world/middleeast/iran-trump-power-plants.html",
         "source": "Daybook: Scheduled Events",
         "sourceId": "daybook_scheduled",
         "category": "daybook",
         "priority": "reference",
-        "date": "Sun, 22 Mar 2026 15:19:00 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOSTRVV09CNWpVc2U2d1BnVUg5ZmZCa0JmZVB2TEJvYTdpYlkxVkNaSzdtRlpJYk5UVm9TV3lDbzVGRThZa1dra2VBakZISnJ5Y05PS2dzRnA4TXp3dkxfTktXcjZuOXJXXzU5d01"
+        "date": "Mon, 23 Mar 2026 02:29:37 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxObnV6a0FVMmlnbUpiUUZrX3hxZTNwUGswaVNEM1FLdVh4UVVIeXhpYXFRS0pUanRxaGVZcXlPdEpLZ2tmdkdtY3otY0RsOWV2akp0NS1tM3lJNy1DWktKS2FEU0VLemdXX3lXeUV"
       },
       {
-        "headline": "Iran War Tensions Spike With Trump’s Two-Day Deadline - Bloomberg.com",
-        "url": "https://www.bloomberg.com/news/newsletters/2026-03-22/iran-war-tensions-spike-with-trump-s-two-day-deadline",
+        "headline": "Oil Prices Jump Despite Trump’s Iran Threats. His Strait of Hormuz Deadline Nears. - Barron's",
+        "url": "https://www.barrons.com/articles/oil-price-trump-hormuz-brent-wti-d395ce51?gaa_at=eafs&gaa_n=AWEtsqej8FNkmIYpjwXjhOBTz4XRKO6vS0MrhKE6HjXlLLn_SOE74GLX8oRP&gaa_ts=69c123f6&gaa_sig=WVNxeRUlH4ZV4VwqknA-w9wqPbh6srEPnA0yUSmiGsGitQaRLit84ryMr-JH8b3mm1djdG1uT4pRm4e174r7Nw%3D%3D",
         "source": "Daybook: Scheduled Events",
         "sourceId": "daybook_scheduled",
         "category": "daybook",
         "priority": "reference",
-        "date": "Sun, 22 Mar 2026 21:30:54 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbFZpVFVZXzVuREtBYWRDc2VWQ1g2VVVhTEtUeG9iUzFLdmpHZnZkS2x3UWNpTmRWXzJ0azNNSjBfemh0cmRnLURueEY3ZE8tTzlCT01QTWVjaFZIOWcyaklDYkg0aGRscmluQ0J"
+        "date": "Mon, 23 Mar 2026 08:06:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihANBVV95cUxNUDlPYThQTXh1U2RyelFLX1RjbkFnWEpaTXVyLVpXRlViQTQwU0psVS1aOFZTcnhRbERSTnJsWE85a1FNYl9jYTBydV9sbkY4QVBZS09IRDJGdF9HYkxZbkhsUS1YNzI5NVFSajZ"
       },
       {
         "headline": "Trump’s next steps with a looming deadline placed for the Strait of Hormuz - CNN",
@@ -1526,6 +1464,16 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQOTliUjFOUE1PRHpwRkNlcUlsT3dpcExPWHBnM2oxR19xTWtPMU5aUWhncTU1TWtmYUN4cHJSQVVyNHVfMTVOOVo1bmQzNDFEVnhhNWJubEhMQ3huamYxWHQ4dkVHU2Nid2djV25"
       },
       {
+        "headline": "Iran War Tensions Spike With Trump’s Two-Day Deadline - Bloomberg.com",
+        "url": "https://www.bloomberg.com/news/newsletters/2026-03-22/iran-war-tensions-spike-with-trump-s-two-day-deadline",
+        "source": "Daybook: Scheduled Events",
+        "sourceId": "daybook_scheduled",
+        "category": "daybook",
+        "priority": "reference",
+        "date": "Sun, 22 Mar 2026 21:30:54 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbFZpVFVZXzVuREtBYWRDc2VWQ1g2VVVhTEtUeG9iUzFLdmpHZnZkS2x3UWNpTmRWXzJ0azNNSjBfemh0cmRnLURueEY3ZE8tTzlCT01QTWVjaFZIOWcyaklDYkg0aGRscmluQ0J"
+      },
+      {
         "headline": "Iran unswayed by Trump's 48-hour deadline and threats to 'obliterate' energy infrastructure - NBC News",
         "url": "https://www.nbcnews.com/video/iran-unswayed-by-trump-s-48-hour-deadline-and-threats-to-obliterate-energy-infrastructure-259832901951",
         "source": "Daybook: Scheduled Events",
@@ -1536,14 +1484,14 @@
         "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOU29EdENrLUdBajhOenhIWEdyVVN3Z3hkS3RQcnFZdWZnQU1XVjBWekdPUEt0ck9WS1h2NmM4QUJ6RXhxelNSV2pVM1FZZk5fNnAyeGdJc1FkcmJ1UjVvY0pqZWthME1GbjhKLXh"
       },
       {
-        "headline": "Starmer to Chair Crisis Meeting as Trump’s Iran Deadline Looms - Bloomberg.com",
-        "url": "https://www.bloomberg.com/news/articles/2026-03-22/starmer-to-chair-crisis-meeting-as-trump-s-iran-deadline-looms",
+        "headline": "'Project Hail Mary' $140M+ WW Opening Best YTD For MPA Movie, Breaks Records - Deadline",
+        "url": "https://deadline.com/2026/03/box-office-global-project-hail-mary-1236762532/",
         "source": "Daybook: Scheduled Events",
         "sourceId": "daybook_scheduled",
         "category": "daybook",
         "priority": "reference",
-        "date": "Mon, 23 Mar 2026 07:54:56 GMT",
-        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNdDRtcnNRMV9BSDNzMnZ3VXJYUHZRV3lWcTBmS09BdFpqTG9DOGhVOXRQYTJzc01EUDJVb1Z0eXlKcWhJZGNkS19GazQzTkU0ZkkxaTRMR1IwYVBJd1RZa0FEZ3BEbHVtcWNTdEd"
+        "date": "Sun, 22 Mar 2026 15:19:00 GMT",
+        "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOSTRVV09CNWpVc2U2d1BnVUg5ZmZCa0JmZVB2TEJvYTdpYlkxVkNaSzdtRlpJYk5UVm9TV3lDbzVGRThZa1dra2VBakZISnJ5Y05PS2dzRnA4TXp3dkxfTktXcjZuOXJXXzU5d01"
       }
     ],
     "byCategory": {
@@ -1676,7 +1624,17 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ0RHekRXX282RGdBRFhZTkRPTGluSnpiS2hYMUVRSGlmMUo4aVhyVEowTWFwYXF2N2k4TGM2OGpWaWoydEJrbE9SUXE3aXExaVVCMEZRY1EzLXVTa3o1RGJnRzYzOU4tVXJsdXQ"
         },
         {
-          "headline": "China warns of 'vicious cycle' if war escalates in Middle East - Reuters",
+          "headline": "Lionel Jospin, former French prime minister defeated by the far right, dies at 88 - Reuters",
+          "url": "https://www.reuters.com/world/europe/former-french-prime-minister-lionel-jospin-dies-88-bfm-reports-2026-03-23/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Mon, 23 Mar 2026 08:13:42 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxONkhOaFlGWGg1RUdoOC1IMlQzZjVHM1kyR1h3cWpkNDl4NzlNcV9SYmJwNWppU1RWNU9xUWRqZGhBSVA5Ykc3X0xnZHFEcmRqS0dxaWRRTUlWamdtNi1BNDgzN2dXZ1Zjb0lna3d"
+        },
+        {
+          "headline": "China urges US, Israel to stop military action in Middle East, warns of 'vicious cycle' - Reuters",
           "url": "https://www.reuters.com/world/china/china-warns-vicious-cycle-if-war-escalates-middle-east-2026-03-23/",
           "source": "Reuters",
           "sourceId": "reuters_world",
@@ -1691,16 +1649,6 @@
               "matched": "warns of"
             }
           ]
-        },
-        {
-          "headline": "Lionel Jospin, former French prime minister defeated by the far right, dies at 88 - Reuters",
-          "url": "https://www.reuters.com/world/europe/former-french-prime-minister-lionel-jospin-dies-88-bfm-reports-2026-03-23/",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Mon, 23 Mar 2026 08:13:42 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxONkhOaFlGWGg1RUdoOC1IMlQzZjVHM1kyR1h3cWpkNDl4NzlNcV9SYmJwNWppU1RWNU9xUWRqZGhBSVA5Ykc3X0xnZHFEcmRqS0dxaWRRTUlWamdtNi1BNDgzN2dXZ1Zjb0lna3d"
         },
         {
           "headline": "Trump's Iran war oil shield is cracking - Reuters",
@@ -1723,16 +1671,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcVhnbHNZTjRfREVLYTBhWU1RRjB2TTh0Y1VaR0pxNk5tcld5SGVvLUlNWDMxTkJSblhHNU9mRkVpZmEtY2FONThBNzZJV0NKNkhlSElKZFFXald4XzY2dUgyYTlQeTJwSWFzVW5"
         },
         {
-          "headline": "One battle after another: Iran war deals new blow to Europe's industrial heartland - Reuters",
-          "url": "https://www.reuters.com/sustainability/boards-policy-regulation/one-battle-after-another-iran-war-deals-new-blow-europes-industrial-heartland-2026-03-23/",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Mon, 23 Mar 2026 06:02:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcFZ3TTduUy1DcWtTd1NXSUZnRDktUXRGMWpnbkdiT2p1NzlVZE5pdXpkdV9BYVQxdDJsM3BGMlY1ZG9RalF5MDBJVC1mSS14UXRrVjFfejdNRmNWYmc0SHpMVHd2WTFTenFIcDZ"
-        },
-        {
           "headline": "Russia's Baltic ports halt oil and fuel exports after drone attacks, sources say - Reuters",
           "url": "https://www.reuters.com/world/fuel-reservoir-russias-primorsk-port-fire-after-drone-attack-governor-says-2026-03-23/",
           "source": "Reuters",
@@ -1741,6 +1679,16 @@
           "priority": "primary",
           "date": "Mon, 23 Mar 2026 06:56:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPNG1XQ3RiWWFnZ1VRVmFUN1FHcHA1dEdDdnJXMjRabk52bTRKQTRxOEMxR3ZzUG40b3ZxaHZfM19ua2RJam5PdnI0d0R0NGU5VkwzU2Z3dnBqZUpMS0tNTDFyUHdMOGNCVW5KZ2h"
+        },
+        {
+          "headline": "One battle after another: Iran war deals new blow to Europe's industrial heartland - Reuters",
+          "url": "https://www.reuters.com/sustainability/boards-policy-regulation/one-battle-after-another-iran-war-deals-new-blow-europes-industrial-heartland-2026-03-23/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Mon, 23 Mar 2026 06:02:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcFZ3TTduUy1DcWtTd1NXSUZnRDktUXRGMWpnbkdiT2p1NzlVZE5pdXpkdV9BYVQxdDJsM3BGMlY1ZG9RalF5MDBJVC1mSS14UXRrVjFfejdNRmNWYmc0SHpMVHd2WTFTenFIcDZ"
         },
         {
           "headline": "European gasoline heads to Asia as Iran war sparks supply fears - Reuters",
@@ -1753,14 +1701,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNRzZNVWp4NDhQQ29LTjdhZEx1YVdVRUJxbTQ4Nk5yVzN0ZHdPelg0Qzh4eU1TLWpKUHQxT1paaDFMZ2FFTmhkNnVUel93Wm5NSFV6N1ZiclE2SExNdExBczN2MlFIb0NPVHZXNEh"
         },
         {
-          "headline": "Passenger jet collides with fire truck in New York's LaGuardia, killing both pilots - Reuters",
-          "url": "https://www.reuters.com/world/americas/air-canada-express-plane-hits-ground-vehicle-new-yorks-la-guardia-airport-2026-03-23/",
+          "headline": "Greece opens trial for 2023 train crash that killed 57 - Reuters",
+          "url": "https://www.reuters.com/world/greece-opens-trial-2023-train-crash-that-killed-57-2026-03-23/",
           "source": "Reuters",
           "sourceId": "reuters_world",
           "category": "wire",
           "priority": "primary",
-          "date": "Mon, 23 Mar 2026 04:32:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMXF6djE3aFFoZVQtN0F2blo1b2JTUFp1S01PLVd3NFFMWmxJS1JtYkFYbzZKdXpTaUsycUdaUW1OM0MyeEhQRkMtQ1FoTHZHY3Z6M3lDekFxS0RBd3BSZ0lmYWFVWFFiOXlCSTB"
+          "date": "Mon, 23 Mar 2026 07:34:06 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPdVc2TkdjMHBJeUltb1dLa2RNY3JRb0pzNzJ4Vmd1a3J6dExWb2ZtaTVGVGQzVVZpMGRPcXRrakNETkUxekFPMi1oNFhBWERqd2w3Z3Zkam1MOGNIendWdE9UVGUyVTVrcmlaQ3g"
         },
         {
           "headline": "Russian space craft antenna problem forces manual docking with ISS - Reuters",
@@ -1771,6 +1719,26 @@
           "priority": "primary",
           "date": "Mon, 23 Mar 2026 06:15:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUzFzREp6cGZiSFNMeU51VjR1MmNWdmNQNGRkYzh1Y3hNRTdlc25lZWp0Tzl1MTExeFUyYncyLUdQOS1hWDB5VklsSUdqLTBjQUNFdkhpNWdtVHlCclhSQzNGWEtyWVlqRzNmMUI"
+        },
+        {
+          "headline": "Passenger jet collides with fire truck in New York's LaGuardia, killing both pilots - Reuters",
+          "url": "https://www.reuters.com/world/americas/air-canada-express-plane-hits-ground-vehicle-new-yorks-la-guardia-airport-2026-03-23/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Mon, 23 Mar 2026 11:06:31 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMXF6djE3aFFoZVQtN0F2blo1b2JTUFp1S01PLVd3NFFMWmxJS1JtYkFYbzZKdXpTaUsycUdaUW1OM0MyeEhQRkMtQ1FoTHZHY3Z6M3lDekFxS0RBd3BSZ0lmYWFVWFFiOXlCSTB"
+        },
+        {
+          "headline": "What does it mean for 2027? Five takeaways from local French elections - Reuters",
+          "url": "https://www.reuters.com/world/what-does-it-mean-2027-five-takeaways-local-french-elections-2026-03-23/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Mon, 23 Mar 2026 05:03:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPLWNHQjN0T2N2bXlIUUc3S2RTVGFKYU9pMDdqQldKWHFCc09kbXBEMG9RcUpicHdMQWNfQk5SMC1ab3lVX211eVR5Z2xfVTFrLWtnUzRjM2IxQjB2Z2FCZEFPYjBxZm9CQ2ZSS3l"
         },
         {
           "headline": "Iran points at tit for tat retaliation if power plants targeted, statement - Reuters",
@@ -1793,24 +1761,54 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPczlldDVKSmtQNklSaFl1amRhQTlHbmktTW1PUjFqRkt0MmJYbWVpbV9Xb0xOOVVrUUxGdkw4NG84ZlhIM0EyTTV3Q2xucDRwZG5rVlhvOG1KQ29NRDFaUmR1aEJLdml2eC1EYlQ"
         },
         {
-          "headline": "Vietnam, Russia set to sign energy deals during PM's Moscow visit - Reuters",
-          "url": "https://www.reuters.com/business/energy/vietnam-russia-set-sign-energy-deals-during-pms-moscow-visit-2026-03-23/",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
+          "headline": "Plane collides with firefighting truck at New York City's LaGuardia airport",
+          "url": "https://www.france24.com/en/plane-collides-with-firefighting-truck-at-new-york-city-s-laguardia-airport",
+          "source": "France24",
+          "sourceId": "france24",
           "category": "wire",
-          "priority": "primary",
-          "date": "Mon, 23 Mar 2026 03:24:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUNsQ3B3RkhQWTZuUFBaTVVpX3BCQUF4Q2ZDMDU5X1RfQTRqQmYxQnJQTlp2dmRmR0JDa1FhbnVDWWdqWXIwZ0tsYmpTakJtRjRHcWJxS0JmTFJJSHA2RkVTZTgtVzR4ZXp3bEt"
+          "priority": "secondary",
+          "date": "Mon, 23 Mar 2026 11:03:06 GMT",
+          "description": ""
         },
         {
-          "headline": "Stocks skid to four-month low as oil shock spooks investors - Reuters",
-          "url": "https://www.reuters.com/business/energy/stocks-skid-four-month-low-oil-shock-spooks-investors-2026-03-23/",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
+          "headline": "Marseille sticks with the left as far-right fails to convince in local elections",
+          "url": "https://www.france24.com/en/marseille-sticks-with-the-left-as-far-right-fails-to-convince-in-local-elections",
+          "source": "France24",
+          "sourceId": "france24",
           "category": "wire",
-          "priority": "primary",
-          "date": "Mon, 23 Mar 2026 03:57:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSy1DcTZZd2ZVTFNDc2hDRjVOc1luV1NyLTRMbWs4eTNadTVaSDRKQzE1bFdnQlJ0Y1gwNzg5UFlNZUdwNUQ1S2E2Q1NSUlJWS05MWFVua3MzN01UdmhVckVDNC0wTVpEQkdWVUc"
+          "priority": "secondary",
+          "date": "Mon, 23 Mar 2026 11:00:29 GMT",
+          "description": ""
+        },
+        {
+          "headline": "Global economy under 'major' threat as Middle East war carries on",
+          "url": "https://www.france24.com/en/global-economy-under-major-threat-as-middle-east-war-carries-on",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Mon, 23 Mar 2026 10:33:16 GMT",
+          "description": ""
+        },
+        {
+          "headline": "A \"no\" vote in Italy's referendum could be 'first blow' to Meloni's premiership",
+          "url": "https://www.france24.com/en/a-no-vote-in-italy-s-referendum-could-be-first-blow-to-meloni-s-premiership",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Mon, 23 Mar 2026 10:29:20 GMT",
+          "description": ""
+        },
+        {
+          "headline": "French far-right fail to take key cities in test for 2027 presidential race",
+          "url": "https://www.france24.com/en/french-far-right-fail-to-take-key-cities-in-test-for-2027-presidential-race",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Mon, 23 Mar 2026 10:26:11 GMT",
+          "description": ""
         },
         {
           "headline": "French left wins over country's largest cities in municipal election",
@@ -1918,70 +1916,6 @@
           "priority": "secondary",
           "date": "Mon, 23 Mar 2026 02:15:08 GMT",
           "description": ""
-        },
-        {
-          "headline": "Live: Iran faces Trump's Hormuz ultimatum as IEA warns of worst global energy crisis in decades",
-          "url": "https://www.france24.com/en/middle-east/20260323-live-iran-trump-strike-iea-worst-energy-crisis",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Mon, 23 Mar 2026 01:52:22 GMT",
-          "description": "",
-          "watchCandidate": true,
-          "watchSignals": [
-            {
-              "category": "escalation",
-              "matched": "ultimatum"
-            }
-          ]
-        },
-        {
-          "headline": "West Bank settler violence surges as Israeli strikes on Gaza kill four Palestinians",
-          "url": "https://www.france24.com/en/middle-east/20260322-west-bank-settler-violence-gaza-strikes-palestinians-killed",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Sun, 22 Mar 2026 23:12:26 GMT",
-          "description": ""
-        },
-        {
-          "headline": "Iran threatens to cripple Gulf water, energy systems after Trump ultimatum",
-          "url": "https://www.france24.com/en/middle-east/20260322-iran-gulf-water-energy-threat-trump-ultimatum",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Sun, 22 Mar 2026 22:57:57 GMT",
-          "description": "",
-          "watchCandidate": true,
-          "watchSignals": [
-            {
-              "category": "escalation",
-              "matched": "threatens to"
-            }
-          ]
-        },
-        {
-          "headline": "France’s municipal elections : Emmanuel Grégoire elected Paris mayor",
-          "url": "https://www.france24.com/en/video/20260322-france-s-municipal-elections-emmanuel-gr%C3%A9goire-elected-paris-mayor",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Sun, 22 Mar 2026 21:47:29 GMT",
-          "description": ""
-        },
-        {
-          "headline": "Left-winger Emmanuel Grégoire elected mayor of Paris, exit polls say",
-          "url": "https://www.france24.com/en/france/20260322-socialist-frontrunner-emmanuel-gr%C3%A9goire-elected-paris-mayor-rachida-dati",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Sun, 22 Mar 2026 19:58:37 GMT",
-          "description": ""
         }
       ],
       "general": [
@@ -1992,7 +1926,7 @@
           "sourceId": "bbc_world",
           "category": "general",
           "priority": "primary",
-          "date": "Mon, 23 Mar 2026 09:40:11 GMT",
+          "date": "Mon, 23 Mar 2026 10:47:21 GMT",
           "description": "The plane, arriving from Montreal, collided with a firefighting vehicle responding to a separate incident."
         },
         {
@@ -2464,14 +2398,14 @@
           "description": "&lt;p&gt;As other Asian economies race to conserve energy, China has huge reserves of oil and gas as well as alternative energy sources like wind and solar&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a "
         },
         {
-          "headline": "Iran War Live Updates: Power Outages Are Reported in Tehran as Israel Launches Strikes",
+          "headline": "Iran War Live Updates: Power Outages Reported in Tehran After Fresh Israeli Strikes",
           "url": "https://www.nytimes.com/live/2026/03/23/world/iran-war-oil-trump",
           "source": "New York Times",
           "sourceId": "nyt_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Mon, 23 Mar 2026 10:27:38 +0000",
-          "description": "Residents reported widespread power outages across the capital. Israel’s military said it had begun a new wave of airstrikes targeting infrastructure in the city, but did not provide further details."
+          "date": "Mon, 23 Mar 2026 11:09:27 +0000",
+          "description": "Israel��s military said it was targeting infrastructure in the Iranian capital. The head of the International Energy Agency warned that the global energy crisis caused by the war was now worse than th"
         },
         {
           "headline": "Canada’s Military Wants to Prove It Can Defend the High Arctic",
@@ -2540,8 +2474,8 @@
           "sourceId": "nyt_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Mon, 23 Mar 2026 08:25:30 +0000",
-          "description": "Tensions in the opposition Nationalist Party could surface this week as lawmakers debate defense funding intended to counter Beijing’s growing might.",
+          "date": "Mon, 23 Mar 2026 10:29:21 +0000",
+          "description": "Tensions in the opposition Nationalist Party could surface this week as lawmakers argue over additional defense funding intended to counter Beijing’s growing might.",
           "watchCandidate": true,
           "watchSignals": [
             {
@@ -2822,25 +2756,14 @@
       ],
       "business": [
         {
-          "headline": "Stocks tumble as Trump and Iran step up threats",
+          "headline": "Trump postpones attacks on energy sites after ‘productive’ talks with Iran",
           "url": "https://www.ft.com/content/06db9d82-01f3-49ba-951c-3bb784ae4eb2",
           "source": "Financial Times",
           "sourceId": "ft_home",
           "category": "business",
           "priority": "primary",
           "date": "Mon, 23 Mar 2026 02:50:17 GMT",
-          "description": "Missile salvos across the region resume ahead of US deadline for Iran to open Strait of Hormuz",
-          "watchCandidate": true,
-          "watchSignals": [
-            {
-              "category": "temporal",
-              "matched": "ahead of"
-            },
-            {
-              "category": "scheduled",
-              "matched": "deadline"
-            }
-          ]
+          "description": "US president says Washington has had ‘very good’ talks over past couple of days"
         },
         {
           "headline": "Trump’s Iran playbook was written in the 1980s",
@@ -2893,31 +2816,14 @@
           "description": "The country’s underlying strengths are absorbing his erratic choices, including the war on Iran"
         },
         {
-          "headline": "‘It’s always Putin’ behind every EU migration crisis, official says",
-          "url": "https://www.ft.com/content/775150ca-4eb4-4761-837d-047c3e8b18c7",
+          "headline": "Trump looking at inviting Belarus’s Lukashenko to White House",
+          "url": "https://www.ft.com/content/69675c86-d1ff-4bbf-a55a-a480421bd165",
           "source": "Financial Times",
           "sourceId": "ft_home",
           "category": "business",
           "priority": "primary",
-          "date": "Mon, 23 Mar 2026 05:00:25 GMT",
-          "description": "Russian president is ‘biggest driver’ of immigration due to his role in wars over past decade, says EU commissioner",
-          "watchCandidate": true,
-          "watchSignals": [
-            {
-              "category": "temporal",
-              "matched": "due to"
-            }
-          ]
-        },
-        {
-          "headline": "Merz’s reform drive put at risk after vote in western state",
-          "url": "https://www.ft.com/content/e813be8e-8f52-4018-a518-8ddd1ec43f43",
-          "source": "Financial Times",
-          "sourceId": "ft_home",
-          "category": "business",
-          "priority": "primary",
-          "date": "Mon, 23 Mar 2026 04:42:03 GMT",
-          "description": "Win for CDU against its coalition partner in Rhineland-Palatinate could cost chancellor nationally"
+          "date": "Mon, 23 Mar 2026 11:00:09 GMT",
+          "description": "US administration seeks diplomatic thaw with authoritarian ally of Vladimir Putin"
         },
         {
           "headline": "Flights disrupted after crash at NY’s LaGuardia airport kills two people",
@@ -3112,16 +3018,6 @@
       ],
       "daybook": [
         {
-          "headline": "U.S. Remarks at the Global Fraud Summit - March 2026 - U.S. Mission to International Organizations in Vienna (.gov)",
-          "url": "https://vienna.usmission.gov/u-s-remarks-at-the-global-fraud-summit-march-2026/",
-          "source": "Daybook: International Events",
-          "sourceId": "daybook_intl",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Tue, 17 Mar 2026 08:05:46 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQa2dXc0ZuVktQV1VXZHFQbDRZOVNXaXRNc1IzSFROZUNzLXItX3NYRi0zWmhZSmk4ajJLVE0xX2hLal9rUG1pWjU4N3AxX3JQbDZoVVdIdjhXUE5RQkNWcjVpT0NkZUNaSnJCMlR"
-        },
-        {
           "headline": "Trump-Takaichi Summit: Expert Analysis on U.S.-Japan Relations - Syracuse University Today",
           "url": "https://news.syr.edu/2026/03/20/trump-takaichi-summit-expert-analysis-on-u-s-japan-relations/",
           "source": "Daybook: International Events",
@@ -3150,16 +3046,6 @@
           "priority": "reference",
           "date": "Thu, 19 Mar 2026 13:14:58 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOSy1DaTJGc3RPbU9TN3dNLTF1bGdTY1U0Q045OTF4bjFPdk4xd3VnUVBpNjZxUVU0ZElJZkwybGNNMnBpeEY3ZVZ0UkdwaEZHRFRKWlBUOEg0WEFfd2oyYnFFb21rdWNTRXRjRVZ"
-        },
-        {
-          "headline": "INTERPOL-UNODC global summit ends with call to action against fraud surge - Interpol",
-          "url": "https://www.interpol.int/News-and-Events/News/2026/INTERPOL-UNODC-global-summit-ends-with-call-to-action-against-fraud-surge",
-          "source": "Daybook: International Events",
-          "sourceId": "daybook_intl",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Tue, 17 Mar 2026 16:32:44 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZVpiQlBoUmZIaXZVUEFHV0ZIN1BTTEZlOHk0NkF4d08wX1pKWGJMdTc4akZMdWhnbHhsYm5BSGY3UDVWZGVHd1JCTzVTMlE2cnB5WTBSMnVMVk96Ui1mNDJDaGdLY19kUmVVaUh"
         },
         {
           "headline": "Summit between Prime Minister Sanae Takaichi and President Donald J. Trump - U.S. Embassy &amp; Consulates in Japan (.gov)",
@@ -3262,6 +3148,36 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYmRtY3N4SWpBdERQM2sxSk50ZWVsN1Q3ZmstTDdCM0dNM0dsaW80WlliTTAzQ1oyOWdXZEZIek4ta2JQZW9XX3lmTkZhalM5SVFhQ0IwemdETWhLN1k3T3YtOHc1Sm9jSGFHSnN"
         },
         {
+          "headline": "The Summit opening 6 new shops in 2026 - Bham Now",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53a28tMk1laDZ1UHZZTERxMFl1MUswQ2RyQVNiU2ZZa1p3cndWbWVUZEhUbzlia2xHb0VKV0Jha1lCdm5IQTllOHcxanpQSzROUVg1OUV2QWNPU3BlVTZNZzFqMGk5WXRYaFhYVTg0OWZ5dmN1eWhQeVpn?oc=5",
+          "source": "Daybook: International Events",
+          "sourceId": "daybook_intl",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Thu, 19 Mar 2026 20:59:16 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE53a28tMk1laDZ1UHZZTERxMFl1MUswQ2RyQVNiU2ZZa1p3cndWbWVUZEhUbzlia2xHb0VKV0Jha1lCdm5IQTllOHcxanpQSzROUVg1OUV2QWNPU3BlVTZNZzFqMGk5WXRYaFhYVTg"
+        },
+        {
+          "headline": "Reservation Economic Summit (RES) 2026 - Department of Energy (.gov)",
+          "url": "https://www.energy.gov/edf/events/reservation-economic-summit-res-2026",
+          "source": "Daybook: International Events",
+          "sourceId": "daybook_intl",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Sun, 22 Mar 2026 02:33:22 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1uV1UxSk5jakRYQ1Rod1huM1VPdWZRVVBhSFpCQ2xnanp3clJrY1hiemtTLW9jSlpMQnV2SUtYendKUWFidk9NYVFBbGJlT1RST0NDWXNIMkRXX3NDYXBMajRFbXJUYkFNaV91aDd"
+        },
+        {
+          "headline": "Key dates for 2025-26 NBA season - NBA",
+          "url": "chrome-error://chromewebdata/",
+          "source": "Daybook: Economic Calendar",
+          "sourceId": "daybook_econ",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Thu, 19 Mar 2026 07:00:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE4xNVlRRHFIc2c1RldBanIwV1hmaWk4QUcxU1hNSm1CLVpqck1jWkl6UXRRSTZWb2dybDdDaHdDS0hYN3Uxa0xOcERR?oc=5\" target=\"_blank\"&gt;Key dates for 2025-26"
+        },
+        {
           "headline": "Fed’s Interest Rate Decision: March 18, 2026 - Advisor Perspectives",
           "url": "https://www.advisorperspectives.com/dshort/updates/2026/03/19/feds-interest-rate-decision-march-18-2026",
           "source": "Daybook: Economic Calendar",
@@ -3273,7 +3189,7 @@
         },
         {
           "headline": "The Fed issues its latest interest rate decision Wednesday. Here's what to expect - CNBC",
-          "url": "https://www.cnbc.com/2026/03/17/the-fed-issues-its-latest-interest-rate-decision-wednesday-heres-what-to-expect.html",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTW93UnBleWM5TGFiODl3NEN1NlNsb2xTUzd2ek9COGg2aUdOQVY0cGc3dXJuRVBnc3N3VHBkdUhoWExqN2hXTHNlekRLX2ZFWmd6MTc4Z2toWkotek5Xc1FMNmZwUW5zTENSR3N5Q3o3blZHc2xpOHdkU2xLeEhMQ21pSU0wOTdOLW0zN3NCaFFVVFBvcTU2eThUQThvZGVUWU9JcDdxZUE3VUZNTC1BZ2s2N08tXzDSAbwBQVVfeXFMUEFkdEk0Rmtad3BTQVdCckl6RXdaSXZFbXpJTlRKTFB6RnZDR21ta3BTdG5TbVNZRG5tV1ZLNWVKNzZaeUdXNExkUmFCZU5wQ3M3NDlBWExla3pGdTdaeERNMzU2XzJMUTBuSWtrYjNCa0l3ZDZOZTZuVGtPcFJFaVdPUVRuLVFfTEsyZ252Q2IxYko5NmY4OTVzMnoyX0hNQ1RadnBkbVFOWUJTeFFIODd0VGRvY1RGOVBYZkY?oc=5",
           "source": "Daybook: Economic Calendar",
           "sourceId": "daybook_econ",
           "category": "daybook",
@@ -3302,6 +3218,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxObmE2Rm5TNnFlVmNSODAwcFBnekVlTWJHekl5VWEwRzB5UTlxSXNMYUlOTnozX2ZjZ01hZENCTkZPc0ZmOTA2NDVxelFYRVd0Q1BkQ29QeUpHM3YtbTU5aHY1Y2o3M0tmcjdRNTZ"
         },
         {
+          "headline": "Taking Stock - Fed rate decision, March 18, 2026 - Empower",
+          "url": "https://www.empower.com/investment-insights/trends/taking-stock-fed-rate-decision-march-18-2026",
+          "source": "Daybook: Economic Calendar",
+          "sourceId": "daybook_econ",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Wed, 18 Mar 2026 07:00:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPVVZnYmx5cXhpOGNPTElNR1VXV2c5eHVDMXlsS0NMdTBNY2FrNjJHbDZvN01BUGpkdE1KZFJKd2dNU1VTUGlXWWhDMEthQnJHM2ZDNEQ2Y0EwdUp5ZWd2cWtJNnUwZzBRSEJMUlV"
+        },
+        {
           "headline": "Fed issues latest rate decision amid geopolitical turmoil - mpamag.com",
           "url": "https://www.mpamag.com/us/mortgage-industry/market-updates/fed-issues-latest-rate-decision-amid-geopolitical-turmoil/569027",
           "source": "Daybook: Economic Calendar",
@@ -3310,26 +3236,6 @@
           "priority": "reference",
           "date": "Wed, 18 Mar 2026 18:01:04 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWnRsZmR1Tldhb2dEUU9sVlNFYVdkVmFQcWw1REZnN2dNSFdIUHdWSTNvTjVjSkR4bkE1OHlRdWlGWkRHWnpUQ2g3TVVFVnhyTjdIOG1BQkdnZTdRU1oxQ2d0cm5yb1BFckJ6b0J"
-        },
-        {
-          "headline": "After trade deadline ‘disappointment,’ can this still be the Carolina Hurricanes’ year? - The Athletic - The New York Times",
-          "url": "https://www.nytimes.com/athletic/7131389/2026/03/20/carolina-hurricanes-playoffs-stanley-cup/",
-          "source": "Daybook: Economic Calendar",
-          "sourceId": "daybook_econ",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Fri, 20 Mar 2026 14:14:10 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOZWdUOW9WSDRVaTY1OHQ1MF9lZFdkc3RlbmZod1F5dnhNSFBmbzJIbGtQMHFBMHVxM3p5OFp4c0M5cHd5MTdiZ2N5Y3FwSVBRUlQ2dHZvNUpRSVBRNUpQdVZnSWp5Ym5BUzBVM0N"
-        },
-        {
-          "headline": "This Week in Review | Energy Markets, Fed Meeting, Earnings Reporting - Fisher Investments",
-          "url": "https://www.fisherinvestments.com/en-us/insights/videos/fisher-investments-this-week-in-review-2026-03-20",
-          "source": "Daybook: Economic Calendar",
-          "sourceId": "daybook_econ",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Sat, 21 Mar 2026 00:20:53 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdjFUNkhFcVB4YnlRR2hpZDlER2xrOEFsS2MwTDNlRDZlaXpqQTFrM1c2bWgxWHBPMnpNOXduUjVaMG5wbXJ5Q3kzOG1HenB4TDhXb3ZUWmM5eGhaQmxERzh5WnBuNUppYTVmam8"
         },
         {
           "headline": "Here are the five key takeaways from this week's Fed meeting - CNBC",
@@ -3402,14 +3308,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQbzlfYi1IanAwdEh5eEV6SHZITFd1cU9SQ2xERnBZRnBxNk4tQ3M1aUlFbTctWTJUNHBZZGlyVnpkWWNFdENLeUZ1Wno3X0RPbGRFZjVGVFRmX0U4LV9nTDQyREtBVFBPdTQxNnV"
         },
         {
-          "headline": "Rates Spark: Some calm ahead of the Fed meeting - ING THINK economic and financial analysis | ING THINK",
-          "url": "https://think.ing.com/articles/rates-spark-some-calm-ahead-of-the-fed-meeting/",
+          "headline": "After trade deadline ‘disappointment,’ can this still be the Carolina Hurricanes’ year? - The Athletic - The New York Times",
+          "url": "https://www.nytimes.com/athletic/7131389/2026/03/20/carolina-hurricanes-playoffs-stanley-cup/",
           "source": "Daybook: Economic Calendar",
           "sourceId": "daybook_econ",
           "category": "daybook",
           "priority": "reference",
-          "date": "Wed, 18 Mar 2026 09:07:05 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQaW9QUHQtSklyNUZseC1CaXN6QjRYMTYwSDVfVUxqSEZqN0RLV1IxV0xnWUp4Ylg2VUpiX0JBb1JwazlFZERkVXRiOFlfMkdodnk3cHI1SDNkU2xJcDBrNndOVnNhTTNYWkZpUGN"
+          "date": "Fri, 20 Mar 2026 14:14:10 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOZWdUOW9WSDRVaTY1OHQ1MF9lZFdkc3RlbmZod1F5dnhNSFBmbzJIbGtQMHFBMHVxM3p5OFp4c0M5cHd5MTdiZ2N5Y3FwSVBRUlQ2dHZvNUpRSVBRNUpQdVZnSWp5Ym5BUzBVM0N"
         },
         {
           "headline": "Iran Strikes Gulf Targets as Trump’s Hormuz Deadline Approaches - Bloomberg.com",
@@ -3432,16 +3338,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xcmJucEZxdUl2NGF6WElGZ3ZvTzM0UVVYWFR5NDhxeEt3Q21kX2c4dHVoU09xdVUyWjUtZTVuMG1nWG8xbGNPMno1VHY5OHlBZUdjaGNPLTJEa3Vyam82eFJ3YVVFQ2tC?oc=5\" "
         },
         {
-          "headline": "Iran threatens to close Strait of Hormuz and hit power plants after Trump's 48-hour deadline - PBS",
-          "url": "https://www.pbs.org/newshour/world/iran-threatens-to-close-strait-of-hormuz-and-hit-power-plants-after-trumps-48-hour-deadline",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Sun, 22 Mar 2026 15:50:14 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQdTk0WGdlcWNyemdPYXQ4cFRrQ2VDcWJ4UnVxajJYV21LS0pOQjB4NEhXeUN3eGo3am00aHJNeWVJbFBEM0o2dFR6VTV3VWR1OWhCSjBvdHZVbHpUdzJ1Z3VWN3BLaUIySUhJRlZ"
-        },
-        {
           "headline": "Bob Harlan's funeral and celebration of life scheduled for today - Green Bay Press-Gazette",
           "url": "https://www.greenbaypressgazette.com/story/sports/nfl/packers/2026/03/23/bob-harlans-funeral-and-celebration-of-life-scheduled-for-today-green-bay-packers/89246668007/",
           "source": "Daybook: Scheduled Events",
@@ -3452,14 +3348,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxOck5FSUFqTHNIbTVoN1JjdVZudDF0T05fSm1uQVNhSFNkTG1vSW04OGtnaW9Tc21CdVJRNU1TTmpkRF90TnFlYmd6QkRGY05RdmlyQlBESU1Kc3IyZDdQRHZtdlRDTDU5d2JuX09"
         },
         {
-          "headline": "Iranians Fear Trump’s Threat to Strike Power Plants - The New York Times",
-          "url": "https://www.nytimes.com/2026/03/22/world/middleeast/iran-trump-power-plants.html",
+          "headline": "Iran threatens to close Strait of Hormuz and hit power plants after Trump's 48-hour deadline - PBS",
+          "url": "https://www.pbs.org/newshour/world/iran-threatens-to-completely-close-strait-of-hormuz-and-hit-power-plants-following-trumps-ultimatum",
           "source": "Daybook: Scheduled Events",
           "sourceId": "daybook_scheduled",
           "category": "daybook",
           "priority": "reference",
-          "date": "Mon, 23 Mar 2026 09:59:59 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxObnV6a0FVMmlnbUpiUUZrX3hxZTNwUGswaVNEM1FLdVh4UVVIeXhpYXFRS0pUanRxaGVZcXlPdEpLZ2tmdkdtY3otY0RsOWV2akp0NS1tM3lJNy1DWktKS2FEU0VLemdXX3lXeUV"
+          "date": "Sun, 22 Mar 2026 15:50:14 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQdTk0WGdlcWNyemdPYXQ4cFRrQ2VDcWJ4UnVxajJYV21LS0pOQjB4NEhXeUN3eGo3am00aHJNeWVJbFBEM0o2dFR6VTV3VWR1OWhCSjBvdHZVbHpUdzJ1Z3VWN3BLaUIySUhJRlZ"
         },
         {
           "headline": "The economy has a Strait of Hormuz deadline for Trump: Two weeks - CNBC",
@@ -3492,14 +3388,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNWkNuQUh6VUVVRlg4cGZaWlptUk9ZNUJRb2NFYWhVMGNXNHExV1dYdGwwclBRQVY2UGRjQU9vMmRnN3p3MFlieFNfTUtQQUIyRHpFZ1VPUXV4T2lvR2IwWU5yY2xzenBoLVdNWTl"
         },
         {
-          "headline": "Oil Prices Jump Despite Trump’s Iran Threats. His Strait of Hormuz Deadline Nears. - Barron's",
-          "url": "https://www.barrons.com/articles/oil-price-trump-hormuz-brent-wti-d395ce51?gaa_at=eafs&gaa_n=AWEtsqcZJVQ-XQ4axserDksG6QZoDyzq35zOiLDT7HHZOjwR5WZW63qUvnUx&gaa_ts=69c119cf&gaa_sig=PlIGTPkpvq2QH3WgAVZE3e-h0PMEpv1CnKxvJ1HFoQ3S4wRR-0QsYMv0oyPN6yL3eni8oX0oyRTBuSIji9GZbA%3D%3D",
+          "headline": "Trump’s deadline looms on Strait of Hormuz as Iran vows retaliation - NewsNation",
+          "url": "https://www.newsnationnow.com/world/trump-strait-of-hormuz-deadline-iran-vows-retaliation/",
           "source": "Daybook: Scheduled Events",
           "sourceId": "daybook_scheduled",
           "category": "daybook",
           "priority": "reference",
-          "date": "Mon, 23 Mar 2026 08:06:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihANBVV95cUxOcFdlRmIwM1hkb2F3MjQ4NXdiWTBwSjFuaUx6c1VqMFdMNjRiNUFMNzFJT2NVczhvMHYySWFINURVVDNMU2dFdlR6ZXJWWGxhM0JMM1AxTElNa2RENXlKaGZ3a09qT0FIeW1iQVR"
+          "date": "Mon, 23 Mar 2026 10:53:46 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOMm1SeE52ck0xMEQ1QXRpMVlxSU1leFpmNDQ4a2doUVF2YkZTQzdpX3pvYmV2TFBlcTFlRlA2MmFYODJmSFhrWlNXZE9xelY5Z0RnN2lpQlY5ek9LcEFuZk41a0ZqRFZOSXBhYVB"
         },
         {
           "headline": "Iran live updates: Trump's 48-hour deadline to expire Monday evening - Yahoo",
@@ -3512,24 +3408,24 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNRzNaTUFtdlJQRkVfaURZQmNHLXNnSkFmRFFjcGdxTVZUVXpyNmxmQV9TNVZMN2xGRTlQbFcyR2pXdDd5VFV4bEoxX1YyWjZXU3Q1Y3RWRGFGOXBtY3UxS2xlNm1hcUJNakdWZHd"
         },
         {
-          "headline": "'Project Hail Mary' $140M+ WW Opening Best YTD For MPA Movie, Breaks Records - Deadline",
-          "url": "https://deadline.com/2026/03/box-office-global-project-hail-mary-1236762532/",
+          "headline": "As Trump’s Deadline Nears, Iranians Dread the Darkness - The New York Times",
+          "url": "https://www.nytimes.com/2026/03/22/world/middleeast/iran-trump-power-plants.html",
           "source": "Daybook: Scheduled Events",
           "sourceId": "daybook_scheduled",
           "category": "daybook",
           "priority": "reference",
-          "date": "Sun, 22 Mar 2026 15:19:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOSTRVV09CNWpVc2U2d1BnVUg5ZmZCa0JmZVB2TEJvYTdpYlkxVkNaSzdtRlpJYk5UVm9TV3lDbzVGRThZa1dra2VBakZISnJ5Y05PS2dzRnA4TXp3dkxfTktXcjZuOXJXXzU5d01"
+          "date": "Mon, 23 Mar 2026 02:29:37 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxObnV6a0FVMmlnbUpiUUZrX3hxZTNwUGswaVNEM1FLdVh4UVVIeXhpYXFRS0pUanRxaGVZcXlPdEpLZ2tmdkdtY3otY0RsOWV2akp0NS1tM3lJNy1DWktKS2FEU0VLemdXX3lXeUV"
         },
         {
-          "headline": "Iran War Tensions Spike With Trump’s Two-Day Deadline - Bloomberg.com",
-          "url": "https://www.bloomberg.com/news/newsletters/2026-03-22/iran-war-tensions-spike-with-trump-s-two-day-deadline",
+          "headline": "Oil Prices Jump Despite Trump’s Iran Threats. His Strait of Hormuz Deadline Nears. - Barron's",
+          "url": "https://www.barrons.com/articles/oil-price-trump-hormuz-brent-wti-d395ce51?gaa_at=eafs&gaa_n=AWEtsqej8FNkmIYpjwXjhOBTz4XRKO6vS0MrhKE6HjXlLLn_SOE74GLX8oRP&gaa_ts=69c123f6&gaa_sig=WVNxeRUlH4ZV4VwqknA-w9wqPbh6srEPnA0yUSmiGsGitQaRLit84ryMr-JH8b3mm1djdG1uT4pRm4e174r7Nw%3D%3D",
           "source": "Daybook: Scheduled Events",
           "sourceId": "daybook_scheduled",
           "category": "daybook",
           "priority": "reference",
-          "date": "Sun, 22 Mar 2026 21:30:54 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbFZpVFVZXzVuREtBYWRDc2VWQ1g2VVVhTEtUeG9iUzFLdmpHZnZkS2x3UWNpTmRWXzJ0azNNSjBfemh0cmRnLURueEY3ZE8tTzlCT01QTWVjaFZIOWcyaklDYkg0aGRscmluQ0J"
+          "date": "Mon, 23 Mar 2026 08:06:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihANBVV95cUxNUDlPYThQTXh1U2RyelFLX1RjbkFnWEpaTXVyLVpXRlViQTQwU0psVS1aOFZTcnhRbERSTnJsWE85a1FNYl9jYTBydV9sbkY4QVBZS09IRDJGdF9HYkxZbkhsUS1YNzI5NVFSajZ"
         },
         {
           "headline": "Trump’s next steps with a looming deadline placed for the Strait of Hormuz - CNN",
@@ -3542,6 +3438,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQOTliUjFOUE1PRHpwRkNlcUlsT3dpcExPWHBnM2oxR19xTWtPMU5aUWhncTU1TWtmYUN4cHJSQVVyNHVfMTVOOVo1bmQzNDFEVnhhNWJubEhMQ3huamYxWHQ4dkVHU2Nid2djV25"
         },
         {
+          "headline": "Iran War Tensions Spike With Trump’s Two-Day Deadline - Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-03-22/iran-war-tensions-spike-with-trump-s-two-day-deadline",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Sun, 22 Mar 2026 21:30:54 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbFZpVFVZXzVuREtBYWRDc2VWQ1g2VVVhTEtUeG9iUzFLdmpHZnZkS2x3UWNpTmRWXzJ0azNNSjBfemh0cmRnLURueEY3ZE8tTzlCT01QTWVjaFZIOWcyaklDYkg0aGRscmluQ0J"
+        },
+        {
           "headline": "Iran unswayed by Trump's 48-hour deadline and threats to 'obliterate' energy infrastructure - NBC News",
           "url": "https://www.nbcnews.com/video/iran-unswayed-by-trump-s-48-hour-deadline-and-threats-to-obliterate-energy-infrastructure-259832901951",
           "source": "Daybook: Scheduled Events",
@@ -3552,14 +3458,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOU29EdENrLUdBajhOenhIWEdyVVN3Z3hkS3RQcnFZdWZnQU1XVjBWekdPUEt0ck9WS1h2NmM4QUJ6RXhxelNSV2pVM1FZZk5fNnAyeGdJc1FkcmJ1UjVvY0pqZWthME1GbjhKLXh"
         },
         {
-          "headline": "Starmer to Chair Crisis Meeting as Trump’s Iran Deadline Looms - Bloomberg.com",
-          "url": "https://www.bloomberg.com/news/articles/2026-03-22/starmer-to-chair-crisis-meeting-as-trump-s-iran-deadline-looms",
+          "headline": "'Project Hail Mary' $140M+ WW Opening Best YTD For MPA Movie, Breaks Records - Deadline",
+          "url": "https://deadline.com/2026/03/box-office-global-project-hail-mary-1236762532/",
           "source": "Daybook: Scheduled Events",
           "sourceId": "daybook_scheduled",
           "category": "daybook",
           "priority": "reference",
-          "date": "Mon, 23 Mar 2026 07:54:56 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNdDRtcnNRMV9BSDNzMnZ3VXJYUHZRV3lWcTBmS09BdFpqTG9DOGhVOXRQYTJzc01EUDJVb1Z0eXlKcWhJZGNkS19GazQzTkU0ZkkxaTRMR1IwYVBJd1RZa0FEZ3BEbHVtcWNTdEd"
+          "date": "Sun, 22 Mar 2026 15:19:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOSTRVV09CNWpVc2U2d1BnVUg5ZmZCa0JmZVB2TEJvYTdpYlkxVkNaSzdtRlpJYk5UVm9TV3lDbzVGRThZa1dra2VBakZISnJ5Y05PS2dzRnA4TXp3dkxfTktXcjZuOXJXXzU5d01"
         }
       ]
     },
@@ -3693,7 +3599,17 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ0RHekRXX282RGdBRFhZTkRPTGluSnpiS2hYMUVRSGlmMUo4aVhyVEowTWFwYXF2N2k4TGM2OGpWaWoydEJrbE9SUXE3aXExaVVCMEZRY1EzLXVTa3o1RGJnRzYzOU4tVXJsdXQ"
         },
         {
-          "headline": "China warns of 'vicious cycle' if war escalates in Middle East - Reuters",
+          "headline": "Lionel Jospin, former French prime minister defeated by the far right, dies at 88 - Reuters",
+          "url": "https://www.reuters.com/world/europe/former-french-prime-minister-lionel-jospin-dies-88-bfm-reports-2026-03-23/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Mon, 23 Mar 2026 08:13:42 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxONkhOaFlGWGg1RUdoOC1IMlQzZjVHM1kyR1h3cWpkNDl4NzlNcV9SYmJwNWppU1RWNU9xUWRqZGhBSVA5Ykc3X0xnZHFEcmRqS0dxaWRRTUlWamdtNi1BNDgzN2dXZ1Zjb0lna3d"
+        },
+        {
+          "headline": "China urges US, Israel to stop military action in Middle East, warns of 'vicious cycle' - Reuters",
           "url": "https://www.reuters.com/world/china/china-warns-vicious-cycle-if-war-escalates-middle-east-2026-03-23/",
           "source": "Reuters",
           "sourceId": "reuters_world",
@@ -3708,16 +3624,6 @@
               "matched": "warns of"
             }
           ]
-        },
-        {
-          "headline": "Lionel Jospin, former French prime minister defeated by the far right, dies at 88 - Reuters",
-          "url": "https://www.reuters.com/world/europe/former-french-prime-minister-lionel-jospin-dies-88-bfm-reports-2026-03-23/",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Mon, 23 Mar 2026 08:13:42 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxONkhOaFlGWGg1RUdoOC1IMlQzZjVHM1kyR1h3cWpkNDl4NzlNcV9SYmJwNWppU1RWNU9xUWRqZGhBSVA5Ykc3X0xnZHFEcmRqS0dxaWRRTUlWamdtNi1BNDgzN2dXZ1Zjb0lna3d"
         },
         {
           "headline": "Trump's Iran war oil shield is cracking - Reuters",
@@ -3740,16 +3646,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcVhnbHNZTjRfREVLYTBhWU1RRjB2TTh0Y1VaR0pxNk5tcld5SGVvLUlNWDMxTkJSblhHNU9mRkVpZmEtY2FONThBNzZJV0NKNkhlSElKZFFXald4XzY2dUgyYTlQeTJwSWFzVW5"
         },
         {
-          "headline": "One battle after another: Iran war deals new blow to Europe's industrial heartland - Reuters",
-          "url": "https://www.reuters.com/sustainability/boards-policy-regulation/one-battle-after-another-iran-war-deals-new-blow-europes-industrial-heartland-2026-03-23/",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Mon, 23 Mar 2026 06:02:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcFZ3TTduUy1DcWtTd1NXSUZnRDktUXRGMWpnbkdiT2p1NzlVZE5pdXpkdV9BYVQxdDJsM3BGMlY1ZG9RalF5MDBJVC1mSS14UXRrVjFfejdNRmNWYmc0SHpMVHd2WTFTenFIcDZ"
-        },
-        {
           "headline": "Russia's Baltic ports halt oil and fuel exports after drone attacks, sources say - Reuters",
           "url": "https://www.reuters.com/world/fuel-reservoir-russias-primorsk-port-fire-after-drone-attack-governor-says-2026-03-23/",
           "source": "Reuters",
@@ -3758,6 +3654,16 @@
           "priority": "primary",
           "date": "Mon, 23 Mar 2026 06:56:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPNG1XQ3RiWWFnZ1VRVmFUN1FHcHA1dEdDdnJXMjRabk52bTRKQTRxOEMxR3ZzUG40b3ZxaHZfM19ua2RJam5PdnI0d0R0NGU5VkwzU2Z3dnBqZUpMS0tNTDFyUHdMOGNCVW5KZ2h"
+        },
+        {
+          "headline": "One battle after another: Iran war deals new blow to Europe's industrial heartland - Reuters",
+          "url": "https://www.reuters.com/sustainability/boards-policy-regulation/one-battle-after-another-iran-war-deals-new-blow-europes-industrial-heartland-2026-03-23/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Mon, 23 Mar 2026 06:02:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcFZ3TTduUy1DcWtTd1NXSUZnRDktUXRGMWpnbkdiT2p1NzlVZE5pdXpkdV9BYVQxdDJsM3BGMlY1ZG9RalF5MDBJVC1mSS14UXRrVjFfejdNRmNWYmc0SHpMVHd2WTFTenFIcDZ"
         },
         {
           "headline": "European gasoline heads to Asia as Iran war sparks supply fears - Reuters",
@@ -3770,14 +3676,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNRzZNVWp4NDhQQ29LTjdhZEx1YVdVRUJxbTQ4Nk5yVzN0ZHdPelg0Qzh4eU1TLWpKUHQxT1paaDFMZ2FFTmhkNnVUel93Wm5NSFV6N1ZiclE2SExNdExBczN2MlFIb0NPVHZXNEh"
         },
         {
-          "headline": "Passenger jet collides with fire truck in New York's LaGuardia, killing both pilots - Reuters",
-          "url": "https://www.reuters.com/world/americas/air-canada-express-plane-hits-ground-vehicle-new-yorks-la-guardia-airport-2026-03-23/",
+          "headline": "Greece opens trial for 2023 train crash that killed 57 - Reuters",
+          "url": "https://www.reuters.com/world/greece-opens-trial-2023-train-crash-that-killed-57-2026-03-23/",
           "source": "Reuters",
           "sourceId": "reuters_world",
           "category": "wire",
           "priority": "primary",
-          "date": "Mon, 23 Mar 2026 04:32:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMXF6djE3aFFoZVQtN0F2blo1b2JTUFp1S01PLVd3NFFMWmxJS1JtYkFYbzZKdXpTaUsycUdaUW1OM0MyeEhQRkMtQ1FoTHZHY3Z6M3lDekFxS0RBd3BSZ0lmYWFVWFFiOXlCSTB"
+          "date": "Mon, 23 Mar 2026 07:34:06 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPdVc2TkdjMHBJeUltb1dLa2RNY3JRb0pzNzJ4Vmd1a3J6dExWb2ZtaTVGVGQzVVZpMGRPcXRrakNETkUxekFPMi1oNFhBWERqd2w3Z3Zkam1MOGNIendWdE9UVGUyVTVrcmlaQ3g"
         },
         {
           "headline": "Russian space craft antenna problem forces manual docking with ISS - Reuters",
@@ -3788,6 +3694,26 @@
           "priority": "primary",
           "date": "Mon, 23 Mar 2026 06:15:00 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUzFzREp6cGZiSFNMeU51VjR1MmNWdmNQNGRkYzh1Y3hNRTdlc25lZWp0Tzl1MTExeFUyYncyLUdQOS1hWDB5VklsSUdqLTBjQUNFdkhpNWdtVHlCclhSQzNGWEtyWVlqRzNmMUI"
+        },
+        {
+          "headline": "Passenger jet collides with fire truck in New York's LaGuardia, killing both pilots - Reuters",
+          "url": "https://www.reuters.com/world/americas/air-canada-express-plane-hits-ground-vehicle-new-yorks-la-guardia-airport-2026-03-23/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Mon, 23 Mar 2026 11:06:31 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMXF6djE3aFFoZVQtN0F2blo1b2JTUFp1S01PLVd3NFFMWmxJS1JtYkFYbzZKdXpTaUsycUdaUW1OM0MyeEhQRkMtQ1FoTHZHY3Z6M3lDekFxS0RBd3BSZ0lmYWFVWFFiOXlCSTB"
+        },
+        {
+          "headline": "What does it mean for 2027? Five takeaways from local French elections - Reuters",
+          "url": "https://www.reuters.com/world/what-does-it-mean-2027-five-takeaways-local-french-elections-2026-03-23/",
+          "source": "Reuters",
+          "sourceId": "reuters_world",
+          "category": "wire",
+          "priority": "primary",
+          "date": "Mon, 23 Mar 2026 05:03:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPLWNHQjN0T2N2bXlIUUc3S2RTVGFKYU9pMDdqQldKWHFCc09kbXBEMG9RcUpicHdMQWNfQk5SMC1ab3lVX211eVR5Z2xfVTFrLWtnUzRjM2IxQjB2Z2FCZEFPYjBxZm9CQ2ZSS3l"
         },
         {
           "headline": "Iran points at tit for tat retaliation if power plants targeted, statement - Reuters",
@@ -3810,33 +3736,13 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPczlldDVKSmtQNklSaFl1amRhQTlHbmktTW1PUjFqRkt0MmJYbWVpbV9Xb0xOOVVrUUxGdkw4NG84ZlhIM0EyTTV3Q2xucDRwZG5rVlhvOG1KQ29NRDFaUmR1aEJLdml2eC1EYlQ"
         },
         {
-          "headline": "Vietnam, Russia set to sign energy deals during PM's Moscow visit - Reuters",
-          "url": "https://www.reuters.com/business/energy/vietnam-russia-set-sign-energy-deals-during-pms-moscow-visit-2026-03-23/",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Mon, 23 Mar 2026 03:24:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUNsQ3B3RkhQWTZuUFBaTVVpX3BCQUF4Q2ZDMDU5X1RfQTRqQmYxQnJQTlp2dmRmR0JDa1FhbnVDWWdqWXIwZ0tsYmpTakJtRjRHcWJxS0JmTFJJSHA2RkVTZTgtVzR4ZXp3bEt"
-        },
-        {
-          "headline": "Stocks skid to four-month low as oil shock spooks investors - Reuters",
-          "url": "https://www.reuters.com/business/energy/stocks-skid-four-month-low-oil-shock-spooks-investors-2026-03-23/",
-          "source": "Reuters",
-          "sourceId": "reuters_world",
-          "category": "wire",
-          "priority": "primary",
-          "date": "Mon, 23 Mar 2026 03:57:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSy1DcTZZd2ZVTFNDc2hDRjVOc1luV1NyLTRMbWs4eTNadTVaSDRKQzE1bFdnQlJ0Y1gwNzg5UFlNZUdwNUQ1S2E2Q1NSUlJWS05MWFVua3MzN01UdmhVckVDNC0wTVpEQkdWVUc"
-        },
-        {
           "headline": "Two pilots dead after plane and ground vehicle collide at New York's LaGuardia Airport",
           "url": "https://www.bbc.com/news/articles/cy01g522ww4o?at_medium=RSS&amp;at_campaign=rss",
           "source": "BBC",
           "sourceId": "bbc_world",
           "category": "general",
           "priority": "primary",
-          "date": "Mon, 23 Mar 2026 09:40:11 GMT",
+          "date": "Mon, 23 Mar 2026 10:47:21 GMT",
           "description": "The plane, arriving from Montreal, collided with a firefighting vehicle responding to a separate incident."
         },
         {
@@ -4151,25 +4057,14 @@
           "description": "Israel says 91 hostages abducted on Oct. 7 remain in captivity, including the bodies of at least 34."
         },
         {
-          "headline": "Stocks tumble as Trump and Iran step up threats",
+          "headline": "Trump postpones attacks on energy sites after ‘productive’ talks with Iran",
           "url": "https://www.ft.com/content/06db9d82-01f3-49ba-951c-3bb784ae4eb2",
           "source": "Financial Times",
           "sourceId": "ft_home",
           "category": "business",
           "priority": "primary",
           "date": "Mon, 23 Mar 2026 02:50:17 GMT",
-          "description": "Missile salvos across the region resume ahead of US deadline for Iran to open Strait of Hormuz",
-          "watchCandidate": true,
-          "watchSignals": [
-            {
-              "category": "temporal",
-              "matched": "ahead of"
-            },
-            {
-              "category": "scheduled",
-              "matched": "deadline"
-            }
-          ]
+          "description": "US president says Washington has had ‘very good’ talks over past couple of days"
         },
         {
           "headline": "Trump’s Iran playbook was written in the 1980s",
@@ -4222,31 +4117,14 @@
           "description": "The country’s underlying strengths are absorbing his erratic choices, including the war on Iran"
         },
         {
-          "headline": "‘It’s always Putin’ behind every EU migration crisis, official says",
-          "url": "https://www.ft.com/content/775150ca-4eb4-4761-837d-047c3e8b18c7",
+          "headline": "Trump looking at inviting Belarus’s Lukashenko to White House",
+          "url": "https://www.ft.com/content/69675c86-d1ff-4bbf-a55a-a480421bd165",
           "source": "Financial Times",
           "sourceId": "ft_home",
           "category": "business",
           "priority": "primary",
-          "date": "Mon, 23 Mar 2026 05:00:25 GMT",
-          "description": "Russian president is ‘biggest driver’ of immigration due to his role in wars over past decade, says EU commissioner",
-          "watchCandidate": true,
-          "watchSignals": [
-            {
-              "category": "temporal",
-              "matched": "due to"
-            }
-          ]
-        },
-        {
-          "headline": "Merz’s reform drive put at risk after vote in western state",
-          "url": "https://www.ft.com/content/e813be8e-8f52-4018-a518-8ddd1ec43f43",
-          "source": "Financial Times",
-          "sourceId": "ft_home",
-          "category": "business",
-          "priority": "primary",
-          "date": "Mon, 23 Mar 2026 04:42:03 GMT",
-          "description": "Win for CDU against its coalition partner in Rhineland-Palatinate could cost chancellor nationally"
+          "date": "Mon, 23 Mar 2026 11:00:09 GMT",
+          "description": "US administration seeks diplomatic thaw with authoritarian ally of Vladimir Putin"
         },
         {
           "headline": "Flights disrupted after crash at NY’s LaGuardia airport kills two people",
@@ -4448,14 +4326,14 @@
       ],
       "secondary": [
         {
-          "headline": "Iran War Live Updates: Power Outages Are Reported in Tehran as Israel Launches Strikes",
+          "headline": "Iran War Live Updates: Power Outages Reported in Tehran After Fresh Israeli Strikes",
           "url": "https://www.nytimes.com/live/2026/03/23/world/iran-war-oil-trump",
           "source": "New York Times",
           "sourceId": "nyt_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Mon, 23 Mar 2026 10:27:38 +0000",
-          "description": "Residents reported widespread power outages across the capital. Israel’s military said it had begun a new wave of airstrikes targeting infrastructure in the city, but did not provide further details."
+          "date": "Mon, 23 Mar 2026 11:09:27 +0000",
+          "description": "Israel��s military said it was targeting infrastructure in the Iranian capital. The head of the International Energy Agency warned that the global energy crisis caused by the war was now worse than th"
         },
         {
           "headline": "Canada’s Military Wants to Prove It Can Defend the High Arctic",
@@ -4524,8 +4402,8 @@
           "sourceId": "nyt_world",
           "category": "general",
           "priority": "secondary",
-          "date": "Mon, 23 Mar 2026 08:25:30 +0000",
-          "description": "Tensions in the opposition Nationalist Party could surface this week as lawmakers debate defense funding intended to counter Beijing’s growing might.",
+          "date": "Mon, 23 Mar 2026 10:29:21 +0000",
+          "description": "Tensions in the opposition Nationalist Party could surface this week as lawmakers argue over additional defense funding intended to counter Beijing’s growing might.",
           "watchCandidate": true,
           "watchSignals": [
             {
@@ -4954,6 +4832,56 @@
           "description": "The airport has been closed and flights diverted after the aircraft operated by Jazz Aviation struck a ground vehicle."
         },
         {
+          "headline": "Plane collides with firefighting truck at New York City's LaGuardia airport",
+          "url": "https://www.france24.com/en/plane-collides-with-firefighting-truck-at-new-york-city-s-laguardia-airport",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Mon, 23 Mar 2026 11:03:06 GMT",
+          "description": ""
+        },
+        {
+          "headline": "Marseille sticks with the left as far-right fails to convince in local elections",
+          "url": "https://www.france24.com/en/marseille-sticks-with-the-left-as-far-right-fails-to-convince-in-local-elections",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Mon, 23 Mar 2026 11:00:29 GMT",
+          "description": ""
+        },
+        {
+          "headline": "Global economy under 'major' threat as Middle East war carries on",
+          "url": "https://www.france24.com/en/global-economy-under-major-threat-as-middle-east-war-carries-on",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Mon, 23 Mar 2026 10:33:16 GMT",
+          "description": ""
+        },
+        {
+          "headline": "A \"no\" vote in Italy's referendum could be 'first blow' to Meloni's premiership",
+          "url": "https://www.france24.com/en/a-no-vote-in-italy-s-referendum-could-be-first-blow-to-meloni-s-premiership",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Mon, 23 Mar 2026 10:29:20 GMT",
+          "description": ""
+        },
+        {
+          "headline": "French far-right fail to take key cities in test for 2027 presidential race",
+          "url": "https://www.france24.com/en/french-far-right-fail-to-take-key-cities-in-test-for-2027-presidential-race",
+          "source": "France24",
+          "sourceId": "france24",
+          "category": "wire",
+          "priority": "secondary",
+          "date": "Mon, 23 Mar 2026 10:26:11 GMT",
+          "description": ""
+        },
+        {
           "headline": "French left wins over country's largest cities in municipal election",
           "url": "https://www.france24.com/en/french-left-wins-over-country-s-largest-cities",
           "source": "France24",
@@ -5059,84 +4987,10 @@
           "priority": "secondary",
           "date": "Mon, 23 Mar 2026 02:15:08 GMT",
           "description": ""
-        },
-        {
-          "headline": "Live: Iran faces Trump's Hormuz ultimatum as IEA warns of worst global energy crisis in decades",
-          "url": "https://www.france24.com/en/middle-east/20260323-live-iran-trump-strike-iea-worst-energy-crisis",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Mon, 23 Mar 2026 01:52:22 GMT",
-          "description": "",
-          "watchCandidate": true,
-          "watchSignals": [
-            {
-              "category": "escalation",
-              "matched": "ultimatum"
-            }
-          ]
-        },
-        {
-          "headline": "West Bank settler violence surges as Israeli strikes on Gaza kill four Palestinians",
-          "url": "https://www.france24.com/en/middle-east/20260322-west-bank-settler-violence-gaza-strikes-palestinians-killed",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Sun, 22 Mar 2026 23:12:26 GMT",
-          "description": ""
-        },
-        {
-          "headline": "Iran threatens to cripple Gulf water, energy systems after Trump ultimatum",
-          "url": "https://www.france24.com/en/middle-east/20260322-iran-gulf-water-energy-threat-trump-ultimatum",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Sun, 22 Mar 2026 22:57:57 GMT",
-          "description": "",
-          "watchCandidate": true,
-          "watchSignals": [
-            {
-              "category": "escalation",
-              "matched": "threatens to"
-            }
-          ]
-        },
-        {
-          "headline": "France’s municipal elections : Emmanuel Grégoire elected Paris mayor",
-          "url": "https://www.france24.com/en/video/20260322-france-s-municipal-elections-emmanuel-gr%C3%A9goire-elected-paris-mayor",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Sun, 22 Mar 2026 21:47:29 GMT",
-          "description": ""
-        },
-        {
-          "headline": "Left-winger Emmanuel Grégoire elected mayor of Paris, exit polls say",
-          "url": "https://www.france24.com/en/france/20260322-socialist-frontrunner-emmanuel-gr%C3%A9goire-elected-paris-mayor-rachida-dati",
-          "source": "France24",
-          "sourceId": "france24",
-          "category": "wire",
-          "priority": "secondary",
-          "date": "Sun, 22 Mar 2026 19:58:37 GMT",
-          "description": ""
         }
       ],
       "tertiary": [],
       "reference": [
-        {
-          "headline": "U.S. Remarks at the Global Fraud Summit - March 2026 - U.S. Mission to International Organizations in Vienna (.gov)",
-          "url": "https://vienna.usmission.gov/u-s-remarks-at-the-global-fraud-summit-march-2026/",
-          "source": "Daybook: International Events",
-          "sourceId": "daybook_intl",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Tue, 17 Mar 2026 08:05:46 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQa2dXc0ZuVktQV1VXZHFQbDRZOVNXaXRNc1IzSFROZUNzLXItX3NYRi0zWmhZSmk4ajJLVE0xX2hLal9rUG1pWjU4N3AxX3JQbDZoVVdIdjhXUE5RQkNWcjVpT0NkZUNaSnJCMlR"
-        },
         {
           "headline": "Trump-Takaichi Summit: Expert Analysis on U.S.-Japan Relations - Syracuse University Today",
           "url": "https://news.syr.edu/2026/03/20/trump-takaichi-summit-expert-analysis-on-u-s-japan-relations/",
@@ -5166,16 +5020,6 @@
           "priority": "reference",
           "date": "Thu, 19 Mar 2026 13:14:58 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOSy1DaTJGc3RPbU9TN3dNLTF1bGdTY1U0Q045OTF4bjFPdk4xd3VnUVBpNjZxUVU0ZElJZkwybGNNMnBpeEY3ZVZ0UkdwaEZHRFRKWlBUOEg0WEFfd2oyYnFFb21rdWNTRXRjRVZ"
-        },
-        {
-          "headline": "INTERPOL-UNODC global summit ends with call to action against fraud surge - Interpol",
-          "url": "https://www.interpol.int/News-and-Events/News/2026/INTERPOL-UNODC-global-summit-ends-with-call-to-action-against-fraud-surge",
-          "source": "Daybook: International Events",
-          "sourceId": "daybook_intl",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Tue, 17 Mar 2026 16:32:44 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZVpiQlBoUmZIaXZVUEFHV0ZIN1BTTEZlOHk0NkF4d08wX1pKWGJMdTc4akZMdWhnbHhsYm5BSGY3UDVWZGVHd1JCTzVTMlE2cnB5WTBSMnVMVk96Ui1mNDJDaGdLY19kUmVVaUh"
         },
         {
           "headline": "Summit between Prime Minister Sanae Takaichi and President Donald J. Trump - U.S. Embassy &amp; Consulates in Japan (.gov)",
@@ -5278,6 +5122,36 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYmRtY3N4SWpBdERQM2sxSk50ZWVsN1Q3ZmstTDdCM0dNM0dsaW80WlliTTAzQ1oyOWdXZEZIek4ta2JQZW9XX3lmTkZhalM5SVFhQ0IwemdETWhLN1k3T3YtOHc1Sm9jSGFHSnN"
         },
         {
+          "headline": "The Summit opening 6 new shops in 2026 - Bham Now",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53a28tMk1laDZ1UHZZTERxMFl1MUswQ2RyQVNiU2ZZa1p3cndWbWVUZEhUbzlia2xHb0VKV0Jha1lCdm5IQTllOHcxanpQSzROUVg1OUV2QWNPU3BlVTZNZzFqMGk5WXRYaFhYVTg0OWZ5dmN1eWhQeVpn?oc=5",
+          "source": "Daybook: International Events",
+          "sourceId": "daybook_intl",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Thu, 19 Mar 2026 20:59:16 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE53a28tMk1laDZ1UHZZTERxMFl1MUswQ2RyQVNiU2ZZa1p3cndWbWVUZEhUbzlia2xHb0VKV0Jha1lCdm5IQTllOHcxanpQSzROUVg1OUV2QWNPU3BlVTZNZzFqMGk5WXRYaFhYVTg"
+        },
+        {
+          "headline": "Reservation Economic Summit (RES) 2026 - Department of Energy (.gov)",
+          "url": "https://www.energy.gov/edf/events/reservation-economic-summit-res-2026",
+          "source": "Daybook: International Events",
+          "sourceId": "daybook_intl",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Sun, 22 Mar 2026 02:33:22 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1uV1UxSk5jakRYQ1Rod1huM1VPdWZRVVBhSFpCQ2xnanp3clJrY1hiemtTLW9jSlpMQnV2SUtYendKUWFidk9NYVFBbGJlT1RST0NDWXNIMkRXX3NDYXBMajRFbXJUYkFNaV91aDd"
+        },
+        {
+          "headline": "Key dates for 2025-26 NBA season - NBA",
+          "url": "chrome-error://chromewebdata/",
+          "source": "Daybook: Economic Calendar",
+          "sourceId": "daybook_econ",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Thu, 19 Mar 2026 07:00:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE4xNVlRRHFIc2c1RldBanIwV1hmaWk4QUcxU1hNSm1CLVpqck1jWkl6UXRRSTZWb2dybDdDaHdDS0hYN3Uxa0xOcERR?oc=5\" target=\"_blank\"&gt;Key dates for 2025-26"
+        },
+        {
           "headline": "Fed’s Interest Rate Decision: March 18, 2026 - Advisor Perspectives",
           "url": "https://www.advisorperspectives.com/dshort/updates/2026/03/19/feds-interest-rate-decision-march-18-2026",
           "source": "Daybook: Economic Calendar",
@@ -5289,7 +5163,7 @@
         },
         {
           "headline": "The Fed issues its latest interest rate decision Wednesday. Here's what to expect - CNBC",
-          "url": "https://www.cnbc.com/2026/03/17/the-fed-issues-its-latest-interest-rate-decision-wednesday-heres-what-to-expect.html",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTW93UnBleWM5TGFiODl3NEN1NlNsb2xTUzd2ek9COGg2aUdOQVY0cGc3dXJuRVBnc3N3VHBkdUhoWExqN2hXTHNlekRLX2ZFWmd6MTc4Z2toWkotek5Xc1FMNmZwUW5zTENSR3N5Q3o3blZHc2xpOHdkU2xLeEhMQ21pSU0wOTdOLW0zN3NCaFFVVFBvcTU2eThUQThvZGVUWU9JcDdxZUE3VUZNTC1BZ2s2N08tXzDSAbwBQVVfeXFMUEFkdEk0Rmtad3BTQVdCckl6RXdaSXZFbXpJTlRKTFB6RnZDR21ta3BTdG5TbVNZRG5tV1ZLNWVKNzZaeUdXNExkUmFCZU5wQ3M3NDlBWExla3pGdTdaeERNMzU2XzJMUTBuSWtrYjNCa0l3ZDZOZTZuVGtPcFJFaVdPUVRuLVFfTEsyZ252Q2IxYko5NmY4OTVzMnoyX0hNQ1RadnBkbVFOWUJTeFFIODd0VGRvY1RGOVBYZkY?oc=5",
           "source": "Daybook: Economic Calendar",
           "sourceId": "daybook_econ",
           "category": "daybook",
@@ -5318,6 +5192,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxObmE2Rm5TNnFlVmNSODAwcFBnekVlTWJHekl5VWEwRzB5UTlxSXNMYUlOTnozX2ZjZ01hZENCTkZPc0ZmOTA2NDVxelFYRVd0Q1BkQ29QeUpHM3YtbTU5aHY1Y2o3M0tmcjdRNTZ"
         },
         {
+          "headline": "Taking Stock - Fed rate decision, March 18, 2026 - Empower",
+          "url": "https://www.empower.com/investment-insights/trends/taking-stock-fed-rate-decision-march-18-2026",
+          "source": "Daybook: Economic Calendar",
+          "sourceId": "daybook_econ",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Wed, 18 Mar 2026 07:00:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPVVZnYmx5cXhpOGNPTElNR1VXV2c5eHVDMXlsS0NMdTBNY2FrNjJHbDZvN01BUGpkdE1KZFJKd2dNU1VTUGlXWWhDMEthQnJHM2ZDNEQ2Y0EwdUp5ZWd2cWtJNnUwZzBRSEJMUlV"
+        },
+        {
           "headline": "Fed issues latest rate decision amid geopolitical turmoil - mpamag.com",
           "url": "https://www.mpamag.com/us/mortgage-industry/market-updates/fed-issues-latest-rate-decision-amid-geopolitical-turmoil/569027",
           "source": "Daybook: Economic Calendar",
@@ -5326,26 +5210,6 @@
           "priority": "reference",
           "date": "Wed, 18 Mar 2026 18:01:04 GMT",
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWnRsZmR1Tldhb2dEUU9sVlNFYVdkVmFQcWw1REZnN2dNSFdIUHdWSTNvTjVjSkR4bkE1OHlRdWlGWkRHWnpUQ2g3TVVFVnhyTjdIOG1BQkdnZTdRU1oxQ2d0cm5yb1BFckJ6b0J"
-        },
-        {
-          "headline": "After trade deadline ‘disappointment,’ can this still be the Carolina Hurricanes’ year? - The Athletic - The New York Times",
-          "url": "https://www.nytimes.com/athletic/7131389/2026/03/20/carolina-hurricanes-playoffs-stanley-cup/",
-          "source": "Daybook: Economic Calendar",
-          "sourceId": "daybook_econ",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Fri, 20 Mar 2026 14:14:10 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOZWdUOW9WSDRVaTY1OHQ1MF9lZFdkc3RlbmZod1F5dnhNSFBmbzJIbGtQMHFBMHVxM3p5OFp4c0M5cHd5MTdiZ2N5Y3FwSVBRUlQ2dHZvNUpRSVBRNUpQdVZnSWp5Ym5BUzBVM0N"
-        },
-        {
-          "headline": "This Week in Review | Energy Markets, Fed Meeting, Earnings Reporting - Fisher Investments",
-          "url": "https://www.fisherinvestments.com/en-us/insights/videos/fisher-investments-this-week-in-review-2026-03-20",
-          "source": "Daybook: Economic Calendar",
-          "sourceId": "daybook_econ",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Sat, 21 Mar 2026 00:20:53 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdjFUNkhFcVB4YnlRR2hpZDlER2xrOEFsS2MwTDNlRDZlaXpqQTFrM1c2bWgxWHBPMnpNOXduUjVaMG5wbXJ5Q3kzOG1HenB4TDhXb3ZUWmM5eGhaQmxERzh5WnBuNUppYTVmam8"
         },
         {
           "headline": "Here are the five key takeaways from this week's Fed meeting - CNBC",
@@ -5418,14 +5282,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQbzlfYi1IanAwdEh5eEV6SHZITFd1cU9SQ2xERnBZRnBxNk4tQ3M1aUlFbTctWTJUNHBZZGlyVnpkWWNFdENLeUZ1Wno3X0RPbGRFZjVGVFRmX0U4LV9nTDQyREtBVFBPdTQxNnV"
         },
         {
-          "headline": "Rates Spark: Some calm ahead of the Fed meeting - ING THINK economic and financial analysis | ING THINK",
-          "url": "https://think.ing.com/articles/rates-spark-some-calm-ahead-of-the-fed-meeting/",
+          "headline": "After trade deadline ‘disappointment,’ can this still be the Carolina Hurricanes’ year? - The Athletic - The New York Times",
+          "url": "https://www.nytimes.com/athletic/7131389/2026/03/20/carolina-hurricanes-playoffs-stanley-cup/",
           "source": "Daybook: Economic Calendar",
           "sourceId": "daybook_econ",
           "category": "daybook",
           "priority": "reference",
-          "date": "Wed, 18 Mar 2026 09:07:05 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQaW9QUHQtSklyNUZseC1CaXN6QjRYMTYwSDVfVUxqSEZqN0RLV1IxV0xnWUp4Ylg2VUpiX0JBb1JwazlFZERkVXRiOFlfMkdodnk3cHI1SDNkU2xJcDBrNndOVnNhTTNYWkZpUGN"
+          "date": "Fri, 20 Mar 2026 14:14:10 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOZWdUOW9WSDRVaTY1OHQ1MF9lZFdkc3RlbmZod1F5dnhNSFBmbzJIbGtQMHFBMHVxM3p5OFp4c0M5cHd5MTdiZ2N5Y3FwSVBRUlQ2dHZvNUpRSVBRNUpQdVZnSWp5Ym5BUzBVM0N"
         },
         {
           "headline": "Iran Strikes Gulf Targets as Trump’s Hormuz Deadline Approaches - Bloomberg.com",
@@ -5448,16 +5312,6 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xcmJucEZxdUl2NGF6WElGZ3ZvTzM0UVVYWFR5NDhxeEt3Q21kX2c4dHVoU09xdVUyWjUtZTVuMG1nWG8xbGNPMno1VHY5OHlBZUdjaGNPLTJEa3Vyam82eFJ3YVVFQ2tC?oc=5\" "
         },
         {
-          "headline": "Iran threatens to close Strait of Hormuz and hit power plants after Trump's 48-hour deadline - PBS",
-          "url": "https://www.pbs.org/newshour/world/iran-threatens-to-close-strait-of-hormuz-and-hit-power-plants-after-trumps-48-hour-deadline",
-          "source": "Daybook: Scheduled Events",
-          "sourceId": "daybook_scheduled",
-          "category": "daybook",
-          "priority": "reference",
-          "date": "Sun, 22 Mar 2026 15:50:14 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQdTk0WGdlcWNyemdPYXQ4cFRrQ2VDcWJ4UnVxajJYV21LS0pOQjB4NEhXeUN3eGo3am00aHJNeWVJbFBEM0o2dFR6VTV3VWR1OWhCSjBvdHZVbHpUdzJ1Z3VWN3BLaUIySUhJRlZ"
-        },
-        {
           "headline": "Bob Harlan's funeral and celebration of life scheduled for today - Green Bay Press-Gazette",
           "url": "https://www.greenbaypressgazette.com/story/sports/nfl/packers/2026/03/23/bob-harlans-funeral-and-celebration-of-life-scheduled-for-today-green-bay-packers/89246668007/",
           "source": "Daybook: Scheduled Events",
@@ -5468,14 +5322,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxOck5FSUFqTHNIbTVoN1JjdVZudDF0T05fSm1uQVNhSFNkTG1vSW04OGtnaW9Tc21CdVJRNU1TTmpkRF90TnFlYmd6QkRGY05RdmlyQlBESU1Kc3IyZDdQRHZtdlRDTDU5d2JuX09"
         },
         {
-          "headline": "Iranians Fear Trump’s Threat to Strike Power Plants - The New York Times",
-          "url": "https://www.nytimes.com/2026/03/22/world/middleeast/iran-trump-power-plants.html",
+          "headline": "Iran threatens to close Strait of Hormuz and hit power plants after Trump's 48-hour deadline - PBS",
+          "url": "https://www.pbs.org/newshour/world/iran-threatens-to-completely-close-strait-of-hormuz-and-hit-power-plants-following-trumps-ultimatum",
           "source": "Daybook: Scheduled Events",
           "sourceId": "daybook_scheduled",
           "category": "daybook",
           "priority": "reference",
-          "date": "Mon, 23 Mar 2026 09:59:59 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxObnV6a0FVMmlnbUpiUUZrX3hxZTNwUGswaVNEM1FLdVh4UVVIeXhpYXFRS0pUanRxaGVZcXlPdEpLZ2tmdkdtY3otY0RsOWV2akp0NS1tM3lJNy1DWktKS2FEU0VLemdXX3lXeUV"
+          "date": "Sun, 22 Mar 2026 15:50:14 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQdTk0WGdlcWNyemdPYXQ4cFRrQ2VDcWJ4UnVxajJYV21LS0pOQjB4NEhXeUN3eGo3am00aHJNeWVJbFBEM0o2dFR6VTV3VWR1OWhCSjBvdHZVbHpUdzJ1Z3VWN3BLaUIySUhJRlZ"
         },
         {
           "headline": "The economy has a Strait of Hormuz deadline for Trump: Two weeks - CNBC",
@@ -5508,14 +5362,14 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNWkNuQUh6VUVVRlg4cGZaWlptUk9ZNUJRb2NFYWhVMGNXNHExV1dYdGwwclBRQVY2UGRjQU9vMmRnN3p3MFlieFNfTUtQQUIyRHpFZ1VPUXV4T2lvR2IwWU5yY2xzenBoLVdNWTl"
         },
         {
-          "headline": "Oil Prices Jump Despite Trump’s Iran Threats. His Strait of Hormuz Deadline Nears. - Barron's",
-          "url": "https://www.barrons.com/articles/oil-price-trump-hormuz-brent-wti-d395ce51?gaa_at=eafs&gaa_n=AWEtsqcZJVQ-XQ4axserDksG6QZoDyzq35zOiLDT7HHZOjwR5WZW63qUvnUx&gaa_ts=69c119cf&gaa_sig=PlIGTPkpvq2QH3WgAVZE3e-h0PMEpv1CnKxvJ1HFoQ3S4wRR-0QsYMv0oyPN6yL3eni8oX0oyRTBuSIji9GZbA%3D%3D",
+          "headline": "Trump’s deadline looms on Strait of Hormuz as Iran vows retaliation - NewsNation",
+          "url": "https://www.newsnationnow.com/world/trump-strait-of-hormuz-deadline-iran-vows-retaliation/",
           "source": "Daybook: Scheduled Events",
           "sourceId": "daybook_scheduled",
           "category": "daybook",
           "priority": "reference",
-          "date": "Mon, 23 Mar 2026 08:06:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihANBVV95cUxOcFdlRmIwM1hkb2F3MjQ4NXdiWTBwSjFuaUx6c1VqMFdMNjRiNUFMNzFJT2NVczhvMHYySWFINURVVDNMU2dFdlR6ZXJWWGxhM0JMM1AxTElNa2RENXlKaGZ3a09qT0FIeW1iQVR"
+          "date": "Mon, 23 Mar 2026 10:53:46 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOMm1SeE52ck0xMEQ1QXRpMVlxSU1leFpmNDQ4a2doUVF2YkZTQzdpX3pvYmV2TFBlcTFlRlA2MmFYODJmSFhrWlNXZE9xelY5Z0RnN2lpQlY5ek9LcEFuZk41a0ZqRFZOSXBhYVB"
         },
         {
           "headline": "Iran live updates: Trump's 48-hour deadline to expire Monday evening - Yahoo",
@@ -5528,24 +5382,24 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNRzNaTUFtdlJQRkVfaURZQmNHLXNnSkFmRFFjcGdxTVZUVXpyNmxmQV9TNVZMN2xGRTlQbFcyR2pXdDd5VFV4bEoxX1YyWjZXU3Q1Y3RWRGFGOXBtY3UxS2xlNm1hcUJNakdWZHd"
         },
         {
-          "headline": "'Project Hail Mary' $140M+ WW Opening Best YTD For MPA Movie, Breaks Records - Deadline",
-          "url": "https://deadline.com/2026/03/box-office-global-project-hail-mary-1236762532/",
+          "headline": "As Trump’s Deadline Nears, Iranians Dread the Darkness - The New York Times",
+          "url": "https://www.nytimes.com/2026/03/22/world/middleeast/iran-trump-power-plants.html",
           "source": "Daybook: Scheduled Events",
           "sourceId": "daybook_scheduled",
           "category": "daybook",
           "priority": "reference",
-          "date": "Sun, 22 Mar 2026 15:19:00 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOSTRVV09CNWpVc2U2d1BnVUg5ZmZCa0JmZVB2TEJvYTdpYlkxVkNaSzdtRlpJYk5UVm9TV3lDbzVGRThZa1dra2VBakZISnJ5Y05PS2dzRnA4TXp3dkxfTktXcjZuOXJXXzU5d01"
+          "date": "Mon, 23 Mar 2026 02:29:37 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxObnV6a0FVMmlnbUpiUUZrX3hxZTNwUGswaVNEM1FLdVh4UVVIeXhpYXFRS0pUanRxaGVZcXlPdEpLZ2tmdkdtY3otY0RsOWV2akp0NS1tM3lJNy1DWktKS2FEU0VLemdXX3lXeUV"
         },
         {
-          "headline": "Iran War Tensions Spike With Trump’s Two-Day Deadline - Bloomberg.com",
-          "url": "https://www.bloomberg.com/news/newsletters/2026-03-22/iran-war-tensions-spike-with-trump-s-two-day-deadline",
+          "headline": "Oil Prices Jump Despite Trump’s Iran Threats. His Strait of Hormuz Deadline Nears. - Barron's",
+          "url": "https://www.barrons.com/articles/oil-price-trump-hormuz-brent-wti-d395ce51?gaa_at=eafs&gaa_n=AWEtsqej8FNkmIYpjwXjhOBTz4XRKO6vS0MrhKE6HjXlLLn_SOE74GLX8oRP&gaa_ts=69c123f6&gaa_sig=WVNxeRUlH4ZV4VwqknA-w9wqPbh6srEPnA0yUSmiGsGitQaRLit84ryMr-JH8b3mm1djdG1uT4pRm4e174r7Nw%3D%3D",
           "source": "Daybook: Scheduled Events",
           "sourceId": "daybook_scheduled",
           "category": "daybook",
           "priority": "reference",
-          "date": "Sun, 22 Mar 2026 21:30:54 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbFZpVFVZXzVuREtBYWRDc2VWQ1g2VVVhTEtUeG9iUzFLdmpHZnZkS2x3UWNpTmRWXzJ0azNNSjBfemh0cmRnLURueEY3ZE8tTzlCT01QTWVjaFZIOWcyaklDYkg0aGRscmluQ0J"
+          "date": "Mon, 23 Mar 2026 08:06:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihANBVV95cUxNUDlPYThQTXh1U2RyelFLX1RjbkFnWEpaTXVyLVpXRlViQTQwU0psVS1aOFZTcnhRbERSTnJsWE85a1FNYl9jYTBydV9sbkY4QVBZS09IRDJGdF9HYkxZbkhsUS1YNzI5NVFSajZ"
         },
         {
           "headline": "Trump’s next steps with a looming deadline placed for the Strait of Hormuz - CNN",
@@ -5558,6 +5412,16 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQOTliUjFOUE1PRHpwRkNlcUlsT3dpcExPWHBnM2oxR19xTWtPMU5aUWhncTU1TWtmYUN4cHJSQVVyNHVfMTVOOVo1bmQzNDFEVnhhNWJubEhMQ3huamYxWHQ4dkVHU2Nid2djV25"
         },
         {
+          "headline": "Iran War Tensions Spike With Trump’s Two-Day Deadline - Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-03-22/iran-war-tensions-spike-with-trump-s-two-day-deadline",
+          "source": "Daybook: Scheduled Events",
+          "sourceId": "daybook_scheduled",
+          "category": "daybook",
+          "priority": "reference",
+          "date": "Sun, 22 Mar 2026 21:30:54 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbFZpVFVZXzVuREtBYWRDc2VWQ1g2VVVhTEtUeG9iUzFLdmpHZnZkS2x3UWNpTmRWXzJ0azNNSjBfemh0cmRnLURueEY3ZE8tTzlCT01QTWVjaFZIOWcyaklDYkg0aGRscmluQ0J"
+        },
+        {
           "headline": "Iran unswayed by Trump's 48-hour deadline and threats to 'obliterate' energy infrastructure - NBC News",
           "url": "https://www.nbcnews.com/video/iran-unswayed-by-trump-s-48-hour-deadline-and-threats-to-obliterate-energy-infrastructure-259832901951",
           "source": "Daybook: Scheduled Events",
@@ -5568,29 +5432,19 @@
           "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOU29EdENrLUdBajhOenhIWEdyVVN3Z3hkS3RQcnFZdWZnQU1XVjBWekdPUEt0ck9WS1h2NmM4QUJ6RXhxelNSV2pVM1FZZk5fNnAyeGdJc1FkcmJ1UjVvY0pqZWthME1GbjhKLXh"
         },
         {
-          "headline": "Starmer to Chair Crisis Meeting as Trump’s Iran Deadline Looms - Bloomberg.com",
-          "url": "https://www.bloomberg.com/news/articles/2026-03-22/starmer-to-chair-crisis-meeting-as-trump-s-iran-deadline-looms",
+          "headline": "'Project Hail Mary' $140M+ WW Opening Best YTD For MPA Movie, Breaks Records - Deadline",
+          "url": "https://deadline.com/2026/03/box-office-global-project-hail-mary-1236762532/",
           "source": "Daybook: Scheduled Events",
           "sourceId": "daybook_scheduled",
           "category": "daybook",
           "priority": "reference",
-          "date": "Mon, 23 Mar 2026 07:54:56 GMT",
-          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNdDRtcnNRMV9BSDNzMnZ3VXJYUHZRV3lWcTBmS09BdFpqTG9DOGhVOXRQYTJzc01EUDJVb1Z0eXlKcWhJZGNkS19GazQzTkU0ZkkxaTRMR1IwYVBJd1RZa0FEZ3BEbHVtcWNTdEd"
+          "date": "Sun, 22 Mar 2026 15:19:00 GMT",
+          "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOSTRVV09CNWpVc2U2d1BnVUg5ZmZCa0JmZVB2TEJvYTdpYlkxVkNaSzdtRlpJYk5UVm9TV3lDbzVGRThZa1dra2VBakZISnJ5Y05PS2dzRnA4TXp3dkxfTktXcjZuOXJXXzU5d01"
         }
       ]
     }
   },
   "daybook": [
-    {
-      "headline": "U.S. Remarks at the Global Fraud Summit - March 2026 - U.S. Mission to International Organizations in Vienna (.gov)",
-      "url": "https://vienna.usmission.gov/u-s-remarks-at-the-global-fraud-summit-march-2026/",
-      "source": "Daybook: International Events",
-      "sourceId": "daybook_intl",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Tue, 17 Mar 2026 08:05:46 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQa2dXc0ZuVktQV1VXZHFQbDRZOVNXaXRNc1IzSFROZUNzLXItX3NYRi0zWmhZSmk4ajJLVE0xX2hLal9rUG1pWjU4N3AxX3JQbDZoVVdIdjhXUE5RQkNWcjVpT0NkZUNaSnJCMlR"
-    },
     {
       "headline": "Trump-Takaichi Summit: Expert Analysis on U.S.-Japan Relations - Syracuse University Today",
       "url": "https://news.syr.edu/2026/03/20/trump-takaichi-summit-expert-analysis-on-u-s-japan-relations/",
@@ -5620,16 +5474,6 @@
       "priority": "reference",
       "date": "Thu, 19 Mar 2026 13:14:58 GMT",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOSy1DaTJGc3RPbU9TN3dNLTF1bGdTY1U0Q045OTF4bjFPdk4xd3VnUVBpNjZxUVU0ZElJZkwybGNNMnBpeEY3ZVZ0UkdwaEZHRFRKWlBUOEg0WEFfd2oyYnFFb21rdWNTRXRjRVZ"
-    },
-    {
-      "headline": "INTERPOL-UNODC global summit ends with call to action against fraud surge - Interpol",
-      "url": "https://www.interpol.int/News-and-Events/News/2026/INTERPOL-UNODC-global-summit-ends-with-call-to-action-against-fraud-surge",
-      "source": "Daybook: International Events",
-      "sourceId": "daybook_intl",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Tue, 17 Mar 2026 16:32:44 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZVpiQlBoUmZIaXZVUEFHV0ZIN1BTTEZlOHk0NkF4d08wX1pKWGJMdTc4akZMdWhnbHhsYm5BSGY3UDVWZGVHd1JCTzVTMlE2cnB5WTBSMnVMVk96Ui1mNDJDaGdLY19kUmVVaUh"
     },
     {
       "headline": "Summit between Prime Minister Sanae Takaichi and President Donald J. Trump - U.S. Embassy &amp; Consulates in Japan (.gov)",
@@ -5732,6 +5576,26 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYmRtY3N4SWpBdERQM2sxSk50ZWVsN1Q3ZmstTDdCM0dNM0dsaW80WlliTTAzQ1oyOWdXZEZIek4ta2JQZW9XX3lmTkZhalM5SVFhQ0IwemdETWhLN1k3T3YtOHc1Sm9jSGFHSnN"
     },
     {
+      "headline": "The Summit opening 6 new shops in 2026 - Bham Now",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53a28tMk1laDZ1UHZZTERxMFl1MUswQ2RyQVNiU2ZZa1p3cndWbWVUZEhUbzlia2xHb0VKV0Jha1lCdm5IQTllOHcxanpQSzROUVg1OUV2QWNPU3BlVTZNZzFqMGk5WXRYaFhYVTg0OWZ5dmN1eWhQeVpn?oc=5",
+      "source": "Daybook: International Events",
+      "sourceId": "daybook_intl",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Thu, 19 Mar 2026 20:59:16 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE53a28tMk1laDZ1UHZZTERxMFl1MUswQ2RyQVNiU2ZZa1p3cndWbWVUZEhUbzlia2xHb0VKV0Jha1lCdm5IQTllOHcxanpQSzROUVg1OUV2QWNPU3BlVTZNZzFqMGk5WXRYaFhYVTg"
+    },
+    {
+      "headline": "Reservation Economic Summit (RES) 2026 - Department of Energy (.gov)",
+      "url": "https://www.energy.gov/edf/events/reservation-economic-summit-res-2026",
+      "source": "Daybook: International Events",
+      "sourceId": "daybook_intl",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Sun, 22 Mar 2026 02:33:22 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1uV1UxSk5jakRYQ1Rod1huM1VPdWZRVVBhSFpCQ2xnanp3clJrY1hiemtTLW9jSlpMQnV2SUtYendKUWFidk9NYVFBbGJlT1RST0NDWXNIMkRXX3NDYXBMajRFbXJUYkFNaV91aDd"
+    },
+    {
       "headline": "Fed’s Interest Rate Decision: March 18, 2026 - Advisor Perspectives",
       "url": "https://www.advisorperspectives.com/dshort/updates/2026/03/19/feds-interest-rate-decision-march-18-2026",
       "source": "Daybook: Economic Calendar",
@@ -5743,7 +5607,7 @@
     },
     {
       "headline": "The Fed issues its latest interest rate decision Wednesday. Here's what to expect - CNBC",
-      "url": "https://www.cnbc.com/2026/03/17/the-fed-issues-its-latest-interest-rate-decision-wednesday-heres-what-to-expect.html",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTW93UnBleWM5TGFiODl3NEN1NlNsb2xTUzd2ek9COGg2aUdOQVY0cGc3dXJuRVBnc3N3VHBkdUhoWExqN2hXTHNlekRLX2ZFWmd6MTc4Z2toWkotek5Xc1FMNmZwUW5zTENSR3N5Q3o3blZHc2xpOHdkU2xLeEhMQ21pSU0wOTdOLW0zN3NCaFFVVFBvcTU2eThUQThvZGVUWU9JcDdxZUE3VUZNTC1BZ2s2N08tXzDSAbwBQVVfeXFMUEFkdEk0Rmtad3BTQVdCckl6RXdaSXZFbXpJTlRKTFB6RnZDR21ta3BTdG5TbVNZRG5tV1ZLNWVKNzZaeUdXNExkUmFCZU5wQ3M3NDlBWExla3pGdTdaeERNMzU2XzJMUTBuSWtrYjNCa0l3ZDZOZTZuVGtPcFJFaVdPUVRuLVFfTEsyZ252Q2IxYko5NmY4OTVzMnoyX0hNQ1RadnBkbVFOWUJTeFFIODd0VGRvY1RGOVBYZkY?oc=5",
       "source": "Daybook: Economic Calendar",
       "sourceId": "daybook_econ",
       "category": "daybook",
@@ -5762,6 +5626,16 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxObmE2Rm5TNnFlVmNSODAwcFBnekVlTWJHekl5VWEwRzB5UTlxSXNMYUlOTnozX2ZjZ01hZENCTkZPc0ZmOTA2NDVxelFYRVd0Q1BkQ29QeUpHM3YtbTU5aHY1Y2o3M0tmcjdRNTZ"
     },
     {
+      "headline": "Taking Stock - Fed rate decision, March 18, 2026 - Empower",
+      "url": "https://www.empower.com/investment-insights/trends/taking-stock-fed-rate-decision-march-18-2026",
+      "source": "Daybook: Economic Calendar",
+      "sourceId": "daybook_econ",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Wed, 18 Mar 2026 07:00:00 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPVVZnYmx5cXhpOGNPTElNR1VXV2c5eHVDMXlsS0NMdTBNY2FrNjJHbDZvN01BUGpkdE1KZFJKd2dNU1VTUGlXWWhDMEthQnJHM2ZDNEQ2Y0EwdUp5ZWd2cWtJNnUwZzBRSEJMUlV"
+    },
+    {
       "headline": "Fed issues latest rate decision amid geopolitical turmoil - mpamag.com",
       "url": "https://www.mpamag.com/us/mortgage-industry/market-updates/fed-issues-latest-rate-decision-amid-geopolitical-turmoil/569027",
       "source": "Daybook: Economic Calendar",
@@ -5770,26 +5644,6 @@
       "priority": "reference",
       "date": "Wed, 18 Mar 2026 18:01:04 GMT",
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWnRsZmR1Tldhb2dEUU9sVlNFYVdkVmFQcWw1REZnN2dNSFdIUHdWSTNvTjVjSkR4bkE1OHlRdWlGWkRHWnpUQ2g3TVVFVnhyTjdIOG1BQkdnZTdRU1oxQ2d0cm5yb1BFckJ6b0J"
-    },
-    {
-      "headline": "After trade deadline ‘disappointment,’ can this still be the Carolina Hurricanes’ year? - The Athletic - The New York Times",
-      "url": "https://www.nytimes.com/athletic/7131389/2026/03/20/carolina-hurricanes-playoffs-stanley-cup/",
-      "source": "Daybook: Economic Calendar",
-      "sourceId": "daybook_econ",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Fri, 20 Mar 2026 14:14:10 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOZWdUOW9WSDRVaTY1OHQ1MF9lZFdkc3RlbmZod1F5dnhNSFBmbzJIbGtQMHFBMHVxM3p5OFp4c0M5cHd5MTdiZ2N5Y3FwSVBRUlQ2dHZvNUpRSVBRNUpQdVZnSWp5Ym5BUzBVM0N"
-    },
-    {
-      "headline": "This Week in Review | Energy Markets, Fed Meeting, Earnings Reporting - Fisher Investments",
-      "url": "https://www.fisherinvestments.com/en-us/insights/videos/fisher-investments-this-week-in-review-2026-03-20",
-      "source": "Daybook: Economic Calendar",
-      "sourceId": "daybook_econ",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Sat, 21 Mar 2026 00:20:53 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdjFUNkhFcVB4YnlRR2hpZDlER2xrOEFsS2MwTDNlRDZlaXpqQTFrM1c2bWgxWHBPMnpNOXduUjVaMG5wbXJ5Q3kzOG1HenB4TDhXb3ZUWmM5eGhaQmxERzh5WnBuNUppYTVmam8"
     },
     {
       "headline": "Here are the five key takeaways from this week's Fed meeting - CNBC",
@@ -5842,14 +5696,14 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQbzlfYi1IanAwdEh5eEV6SHZITFd1cU9SQ2xERnBZRnBxNk4tQ3M1aUlFbTctWTJUNHBZZGlyVnpkWWNFdENLeUZ1Wno3X0RPbGRFZjVGVFRmX0U4LV9nTDQyREtBVFBPdTQxNnV"
     },
     {
-      "headline": "Rates Spark: Some calm ahead of the Fed meeting - ING THINK economic and financial analysis | ING THINK",
-      "url": "https://think.ing.com/articles/rates-spark-some-calm-ahead-of-the-fed-meeting/",
+      "headline": "After trade deadline ‘disappointment,’ can this still be the Carolina Hurricanes’ year? - The Athletic - The New York Times",
+      "url": "https://www.nytimes.com/athletic/7131389/2026/03/20/carolina-hurricanes-playoffs-stanley-cup/",
       "source": "Daybook: Economic Calendar",
       "sourceId": "daybook_econ",
       "category": "daybook",
       "priority": "reference",
-      "date": "Wed, 18 Mar 2026 09:07:05 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQaW9QUHQtSklyNUZseC1CaXN6QjRYMTYwSDVfVUxqSEZqN0RLV1IxV0xnWUp4Ylg2VUpiX0JBb1JwazlFZERkVXRiOFlfMkdodnk3cHI1SDNkU2xJcDBrNndOVnNhTTNYWkZpUGN"
+      "date": "Fri, 20 Mar 2026 14:14:10 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOZWdUOW9WSDRVaTY1OHQ1MF9lZFdkc3RlbmZod1F5dnhNSFBmbzJIbGtQMHFBMHVxM3p5OFp4c0M5cHd5MTdiZ2N5Y3FwSVBRUlQ2dHZvNUpRSVBRNUpQdVZnSWp5Ym5BUzBVM0N"
     },
     {
       "headline": "Iran Strikes Gulf Targets as Trump’s Hormuz Deadline Approaches - Bloomberg.com",
@@ -5872,16 +5726,6 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xcmJucEZxdUl2NGF6WElGZ3ZvTzM0UVVYWFR5NDhxeEt3Q21kX2c4dHVoU09xdVUyWjUtZTVuMG1nWG8xbGNPMno1VHY5OHlBZUdjaGNPLTJEa3Vyam82eFJ3YVVFQ2tC?oc=5\" "
     },
     {
-      "headline": "Iran threatens to close Strait of Hormuz and hit power plants after Trump's 48-hour deadline - PBS",
-      "url": "https://www.pbs.org/newshour/world/iran-threatens-to-close-strait-of-hormuz-and-hit-power-plants-after-trumps-48-hour-deadline",
-      "source": "Daybook: Scheduled Events",
-      "sourceId": "daybook_scheduled",
-      "category": "daybook",
-      "priority": "reference",
-      "date": "Sun, 22 Mar 2026 15:50:14 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQdTk0WGdlcWNyemdPYXQ4cFRrQ2VDcWJ4UnVxajJYV21LS0pOQjB4NEhXeUN3eGo3am00aHJNeWVJbFBEM0o2dFR6VTV3VWR1OWhCSjBvdHZVbHpUdzJ1Z3VWN3BLaUIySUhJRlZ"
-    },
-    {
       "headline": "Bob Harlan's funeral and celebration of life scheduled for today - Green Bay Press-Gazette",
       "url": "https://www.greenbaypressgazette.com/story/sports/nfl/packers/2026/03/23/bob-harlans-funeral-and-celebration-of-life-scheduled-for-today-green-bay-packers/89246668007/",
       "source": "Daybook: Scheduled Events",
@@ -5892,14 +5736,14 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxOck5FSUFqTHNIbTVoN1JjdVZudDF0T05fSm1uQVNhSFNkTG1vSW04OGtnaW9Tc21CdVJRNU1TTmpkRF90TnFlYmd6QkRGY05RdmlyQlBESU1Kc3IyZDdQRHZtdlRDTDU5d2JuX09"
     },
     {
-      "headline": "Iranians Fear Trump’s Threat to Strike Power Plants - The New York Times",
-      "url": "https://www.nytimes.com/2026/03/22/world/middleeast/iran-trump-power-plants.html",
+      "headline": "Iran threatens to close Strait of Hormuz and hit power plants after Trump's 48-hour deadline - PBS",
+      "url": "https://www.pbs.org/newshour/world/iran-threatens-to-completely-close-strait-of-hormuz-and-hit-power-plants-following-trumps-ultimatum",
       "source": "Daybook: Scheduled Events",
       "sourceId": "daybook_scheduled",
       "category": "daybook",
       "priority": "reference",
-      "date": "Mon, 23 Mar 2026 09:59:59 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxObnV6a0FVMmlnbUpiUUZrX3hxZTNwUGswaVNEM1FLdVh4UVVIeXhpYXFRS0pUanRxaGVZcXlPdEpLZ2tmdkdtY3otY0RsOWV2akp0NS1tM3lJNy1DWktKS2FEU0VLemdXX3lXeUV"
+      "date": "Sun, 22 Mar 2026 15:50:14 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQdTk0WGdlcWNyemdPYXQ4cFRrQ2VDcWJ4UnVxajJYV21LS0pOQjB4NEhXeUN3eGo3am00aHJNeWVJbFBEM0o2dFR6VTV3VWR1OWhCSjBvdHZVbHpUdzJ1Z3VWN3BLaUIySUhJRlZ"
     },
     {
       "headline": "The economy has a Strait of Hormuz deadline for Trump: Two weeks - CNBC",
@@ -5932,14 +5776,14 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNWkNuQUh6VUVVRlg4cGZaWlptUk9ZNUJRb2NFYWhVMGNXNHExV1dYdGwwclBRQVY2UGRjQU9vMmRnN3p3MFlieFNfTUtQQUIyRHpFZ1VPUXV4T2lvR2IwWU5yY2xzenBoLVdNWTl"
     },
     {
-      "headline": "Oil Prices Jump Despite Trump’s Iran Threats. His Strait of Hormuz Deadline Nears. - Barron's",
-      "url": "https://www.barrons.com/articles/oil-price-trump-hormuz-brent-wti-d395ce51?gaa_at=eafs&gaa_n=AWEtsqcZJVQ-XQ4axserDksG6QZoDyzq35zOiLDT7HHZOjwR5WZW63qUvnUx&gaa_ts=69c119cf&gaa_sig=PlIGTPkpvq2QH3WgAVZE3e-h0PMEpv1CnKxvJ1HFoQ3S4wRR-0QsYMv0oyPN6yL3eni8oX0oyRTBuSIji9GZbA%3D%3D",
+      "headline": "Trump’s deadline looms on Strait of Hormuz as Iran vows retaliation - NewsNation",
+      "url": "https://www.newsnationnow.com/world/trump-strait-of-hormuz-deadline-iran-vows-retaliation/",
       "source": "Daybook: Scheduled Events",
       "sourceId": "daybook_scheduled",
       "category": "daybook",
       "priority": "reference",
-      "date": "Mon, 23 Mar 2026 08:06:00 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihANBVV95cUxOcFdlRmIwM1hkb2F3MjQ4NXdiWTBwSjFuaUx6c1VqMFdMNjRiNUFMNzFJT2NVczhvMHYySWFINURVVDNMU2dFdlR6ZXJWWGxhM0JMM1AxTElNa2RENXlKaGZ3a09qT0FIeW1iQVR"
+      "date": "Mon, 23 Mar 2026 10:53:46 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOMm1SeE52ck0xMEQ1QXRpMVlxSU1leFpmNDQ4a2doUVF2YkZTQzdpX3pvYmV2TFBlcTFlRlA2MmFYODJmSFhrWlNXZE9xelY5Z0RnN2lpQlY5ek9LcEFuZk41a0ZqRFZOSXBhYVB"
     },
     {
       "headline": "Iran live updates: Trump's 48-hour deadline to expire Monday evening - Yahoo",
@@ -5952,24 +5796,24 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNRzNaTUFtdlJQRkVfaURZQmNHLXNnSkFmRFFjcGdxTVZUVXpyNmxmQV9TNVZMN2xGRTlQbFcyR2pXdDd5VFV4bEoxX1YyWjZXU3Q1Y3RWRGFGOXBtY3UxS2xlNm1hcUJNakdWZHd"
     },
     {
-      "headline": "'Project Hail Mary' $140M+ WW Opening Best YTD For MPA Movie, Breaks Records - Deadline",
-      "url": "https://deadline.com/2026/03/box-office-global-project-hail-mary-1236762532/",
+      "headline": "As Trump’s Deadline Nears, Iranians Dread the Darkness - The New York Times",
+      "url": "https://www.nytimes.com/2026/03/22/world/middleeast/iran-trump-power-plants.html",
       "source": "Daybook: Scheduled Events",
       "sourceId": "daybook_scheduled",
       "category": "daybook",
       "priority": "reference",
-      "date": "Sun, 22 Mar 2026 15:19:00 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOSTRVV09CNWpVc2U2d1BnVUg5ZmZCa0JmZVB2TEJvYTdpYlkxVkNaSzdtRlpJYk5UVm9TV3lDbzVGRThZa1dra2VBakZISnJ5Y05PS2dzRnA4TXp3dkxfTktXcjZuOXJXXzU5d01"
+      "date": "Mon, 23 Mar 2026 02:29:37 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxObnV6a0FVMmlnbUpiUUZrX3hxZTNwUGswaVNEM1FLdVh4UVVIeXhpYXFRS0pUanRxaGVZcXlPdEpLZ2tmdkdtY3otY0RsOWV2akp0NS1tM3lJNy1DWktKS2FEU0VLemdXX3lXeUV"
     },
     {
-      "headline": "Iran War Tensions Spike With Trump’s Two-Day Deadline - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-03-22/iran-war-tensions-spike-with-trump-s-two-day-deadline",
+      "headline": "Oil Prices Jump Despite Trump’s Iran Threats. His Strait of Hormuz Deadline Nears. - Barron's",
+      "url": "https://www.barrons.com/articles/oil-price-trump-hormuz-brent-wti-d395ce51?gaa_at=eafs&gaa_n=AWEtsqej8FNkmIYpjwXjhOBTz4XRKO6vS0MrhKE6HjXlLLn_SOE74GLX8oRP&gaa_ts=69c123f6&gaa_sig=WVNxeRUlH4ZV4VwqknA-w9wqPbh6srEPnA0yUSmiGsGitQaRLit84ryMr-JH8b3mm1djdG1uT4pRm4e174r7Nw%3D%3D",
       "source": "Daybook: Scheduled Events",
       "sourceId": "daybook_scheduled",
       "category": "daybook",
       "priority": "reference",
-      "date": "Sun, 22 Mar 2026 21:30:54 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbFZpVFVZXzVuREtBYWRDc2VWQ1g2VVVhTEtUeG9iUzFLdmpHZnZkS2x3UWNpTmRWXzJ0azNNSjBfemh0cmRnLURueEY3ZE8tTzlCT01QTWVjaFZIOWcyaklDYkg0aGRscmluQ0J"
+      "date": "Mon, 23 Mar 2026 08:06:00 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMihANBVV95cUxNUDlPYThQTXh1U2RyelFLX1RjbkFnWEpaTXVyLVpXRlViQTQwU0psVS1aOFZTcnhRbERSTnJsWE85a1FNYl9jYTBydV9sbkY4QVBZS09IRDJGdF9HYkxZbkhsUS1YNzI5NVFSajZ"
     },
     {
       "headline": "Trump’s next steps with a looming deadline placed for the Strait of Hormuz - CNN",
@@ -5982,6 +5826,16 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQOTliUjFOUE1PRHpwRkNlcUlsT3dpcExPWHBnM2oxR19xTWtPMU5aUWhncTU1TWtmYUN4cHJSQVVyNHVfMTVOOVo1bmQzNDFEVnhhNWJubEhMQ3huamYxWHQ4dkVHU2Nid2djV25"
     },
     {
+      "headline": "Iran War Tensions Spike With Trump’s Two-Day Deadline - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-03-22/iran-war-tensions-spike-with-trump-s-two-day-deadline",
+      "source": "Daybook: Scheduled Events",
+      "sourceId": "daybook_scheduled",
+      "category": "daybook",
+      "priority": "reference",
+      "date": "Sun, 22 Mar 2026 21:30:54 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbFZpVFVZXzVuREtBYWRDc2VWQ1g2VVVhTEtUeG9iUzFLdmpHZnZkS2x3UWNpTmRWXzJ0azNNSjBfemh0cmRnLURueEY3ZE8tTzlCT01QTWVjaFZIOWcyaklDYkg0aGRscmluQ0J"
+    },
+    {
       "headline": "Iran unswayed by Trump's 48-hour deadline and threats to 'obliterate' energy infrastructure - NBC News",
       "url": "https://www.nbcnews.com/video/iran-unswayed-by-trump-s-48-hour-deadline-and-threats-to-obliterate-energy-infrastructure-259832901951",
       "source": "Daybook: Scheduled Events",
@@ -5992,14 +5846,14 @@
       "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOU29EdENrLUdBajhOenhIWEdyVVN3Z3hkS3RQcnFZdWZnQU1XVjBWekdPUEt0ck9WS1h2NmM4QUJ6RXhxelNSV2pVM1FZZk5fNnAyeGdJc1FkcmJ1UjVvY0pqZWthME1GbjhKLXh"
     },
     {
-      "headline": "Starmer to Chair Crisis Meeting as Trump’s Iran Deadline Looms - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-03-22/starmer-to-chair-crisis-meeting-as-trump-s-iran-deadline-looms",
+      "headline": "'Project Hail Mary' $140M+ WW Opening Best YTD For MPA Movie, Breaks Records - Deadline",
+      "url": "https://deadline.com/2026/03/box-office-global-project-hail-mary-1236762532/",
       "source": "Daybook: Scheduled Events",
       "sourceId": "daybook_scheduled",
       "category": "daybook",
       "priority": "reference",
-      "date": "Mon, 23 Mar 2026 07:54:56 GMT",
-      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNdDRtcnNRMV9BSDNzMnZ3VXJYUHZRV3lWcTBmS09BdFpqTG9DOGhVOXRQYTJzc01EUDJVb1Z0eXlKcWhJZGNkS19GazQzTkU0ZkkxaTRMR1IwYVBJd1RZa0FEZ3BEbHVtcWNTdEd"
+      "date": "Sun, 22 Mar 2026 15:19:00 GMT",
+      "description": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOSTRVV09CNWpVc2U2d1BnVUg5ZmZCa0JmZVB2TEJvYTdpYlkxVkNaSzdtRlpJYk5UVm9TV3lDbzVGRThZa1dra2VBakZISnJ5Y05PS2dzRnA4TXp3dkxfTktXcjZuOXJXXzU5d01"
     }
   ],
   "watchCandidates": [
@@ -6021,7 +5875,7 @@
       ]
     },
     {
-      "headline": "China warns of 'vicious cycle' if war escalates in Middle East - Reuters",
+      "headline": "China urges US, Israel to stop military action in Middle East, warns of 'vicious cycle' - Reuters",
       "url": "https://www.reuters.com/world/china/china-warns-vicious-cycle-if-war-escalates-middle-east-2026-03-23/",
       "source": "Reuters",
       "sourceId": "reuters_world",
@@ -6089,44 +5943,6 @@
       ]
     },
     {
-      "headline": "Stocks tumble as Trump and Iran step up threats",
-      "url": "https://www.ft.com/content/06db9d82-01f3-49ba-951c-3bb784ae4eb2",
-      "source": "Financial Times",
-      "sourceId": "ft_home",
-      "category": "business",
-      "priority": "primary",
-      "date": "Mon, 23 Mar 2026 02:50:17 GMT",
-      "description": "Missile salvos across the region resume ahead of US deadline for Iran to open Strait of Hormuz",
-      "watchCandidate": true,
-      "watchSignals": [
-        {
-          "category": "temporal",
-          "matched": "ahead of"
-        },
-        {
-          "category": "scheduled",
-          "matched": "deadline"
-        }
-      ]
-    },
-    {
-      "headline": "‘It’s always Putin’ behind every EU migration crisis, official says",
-      "url": "https://www.ft.com/content/775150ca-4eb4-4761-837d-047c3e8b18c7",
-      "source": "Financial Times",
-      "sourceId": "ft_home",
-      "category": "business",
-      "priority": "primary",
-      "date": "Mon, 23 Mar 2026 05:00:25 GMT",
-      "description": "Russian president is ‘biggest driver’ of immigration due to his role in wars over past decade, says EU commissioner",
-      "watchCandidate": true,
-      "watchSignals": [
-        {
-          "category": "temporal",
-          "matched": "due to"
-        }
-      ]
-    },
-    {
       "headline": "New Zealand PM’s ratings dip as fragile economy fails to impress before November election, poll shows",
       "url": "https://www.theguardian.com/world/2026/mar/23/new-zealand-pm-luxon-ratings-dip-fragile-economy-november-election-poll",
       "source": "Guardian",
@@ -6150,8 +5966,8 @@
       "sourceId": "nyt_world",
       "category": "general",
       "priority": "secondary",
-      "date": "Mon, 23 Mar 2026 08:25:30 +0000",
-      "description": "Tensions in the opposition Nationalist Party could surface this week as lawmakers debate defense funding intended to counter Beijing’s growing might.",
+      "date": "Mon, 23 Mar 2026 10:29:21 +0000",
+      "description": "Tensions in the opposition Nationalist Party could surface this week as lawmakers argue over additional defense funding intended to counter Beijing’s growing might.",
       "watchCandidate": true,
       "watchSignals": [
         {
@@ -6295,40 +6111,6 @@
           "matched": "election"
         }
       ]
-    },
-    {
-      "headline": "Live: Iran faces Trump's Hormuz ultimatum as IEA warns of worst global energy crisis in decades",
-      "url": "https://www.france24.com/en/middle-east/20260323-live-iran-trump-strike-iea-worst-energy-crisis",
-      "source": "France24",
-      "sourceId": "france24",
-      "category": "wire",
-      "priority": "secondary",
-      "date": "Mon, 23 Mar 2026 01:52:22 GMT",
-      "description": "",
-      "watchCandidate": true,
-      "watchSignals": [
-        {
-          "category": "escalation",
-          "matched": "ultimatum"
-        }
-      ]
-    },
-    {
-      "headline": "Iran threatens to cripple Gulf water, energy systems after Trump ultimatum",
-      "url": "https://www.france24.com/en/middle-east/20260322-iran-gulf-water-energy-threat-trump-ultimatum",
-      "source": "France24",
-      "sourceId": "france24",
-      "category": "wire",
-      "priority": "secondary",
-      "date": "Sun, 22 Mar 2026 22:57:57 GMT",
-      "description": "",
-      "watchCandidate": true,
-      "watchSignals": [
-        {
-          "category": "escalation",
-          "matched": "threatens to"
-        }
-      ]
     }
   ],
   "screenshots": [
@@ -6341,15 +6123,15 @@
       "priority": "primary",
       "topHeadlines": [
         "Pilot and copilot killed in collision between jet and fire truck at New York’s LaGuardia Airport",
-        "Photos show the scene of a collision on a runway at LaGuardia Airport in New York",
         "Photos from the scene of the collision",
-        "Jewish charity’s ambulances set on fire. UK police investigate it as an antisemitic attack",
+        "Trump’s changing course on Strait of Hormuz strategy raises questions about US war preparation",
+        "Iran threatens to attack Middle East electrical plants powering US bases",
+        "Global economy faces major threat, International Energy Agency head says",
+        "Jewish charity’s ambulances set on fire in what UK police investigate as an antisemitic attack",
         "ICE officers will begin assisting TSA as shutdown frustrates travels and screeners",
         "Rahm Emanuel proposes banning all federal employees from betting on prediction markets",
         "AAPI adults mostly think Trump has done more harm than good on immigration, new poll finds",
-        "Trump places statue of Christopher Columbus near the White House",
-        "Minnesota Wild reporter Jessi Pierce and her 3 children found dead in house fire, league says",
-        "Banksy ‘unmasking’ by media raises questions about art and identity"
+        "Trump places statue of Christopher Columbus near the White House"
       ]
     },
     {
@@ -6369,7 +6151,7 @@
       "category": "priority_signal",
       "priority": "primary",
       "topHeadlines": [
-        "Starmer and Trump discuss need to open Hormuz strait as Israel warns 'weeks' of fighting to come",
+        "Trump says US and Iran have held talks on 'complete and total resolution of hostilities' in Middle East",
         "Stocks slide and oil rises as US and Iran threaten to escalate war",
         "How a ban on religious symbols has triggered a Canadian constitutional debate",
         "Israeli settlers target Palestinian villages in occupied West Bank, attacking people and properties",
@@ -6377,7 +6159,7 @@
         "France's Socialists hold on to power in major cities in election boost for mainstream",
         "UN issues new climate warning as El Niño looms",
         "Germany has a shortage of workers - so it's turning to India for help",
-        "Jewish charity ambulances set on fire, with PM calling it 'deeply shocking antisemitic attack'",
+        "Four Jewish charity ambulances set on fire, with police due to give update",
         "HK police can now demand phone passwords under new national security rules"
       ]
     },
